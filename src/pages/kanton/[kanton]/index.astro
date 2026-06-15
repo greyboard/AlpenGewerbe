@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
 import { CH_KANTONE } from '../../../data/kantone';
-import { branchenLabel } from '../../../config/branchenLabels';
+import { branchenLabel, toOrtSlug } from '../../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const { CH_KANTONE } = await import('../../../data/kantone');
@@ -40,12 +40,7 @@ for (const c of companies) {
 }
 const topOrte = [...orteCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10);
 
-function ortSlug(ort: string) {
-  return ort.toLowerCase()
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')
-    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
-    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-}
+const ortSlug = toOrtSlug;
 ---
 
 <BaseLayout

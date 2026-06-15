@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import CompanyCard from '../../components/CompanyCard.astro';
 import { seoTexts, seoFallback } from '../../config/seoTexts.js';
-import { branchenLabel } from '../../config/branchenLabels';
+import { branchenLabel, toOrtSlug } from '../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const companies = await getCollection('companies');
@@ -11,7 +11,7 @@ export async function getStaticPaths() {
   const paths: Array<{ params: { branche: string; ort: string }; props: { branche: string; ortLabel: string; companies: typeof companies[0]['data'][] } }> = [];
 
   for (const entry of companies) {
-    const ortSlug = entry.data.adresse.ort.toLowerCase().replace(/\s+/g, '-');
+    const ortSlug = toOrtSlug(entry.data.adresse.ort);
     for (const branche of entry.data.branchen) {
       paths.push({
         params: { branche, ort: ortSlug },

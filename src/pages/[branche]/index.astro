@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import CompanyCard from '../../components/CompanyCard.astro';
 import { seoTexts, seoFallback } from '../../config/seoTexts.js';
-import { branchenLabel } from '../../config/branchenLabels';
+import { branchenLabel, toOrtSlug } from '../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const companies = await getCollection('companies');
@@ -21,7 +21,7 @@ export async function getStaticPaths() {
 }
 
 const { branche, companies } = Astro.props;
-const orte = [...new Set(companies.map((c) => c.adresse.ort.toLowerCase().replace(/\s+/g, '-')))];
+const orte = [...new Set(companies.map((c) => toOrtSlug(c.adresse.ort)))];
 const brancheLabel = branchenLabel(branche);
 
 const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;

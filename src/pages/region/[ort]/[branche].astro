@@ -3,24 +3,10 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
 import { seoTexts, seoFallback } from '../../../config/seoTexts.js';
-import { branchenLabel } from '../../../config/branchenLabels';
-
-function toSlug(str: string) {
-  return str.trim().toLowerCase()
-    .normalize('NFD').replace(/[̀-ͯ]/g, '')
-    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
-    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-}
+import { branchenLabel, toOrtSlug } from '../../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const companies = await getCollection('companies');
-
-  function toSlug(str: string) {
-    return str.trim().toLowerCase()
-      .normalize('NFD').replace(/[̀-ͯ]/g, '')
-      .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
-      .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-  }
 
   // Ort → Einträge
   const ortMap = new Map<string, {
@@ -32,7 +18,7 @@ export async function getStaticPaths() {
     const ort  = entry.data.adresse.ort?.trim();
     const land = entry.data.adresse.land;
     if (!ort) continue;
-    const slug = toSlug(ort);
+    const slug = toOrtSlug(ort);
     const prev = ortMap.get(slug);
     if (prev) prev.entries.push(entry.data);
     else ortMap.set(slug, { label: ort, land, entries: [entry.data] });

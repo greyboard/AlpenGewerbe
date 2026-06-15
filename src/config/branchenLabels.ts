@@ -30,3 +30,10 @@ const LABELS: Record<string, string> = {
 export function branchenLabel(slug: string): string {
   return LABELS[slug.toLowerCase()] ?? (slug.charAt(0).toUpperCase() + slug.slice(1));
 }
+
+export function toOrtSlug(ort: string): string {
+  return ort.trim().toLowerCase()
+    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}

@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { CH_KANTONE } from '../data/kantone';
-import { branchenLabel } from '../config/branchenLabels';
+import { branchenLabel, toOrtSlug } from '../config/branchenLabels';
 
 const companies    = await getCollection('companies');
 const companiesData = companies.map((e) => e.data);
@@ -29,7 +29,7 @@ const topBranchenMitOrte = topBranchen.map(([branche, count]) => {
   const topOrte = [...ortCount.entries()]
     .sort((a, b) => b[1] - a[1])
     .slice(0, 5)
-    .map(([ort]) => ({ name: ort, slug: ort.toLowerCase().replace(/\s+/g, '-') }));
+    .map(([ort]) => ({ name: ort, slug: toOrtSlug(ort) }));
   return { branche, count, topOrte };
 });
 
