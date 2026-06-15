@@ -41,13 +41,10 @@ export async function getStaticPaths() {
 const { branche, ortLabel, companies } = Astro.props;
 const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
 
-// SEO-Text: branchen-spezifisch oder Fallback
-const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? {
-  h2: seoFallback.h2.replace('{branche}', brancheLabel),
-  text: seoFallback.text.replace('{branche}', brancheLabel),
-};
-const seoH2 = seoEntry.h2.replace('{ort}', ortLabel);
-const seoText = seoEntry.text.replace(/\{ort\}/g, ortLabel);
+const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;
+const heroText = (seoEntry.heroText ?? seoFallback.heroText)
+  .replace(/\{ort\}/g, ortLabel)
+  .replace(/\{branche\}/g, brancheLabel);
 ---
 
 <BaseLayout
@@ -56,7 +53,7 @@ const seoText = seoEntry.text.replace(/\{ort\}/g, ortLabel);
 >
   <!-- Breadcrumb -->
   <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5">
       <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
         <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
         <li aria-hidden="true">›</li>
@@ -69,17 +66,18 @@ const seoText = seoEntry.text.replace(/\{ort\}/g, ortLabel);
 
   <!-- Hero -->
   <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h1 class="text-white mb-3">{brancheLabel} in {ortLabel}</h1>
-      <p class="text-white/70 text-lg max-w-xl">
-        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} in {ortLabel} und Umgebung.
+      <p class="text-white/80 text-base max-w-2xl mb-3">{heroText}</p>
+      <p class="text-white/60 text-sm">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} in {ortLabel} und Umgebung
       </p>
     </div>
   </section>
 
   <!-- Betriebsliste -->
   <section class="py-10 lg:py-14 bg-[#F9FAFB]">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       {companies.length > 0 ? (
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
           {companies.map((company) => (
@@ -108,12 +106,5 @@ const seoText = seoEntry.text.replace(/\{ort\}/g, ortLabel);
     </div>
   </section>
 
-  <!-- SEO-Textblock -->
-  <section class="py-10 bg-white border-t border-(--color-border)">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6">
-      <h2 class="text-xl font-semibold mb-3">{seoH2}</h2>
-      <p class="text-(--color-text-muted) leading-relaxed">{seoText}</p>
-    </div>
-  </section>
 
 </BaseLayout>

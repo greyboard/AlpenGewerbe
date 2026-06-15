@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
+import { seoTexts, seoFallback } from '../../../config/seoTexts.js';
 
 function toSlug(str: string) {
   return str.trim().toLowerCase()
@@ -60,6 +61,11 @@ export async function getStaticPaths() {
 
 const { ortLabel, ortSlug, land, branche, companies } = Astro.props;
 const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
+
+const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;
+const heroText = (seoEntry.heroText ?? seoFallback.heroText)
+  .replace(/\{ort\}/g, ortLabel)
+  .replace(/\{branche\}/g, brancheLabel);
 ---
 
 <BaseLayout
@@ -67,7 +73,7 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
   description={`${companies.length} ${brancheLabel}-Betriebe in ${ortLabel}. Kontakt, Adressen und Bewertungen auf AlpenGewerbe.`}
 >
   <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5">
       <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
         <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
         <li aria-hidden="true">›</li>
@@ -79,7 +85,7 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
   </nav>
 
   <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center gap-2 mb-3 text-white/60 text-sm font-medium">
         <span class="text-xl">{land === 'LI' ? '🇱🇮' : '🇨🇭'}</span>
         <span>{ortLabel}</span>
@@ -87,15 +93,16 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
         <span class="capitalize">{branche}</span>
       </div>
       <h1 class="text-white mb-3">{brancheLabel} in {ortLabel}</h1>
-      <p class="text-white/70 text-lg max-w-xl">
-        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} gefunden.
+      <p class="text-white/80 text-base max-w-2xl mb-3">{heroText}</p>
+      <p class="text-white/60 text-sm">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} gefunden
       </p>
     </div>
   </section>
 
   <!-- Zurück-Link zur Ortsseite -->
   <section class="bg-(--color-surface-alt) border-b border-(--color-border) py-3">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 flex items-center gap-3">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center gap-3">
       <a href={`/region/${ortSlug}/`}
          class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm font-medium
                 bg-white border border-(--color-border) text-(--color-text)
@@ -112,7 +119,7 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
   </section>
 
   <section class="py-10 lg:py-14 bg-[#F9FAFB]">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
         {companies.map((company) => (
           <div class="animate-on-scroll">

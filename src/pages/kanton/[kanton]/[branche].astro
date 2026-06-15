@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
 import { CH_KANTONE } from '../../../data/kantone';
+import { seoTexts, seoFallback } from '../../../config/seoTexts.js';
 
 export async function getStaticPaths() {
   const { CH_KANTONE } = await import('../../../data/kantone');
@@ -41,6 +42,11 @@ export async function getStaticPaths() {
 const { kantonName, kürzel, kantonSlug, branche, companies } = Astro.props;
 const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
 
+const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;
+const heroText = (seoEntry.heroText ?? seoFallback.heroText)
+  .replace(/\{ort\}/g, `Kanton ${kantonName}`)
+  .replace(/\{branche\}/g, brancheLabel);
+
 // Top-Städte in Kanton + Branche
 const orteCount = new Map<string, number>();
 for (const c of companies) {
@@ -63,7 +69,7 @@ function ortSlug(ort: string) {
 >
   <!-- Breadcrumb -->
   <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5">
       <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
         <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
         <li aria-hidden="true">›</li>
@@ -76,7 +82,7 @@ function ortSlug(ort: string) {
 
   <!-- Hero -->
   <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center gap-2 mb-3 text-white/60 text-sm font-medium">
         <span class="bg-white/15 px-2 py-0.5 rounded text-xs font-bold tracking-wider">{kürzel}</span>
         <span>{kantonName}</span>
@@ -84,29 +90,18 @@ function ortSlug(ort: string) {
         <span class="capitalize">{branche}</span>
       </div>
       <h1 class="text-white mb-3">{brancheLabel} im Kanton {kantonName}</h1>
-      <p class="text-white/70 text-lg max-w-xl">
-        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} gefunden.
+      <p class="text-white/80 text-base max-w-2xl mb-3">{heroText}</p>
+      <p class="text-white/60 text-sm">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} gefunden
       </p>
 
-      {topOrte.length > 1 && (
-        <div class="flex flex-wrap gap-2 mt-5">
-          {topOrte.slice(0, 6).map(([ort, count]) => (
-            <a href={`/${branche}/${ortSlug(ort)}/`}
-               class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-white/80
-                      text-sm font-medium hover:bg-white/20 transition-colors">
-              {ort}
-              <span class="text-white/50 text-xs">{count}</span>
-            </a>
-          ))}
-        </div>
-      )}
     </div>
   </section>
 
   <!-- Stadtfilter -->
   {topOrte.length > 1 && (
     <section class="bg-(--color-surface-alt) border-b border-(--color-border) py-4">
-      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <p class="text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2">Nach Stadt filtern</p>
         <div class="flex flex-wrap gap-2">
           <a href={`/kanton/${kantonSlug}/${branche}/`}
@@ -127,7 +122,7 @@ function ortSlug(ort: string) {
 
   <!-- Betriebsliste -->
   <section class="py-10 lg:py-14 bg-[#F9FAFB]">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
         {companies.map((company) => (
           <div class="animate-on-scroll">

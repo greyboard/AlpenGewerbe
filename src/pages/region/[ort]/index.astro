@@ -67,7 +67,7 @@ const isSchweizOverview = ortLabel === 'Schweiz';
   description={`${companies.length} Handwerksbetriebe in ${ortLabel}. Schreiner, Elektriker, Maler und mehr auf AlpenGewerbe.`}
 >
   <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5">
       <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
         <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
         <li aria-hidden="true">›</li>
@@ -77,32 +77,23 @@ const isSchweizOverview = ortLabel === 'Schweiz';
   </nav>
 
   <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center gap-3 mb-3">
         <span class="text-3xl">{land === 'LI' ? '🇱🇮' : '🇨🇭'}</span>
         <h1 class="text-white">Handwerker in {ortLabel}</h1>
       </div>
-      <p class="text-white/70 text-lg max-w-xl">
-        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} in {isSchweizOverview ? 'der ganzen Schweiz' : ortLabel}.
+      <p class="text-white/80 text-base max-w-2xl mb-3">
+        Handwerksbetriebe in {isSchweizOverview ? 'der ganzen Schweiz' : ortLabel} für Bau, Ausbau, Gebäudetechnik und Garten. Adressen, Kontaktdaten und Google-Bewertungen auf einen Blick.
       </p>
-      {topBranchen.length > 0 && (
-        <div class="flex flex-wrap gap-2 mt-5">
-          {topBranchen.slice(0, 6).map(([branche, count]) => (
-            <a href={`/region/${ortSlug}/${branche}/`}
-               class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-white/80
-                      text-sm font-medium hover:bg-white/20 transition-colors capitalize">
-              {branche}
-              <span class="text-white/50 text-xs">{count}</span>
-            </a>
-          ))}
-        </div>
-      )}
+      <p class="text-white/60 text-sm">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} {isSchweizOverview ? 'in der ganzen Schweiz' : `in ${ortLabel}`}
+      </p>
     </div>
   </section>
 
   {topBranchen.length > 1 && (
     <section class="bg-(--color-surface-alt) border-b border-(--color-border) py-4">
-      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <p class="text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2">Nach Branche filtern</p>
         <div class="flex flex-wrap gap-2">
           {topBranchen.map(([branche, count]) => (
@@ -118,7 +109,7 @@ const isSchweizOverview = ortLabel === 'Schweiz';
   )}
 
   <section class="py-10 lg:py-14 bg-[#F9FAFB]">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       {companies.length > 0 ? (
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
           {companies.map((company) => (

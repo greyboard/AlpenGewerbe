@@ -60,7 +60,7 @@ const showDescription = description && (accountStatus === 'business' || accountS
 
   <!-- ── Breadcrumb ─────────────────────────────────────────────────── -->
   <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5">
       <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)" itemscope itemtype="https://schema.org/BreadcrumbList">
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
           <a href="/" itemprop="item" class="hover:text-(--color-primary) transition-colors">
@@ -85,7 +85,7 @@ const showDescription = description && (accountStatus === 'business' || accountS
 
   <!-- ── Hero / Header ──────────────────────────────────────────────── -->
   <section class="bg-white border-b border-(--color-border) py-10 lg:py-14">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 grid lg:grid-cols-[1.4fr_0.6fr] gap-8 items-start">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid lg:grid-cols-[1.4fr_0.6fr] gap-8 items-start">
 
       <!-- Links: Name + Meta -->
       <div>
@@ -174,7 +174,7 @@ const showDescription = description && (accountStatus === 'business' || accountS
 
   <!-- ── Beschreibung / Paywall ───────────────────────────────────── -->
   <section class="py-8 bg-white border-b border-(--color-border)">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       {showDescription ? (
         <>
           <h2 class="text-xl font-semibold mb-3">Über den Betrieb</h2>
@@ -211,7 +211,7 @@ const showDescription = description && (accountStatus === 'business' || accountS
   <!-- ── Leistungen + Öffnungszeiten ───────────────────────────────── -->
   {(leistungen?.length || openingHours?.length) && (
     <section class="py-8 bg-(--color-surface-alt) border-b border-(--color-border)">
-      <div class="max-w-6xl mx-auto px-4 sm:px-6 grid sm:grid-cols-2 gap-8">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid sm:grid-cols-2 gap-8">
 
         {leistungen?.length && (
           <div>
@@ -272,7 +272,7 @@ const showDescription = description && (accountStatus === 'business' || accountS
   <!-- ── Google-Bewertungen ─────────────────────────────────────────── -->
   {ratingCached && ratingCached.reviews.length > 0 && (
     <section class="py-12 lg:py-16 bg-(--color-surface-alt)">
-      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 class="mb-2 animate-on-scroll">Kundenbewertungen</h2>
         <p class="text-(--color-text-muted) mb-8 animate-on-scroll">
           {ratingCached.user_ratings_total} Bewertungen auf Google &middot; Ø {ratingCached.rating.toFixed(1)} von 5 Sternen
@@ -322,7 +322,7 @@ const showDescription = description && (accountStatus === 'business' || accountS
 
   <!-- ── CTA ───────────────────────────────────────────────────────── -->
   <section class="py-12 bg-(--color-primary)">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-5">
       <p class="text-white text-lg font-semibold">Ist das Ihr Betrieb? Daten aktualisieren oder Eintrag verwalten.</p>
       <a href="/betrieb/eintragen/"
          class="inline-flex items-center gap-2 bg-white text-(--color-primary-text) px-6 py-3 rounded-lg font-semibold text-sm

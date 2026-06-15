@@ -69,7 +69,7 @@ const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
             <div
               id="panel-branchen"
               role="menu"
-              class="absolute left-1/2 -translate-x-1/2 top-full mt-1 w-72 rounded-xl border border-(--color-border)
+              class="absolute left-1/2 -translate-x-1/2 top-full mt-1 w-96 rounded-xl border border-(--color-border)
                      bg-white shadow-xl ring-1 ring-black/5
                      opacity-0 invisible translate-y-1
                      group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
@@ -132,19 +132,19 @@ const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
             <div
               id="panel-regionen"
               role="menu"
-              class="absolute left-1/2 -translate-x-1/2 top-full mt-1 w-[600px] rounded-xl border border-(--color-border)
+              class="absolute left-1/2 -translate-x-1/2 top-full mt-1 w-[820px] rounded-xl border border-(--color-border)
                      bg-white shadow-xl ring-1 ring-black/5
                      opacity-0 invisible translate-y-1
                      group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
                      transition-all duration-200 ease-out z-50"
             >
-              <div class="p-4 grid grid-cols-[1fr_180px] gap-4">
+              <div class="p-4 grid grid-cols-[1fr_200px] gap-5">
                 <!-- Schweiz -->
                 <div>
                   <p class="px-1 py-1 text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2 flex items-center gap-1.5">
                     <span>🇨🇭</span> Schweiz – 26 Kantone
                   </p>
-                  <div class="grid grid-cols-3 gap-0.5">
+                  <div class="grid grid-cols-4 gap-0.5">
                     {[
                       ['aargau',                     'Aargau',                  'AG'],
                       ['appenzell-ausserrhoden',     'App. Ausserrhoden',       'AR'],

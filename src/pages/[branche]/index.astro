@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import CompanyCard from '../../components/CompanyCard.astro';
+import { seoTexts, seoFallback } from '../../config/seoTexts.js';
 
 export async function getStaticPaths() {
   const companies = await getCollection('companies');
@@ -21,6 +22,11 @@ export async function getStaticPaths() {
 const { branche, companies } = Astro.props;
 const orte = [...new Set(companies.map((c) => c.adresse.ort.toLowerCase().replace(/\s+/g, '-')))];
 const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
+
+const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;
+const heroText = (seoEntry.heroText ?? seoFallback.heroText)
+  .replace(/\{ort\}/g, 'der Alpenregion')
+  .replace(/\{branche\}/g, brancheLabel);
 ---
 
 <BaseLayout
@@ -29,7 +35,7 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
 >
   <!-- Breadcrumb -->
   <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5">
       <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
         <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
         <li aria-hidden="true">›</li>
@@ -40,10 +46,11 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
 
   <!-- Hero -->
   <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h1 class="text-white mb-3">{brancheLabel} in der Alpenregion</h1>
-      <p class="text-white/70 text-lg max-w-xl">
-        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} in der Schweiz und Liechtenstein gefunden.
+      <p class="text-white/80 text-base max-w-2xl mb-3">{heroText}</p>
+      <p class="text-white/60 text-sm">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} in der Schweiz und Liechtenstein
       </p>
     </div>
   </section>
@@ -51,7 +58,7 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
   <!-- Regionale Filter -->
   {orte.length > 1 && (
     <section class="bg-(--color-surface-alt) border-b border-(--color-border) py-4">
-      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <p class="text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2">Nach Ort filtern</p>
         <div class="flex flex-wrap gap-2">
           <a href={`/${branche}/`}
@@ -72,7 +79,7 @@ const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
 
   <!-- Betriebsliste -->
   <section class="py-10 lg:py-14 bg-[#F9FAFB]">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
         {companies.map((company) => (
           <div class="animate-on-scroll">
