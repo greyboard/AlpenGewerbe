@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJL6kuD4k5jkcR_AC1z7iLApg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Daigon Minotti",
+        "author_photo": "/images/reviews/kohler-elektro-bern-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit dem Service. Die Arbeit wurde äusserst zuverlässig und pünktlich ausgeführt. Besonders beeindruckt hat mich die hohe Qualität der Reparatur sowie die sorgfältige Erklärung der durchgeführten Schritte. Vielen Dank für den professionellen Einsatz – ich kann Kohler Elektro Bern AG bestens weiterempfehlen.",
+        "time": 1763579245,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "tobias durband",
+        "author_photo": "/images/reviews/kohler-elektro-bern-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Meine Ladestation wurde zeitnah montiert. Für die Installation in einer Mietgarage wurde eine gute, kostenberücksichtigende und pragmatische Lösung gefunden und sauber und schön umgesetzt. Der Kontakt war informativ und zuvorkommend.\nVollumfänglich zufrieden, 5/5",
+        "time": 1762180772,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Bieri Daniel",
+        "author_photo": "/images/reviews/kohler-elektro-bern-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir als SST GmbH sind enorm stolz, Sie als Kunde haben zu dürfen!!!!\nGeniale Menschen die Kohler Elektro AG!!",
+        "time": 1772370799,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "David Rauber",
+        "author_photo": "/images/reviews/kohler-elektro-bern-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Für die Installation unseres Tesla Wall Connectors wurde und Kohler Elektro von Tesla empfohlen. Top Service. Freundliche und hilfsbereite Mitarbeiter. Rechnungsstellung speditiv und Kosten exakt wie vereinbart.\nHerzlichen Dank und gerne wieder.",
+        "time": 1742571699,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "HP INSPI",
+        "author_photo": "/images/reviews/kohler-elektro-bern-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Kohler Elektro Bern AG hat uns kurzfristig bei einem Umbau unterstützt, da ein anderer Elektriker ausgefallen ist. Herr Gerber hat unsere Bedürfnisse gut aufgenommen und trotz der Kurzfristigkeit konnten alle wichtigen Arbeiten gemacht werden, sodass die neuen Mietenden pünktlich einziehen konnten. Fazit: Zuverlässig, helfen aus der Patsche und unkompliziert in der Kommunikation.",
+        "time": 1741794549,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

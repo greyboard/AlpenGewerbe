@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJUX76hME5kEcRzXGx8C5oYeU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 69,
+    "reviews": [
+      {
+        "author_name": "Iris Gautschi",
+        "author_photo": "/images/reviews/schreinerei-haener-niedergoesgen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Häner hat die komplette Inneneinrichtung meines Tinyhauses angefertigt. Für die Beratung im Vorfeld haben sie sich viel Zeit genommen und meine Ideen rundum erfasst. Die Umsetzung war top! Ich bin begeistert vom Ergebnis und von der sorgfältigen, hochprofessionellen Arbeit. Auch das Zeitmanagement mit den anderen Handwerkern hat einwandfrei funktioniert. Ich danke euch herzlich für die gute und zuverlässige Zusammenarbeit.",
+        "time": 1769595964,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Sabrina Güdel",
+        "author_photo": "/images/reviews/schreinerei-haener-niedergoesgen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unser Projekt ist schon eine Weile her, aber wir erfreuen uns noch immer jeden Tag daran. Die Schreinerei Häner hat uns einen wunderschönen Garderobenschrank geplant und gebaut. Er ist ein Highlight in unserem Haus, passt perfekt und wir wurden sehr gut beraten. Noch am Einbautag wurden Änderungen vorgeschlagen und prompt umgesetzt. Sogar an einen Aufprallschutz an der Haustür wurde gedacht, so gut.\nEine Herzensempfehlung für diese Firma.",
+        "time": 1769794946,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Marc Godat",
+        "author_photo": "/images/reviews/schreinerei-haener-niedergoesgen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Qualitativ hochwertige, sehr saubere Arbeit (in unserem Fall trotz äusserst knappen Platzverhältnissen) UND super kundenorientierter Service! Wir haben viel Freude an unseren Fenstersimsen und der neuen Garderobe; vielen Dank!",
+        "time": 1756834275,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Dorothea Rosser",
+        "author_photo": "/images/reviews/schreinerei-haener-niedergoesgen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Häner hat uns eine smarte, elegante Küche eingebaut, die individuell auf unsere Situation und unseren Geschmack angepasst wurde. Alles funktioniert tip-top, wir freuen uns täglich darüber.",
+        "time": 1732382266,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Olga Miller",
+        "author_photo": "/images/reviews/schreinerei-haener-niedergoesgen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut glücklich mit der  Schreinerei Häner. Die für uns angefertigten Objekte sind einfach toll, nachhaltig und gut durchdacht. Danke für eure Ideen, unkomplizierte Abwicklung und top Umsetzung!",
+        "time": 1762896793,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

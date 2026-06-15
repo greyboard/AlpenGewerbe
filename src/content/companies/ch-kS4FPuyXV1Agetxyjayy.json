@@ -26,5 +26,30 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJv2PpvZlDhUcRTrCjxNLFIUg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "P. J. Strahleman",
+        "author_photo": "/images/reviews/walter-kempf-heizungen-und-san-anlagen-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden.\nGrund:\nPünktlich , zuverlässig , Qualität Arbeit und Preis wert.",
+        "time": 1548665898,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Heidi Malin",
+        "author_photo": "/images/reviews/walter-kempf-heizungen-und-san-anlagen-altdorf/reviewer_2.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1491118076,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

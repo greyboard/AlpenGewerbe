@@ -26,5 +26,47 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-xkcjGOHn6QRVnooK8mJ1pw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Niki Touloupa",
+        "author_photo": "/images/reviews/synergia-elektro-ag-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service von Anfang bis Ende. Das Team war pünktlich, professionell und hat die Elektroinstallation mit grosser Liebe zum Detail ausgeführt. Sie haben den Arbeitsplatz blitzsauber hinterlassen und sich die Zeit genommen, alles verständlich zu erklären. Absolut empfehlenswert für alle, die eine zuverlässige Elektroinstallation suchen!",
+        "time": 1775769019,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Ruben Garcia",
+        "author_photo": "/images/reviews/synergia-elektro-ag-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Zusammenarbeit, pünktlich und zuverlässig!",
+        "time": 1778509541,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Luca Bibic",
+        "author_photo": "/images/reviews/synergia-elektro-ag-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir waren sehr zufrieden. Der Auftrag wurde schnell, kompetent und freundlich ausgeführt. Gerne wieder.",
+        "time": 1775765514,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

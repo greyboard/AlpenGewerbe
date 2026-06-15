@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBZso0X2AmkcRnyZWtxgnZQU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Roland Heller",
+        "author_photo": "/images/reviews/sigg-holzbau-ag-thayngen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sigg Holzbau AG!\nDie Adresse für Kompetenz, Freundlichkeit und top Job in allen belangen. Preis-Leistungs-Verhältnis stimmt zu 100%. Ich kann die Firma nur weiterempfehlen.",
+        "time": 1713724936,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Astrid Pacitto",
+        "author_photo": "/images/reviews/sigg-holzbau-ag-thayngen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top-Ablauf von der Offertstellung bis zur Fertigstellung. Schnell, kompetent, saubere Arbeit, freundliches Personal. Herzlichen Dank, gerne wieder. Diese Firma empfehle ich gerne weiter.",
+        "time": 1731568670,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Benjamin Imthurn",
+        "author_photo": "/images/reviews/sigg-holzbau-ag-thayngen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert:\nOffertanfrage innerhalb von 2 Tagen beantwortet, sehr engagiert beraten und unkompliziert und sauber umgesetzt.\nSo stellt man sich die Zusammenarbeit mit einem Handwerker vor.\nDanke, gerne wieder!",
+        "time": 1778154595,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Elisabeth Knechtle",
+        "author_photo": "/images/reviews/sigg-holzbau-ag-thayngen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1695562078,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ben O",
+        "author_photo": "/images/reviews/sigg-holzbau-ag-thayngen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1736064573,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJE2v0AdyBmkcRKP_lcTXChwg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Valdet Hoti",
+        "author_photo": "/images/reviews/schaeuble-bodenbelaege-gmbh-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Schäuble Bodenbeläge ist eine super und Kundenorientierte Firma.\nNebst der professionalität schauen die Schäuble auch für die Umwelt und sind sehr Nachhaltig.\nSuper Firma im Raum Schaffhausen, kann ich nur weiter empfehlen!",
+        "time": 1679941266,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marcel Herd",
+        "author_photo": "/images/reviews/schaeuble-bodenbelaege-gmbh-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sensationelle Arbeit, wir haben unsere Treppe von Samuel aufdoppeln lassen und sind von der Genauigkeit und der Akribie der Arbeit begeistert. Zudem ist die Preisgestaltung überaus fair. Die Schäubles sind absolut zu empfehlen!",
+        "time": 1511003535,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

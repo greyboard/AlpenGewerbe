@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJP3NX4TblmkcRoaut0GVt8Bk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Marco Weilenmann",
+        "author_photo": "/images/reviews/hbs-systemabdichtungen-ag-riedt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe die Firma HBT als seriöser, zuverlässiger und fairen Partner kennengelernt. Werden die Firma HBT auch in Zukunft berücksichtigen.",
+        "time": 1742968694,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alem Karalic",
+        "author_photo": "/images/reviews/hbs-systemabdichtungen-ag-riedt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit ist sehr angenehm und die Kommunikation klar und unkompliziert. Ich freue mich auf das nächste Mal.",
+        "time": 1750075560,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Angela R. Jones",
+        "author_photo": "/images/reviews/hbs-systemabdichtungen-ag-riedt/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Arbeit, gute Beratung und Offerte erhalten. Termine wurden eingehalten. Die Baustelle sehr sauber verlassen nach getaner Arbeit.",
+        "time": 1730194646,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Galli Immo-Service AG",
+        "author_photo": "/images/reviews/hbs-systemabdichtungen-ag-riedt/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit ist immer sehr angenehm. Die Kommunikation ist klar und unkompliziert, und Herausforderungen wurden immer schnell und effizient gelöst.",
+        "time": 1738845068,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "J. M.",
+        "author_photo": "/images/reviews/hbs-systemabdichtungen-ag-riedt/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionelles Unternehmen! Offerte war schnell da und Arbeiter waren freundlich und stets sehr pünktlich! Ausführung der Arbeiten war professionell und sauber! Absolute Empfehlung!",
+        "time": 1668361337,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

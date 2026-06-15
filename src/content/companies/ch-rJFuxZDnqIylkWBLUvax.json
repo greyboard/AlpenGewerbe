@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJmSzAS1U4jkcRlDSGIAqE1k8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Moritz Rüedi",
+        "author_photo": "/images/reviews/bill-kuenzi-ag-liebefeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Defekte Heizung im Einfamilienhaus. Termin umgehend erhalten, sehr freundlicher und kompetenter Heizungstechniker welcher den Fehler in Kürze gefunden und behoben hat.\nUneingeschränkt zu empfehlen.",
+        "time": 1771883668,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Amir Moye",
+        "author_photo": "/images/reviews/bill-kuenzi-ag-liebefeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service von A bis Z! Bereits am Telefon wurde ich sehr freundlich und zuvorkommend beraten. Der Sanitär von Bill + Künzi kam zeitnah vorbei und hat unser Abflussproblem nicht nur kompetent behoben, sondern auch gleich präventiv den Stöpsel optimiert, damit es in Zukunft gar nicht erst zu Verstopfungen kommt. Besonders positiv aufgefallen sind die ausgesprochen freundliche Art und die professionelle, saubere Arbeitsweise. Ein rundum gelungener Service - absolut empfehlenswert!",
+        "time": 1735931197,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jleni Mebrahtu",
+        "author_photo": "/images/reviews/bill-kuenzi-ag-liebefeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden. Es konnte umgehend ein Termin vereinbart werden, die Mitarbeitenden sind sehr zuvorkommend und der Service einwandfrei. Absolut empfehlenswert!",
+        "time": 1760097042,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Erich Fischer",
+        "author_photo": "/images/reviews/bill-kuenzi-ag-liebefeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bill + Künzi haben in unserem Einfamilienhaus eine Erdsonden-Wärmepumpe installiert. Von der Beratung, Planung und Offerte über die Umsetzung, Bauleitung und Koordination mit Bohrunternehmen, Elektriker und Baumeister bis zur Rechnungsstellung war alles perfekt. Der offerierte Preis wurde trotz Inflation während der von Anfang an klar kommunizierten Wartezeit genau eingehalten und die Wärmepumpe auf den Tag genau, wie versprochen, in Betrieb genommen. Dazu kommt noch, dass die Offerte eine der preiswertesten war. Höchst empfehlenswert.",
+        "time": 1687437355,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Werner Lui",
+        "author_photo": "/images/reviews/bill-kuenzi-ag-liebefeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben Nov.2020 eine CTA Luft-Wärmepumpe Innen Aufgestellt von der Fa. Bill&Künzi erhalten. Von der Planung, bis zur Ausführung, Umbau und Inbetriebnahme und Service wurde alles PERFEKT umgesetzt. Die Situation in unserem Reihenhaus war kompliziert (Lärmschutz=keine aussen aufgestellte Pumpe möglich) und die Innen aufgestellte CTA mit individuell konzipiertem Ansaugschacht die beste Lösung. Koordination, Information, Zeitplanung, Ablauf der Abbauarbeiten der alten BKW Heizung und die anschliessende Neuinstallation kann man nur als Perfekt benennen. Heute war Service am Magna-Filter. Alles TipTop freundlich, informativ und Kundenorientiert. Schade das man keine 6 Sterne vergeben kann, Bill & Künzi hätten einen Extra Stern verdient.",
+        "time": 1657203297,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

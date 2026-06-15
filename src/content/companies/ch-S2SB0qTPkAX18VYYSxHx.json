@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJQ9L9MBk7kEcRj2_5YQeiKwc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Marc Rietmann",
+        "author_photo": "/images/reviews/maurer-malerei-werbetechnik-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wie immer: tadellos - unkompliziert - professionell - erfahren - mit einem Wort: perfekt!",
+        "time": 1772462353,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Gutzwiller Kommunikation und Design AG",
+        "author_photo": "/images/reviews/maurer-malerei-werbetechnik-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unser bevorzugter Partner wenn es um Werbetechnik geht. Von der individuellen Beratung über die präzise Planung bis hin zur termingerechten Ausführung – jede Phase des Projekts wird mit höchster Qualität und großem Engagement realisiert. Das erfahrene Team von Maurer bringt nicht nur Fachkompetenz, sondern auch Leidenschaft für ihr Handwerk mit und unterstützt uns bei jedem Schritt. Die Mitarbeiterinnen und Mitarbeiter wissen genau, was sie tun, und stellen sicher, dass unsere Anforderungen nicht nur erfüllt, sondern stets übertroffen werden.",
+        "time": 1729145481,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tobias Sahli",
+        "author_photo": "/images/reviews/maurer-malerei-werbetechnik-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Dienstleistung nur zu empfehlen",
+        "time": 1626115060,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Corina Mahrer",
+        "author_photo": "/images/reviews/maurer-malerei-werbetechnik-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Da gibts nichts zu meckern! 😁👍",
+        "time": 1683725527,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "B D",
+        "author_photo": "/images/reviews/maurer-malerei-werbetechnik-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schnell, professionell, erfahren, freundlich, fair im Preis und immer mit einem Top-Resultat - wir sind seit über 10 Jahren grosse Fans vom gesamten Maurer-Team!",
+        "time": 1780918123,
+        "relative_time_description": "in der letzten Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

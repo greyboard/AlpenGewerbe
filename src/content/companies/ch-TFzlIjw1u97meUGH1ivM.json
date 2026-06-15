@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-9chvXOLmkcRFDPEyUOdp1A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 38,
+    "reviews": [
+      {
+        "author_name": "Juerg Hurter",
+        "author_photo": "/images/reviews/staub-heizungen-ag-steckborn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fachkundig, seriös, freundlich und bereit, über Lösungen zu sprechen und sie auch gut umzusetzen, die nicht 08-15 sind. Ich kann nur Gutes sagen über dieses Unternehmen und es wärmstens empfehlen.  (Leistung: Abbruch einer alten Heizung und Einbau einer neuen innenliegenden Wasser-Wärmepumpen-Heizung.)",
+        "time": 1771010502,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "M L",
+        "author_photo": "/images/reviews/staub-heizungen-ag-steckborn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "War mit dem Telefonservice sehr zufrieden, ebenfalls mit dem Pikett Mitarbeiter.\nMeine Heizung war schnell wieder intakt und zu einem Preis, den ich als wirklich fair empfinde!\nWeiter so, gerne wieder!",
+        "time": 1759262446,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Sonja Weber",
+        "author_photo": "/images/reviews/staub-heizungen-ag-steckborn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Staub kann ich nur in den höchsten Tönen loben. Unser Heizungskeller stand unter Wasser, und der Heizungs- und Sanitätsdienst aus dem Nachbardorf meinte nach kurzer Sichtung, der Boiler sei defekt und schickte uns Kostenvoranschläge zwischen 4000 und 6000 CHF. Daraufhin habe ich mir eine Zweitmeinung von der Firma Staub eingeholt. Der freundliche Monteur hat sich alles gründlich angeschaut und festgestellt, dass lediglich eine Dichtung ausgetauscht werden musste. Vielen Dank noch einmal für die hervorragende Arbeit und den schnellen, ehrlichen Service!",
+        "time": 1729072580,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Müller",
+        "author_photo": "/images/reviews/staub-heizungen-ag-steckborn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr seriöse Firma ! Besonders ist schon der freundliche Telefonempfang. Erwähnenswert ist vor Allem die Pünktlichkeit, die exakte und die kompetente Arbeitsweise der Monteure.\nHervorheben will ich insbesondere den Service-Monteur, Herrn Werner Grass, welcher seine Fachkompetenz auch für Laien gut begreiflich macht, sauber und speditiv arbeitet. Hoffentlich bleibt er der Firma noch lange erhalten !\nWeiter so !",
+        "time": 1508664495,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Guido Zemp",
+        "author_photo": "/images/reviews/staub-heizungen-ag-steckborn/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Schock beim Öffnen der Rechnung: Die Arbeit (Heizkörperdemontage und Neumontage bei Badumbau) war zwar fachgerecht ausgeführt worden,  der Preis aber fast 2.5 Mal so hoch wie in der Offerte. Und das, ohne dass man uns während des vierwöchigen Umbaus darüber informiert hätte. Nicht zu empfehlen!",
+        "time": 1642693354,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

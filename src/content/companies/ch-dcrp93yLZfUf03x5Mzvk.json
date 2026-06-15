@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJe05X84fJhEcR4dhYKZ8MuFw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Rosmarie Marti",
+        "author_photo": "/images/reviews/carroccia-bodenbelaege-ag-landquart/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Beratung. Sehr angenehme Zusammenarbeit. Termine eingehalten. Super Arbeit. Vielen Dank. Nur zu empfehlen!",
+        "time": 1771069702,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Robert Stoller",
+        "author_photo": "/images/reviews/carroccia-bodenbelaege-ag-landquart/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service & Beratung! Zuverlässig, schnell & sauber gearbeitet. Gerne wieder",
+        "time": 1707850445,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Moritz Liesch",
+        "author_photo": "/images/reviews/carroccia-bodenbelaege-ag-landquart/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Vergnügen, die Dienste der Carroccia AG in Anspruch zu nehmen, um meinen Parkettboden aufbereiten zu lassen, und bin absolut begeistert vom Ergebnis. Der Boden sieht aus wie neu und verleiht meiner Wohnung ein frisches Ambiente. Von der ersten Kontaktaufnahme bis zur Fertigstellung der Arbeiten verlief alles äusserst professionell und seriös. Nicola arbeitete sehr sauber und zeigte höchste Fachkompetenz. Besonders beeindruckt hat mich das faire Preis-Leistungs-Verhältnis. Ich kann die Carroccia AG uneingeschränkt weiterempfehlen und werde bei zukünftigen Projekten gerne wieder auf sie zurückkommen.",
+        "time": 1744225915,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Walter Gross",
+        "author_photo": "/images/reviews/carroccia-bodenbelaege-ag-landquart/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Persönliche Beratung und fachmännisch ausgeführte Arbeiten. Empfehlenswert.",
+        "time": 1749828338,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriela",
+        "author_photo": "/images/reviews/carroccia-bodenbelaege-ag-landquart/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben von Nicola bereits dreimal Böden machen lassen. Egal ob es Holzparkett oder Vinylböden oder nur kleine Schmutzteppiche im Eingangsbereich waren, die Beratung und die ausgeführte Arbeit war immer top! Die Absprachen mit uns als Bauherrschaft waren immer zielführend und falls vom Ablauf notwendig kam er auch ausnahmsweise am Samstagmorgen.",
+        "time": 1733326929,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

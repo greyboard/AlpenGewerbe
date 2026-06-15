@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu4TIuS77j0cRB72aZ4plMm0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 40,
+    "reviews": [
+      {
+        "author_name": "E S",
+        "author_photo": "/images/reviews/protec-elektro-ag-horw/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professionell, kompetent, freundlich\nVielen Dank dem Protec-Team, den guten Mitarbeitern für die Installation. Ein WhatsApp, ein Anruf und die Gefahrenquellen von herumliegenden Kabeln wurde zeitnah gelöst. Das bedeutet Sicherheit. Faires Preis /Leistungsverhltnis. Sehr zum Weiterempfehlen.\nMotivierte Mitarbeiter und schönes Zusammenwirken vom ausgebildeten Elektriker und Lehrling",
+        "time": 1769245587,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "daria paukert",
+        "author_photo": "/images/reviews/protec-elektro-ag-horw/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Installation für den Anschluss eines Backofen und den Lichtschalter erfolgreich repariert. Alles innert kurzer Frist. Meine Meinung - prompt, zuverlässig und professionell. Vielen Dank.",
+        "time": 1742561096,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Roland Bucher",
+        "author_photo": "/images/reviews/protec-elektro-ag-horw/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Rund-um-Sorglos-Service und ganz tolle Mitarbeiter.\nZuverlässig und kompetent. Jura ist hier in sehr guten Händen. Sehr zu empfehlen. Preis/Leistung stimmt. Vielen Dank",
+        "time": 1706719631,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kerstin Bieler",
+        "author_photo": "/images/reviews/protec-elektro-ag-horw/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr höfliche und freundliche Mitarbeiter, sehr saubere Arbeit. Vielen Dank, jederzeit sehr gern wieder.",
+        "time": 1755855766,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "sandro christen",
+        "author_photo": "/images/reviews/protec-elektro-ag-horw/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr verlässlicher und kompetenter Geschäftspartner. Danke für die gute Zusammenarbeit. Macht weiter so!\nHerzliche Grüsse an Roger Zumbühl und das ganze PROTEC Team",
+        "time": 1573810129,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJLVPxohjFkUcR3o9KpArkA2s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 09:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 49,
+    "reviews": [
+      {
+        "author_name": "Kay Keller",
+        "author_photo": "/images/reviews/kurt-borer-ag-reinach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit! Waren mit unserem Neubauprojekt beauftragt und haben von der Beratung bis zum Einbau perfekt abgeliefert. Grosses Danke an das ganze Team.",
+        "time": 1736780300,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Giorgi Lava",
+        "author_photo": "/images/reviews/kurt-borer-ag-reinach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Produkte und sehr kompetente Beratung. Haben bei uns im Bad super Arbeit geleistet, sowie 2 Heizkörper im Haus ersetzt. Sehr zuverlässig und schnell alles erledigt. Preis/Leistungsverhältnis top! Kann ich nur weiterempfehlen!!",
+        "time": 1678649291,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marc Brugger",
+        "author_photo": "/images/reviews/kurt-borer-ag-reinach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "20 Jahre nach der Installation durch die Kurt Borer AG ist ein Ventil an der Warmwasserverteilung kaputt gegangen. Der Monteur kam zeitnah vorbei und hat es ausgetauscht. Perfekter Service und tadellose Arbeit.",
+        "time": 1737023131,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ilaz Ferizi",
+        "author_photo": "/images/reviews/kurt-borer-ag-reinach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Von der ersten Kontaktaufnahme sowie Beratung bis zur Installation(div. Küchen und Badezimmerelemente)  war alles Top. Mitarbeiter freundlich/pünktlich/kompetent. Ich war sehr zufrieden und kann die Firma Kurt Borer AG aufejden Fall weiterempflehlen. 👍",
+        "time": 1682343044,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jess Melu",
+        "author_photo": "/images/reviews/kurt-borer-ag-reinach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Arbeit wurde sehr schnell und sauber ausgeführt. Dabei war der Umgang sehr freundlich und der Preis äusserst fair. Ein tolles Unternehmen, Dienstleistungen werde ich das nächste Mal gerne wieder in Anspruch nehmen!",
+        "time": 1678297333,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

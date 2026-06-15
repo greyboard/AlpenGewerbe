@@ -1,7 +1,7 @@
 {
   "id": "ch-XJ1YwVEnt8UbbB4fHg3S",
   "slug": "aebi-kaderli-garden-center-ag-duedingen",
-  "name": "Aebi Kaderli Garden Center AG",
+  "name": "Aebi-Kaderli Garten-Center AG",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJC-S6LmVpjkcRMmZtq_pzPG8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–18:00 Uhr",
+    "Dienstag: 09:00–18:00 Uhr",
+    "Mittwoch: 09:00–18:00 Uhr",
+    "Donnerstag: 09:00–18:00 Uhr",
+    "Freitag: 09:00–18:00 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 163,
+    "reviews": [
+      {
+        "author_name": "Rolf Biedermann",
+        "author_photo": "/images/reviews/aebi-kaderli-garden-center-ag-duedingen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Da sehen wir eine Weihnachts Ausstellung der ganz besonderen Art. Weihnachten innmittenvon Blumenpracht und Glanz und Weihnachtlichem Schmuck. Absolut empfehlenswert!!",
+        "time": 1699634190,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alexandra Fiechter",
+        "author_photo": "/images/reviews/aebi-kaderli-garden-center-ag-duedingen/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Wunder schöne Pflanzen, leider nicht für mein Budget",
+        "time": 1775651859,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Reto Stöckli",
+        "author_photo": "/images/reviews/aebi-kaderli-garden-center-ag-duedingen/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Sehr grosse Auswahl in guter Qualität. Die Dekoartikel und Einrichtungsgegenstände sind eher etwas teurer als anderswo. Ein Besuch aber sicher wert.",
+        "time": 1751112255,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Andrew „The Equalizer“",
+        "author_photo": "/images/reviews/aebi-kaderli-garden-center-ag-duedingen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "In den letzten Jahren ist die Qualität dieses Geschäfts ständig gesunken. Jetzt hat A K den untersten level erreicht.  Betriebsferien in einem Garden Center - ich glaube es harkt. Keine Information an die Kunden die als Kunden inkl. Email registriert sind. Da fahren wir lieber ein paar Kilometer und kaufen bei 'Dietrich' ein. Das neue Management will offenbar mit miserabler Dienstleistung und Kundenorientierung das grosse Geld machen. Das wird nicht klappen !",
+        "time": 1736442763,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luca Z",
+        "author_photo": "/images/reviews/aebi-kaderli-garden-center-ag-duedingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr zuvorkommendes Personal! Durch denn neuen Onlineshop konnte ich sehr bequem nach meiner gewünschten Kletterpflanze suchen🪻🌿Meine Bestellung wurde rasch bearbeitet und die bestellte Jasminum nudiflorum hatte Premiumqualität 👍",
+        "time": 1742279361,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

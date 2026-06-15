@@ -25,5 +25,55 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfUO-npAxm0cRNZhXfqbEDPY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Ein Besucher",
+        "author_photo": "/images/reviews/martin-jehle-bedachungen-anstalt-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": ".. Weiss, was gut ist!\nDanke",
+        "time": 1705400215,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Matt",
+        "author_photo": "/images/reviews/martin-jehle-bedachungen-anstalt-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Coole Seite ! Drohne Beeindruckend",
+        "time": 1688102639,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michael Zanghellini",
+        "author_photo": "/images/reviews/martin-jehle-bedachungen-anstalt-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679128727,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Martin Prettenhofer",
+        "author_photo": "/images/reviews/martin-jehle-bedachungen-anstalt-schaan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1657809585,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

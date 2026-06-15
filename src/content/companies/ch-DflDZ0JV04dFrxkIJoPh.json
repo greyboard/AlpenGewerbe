@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJs9552Pq4kUcReSOVw75MdAk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Sophia",
+        "author_photo": "/images/reviews/peter-riedel-metallbau-und-schlosserei-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Feuerkorb hat eine top Qualität, ist klasse verarbeitet. Das personalisierte Motiv kommt sehr gut zur Geltung wie auf dem Bild zu sehen!\nAuch die Abholung hat reibungslos funktioniert, Herr Riedel hat persönlich den Feuerkorb eingeladen.",
+        "time": 1757010753,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "A BC",
+        "author_photo": "/images/reviews/peter-riedel-metallbau-und-schlosserei-ag-basel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Leider was alles eine enttäuschung.\nDaher kann ich die Firma nicht weiter empfehlen.",
+        "time": 1764844943,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Sergio Da Silva",
+        "author_photo": "/images/reviews/peter-riedel-metallbau-und-schlosserei-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Betrieb\nTop Leute\nVielen Dank",
+        "time": 1777100747,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Vlad Savin",
+        "author_photo": "/images/reviews/peter-riedel-metallbau-und-schlosserei-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Großartig! Besonders einer ihrer Mitarbeiter war überaus freundlich!",
+        "time": 1681718450,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rajesh Mannancherry",
+        "author_photo": "/images/reviews/peter-riedel-metallbau-und-schlosserei-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675537005,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

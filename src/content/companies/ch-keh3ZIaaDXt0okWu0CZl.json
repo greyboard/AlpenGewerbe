@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJJaVYW8_rmkcRoVmLD3NYNYU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:55 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–11:55 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–11:55 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–11:55 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–11:55 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Bercin Mete",
+        "author_photo": "/images/reviews/wehrli-metallbau-ag-bronschhofen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nachdem ich bei 4 anderen Metallbau Firmen war und diese mir nicht weiter helfen konnten, mit dem was ich brauchte, bin ich bei Wehrli gelandet. Das war das beste was mir passieren konnte. Eine super Firma mit hilfsbereiten qualitativ tollen Mitarbeitern. Mein Wunsch wurde innerhalb von 24h umgesetzt. Ich bin mehr als Zufrieden mit der Arbeit die geleistet wurde und empfehle Wehrli von Herzen jedem weiter 👍🏻",
+        "time": 1682709316,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "jörg Obi",
+        "author_photo": "/images/reviews/wehrli-metallbau-ag-bronschhofen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Hilfsbereit, super freundlich, gerne wieder!",
+        "time": 1775730850,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Bettina Domeisen",
+        "author_photo": "/images/reviews/wehrli-metallbau-ag-bronschhofen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe mich riesig gefreut, dass Damian Glowa, Projektleiter bei der Firma Wehrli, sich sopntan, unbürokratisch und persönlich um meinen für so eine Firma völlig unwichtigen Wunsch nach einem kompatiblen Knauf für meinen Kasten gekümmert hat.",
+        "time": 1628957900,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fitness Island",
+        "author_photo": "/images/reviews/wehrli-metallbau-ag-bronschhofen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Firma. Auch sehr kulant wenn mal etwas nicht perfekt klappt was ja jedem Mal passieren kann. Darauf kommt und auf des Schlussresultat kommt es an!",
+        "time": 1555656753,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Francesco Greco",
+        "author_photo": "/images/reviews/wehrli-metallbau-ag-bronschhofen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr flexibel und kompetente Firma",
+        "time": 1551430819,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

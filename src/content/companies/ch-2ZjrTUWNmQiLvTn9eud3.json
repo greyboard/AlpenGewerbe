@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxx4ABSdljEcRy0rb6Qw5K6Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–23:00 Uhr",
+    "Dienstag: 07:30–23:00 Uhr",
+    "Mittwoch: 07:30–23:00 Uhr",
+    "Donnerstag: 07:30–23:00 Uhr",
+    "Freitag: 07:30–23:00 Uhr",
+    "Samstag: 09:00–20:00 Uhr",
+    "Sonntag: 09:00–20:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 53,
+    "reviews": [
+      {
+        "author_name": "William viret",
+        "author_photo": "/images/reviews/eco-depannage-electricite-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe Ecodepannage wegen eines dringenden Stromproblems zu Hause kontaktiert und bin mit dem Service sehr zufrieden. Sie waren schnell in Genf vor Ort, und der Techniker war pünktlich und hat die Arbeit effizient erledigt. Das Problem wurde sauber behoben, und die Erklärungen waren verständlich.\n\nEin zuverlässiges Unternehmen; ich würde sie bei Bedarf jederzeit wieder kontaktieren.",
+        "time": 1772212943,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Kushtrim Isenaj",
+        "author_photo": "/images/reviews/eco-depannage-electricite-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin mit den Leistungen dieser Elektrofirma rundum zufrieden. Die Arbeiten wurden professionell und innerhalb des vereinbarten Zeitraums ausgeführt. Das Team ist pünktlich, kompetent und sehr aufmerksam. Das Ergebnis ist makellos, und das Preis-Leistungs-Verhältnis ist ausgezeichnet. Ich kann diese Firma uneingeschränkt empfehlen.",
+        "time": 1772023190,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Eva Bochiak",
+        "author_photo": "/images/reviews/eco-depannage-electricite-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Blitzschnell und absolut kompetent! Eines Abends hatte ich plötzlich keinen Strom mehr und wusste nicht, was ich tun sollte. Der Elektriker von ecodepannage war in weniger als 30 Minuten da, fand den Fehler und rettete mir den Abend. Ich hatte wirklich Glück, ihn gefunden zu haben. Ich kann ihn nur wärmstens empfehlen.",
+        "time": 1778919579,
+        "relative_time_description": "vor 4 Wochen"
+      },
+      {
+        "author_name": "Iohan kiavué",
+        "author_photo": "/images/reviews/eco-depannage-electricite-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für Ihre Hilfe! Ihre Tipps zur Vernetzung meines Foodtrucks waren unglaublich hilfreich.\n\nIch kann sie wärmstens empfehlen. Ich freue mich darauf, Sie im Royal Bokit zu sehen – Instagram: @royal.bokit_gva.",
+        "time": 1775663125,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Gemma Ferrández Galant",
+        "author_photo": "/images/reviews/eco-depannage-electricite-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Elektriker: sehr professionell, pünktlich und effizient. Er fand für alle auftretenden Probleme eine Lösung. Saubere und gründliche Arbeit; ich empfehle ihn uneingeschränkt.",
+        "time": 1770630958,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

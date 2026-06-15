@@ -26,5 +26,54 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJY5UW4WQVkEcRdN8OR2g_yNU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Janick Frei",
+        "author_photo": "/images/reviews/luethard-heizungen-ag-scherz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die unkomplizierte Hilfe. Mir ist beim Self-Service eine Elektrode abgebrochen und mir wurde mit Ersatzteilen geholfen. Jetzt läuft die Heizung, ich bin Happy!",
+        "time": 1768406579,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Tobias Fe",
+        "author_photo": "/images/reviews/luethard-heizungen-ag-scherz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Toller Service, auch dann, wenn mal etwas nicht so gut klappt. Wir haben einen neuen Brenner in unsere Ölheizung bekommen und dann ging es los, dass diese permanent abschaltete. Mit viel Geduld und konstruktiven Ideen hat die Firma Lüthard am Ende doch noch den Grund gefunden (ein Modul von Siemens in dem Brenner war defekt) und nun läuft es perfekt (wie es bisher scheint). Danke für diesen Einsatz, das war super :-)\n\nEDIT: auch bei der diesmaligen Heizungspanne 8 Monate später (Steuergerät defekt) erneut perfekter, schneller Service. DANKE dafür!!",
+        "time": 1751355762,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Yvo Bühler",
+        "author_photo": "/images/reviews/luethard-heizungen-ag-scherz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service! Unsere Heizung lief nicht mehr  und der Servicetechniker war in weniger als 2 Stunden bei uns und hat die Heizung repariert. Vielen Dank und schöne Weihnachten!",
+        "time": 1734953255,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alekos Avgoustatos",
+        "author_photo": "/images/reviews/luethard-heizungen-ag-scherz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige und freundliche Handwerker. Haben bei uns immer 1A Arbeit abgeliefert egal ob Arbeiten an der Heizung oder z.B. Boilerentkalkungen.",
+        "time": 1575369527,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Alischa Hausherr",
+        "author_photo": "/images/reviews/luethard-heizungen-ag-scherz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetent, freundlich, motiviert!",
+        "time": 1760532951,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJB8GhUDa5mkcRMMrc-1AMfC0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Andreas Knauer",
+        "author_photo": "/images/reviews/sunier-ag-sanitaer-heizung-baeretswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte Kontakt mit Herrn Sunier per Email bzgl. einer Auskunft zu einem ehemaligen Geschäftsfeld der Sunier AG. Herr Sunier antwortete direkt am darauffolgenden Tag. Absolut kompetent, hilfsbereit und ohne für Ihn zu erwartenden Mehrwert, da die Leistungen abgegeben wurden. Überragende Korrespondenz und lässt auf eine seriöse und gewissenhafte Firmenphilosophie und somit auch gute Qualität schließen. Nochmals vielen Dank und weiter so! Bleiben Sie gesund.",
+        "time": 1605084163,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ernest Huegli",
+        "author_photo": "/images/reviews/sunier-ag-sanitaer-heizung-baeretswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sunier AG führt seit Jahren alle Sanitär- und Heizungsaufträge in meinem MFH mit 9 Wohnungen aus. Die letzte grössere Arbeit war: komplette Heizung ersetzen. Das ging so: Beratung Sunier AG, terminiert, bestellt, geliefert und in Betrieb genommen. Ich gebe 5 Sterne dafür. Komplett zufrieden!",
+        "time": 1663097429,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stefan Schmidlin",
+        "author_photo": "/images/reviews/sunier-ag-sanitaer-heizung-baeretswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Sunier hat bei unserem Einfamilienhaus eine Wärmepumpe mit Erdsonde, einen neuen Boiler  sowie eine Bodenheizung eingebaut. Sowohl der Service als auch das Preis-Leistungsverhältnis waren sehr gut. Die Mitarbeiter waren sehr freundlich.",
+        "time": 1385025274,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "RGL RGL",
+        "author_photo": "/images/reviews/sunier-ag-sanitaer-heizung-baeretswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Selten von einem Handwerkerbetrieb einen solchen Topservice von A - Z erhalten. Vielen herzlichen Dank Herr Jörg Fischer. Diese Firma kann ich allen nur bestens weiterempfehlen. R. Glauser",
+        "time": 1662395833,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Wassmer",
+        "author_photo": "/images/reviews/sunier-ag-sanitaer-heizung-baeretswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und professionell",
+        "time": 1589392707,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

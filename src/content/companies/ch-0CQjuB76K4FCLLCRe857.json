@@ -1,7 +1,7 @@
 {
   "id": "ch-0CQjuB76K4FCLLCRe857",
   "slug": "bcs-sa-neuchatel",
-  "name": "BCS SA",
+  "name": "BCS S.A., bureau construction service",
   "branchen": [
     "gipser"
   ],
@@ -26,5 +26,30 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBb9FTebhjUcRKoPG0_aGROo",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Martin Baer",
+        "author_photo": "/images/reviews/bcs-sa-neuchatel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621593938,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Joel Paratte",
+        "author_photo": "/images/reviews/bcs-sa-neuchatel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1503053024,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

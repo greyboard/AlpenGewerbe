@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJhzuDhseGmkcRhC9UHlHvFlY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Sebastian Säbelrassler",
+        "author_photo": "/images/reviews/ruetimann-hoch-tiefbau-ag-diessenhofen/reviewer_1.jpg",
+        "rating": 3,
+        "text": "Ladungsverlust bei ca. 90km/h\n23.06.25 16:42\nBaustellenfahrzeug Kennzeichen TG 116'144\nDer Lenker des Fahrzeugs sollte mal ein \" Wie bind ich mini Waar richtig\" Kurs machen.\nAuf Höhe von Grob Gemüsebauer flogen mir bei 85km/h grosse Kartonfätzen und Verpackungsmaterial entgegen.\nBitte sichere deine Ladung entsprechend sonst gefährdest du andere damit.\n\nEdit:\nHerr Rütimann hat nicht einmal 1 Tag verstreichen lassen um auf meine Bewertung einzugehen.\nSowas finde ich top, deshalb korrigiere ich meine  1 Stern Bewertung auf 3 Sterne.",
+        "time": 1750766719,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "TA P",
+        "author_photo": "/images/reviews/ruetimann-hoch-tiefbau-ag-diessenhofen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Firma und zugleich auch super Vermieter. Kann ich nur weiterempfehlen.",
+        "time": 1770885825,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Simon Studach",
+        "author_photo": "/images/reviews/ruetimann-hoch-tiefbau-ag-diessenhofen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "wir sind mit dem Neubau des EFH durch die Firma Rütimann Hoch und Tiefbau sehr zufrieden. Herzlichen Dank für alles",
+        "time": 1674052211,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ueli Michael Styger",
+        "author_photo": "/images/reviews/ruetimann-hoch-tiefbau-ag-diessenhofen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Firma grosse Baustellen mit wenig Leuten, anscheinend mit grosser leistung",
+        "time": 1686411071,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "DOMINIK Stöcklin",
+        "author_photo": "/images/reviews/ruetimann-hoch-tiefbau-ag-diessenhofen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Immer wieder !",
+        "time": 1530969450,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

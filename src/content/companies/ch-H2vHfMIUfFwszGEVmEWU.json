@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJC7fxNa3rmkcRMr-6p671gGs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 86,
+    "reviews": [
+      {
+        "author_name": "Lea Reichmuth",
+        "author_photo": "/images/reviews/ecoleo-by-schreinerei-fust-ag-wil/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Der Schrank sieht toll aus! Der Service top!\nEinziger Kritikpunkt: ich fände es toll, wenn es die Möglichkeit gäbe, dass die Fachleute auch gleich Blenden montieren bei Bedarf. Wir haben nämlich nun einen tollen Schrank mit etwas weniger tollen Lücken auf der Seite.",
+        "time": 1779815311,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Max",
+        "author_photo": "/images/reviews/ecoleo-by-schreinerei-fust-ag-wil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wow das ging ja fix. Top Qualität und schnell. Unser Lowboard wurde schnell geliefert inkl. Wunschlöcher für die Strom- und LAN-Kabel. Der Aufbau ging schnell und einfach. Es sieht zudem super aus und es ist nicht das letzte das wir bei Ecoleo bestellen.",
+        "time": 1761161382,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Patrick S.",
+        "author_photo": "/images/reviews/ecoleo-by-schreinerei-fust-ag-wil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir waren etwas unter Zeitdruck – und ecoleo hat uns voll überzeugt. Die Beratung war unglaublich persönlich und bis ins Detail durchdacht. Man fühlt sich von Anfang an bestens aufgehoben.\n\nDer Aufbau verlief äusserst professionell und sauber. Qualität, Service und Ablauf haben von A–Z überzeugt.\n\nWir hatten früher Erfahrungen mit deutschen Anbietern – aber klar ist: Die Schweiz kann es besser. Klare Empfehlung.",
+        "time": 1768315405,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Jeger Jan",
+        "author_photo": "/images/reviews/ecoleo-by-schreinerei-fust-ag-wil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Produkt und Service einwandfrei.\n\nDas Produkt überzeugt uns vollkommen. Die Montage konnte ohne Probleme vollzogen werden, auch mit wenig handwerklichem Geschick. Die Montageanleitung ist einfach und auch mit Bildern dargestellt.\n\nDie Lieferfrist wurde eingehalten, was wir uns bei Bestellung nicht vorstellen konnten.\n\nUnser Produkt weiste kleine Mängel auf. Die Mängelbehebung ging ohne Probleme über die Bühne und die Teile wurden so schnell ersetzt wie die Bestellung geliefert wurde.\n\nFazit:\nTop Service, Top Produkt und vollkommen zufrieden - Sehr empfehlenswert!",
+        "time": 1773297937,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "camera.bern",
+        "author_photo": "/images/reviews/ecoleo-by-schreinerei-fust-ag-wil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat alles super geklappt. Gerade auch die Planung mit Dachschrägen ist mit dem Onlinetool super einfach. Sind sehr zufrieden mit dem Endergebnis. Wir würden den Schrank wieder bei Ecoleo bestellen. Vielen herzlichen Dank.",
+        "time": 1759678854,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

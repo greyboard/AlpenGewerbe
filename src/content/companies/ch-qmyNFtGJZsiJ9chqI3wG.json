@@ -26,5 +26,46 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJNWBYexMijkcRiNT2qmv8fzY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jeanne-sophie Maurer",
+        "author_photo": "/images/reviews/maurer-roger-dotzigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1548691966,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Leonie Maurer",
+        "author_photo": "/images/reviews/maurer-roger-dotzigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1519464634,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Gerhard Schaedeli",
+        "author_photo": "/images/reviews/maurer-roger-dotzigen/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1516359861,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Philippe Sartori",
+        "author_photo": "/images/reviews/maurer-roger-dotzigen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1498746214,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

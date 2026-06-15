@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJPZw3Z2v7j0cRx-XIsQO1rN0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "hank D",
+        "author_photo": "/images/reviews/gyr-innenausbau-ag-schreinerei-innenausbau-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches Personal welches auch für ein kleines Anliegen eine Lösung hat",
+        "time": 1712039518,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marcel W.",
+        "author_photo": "/images/reviews/gyr-innenausbau-ag-schreinerei-innenausbau-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Faire Preise, tolle Beratung, gute Qualität",
+        "time": 1655224977,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "vytautas matulis",
+        "author_photo": "/images/reviews/gyr-innenausbau-ag-schreinerei-innenausbau-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich mag den zukünftigen Lehrling Eno",
+        "time": 1649669224,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_WM2HObKkUcRUSFNqNdpTvk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–15:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Güllü Grambs",
+        "author_photo": "/images/reviews/furrer-metallbau-ag-lausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Furrer Metallbau hat bei uns im MFH mehrere Briefkästen montiert. Die Arbeit wurde sauber, zuverlässig und sehr professionell ausgeführt. Freundlicher Kontakt, pünktliches Erscheinen und ein tolles Ergebnis.\nWir sind sehr zufrieden.\n\nVielen Dank für den unkomplizierten und schnellen Service\n\nGruss\nFam. Grambs und Alkis",
+        "time": 1768550088,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Katrin Rubitschung",
+        "author_photo": "/images/reviews/furrer-metallbau-ag-lausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit gemacht!\nVon Anfang an bereits bei der Mailanfrage bis hin zur Arbeitsausführung nur auf nette und hilfsbereite Mitarbeiter gestossen!\nErwartungen übertroffen mit echter freundlichkeit bei der Montage und die Kleinsten durften sogar mithelfen. Beim nächsten Projekt gerne wieder diese Firma!",
+        "time": 1773086735,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Philipp Stooss",
+        "author_photo": "/images/reviews/furrer-metallbau-ag-lausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben bei unserem EFH-Neubau kompl. auf die Furrer Metallbau AG gesetzt – «Qualität von A-Z, die überzeugt»\nNeben den rahmenlosen Schiebetüren mit Senk- und Hebeschwelle wurden auch die Hauseingangs-/ Nebentüren sowie die Stahlwangentreppe von der Furrer Metallbau geliefert und montiert. Top Beratung von der Planungsphase bis hin zur Montage und Übergabe.",
+        "time": 1638294783,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ekin Temur",
+        "author_photo": "/images/reviews/furrer-metallbau-ag-lausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Freundliche leute, einwandfreie und makellose Arbeit geleistet.",
+        "time": 1778167795,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Heinz Borer",
+        "author_photo": "/images/reviews/furrer-metallbau-ag-lausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben der Furrer Metallbau AG zwei Projekte an unserem EFH in Auftrag geben können. Neue pulver beschichtede Metallgeländer an Sitzplatz, Autoabstellplatz, Eingangsbereich und Balkon. Etwas später die Verschalung von Erker und Werkstatt mit isoliertem und pulverbeschichtetem Aluminiumblech. Das Resultat ist phänomenal. Unser Haus wurde dadurch erheblich aufgewertet. Wir danken Patrick Furrer für die ausgezeichnete Beratung und seinem Team für die professionelle und saubere Ausführung. Alles ist super abgelaufen und wir sind ausserordentlich zufrieden.",
+        "time": 1651823015,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

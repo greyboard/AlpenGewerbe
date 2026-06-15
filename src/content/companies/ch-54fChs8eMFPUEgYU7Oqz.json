@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJzZyPEKMAkEcRJVIuN9dlqNw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Anita lseli",
+        "author_photo": "/images/reviews/ohnsorg-soehne-ag-steinhausen/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Gekaufte Materialien haben eine gute Qualität! Danke.",
+        "time": 1778380633,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Markus Eichholzer",
+        "author_photo": "/images/reviews/ohnsorg-soehne-ag-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service! Der Sturmschaden wurde innerhalb drei Stunden repariert! Herzlichen Dank!",
+        "time": 1680714585,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Silvio Zimmermann",
+        "author_photo": "/images/reviews/ohnsorg-soehne-ag-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die besten Kaminhüte, im Windkanal getestet, solide und mit SwissMadeQualität",
+        "time": 1523294505,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Weekinger",
+        "author_photo": "/images/reviews/ohnsorg-soehne-ag-steinhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Qualität und Speditiv!\nGerne wieder.",
+        "time": 1516124175,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Roland Sembol",
+        "author_photo": "/images/reviews/ohnsorg-soehne-ag-steinhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr schöner Betrieb",
+        "time": 1626354808,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

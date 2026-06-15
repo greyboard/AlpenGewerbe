@@ -26,5 +26,31 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJtbQ-gbdEjEcRm1BSXPYlW-8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Jean-daniel Berthet",
+        "author_photo": "/images/reviews/cmzimmermann-sa-begnins/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739457731,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

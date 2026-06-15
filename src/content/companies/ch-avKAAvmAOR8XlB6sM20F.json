@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJR1yHKFi5kUcRcBlw0XtyOX8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 78,
+    "reviews": [
+      {
+        "author_name": "Yuliya Schröder",
+        "author_photo": "/images/reviews/beqiri-partner-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mit Beqiri Partner AG mein Zuhause renovieren lassen und bin super zufrieden! 😊 Alles lief reibungslos – von der Beratung bis zur Ausführung. Das Team ist zuverlässig, freundlich und arbeitet sehr sauber und präzise. Man merkt, dass ihnen Qualität wirklich wichtig ist. Ich kann Beqiri Partner nur weiterempfehlen! 🙌",
+        "time": 1761290797,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Na Kü",
+        "author_photo": "/images/reviews/beqiri-partner-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Beqiri Partner AG hat sehr erfahrene, motivierte und zuvorkommende Profis! Von der Offerte bis zur Ausführung verlief alles tiptop. Sie haben die Malerarbeiten zu meiner vollsten Zufriedenheit ausgeführt. Zufriedene Kunden und top Qualität liegen den Mitarbeitern am Herzen. Ich kann Beqiri Partner nur weiterempfehlen!",
+        "time": 1767868574,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Ella 431",
+        "author_photo": "/images/reviews/beqiri-partner-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Beqiri von der Beqiri Partner AG hat bei der Sanierung unseres Mehrfamilienhauses hervorragende Arbeit geleistet. Die Bauleitung war strukturiert, zuverlässig und lösungsorientiert, die Ausführung präzise und von hoher handwerklicher Qualität. Besonders überzeugt hat uns die klare Kommunikation, die termingerechte Umsetzung sowie die stets professionelle Koordination aller Beteiligten.\n\nWir sind mit dem Ergebnis äusserst zufrieden und können die Beqiri Partner AG uneingeschränkt weiterempfehlen.",
+        "time": 1758568708,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Andreas Lucco",
+        "author_photo": "/images/reviews/beqiri-partner-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Reaktionsschnelligkeit, Gewissenhaftigkeit, Auftragstreue, Beratungskompetenz und Service-Orientierung - kurzum: Herr Beqiri und sein Team haben uns in allen Belangen überzeugt. Wir werden die nächste Renovation auch mit ihnen durchführen.",
+        "time": 1720343126,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lorenz Meister",
+        "author_photo": "/images/reviews/beqiri-partner-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Teilsanierung Fassade abgeschlossen. Hervorragende Arbeit. Ehrliche Kommunikation auf Augenhöhe.\nTOP Preis-Leistungsverhältnis. Gerne wieder!",
+        "time": 1759389864,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

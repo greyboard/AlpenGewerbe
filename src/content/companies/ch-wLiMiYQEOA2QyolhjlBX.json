@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzXNoYWRghUcRmi6iX_akxjE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Michael Röösli",
+        "author_photo": "/images/reviews/holzbau-engelberg-ag-engelberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "„Erstklassige Holzbau‑Qualität und freundlicher Service. Gerne wieder.“",
+        "time": 1777281687,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Alvaro Morcillo",
+        "author_photo": "/images/reviews/holzbau-engelberg-ag-engelberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe gefunden, was ich gesucht habe. Guter Service!",
+        "time": 1612453966,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Julian Gander",
+        "author_photo": "/images/reviews/holzbau-engelberg-ag-engelberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1681063643,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

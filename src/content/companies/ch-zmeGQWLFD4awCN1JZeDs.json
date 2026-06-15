@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJvRgCAjlOhUcRT6ghvc30HfE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Roy Wedema",
+        "author_photo": "/images/reviews/koller-ag-schreinerei-kuechenbau-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert von unserem Küchenumbau mit der Koller AG. Mit Christian Gisler als Projektleiter hatten wir einen kreativen, freundlichen und sehr zuverlässigen Ansprechpartner. Von der Planung bis zur Umsetzung lief alles reibungslos, Termine wurden konsequent eingehalten und die Handwerker haben ausgezeichnete Arbeit geleistet. Das Ergebnis entspricht exakt unseren Vorstellungen – und übertrifft diese sogar. Absolute Weiterempfehlung!",
+        "time": 1767771509,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Christin Gwerder",
+        "author_photo": "/images/reviews/koller-ag-schreinerei-kuechenbau-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bereits bei der Planung erhielten wir eine super Beratung und unsere Wünsche mit der Verwendung und Verarbeitung des eigenen Altholzes wurden umgesetzt. Die Küche ist qualitativ sehr hochwertig und wir sind sehr zufrieden damit. Wir würden wieder eine Koller Küche einbauen lassen.",
+        "time": 1697744825,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabienne Patriarca",
+        "author_photo": "/images/reviews/koller-ag-schreinerei-kuechenbau-ibach/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Katastrophaler Service! x-mal angerufen und auch Rückruftermine nicht eingehalten. Termine vergessen etc. Nie wieder….",
+        "time": 1711558494,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Detlef Drygala",
+        "author_photo": "/images/reviews/koller-ag-schreinerei-kuechenbau-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kam wegen einer Kleinigkeit, wurde hilfbereit zur meinem Anliegen beraten und mir wurde geholfen es zu erledigen .",
+        "time": 1712779867,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Cornelia Lüönd",
+        "author_photo": "/images/reviews/koller-ag-schreinerei-kuechenbau-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Beratung! Freundliches Team! ✨",
+        "time": 1607618160,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

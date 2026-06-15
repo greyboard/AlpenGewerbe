@@ -26,5 +26,46 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJsWlHTY-nhEcRUMj4JZ49ugY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Therese Hediger",
+        "author_photo": "/images/reviews/db-garten-und-sportanlagen-ag-klosters-serneus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In den Gewächshäuser hat es eine grosse Auswahl an Sommerflor, Kräuterpflanzen und mehrjährigen Stauden und Gebüschen\n.Die Preise eher hoch.",
+        "time": 1685053751,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Cristina Mrosek",
+        "author_photo": "/images/reviews/db-garten-und-sportanlagen-ag-klosters-serneus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schöne Pflanzen",
+        "time": 1688469409,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Cristiano Ferazzo",
+        "author_photo": "/images/reviews/db-garten-und-sportanlagen-ag-klosters-serneus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1695638303,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tanja dos Santos",
+        "author_photo": "/images/reviews/db-garten-und-sportanlagen-ag-klosters-serneus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1633936248,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

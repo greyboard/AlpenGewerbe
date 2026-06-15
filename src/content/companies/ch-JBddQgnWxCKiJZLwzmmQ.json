@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-WUGjE0zhEcR9L6m9AQ4rC8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–20:00 Uhr",
+    "Dienstag: 07:00–20:00 Uhr",
+    "Mittwoch: 07:00–20:00 Uhr",
+    "Donnerstag: 07:00–20:00 Uhr",
+    "Freitag: 07:00–20:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Alessandro De Maria",
+        "author_photo": "/images/reviews/beema-sagl-laminati-cartongesso-pittura-e-servizi-per-la-casa-origlio/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein wirklich erstklassiges Unternehmen mit qualifizierten Mitarbeitern und einem sehr präsenten und verantwortungsbewussten Inhaber.",
+        "time": 1772711735,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Darksheik",
+        "author_photo": "/images/reviews/beema-sagl-laminati-cartongesso-pittura-e-servizi-per-la-casa-origlio/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Vergnügen, mit Emanuele von Beema Sagl bei der Verlegung von Laminatboden und Sockelleisten zusammenzuarbeiten. Die Arbeiten wurden perfekt ausgeführt, eine Besichtigung war innerhalb von 48 Stunden möglich, und die Atmosphäre während der gesamten Verlegung war sehr angenehm. Ich kann ihn uneingeschränkt empfehlen.\n\nAlessandro De Pietro",
+        "time": 1640176387,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mario Aloise",
+        "author_photo": "/images/reviews/beema-sagl-laminati-cartongesso-pittura-e-servizi-per-la-casa-origlio/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Beema hat einen Teil meiner Hausrenovierung übernommen (Bodenbelag, Teppichentfernung auf der Treppe und Ersatz durch Laminat sowie ein begehbarer Kleiderschrank aus Gipskarton). Sie haben hervorragende Arbeit geleistet und Kosten und Termine eingehalten. Sehr zufrieden!",
+        "time": 1651132625,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alessandro La Rosa",
+        "author_photo": "/images/reviews/beema-sagl-laminati-cartongesso-pittura-e-servizi-per-la-casa-origlio/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Präzise und pünktliche Profis. Absolut zufrieden.",
+        "time": 1640956392,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Yadira",
+        "author_photo": "/images/reviews/beema-sagl-laminati-cartongesso-pittura-e-servizi-per-la-casa-origlio/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1615238342,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

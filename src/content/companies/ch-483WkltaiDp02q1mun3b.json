@@ -1,7 +1,7 @@
 {
   "id": "ch-483WkltaiDp02q1mun3b",
   "slug": "hans-k-huber-ag-luzern",
-  "name": "Hans K. Huber AG",
+  "name": "Huber Hans K. AG",
   "branchen": [
     "heizungsbauer"
   ],
@@ -26,5 +26,54 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJNbmLcqb7j0cRjSQFpHNJ5NY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Maria Rosa Egli",
+        "author_photo": "/images/reviews/hans-k-huber-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mitarbeiter sind sehr freundlich und kundenorientiert. Das über 20 jährige Service-Verhältnis ist unübertroffen",
+        "time": 1599066077,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Judith Willi",
+        "author_photo": "/images/reviews/hans-k-huber-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seit Jahren sehr zufrieden gute saubere schnelle Arbeit. 😊",
+        "time": 1608814526,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Robert Huber",
+        "author_photo": "/images/reviews/hans-k-huber-ag-luzern/reviewer_3.jpg",
+        "rating": 1,
+        "text": "unzufrieden!",
+        "time": 1760470223,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "B. E. Dönni",
+        "author_photo": "/images/reviews/hans-k-huber-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hier arbeiten noch Fachleute mit Herzblut.",
+        "time": 1617884691,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ruth von Arx",
+        "author_photo": "/images/reviews/hans-k-huber-ag-luzern/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1751549268,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

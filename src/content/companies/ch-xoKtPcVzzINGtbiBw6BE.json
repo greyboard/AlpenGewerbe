@@ -1,7 +1,7 @@
 {
   "id": "ch-xoKtPcVzzINGtbiBw6BE",
   "slug": "tisa-electric-sagl-biasca",
-  "name": "💡🔌⚡ Tisa Electric Sagl ⚡🔌💡",
+  "name": "Tisa Eletric Sagl",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,47 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnb-G4CGthUcR30f6frAlAMw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Mauro Sala (MS)",
+        "author_photo": "/images/reviews/tisa-electric-sagl-biasca/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Als langjährige Kunden haben wir uns in den letzten Jahren durch einige Wendungen des Schicksals aus den Augen verloren. Doch die Produkte, die ich verkaufe, und das Unternehmen, das ich nun als technischer Berater für die Regionen Tessin und Moesa vertrete, haben uns wieder zusammengeführt.\nDanke, Tiz, für den herzlichen Empfang!",
+        "time": 1755629995,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Flavio",
+        "author_photo": "/images/reviews/tisa-electric-sagl-biasca/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tiziano und sein Team sind sehr hilfsbereit, professionell, pünktlich und vor allem freundlich (eine Seltenheit heutzutage).",
+        "time": 1718484345,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Paola",
+        "author_photo": "/images/reviews/tisa-electric-sagl-biasca/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionell. Gut gemacht!",
+        "time": 1691478397,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

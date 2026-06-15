@@ -26,5 +26,47 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJp24WKinoj0cRgOkctdhXuCI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Philipp Vogel",
+        "author_photo": "/images/reviews/stalder-bau-ag-hasle/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit. Effizient und zuverlässig!",
+        "time": 1761916173,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Martina Reber",
+        "author_photo": "/images/reviews/stalder-bau-ag-hasle/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1661773589,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simon Arnold",
+        "author_photo": "/images/reviews/stalder-bau-ag-hasle/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1584733255,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

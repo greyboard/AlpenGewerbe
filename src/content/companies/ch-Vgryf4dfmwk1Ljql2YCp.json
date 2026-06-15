@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJrWnvnbymhEcRlPUl2X5BBI4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Fabian Obrist",
+        "author_photo": "/images/reviews/omlin-metallbau-ag-davos/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Balkonverglasung in Domat/Ems\n\n- sehr freundliche und tolle Kommunikation mit allen am Bau beteiligten\n- super schöne Arbeit zu einem fairen Preis\n- kann nur empfohlen werden!\n\nVielen Dank für den Einsatz und die geschätzte ausgeführte Arbeit.",
+        "time": 1772101136,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Remo Derungs",
+        "author_photo": "/images/reviews/omlin-metallbau-ag-davos/reviewer_2.jpg",
+        "rating": 5,
+        "text": "top von a-z… sehr kompetente beratung sowie ausführung",
+        "time": 1638271401,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alek Tobler",
+        "author_photo": "/images/reviews/omlin-metallbau-ag-davos/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bester Metallbauer in Town",
+        "time": 1590089003,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Florian Pongratz",
+        "author_photo": "/images/reviews/omlin-metallbau-ag-davos/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1655485281,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Vera Félix",
+        "author_photo": "/images/reviews/omlin-metallbau-ag-davos/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629911222,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-4XzyxMxXDLQnEmI1nyns",
   "slug": "del-sesto-sa-losone",
-  "name": "Del Sesto SA",
+  "name": "Del Sesto Sa",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJGfuonxHIhUcRbeYHJQoyVN0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.8,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "heavenswiss xyz",
+        "author_photo": "/images/reviews/del-sesto-sa-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mit dieser Firma bei einer Komplettrenovierung meines Hauses zusammengearbeitet. Die Arbeiten wurden planmäßig, im Rahmen des Kostenvoranschlags und präzise ausgeführt. Der Inhaber und seine Mitarbeiter sind professionell und sehr hilfsbereit. Ich kann Del Sesto uneingeschränkt empfehlen.",
+        "time": 1589445172,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Anna Bishop",
+        "author_photo": "/images/reviews/del-sesto-sa-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service, freundlich, hilfsbereit und super kompetent. Ich kann sie jedem empfehlen.",
+        "time": 1713364237,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "barbara tosti",
+        "author_photo": "/images/reviews/del-sesto-sa-losone/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ich habe Angst, ihre Arbeiter noch einmal in mein Haus zu lassen, denn ein Eingriff hat Schäden verursacht und der andere hat das Problem nicht gelöst.",
+        "time": 1615396189,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ileana Torti",
+        "author_photo": "/images/reviews/del-sesto-sa-losone/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und professionell",
+        "time": 1702649700,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Adriano Manini",
+        "author_photo": "/images/reviews/del-sesto-sa-losone/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fantastisch, und dann die Natur und die Leventina",
+        "time": 1559202549,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJudKg2x1VjkcRFNoQ-ZtGj0I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Ni Bu",
+        "author_photo": "/images/reviews/wiedmer-haustechnik-gmbh-diemtigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut hervorragender Service! Wir mussten die Firma Wiedmer Haustechnik an einem Feiertag wegen einer verstopften Hauptabwasserleitung kontaktieren, welche eine Rückstau ins Haus verursachte. Herr Wiedmer war innerhalb kürzester Zeit vor Ort und hat das Problem professionell und effizient gelöst. Hierbei half sicher die gute technische Ausrüstung und die spürbare Erfahrung. Wir sind mit dem Service sehr zufrieden und können die Firma Wiedmer Haustechnik uneingeschränkt weiterempfehlen! Vielen Dank für die Hilfe!",
+        "time": 1711890121,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Karin Allenbach",
+        "author_photo": "/images/reviews/wiedmer-haustechnik-gmbh-diemtigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wiedmer Haustechnik - rasch und zuverlässig!\nEs ist, und da stimmst du mir liebe Leserin, lieber Leser sicherlich zu, aktuell nicht ganz einfach an qualifizierte Sanitärexperten zu kommen, die sich Zeit nehmen rasch Lösungen zu liefern. Die Wiedmer Haustechnik GmbH macht es möglich. Franz Wiedmer überzeugt mit seiner ruhigen, überlegten und lösungsorientierten Art. Ein Unternehmen, das ich sehr gerne weiterempfehle.",
+        "time": 1681369288,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Damian Bertschi",
+        "author_photo": "/images/reviews/wiedmer-haustechnik-gmbh-diemtigen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Franz Wiedmer kann ich bestens weiterempfehlen. Seine Arbeit führt er sehr gewissenhaft und sauber aus. Er findet die beste Lösung für jeden Kundenwunsch und dies zudem mit grosser Erfahrung und absolut fairen Preisen.",
+        "time": 1683009160,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabian Aregger",
+        "author_photo": "/images/reviews/wiedmer-haustechnik-gmbh-diemtigen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Genialer, schneller und zuverlässiger Service. Auftrag wurde innerhalb eines Tages sehr preisgünstig erledigt.",
+        "time": 1594547710,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Wäfler Andreas",
+        "author_photo": "/images/reviews/wiedmer-haustechnik-gmbh-diemtigen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Echt kompetent",
+        "time": 1700859304,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

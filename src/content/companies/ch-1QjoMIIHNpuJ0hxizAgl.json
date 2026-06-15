@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9e5S-Qn7j0cROHwgsQUkkSI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Ivana Golub",
+        "author_photo": "/images/reviews/garten-art-bau-gmbh-inwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Rollrasen von Garten Notter verlegen lassen und könnten nicht zufriedener sein. Vom ersten Kontakt bis zur Fertigstellung lief alles absolut reibungslos und professionell.\n\nCerile und sein Team haben mit grosser Sorgfalt, Präzision und spürbarer Leidenschaft gearbeitet. Jedes Detail wurde beachtet, und man merkt sofort, dass hier echte Profis am Werk sind, die ihr Handwerk verstehen und höchste Qualitätsansprüche haben.\n\nDas Endergebnis hat unsere Erwartungen sogar übertroffen – ein perfekt verlegter, wunderschöner Rasen, der unseren Garten komplett aufwertet. Wir würden Garten Notter jederzeit wieder beauftragen und können das Team weiterempfehlen.",
+        "time": 1776858327,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Danila Bumbacher",
+        "author_photo": "/images/reviews/garten-art-bau-gmbh-inwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, top Beratung, zuverlässig, pünktlich, sehr freundliche Mitarbeiter. Die Ausführung perfekt, wie seit Jahren gewohnt. Vielen Dank für die tolle Arbeit. Immer gerne wieder.",
+        "time": 1727006854,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mike Müller",
+        "author_photo": "/images/reviews/garten-art-bau-gmbh-inwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswerte Firma. Sehr freundliche und kompetente Leute. Da sieht man dass Profis am Werk sind. Top Arbeit, sehr gerne wieder.",
+        "time": 1756148340,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Christoph Hofer",
+        "author_photo": "/images/reviews/garten-art-bau-gmbh-inwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut professionell, kundenfreundlich. Arbeiten sehr sauber ausgeführt, selbst bei schlechter Witterung. Sehr freundliche Mitarbeiter. Zuverlässige Gartenpflege - sehr empfehlenswert.",
+        "time": 1664186947,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ronaldo",
+        "author_photo": "/images/reviews/garten-art-bau-gmbh-inwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, vielen Dank noch einmal.",
+        "time": 1727006681,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

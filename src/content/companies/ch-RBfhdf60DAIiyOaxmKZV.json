@@ -26,5 +26,47 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-ZZQ3crTmkcRt-92nkpjG-w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Svenu",
+        "author_photo": "/images/reviews/linth-heizungen-gmbh-naefels/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Unproffesionell, mühsam, unfreuntlich.",
+        "time": 1702029363,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Iljazi Xhemail",
+        "author_photo": "/images/reviews/linth-heizungen-gmbh-naefels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643450321,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "no name",
+        "author_photo": "/images/reviews/linth-heizungen-gmbh-naefels/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1734511404,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

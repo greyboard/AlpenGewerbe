@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJt4AGXJ6yj0cR8DKUE61NnzE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Florian Soche",
+        "author_photo": "/images/reviews/ramseier-schreiner-gmbh-uetendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Familienbetrieb mit fairen Preisen",
+        "time": 1659360316,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rosser Sicherheit AG",
+        "author_photo": "/images/reviews/ramseier-schreiner-gmbh-uetendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1585570548,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Fabrício Gomes",
+        "author_photo": "/images/reviews/ramseier-schreiner-gmbh-uetendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1706632883,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas „Ändu“ Schneider",
+        "author_photo": "/images/reviews/ramseier-schreiner-gmbh-uetendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1603224333,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tom Ramseier",
+        "author_photo": "/images/reviews/ramseier-schreiner-gmbh-uetendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1602359025,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,30 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJAQCUvDUem0cR0I01F5dklWk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "xhimi Veljiji",
+        "author_photo": "/images/reviews/glaser-handtherapie-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Glaser, ich wollte mich persönlich bei Ihnen bedanken für die hervorragende Handtherapie, die ich bei Ihnen erhalten habe. Ihre professionelle und freundliche Art hat mich von Anfang an vertrauensvoll gemacht. Die Behandlungen waren sehr effektiv und haben mir geholfen, meine Handfunktion wiederherzustellen. Ich bin sehr dankbar für Ihre Hilfe und kann Sie nur weiterempfehlen!",
+        "time": 1743122003,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Angelina Bosshardt",
+        "author_photo": "/images/reviews/glaser-handtherapie-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Glaser ist ein sehr kompetenter und emphatischer Therapeut. Ich fühle mich verstanden und sehr gut betreut. Nur zu empfehlen!",
+        "time": 1695286495,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

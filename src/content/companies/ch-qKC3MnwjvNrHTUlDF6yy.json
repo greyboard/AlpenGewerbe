@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJaXcaFS74jkcRdk5dcc2brM8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Anita Sandra Klötzli-Wüthrich",
+        "author_photo": "/images/reviews/animaflor-gartenbau-ag-zweisimmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen herzlichen Dank für die unvergessliche und spannende Exkursion, zum Thema: Gartenbautechnik, Schwimmteich, Kneippanlagen.\n\nEs war super lehrreich.",
+        "time": 1758485498,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Bruno Watchdog",
+        "author_photo": "/images/reviews/animaflor-gartenbau-ag-zweisimmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Speditive und zuverlässige Firma, dich ich gerne empfehle 👌",
+        "time": 1776260813,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Peter Flück",
+        "author_photo": "/images/reviews/animaflor-gartenbau-ag-zweisimmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung, Ausführung und Qualität. Wir haben riesige Freud an unsere Terrasse und Bepflanzung!",
+        "time": 1728706154,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andrea Hueber",
+        "author_photo": "/images/reviews/animaflor-gartenbau-ag-zweisimmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wunderschöne Blumen Gestecke. Sehr stylisch",
+        "time": 1427145985,
+        "relative_time_description": "vor 11 Jahren"
+      },
+      {
+        "author_name": "Patrik Burkhardt Privat",
+        "author_photo": "/images/reviews/animaflor-gartenbau-ag-zweisimmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1780294794,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

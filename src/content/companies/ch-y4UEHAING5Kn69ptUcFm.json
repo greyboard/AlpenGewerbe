@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJJfSBeojkmkcRj6z-oznPyII",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Manuel Müller",
+        "author_photo": "/images/reviews/otto-keller-gartenbau-ag-zihlschlacht-sitterdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit der Otto Keller Gartenbau AG absolut zufrieden! Herr Riandlo Monn und sein Team haben unseren Sitzplatz und die Umgebung wunderschön gestaltet – professionell, zuverlässig und mit viel Herzblut. Die Zusammenarbeit war sehr angenehm, und das Ergebnis hat unsere Erwartungen übertroffen. Vielen Dank für die tolle Arbeit – wir können euch nur weiterempfehlen!",
+        "time": 1747664656,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christoph Lehmann",
+        "author_photo": "/images/reviews/otto-keller-gartenbau-ag-zihlschlacht-sitterdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Otto Keller Gartenbau AG hat unser Gartenprojekt von A bis Z perfekt begleitet. Kreative Planung, professionelle Umsetzung und herausragende Ergebnisse! Absolute Empfehlung für alle, die Qualität und Zuverlässigkeit schätzen. Vielen Dank an das tolle Team und ganz besonders an Rinaldo Monn!",
+        "time": 1715938153,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Björn Luther",
+        "author_photo": "/images/reviews/otto-keller-gartenbau-ag-zihlschlacht-sitterdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein grosses Lob an das Team von Keller Gartenbau und besonders an Rinaldo Monn! Die Arbeit war hervorragend, professionell und das Ergebnis beeindruckend. Herzlichen Dank für die grossartige Umsetzung unseres Gartenprojekts!",
+        "time": 1721906240,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vito Gianfelice",
+        "author_photo": "/images/reviews/otto-keller-gartenbau-ag-zihlschlacht-sitterdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bester Gartenbau in der Ostschweiz, Peter Keller hat uns sehr kompetent und Kundenorientiert beraten.",
+        "time": 1643139576,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Kurt Bühler",
+        "author_photo": "/images/reviews/otto-keller-gartenbau-ag-zihlschlacht-sitterdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat alles top geklappt. Super Arbeit abgeliefert.\nKann KEGA nur empfehlen.",
+        "time": 1659817845,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

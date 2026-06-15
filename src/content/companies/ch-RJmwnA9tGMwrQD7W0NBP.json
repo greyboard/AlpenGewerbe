@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJEWCoSYDSmkcRKKOzhyaG6lA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Pierre Oster (ROWILUX GMBH)",
+        "author_photo": "/images/reviews/zweifel-elektro-ag-niederurnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Beratung und beste Services, jederzeit gern wieder.",
+        "time": 1657702748,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "hansruedi zimmermann",
+        "author_photo": "/images/reviews/zweifel-elektro-ag-niederurnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Immer da wenn mann sie braucht 👍😉",
+        "time": 1601560236,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fredy Kaufmann",
+        "author_photo": "/images/reviews/zweifel-elektro-ag-niederurnen/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Super Service",
+        "time": 1634677347,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Katharina Weiler",
+        "author_photo": "/images/reviews/zweifel-elektro-ag-niederurnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich arbeite bei einer Immobilienverwaltung und wir arbeiten eng mit dieser Elektrofirma zusammen. Aus meiner persönlichen Erfahrung kann ich sie nur weiterempfehlen.\n\nDie Aufträge werden schnell, zuverlässig und oft noch am selben Tag erledigt. Auch preislich ist alles sehr fair und absolut verhältnismässig.\n\nBesonders schätze ich, dass nur die Arbeiten ausgeführt und verrechnet werden, die wirklich notwendig sind ohne unnötige Zusatzkosten. Zudem ist die Firma jederzeit sehr gut erreichbar und auch bei Notfällen oder über den Pikettdienst immer schnell zur Stelle.\n\nSehr professionelle, unkomplizierte und angenehme Zusammenarbeit. Wirklich ein Top-Unternehmen, mit dem wir hoffentlich noch viele Jahre zusammenarbeiten dürfen.",
+        "time": 1776280334,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Daniel Niefergold (Mack Adresse)",
+        "author_photo": "/images/reviews/zweifel-elektro-ag-niederurnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Erstklassiger Service.",
+        "time": 1670266174,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

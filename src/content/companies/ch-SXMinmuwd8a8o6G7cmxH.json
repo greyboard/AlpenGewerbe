@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8cf8dyjgmkcRF4bYtqwrnOI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "AK",
+        "author_photo": "/images/reviews/rey-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr angenehme und unkomplizierte Zusammenarbeit.\nSchnelle Bearbeitung aller Anliegen und Bestellungen.\nDanke für die Tubtarazange!! ;)",
+        "time": 1607603291,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ilario Cavallaro",
+        "author_photo": "/images/reviews/rey-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an Rey für die Arbeit. Ich bin der Neffe von Giuseppe Falbo, Grüße!",
+        "time": 1692185520,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "joshuabozidar",
+        "author_photo": "/images/reviews/rey-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ist eine kompetente und fachlich erfahrene Firma in Sachen, alles aus Metall zu erstellen, zu produzieren und entstehen zu lassen",
+        "time": 1593715709,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Conradin K.",
+        "author_photo": "/images/reviews/rey-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit Jungs!",
+        "time": 1520716689,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "fatjon muriqi",
+        "author_photo": "/images/reviews/rey-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1590640635,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

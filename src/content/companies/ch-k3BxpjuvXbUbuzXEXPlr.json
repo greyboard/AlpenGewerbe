@@ -1,7 +1,7 @@
 {
   "id": "ch-k3BxpjuvXbUbuzXEXPlr",
   "slug": "garlandini-sa-solduno",
-  "name": "Garlandini SA",
+  "name": "Pierluigi Garlandini SA",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJB_sFOMvJhUcRIeSAxTQRFAk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–15:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marco Massimo",
+        "author_photo": "/images/reviews/garlandini-sa-solduno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein seit über vierzig Jahren in der Region ansässiges Unternehmen, professionell, seriös und zuvorkommend von der Familie Garlandini geführt. Sehr empfehlenswert.",
+        "time": 1711466850,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Rey",
+        "author_photo": "/images/reviews/garlandini-sa-solduno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes Sanitär- und Heizungsunternehmen. Kompetentes Personal. Sehr empfehlenswert.",
+        "time": 1531430572,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Venus Iten",
+        "author_photo": "/images/reviews/garlandini-sa-solduno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gut strukturiertes Büro und sehr nette und hilfsbereite Mitarbeiter",
+        "time": 1611659029,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Elisa Na Suiça",
+        "author_photo": "/images/reviews/garlandini-sa-solduno/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1650660153,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Passion travel",
+        "author_photo": "/images/reviews/garlandini-sa-solduno/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1639569641,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

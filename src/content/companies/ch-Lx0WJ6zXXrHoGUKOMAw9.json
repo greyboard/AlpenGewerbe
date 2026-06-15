@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKUGsZwv6j0cR7F_cpMaLVV0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:30 Uhr",
+    "Dienstag: 08:00–17:30 Uhr",
+    "Mittwoch: 08:00–17:30 Uhr",
+    "Donnerstag: 08:00–17:30 Uhr",
+    "Freitag: 08:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Andre Ege",
+        "author_photo": "/images/reviews/kaeppeli-malermeister-gmbh-horw/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bereits einige kleinere, wie auch grössere Malerarbeiten mit der Firma Käppeli GmbH durchgeführt. Äusserst professionelle Arbeit. Pünktlich und zuverlässig, wie auch ein faires Preis- Leistungverhältnis.  Die Firma kann man mit gutem Gewissen weiterempfehlen.",
+        "time": 1657258711,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "nicola Pulfer",
+        "author_photo": "/images/reviews/kaeppeli-malermeister-gmbh-horw/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Marcel Käppeli und sein Team haben tolle Arbeit geleistet!\nVon der Beratung bis zur Ausführung, sehr professionell und das zu einem wirklich fairen Preis im Vergleich zu anderen Malern.\nImmer wieder gerne!",
+        "time": 1658382709,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Martin",
+        "author_photo": "/images/reviews/kaeppeli-malermeister-gmbh-horw/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von Anfang an eine faire und kompetente Abwicklung, alle Konditionen eingehalten und zeitlich fertig gestellt. Kann die Firma Käppeli wärmstens empfehlen, seriös und super Arbeit geleistet, gerne wieder mal!!",
+        "time": 1656961453,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "elmaplan ag",
+        "author_photo": "/images/reviews/kaeppeli-malermeister-gmbh-horw/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Dank der Top Beratung und Gespür für den Kunden, profitieren wir heute von einem kreativen Feng-Shui Farb-anstrich in unserem Büro. 😊 Die Arbeiten wurden sehr zuverlässig, selbständig und sauber ausgeführt. Wir sind sehr zufrieden.",
+        "time": 1656927889,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Remo Corazza",
+        "author_photo": "/images/reviews/kaeppeli-malermeister-gmbh-horw/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben sämtliche Wände und die Decke in der ganzen Wohnung streichen lassen. Die Arbeiten wurden sauber und termingerecht ausgeführt zu einem fairen Preis. Tiptop!",
+        "time": 1656868264,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

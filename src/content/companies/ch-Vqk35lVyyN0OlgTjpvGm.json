@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5fM2dFnnmkcRqyhXW_QHOTY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Yvonne Mächler",
+        "author_photo": "/images/reviews/aepli-metallbau-ag-gossau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle, sehr eindrückliche Firma mit sympathischem und speditivem Personal in allen Bereichen. Wir als Kleinbetrieb fühlen uns immer richtig beraten und ernstgenommen. Es macht Freude mit einem solch innovativen Betrieb zusammen zu arbeiten.",
+        "time": 1701966346,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Rohr",
+        "author_photo": "/images/reviews/aepli-metallbau-ag-gossau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr unkomplizierte und angenehme Zusammenarbeit! Immer ein gutes Miteinander bei teils sehr komplexen Bauvorhaben. Vielen Dank, gerne immer wieder.",
+        "time": 1708338551,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Not Sokrates",
+        "author_photo": "/images/reviews/aepli-metallbau-ag-gossau/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Äusserst respektloser Mi. 20.05.2026 von Zh nach Winterthur Autobahn. SG149830",
+        "time": 1779288610,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Ranko Stjepanovic",
+        "author_photo": "/images/reviews/aepli-metallbau-ag-gossau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781312697,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Jasmin Draganovic",
+        "author_photo": "/images/reviews/aepli-metallbau-ag-gossau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774111288,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

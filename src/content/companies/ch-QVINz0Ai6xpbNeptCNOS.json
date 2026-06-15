@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4TRzWJoAkEcROUHfWy8w-8U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "-Balz- -Seidank-",
+        "author_photo": "/images/reviews/kreha-elektro-ag-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "KREHA hat bei uns grade die ganze Infrastruktur für elektrisches Laden in der Tiefgarage installiert. Ich kann sie zu 100% empfehlen. Vom Projektleiter über Installateur und Lehrling, alle sehr nett, kompetent, und Preis stimmt auch.",
+        "time": 1761576227,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Thomas Villiger",
+        "author_photo": "/images/reviews/kreha-elektro-ag-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super freundlicher Elektriker in der Nähe, wo man auch mal einen Schalter oder eine Steckdose 'über die Gasse' kaufen darf. Arbeiten wurden schnell und ordentlich erledigt, auch wusste der Elektrikter kompetent Vorschläge und kreative Ideen für weitere Projekte.\nGerne wieder!",
+        "time": 1565346397,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Christoph Silberschmidt",
+        "author_photo": "/images/reviews/kreha-elektro-ag-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben einen Ladenumbau mit Kreha realisiert. Von A-Z hat das gesamte Kreha Team die beste und fairste Lösung für uns gefunden. Top - weiter so! Herzlichen Dank.",
+        "time": 1570613719,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michi",
+        "author_photo": "/images/reviews/kreha-elektro-ag-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Haben super arbeit geleistet",
+        "time": 1574150506,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marc Reichmuth",
+        "author_photo": "/images/reviews/kreha-elektro-ag-cham/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1780868659,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

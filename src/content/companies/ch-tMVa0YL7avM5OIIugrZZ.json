@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ88Q4gwP2j0cRm4OOzIZaXh8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Fabian Businger",
+        "author_photo": "/images/reviews/buenter-u-mathis-ag-gipser-und-stukkaturgeschaeft-wolfenschiessen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bester Gipser weit und breit.",
+        "time": 1543150300,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Paolo Reda",
+        "author_photo": "/images/reviews/buenter-u-mathis-ag-gipser-und-stukkaturgeschaeft-wolfenschiessen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der beste Stylist",
+        "time": 1665300326,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

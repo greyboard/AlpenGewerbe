@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnwBkvh1vjkcRDYf8oz_Y4mk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Jean Singy",
+        "author_photo": "/images/reviews/solesa-sa-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe die Dienste von Solesa bereits mehrfach in Anspruch genommen, sowohl privat als auch beruflich, insbesondere im Bäckerei- und Gastronomiebereich. Sie haben verschiedene Projekte erfolgreich abgeschlossen. Solesa ist ein professionelles, zuverlässiges Unternehmen, das auf unsere Bedürfnisse eingeht. Ich kann sie uneingeschränkt empfehlen und nutze ihre Dienste regelmäßig.",
+        "time": 1768297690,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Doude",
+        "author_photo": "/images/reviews/solesa-sa-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Als kleines Mehrfamilienhaus mit vier Wohneinheiten wandten wir uns an Herrn Oberson, um ein Angebot einzuholen. Der Manager und sein Partner haben sich außerordentlich engagiert, um effiziente und auf unsere Bedürfnisse zugeschnittene Lösungen zu finden. Wir verfügen nun über eine skalierbare und leistungsstarke Ladestation, die zudem mit einer zukünftigen Solaranlage kompatibel ist. Alle Fristen wurden eingehalten, die Beratung war fundiert, die Arbeit von hoher Qualität und die Anlage wurde vorbildlich gepflegt. Wir sind rundum zufrieden mit Ihrer Arbeit. Eine uneingeschränkte Empfehlung für alle Ihre Ladebedürfnisse!",
+        "time": 1762276150,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Jean-François Debons",
+        "author_photo": "/images/reviews/solesa-sa-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolles Team, immer hervorragende Arbeit!",
+        "time": 1770449402,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jose Devanthery",
+        "author_photo": "/images/reviews/solesa-sa-fribourg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Dieses Unternehmen hört seinen Kunden zu, leistet hervorragende Arbeit und ist kompetent und vertrauenswürdig. Ich empfehle es uneingeschränkt. Vielen Dank.",
+        "time": 1747066563,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Cédric Arnold",
+        "author_photo": "/images/reviews/solesa-sa-fribourg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr schnelle Reaktion, kompetentes und freundliches Personal, wirklich erstklassiger Service!",
+        "time": 1752205614,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

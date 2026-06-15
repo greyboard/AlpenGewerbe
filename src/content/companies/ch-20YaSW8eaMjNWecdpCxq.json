@@ -26,5 +26,30 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJn1q5zNH_jUcRztikysDXoSA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "D B",
+        "author_photo": "/images/reviews/arnoux-construction-metallique-sa-les-bois/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756616488,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Nicolas Barbier",
+        "author_photo": "/images/reviews/arnoux-construction-metallique-sa-les-bois/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753205068,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

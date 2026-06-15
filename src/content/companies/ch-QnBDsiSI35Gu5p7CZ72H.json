@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJwVoR7nAhm0cRgrFx6xW2R4Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Daniel Stamm",
+        "author_photo": "/images/reviews/markus-ulmann-feuerungen-gmbh-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sind mit dem Service immer zufrieden gewesen, besten Dank 😊👍",
+        "time": 1612785916,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniel Wildhaber",
+        "author_photo": "/images/reviews/markus-ulmann-feuerungen-gmbh-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service, nur weiter zu Empfehlen.",
+        "time": 1690410438,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ivan Holenstein",
+        "author_photo": "/images/reviews/markus-ulmann-feuerungen-gmbh-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer sofort zur Stelle wenn ein Problem anliegt. Danke",
+        "time": 1670581929,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Friedel Schmitt",
+        "author_photo": "/images/reviews/markus-ulmann-feuerungen-gmbh-appenzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709457175,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

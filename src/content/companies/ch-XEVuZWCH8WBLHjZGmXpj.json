@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJYQrUVPP7j0cRiU2EMdYByBc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Tanja Pavlovic",
+        "author_photo": "/images/reviews/dine-sanitaer-gmbh-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir bedanken uns herzlich für die äusserst saubere und zügige Ausführung der Arbeiten. Von der ersten Kontaktaufnahme bis zur Fertigstellung verlief alles reibungslos und sehr professionell. Besonders schätzen wir die zuverlässige Kommunikation, das fachkundige Auftreten sowie die Termintreue Ihres Teams. Es ist nicht selbstverständlich, eine Sanitärfirma zu finden, auf die man sich in jeder Hinsicht verlassen kann – umso erfreulicher, dass wir nun einen Partner gefunden haben, auf den wir gerne auch in Zukunft zählen werden. Vielen Dank!",
+        "time": 1747212727,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fer Patao",
+        "author_photo": "/images/reviews/dine-sanitaer-gmbh-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ivan hat wirklich grossartige Arbeit geleistet,  schnell, sehr professionell, unkompliziert und ohne Schwierigkeiten.\nIch kann ihn jedem empfehlen und ab jetzt ist er mein Sanitär 🙌",
+        "time": 1762776948,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Akif Gürlek",
+        "author_photo": "/images/reviews/dine-sanitaer-gmbh-emmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben bei uns zwei Bäder kernsaniert. Hierbei hat uns Dine Sanitär bei der Demontage alter Badgarnituren und der kompletten Installation der neuen Garnituren, mit den sämtlichen Vorbereitungsarbeiten, unterstützt. Während unserer Zusammenarbeit hat Ivan (Inhaber Dine Sanitär) sich als äußerst zuverlässiger und engagierter Fachkraft im Sanitärbereich erwiesen, der mit höchster Sorgfalt, Professionalität und Zuverlässigkeit Arbeiten ausgeführt hat.\nDie Zusammenarbeit mit Dine Sanitär war von Anfang an äußerst angenehm und konstruktiv. Besonders hervorheben möchten wir die saubere und präzise Ausführung aller Arbeiten – stets ordentlich, durchdacht und mit einem hohen Anspruch an Qualität. Darüber hinaus bringt Ivan nicht nur technisches Können mit, sondern auch wertvolle Ideen und Lösungsvorschläge.\nSeine zeitliche Flexibilität war in vielen Situationen ein großer Vorteil – auch kurzfristige Änderungen oder Einsätze wurden stets problemlos umgesetzt. Die Kommunikation verlief jederzeit klar, freundlich, was die Zusammenarbeit besonders angenehm machte.\nAuch bei Zusatzarbeiten zeigte sich Ivan entgegenkommend und lösungsorientiert. Die gesamte Zusammenarbeit war von einer sehr angenehmen Atmosphäre geprägt.\nWir danken herzlich für die geleistete Arbeit und können Dine Sanitär ohne Einschränkungen weiterempfehlen.",
+        "time": 1753596089,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Jörg Koch",
+        "author_photo": "/images/reviews/dine-sanitaer-gmbh-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir hatten an Weihnachten ein Problem mit dem Abfluss beim Waschbecken in der Küche. Ivan hat uns sehr kompetent und unkompliziert telefonisch geholfen, so dass wir das Problem selber lösen konnten. Top Service.\nBeim nächsten Sanitär-Auftrag kommen wir sicher auf ihn zurück, dann gerne auch vor Ort.",
+        "time": 1735407344,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kilian Müller",
+        "author_photo": "/images/reviews/dine-sanitaer-gmbh-emmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe mit Dine Sanktär einen kompletten Neubau umgesetzt. Sauber schnell und qualitativ top. Das Fachwissen, welches hier vorherrscht kann so schnell keiner nachmachen.",
+        "time": 1694436563,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

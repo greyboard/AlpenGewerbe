@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJHXGcV6K5kUcRVGtEiqQD334",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Max Müller",
+        "author_photo": "/images/reviews/metallbau-schaeuble-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mein Edelstahl Grillrost hier bei Schäuble Metallbau modifiziert und bin sehr zufrieden mit den Arbeiten. Der Mitarbeiter war auch sehr freundlich ,danke 👍",
+        "time": 1770907712,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Mirjam Bracher",
+        "author_photo": "/images/reviews/metallbau-schaeuble-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte ein Problem mit einer alten Türfalle, die nicht einfach ersetzt werden konnte. Das Team war unglaublich freundlich und hat sich viel Zeit genommen, um die beste Lösung zu finden. Dank ihrer Geduld und Fachkenntnis funktioniert die Tür jetzt wieder einwandfrei. Ein toller Service – absolut empfehlenswert!",
+        "time": 1740576887,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sonja Velte",
+        "author_photo": "/images/reviews/metallbau-schaeuble-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente, freundliche Arbeiter. Schnelle Ausführung. Super Preis- Leistungsverhältnis. Kann ich nur weiter empfehlen.",
+        "time": 1738246646,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dan Rex",
+        "author_photo": "/images/reviews/metallbau-schaeuble-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Geschäft mit tollem Fachpersonal👌🏻 Mein Favorit wenn es um Metallbau geht. Sehr professionelle Auskünfte und sehr angenehme Kommunikation.",
+        "time": 1739268538,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "lucada32",
+        "author_photo": "/images/reviews/metallbau-schaeuble-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und innovativ.",
+        "time": 1507299889,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

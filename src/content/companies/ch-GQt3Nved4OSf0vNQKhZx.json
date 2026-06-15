@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJn6yI3UcAjkcRvIXFwQL94zI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.8,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Marie-Christine Baume",
+        "author_photo": "/images/reviews/sylvio-filippini-les-breuleux/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlichen Glückwunsch an dieses Unternehmen für sein Engagement für Kundenzufriedenheit. Ein außergewöhnlich professionelles Team, das auf die Bedürfnisse seiner Kunden eingeht und sich höchsten handwerklichen Standards verpflichtet. Absolut empfehlenswert für Projekte jeder Art, selbst für die ungewöhnlichsten!",
+        "time": 1516096902,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Fabienne Varin",
+        "author_photo": "/images/reviews/sylvio-filippini-les-breuleux/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr empfehlenswertes Unternehmen. Die Arbeit war sehr professionell und von hervorragender Qualität. Die Beratung war hervorragend.\nWir waren mit der Arbeit sehr zufrieden. Die Angebote waren klar und präzise und wurden stets eingehalten.",
+        "time": 1518033888,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Andrea Babey",
+        "author_photo": "/images/reviews/sylvio-filippini-les-breuleux/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sylvio Filippini Peinture ist DIE Referenz im Bereich Innen- und Aussenanstrich, Fassadendämmung, Tapezieren, Dekorieren, Verputzen, Sandstrahlen und Spritzen für die Regionen Jura und Berner Jura.\nHerr Filippini, Inhaber eines eidgenössischen Master-Abschlusses, übernimmt sogar die allgemeine Bauleitung – die Qualität seiner Arbeit ist erstklassig!",
+        "time": 1517994544,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Grégoire Aubry",
+        "author_photo": "/images/reviews/sylvio-filippini-les-breuleux/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragende Renovierungsarbeiten an einer Wohnung im alten Familienbauernhof! Qualitätsarbeit, Termine und Preise eingehalten. Bravo an den Handwerker!",
+        "time": 1518870312,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Trudy Boillat",
+        "author_photo": "/images/reviews/sylvio-filippini-les-breuleux/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Termine nicht eingehalten, Pfusch an der Arbeit, Preise über dem Marktpreis: Unbedingt meiden.",
+        "time": 1564828068,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

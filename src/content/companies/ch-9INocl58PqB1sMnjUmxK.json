@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJh3K-BPMJkEcRoYYw7PU1SYY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "sara städelin",
+        "author_photo": "/images/reviews/elektra-zuerich-ag-fuer-elektrotechnische-anlagen-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich wurde super professionell und kompetent am Telefon beraten und fühlte mich rundum gut aufgehoben. Die Dame am Telefon war sehr freundlich und zuvorkommend. Die Elektriker haben eine herausragende Fachkompetenz und sind sehr zuverlässig. Die Elektra AG ist von A bis Z top organisiert!",
+        "time": 1776145684,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Andi 554",
+        "author_photo": "/images/reviews/elektra-zuerich-ag-fuer-elektrotechnische-anlagen-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wirklich mal ein Elektriker der sein Handwerk versteht. Hatten schon zuvor 2 andere Elektriker und diese haben den Fehler nicht gefunden, warum die Sicherung von Zeit zu Zeit, immer wieder rausgesprungen ist. Nun ist es endlich vollbracht. Danke auch an den Chef Herr Malici, er hat uns nach 3 Wochen angerufen ob alles in Ordnung sei. So einen Service habe ich noch nie erlebt. Danke, der nächste Auftrag geht 100% an Sie.",
+        "time": 1730385622,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matthias Müller",
+        "author_photo": "/images/reviews/elektra-zuerich-ag-fuer-elektrotechnische-anlagen-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich möchte an dieser Stelle meine uneingeschränkte Empfehlung für die Elektra aussprechen. Das Team hat mich durch seine herausragende Fachkompetenz, absolute Zuverlässigkeit und professionelle Arbeitsweise überzeugt! Von der ersten Kontaktaufnahme über die detaillierte Beratung bis hin zur fachgerechten Ausführung der Arbeiten verlief alles reibungslos und in höchster Qualität. Besonders beeindruckend war das umfangreiche technische Know-how der Mitarbeiter, die nicht nur sämtliche Arbeiten termingerecht und effizient erledigten, sondern auch bei unvorhergesehenen Herausforderungen stets eine schnelle und durchdachte Lösung fanden. Ich werde bei zukünftigen Projekten mit Sicherheit Sie wieder beauftragen und kann das Unternehmen jedem, der Wert auf Qualität und Zuverlässigkeit legt, wärmstens weiterempfehlen!!",
+        "time": 1727363022,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "h. bayat",
+        "author_photo": "/images/reviews/elektra-zuerich-ag-fuer-elektrotechnische-anlagen-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin wirklich zufrieden gewesen mit Elektro Zürich AG. Von der telefonischen Beratung bis hin zum Einsatz. Ich habe diese Firma über das Internet gefunden und falls sie Hilfe benötigen kann ich es nur weiterempfehlen denn mir wurde zu meiner vollsten Zufriedenheit weitergeholfen.\nIm übrigens ist das Team sehr nett gewesen.",
+        "time": 1712155952,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Corinne Weisskopf",
+        "author_photo": "/images/reviews/elektra-zuerich-ag-fuer-elektrotechnische-anlagen-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Terminvereinbarung war sehr zügig, unkompliziert und freundlich.\n\nDer Elektriker war pünktlich da und montierte die 3 Leuchten innert kürzester Zeit.\n\nAls ich noch Schwierigkeiten mit der Bedienung der einen Lampe hatte, bekam ich sofort hilfreiche und passende Informationen.\n\nEine sehr kompetente und sehr empfehlenswerte Firma!",
+        "time": 1712757713,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

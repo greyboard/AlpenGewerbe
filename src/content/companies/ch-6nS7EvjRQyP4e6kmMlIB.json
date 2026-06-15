@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJk2AOZUzzj0cRrRr20LgpUJ4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "ralph van den Berg",
+        "author_photo": "/images/reviews/ewo-gebaeudetechnik-ag-kerns/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben eine tolle Solaranlage erhalten. Es hat von A bis Z alles super geklappt. Termin, Qualität, Funktion, alles Tiptop. Marc und sein Team waren mega nett und haben am Freitag Nachmittag auch noch Überstunden gemacht, damit die Anlage vor dem  Weekend ans Netz kommt. Vielen Dank.",
+        "time": 1749720430,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ich u",
+        "author_photo": "/images/reviews/ewo-gebaeudetechnik-ag-kerns/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Volle Fahrt Richtung Neubau. Wir sind begeistert und Danken für die hervorragende Zusammenarbeit. Cooli Buidä!",
+        "time": 1679067572,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Bänziger",
+        "author_photo": "/images/reviews/ewo-gebaeudetechnik-ag-kerns/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Stets sehr kundenorientierte sowie professionelle Beratung. Bei kurzfristigen Einsätzen und \"Notfällen\" sehr flexibel durch die rasche Reaktionszeit schnell vor Ort. Herausragend aus meiner Erfahrung sind die freundlichen und ausgesprochen kompetenten Mitarbeiter auf allen Stufen.",
+        "time": 1683696108,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ulrich & Hefti AG (UHAG)",
+        "author_photo": "/images/reviews/ewo-gebaeudetechnik-ag-kerns/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sowohl als Kunde, wie auch als Lieferant ist das Team der EWO-Gebäudetechnik stehts eine sehr gute Wahl für uns. Besten Dank für die tolle Zusammenarbeit.",
+        "time": 1679385070,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Samuel Büttler",
+        "author_photo": "/images/reviews/ewo-gebaeudetechnik-ag-kerns/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein kompetentes und aufgestelltes Team. Lieben Dank für die unkomplizierte Zusammenarbeit.",
+        "time": 1677590219,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

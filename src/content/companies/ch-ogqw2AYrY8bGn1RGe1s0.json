@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVVVVVerhhEcRmH1-bKFMwqk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Thomas Baumgartner",
+        "author_photo": "/images/reviews/barata-gipser-maler-ag-vattiz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Gipser -Maler Geschäft im Val Lumnezia.",
+        "time": 1705085927,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Neves",
+        "author_photo": "/images/reviews/barata-gipser-maler-ag-vattiz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1624002015,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Evelyne Caminada",
+        "author_photo": "/images/reviews/barata-gipser-maler-ag-vattiz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1587161943,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ricardo Pereira",
+        "author_photo": "/images/reviews/barata-gipser-maler-ag-vattiz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775480367,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Derungs Gian Reto (DGR)",
+        "author_photo": "/images/reviews/barata-gipser-maler-ag-vattiz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1716808461,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

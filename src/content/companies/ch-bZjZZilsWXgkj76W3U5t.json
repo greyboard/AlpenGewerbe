@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJr73qiBmSmkcRdZ-S8uFGt0c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Bea Mäder",
+        "author_photo": "/images/reviews/elektrofachgeschaeft-mueller-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ihre zwei Mitarbeiter haben sehr gute Arbeit geleistet. Der Umgang untereinander war sehr zuvorkommend. Die Geduld, welche der Elektroinstallateur mit seinem Praktikanten hatte war lobenswert. Nie ein lautes Wort, ganz toll.\nIch kann Ihnen das Elektrogeschäft Müller AG sehr empfehlen.",
+        "time": 1763236711,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Prisca Bischofberger",
+        "author_photo": "/images/reviews/elektrofachgeschaeft-mueller-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Montag Morgen mit Stromausfall :-((\nDer Griff zum Telefon und schildern des Notfalls.\nDie nette Dame überblickt die Situation und schickt und sofort Herrn Grezner als Retter.\nDieser ist schnell vor Ort, findet das Problem und arbeitet dieses versiert, kompetent, speditiv und freundlich ab.\nSo ein zuverlässiger Service wird sehr geschätzt und wir sagen laut: \"Dankeschön!\"",
+        "time": 1773660664,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Manuel Jacomet",
+        "author_photo": "/images/reviews/elektrofachgeschaeft-mueller-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "So stellt man sich Handwerker vor!\n\nNach kurzer Begutachtung am ersten Termin war klar, dass die Reparatur der Waschmaschine nicht direkt möglich war.\nDas Ersatzteil musste bestellt werden, wurde selbstverständlich nicht am Wochenende geliefert.\n\nAm Montag wurden wir bereits für einen neuen Termin kontaktiert, am Dienstag um 8 Uhr lief das Ding wieder einwandfrei!\n\nGerne wieder!",
+        "time": 1769513931,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Andrea Kuoni",
+        "author_photo": "/images/reviews/elektrofachgeschaeft-mueller-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Der Auftrag wurde zu meiner vollsten Zufriedenheit ausgeführt. Der Mitarbeiter war sehr freundlich, speditiv, kompetent und professionell. Auch die gesamte Abwicklung war hervorragend – von der Offertanfrage über die Auftragserteilung bis zur Ausführung ein erstklassiger Service.\nJederzeit gerne wieder – uneingeschränkt weiterzuempfehlen!",
+        "time": 1760625561,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Ronny Egger",
+        "author_photo": "/images/reviews/elektrofachgeschaeft-mueller-ag-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service für mein Haushaltsgerät, mein Backofen und meine Waschmaschine habt ihr im Nu wieder flott gekriegt.",
+        "time": 1772547068,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

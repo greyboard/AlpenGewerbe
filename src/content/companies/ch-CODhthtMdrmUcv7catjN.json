@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJEcn-5bnSmkcRI2tYKBSfors",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Remo Geeser",
+        "author_photo": "/images/reviews/christian-landolt-polsterei-und-bodenbelaege-ag-naefels/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von A-Z einfach nur top. Sehr gute Beratung, speditive und saubere Arbeit, super Kundendienst und der Preis stimmt auch. Gerne wieder.\nVielen Dank.",
+        "time": 1706958169,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Carmen Buesser",
+        "author_photo": "/images/reviews/christian-landolt-polsterei-und-bodenbelaege-ag-naefels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein ganz grosses Dankeschön, der Fam.Landolt mit Ihrem tollen Team.\nDie Beratung und schnelle Dienstleistung....einmalig in der Schweiz eben in Näfels.\nCarmen  Büsser weesen",
+        "time": 1706637379,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tobias Kühnhanss",
+        "author_photo": "/images/reviews/christian-landolt-polsterei-und-bodenbelaege-ag-naefels/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung und kompetentes Team. Gerne wieder einmal.",
+        "time": 1631133932,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Forderer",
+        "author_photo": "/images/reviews/christian-landolt-polsterei-und-bodenbelaege-ag-naefels/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und fachkundiges Personal. Sehr schöne Ausstellung. Top",
+        "time": 1654951547,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fabio Losai",
+        "author_photo": "/images/reviews/christian-landolt-polsterei-und-bodenbelaege-ag-naefels/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionell und wünder schönen Stoff Auswahl",
+        "time": 1644477956,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

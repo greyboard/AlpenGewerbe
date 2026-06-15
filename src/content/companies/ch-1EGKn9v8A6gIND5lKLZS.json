@@ -26,5 +26,55 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJL85SUjy4kUcRbJJMIdHNb-k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Alvarez T.",
+        "author_photo": "/images/reviews/ganter-basel-ag-basel/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Wir haben mit der Firma Ganter leider sehr schlechte Erfahrungen gemacht. Bei Arbeiten an einer bodenebenen Dusche kam es später zu erheblichen Wasserschäden im darunterliegenden Raum. Mehrere unabhängige Gutachten, die wir einholen mussten, weisen auf gravierende Mängel in der Ausführung hin – insbesondere im Bereich der Abdichtung rund um den Ablauf.\nTrotz fristgerechter Mängelrüge und der klaren Hinweise aus den Gutachten zeigte sich das Unternehmen bislang nicht kooperativ. Die Situation hat für uns als Auftraggeber zu hohen Kosten, viel Aufwand und unnötigem Ärger geführt.\nAufgrund unserer persönlichen Erfahrung können wir die Firma Ganter leider nicht weiterempfehlen.",
+        "time": 1773311790,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Julio Alvarez",
+        "author_photo": "/images/reviews/ganter-basel-ag-basel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Beim Kauf unserer Wohnung im Rohbau wurde 2019 eine bodenebene Dusche durch Ganter Basel AG installiert. Einige Jahre später kam es zu einem Wasserschaden. Zwei unabhängige Gutachten halten fest, dass die Abdichtung im Bereich des Ablaufs nicht den einschlägigen SIA-Normen entspricht bzw. wesentliche Abdichtungselemente fehlen sollen.\n\nDie betroffenen Bauteile befinden sich unter den Fliesen und waren bei der Wohnungsabnahme für uns als Laien nicht erkennbar. Trotzdem verweist die Firma heute auf die 2- und 5-Jahresgarantie sowie auf die vorbehaltlose Abnahme.\n\nDer Umgang mit dieser Situation ist für uns schwer nachvollziehbar und sehr ärgerlich. Wir hätten deutlich mehr\nVerantwortung oder zumindest Kulanz erwartet. Aus unserer Sicht sehr enttäuschend – daher nur 1 Stern.",
+        "time": 1773324347,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marc P.",
+        "author_photo": "/images/reviews/ganter-basel-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben der Firma Ganter Basel AG den Auftrag für neue Silikonfugen erteilt. Die Offertenstellung war unkompliziert. Das Team war ausgesprochen freundlich und zuvorkommend - Ich hatte das Gefühl, dass  alle beteiligten Mitarbeitenden einen Wert auf sauber ausgeführte Arbeiten legten. Rechnungsstellung verlief exakt wie gewünscht und Preis war so wie vereinbart.\nMit dem Resultat bin ich sehr zufrieden.\nDanke Ganter Basel AG!",
+        "time": 1702333050,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thierry Bam",
+        "author_photo": "/images/reviews/ganter-basel-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma hat ein schönes Angebot an Bodenbelägen. Die Qualität, der Service und die Beratung sind top. Dank den ansprechenden Belägen sind wir nun im Besitz eines schönen neuen Boden, der belastbar und aus erstklassigem Material ist.",
+        "time": 1340814174,
+        "relative_time_description": "vor 13 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

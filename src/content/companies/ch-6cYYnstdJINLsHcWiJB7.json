@@ -26,5 +26,38 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJDzpDk3OhmkcRO-pUSGUdSKA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Jonas Zehnder",
+        "author_photo": "/images/reviews/michael-helbling-bau-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642959316,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mary Joanna",
+        "author_photo": "/images/reviews/michael-helbling-bau-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600863124,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Mary Joanna",
+        "author_photo": "/images/reviews/michael-helbling-bau-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732469344,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

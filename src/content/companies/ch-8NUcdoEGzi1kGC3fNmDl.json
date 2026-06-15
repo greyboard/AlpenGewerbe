@@ -26,5 +26,47 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJVZescIvgjUcRNbGLG-BNPlg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Martine Notter",
+        "author_photo": "/images/reviews/vitrerie-miroiterie-notter-cortaillod/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In Ordnung",
+        "time": 1652690268,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Laura Steiger",
+        "author_photo": "/images/reviews/vitrerie-miroiterie-notter-cortaillod/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1713940294,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Raphael Bohnet",
+        "author_photo": "/images/reviews/vitrerie-miroiterie-notter-cortaillod/reviewer_3.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1682684264,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

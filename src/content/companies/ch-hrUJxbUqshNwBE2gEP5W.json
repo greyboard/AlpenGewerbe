@@ -26,5 +26,31 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJv066GqYKkEcRB8JBDeWrEdQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 09:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Roland Haberstroh",
+        "author_photo": "/images/reviews/hirt-kinetics-ag-mollis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1504294858,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

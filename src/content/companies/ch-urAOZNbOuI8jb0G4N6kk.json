@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKaI4f5Qem0cRxegVzpWtBSM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Daniel Sutter",
+        "author_photo": "/images/reviews/zuffelato-wirrer-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Renovation unseres Parketts wurde durch Patrick Lüdicke pünktlich, äusserst kompetent und sorgfältig ausgeführt. Das Resultat ist besser ausgefallen, als wir es erwartet haben. Man merkt, dass Patrick mit Herzblut und Berufsstolz sein Handwerk ausführt, vielen herzlichen Dank für die tolle Arbeit, die Hilfsbereitschaft und die freundliche Zusammenarbeit!",
+        "time": 1756805372,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Delia Weidmann",
+        "author_photo": "/images/reviews/zuffelato-wirrer-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten schon lange mit der Zuffelato + Wirrer AG zusammen und haben durchwegs positive Erfahrungen gemacht. Von der Bemusterung über die Ausführung und Nachbearbeitung kann man sich auf einen hervorragenden Service und eine optimale Qualität verlassen.",
+        "time": 1703168969,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "ingenieur",
+        "author_photo": "/images/reviews/zuffelato-wirrer-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma nur weiterempfehlen! Besten Dank an Hr. Bajrami für freundliche & professionelle Beratung.",
+        "time": 1701033721,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mani Peta",
+        "author_photo": "/images/reviews/zuffelato-wirrer-ag-st-gallen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1753778670,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Mm Switz",
+        "author_photo": "/images/reviews/zuffelato-wirrer-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1728162053,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

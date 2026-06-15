@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJG-Fkh9w5jkcRwaElkhXFyPE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Petra Arn",
+        "author_photo": "/images/reviews/apolloni-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Pünktlich, sehr freundlich und aufmerksam. Toll!",
+        "time": 1758194103,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Adrian Raz",
+        "author_photo": "/images/reviews/apolloni-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "habe mit Apolloni AG einen Heizungsersatz (WP und Warmwasser) realisiert. Saubere Arbeit, Pünktlich und sehr angenehm im Kontakt. Die Firma kann ich sehr weiterempfehlen!",
+        "time": 1685615317,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Hans-Peter Eckstein",
+        "author_photo": "/images/reviews/apolloni-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundlicher und absolut kompetenter Service vor Ort. Schön, dass es solche Handwerker noch gibt!",
+        "time": 1544443851,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "cyrill kilchenmann",
+        "author_photo": "/images/reviews/apolloni-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kann ich gerne weiterempfehlen. Danke vielmals für den schnellen und unkomplizierten Service!",
+        "time": 1647811380,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Brigitte Scaglia",
+        "author_photo": "/images/reviews/apolloni-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die perfekte und saubere Arbeit! Kann ich jederzeit empfehlen👍🏼👍🏼👍🏼",
+        "time": 1647459607,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

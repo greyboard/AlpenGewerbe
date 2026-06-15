@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJXXfmtNoSjkcR4oBECDlnvq0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Andreas Reber",
+        "author_photo": "/images/reviews/b-munz-sanitaer-pro-gaz-ag-murten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnelle und Professionelle Prüfung unserer Gaseinrichtungen beim Camper!",
+        "time": 1765365965,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Mike Rafalski",
+        "author_photo": "/images/reviews/b-munz-sanitaer-pro-gaz-ag-murten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Brauchst Du eine Gasprüfung für deinen Camper, Wohnwagen oder Dein Boot, dann bist Du hier genau richtig!",
+        "time": 1750454643,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Adrian",
+        "author_photo": "/images/reviews/b-munz-sanitaer-pro-gaz-ag-murten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Unternehmen kontaktiert, da in meinem Van Gas ausgetreten ist.\nSehr zeitnah (2 Werktage später) hatte ich direkt einen Termin und die Leckage wurde innerhalb 50min gefunden und behoben.\n\nUnd während der Arbeit war noch Spaß & Witz auch dabei 🤗\n\nIch bin mehr als begeistert und kann die Firma Munz nur wärmstens empfehlen!",
+        "time": 1692020064,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefan Wenk",
+        "author_photo": "/images/reviews/b-munz-sanitaer-pro-gaz-ag-murten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top sehr professionelle schnelle kompetente Abwicklung\nJedes Jahr wieder Merci",
+        "time": 1704151850,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Shiofu Nanmo",
+        "author_photo": "/images/reviews/b-munz-sanitaer-pro-gaz-ag-murten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Immer wieder sehr gerne, bester Service!",
+        "time": 1566676251,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

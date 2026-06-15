@@ -26,5 +26,31 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJJXcxhYAfjkcRpHvnrH259Qc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Renate Chevallaz",
+        "author_photo": "/images/reviews/schreinerei-rhyn-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Auf meinem geölten Parkett befanden sich mehrere schwarze Flecken von Kondenswasser (Kamin). Herr Rhyn hat diese mit seinem professionellen Wissen und Handeln entfernen können und das Problem zu meiner vollsten Zufriedenheit gelöst. Nochmals herzlichen Dank!",
+        "time": 1692194115,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

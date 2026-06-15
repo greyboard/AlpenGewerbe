@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT5UKq2k-BicRYsIY8qPfz-E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 07:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 70,
+    "reviews": [
+      {
+        "author_name": "Marcel Breithaupt",
+        "author_photo": "/images/reviews/novus-elektro-gmbh-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nicola und sein Mitarbeiter haben bei uns eine nicht einfach zu installierende LED Leuchte in der neuen Wohnung professionell montiert. Gleichzeitig wurden die Schaltkreise der diversen Lampen optimiert, sowie ein Internet Problem diagnostiziert. 🔝 Service, zuverlässig, freundlich, kompetent. Unseren nächsten Elektriker werden wir Bestimmtheit nicht mehr googlen müssen. Immer wieder gerne 😄. Herzlichen Dank nochmals!",
+        "time": 1771355556,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marion El Ziny-Stöhr",
+        "author_photo": "/images/reviews/novus-elektro-gmbh-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Novus Elektro hat mir Decken LED Lampen heute installiert. Ich bin begeistert! Es wurde auf meinen Wunsch eine gute Lösung zu gefunden ein möglichst warmes LED Licht  zu installieren. Der Geschäftsführer hat mich umfassend beraten und sich die Zeit genommen auch daneben eine möglichst kostengünstiges Angebot zu machen. Ich bin mit dem Ergebnis und dem Preis Leistungsverhältnis sehr zufrieden und kann die Firma nur weiterempfehlen.",
+        "time": 1751563074,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Ivana Zimmermann",
+        "author_photo": "/images/reviews/novus-elektro-gmbh-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden! Nikolla hatte sofort Zeit, war schnell vor Ort und hat die Arbeit hervorragend erledigt. Ausserdem war er sehr nett und professionell.\n\nWir würden ihn jederzeit wieder wählen und können ihn absolut weiterempfehlen",
+        "time": 1774028488,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Susanne Grefa",
+        "author_photo": "/images/reviews/novus-elektro-gmbh-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank Nikolla für deinen tollen Einsatz!\nIch war begeistert mit welchem Einsatz du mir die Lampen wieder hergestellt hast. 👍🏼\nSehr kompetent, schnell, und sauber! Und immer ein Lächeln! 😉\n\nIch kann Novus Electro GmbH uneingeschränkt weiterempfehlen.",
+        "time": 1768470661,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "F I real Estate AG",
+        "author_photo": "/images/reviews/novus-elektro-gmbh-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "War wirklich eine top Arbeit! Alles wurde sehr schnell, sauber und fair erledigt, und die Kommunikation hat super funktioniert. So macht Zusammenarbeit richtig Freude.Sehr Empfehlenswert! DANKE vorher/nachher Fotos",
+        "time": 1760471835,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

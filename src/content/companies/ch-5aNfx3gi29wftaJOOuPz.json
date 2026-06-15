@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7zdVKy9OhUcRiXfqWEqbchg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Richard Kolb",
+        "author_photo": "/images/reviews/reichmuth-elektrik-ag-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Äusserst freundliche und zuvorkommende Mitarbeiter. Ich kann die Firma uneingeschränkt weiter empfehlen. sehr sympathisch.",
+        "time": 1755160753,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Peter Betschart",
+        "author_photo": "/images/reviews/reichmuth-elektrik-ag-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ab der Auftragsvergabe waren es nur vier Tage bis die Ladestation/Wallbox für mein Auto installiert wurde. Saubere Arbeit von Profis und netter Kontakt, der einen auf dem Laufenden hält. Besten Dank, Roger Reichmuth.",
+        "time": 1738406262,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "André STRÜBY",
+        "author_photo": "/images/reviews/reichmuth-elektrik-ag-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind froh diese Elektriker Firma gefunden zu haben. Flexibel im Zeitplan hat sie uns schnell und professionell aus einer Telekommunikation Notlage gerettet. Werden jederzeit wieder auf Elektro Reichmuth zugreifen oder weiter empfehlen.",
+        "time": 1636273387,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Horat Armin",
+        "author_photo": "/images/reviews/reichmuth-elektrik-ag-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Neuer Backofen und Rechaud geliefert und montiert. Preis und Leistung alles bestens, werde die Fa. Reichmuth Elektrik weiter empfehlen.",
+        "time": 1640281258,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Martin Wehrle",
+        "author_photo": "/images/reviews/reichmuth-elektrik-ag-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service, kompetente und kundenorientierte Leistung und sehr freundliche Mitarbeiter",
+        "time": 1717362571,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

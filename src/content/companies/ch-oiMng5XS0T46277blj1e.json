@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJX7Y4PrkZjkcRy0yIVCMfU_4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Patrick Zanini",
+        "author_photo": "/images/reviews/zimmerei-m-frahn-merzligen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit der Zimmerei M. Frahn arbeite ich sowohl privat als auch geschäftlich zusammen und bin seit Jahren sehr zufrieden. Die Arbeiten werden stets professionell, zuverlässig und in hoher Qualität ausgeführt. Besonders schätze ich die unkomplizierte Zusammenarbeit und die lösungsorientierte Herangehensweise. Auch die Rückmeldungen meiner Kunden sind durchwegs positiv. Ich kann die Zimmerei M. Frahn uneingeschränkt weiterempfehlen.",
+        "time": 1780559613,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "D. H.",
+        "author_photo": "/images/reviews/zimmerei-m-frahn-merzligen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Absolut nicht zu empfehlen!",
+        "time": 1633954331,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michèle Nydegger",
+        "author_photo": "/images/reviews/zimmerei-m-frahn-merzligen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696052312,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mahalia Prinz",
+        "author_photo": "/images/reviews/zimmerei-m-frahn-merzligen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1666273118,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Larissa Aebersold",
+        "author_photo": "/images/reviews/zimmerei-m-frahn-merzligen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1760009597,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

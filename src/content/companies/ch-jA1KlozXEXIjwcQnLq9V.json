@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJS6Kh67rZkUcRYpd9PVnppYw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Diana Murmann",
+        "author_photo": "/images/reviews/prof-dr-med-christoph-maurer-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Ärzte,der Oberarzt wie Professor Maurer sind einfach Vollprofis.Erklärung bis ins kleinste Detail, genügend Zeit für den Patienten dies trotz sicher nicht immer leichtem Job, zudem sehr aufgestellt und freundlich.Mein Vater hat wieder Vertrauen und reist vom Wallis her an.Die Empfangsdame sehr freundlich und zuvorkommend.Weiter so:-)",
+        "time": 1755692028,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Emmerich Windlin",
+        "author_photo": "/images/reviews/prof-dr-med-christoph-maurer-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "er ist ein begnadeter Chirug danke vielmals er hat meiner Frau das Leben gerettet ( Bauchspeicheldrüsen Krebs )",
+        "time": 1727276069,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maria Rosa Marchionna",
+        "author_photo": "/images/reviews/prof-dr-med-christoph-maurer-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und sympathisch",
+        "time": 1753998080,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Antonio Pecorino",
+        "author_photo": "/images/reviews/prof-dr-med-christoph-maurer-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein hervorragender, äußerst professioneller Arzt – für mich der beste, den ich in meinen elf Jahren in der Schweiz kennengelernt habe. Vielen Dank für seine Professionalität und Präzision. Ich empfehle ihn jedem, der seine Expertise benötigt.",
+        "time": 1637919788,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Pollita Weber",
+        "author_photo": "/images/reviews/prof-dr-med-christoph-maurer-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1591957659,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

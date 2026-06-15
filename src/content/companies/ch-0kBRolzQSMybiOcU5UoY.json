@@ -1,7 +1,7 @@
 {
   "id": "ch-0kBRolzQSMybiOcU5UoY",
   "slug": "gdl-keramik-gmbh-basel",
-  "name": "GDL Keramik GmbH",
+  "name": "GDL Plättli GmbH",
   "branchen": [
     "fliesenleger"
   ],
@@ -26,5 +26,31 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9WlFLQ65kUcRfGBshrnYLrY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Mentor",
+        "author_photo": "/images/reviews/gdl-keramik-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und präzise Arbeit!",
+        "time": 1632745458,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJT-pqCzkshUcRPMLjSVKuoYU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Marianne Honegger",
+        "author_photo": "/images/reviews/mema-metallbau-marti-gmbh-ennenda/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma MEMA war während 2 Jahren wegen der Sanierung unserer Häuser tätig. Als Mieterin war ich sehr zufrieden mit der Art und Weise, wie die Mitarbeiter ihre Arbeit taten. Sie waren uns Mieterinnen und Mieter, die trotz umfassenden Sanierungsarbeiten in den Wohnungen blieben, immer freundlich, hilfsbereit und bei Problemen sofort zu Hand um gemeinsam Lösungen zu finden.\nIch kann das Unternehmen bestens weiter empfehlen!",
+        "time": 1733490809,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudia G.",
+        "author_photo": "/images/reviews/mema-metallbau-marti-gmbh-ennenda/reviewer_2.jpg",
+        "rating": 5,
+        "text": "MEMA hat für mich, nach meinen Mass-Vorgaben, ein wunderschönes Schwarzblech angefertigt. Dieses ziert nun, als Magnetwand, die Rückseite eines Küchen-Hochschranks. Das Blech ist ausserdem speziell behandelt und rostet daher nicht. Der Kontakt, von der Anfrage bis zur Lieferung, war sehr angenehm und alle Mitarbeiter waren sehr freundlich und hilfsbereit. Vielen Dank für das tolle Blech.",
+        "time": 1747573066,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Aleksandra Sowa",
+        "author_photo": "/images/reviews/mema-metallbau-marti-gmbh-ennenda/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1634066438,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "edis reci",
+        "author_photo": "/images/reviews/mema-metallbau-marti-gmbh-ennenda/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623134370,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "El Camino",
+        "author_photo": "/images/reviews/mema-metallbau-marti-gmbh-ennenda/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1624604905,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

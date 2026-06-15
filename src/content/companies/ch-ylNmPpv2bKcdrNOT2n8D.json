@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpw1uszlrj0cRVSt4ltN5g7g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Valentin Lendi",
+        "author_photo": "/images/reviews/studer-soehne-elektro-ag-visp/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuvorkommende und Schnelle Ausführung der Arbeit.Alles Tip Top.\nSehr Gerne wider.",
+        "time": 1749045477,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rafal Zieminski",
+        "author_photo": "/images/reviews/studer-soehne-elektro-ag-visp/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1717736359,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marek Grzybowski",
+        "author_photo": "/images/reviews/studer-soehne-elektro-ag-visp/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1705298222,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marek Lisiecki",
+        "author_photo": "/images/reviews/studer-soehne-elektro-ag-visp/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1683811340,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lorenzo Calcini",
+        "author_photo": "/images/reviews/studer-soehne-elektro-ag-visp/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642479432,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

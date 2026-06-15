@@ -26,5 +26,31 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ2ghL-75jkcR2YWK6PyjLk4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Marco Perren",
+        "author_photo": "/images/reviews/schreinerei-janzi-zweisimmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1717186369,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

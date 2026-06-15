@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJD-aRzGwKkEcRJob6cw1nmfY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:00–17:00 Uhr",
+    "Dienstag: 06:00–17:00 Uhr",
+    "Mittwoch: 06:00–17:00 Uhr",
+    "Donnerstag: 06:00–17:00 Uhr",
+    "Freitag: 06:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Umut Özdemir",
+        "author_photo": "/images/reviews/aregger-thomas-bedachungen-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute und freundliche Beratung. Arbeit wurde sehr gut gemacht und man wurde auf den Kundenwunsch 100% eingegangen. Preisleistung Top. Ich bin sehr zufrieden!\n\nFreundliche Grüsse\nUmut Özdemir",
+        "time": 1701069390,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Simon Bhz",
+        "author_photo": "/images/reviews/aregger-thomas-bedachungen-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr sympatisches und fachlich kompetentes Dachdecker-Team. Es wird nach Vorschriften und aktuellem Stand der Technik gearbeitet.",
+        "time": 1666707824,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manuel Leuenberger",
+        "author_photo": "/images/reviews/aregger-thomas-bedachungen-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1724079374,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Péter Hiba",
+        "author_photo": "/images/reviews/aregger-thomas-bedachungen-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1718995745,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luis Duarde",
+        "author_photo": "/images/reviews/aregger-thomas-bedachungen-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1540885452,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

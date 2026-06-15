@@ -25,5 +25,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJYXyHBfMzm0cRf5muV8q_imU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Stephanie Reichsöllner",
+        "author_photo": "/images/reviews/lampert-gebr-ag-triesenberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Auf Thomas und seine Crew ist stets verlass!!",
+        "time": 1652973797,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Roland Nowak",
+        "author_photo": "/images/reviews/lampert-gebr-ag-triesenberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles Tippi Toppi",
+        "time": 1626948404,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "László Panyik",
+        "author_photo": "/images/reviews/lampert-gebr-ag-triesenberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1745489195,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Toni Sele",
+        "author_photo": "/images/reviews/lampert-gebr-ag-triesenberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1620155402,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Astrit Bytyqi",
+        "author_photo": "/images/reviews/lampert-gebr-ag-triesenberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600962202,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

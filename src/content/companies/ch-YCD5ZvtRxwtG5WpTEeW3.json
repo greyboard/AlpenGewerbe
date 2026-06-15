@@ -1,7 +1,7 @@
 {
   "id": "ch-YCD5ZvtRxwtG5WpTEeW3",
   "slug": "generelli-idraulica-sa-locarno",
-  "name": "GENERELLI IDRAULICA SA",
+  "name": "Generelli Fratelli",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,47 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJx2BeyjrIhUcRQX85BMGUV74",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Danielson96",
+        "author_photo": "/images/reviews/generelli-idraulica-sa-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Professionalität und schnelle Angebotserstellung inklusive aller Diagramme und Beschreibungen. Sehr empfehlenswert.",
+        "time": 1744266698,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabi Dormann",
+        "author_photo": "/images/reviews/generelli-idraulica-sa-locarno/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Sie sind sehr gut und machen einen guten Job.",
+        "time": 1615152515,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Giuseppe capriello",
+        "author_photo": "/images/reviews/generelli-idraulica-sa-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Für qualifizierte Fachkräfte empfehle ich es. Ausgezeichnet.",
+        "time": 1667664331,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

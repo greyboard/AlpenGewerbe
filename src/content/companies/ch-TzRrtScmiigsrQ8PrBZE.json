@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ15mJxLcfm0cRoV_MoamFw58",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Rolf Claude",
+        "author_photo": "/images/reviews/elektro-kundert-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "immer wieder ein guter Ort 😃",
+        "time": 1754695216,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Matthias Zeller",
+        "author_photo": "/images/reviews/elektro-kundert-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Muss man gesehen haben!\nFür jeden Musikliebhaber Pflicht!",
+        "time": 1707515298,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pierre Oster (ROWILUX GMBH)",
+        "author_photo": "/images/reviews/elektro-kundert-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Team, kompetente Beratung und sehr guter Service.",
+        "time": 1614421840,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marco Lopardo",
+        "author_photo": "/images/reviews/elektro-kundert-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Empfang, kompetente und professionelle Beratung 👍",
+        "time": 1642747180,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alexander Schwager",
+        "author_photo": "/images/reviews/elektro-kundert-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat meine Hausinstallation gemacht sowie den Ladeport für den Tesla in der Garage montiert.",
+        "time": 1458022859,
+        "relative_time_description": "vor 10 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

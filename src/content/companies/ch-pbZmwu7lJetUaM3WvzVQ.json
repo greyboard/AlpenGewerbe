@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJe5FAmNPhmkcR2S5g3mgXR8o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Tervueren de Punta Del Este",
+        "author_photo": "/images/reviews/pircher-gebaeudetechnik-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Arbeit wurde prompt, zuverlässig und sauber ausgeführt. Obwohl es nur ein kleiner Auftrag war, hat sich Herr Pircher sofort darum gekümmert. Das Preis-/Leistungsverhältnis stimmt. Die Kommunikation ist sehr freundlich. Gerne wieder.",
+        "time": 1662717932,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "HGT Immobilien-Treuhand AG",
+        "author_photo": "/images/reviews/pircher-gebaeudetechnik-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionell und zuverlässig. Wir können Pircher Gebäudetechnik bestens weiterempfehlen.",
+        "time": 1695976328,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gabi Küng",
+        "author_photo": "/images/reviews/pircher-gebaeudetechnik-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Guter Service, Tiptop",
+        "time": 1544976458,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Reto Pircher",
+        "author_photo": "/images/reviews/pircher-gebaeudetechnik-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1602778505,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marc Hiltebrand",
+        "author_photo": "/images/reviews/pircher-gebaeudetechnik-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643883027,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

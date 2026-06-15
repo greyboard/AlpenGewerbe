@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSa90txeSmkcRU_5BxyLHa9s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Kathrin Zimmermann",
+        "author_photo": "/images/reviews/a-portone-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Portone hat bei uns den gesamten oberen Stock verputzt. Die Arbeiten wurden sauber, zuverlässig und sehr professionell ausgeführt. Besonders sympathisch war die angenehme Atmosphäre auf der Baustelle – inklusive italienischer Gesänge der Handwerker 😊. Ein kompetentes und freundliches Team, das wir gerne weiterempfehlen!",
+        "time": 1771432418,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Serena Scherrer-Serra",
+        "author_photo": "/images/reviews/a-portone-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma Portone AG im Januar 2024 bei uns in unserem Umbau beauftragt. Sie hatten den Auftrag die Wände und die Decken fertig zu verputzen. Wir hatten Alessandro und Alessio bei uns und sind absolut zufrieden wie sie gearbeitet haben. Wir haben sie als sehr anständige und respektvolle Arbeiter kennengelernt, welche pünktlich erschienen und die Baustelle immer sauber hinterlassen haben. Die ausgeführten Arbeiten waren sauber und korrekt ausgeführt worden. Der Inhaber Mirko Portone haben wir auch sehr geschätzt. Er war immer erreichbar und ist sehr fair gewesen, was auch die Offerte betrifft. Es wurde nur verrechnet, was abgemacht wurde. Er ist stehts freundlich und kompetent, wir würden jederzeit wieder die Firma Portone und seine Mitarbeiter für Gipserarbeiten beauftragen.",
+        "time": 1711363829,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Romano Zumstein",
+        "author_photo": "/images/reviews/a-portone-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hatte mit Herrn Mirko Portone den Kontakt. War sehr freundlich.",
+        "time": 1773134555,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Döme",
+        "author_photo": "/images/reviews/a-portone-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ganz grossen Dank an das Team Portone! Von Anfang bis Ende war alles unkompliziert und gut organisiert. Die Arbeiten perfekt. Besser kann es nicht sein. Und ich habe, selbst auf dem Bau tätig, schon einiges gesehn. Sauberes arbeiten und einen respektvollen Umgang ist ebenfalls gegeben. Jeder Zeit wieder... Kann ich nur empfehlen! Gruss auch an Pasquale und die Truppe",
+        "time": 1636830139,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fäbi G.",
+        "author_photo": "/images/reviews/a-portone-ag-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und aufgestelltes Team. Die Arbeiten wurden termingerecht und zur vollsten Zufriedenheit ausgeführt. Tolles Ergebnis und vollste Weiterempfehlung!",
+        "time": 1684135762,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

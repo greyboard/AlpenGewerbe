@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJr-LbQw73j0cRfI1z8E3h2HA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Thomas Feer",
+        "author_photo": "/images/reviews/kuechen-imfeld-gmbh-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die sehr angenehme Zusammenarbeit bei der Küchenrenovation.\nWir können Küchen Imfeld sehr empfehlen:\nsuper Beratung, Bauplanung, Kommunikation und Umsetzung!\nWir sind rundum sehr zufrieden.\nDanke",
+        "time": 1758110395,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Chris Stenz",
+        "author_photo": "/images/reviews/kuechen-imfeld-gmbh-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Beratung über die Planung und Montage bis zum After sales alles perfekt und immer freundlich und Hilfsbereit! Wir haben grosse Freude an unserer Küche und bedanken uns für alles!",
+        "time": 1732033771,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Leonard Häfliger",
+        "author_photo": "/images/reviews/kuechen-imfeld-gmbh-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben eine komplette Küche bestellt. Trotz kurzfristiger Bestellung wurde uns in der Filiale alle Optionen gezeigt und Roman hat sehr schnell all unsere Wünsche in Kürze umgesetzt.\nWir sind mehr als zufrieden mit unserer neuen Imfeld Küche.\nDas Team war freundlich, kompetent und kreativ! Wir können Küchen Imfeld sehr weiterempfehlen.",
+        "time": 1681395431,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gaby Odermatt",
+        "author_photo": "/images/reviews/kuechen-imfeld-gmbh-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank dir Roman für die super Beratung und Planung für unsere Küche. Auch einen grossen Dank an Mario für seine super professionelle Arbeit. Wir haben sehr viel Freude an unserer neuen Küche und werden Küchen Imfeld immer weiter empfehlen. Danke für alles\nGaby und Roland",
+        "time": 1712942211,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "M K",
+        "author_photo": "/images/reviews/kuechen-imfeld-gmbh-stans/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Fenster in Flüelen wechseln lassen. Sehr saubere und kompetente Arbeit. Freundlicher Service. Können wir sehr empfehlen.",
+        "time": 1673077788,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

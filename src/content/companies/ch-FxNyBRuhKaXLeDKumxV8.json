@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJWRTBBP82jkcRZo0a4uBTc-8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "camera.bern",
+        "author_photo": "/images/reviews/axora-gebaeudetechnik-ag-muri-bei-bern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Wir hatten Axora wegen eines Heizungsproblems im Privatbereich bei uns, somit können wir nur diesen Dienst beurteilen. Da hatten wir leider gleich mehrere sehr schlechte Erfahrungen.\nDie zwei verschiedenen Mitarbeiter, welche vor Ort waren, wirkten ungenügend ausgebildet (da sie mit Kombination mit Radiator und Bodenheizung überfordert waren) und mussten immer wieder in die Zentrale anrufen, um dort Rat zu holen. Auch als nach Austausch der Ventile nicht alles klappte sassen sie noch lange davor und hämmerten ratlos auf den Anschlüssen herum. Schlussendlich kostete die „Reparatur“ über 1200.- fürs Entlüften und 8 Ventile ersetzen und der Problemradiator funktionierte weiterhin nicht! Darauf haben wir einen anderen Heizungsexperten kommen lassen, der das Problem innert kürzester Zeit erkennen und lösen konnte. Und kostete nur einen Bruchteil davon! Zu wenig Kenntnisse, Ersatzteile (Ventile) fast doppelt so teuer wie beim anderen Heizungsexperten und noch 50.- ! extra Kosten für die 8 Ventile (die in eine Hand passen), die sie holen mussten, hatte der andere Heizungsexperte in seinem Arbeitsauto dabei und musste nicht extra noch bezahlt werden.\nUnd was eigentlich ein no-go ist: Auf der Abrechnung wurde noch ein Auszubildender aufgeführt, einerseits mit doppelt so vielen Stunden, wie er vor Ort war und andererseits hätte er überhaupt nicht aufgeführt werden dürfen, da er nur zugesehen hat und nichts machen durfte!!! Sehr unseriös. Schlussendlich wurden uns der Betrag vom Praktikant wieder zurückgezahlt, ohne jeglichen Kommentar oder Entschuldigung.\nAxora würden wir im Privatbereich bei Heizungsproblemen nicht mehr empfehlen und kommen bei uns garantiert nicht mehr in die Wohnung.",
+        "time": 1714341994,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Arevinth",
+        "author_photo": "/images/reviews/axora-gebaeudetechnik-ag-muri-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mittlerweile das 8. Badezimmer und Küche durch die Axora Gebäudetechnik AG sanieren lassen.\nTop Arbeit - sehr kompetent - sehr freundlich - pünktlich - und einiges mehr ! Vielen Dank an Axora und speziell an Sokol und an Amir.",
+        "time": 1667847489,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beat Imhof",
+        "author_photo": "/images/reviews/axora-gebaeudetechnik-ag-muri-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hat schnell tolle Lösung für ein Lüftungssystem gefunden und kompetent installiert",
+        "time": 1699543166,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Anton Frank",
+        "author_photo": "/images/reviews/axora-gebaeudetechnik-ag-muri-bei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell und zuverlässig. Gerne wieder.",
+        "time": 1740068170,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Salado",
+        "author_photo": "/images/reviews/axora-gebaeudetechnik-ag-muri-bei-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Saubere sachen",
+        "time": 1553951437,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJicLUCpXdhEcRQnIF-KNOvME",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Nadia L.",
+        "author_photo": "/images/reviews/timos-bauservice-laax/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben kürzlich unser Badezimmer komplett umbauen lassen und sind mit dem Ergebnis und der Zusammenarbeit mit Timo sehr zufrieden. Von der ersten Beratung bis zur finalen\nÜbergabe verlief alles sehr professionell.",
+        "time": 1753813983,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Alexander Schneeberger",
+        "author_photo": "/images/reviews/timos-bauservice-laax/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte Probleme mit der Heizung, Timo war sofort zur Stelle hat das Problem analysiert und hatte am nächsten Tag die neue Pumpe eingebaut und der Elektriker war durch Timos Organisation auch dabei um alles zu installieren. 1A Service nur zu empfehlen!",
+        "time": 1702053684,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Samuel *",
+        "author_photo": "/images/reviews/timos-bauservice-laax/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Timo hat unsere Badewanne neu abgedichtet, er hat sehr sauber und proffesionel gearbeitet. Wir sind sehr zufrieden mit der Arbeit.",
+        "time": 1715503486,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Noah Wasescha",
+        "author_photo": "/images/reviews/timos-bauservice-laax/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin mit Timo's Arbeit sehr zufrieden, super Service, Preis ist auch sehr fair gewesen.",
+        "time": 1714198510,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "DoK",
+        "author_photo": "/images/reviews/timos-bauservice-laax/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super schneller Service, hatte ein Wasser Rohrbruch und er hat dies innerhalb 1h behoben. Sehr schnell. Top",
+        "time": 1713716137,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

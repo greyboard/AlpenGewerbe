@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJi2E5FQKzmkcRDsnGAI5D_R4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Neetha Ramanan",
+        "author_photo": "/images/reviews/zehnder-garten-gmbh-einsiedeln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Andy und sein Team leisten hervorragende Arbeit. Sie haben die erstaunliche Fähigkeit, genau zu verstehen, was Sie wollen, und arbeiten dann mit Ihnen zusammen, um noch mehr zu erreichen. Sehr freundlich, prompt und mit hervorragender Ausführung. Es war uns eine große Freude, mit ihnen unseren Traumgarten wahr werden zu lassen. Ich freue mich darauf, immer wieder mit ihnen zusammenzuarbeiten.",
+        "time": 1719431349,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marlene",
+        "author_photo": "/images/reviews/zehnder-garten-gmbh-einsiedeln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das ganze Team ist sehr freundlich und die Beratung ist sehr gut. Sie arbeiten speditiv und sauber. Wir waren immer wieder zufrieden und werden sie auch in Zukunft wieder berücksichtigen.",
+        "time": 1715756758,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marvin Marti",
+        "author_photo": "/images/reviews/zehnder-garten-gmbh-einsiedeln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Andy und sein Team unterhalten unseren Garten sehr professionell und zuverlässig. Wir schätzen ihr umfassendes Fachwissen und die angenehme und unkomplizierte Kommunikation mit Andy. Herzlichen Dank!",
+        "time": 1719123272,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudia Schuler",
+        "author_photo": "/images/reviews/zehnder-garten-gmbh-einsiedeln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Andreas und sein Team hegen & pflegen unseren Garten in bis zwei Mal im Jahr. Ich bin froh um die fachmännische Unterstützung bei unseren Bäumen, Sträuchern und Blumen. Herzlichen Dank!",
+        "time": 1715583908,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Karin Fuchs",
+        "author_photo": "/images/reviews/zehnder-garten-gmbh-einsiedeln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit. Seriös und zuverlässig!",
+        "time": 1765732622,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,22 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJVzOol7nSmkcR_6JE5ogHucM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Arthur Fricker",
+        "author_photo": "/images/reviews/atelier-landolt-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Handwerker, sehr gutes Preis Leistungs Verhältnis.",
+        "time": 1534883884,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

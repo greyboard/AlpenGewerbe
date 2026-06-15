@@ -26,5 +26,22 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJs9hvbi1YhUcRfDSGvRV4Cdc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Agnes Brodard",
+        "author_photo": "/images/reviews/niederberger-tor-und-metallbau-ag-beckenried/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Speditive topleistung! Kann herr niederberger nur empfehlen!",
+        "time": 1649228772,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-iFaBt7UG2jxlxuFKcvYR",
   "slug": "la-feuille-verte-sarl-paysagiste-vaud-et-agent-husqvarna-perroy",
-  "name": "La Feuille Verte Sàrl - Paysagiste Vaud et agent Husqvarna",
+  "name": "La Feuille Verte Nicolas Delley",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJFyoMZtdajEcRcSy2vjvp0hY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Mimosa1000",
+        "author_photo": "/images/reviews/la-feuille-verte-sarl-paysagiste-vaud-et-agent-husqvarna-perroy/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit und ein sehr effizientes und diskretes Team. Wir danken La Feuille Verte und können das Unternehmen für alle Arbeiten im Außenbereich – Balkon, Terrasse oder Garten – wärmstens empfehlen.",
+        "time": 1760165781,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Alain Paccot",
+        "author_photo": "/images/reviews/la-feuille-verte-sarl-paysagiste-vaud-et-agent-husqvarna-perroy/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent und hilfsbereit! Ich kann sie wärmstens empfehlen 👌",
+        "time": 1778684121,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Perroud Maryvonne",
+        "author_photo": "/images/reviews/la-feuille-verte-sarl-paysagiste-vaud-et-agent-husqvarna-perroy/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Husqvarna-Mähroboter zur Reparatur gebracht, und die Arbeiten wurden zu unserer vollsten Zufriedenheit ausgeführt. Exzellenter Service, vertrauenswürdiges Unternehmen und gutes Preis-Leistungs-Verhältnis. Vielen Dank!",
+        "time": 1498482861,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Antonio Nerone",
+        "author_photo": "/images/reviews/la-feuille-verte-sarl-paysagiste-vaud-et-agent-husqvarna-perroy/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Der Service ist ausgezeichnet, sehr aufmerksam und bietet ein sehr gutes Preis-Leistungs-Verhältnis.",
+        "time": 1682164473,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Cyril D",
+        "author_photo": "/images/reviews/la-feuille-verte-sarl-paysagiste-vaud-et-agent-husqvarna-perroy/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit beim Fällen eines Baumes an einem schwierigen Standort!",
+        "time": 1669670185,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

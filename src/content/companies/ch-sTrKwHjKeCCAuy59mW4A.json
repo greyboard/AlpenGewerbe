@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJY9FxWeQ7kEcRIUQOYUSHji0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:30–18:30 Uhr",
+    "Mittwoch: 08:30–18:30 Uhr",
+    "Donnerstag: 08:30–18:30 Uhr",
+    "Freitag: 08:30–18:30 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: 10:00–16:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 126,
+    "reviews": [
+      {
+        "author_name": "Pascale Grundlehner",
+        "author_photo": "/images/reviews/alte-stadtgaertnerei-aarau-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für ein Treffen von Frauen Aargau wurde wegen Regen ein wunderschöner Tisch im Gewächshaus aufgestellt und liebevoll mit hauseigenen Blumen dekoriert. Gerne komme ich wieder vorbei und lasse mich inspirieren, vielen Dank!",
+        "time": 1756066461,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Lars Kaulitz",
+        "author_photo": "/images/reviews/alte-stadtgaertnerei-aarau-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eine ehem. Gärtnerei neu gestaltet mit schönen Gestaltungsideen. Kleines Selbstedienungscafé. Floristik wie Wechselflorauswahl ist sehr gut.",
+        "time": 1751402331,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "M O",
+        "author_photo": "/images/reviews/alte-stadtgaertnerei-aarau-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr schöne Gärtnerei. Erlebnis pur. Es gibt viel zu sehen. Gute Auswahl, freundliche Mitarbeiter. Top.",
+        "time": 1602748991,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dominik Landolt",
+        "author_photo": "/images/reviews/alte-stadtgaertnerei-aarau-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir kommen immer wieder gerne hier her. Schön zum verweilen im Gartenkaffee oder zum stöbern im breiten Sortiment. Heute gab es einen Schönen Strauss für die liebste.",
+        "time": 1650386071,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Tulipan Zollinger",
+        "author_photo": "/images/reviews/alte-stadtgaertnerei-aarau-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wunderschöne Gärtnerei, grosses und vielfältiges Angebot, sehr freundliche und kompetente Beratung. Sehr empfehlenswert! 😀",
+        "time": 1591959977,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

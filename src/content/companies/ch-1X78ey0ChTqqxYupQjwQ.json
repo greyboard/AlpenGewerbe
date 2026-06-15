@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJGxnPhvo5jkcRZWSa8Hn2kMI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Erhard D. Burri",
+        "author_photo": "/images/reviews/steiner-ag-baumpflege-gartenbau-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Heute wieder eine tolle Arbeit in unserem Garten! Wir sind seit vielen Jahren sehr zufrieden, denn nach so langer Zeit kann man den Erfolg überall sehen und geniessen. Herzlichen Dank!",
+        "time": 1770306419,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Kathy Zürcher",
+        "author_photo": "/images/reviews/steiner-ag-baumpflege-gartenbau-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1612956845,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nina Tobler",
+        "author_photo": "/images/reviews/steiner-ag-baumpflege-gartenbau-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1593022736,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Housi Abderhalden",
+        "author_photo": "/images/reviews/steiner-ag-baumpflege-gartenbau-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1773157925,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Roman",
+        "author_photo": "/images/reviews/steiner-ag-baumpflege-gartenbau-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765971137,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

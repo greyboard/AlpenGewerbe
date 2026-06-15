@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkzXS_ab8mkcRy3Y2tjmJ1rM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Serkan Bulut",
+        "author_photo": "/images/reviews/weber-ag-solar-dach-fassade-amriswil/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Meine Erfahrung war äusserst enttäuschend. Das Verhalten der Mitarbeiter war absolut unprofessionell und die Arbeiten wurden nicht fertiggestellt. Es schien, als ob sie nicht mitdenken und nur auf den Gewinn aus sind. Insgesamt war der Service weit unter meinen Erwartungen.",
+        "time": 1736779855,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christoph Weber",
+        "author_photo": "/images/reviews/weber-ag-solar-dach-fassade-amriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe eine bestehende PV Anlage und war auf der Suche nach einem Partner für einen PV Speicher. Die Mitarbeiter der Weber AG sind sehr freundlich, kompetent und agieren schnell. Auch die Kommunikation ist sehr gut, auf E-Mails wird in einer vernüftigen Zeit geantwortet und die Offerten sind sauber und Verständlich. Von Mitbewerbern habe ich z.T. auch nach Monaten nie eine Antwort auf meine Frage erhalten. Toll auch das sehr gute Know-How im SolarEdge Umfeld. Ich bin sehr zuversichtlich, dass ich schon in kurzer Zeit den Auftrag für meinen PV Speicher vergebe und auch einen neuen Solar Partner gefunden habe. Vielen Dank liebes Weber AG Team!",
+        "time": 1772132768,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Letizia Severini",
+        "author_photo": "/images/reviews/weber-ag-solar-dach-fassade-amriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Haben bei uns schon zwei Mal ein Flachdach saniert. Die Arbeiter waren sehr freundlich, schnell und unkompliziert. Auch die Kommunikation von Offerte bis Schlussrechnung verlief reibungslos. Wir sind sehr zufrieden. Danke!",
+        "time": 1779725799,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Markus Schneider",
+        "author_photo": "/images/reviews/weber-ag-solar-dach-fassade-amriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Unsere Weber Solar Anlage läuft nach 6 Monaten problemlos und hat unseren CO2 Fussabdruck als Familie signifikant reduziert.\nPer online Überwachung wurde die Einstellung unseres sehr grossen Boilers der Holzheizung aktiv verbessert.\nDer Solarmanager hat es uns erlaubt, unsere Hauptverbraucher weiter zu optimieren.\nherzlichen Dank",
+        "time": 1762120507,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Mary",
+        "author_photo": "/images/reviews/weber-ag-solar-dach-fassade-amriswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für den tollen Service und die reibungslose, kompetente Umsetzung unserer PV-Anlage. Von der Beratung über die Montage bis zur Inbetriebnahme war alles top!",
+        "time": 1759667457,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

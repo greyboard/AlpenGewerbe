@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT-uLWXd_kEcRxKgyJRNf0Cs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Ron",
+        "author_photo": "/images/reviews/hans-mueller-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "In unserem Gebäude wurde unter anderem die Begrünung auf der Dachterrasse von der Hans Müller AG durchgeführt.\n\nLeider können wir nun die schlechten Bewertungen auf Google nachvollziehen. Ein Teil der Arbeit wurde mangelhaft durchgeführt (siehe Foto). Über Monate haben wir versucht, mit Herrn Müller Kontakt aufzunehmen. Doch telefonisch kommt man an Frau Müller, deren einzige Aufgabe es scheint Leute am Telefon abzuwimmeln, nicht vorbei. Es war immer das gleiche Spiel: Herr Müller sei besetzt und werde zurückrufen. Das passiert dann aber nicht.\nBei ca. 5-10 Anfragen kann man nicht mehr von einem Versehen ausgehen, sondern muss annehmen dass sich die Firma von Mängelbehebungen drücken will.\n\nAbsolut unprofessionelles Verhalten.",
+        "time": 1655450004,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "vfb55555 (Nico Günther)",
+        "author_photo": "/images/reviews/hans-mueller-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Nachdem ich am Telefon drei Mal vertröstet wurde und mir ein Rückruf zugesichert wurde der nie kam, bin ich zu einer anderen Firma mit der ich sehr zufrieden war. Leider ein sehr schlecht organisierter Laden.",
+        "time": 1758526414,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Dorothea Giger",
+        "author_photo": "/images/reviews/hans-mueller-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden. Gute Arbeit, kompetente und motivierte Mitarbeiter, Offerte wurde eingehalten. Gerne empfehle ich die Firma",
+        "time": 1719404110,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manuel Stamm",
+        "author_photo": "/images/reviews/hans-mueller-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Betrieb -innovativ, freundlich und fair. Sehr zu empfehlen.",
+        "time": 1768199986,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Thomas Hafner",
+        "author_photo": "/images/reviews/hans-mueller-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Koordination aller Handwerker auf dem Bau, kompetente und freundliche Mitarbeiter, absolute Termintreue, gute und rasche Kommunikation. Wir sind glücklich und können die Firma bestens empfehlen. Herzlichen Dank ans ganze Team!",
+        "time": 1655802328,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0dnxmjFQhUcR-HAJnipNAWQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Petra Müller",
+        "author_photo": "/images/reviews/dettling-holzbau-ag-ingenbohl/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Untenehmen welches bereits 2x für uns tätig war. Im 2010 Gebäudeanbau mit Holz 100 und 2021 Renovation im alten Hausteil mit neuen Zargen und Fensterläden. Es gibt nichts zu bemängeln, seriös, sympathisch und zuverlässig.",
+        "time": 1629190473,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mittellegi ___",
+        "author_photo": "/images/reviews/dettling-holzbau-ag-ingenbohl/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1662847662,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simona Dettling",
+        "author_photo": "/images/reviews/dettling-holzbau-ag-ingenbohl/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1662445088,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simon Muff",
+        "author_photo": "/images/reviews/dettling-holzbau-ag-ingenbohl/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622277815,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Sepp Schelbert",
+        "author_photo": "/images/reviews/dettling-holzbau-ag-ingenbohl/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1620829017,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-2YTmGeSy5w2iUu806O3c",
   "slug": "maler-mathias-luthern",
-  "name": "Maler Mathias",
+  "name": "Maler- und Tapeziergeschäft",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJyZaXvm3bj0cRjUjekrMoLIg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Jimmy Rostock",
+        "author_photo": "/images/reviews/maler-mathias-luthern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Qualität zahlt sich aus Schön, dass es noch so gut geführte Malerbetriebe gibt-die Mitarbeiter waren freundlich und motiviert (heut zutage leider eine Seltenheit). Es hat großen Spaß gemacht mit Maler Mathias zu arbeiten. Wenn man auf Service und Zuverlässigkeit setzt dann ist man hier genau richtig. . machen sie alle weiter so; -))",
+        "time": 1778519203,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Katrin Schneider",
+        "author_photo": "/images/reviews/maler-mathias-luthern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit war sehr zuverlässig. Trotz knappem Zeitplan wurde auf unsere Wünsche genau eingegangen und  noch Zusatzarbeiten erledigt. Saubere Arbeit mit gutem Preis-Leistungsverhältnis!",
+        "time": 1781263544,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Gabriel Benter",
+        "author_photo": "/images/reviews/maler-mathias-luthern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schon lange keine so netten und kompetenten Arbeiter mehr gehabt. Das Endergebnis war genau wie ich es mir gewünscht habe und ich konnte trotzdem ein nettes Team begrüssen.\nWirklich sehr zu empfehlen.",
+        "time": 1780781124,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Lena",
+        "author_photo": "/images/reviews/maler-mathias-luthern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hätte mir kein besseres Ergebnis wünschen können. Die Materialien waren von guter Qualität, ich wurde kompetent beraten und die Arbeit wurde professionell ausgeführt. Selten einen Handwerker erlebt, der seine Arbeit mit so viel Leidenschaft macht. Unsere Wohnung in Zollikofen ist wunderschön geworden. - Klare Empfehlung!",
+        "time": 1780685135,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Monika Ullmann",
+        "author_photo": "/images/reviews/maler-mathias-luthern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Maler Mathias Schütt, Können wir sehr empfehlen auf Grund seiner Qualitativ sehr hochwertigen Arbeit. Mit seiner Zusammenarbeit konnten wir auch positive Erfahrungen sammeln. Jede Absprache, jeder Termin wurde eingehalten. Immer freundlich, nett und höflich. Alle meine Wünsche wurden bezüglich der Wahl zb. der Tapeten bzw Farben wurden erfüllt. Einfach zu empfehlen wer das Malergeschäft Mathias Schütt bucht, wird begeistert sein. 👍",
+        "time": 1780248900,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-xurAW8TQoCg3tRhQj18r",
   "slug": "elektro-m-c-zurich-ag-zuerich",
-  "name": "Elektro M + C Zurich AG",
+  "name": "Elektro M+C Zürich AG",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJR2xH2gYKkEcRzDRCn98VTsg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "julien waldvogel",
+        "author_photo": "/images/reviews/elektro-m-c-zurich-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Notfall (über Nacht plötzlich kein Strom mehr in der Küche, inkl. Kühlschrank). Weniger als 1 Stunde nach Bescheid an den Vermieter stand Herr Gross von M+C vor unserer Tür und hat den Fehler (eine falsche Verkabelung, die schon jahrelang so bestand und plötzlich durchgebrannt ist) umgehend gefunden und repariert. So können wir entspannt ins Wochenende starten. Ein herzliches Dankeschön für diesen super Service. 6 Sterne von mir für diese tolle Leistung in einer Zeit des Fachkräftemangels und vielen Dank an Herrn Gross!",
+        "time": 1674828607,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sara Taiana",
+        "author_photo": "/images/reviews/elektro-m-c-zurich-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hatte einen Notfall (Küche Stromlos).\nIn den nächsten 40 min war jemand vor Ort. Die Arbeit wurde sauber erledigt und ich wurde klar instruiert.\nDie defekte Steckdose verursachte einen  Kurzschluss.\nKeine versteckten Kosten, verrechnet wurde lediglich Material und Zeit.\nBin super zufrieden.",
+        "time": 1619119078,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Currie Prescott",
+        "author_photo": "/images/reviews/elektro-m-c-zurich-ag-zuerich/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Faule Sekretärin! Anstatt meinen Namen und meine Adresse aufzuschreiben, wollte sie, dass ich eine E-Mail schicke, dann würde mich morgen jemand wegen meines heutigen Notfalls anrufen. Ich schätze, sie brauchte trockene Fingernägel...",
+        "time": 1678958658,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christine Malik",
+        "author_photo": "/images/reviews/elektro-m-c-zurich-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service! Sehr effizient, schnelle Rückmeldungen, sehr freundlich und hilfsbereit. Man hat sogar nach der Installation angeboten die Kartonage zu entsorgen obwohl diese von uns war - VIELEN DANK!",
+        "time": 1610024973,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ibrahim Memeti",
+        "author_photo": "/images/reviews/elektro-m-c-zurich-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Haben elektrische Arbeiten bei meiner Wohnung getätigt. Speditiv, unkompliziert und immer auf meine Bedürfnisse eingegangen.\nSuper Installateure und stets weiterzuempfehlen!",
+        "time": 1631788886,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

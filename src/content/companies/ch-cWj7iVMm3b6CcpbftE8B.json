@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJB3sol0OfmkcRGaKZx4Le3Jk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: 08:00–14:00 Uhr",
+    "Sonntag: 08:00–14:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Beatrice Gaus",
+        "author_photo": "/images/reviews/binni-gmbh-opfikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die durchgeführte Dachsanierung wurde effizient und kompetent ausgeführt. Vielen Dank dem freundlichen Binni-Team. Diese Firma kann jederzeit empfohlen werden.",
+        "time": 1759251151,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Roberto D'Aurelio",
+        "author_photo": "/images/reviews/binni-gmbh-opfikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Dachsanierung wurde effizient und präzise durchgeführt. Der Geschäftsführer erklärte jeden Arbeitsschritt kompetent und gut verständlich. Die Arbeiter waren stets höflich und fleissig. Vielen Dank",
+        "time": 1758661318,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Laura Jordi",
+        "author_photo": "/images/reviews/binni-gmbh-opfikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe vor kurzem eine Sanierung von meinem undichten Terassenboden durchführen lassen an meinem Haus und ich bin sehr zufrieden mit dem Ergebnis. Das Unternehmen, das ich beauftragt habe, war sehr professionell. Die Qualität der Arbeit ist sehr hoch und ich bin sehr beeindruckt von der Professionalität und Sorgfalt, die das Unternehmen bei jeder Phase des Prozesses gezeigt hat.\nIch kann dieses Unternehmen jedem empfehlen, der eine Renovierung oder Sanierung an seinem Haus durchführen möchte. Sie haben ein hervorragendes Team und bieten einen erstklassigen Service. Vielen Dank für diese tolle Arbeit!",
+        "time": 1687902365,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jacques Mouttet",
+        "author_photo": "/images/reviews/binni-gmbh-opfikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir mussten eilig (der Regen drohte) eine defekte Rinne ersetzen. Herr Luma Binni hat sehr schnell und sehr professionell die notwendigen Teile beschafft und eingebaut. Wir sind ausserordentlich zufrieden mit dem Ergebnis der Arbeit, der Kundenservice war super und wir sprechen eine klare Empfehlung aus - vielen Dank!",
+        "time": 1679683229,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christof Küenzi",
+        "author_photo": "/images/reviews/binni-gmbh-opfikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Reparatur eines Flachdach Schadens, sehr gute, qualitative hochstehende und   äusserst speditive Arbeit geleistet.\nHat auch Koordination mit Fassadenbauer und Maler übernommen.\nIch kann diese Firma nur empfehlen, sie ist auch gerne bereit die „extra Meile“ für den Kunden zu gehen.\nSehr freundliche und kompetente Beratung.",
+        "time": 1668001402,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

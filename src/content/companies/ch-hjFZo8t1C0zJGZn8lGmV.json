@@ -26,5 +26,39 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJYxgqA3x__gIRLd-M1jaHyLU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Ueli Anliker",
+        "author_photo": "/images/reviews/ags-sanitaer-und-heizung-gmbh-daeniken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Betrieb für Heizung und Sanitär\nPreis und Leistung unschlagbar\nKurzfristig und in nur 2 Tagen bekam ich eine Neue Heizung\nAbsolut zu empfehlen. Danke sehr an AGS von Ueli Anliker",
+        "time": 1772645749,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Robert Berisha",
+        "author_photo": "/images/reviews/ags-sanitaer-und-heizung-gmbh-daeniken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schnell und zuverlässig!",
+        "time": 1778070486,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

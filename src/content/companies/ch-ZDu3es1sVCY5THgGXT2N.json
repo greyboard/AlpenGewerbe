@@ -26,5 +26,47 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1YbhYIaNmkcRSzq3SmMV-ko",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Edi",
+        "author_photo": "/images/reviews/elektro-unterstuetzung-gmbh-felben-wellhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hier stimmt Qualität, Geschschwindigkeit, und Fachkompetenz überein. Preis-Leistung war perfekt, kann ich nur weiterempfehlen.",
+        "time": 1589049314,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "S. P.",
+        "author_photo": "/images/reviews/elektro-unterstuetzung-gmbh-felben-wellhausen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Sehr frech und unanständig mit Kunden.",
+        "time": 1780556887,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Fabian Hürlimann",
+        "author_photo": "/images/reviews/elektro-unterstuetzung-gmbh-felben-wellhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781163192,
+        "relative_time_description": "in der letzten Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

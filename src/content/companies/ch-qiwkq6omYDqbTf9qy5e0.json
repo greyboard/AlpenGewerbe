@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBxyn7QA8kEcRMD0Ztu76kyQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:30–11:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Jozef Karricaj",
+        "author_photo": "/images/reviews/wassmer-bedachungen-ag-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Wassmer Bedachungen AG ist eine hervorragende Firma. Die Kommunikation war von Anfang an unkompliziert, klar und sehr angenehm. Man merkt sofort, dass hier ein junges, motiviertes Team am Werk ist, das mit viel Engagement und Leidenschaft Gas gibt.\n\nDas Angebot ist vielseitig von Flachdächern über Steildächer bis hin zu Solaranlagen wird alles professionell und zuverlässig umgesetzt.\n\nDie Wassmer Bedachungen AG kann ich auf jeden Fall weiterempfehlen.",
+        "time": 1767777513,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Muhamet Yavuz",
+        "author_photo": "/images/reviews/wassmer-bedachungen-ag-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top-Adresse für alle Dachthemen!\n\nWassmer Bedachungen AG ist für mich der erste Ansprechpartner, wenn es um Dachsanierungen, Dachkontrollen oder fundierte Fachauskünfte geht. Das Team arbeitet zuverlässig, sauber und mit einem hohen Qualitätsanspruch. Wer einen kompetenten und ehrlichen Partner rund ums Dach sucht, ist hier bestens aufgehoben. Ich kann das Unternehmen uneingeschränkt weiterempfehlen.",
+        "time": 1768835984,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Mario Popadic",
+        "author_photo": "/images/reviews/wassmer-bedachungen-ag-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann diese Unternehmung bestens empfehlen.\nKompetenter Chef sowie auch Mitarbeiter.\n\nGerne wieder mit der Firma Wassmer und danke.",
+        "time": 1769143565,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "N „Nebi“ M",
+        "author_photo": "/images/reviews/wassmer-bedachungen-ag-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Unternehmen. Reagiert sehr schnell, gute Kommunikation und hervorragende Arbeit abgeliefert. Sehr empfehlenswert. Top👍👍👍",
+        "time": 1769147993,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Roger Schatt",
+        "author_photo": "/images/reviews/wassmer-bedachungen-ag-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden zeitnah und sehr gut ausgeführt und die Kostenschätzung konnte eingehalten werden!",
+        "time": 1767970259,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

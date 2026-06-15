@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJf7qc2-IWjkcRlgJtKBZXW9c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "M. Flammer",
+        "author_photo": "/images/reviews/alfred-sahli-ag-kallnach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "top offerte, top kommunikation, super mitarbeiter.\ndanke für den rundumservice, ich bin ausserordentlich zufrieden! 🙏",
+        "time": 1769622476,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Peter Manka",
+        "author_photo": "/images/reviews/alfred-sahli-ag-kallnach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute und Professionelle Beratung.\nTop 👍",
+        "time": 1717502106,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sylvio Svensson",
+        "author_photo": "/images/reviews/alfred-sahli-ag-kallnach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute und professionelle Arbeit geleistet.\nDanke,\nAlfred Sahli AG",
+        "time": 1629313863,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Claudio",
+        "author_photo": "/images/reviews/alfred-sahli-ag-kallnach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1707128722,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "peter schätti",
+        "author_photo": "/images/reviews/alfred-sahli-ag-kallnach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1409598256,
+        "relative_time_description": "vor 11 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

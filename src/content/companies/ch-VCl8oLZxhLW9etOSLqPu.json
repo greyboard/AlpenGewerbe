@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJVYrdEsSqmkcRNE4IJtRnCHI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Patrick S",
+        "author_photo": "/images/reviews/speck-schreinerei-oberwil-bei-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit Jahren haben sie immer die originellste und schönste Schaufenster Dekoration.",
+        "time": 1768036453,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Roman Moos",
+        "author_photo": "/images/reviews/speck-schreinerei-oberwil-bei-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super persönlicher Service, gute Beratung und top Qualität !",
+        "time": 1743968199,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Falco Scherner",
+        "author_photo": "/images/reviews/speck-schreinerei-oberwil-bei-zug/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Nettes Team!Schöne Ausstellung, lassen Sie sich inspirieren!",
+        "time": 1605520749,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marcel Schläpfer",
+        "author_photo": "/images/reviews/speck-schreinerei-oberwil-bei-zug/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Lokales Gewerbe",
+        "time": 1480076310,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Albert Speck",
+        "author_photo": "/images/reviews/speck-schreinerei-oberwil-bei-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597074862,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

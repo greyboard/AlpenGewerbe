@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJM5nRn-8ZjkcRmOPdKyYHfhs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Euromaster Düdingen",
+        "author_photo": "/images/reviews/allesrundumshaus-ch-francois-nyfeler-duedingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren mit den Gartenarbeiten sehr zufrieden! Alles wurde zuverlässig, sauber und professionell ausgeführt. Empfehlenswert!",
+        "time": 1746517266,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Julia Schaller",
+        "author_photo": "/images/reviews/allesrundumshaus-ch-francois-nyfeler-duedingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1759256194,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Calvin Limat",
+        "author_photo": "/images/reviews/allesrundumshaus-ch-francois-nyfeler-duedingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1759255386,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ18_ivce5kUcROukMVPuTXxY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Boris Andric",
+        "author_photo": "/images/reviews/sanitaernotfalldienst-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service!",
+        "time": 1742055001,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "E. Amiti",
+        "author_photo": "/images/reviews/sanitaernotfalldienst-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774467951,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Granit Krasniqi",
+        "author_photo": "/images/reviews/sanitaernotfalldienst-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765744357,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJrW8YGgbKkUcRmNDTwiJu_Tg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "V. Hasler",
+        "author_photo": "/images/reviews/elektro-naegelin-ag-frenkendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr rasche Bearbeitung meines Anliegens durch die Filiale in Lausen (ehemals Elektro Handschin), rasche und unkomplizierte Kommunikation direkt mit dem verantwortlichen Mitarbeitenden.",
+        "time": 1710921237,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefan Kürsteiner",
+        "author_photo": "/images/reviews/elektro-naegelin-ag-frenkendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seit Jahren bin ich mit der hohen Qualität, den fairen Preisen und den eingehaltenen Kostenvoranschlägen sehr zufrieden. Daneben wird man noch persönlich und freundlich betreut. Was will man da noch mehr?",
+        "time": 1571640445,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Claudio",
+        "author_photo": "/images/reviews/elektro-naegelin-ag-frenkendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und kompetentes Personal.",
+        "time": 1737020858,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "markus kiefer",
+        "author_photo": "/images/reviews/elektro-naegelin-ag-frenkendorf/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Hilfsbereite und sehr freundliche Mitarbeiter. Ich komme wieder",
+        "time": 1612889235,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dennis Büschlen",
+        "author_photo": "/images/reviews/elektro-naegelin-ag-frenkendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605217408,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

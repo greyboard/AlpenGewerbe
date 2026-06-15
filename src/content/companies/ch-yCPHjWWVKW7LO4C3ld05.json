@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJTcNBJJsnjkcRFT1CEsWqoxg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Fabian",
+        "author_photo": "/images/reviews/haenggi-leuenberger-naturgarten-landschaftsbau-muehledorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut zufrieden mit der Arbeit von Herr Hänggi und Herr Leuenberger! Sie haben bei uns einen wunderschönen Sitzplatz im Garten gestaltet und auch die Unterhaltsarbeiten an unseren Bäumen und Sträuchern übernommen. Die zwei waren sehr professionell, freundlich und haben alle Arbeiten sauber und zügig ausgeführt. Besonders beeindruckt hat mich die Liebe zum Detail.\n\nDer Garten sieht jetzt nicht nur gepflegter, sondern auch viel einladender aus. Ich kann Hänggi und Leuenberger Naturgarten und Landschaftsbau wirklich jedem empfehlen, der eine zuverlässige und engagierte Gartenbaufirma sucht. Vielen Dank an euch zwei für die tolle Arbeit.",
+        "time": 1731441010,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Achille Greco",
+        "author_photo": "/images/reviews/haenggi-leuenberger-naturgarten-landschaftsbau-muehledorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Gärtner! Alles sauber erledigt, immer pünktlich und richtig gute Arbeit. Die Offerte wurde genau eingehalten. Gerne wieder!",
+        "time": 1776957494,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Albrecht Rufer",
+        "author_photo": "/images/reviews/haenggi-leuenberger-naturgarten-landschaftsbau-muehledorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652784088,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Markus Thomet",
+        "author_photo": "/images/reviews/haenggi-leuenberger-naturgarten-landschaftsbau-muehledorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1653673779,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "markus trutmann",
+        "author_photo": "/images/reviews/haenggi-leuenberger-naturgarten-landschaftsbau-muehledorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756115451,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

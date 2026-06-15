@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJH65t69O5kUcRFoZZxLCkN8A",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Beat Kessler",
+        "author_photo": "/images/reviews/birs-elektro-gmbh-birsfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Suchst Du einen, regionalen, kompetenten Elektriker ?\n- Hier bist du definitiv am richtigen Ort.\nBin selber vom Fach und kann:\n***** ohne Einschränkung vergeben.",
+        "time": 1770720199,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Ro Man",
+        "author_photo": "/images/reviews/birs-elektro-gmbh-birsfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Elektrofirma. Die Beratung und Ausführung der Arbeiten entsprach meine Vorstellungen. Jederzeit wieder.",
+        "time": 1604432964,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Veronika Meier",
+        "author_photo": "/images/reviews/birs-elektro-gmbh-birsfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr seriöse Firma, kompetente und freundliche Angestellte, schnelle Bedienung.",
+        "time": 1594272112,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniele Schiliro",
+        "author_photo": "/images/reviews/birs-elektro-gmbh-birsfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Team, Weiter so bis nächstes mal",
+        "time": 1638084250,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Daniel Courto",
+        "author_photo": "/images/reviews/birs-elektro-gmbh-birsfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich, zuvorkommen, schnell, Problem lösungs orientiert👍",
+        "time": 1568114977,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

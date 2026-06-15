@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJneWWrJpDhUcRV2q99T4Fmuc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:30 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Urs Herwegh",
+        "author_photo": "/images/reviews/elektro-planzer-ag-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein super Elektro Geschäft.\nIch arbeite immer wieder mit ihnen zu sammeln.\nHilfsbereit und super Service und Leistungen.",
+        "time": 1734670422,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bruno Fiechter",
+        "author_photo": "/images/reviews/elektro-planzer-ag-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service. Top geschulte & freundliche Fachkräfte.\nNur zu empfehlen!",
+        "time": 1660320408,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sabine Zemp",
+        "author_photo": "/images/reviews/elektro-planzer-ag-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "top schnell..top Service...jederzeit wieder!!!!",
+        "time": 1624005538,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lukas Imhof",
+        "author_photo": "/images/reviews/elektro-planzer-ag-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell und unkompliziert.",
+        "time": 1684611378,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andrin Desax",
+        "author_photo": "/images/reviews/elektro-planzer-ag-altdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Baba betrieb",
+        "time": 1659984789,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

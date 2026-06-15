@@ -26,5 +26,47 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJe3OqcU-qmkcRmutJfoMRfII",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Conrad Rudat",
+        "author_photo": "/images/reviews/franz-weinberger-sanitaertechnik-gmbh-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1741597286,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Konrad Zabłocki",
+        "author_photo": "/images/reviews/franz-weinberger-sanitaertechnik-gmbh-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1724699705,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Helena Maria Stalder",
+        "author_photo": "/images/reviews/franz-weinberger-sanitaertechnik-gmbh-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1645163773,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

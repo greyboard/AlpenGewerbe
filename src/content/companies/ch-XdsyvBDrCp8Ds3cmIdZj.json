@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGYKmxl8em0cRqoukXkiwN6k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: 09:00–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Sascha Fritsche",
+        "author_photo": "/images/reviews/hp-mueller-ag-schreinerei-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben von HP Müller eine neue Küche anfertigen lassen und sind vom Ergebnis begeistert. Die individuelle Beratung war hervorragend. Unsere persönlichen Wünsche wurden präzise umgesetzt, und der Einbau erfolgte termingerecht und professionell. Ich kann HP Müller nur weiterempfehlen!",
+        "time": 1743499746,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mr. Arkadiac",
+        "author_photo": "/images/reviews/hp-mueller-ag-schreinerei-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompletter Küchenumbau. Aufgrund diverser Offerten habe ich mich für HP Müller entschieden. Detaillierte Vorbesprechung. Meine Ideen und Vorstellungen wurden exakt umgesetzt. Dazu wurden diverse Optimierungen vorgeschlagen, die ich bei den Mitbewerbern vermisste. Offerte verständlich und transparent. Lieferzeit eingehalten. Küchenabriss und -wiederaufbau genau nach Plan und professionell. Der Qualitätseindruck stimmt und die Realisierung entspricht genau der Planung. Darüber hinaus gutes Preis-/Leistungsverhältnis. Ich bin total happy mit dem Resultat und kann HP Müller sehr empfehlen!",
+        "time": 1684262899,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Der Roger",
+        "author_photo": "/images/reviews/hp-mueller-ag-schreinerei-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein paar Reparatur- und Richtarbeiten an einer älteren Einbauküche sorgfältig und innert Wochenfrist erledigt. Der Fachmann ist freundlich und kompetent. Danke",
+        "time": 1759419924,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Fabienne Angehrn",
+        "author_photo": "/images/reviews/hp-mueller-ag-schreinerei-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere neue Küche bei der hp müller Schreinerei machen lassen. Wir waren mit der Beratung sehr zufrieden, bekamen gute Tipps und von der Planung bis zur Endmontage ist alles super abgelaufen. Die Küche hat eine Top Qualität und freut uns jeden Tag! Wir können die hp müller Schreinerei wärmstens weiterempfehlen!",
+        "time": 1670354219,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Liselotte Arnet",
+        "author_photo": "/images/reviews/hp-mueller-ag-schreinerei-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Küchenumbau mit hp Müller vor 4 Jahren.\nSehr gute  Unterstützung und Beratung durch einen professionellen Projektleiter, der als GU fungierte. Alles bestens geklappt mit einem Team von Handwerkern, die Hand in Hand zusammengearbeitet haben.\nSehr gute Qualität, so dass wir heute noch wie am ersten Tag an unserer Küche Freude haben!",
+        "time": 1567972268,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,31 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJwes8AUsPjkcRy1RNFl6J57I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "RaiDen",
+        "author_photo": "/images/reviews/schreiner2-ag-gampelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich, ehrlich und kompetent :)",
+        "time": 1494522490,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ51mRLI9FhUcRM1JyKLlCcvU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Felix Schmidt",
+        "author_photo": "/images/reviews/heizungs-blitz-gmbh-flueelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte ein akutes Problem mit meiner Fussbodenheizung. Ein Anruf und schon erhielt ich adhoc eine erste Hilfe per Telefon und einen Reparaturtermin innerhalb von 24h. Pünktlich auf die Minute, effizient und preislich absolut im Rahmen wurde mein Problem behoben. Vielen Dank, jederzeit wieder.",
+        "time": 1744830256,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Auer",
+        "author_photo": "/images/reviews/heizungs-blitz-gmbh-flueelen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Rundum perfekte und schnelle Lieferung inklusive Einbau der Wärmepumpe und freundlicher Kontakt! Funktioniert hervorragend, vielen Dank!",
+        "time": 1734859555,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jan Kneubühler",
+        "author_photo": "/images/reviews/heizungs-blitz-gmbh-flueelen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Florian hat mich top beraten und die Montage war sauber und fachgerecht. Sehr professionell und zuverlässig – absolut empfehlenswert!",
+        "time": 1738920770,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fabrizio Fedier",
+        "author_photo": "/images/reviews/heizungs-blitz-gmbh-flueelen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top, sehr empfehlenswert\nSehr freundliche Arbeiter\nschnelle Lieferung👌🤝",
+        "time": 1680800788,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "buran buran",
+        "author_photo": "/images/reviews/heizungs-blitz-gmbh-flueelen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetenter und unkomplizierter Heizungsmoteur.",
+        "time": 1752149223,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

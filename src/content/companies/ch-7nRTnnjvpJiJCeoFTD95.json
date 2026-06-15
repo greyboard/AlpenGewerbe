@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJkT_Y3GrYkUcRGh3OttWeQYw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Anel Köroglu",
+        "author_photo": "/images/reviews/ledermann-ag-langendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit von Ledermann bzw. Herr Bucher sehr zufrieden. Die Garderobe ist sensationell und Herr Bucher hat alles, was wir wollten, umgesetzt. Wir haben viel Stauraum, und alles ist stylisch. Er hat aktiv mitgedacht, und nach guten Lösungen gesucht. Die Garderobe ist noch besser, als wir es uns vorgestellt haben. Wir sind so zufrieden, dass wir seitdem schon mehr Sachen bei der Firma Ledermann haben machen lassen und im 2026 sind weitere Projekte mit Herrn  Bucher geplant.",
+        "time": 1768227214,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Olivier Oswald",
+        "author_photo": "/images/reviews/ledermann-ag-langendorf/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Einbau der Küche 2015. Seither weisen sämtliche Fronten an der Unterkannte Wellen auf, sind aufgequollen. Die Kantenumleimer haben sich gelblich verfärbt. Das Holz riecht neuerdings so stark, dass sich der Geruch auf das Geschirr überträgt. Schade für die an sich gute Arbeit, doch wir werden das Ganze wohl oder übel bald neu machen müssen.",
+        "time": 1709229407,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "K.F. Stähli",
+        "author_photo": "/images/reviews/ledermann-ag-langendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die neue Küche nach Mass wurde vom Küchenbauer Ledermann termingerecht, sorgfältig und präzise eingebaut. Genauso, wie wir es uns wünschten. Eine ausgezeichnete Leistung. Die Küche bereitet uns jeden Tag viel Freude. Nochmals ein grosses Dankeschön an alle beteiligten Personen.",
+        "time": 1601196874,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Corinne Bloch",
+        "author_photo": "/images/reviews/ledermann-ag-langendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super nette Beratung mit guten Lösungsideen. Haben viele Einbauschränke, Badezimmermöbel und Kleiderschränke machen lassen sogar mit Innenbeleuchtung. Es ist ein Traum, wirklich Top. Herzlichen Dank",
+        "time": 1715859130,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Frey",
+        "author_photo": "/images/reviews/ledermann-ag-langendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Toller Tag der offenen Tür(en). Ein Einblick in die Produktion sowie den verschiedenen Arbeitsbereichen. Vielen Dank und gute Arbeitsauslastung!",
+        "time": 1653675369,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

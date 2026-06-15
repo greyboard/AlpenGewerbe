@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJd270VX3-j0cRsdPc-7qeZXQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 10:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 10:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 10:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 10:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 39,
+    "reviews": [
+      {
+        "author_name": "Georges",
+        "author_photo": "/images/reviews/cozza-plaettli-root/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Beratung über die Planung und während der Ausführung der Arbeit fühlte ich mich stets gut aufgehoben. Ich bin mit dem Ergebnis sehr zufrieden. Das neue Bad macht Freude. Herzlichen Dank. G. Rudin, Ebikon",
+        "time": 1772564375,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marion Russek",
+        "author_photo": "/images/reviews/cozza-plaettli-root/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Voitech hat eine super Auswahl, man merkt, dass er guten Geschmack hat :-). Ich habe in 4 Projekten mit ihm zusammengearbeitet und ihn als kompetent und sehr zuverlässig kennen gelernt. Er wird auch bei meinem nächsten Projekt dabei sein - jemand anderer kommt gar nicht in Frage!",
+        "time": 1696360347,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Othmar Steiner",
+        "author_photo": "/images/reviews/cozza-plaettli-root/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr grosse Auswahl an Platten mit schöner Präsentation im Verkaufslokal. Es ist offenkundig, dass der Geschäftsinhaber über ein gutes Gespür für die Kundenwünsche bei der Auswahl des Sortiments im Einkauf verfügt. Die Beratung ist vorzüglich und geprägt von grossem Anstand und sehr guten Umgangsformen. Mit Sicherheit werde ich für das nächste Projekt wieder Cozza AG berücksichtigen.",
+        "time": 1756627813,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "DANIEL COCHARD",
+        "author_photo": "/images/reviews/cozza-plaettli-root/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetente und sehr freundliche Beratung durch Voitech! Lieferung der Ware immer termingerecht und ohne Probleme. Sehr zu empfehlen und immer gerne wieder. Besten Dank",
+        "time": 1749548633,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Steiner",
+        "author_photo": "/images/reviews/cozza-plaettli-root/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Voitech hat eine super Auswahl an Platten und kann auch entsprechend gut beraten.\nEr hat bei uns die Platten für den Küchenboden und für den gesamten Badumbau geliefert.\nWir sind sehr zufrieden.",
+        "time": 1750877646,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

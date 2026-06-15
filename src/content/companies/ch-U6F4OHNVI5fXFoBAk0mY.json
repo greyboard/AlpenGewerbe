@@ -26,5 +26,31 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu-ht_7VbhUcRzBqoJ1nfpl4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 09:00–19:00 Uhr",
+    "Mittwoch: 09:00–19:00 Uhr",
+    "Donnerstag: 09:00–19:00 Uhr",
+    "Freitag: 09:00–19:00 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Daniela Aschwanden",
+        "author_photo": "/images/reviews/b-h-bedachungen-gmbh-emmetten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622845173,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

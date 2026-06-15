@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJw1Vsqs1qkEcRvlsvEv-YQFc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Javier Dejoz",
+        "author_photo": "/images/reviews/gasser-bauunternehmen-gmbh-windisch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei unsere Küchenrenovation habt ihr sehr professionelle Arbeit geleistet. Von der Angebotsphase bis zur Ausführung. Gerne wieder.",
+        "time": 1762675971,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Claudio Werder",
+        "author_photo": "/images/reviews/gasser-bauunternehmen-gmbh-windisch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Habe verschiedene Bauprojekte mit der Gasser GmbH realisiert und war mit der Arbeitsqualität und den Preisen immer sehr zufrieden.  Auch die Abwicklung funktionierte stets sehr schnell und unkompliziert...",
+        "time": 1553164800,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Peter",
+        "author_photo": "/images/reviews/gasser-bauunternehmen-gmbh-windisch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Firma",
+        "time": 1702233875,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Padi Amstutz",
+        "author_photo": "/images/reviews/gasser-bauunternehmen-gmbh-windisch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1627807843,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrick Malleis",
+        "author_photo": "/images/reviews/gasser-bauunternehmen-gmbh-windisch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776317655,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

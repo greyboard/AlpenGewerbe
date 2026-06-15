@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8929Mtq3kUcRJuqTCmMFPwM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Daniel von Arb",
+        "author_photo": "/images/reviews/loew-gaerten-ag-muttenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich durfte für meine Mutter welche altershalber in das Altersheim gezogen ist, die Firma Löw AG beauftragen, diverse Gartenarbeiten auszuführen.\nIch war sehr zufrieden mit der Kommunikation des Unternehmens, mit den ausgeführten Gartenarbeiten wie auch mit der transparenten und detaillierten Abrechnung.\nEin Unternehmen welches ich gerne weiter empfehlen werde.",
+        "time": 1664279396,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Corinna Stiegeler",
+        "author_photo": "/images/reviews/loew-gaerten-ag-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super perfekter Service und geniale Arbeit !!! Freundlich , effizient und zuvorkommend 👌Vielen lieben Dank habe Mega Freude an meiner schönen sauberen und wundervoll bepflanzten Terrasse 🙏🏻☺️🍀",
+        "time": 1744027816,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Per",
+        "author_photo": "/images/reviews/loew-gaerten-ag-muttenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir lassen unseren Garten über Löw Gärten pflegen und hegen... Sympathisches Familienunternehmen mit fachkundigem Personal. Sehr empfehlenswert!",
+        "time": 1636538936,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bernhard Erne",
+        "author_photo": "/images/reviews/loew-gaerten-ag-muttenz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Waren rundum sehr zufrieden mit der Neugestaltung unseres Sitzplatzes,\ngute Beratung  vorgängig und Ausführung von den sehr freundlichen Gärtnern und exakte Verlegung der neuen Bodenplatten , topp !",
+        "time": 1655026789,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Impulse",
+        "author_photo": "/images/reviews/loew-gaerten-ag-muttenz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Gartenbau Löw AG zählt auf Mitarbeitende mit Behinderung. Für das soziale Engagement wurde das Unternehmen von Impulse mit dem Label iPunkt ausgezeichnet.",
+        "time": 1516793754,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

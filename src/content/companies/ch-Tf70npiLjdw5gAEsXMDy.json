@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJr4CalddljEcRk_20Fc8-dOM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:00 Uhr",
+    "Dienstag: 07:00–16:00 Uhr",
+    "Mittwoch: 07:00–16:00 Uhr",
+    "Donnerstag: 07:00–16:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Mathilde Ballet",
+        "author_photo": "/images/reviews/renovhome-sa-aire/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser zweites Projekt mit Renovhome verlief erneut hervorragend (Bodenbelag, abgehängte Decke, Wanddurchbruch, Malerarbeiten). Die Kommunikation war unkompliziert und schnell, die Ausführungsqualität tadellos und das Ergebnis hat unsere Erwartungen voll und ganz erfüllt. Wir sind begeistert und denken bereits an unser nächstes Renovierungsprojekt!",
+        "time": 1777454057,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Fad Mark",
+        "author_photo": "/images/reviews/renovhome-sa-aire/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Holzfassade meines Hauses musste gestrichen werden, und Renovhome hat die Arbeit in kürzester Zeit hervorragend erledigt.\nDie Maler waren sehr professionell, effizient, sorgfältig und freundlich. Das Unternehmen stellte das Gerüst im Rahmen seiner Leistungen zur Verfügung, was mir sehr geholfen hat, da ein Gerüst an sich sehr teuer sein kann. Ich kann Renovhome für alle Malerarbeiten im Außenbereich uneingeschränkt empfehlen und würde sie aufgrund meiner positiven Erfahrung definitiv wieder beauftragen, wenn ich weitere Arbeiten am Haus benötige.",
+        "time": 1764007553,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Pierrot Zoillig",
+        "author_photo": "/images/reviews/renovhome-sa-aire/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Verdiente fünf Sterne! Vom ersten Kontakt bis zum Abschluss der Arbeiten war alles hervorragend. Wirklich freundliche und professionelle Handwerker. Die Arbeit ist perfekt. Herr Helder hat schnell und sehr gut gearbeitet. Ich kann sie wärmstens empfehlen! Herzlichen Dank an das gesamte Team!",
+        "time": 1764069368,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Maud Correnti",
+        "author_photo": "/images/reviews/renovhome-sa-aire/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin mit den angebotenen Leistungen und der Qualität der Arbeit sehr zufrieden! Zögern Sie nicht, sich an sie zu wenden, wenn Sie Malerarbeiten durchführen lassen möchten!",
+        "time": 1768939378,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jean-Louis",
+        "author_photo": "/images/reviews/renovhome-sa-aire/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vom ersten Kontakt bis zum Projektabschluss waren wir rundum zufrieden. Die Mitarbeiter von Renovhome arbeiteten professionell und sorgfältig, achteten auf jedes Detail und die Ausführung war perfekt. Wir beauftragten Renovhome mit Maurer- und Malerarbeiten, und es waren keine Nachbesserungen nötig.",
+        "time": 1763038336,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJDbIKYCUAkEcRGk1hBkaE8ys",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.4,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marc Daniel",
+        "author_photo": "/images/reviews/bucher-dach-ag-rotkreuz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In Zusammenarbeit mit Roman Bucher und Emanuel Steiner wurde bei uns am Eichenweg 1 in Eich auf einem Walmdach anlässlich Hagelschaden vom 28. Juni 2021 damals wie nun am 17. September 2025 weitere Instandhaltungsarbeiten ausgeführt. Emanuel Steiner beide Male am Werk hat exzellenten Einsatz bewiesen und mit Adlerauge weitere Haarrisse entdeckt, welche uns Laien verborgen blieben. Und dies, weil er nach Abschluss seiner Arbeit noch zweimal eine Dachtour machte.\n\nDeshalb ganz herzlichen Dank für seinen und den Firmen-Support und beste Grüsse Marc Daniel.",
+        "time": 1758280002,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Skyjumper 3377",
+        "author_photo": "/images/reviews/bucher-dach-ag-rotkreuz/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Halten sich nicht an die Strassenverkehrsregeln.",
+        "time": 1777524329,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Felix Zeyrek",
+        "author_photo": "/images/reviews/bucher-dach-ag-rotkreuz/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Keine Antwort ist auch eine...",
+        "time": 1725032640,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Hächler",
+        "author_photo": "/images/reviews/bucher-dach-ag-rotkreuz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1614113567,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tobi Jung",
+        "author_photo": "/images/reviews/bucher-dach-ag-rotkreuz/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1773862042,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

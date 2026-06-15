@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJS4PbPDvFjkcR0aG4F8Bidw4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–17:30 Uhr",
+    "Dienstag: 08:30–17:30 Uhr",
+    "Mittwoch: 08:30–17:30 Uhr",
+    "Donnerstag: 08:30–17:30 Uhr",
+    "Freitag: 08:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Melody",
+        "author_photo": "/images/reviews/mathieu-vouillamoz-sa-iserables/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert! Herr Bruno schafft eine herzliche Atmosphäre, und man merkt sofort, dass er seine Arbeit mit Herzblut macht! Er hört zu und verbreitet positive Energie!\n\nAußerdem befindet sich das Unternehmen an einem wunderschönen Ort!",
+        "time": 1706126398,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Agnieszka Kuczynska",
+        "author_photo": "/images/reviews/mathieu-vouillamoz-sa-iserables/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Super",
+        "time": 1772119837,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "vernes mesic",
+        "author_photo": "/images/reviews/mathieu-vouillamoz-sa-iserables/reviewer_3.jpg",
+        "rating": 5,
+        "text": "👍",
+        "time": 1733947477,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simon Vouillamoz",
+        "author_photo": "/images/reviews/mathieu-vouillamoz-sa-iserables/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Gesellschaft 👍🏻",
+        "time": 1526546563,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "rui miguel serra",
+        "author_photo": "/images/reviews/mathieu-vouillamoz-sa-iserables/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776187672,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

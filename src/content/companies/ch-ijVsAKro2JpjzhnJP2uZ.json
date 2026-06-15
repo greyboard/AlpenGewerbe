@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJCd1EhcwVjkcR29zL9UE2b1E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Marc Schoder",
+        "author_photo": "/images/reviews/spack-gartenbau-kerzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Thomas, Roger und ihr Team sind eine super Truppe. Top Mitarbeiter. Immer Freundlich. Sehr saubere und gute Arbeit zu fairen Preisen.",
+        "time": 1778612063,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Ronald Meier",
+        "author_photo": "/images/reviews/spack-gartenbau-kerzers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich empfehle Spack Gartenbau sehr gerne weiter. Die Mitarbeitenden leisten tolle Arbeit, sind freundlich und respektvoll gegenüber dem Eigentum Anderer. Eine Baustelle von Spack Gartenbau ist aufgeräumt und sauber. Das schätze ich sehr. Für einen fairen Preis wird hochwertige Arbeit geleistet. \"two thumbs up\"",
+        "time": 1617946485,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Andreas Niggli",
+        "author_photo": "/images/reviews/spack-gartenbau-kerzers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionell, freundlich, alles i.O!",
+        "time": 1617802428,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marcos Santamaria",
+        "author_photo": "/images/reviews/spack-gartenbau-kerzers/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Firma!",
+        "time": 1774948437,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Tim Nyss",
+        "author_photo": "/images/reviews/spack-gartenbau-kerzers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einfach spitze! Erstklassige Handwerkskunst und all die kleinen Extras, an die man selbst nie denken würde. Diese Firma weiß genau, was Ihrem Garten guttut. Die Pflanzenauswahl wird individuell auf Ihre Wünsche und Bedürfnisse abgestimmt und harmoniert perfekt mit der Umgebung. Super freundlich, ehrlich und sauber.",
+        "time": 1725720181,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

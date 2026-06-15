@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJcy5T-y1pj0cRBIjYiC7UjqQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Nathalie Wyssen",
+        "author_photo": "/images/reviews/elektro-imhof-paul-ag-brig-glis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an das Team  für die schnelle Hilfe bei meinem Problem. Sie waren zuverlässig und haben das Problem effizient gelöst. Ich war sehr zufrieden mit dem Service und würde sie jederzeit wieder kontaktieren. Sehr sympathisches Team, weiter so!",
+        "time": 1723202634,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bernhard Britsch",
+        "author_photo": "/images/reviews/elektro-imhof-paul-ag-brig-glis/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Super Laden! Old school.",
+        "time": 1644699515,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hugo Werlen",
+        "author_photo": "/images/reviews/elektro-imhof-paul-ag-brig-glis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundliche und kompetente Mitarbeiter und Inhaber",
+        "time": 1659964961,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Heinzen",
+        "author_photo": "/images/reviews/elektro-imhof-paul-ag-brig-glis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Experten",
+        "time": 1738172022,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Clefan Stausen",
+        "author_photo": "/images/reviews/elektro-imhof-paul-ag-brig-glis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652758152,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJgQ5UWXPlmkcRj2lNODqfki0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "MBPhotography Ostschweiz",
+        "author_photo": "/images/reviews/memeti-gmbh-sanitaer-heizungen-amriswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Memeti GmbH hat bei mir die Bodenheizung angeschaut und die Lösung für das Problem gefunden und sogleich auch fachmännisch ausgeführt/umgesetzt und behoben. Die etwas längeren Wartezeiten haben nichts mit dem Ausführen der Arbeit zu tun, daher gibts von mir 5 Sterne! Zudem war der Fachmann sehr freundlich und hat sämtliche Fragen die ich gestellt habe kompetent beantworten können, vielen Dank! Auf jeden Fall empfehle ich Memeti GmbH weiter.",
+        "time": 1740777916,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nathan F.",
+        "author_photo": "/images/reviews/memeti-gmbh-sanitaer-heizungen-amriswil/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Trotzdem Termin Vereinbarung kommen Sie immer wieder spontan vorbei,\" weil Sie in der Nähe sei\". Ebenfalls bei Nachbarn, was echt mühsam und störend ist. Man macht nicht um sonst Termine ab ! Mitarbeiter waren offenbar nicht informiert über Zeitlich vereinbarte Termin. Es passierte mehrmals.",
+        "time": 1720120851,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mr. Success (Consultant)",
+        "author_photo": "/images/reviews/memeti-gmbh-sanitaer-heizungen-amriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetente, fachmännische und freundliche Beratung.\nPünktlich, Sach- und fachgerechte Ausführungen und ein angenehmes Preis- / Leistungsverhältnis.\nDa könnte sich die \"Schweizer\" Firma mit den weissen Fahrzeugen und dem roten Emblem in Amriswil ein Beispiel nehmen und sich der Veröffentlichung weiterer, nicht zutreffender Rezensionen zu distanzieren.",
+        "time": 1666702310,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrick1246",
+        "author_photo": "/images/reviews/memeti-gmbh-sanitaer-heizungen-amriswil/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Sind auf der Notfallnummer nicht erreichbar. Erneut kein Warmwasser…\nHalten sich auch nicht an Terminabmachungen….",
+        "time": 1722630326,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Harry Huskic",
+        "author_photo": "/images/reviews/memeti-gmbh-sanitaer-heizungen-amriswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schon 2 Häuser mit der Firma renoviert. Bäder und Wärmepumpen. Empfehle sie defintiv weiter!",
+        "time": 1643995485,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

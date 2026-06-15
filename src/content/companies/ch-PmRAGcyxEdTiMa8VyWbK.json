@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJgT9Cx0L9j0cRUTIJ-o6hL0M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Verena Meyer",
+        "author_photo": "/images/reviews/45grad-sanitaer-heizung-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetenz, Zuverlässigkeit und Freundlichkeit zeichnen die Mitarbeiter dieser Firma aus. Ich kann diesen Sanitär uneingeschränkt weiterempfehlen.",
+        "time": 1773067082,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Carmen Diebold",
+        "author_photo": "/images/reviews/45grad-sanitaer-heizung-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent und kooperativ hat sich Herr Lika von 45 Grad Kundensanitär eingebracht, als es darum ging, die Ursache eines komplizierten Wasserschadens bei uns ausfindig zu machen. Sehr gründlich hat er die Hauspläne studiert. Die folgenden Schritte wurden wohlüberlegt geplant und zuverlässig durchgeführt und haben damit wesentlich zur Klärung der Ursache geführt.\nEmpfehlenswert!",
+        "time": 1658588027,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "David Frank",
+        "author_photo": "/images/reviews/45grad-sanitaer-heizung-emmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "45Grad hat uns bei einem sanitären Notfall innert kürzester Zeit kompetent unterstützt und das Problem effizient behoben.",
+        "time": 1758883720,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Selin Troiani",
+        "author_photo": "/images/reviews/45grad-sanitaer-heizung-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Unternehmen! Sehr gute Kommunikation!\nWir sind sehr zufrieden.\nKompetent, freundlich und zuverlässig!\nEmpfehlenswert! Super!!",
+        "time": 1669227613,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Markus H. Walti",
+        "author_photo": "/images/reviews/45grad-sanitaer-heizung-emmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service! Unkompliziert, freundlich, gründlich, sauber!",
+        "time": 1721740395,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJU-zOEjThmkcRVRipGcVWbAA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Angelika Haubenschmid",
+        "author_photo": "/images/reviews/garten-und-bau-bernhardsgruetter-ag-arnegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben diesen Frühling einen neuen Sichtschutz machen lassen.\nDie Arbeit war von Anfang bis Ende nur Top! Unser Sichtschutz wurde mit viel Liebe und Genauigkeit aufgebaut. Grosses Kompliment und wir sind sehr glücklich!",
+        "time": 1760440641,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Thomas Künzler",
+        "author_photo": "/images/reviews/garten-und-bau-bernhardsgruetter-ag-arnegg/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Sehr enttäuschende Arbeit, nicht zu Fehler stehen\n\nLeider sind wir nicht glücklich geworden. Die Planung hatte gut begonnen, doch schon bald sind erste Probleme aufgetreten.\nBeim Einbau des Trampolin bei uns stimmte der Neigungswinkel nicht und es musste 2x nachgebessert werden. Bis am Schluss die Arbeit von einem anderen Gärtner erledigt werden musste, da das Trampolin so nicht verwendet werden konnte. Grund: beim Trampolinspringen (einzeln) sind wir auf der Seite beim Beton aufgeschlagen.\n\nDie Natursteinverblender bei uns sind nach 1 Jahr wieder abgefallen. Leider haben diverse Gespräche nichts genützt. Die Schuld wurde immer bei den anderen gesucht. Gespräche vor Ort nützten ebenfalls nichts.\nIch habe am Schluss einen anderen Fachmann engagiert diese Arbeit neu zu machen.",
+        "time": 1659717476,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Markus Fehr",
+        "author_photo": "/images/reviews/garten-und-bau-bernhardsgruetter-ag-arnegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich würde die Firma auf jedenfall weiterempfelen. Super entgegenkommend, geht auf Wünsche ein und arbeitet sehr schnell.\n\nWerde mich bei meinem nächsten Garten auf jedenfall wieder für die Firma Garten & Bau Bernhardsgrütter entscheiden.\n\nAuch die Mitarbeiter sind sehr Fachmännisch und wissen genau was sie tun",
+        "time": 1675855108,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gabriel Felber",
+        "author_photo": "/images/reviews/garten-und-bau-bernhardsgruetter-ag-arnegg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "War sehr zufrieden mit de Planung  und Ausführung meine Gartens. Die Arbeitee waren immer Pünklich und sehr Freundlich.",
+        "time": 1675845028,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "K. W.",
+        "author_photo": "/images/reviews/garten-und-bau-bernhardsgruetter-ag-arnegg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Umsetzung von geplanter Arbeit. Freundliche, motivierte Mitarbeiter. Sehr zu empfehlen.",
+        "time": 1675878772,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

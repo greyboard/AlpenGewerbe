@@ -25,5 +25,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7VpfXJoxm0cR90tiEmWRqN0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Manuel Nigg",
+        "author_photo": "/images/reviews/mister-service-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "MR. Service hat bei uns das Duschsystem im Bad ausgetauscht. Von der Terminvereinbarung bis zur Ausführung hat alles einwandfrei funktioniert. Der Servicetechniker Daniel war pünktlich, ausgesprochen freundlich und professionell. Ich kann MR. Service nur weiterempfehlen!",
+        "time": 1764929967,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Andrin Bicker",
+        "author_photo": "/images/reviews/mister-service-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit dem Service von MR.Service. Daniel hat bei mir einen neuen Heizkörper montiert und dabei äußerst sorgfältig und professionell gearbeitet. Besonders positiv hervorheben möchte ich seine höfliche und freundliche Art. Er hat sich Zeit genommen, mir zuzuhören und ist auf meine Wünsche eingegangen. Alles wurde sauber und ohne jegliche Beschädigungen erledigt – was heutzutage wirklich nicht selbstverständlich ist. Vielen Dank für die tolle Arbeit! Ich kann MR.Service uneingeschränkt weiterempfehlen.",
+        "time": 1745856524,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lennart Lohmann",
+        "author_photo": "/images/reviews/mister-service-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Michael hat bei uns Zuhause einen schnellen und zuverlässigen Service geleistet. Er ist freundlich, arbeitet termingerecht und erledigt alle Aufgaben verlässlich. Darüber hinaus gibt er wertvolle Tipps, die über Heizung und Sanitär hinausgehen.",
+        "time": 1743700075,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jürgen Gritsch",
+        "author_photo": "/images/reviews/mister-service-schaan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hallo, ich konnte heute den profimässigen Service der neuen Firma Mister Service geniessen. Daniel hat seinen Job freundlich, schnell und äusserst kompetent erledigt. Danke und liebe Grüsse Jürgen",
+        "time": 1743604612,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rebecca Wunder",
+        "author_photo": "/images/reviews/mister-service-schaan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schneller, zuverlässiger 5 Sterne Service. Kann ich mit gutem Gewissen weiter empfehlen.",
+        "time": 1755003865,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJj7IdO3U7kEcRZkjKo9cC-A0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Bella Blingston",
+        "author_photo": "/images/reviews/maler-gipser-deldar-swiss-gmbh-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich brauchte einen Gipser und die Firma Deldar Swiss hat super Arbeit geleistet. Sehr flexibel, sehr schöne Arbeit. Ich bin sehr zufrieden mit dem Preis-Leistungs-Verhältnis!!! Gerne wieder!!!!",
+        "time": 1770624187,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Michele Ricci",
+        "author_photo": "/images/reviews/maler-gipser-deldar-swiss-gmbh-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe in den letzten Jahren mehrere Arbeiten von Maler & Gipser Deldar Swiss GmbH ausführen lassen und war jedes Mal sehr zufrieden. Die Arbeiten wurden sauber, zuverlässig und termingerecht erledigt. Man merkt sofort, dass hier mit Sorgfalt und Professionalität gearbeitet wird. Auch die Beratung war stets freundlich und kompetent. Ich kann das Unternehmen mit gutem Gewissen weiterempfehlen und werde bei zukünftigen Projekten gerne wieder auf sie zurückkommen.",
+        "time": 1772196194,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Jan Bühler",
+        "author_photo": "/images/reviews/maler-gipser-deldar-swiss-gmbh-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Deldar Swiss GmbH leistet sehr gute Arbeit, sie arbeiten sehr professionell zu fairen Preisen.\nWir waren sehr zufrieden mit dem neuen Anstrich in der Wohnung.",
+        "time": 1741181074,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Carlo Piaget",
+        "author_photo": "/images/reviews/maler-gipser-deldar-swiss-gmbh-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wie immer hat Herr Shirmo und sein Team eine absolut einwandfreie, kostengünstige Arbeit abgeliefert. Das Team hat den ganzen Rasen ersetzt und neu angesät sowie eine neue Rasenumrandung aus Stein platziert. Ich kann dieses Team wirklich allen empfehlen - absolut einwandfreie und kostengünstige Lösung.",
+        "time": 1753172553,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Max Kleinedler",
+        "author_photo": "/images/reviews/maler-gipser-deldar-swiss-gmbh-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Grossartige Arbeit. Die Arbeiten (Abschleifen mehrerer Wände, Grundieren und neu verputzen) wurden absolut professionell, schnell und sauber ausgeführt. Freundlicher und unkomplizierter Kontakt von Anfang bis Ende. Sehr gerne wieder. Vielen Dank!",
+        "time": 1746604344,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

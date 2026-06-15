@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJDezlvrg9kEcR4qvFKTgM22M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Peter Stalder",
+        "author_photo": "/images/reviews/o-saracino-gmbh-maler-gipser-dienstleistungen-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alles bestens. Der Termin für die Arbeiten an der Decke (Riss in der Decke) konnte noch relativ kurzfristig gebucht werden, worüber wir sehr froh waren.\nWir wurden auch gut beraten bezüglich der bevorstehenden Arbeit.\nDie Arbeit wurde zu unserer vollen Zufriedenheit ausgeführt und wie geplant fertiggestellt.\nWir konnten keinerlei Mängel feststellen.",
+        "time": 1766405955,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Philipp Hirter",
+        "author_photo": "/images/reviews/o-saracino-gmbh-maler-gipser-dienstleistungen-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut begeistert von der Sanierung unseres Badezimmers! Die Arbeiten wurden makellos ausgeführt und das Ergebnis ist einfach wunderschön. Besonders hervorheben möchten wir die Freundlichkeit und Pünktlichkeit der Mitarbeiter. Sie haben stets sauber gearbeitet und alles ordentlich hinterlassen. Wir können diesen Service uneingeschränkt weiterempfehlen",
+        "time": 1734939481,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andreas Saladin",
+        "author_photo": "/images/reviews/o-saracino-gmbh-maler-gipser-dienstleistungen-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die gute Zusammenarbeit !\nDas war ein grosses Projekt mit ein paar kurzfristigen technischen Hürden, die wir gemeinsam, schnell, konstruktiv und positiv lösen konnten. Die ganze Fassade und auch das Holzwerk wurden repariert und gestrichen. Die Arbeiten konnten innerhalb des Termins und dem Budget erledigt werden 👏👏👏\nJederzeit wieder.",
+        "time": 1700600893,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "B. König Wäscheabwurf GmbH",
+        "author_photo": "/images/reviews/o-saracino-gmbh-maler-gipser-dienstleistungen-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir danken Ihnen für die kompetente und sorgfältige Ausführung der übertragenen Arbeiten. Sehr angenehm war auch, dass die Terminierung der Ausführungen stets reibungslos klappte. Wir empfehlen Sie gerne weiter!",
+        "time": 1772808318,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Emanuele Rose",
+        "author_photo": "/images/reviews/o-saracino-gmbh-maler-gipser-dienstleistungen-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe diesen Monat mein Einfamilienhaus fertig gebaut und O‘Saracino wurde mit den Malerarbeiten beauftragt. Wir sind mit dem Resultat mehr als zufrieden!! Sehr freundlich, sehr pünktlich und absolut fairer Preis! Danke nochmals für das Engagement und die tolle Arbeit",
+        "time": 1762200322,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

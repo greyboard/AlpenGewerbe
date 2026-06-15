@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvxNPPNUYm0cRiLFzvDUYLZQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Reto Jäger",
+        "author_photo": "/images/reviews/kaspar-gantenbein-ag-speicher/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir wollten für unsere neuen Parkett Böden einen absoluten Profi und haben Sie in der Firma Kaspar Gantenbein AG gefunden.\nPreis-Leistung und die Ausführung der Arbeiten waren Top und wir waren begeistert vom Ergebnis der neuen Böden.\nIch kann die Firma Gantenbein nur weiterempfehlen und möchte mich nochmals bei allen Beteiligten herzlich bedanken.",
+        "time": 1660247194,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Wohn- und Pflegeheim Boden Trogen",
+        "author_photo": "/images/reviews/kaspar-gantenbein-ag-speicher/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Gantenbein hat unseren alten, geliebten Klötzliparkett im Speisesaal des Wohn- und Pflegeheimes Boden geschliffen und versiegelt. Ja, wie lieben unseren Boden !!! (im doppelten Sinn :-)",
+        "time": 1682586807,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nicole Schmied",
+        "author_photo": "/images/reviews/kaspar-gantenbein-ag-speicher/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Firma, reagiert schnell auf Anfragen. Bringt gute Lösungen. Liefert sehr gute Arbeit.",
+        "time": 1650358467,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Linus Geisser",
+        "author_photo": "/images/reviews/kaspar-gantenbein-ag-speicher/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer wieder eine Freude über dietollen Produkte und die Grosszügigkeit. Tolles TEAM",
+        "time": 1679947270,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ruth Stark",
+        "author_photo": "/images/reviews/kaspar-gantenbein-ag-speicher/reviewer_5.jpg",
+        "rating": 5,
+        "text": "rasch und professionell gearbeitet und sehr freundliches Personal",
+        "time": 1691824995,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

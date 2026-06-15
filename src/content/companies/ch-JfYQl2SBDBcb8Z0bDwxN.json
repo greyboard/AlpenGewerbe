@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBZQCotpkjEcRQ0OkYHI1P2E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:00 Uhr",
+    "Dienstag: 07:00–16:00 Uhr",
+    "Mittwoch: 07:00–16:00 Uhr",
+    "Donnerstag: 07:00–16:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Vincent Gourdin",
+        "author_photo": "/images/reviews/espace-charpente-menuisier-charpentier-ossature-bois-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team von Espace Charpente hat bei mir ein wunderschönes Dachgaubenfenster eingebaut und so viel zusätzlichen Wohnraum geschaffen. Die Außenseite ist mit Kupfer verkleidet. Damien ist sehr hilfsbereit und legt großen Wert auf Kundenzufriedenheit!\nDer Preis war für den Umfang der Arbeiten angemessen. Vielen Dank noch einmal an das gesamte Team!",
+        "time": 1710148659,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Elite Sourcing SA",
+        "author_photo": "/images/reviews/espace-charpente-menuisier-charpentier-ossature-bois-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Une très belle équipe professionnelle, toujours souriant, réactif, à l'écoute, un savoir-faire, un travail de qualité fait par des passionnés.",
+        "time": 1763727079,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Antoine Trevillot",
+        "author_photo": "/images/reviews/espace-charpente-menuisier-charpentier-ossature-bois-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionell und mit viel Liebe zum Detail. Ich kann dieses dynamische und moderne Unternehmen wärmstens empfehlen. Sie scheuen keine Herausforderungen.",
+        "time": 1671704492,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nathan Cooper",
+        "author_photo": "/images/reviews/espace-charpente-menuisier-charpentier-ossature-bois-carouge/reviewer_4.jpg",
+        "rating": 2,
+        "text": "Von diesem Unternehmen rate ich dringend ab. Ich habe dort einen Innenausbau durchführen lassen, und das Ergebnis war mangelhaft. Offenbar ging es eher darum, Kosten zu sparen und den Auftrag schnellstmöglich zu erledigen, als qualitativ hochwertige Arbeit zu leisten. Auf meine Beschwerde hin wurde die schlechte Arbeit verteidigt, anstatt sie zu beheben. Kurz gesagt: Es gibt deutlich bessere Alternativen.",
+        "time": 1721470952,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bgyt BRUDAH",
+        "author_photo": "/images/reviews/espace-charpente-menuisier-charpentier-ossature-bois-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit! Sie haben mich optimal beraten und mir geholfen, die Fenster einzubauen!\nSehr professionell!",
+        "time": 1755706514,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

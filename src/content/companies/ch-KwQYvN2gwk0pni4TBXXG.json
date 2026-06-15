@@ -26,5 +26,31 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKSRBFBrYkUcRMSM5sSTq8q0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Aaron „Hess-Lich Motorsport“ Hess",
+        "author_photo": "/images/reviews/amrhein-stalder-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1743743935,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

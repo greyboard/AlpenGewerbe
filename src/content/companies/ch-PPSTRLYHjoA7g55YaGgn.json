@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJlZ8mI3ZDhUcRbuyHSHEDVlw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:45–16:45 Uhr",
+    "Dienstag: 07:45–16:45 Uhr",
+    "Mittwoch: 07:45–16:45 Uhr",
+    "Donnerstag: 07:45–16:00 Uhr",
+    "Freitag: 07:45–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Urs I",
+        "author_photo": "/images/reviews/markus-enz-ag-giswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wenn jemand eine private Oase der Ruhe braucht. Markus Enz AG",
+        "time": 1615010200,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Carlo Flüeler",
+        "author_photo": "/images/reviews/markus-enz-ag-giswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Gärtner",
+        "time": 1580576865,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Nuno Miguel Alves Moreira",
+        "author_photo": "/images/reviews/markus-enz-ag-giswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1599492282,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Yannikbachmann",
+        "author_photo": "/images/reviews/markus-enz-ag-giswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597910738,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Giuseppe Mauro",
+        "author_photo": "/images/reviews/markus-enz-ag-giswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1702477305,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

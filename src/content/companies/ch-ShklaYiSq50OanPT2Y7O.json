@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJb1sCxSM5jkcRjXmEoGqWvhY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Michael Streitl",
+        "author_photo": "/images/reviews/thomann-berger-metallbau-tueren-gelaender-reparaturen-brandschutz-einbruchsschutz-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma!\nQualität, Termintreue, Preis\nAlles passt…",
+        "time": 1669746960,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ro Do Be",
+        "author_photo": "/images/reviews/thomann-berger-metallbau-tueren-gelaender-reparaturen-brandschutz-einbruchsschutz-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von Anfang an kompetente Beratung und Hilfestellung. Vorschläge für eine evtl. bessere Idee. Alles dies haben wir erfahren und können diese Firma besten Gewissens weiterempfehlen. Gute und rasche Ausführung der Arbeiten. Auch die Freundlichkeit und die klare Preisgestaltung sind noch positiv zu bemerken.\nVielen Dank\nR.Dorn",
+        "time": 1773217608,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Christian Schmid",
+        "author_photo": "/images/reviews/thomann-berger-metallbau-tueren-gelaender-reparaturen-brandschutz-einbruchsschutz-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1768735523,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

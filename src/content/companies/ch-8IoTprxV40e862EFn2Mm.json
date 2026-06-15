@@ -1,7 +1,7 @@
 {
   "id": "ch-8IoTprxV40e862EFn2Mm",
   "slug": "hans-thomann-ag-affeltrangen",
-  "name": "Hans Thomann AG",
+  "name": "Tschirren Thomann AG",
   "branchen": [
     "dachdecker"
   ],
@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-c3McNrtmkcRB0NXjQjqidE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Rüegg Martin",
+        "author_photo": "/images/reviews/hans-thomann-ag-affeltrangen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unsere Fassade wurde von dieser Firma erneuert.\nPerfekte Ausführung und sehr kompetent in der Beratung.\nBesten dank an alle beteiligten von der Firma Tschirren Thomann AG",
+        "time": 1764639619,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Samuel Schwarz",
+        "author_photo": "/images/reviews/hans-thomann-ag-affeltrangen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma hat unsere PV Anlage montiert. Sehr speditiv. Freundliche Mitarbeiter. Gute Arbeit!",
+        "time": 1745995578,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrik B.",
+        "author_photo": "/images/reviews/hans-thomann-ag-affeltrangen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Beste Qualität, guter Preis, speditiv, freundliche Mitarbeiter. Sehr empfehlenswerte Firma.",
+        "time": 1650802891,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Franziska Waldvogel",
+        "author_photo": "/images/reviews/hans-thomann-ag-affeltrangen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super speditive Arbeit, trotz meiner spezial Wünsche.\nHerzlichen Dank ans Team.",
+        "time": 1676399175,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Hilber",
+        "author_photo": "/images/reviews/hans-thomann-ag-affeltrangen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, Preis/Leistung stimmt.\nGerne wieder",
+        "time": 1648627558,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

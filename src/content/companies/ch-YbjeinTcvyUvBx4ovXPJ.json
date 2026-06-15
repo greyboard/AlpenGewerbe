@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJoaWgfo4UjkcRjFrFnAxcAwI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Ralph Christen (räufu)",
+        "author_photo": "/images/reviews/riesen-holzbau-ag-gempenach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Riesen Holzbau ist ein sehr guter Partner vorbei gehen und sich selbst ein Bild machen.",
+        "time": 1603041161,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christoph Zwahlen",
+        "author_photo": "/images/reviews/riesen-holzbau-ag-gempenach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einfach Gut und professionell.",
+        "time": 1545565705,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Lara Baumann",
+        "author_photo": "/images/reviews/riesen-holzbau-ag-gempenach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675462819,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ch. Herren",
+        "author_photo": "/images/reviews/riesen-holzbau-ag-gempenach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1650024902,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "lorenz mädrer",
+        "author_photo": "/images/reviews/riesen-holzbau-ag-gempenach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642869366,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

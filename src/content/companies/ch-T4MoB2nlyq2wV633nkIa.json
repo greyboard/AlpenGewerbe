@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJSVrKlVwem0cRTFqbLyWFQ3U",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Nicolas Graemiger",
+        "author_photo": "/images/reviews/reto-stalder-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr schnell vor Ort, saubere Arbeit und extrem freundlich am Telefon. Alles lief unkompliziert und professionell. So wünscht man sich das. Klare Empfehlung.",
+        "time": 1766508093,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Margrith Hartmann",
+        "author_photo": "/images/reviews/reto-stalder-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service, innert kürzester Zeit wird alles toll erledigt👍. Herr Schaban war schon das 2. Mal bei mir, hat alles sehr gut gemeistert. Kann die Firma nur weiterempfehlen!!!",
+        "time": 1700175547,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roxanne Born",
+        "author_photo": "/images/reviews/reto-stalder-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freuntlich, schnell und einfach tolle sehr zufridenstellende arbeit. War noch nie so begeistert von einem wc🤣😂🥳🎉",
+        "time": 1743670535,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Joel Coka",
+        "author_photo": "/images/reviews/reto-stalder-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr junges, flexibles Team: jeder weiss vom anderen was er gemacht hat. Kompetenter und zügiger Einbau jeglicher Sanitärtechnik! Würde ich jedem empfehlen!",
+        "time": 1475140166,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "G",
+        "author_photo": "/images/reviews/reto-stalder-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "top service! ein grosses kompliment an Robiel & Danjell, sie sind sehr freundlich und hilfsbereit. protale arbeit. lg celine,lejla & alex",
+        "time": 1554481247,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

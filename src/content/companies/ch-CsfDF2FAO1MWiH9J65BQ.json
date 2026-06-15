@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJN9E8jJQfkEcRBTb8RxvHAlw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–11:30 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 09:00–11:30 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 09:00–11:30 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 09:00–11:30 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 09:00–11:30 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 09:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Sabina Moisiak",
+        "author_photo": "/images/reviews/natursteinleger-filiuta-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der ausgeführten Arbeit. Auf meiner Terrasse wurden Platten verlegt – die Arbeit wurde sauber, präzise und fachgerecht umgesetzt. Besonders positiv hervorheben möchte ich die sorgfältige Ausführung und die Zuverlässigkeit. Alles wurde ordentlich hinterlassen und genau wie besprochen erledigt. Klare Weiterempfehlung.",
+        "time": 1777932923,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Sandra Zimmerli",
+        "author_photo": "/images/reviews/natursteinleger-filiuta-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Filiuta hat hervorragende Arbeit geleistet.\nIn unserem Wintergarten wurden neue Platten verlegt, und das Ergebnis ist wirklich beeindruckend. Die Beratung war ausgezeichnet. Sehr freundlich, kompetent und mit einer grossen Auswahl an verschiedenen Platten. Alles wurde sehr sorgfältig und präzise ausgeführt.\nIch bin rundum zufrieden und kann Herrn Filiuta absolut weiterempfehlen!",
+        "time": 1764174121,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Elior Zuncevski",
+        "author_photo": "/images/reviews/natursteinleger-filiuta-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Diese Firma hat bei uns zuhause alle Boden bei uns verlegt, Platten, Parket. Wir sind sehr zufrieden. Sauber genau und mit feine Details so wie wir uns vorgestellt haben. Kann ich nur empfehlen.",
+        "time": 1772189187,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Martin Leimer",
+        "author_photo": "/images/reviews/natursteinleger-filiuta-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe Herrn Filiuta für das Abdichten, Nivellieren und Befliesen einer neuen Nasszelle beauftragt mit eigenen Fliesen beauftragt. Mir war es wichtig, dass ich qualitativ einwandfreie Arbeit erhalte und die Fugen möglichst filigran sind. Diese Erwartungen konnten Stand heute vollständig erfüllt werden. Ein Pluspunkt war die zeitliche Flexibilität von Herrn Filiuta und dass er die Arbeiten mit seinem Fachwissen selber ausführte.",
+        "time": 1761903293,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Willi Zimmerli",
+        "author_photo": "/images/reviews/natursteinleger-filiuta-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Unsere Dusche wurde nach einem Wasserschaden von Herr Filiuta professionell und mit viel Freude zum Detail wieder hergestellt, ist schön wenn man im Bau noch gute Arbeit bewerten kann, das ist leider keine Selbstverständlichkeit jederzeit zu empfehlen.",
+        "time": 1741035788,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJR8gRg-wem0cRE52nD904nFg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Peter Müller",
+        "author_photo": "/images/reviews/hilber-giger-elektrocom-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1644238052,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Harald Kremmel",
+        "author_photo": "/images/reviews/hilber-giger-elektrocom-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1639400031,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

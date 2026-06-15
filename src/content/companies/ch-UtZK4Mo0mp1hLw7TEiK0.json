@@ -26,5 +26,46 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKRUBkoYyjkcRl5iv-xQLXrs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jürg Mosimann",
+        "author_photo": "/images/reviews/jakob-ag-gipser-oberburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir durften mit Jakobs ( Chrigu / Sabrina ) einen tollen Umbau realisieren. Die Zusammenarbeit und das Mitdenken Aller, führte zu einem reibungslosen Unterfangen. Mit Jakobs zu arbeiten macht Freude und die Kunden profitieren !! BRAVO",
+        "time": 1742303397,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gerhard",
+        "author_photo": "/images/reviews/jakob-ag-gipser-oberburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hallo gutrn Tag\nDie Firma Jakob ist sehr super ,saubere Arbeit zu Empfehlen !\nVielen Dank lg Gerhard",
+        "time": 1779448348,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Manfred Stutz",
+        "author_photo": "/images/reviews/jakob-ag-gipser-oberburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1730534022,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Jakob",
+        "author_photo": "/images/reviews/jakob-ag-gipser-oberburg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1522568055,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

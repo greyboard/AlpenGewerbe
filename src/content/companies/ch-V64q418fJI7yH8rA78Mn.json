@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO1_mDPdLhEcRnLkK4z7Ko_I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 60,
+    "reviews": [
+      {
+        "author_name": "Armando Luongo",
+        "author_photo": "/images/reviews/etlux-sagl-bellinzona/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit ETLux Sagl aus Bellinzona zusammengearbeitet, um auf einer unserer Baustellen elektrische Anlagen zu installieren, und können die hohe Qualität ihrer Arbeit bestätigen. Das Unternehmen erwies sich als äußerst zuverlässig und verfügte über ein kompetentes, pünktliches und gut organisiertes Team.\n\nDie Arbeiten wurden präzise, ​​unter vollständiger Einhaltung der geltenden Vorschriften und innerhalb der vereinbarten Fristen ausgeführt. Besonders geschätzt haben wir ihre Bereitschaft, effektive Lösungen für die spezifischen Anforderungen der Baustelle zu finden, sowie ihre Detailgenauigkeit und die ständige Kommunikation während aller Projektphasen.\n\nETLux ist ein solider, flexibler und professioneller Partner, den wir für alle Arten von Elektroprojekten im privaten und gewerblichen Bereich sowie für alle damit verbundenen Arbeiten uneingeschränkt empfehlen.",
+        "time": 1752146211,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Sara Meloni",
+        "author_photo": "/images/reviews/etlux-sagl-bellinzona/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Höchste Professionalität und Zuverlässigkeit!\nIch habe ETLux mit der Erneuerung der Elektroinstallation in meiner Küche beauftragt und bin rundum zufrieden. Schon beim ersten Kontakt spürte ich höchste Professionalität und großes Engagement. Das Team arbeitete akribisch und erklärte jeden Arbeitsschritt verständlich. Es ist selten, Unternehmen zu finden, denen man uneingeschränkt vertrauen kann, aber diese Firma hat sich als absolut zuverlässig erwiesen. Ich kann sie jedem wärmstens empfehlen, der Wert auf Kompetenz und Transparenz legt.",
+        "time": 1735546271,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Francesco",
+        "author_photo": "/images/reviews/etlux-sagl-bellinzona/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Durchweg positive Erfahrung! Kompetent, reaktionsschnell und stets freundlich und hilfsbereit. Absolut empfehlenswert!",
+        "time": 1752489515,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Igor Savic",
+        "author_photo": "/images/reviews/etlux-sagl-bellinzona/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Jungs sind echt klasse! Obwohl ich in Zürich wohne, sind sie extra aus dem Tessin angereist, um meine Wohnung umzubauen. Alle Arbeiten wurden pünktlich und ohne Verzögerungen erledigt. Sie waren alle sehr professionell, kompetent und freundlich. Ich kann sie wärmstens empfehlen!",
+        "time": 1639664105,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alan Pedroia",
+        "author_photo": "/images/reviews/etlux-sagl-bellinzona/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe ETLux mit der Planung und Installation der gesamten Elektro- und Videoüberwachungsanlage für mein neues Haus beauftragt. Sie haben sehr professionell gearbeitet und das Projekt hervorragend geplant. Ich bin mit der geleisteten Arbeit sehr zufrieden, vielen Dank.",
+        "time": 1639558675,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

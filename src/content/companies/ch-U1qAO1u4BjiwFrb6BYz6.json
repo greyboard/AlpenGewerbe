@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSfXChpFDhUcRHUhTbES8B8o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "blãçkÿ ťhê pøťåťò",
+        "author_photo": "/images/reviews/elektro-imholz-ag-schattdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Es wahr sehr gut! Ich war sehr zufrieden. Alle meine Frage wurden beantwortet. Sie waren auch freundlich. Ich würde mich freuen bei euch Schnuppern zu dürfen.",
+        "time": 1667769594,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "sandro christen",
+        "author_photo": "/images/reviews/elektro-imholz-ag-schattdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Positiv: sehr gutes Preisleistungsverhältnis. Kompetente Beratung. Schnelle Reaktion und Ausführung der Reparaturen.\nBester Elektromonteur in URI. Besten Dank an Adrian Wipfli uns sein Team\nWeiter so!",
+        "time": 1646408590,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christoph Hölscher",
+        "author_photo": "/images/reviews/elektro-imholz-ag-schattdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Leistung, pünktlich, verlässlich, saubere Arbeit. Absolut nur zu empfehlen. Auch in der Not ein super Ansprechpartner.",
+        "time": 1648133687,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Roman Kraushaar",
+        "author_photo": "/images/reviews/elektro-imholz-ag-schattdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut ein super Team",
+        "time": 1749112856,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kilian Amrein",
+        "author_photo": "/images/reviews/elektro-imholz-ag-schattdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr angenehme Zusammenarbeit, sehr zu empfehlen",
+        "time": 1750276570,
+        "relative_time_description": "vor 12 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

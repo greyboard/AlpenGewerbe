@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJx7hrUO45jkcRfO_YmWI-yK4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marc Stucki",
+        "author_photo": "/images/reviews/fasel-brunner-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Fachleute. Ich lernte die Sanitärabteilung kennen. Super schnell, zuvorkommend, kompetent. Besser geht nicht.",
+        "time": 1730319308,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adrian Liechti",
+        "author_photo": "/images/reviews/fasel-brunner-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schnell Termin bekommen.\nArbeit schnell sauber und Routiniert ausgeführt.\nTip Top Danke.",
+        "time": 1693916720,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "claudio rocchi",
+        "author_photo": "/images/reviews/fasel-brunner-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr schnell und unkompliziert!! Sehr zu empfehlende Firma!",
+        "time": 1690669329,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Maya Flueck",
+        "author_photo": "/images/reviews/fasel-brunner-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Service, sehr zufrieden!",
+        "time": 1636470832,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Vatros El Vatros",
+        "author_photo": "/images/reviews/fasel-brunner-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service",
+        "time": 1543677764,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

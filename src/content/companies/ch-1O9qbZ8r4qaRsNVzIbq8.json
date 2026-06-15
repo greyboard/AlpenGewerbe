@@ -1,7 +1,7 @@
 {
   "id": "ch-1O9qbZ8r4qaRsNVzIbq8",
   "slug": "bonetti-elektro-ag-meggen",
-  "name": "Bonetti Elektro AG",
+  "name": "Bonetti Elektro AG - Elektriker",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJiRhD7Tv5j0cRwg9xU4Lio_0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 47,
+    "reviews": [
+      {
+        "author_name": "Peter Dolensky",
+        "author_photo": "/images/reviews/bonetti-elektro-ag-meggen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fa. Bonetti - Herr Asovic - hat zuverlässig, kundenorientiert, pünktlich die anfallende Reparatur erledigt. Die Betreuung war stets\nproblemorientiert. Ich bin höchstzufrieden und kann die Fa. Bonetti ausdrücklich und gern weiterempfehlen.",
+        "time": 1768494723,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Tim Kleger",
+        "author_photo": "/images/reviews/bonetti-elektro-ag-meggen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super freundliche Mitarbeiter. Extrem lösungsorientiert. Tadellose Qualität. Chapeau an Herr L.Graf",
+        "time": 1780518367,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Patrik Boog",
+        "author_photo": "/images/reviews/bonetti-elektro-ag-meggen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein einfach perfekter Partner wenns um Strom geht. Immer freundlich korrekt und eine super schnelle Reaktionszeit. Und passt mal nicht wird auch mal ein Kompromiss gemacht. Liebes Bonetti Team weiter so. Danke euch",
+        "time": 1636712853,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sascha Baltisberger",
+        "author_photo": "/images/reviews/bonetti-elektro-ag-meggen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Habe mein altes Snowboard als Deckenlampe umfunktionieren lassen mit Spotlights und indirektes Licht. Von der Beratung bis Abschluss, top Arbeit. Unkompliziert, Speditiv und professionell. Preis/Leistung = Perfekt.",
+        "time": 1670857074,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lino Kopp",
+        "author_photo": "/images/reviews/bonetti-elektro-ag-meggen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr L. und M. Graf haben kürzlich bei mir eine Installation vorgenommen. Der Service war hervorragend. Freundlich, unkompliziert und speditiv. Ich danke der Bonetti Elektro AG einmal mehr für diesen tollen Kundenservice. Weiter so!",
+        "time": 1748605634,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

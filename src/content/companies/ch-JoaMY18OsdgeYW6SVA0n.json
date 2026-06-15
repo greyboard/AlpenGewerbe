@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJh7jAR6LlkUcRi-wbjNCuYZM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Hervé Ruffieux",
+        "author_photo": "/images/reviews/tm-tatti-metal-sarl-courfaivre/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein hervorragendes Projekt wurde mit dieser Firma abgeschlossen, der ich meinen Dank ausspreche.",
+        "time": 1679599076,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sebastien Lusa",
+        "author_photo": "/images/reviews/tm-tatti-metal-sarl-courfaivre/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnell, einfach und effizient. Keine Beanstandungen, ich empfehle es.",
+        "time": 1682946524,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Adrien Helchit",
+        "author_photo": "/images/reviews/tm-tatti-metal-sarl-courfaivre/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wunderbare, leidenschaftliche Menschen",
+        "time": 1679599031,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Franck Willemin",
+        "author_photo": "/images/reviews/tm-tatti-metal-sarl-courfaivre/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1740172828,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

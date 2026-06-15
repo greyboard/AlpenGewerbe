@@ -25,5 +25,39 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJl_MVrdebmkcROcdu0aByu0A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Bernhard Hauswirth",
+        "author_photo": "/images/reviews/schellenberg-elektro-winterthur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schellenberg Elektro bietet seit vielen Jahren zuverlässige und erstklassige Dienstleistungen. Das Team ist nicht nur kompetent, sondern auch stets freundlich und hilfsbereit. Ich kann sie nur wärmstens empfehlen!",
+        "time": 1732088867,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gerry Längauer",
+        "author_photo": "/images/reviews/schellenberg-elektro-winterthur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1496153784,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

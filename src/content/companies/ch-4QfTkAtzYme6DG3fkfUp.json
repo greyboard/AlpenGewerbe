@@ -1,7 +1,7 @@
 {
   "id": "ch-4QfTkAtzYme6DG3fkfUp",
   "slug": "braendlin-holzbau-und-bedachungen-gmbh-salez",
-  "name": "Brändlin Holzbau und Bedachungen GmbH",
+  "name": "Brändlin Holzbau & Bedachungen GmbH",
   "branchen": [
     "dachdecker"
   ],
@@ -25,5 +25,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5ZEXq8E6m0cRB0dp5VBAA2M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Frank Niebes",
+        "author_photo": "/images/reviews/braendlin-holzbau-und-bedachungen-gmbh-salez/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Suuuper Team hervorragende Arbeit",
+        "time": 1574018008,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hanspeter Sieber",
+        "author_photo": "/images/reviews/braendlin-holzbau-und-bedachungen-gmbh-salez/reviewer_2.jpg",
+        "rating": 5,
+        "text": "sehr gut freundlich",
+        "time": 1503670840,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "gersan 92",
+        "author_photo": "/images/reviews/braendlin-holzbau-und-bedachungen-gmbh-salez/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1626304413,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sabrina Boll",
+        "author_photo": "/images/reviews/braendlin-holzbau-und-bedachungen-gmbh-salez/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1595629032,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gschwend Ruedi",
+        "author_photo": "/images/reviews/braendlin-holzbau-und-bedachungen-gmbh-salez/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1521047384,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

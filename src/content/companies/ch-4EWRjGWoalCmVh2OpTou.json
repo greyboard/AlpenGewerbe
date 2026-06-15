@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJi8j-wZSnmkcRBi0oDxKg-7w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Benjamin Angst",
+        "author_photo": "/images/reviews/fischer-metallbau-ag-rueschlikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei unserem Haus hat Fischermetallbau die Schlosserarbeiten ausgeführt. Wir sind sehr glücklich mit der geleisteten Arbeit, den freundlichen und hilfsbereiten Mitarbeitern, dem guten Service und der äusserst fairen Abrechnung und fristgerechten Erledigung der Arbeiten. Wir können Fischer Metallbau bestens weiterempfehlen und freuen uns auf weitere Spannende Projekte!",
+        "time": 1648214374,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jan Marco Rüegg",
+        "author_photo": "/images/reviews/fischer-metallbau-ag-rueschlikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr glücklich mit meinem neuen Balkon und möchte der Fischer Metallbau AG, namentlich Martin Fischer, von ganzem Herzen danken! Die Qualität der Arbeit ist hervorragend und der Balkon sieht einfach fantastisch aus. Von der Planung bis zur Fertigstellung verlief alles schlank und professionell. Auch das Montageteam war äußerst kompetent und freundlich. Ich bin begeistert von dem Ergebnis und freue mich jeden Tag (auch im Winter ;-) ) darüber, meinen Morgenkaffee auf meinem neuen Balkon zu genießen. Vielen Dank an die ganze Firma für ihre hervorragende Arbeit und ihren exzellenten Kundenservice!",
+        "time": 1708713554,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markiert. AG",
+        "author_photo": "/images/reviews/fischer-metallbau-ag-rueschlikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten die Freude, als Lieferant mit der Fischer Metallbau AG zusammenzuarbeiten.\n\n++ klare kommunikation\n++ fair\n++ speditiv\n++ wertschätzend\n\nWir freuen uns auf weitere gemeinsame Projekte und empfehlen eine Partnerschaft wärmstens!",
+        "time": 1709046915,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Jaques",
+        "author_photo": "/images/reviews/fischer-metallbau-ag-rueschlikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Manchmal ist es schwierig, jemanden zu finden, der sich um eine kleine Reparatur kümmert. In meinem Fall war ein Teil an einem Bettgestell aus Metall abgebrochen, das man wieder anschweissen musste. Bei Fischer Metallbau AG hat man aufgrund meiner Fotos sofort ein Angebot gemacht. Ich konnte das Teil bringen und am nächsten Tag wieder abholen. Super-Service und nicht einmal teuer!",
+        "time": 1666364746,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Brigitte Mollekopf",
+        "author_photo": "/images/reviews/fischer-metallbau-ag-rueschlikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wer nur kann mir bei einem nautischen Problem helfen???\nFISCHER METALLBAU natürlich !\nIch bin vollumfänglich zufrieden und glücklich über die kompetente, unkomplizierte Beratung und die schnelle, saubere Ausführung der Schweissarbeiten an der Reling meines Segelbootes!\nUnd alles inkl. freundlichen Mitarbeitern und zu einem sehr fairen Preis !\nHerzlichen Dank!",
+        "time": 1695129193,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

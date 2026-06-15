@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFYQvQi7IhUcRwbb_PBUsx1M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Michael Bacciarini",
+        "author_photo": "/images/reviews/impresa-pittura-franzoni-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1713590555,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Läthitia",
+        "author_photo": "/images/reviews/impresa-pittura-franzoni-locarno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1712827805,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "william mordasini",
+        "author_photo": "/images/reviews/impresa-pittura-franzoni-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1701286227,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Noà Moro (Moro88)",
+        "author_photo": "/images/reviews/impresa-pittura-franzoni-locarno/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1559816355,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Dani Gnecco",
+        "author_photo": "/images/reviews/impresa-pittura-franzoni-locarno/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1556346254,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

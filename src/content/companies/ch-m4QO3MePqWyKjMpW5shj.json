@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJsT-QJuryj0cR6AyJce7XtWE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Zebierto",
+        "author_photo": "/images/reviews/walter-spichtig-ag-sachseln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Remo Spichtig hat uns sehr kompetent beraten. Wir haben eine wunderschöne, massgeschneiderte Einbauschranklösung erhalten. Die Monteure waren sehr freundlich, sauber und schnell. Wir sind rundum zufrieden und würden die Firma Spichtig jederzeit weiter empfehlen.",
+        "time": 1597063655,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Remo Spichtig",
+        "author_photo": "/images/reviews/walter-spichtig-ag-sachseln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent, sauber, zuverlässig",
+        "time": 1597069527,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Lukas Wiese",
+        "author_photo": "/images/reviews/walter-spichtig-ag-sachseln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643475716,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Serge Halter",
+        "author_photo": "/images/reviews/walter-spichtig-ag-sachseln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1617996402,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "XAVIER Alvarez Pio",
+        "author_photo": "/images/reviews/walter-spichtig-ag-sachseln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1547666887,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

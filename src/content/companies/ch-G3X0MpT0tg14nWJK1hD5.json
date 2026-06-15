@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-7D8AQHMmkcRC1-l2BBSUI0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 102,
+    "reviews": [
+      {
+        "author_name": "Wrangler70",
+        "author_photo": "/images/reviews/glasmanufaktur-buttikon-ag-reichenburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr coole Firma,die auf Kundenwünsche eingehen! Einfach vorbeigehen mit der Dame am Schalter besprechen und beraten lassen. Die Lieferung kamm direkt zu mir, in kurzer Zeit (2Wochen). Rechnung per Mail sehr unkompliziert.",
+        "time": 1715922715,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Janett Gründer",
+        "author_photo": "/images/reviews/glasmanufaktur-buttikon-ag-reichenburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und zuverlässige Firma. Zeitnah wurde mein Wunsch bzgl einer Katzentür im Isolierglas professionell umgesetzt. Vielen Dank auch für die sehr freundliche Art.",
+        "time": 1760786040,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Manuel Dusch",
+        "author_photo": "/images/reviews/glasmanufaktur-buttikon-ag-reichenburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Beratung und schnelle Lieferung zu fairen Preisen....weiter so",
+        "time": 1779687599,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Stefan",
+        "author_photo": "/images/reviews/glasmanufaktur-buttikon-ag-reichenburg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind einfach begeistert von der Glasmanufaktur Buttikon! Die Professionalität und die Qualität ihrer Produkte ist absolut hervorragend und die Liebe zum Detail ist in jedem einzelnen Stück zu erkennen.\n\nDie Verarbeitung ist perfekt und das Material ist von höchster Qualität.\n\nWas mich auch besonders beeindruckt hat, ist die Freundlichkeit und die Kompetenz des gesamten Teams. Sie haben uns bei der Auswahl 1A beraten und die bestmögliche Lösung gefunden.\n\nIch kann die Glasmanufaktur Buttikon nur wärmstens empfehlen!\n\nDanke nochmals!\n\n5+ Sterne",
+        "time": 1745003951,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lincoln town car",
+        "author_photo": "/images/reviews/glasmanufaktur-buttikon-ag-reichenburg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr schnell in auftrags erledigung\nSuper beratung auch für kleine aufträge !\nDanke",
+        "time": 1553703289,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

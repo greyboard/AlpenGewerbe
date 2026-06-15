@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJL6mpzDOrmkcRMQbpwIzURHs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "N B",
+        "author_photo": "/images/reviews/bari-bodenbelaege-gmbh-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut begeistert von der Arbeit von Bari Bodenbeläge! Der Laminatboden wurde extrem sauber, schnell und fachgerecht verlegt. Von der ersten Beratung bis zum fertigen Ergebnis verlief alles reibungslos und professionell. Das Ergebnis sieht spitze aus – man merkt einfach, dass hier ein Profi am Werk war. Klare Weiterempfehlung und volle 5 Sterne!",
+        "time": 1777561228,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Smart-Cam GmbH",
+        "author_photo": "/images/reviews/bari-bodenbelaege-gmbh-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Dienstleistung! Einen besseren Bodenleger gibt es nicht.",
+        "time": 1777550976,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Barzani Serbest",
+        "author_photo": "/images/reviews/bari-bodenbelaege-gmbh-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778183025,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Sara Rashid",
+        "author_photo": "/images/reviews/bari-bodenbelaege-gmbh-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777631743,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

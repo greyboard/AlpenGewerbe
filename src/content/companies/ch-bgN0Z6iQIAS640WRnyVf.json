@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJV1im23aqmkcRoeqaCZYnnLQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Stephan Zuercher",
+        "author_photo": "/images/reviews/stadler-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich - kompetent - pünktlich\nWir haben die Firma Stadler AG wegen eines Stromausfalls an einem Sonntag kontaktiert. Ein sehr freundlicher und kompetenter Servicemonteur war innert kurzer Zeit vor Ort, hat das Problem schnell gelöst und - wir konnten es kaum glauben - rief uns am nächsten Werktag an um uns mitzuteilen, dass die Firma wegen der kürze des Einsatzes keine Rechnung stellen werde.\nWir haben unseren nächsten Elektroauftrag dann selbstverständlich an die Stadler AG vergeben und waren wiederum sehr zufrieden. Zwei äusserst freundliche und kompetente Monteure haben uns gut beraten und den Auftrag zu unserer vollen Zufriedenheit erledigt. Bravo!\nIch kann die Stadler AG uneingeschränkt weiterempfehlen.",
+        "time": 1731079849,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Stadelmann",
+        "author_photo": "/images/reviews/stadler-ag-zug/reviewer_2.jpg",
+        "rating": 1,
+        "text": "24h Service heisst von 8:00 - 16:00 und nur Werktags\nIn der ganzen Wohnung kein Strom, Antwort wir kommen Morgen.",
+        "time": 1682003104,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Emanuel Rüttimann",
+        "author_photo": "/images/reviews/stadler-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionell, unkompliziert, freundlich und fair kalkuliert. Wir sind rundum zufrieden mit der Arbeit der Stadler Elektro 😊👍🏼👍🏼",
+        "time": 1586371987,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Beat Merki",
+        "author_photo": "/images/reviews/stadler-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "sehr freundliche und kompetente Beratung und super Produkte",
+        "time": 1688733129,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gianni Ineichen",
+        "author_photo": "/images/reviews/stadler-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetentes Elektro und Telekommunikation Unternehmen!",
+        "time": 1521983116,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

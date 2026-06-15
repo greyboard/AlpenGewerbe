@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1QRUnSfgmkcRTdLwIFlUC14",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Juan Lorca",
+        "author_photo": "/images/reviews/kreis-wasser-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Boiler hat nicht mehr funktioniert. Herr Ventura hat sich sehr schnell darum gekümmert und wir hatten sofort eine Lösung. Vielen Dank für euren super Service",
+        "time": 1705998470,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Freund",
+        "author_photo": "/images/reviews/kreis-wasser-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma\nTop Beratung, saubere Arbeit, gut vorbereitet,\ngutes Produkt, Top Leute.\nWir sind super zufrieden mit der geleisteten Arbeit.\nkönnen wir nur wärmstens empfehlen",
+        "time": 1571656697,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "DANiel",
+        "author_photo": "/images/reviews/kreis-wasser-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Montage der Armatur erfolgte termingerecht.\nFreundlicher Monteur, der die Montage sauber ausgeführt hat. Sehr zufrieden!",
+        "time": 1702287513,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sg-FaCkA69",
+        "author_photo": "/images/reviews/kreis-wasser-ag-st-gallen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Transportsicherung nicht herausgenohmen aber gesagt hätte noch nie eine dran gehabt , füsse ohne sicherung hingestellt !! Waschmaschine kam mir 2x entgegen schlechter service unfreundliche personen",
+        "time": 1674648328,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ella Vogt",
+        "author_photo": "/images/reviews/kreis-wasser-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super -  Telefon  für Hahnen in Küche und Wc - 2 Std später war der Monteur da und war super freundlich und alles instand gesetzt einfach toll",
+        "time": 1695899274,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJR41i66XrhEcRd7ko-ZjwjV8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:15 Uhr",
+    "Dienstag: 08:00–17:15 Uhr",
+    "Mittwoch: 08:00–17:15 Uhr",
+    "Donnerstag: 08:00–17:15 Uhr",
+    "Freitag: 08:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Tina Elvedi",
+        "author_photo": "/images/reviews/karl-burkhardt-sohn-ag-thusis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit der Firma Burkhard unsere Bäder saniert. Von der Planung, Beratung, über die Bauleitung bis zur Umsetzung wurden wir sehr gut betreut. Das ganze Team war immer freundlich und hat all unsere Wünsche umgesetzt. Auch wenn es Fragen oder Unklarheiten gab, waren sie immer sofort zur Stelle und haben nach Lösungen gesucht. Wir sind sehr happy mit dem Ergebnis und würden wieder mit der Firma Burkhard zusammenarbeiten. Ein grosses Danke an das ganze Team!",
+        "time": 1777928229,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "PP",
+        "author_photo": "/images/reviews/karl-burkhardt-sohn-ag-thusis/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Sehr gute Beratung durch den Abteilungsleiter Sanitär.\nDie Offerten sind im Allgemeinen sehr detailliert, die Installationen werden sehr gut und termingerecht ausgeführt.\nDer einzige Minuspunkt ist der Preis, im Vergleich leider viel zu teuer.",
+        "time": 1687448446,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tim",
+        "author_photo": "/images/reviews/karl-burkhardt-sohn-ag-thusis/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ich habe sie gebeten, mein undichtes Dach zu reparieren. Sobald sie merkten, dass die Arbeit für sie nicht interessant war, kamen sie nicht mehr zurück und antworteten sogar nicht mehr auf meine E-Mails.",
+        "time": 1710106828,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Ziegler",
+        "author_photo": "/images/reviews/karl-burkhardt-sohn-ag-thusis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fachleute welche ihr Handwerk eindeutig verstehen. Sehr gerne wieder bis bald und vielen Dank",
+        "time": 1669715689,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Claudia Stampa",
+        "author_photo": "/images/reviews/karl-burkhardt-sohn-ag-thusis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ersatzteile richtig erhalten und die montage Tipps waren gut zum ersetzen der Teile",
+        "time": 1690362096,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

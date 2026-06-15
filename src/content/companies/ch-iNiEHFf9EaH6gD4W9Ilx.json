@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6VSAypk6jkcR0nzqbMiDc88",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Urs Schaller",
+        "author_photo": "/images/reviews/holzrebel-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, genau und kompetent immer gerne wieder.",
+        "time": 1613560097,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Andreas Ernst Oeggerli",
+        "author_photo": "/images/reviews/holzrebel-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent und gut, hat das Herz für schöne Holzarbeiten.",
+        "time": 1596733931,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Bernhard Bickel",
+        "author_photo": "/images/reviews/holzrebel-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der beste Schreiner weit und breit.",
+        "time": 1773929009,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Roger Flückiger",
+        "author_photo": "/images/reviews/holzrebel-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1661450754,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Luca Zamboni",
+        "author_photo": "/images/reviews/holzrebel-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1721333004,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

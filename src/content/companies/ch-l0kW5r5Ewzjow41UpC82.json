@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1zJNc0t7j0cRYp6ro58YxOE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "A. Laubi-Aeschlimann",
+        "author_photo": "/images/reviews/clausen-maler-und-gipsergeschaeft-bellwald/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei der Renovation unseres Châlets haben wir die Malerarbeiten der Firma Clausen übergeben. Die Offerte wurde eingehalten und wir sind mit den ausgeführten Arbeiten sehr zufrieden und können die Firma in jeder Hinsicht empfehlen.\nDie zeitlichen Absprachen mit Gerüstebauer und Dachdecker haben gut geklappt.  Die Holzfassade wurde sauber abgeschliffen und die Malerarbeiten bestens ausgeführt. Der Putz und die Betonteile wurden repariert und tadellos neu gestrichen. Der ausgezeichnete Facharbeiter war von A-Z zuständig und setzte auch kurzfristige Wünsche sofort um.\n\nWir bedanken uns ganz herzlich und wünschen weiterhin viel Erfolg.",
+        "time": 1734771515,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Klein",
+        "author_photo": "/images/reviews/clausen-maler-und-gipsergeschaeft-bellwald/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Netter Kontakt.",
+        "time": 1676827987,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

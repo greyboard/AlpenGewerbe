@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJmQxqB1m6JA4RhIEFkP8Svxw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: 09:00–14:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Doris Enk",
+        "author_photo": "/images/reviews/kevin-kuepfer-fliesen-bodenbelaege-kuessaberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kevin Küpfer hat bei uns eine Wand mit Steinoptik und im ganzen Wohnbereich Fliesen verlegt. Mit dem Ergebnis sind wir super zufrieden, alles hat termingerecht geklappt und Offerte wurde auch eingehalten, wir werden uns auch beim nächsten Projekt bei ihm melden.",
+        "time": 1770063222,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Sebastian Voetter",
+        "author_photo": "/images/reviews/kevin-kuepfer-fliesen-bodenbelaege-kuessaberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut begeistert von der Arbeit von Kevin Küpfer! Er hat bei uns im Haus Fliesen verlegt und das Ergebnis ist einfach perfekt. Saubere, präzise Arbeit, top Qualität und dazu noch eine super freundliche und zuverlässige Art. Man merkt sofort, dass er sein Handwerk mit Leidenschaft ausübt. Wir können ihn zu 100 % weiterempfehlen und wünschen ihm viel Erfolg mit seiner Selbstständigkeit!\n\nVielen lieben Dank, Kevin!!",
+        "time": 1743268484,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Johnny De Feo",
+        "author_photo": "/images/reviews/kevin-kuepfer-fliesen-bodenbelaege-kuessaberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Küpfer arbeitet absolut professionell, ist ehrlich und fachlich sehr kompetent. Die Zusammenarbeit macht wirklich Spaß – zuverlässig, unkompliziert und sauber. So wünscht man sich das! Weiter so!",
+        "time": 1757005017,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Ulrich Nägelin",
+        "author_photo": "/images/reviews/kevin-kuepfer-fliesen-bodenbelaege-kuessaberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kevin hat bei uns einen neuen Boden verlegt. Die Arbeiten hat er sauber, schnell und gewissenhaft erledigt. Termine hat er zuverlässig eingehalten. Immer gerne wieder.",
+        "time": 1743327553,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sebastian Pilarczyk",
+        "author_photo": "/images/reviews/kevin-kuepfer-fliesen-bodenbelaege-kuessaberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kevin ist kompetent, hat ein gutes Auge für das Endergebnis und ist endlich wieder ein Handwerker der sein Gewerk mit Leidenschaft und Präzision beherrscht !\n\nVon Beratung und Kreativen Ideen bis hin zur makellosen Ausführung seiner Arbeit war alles Perfekt - jederzeit wieder !",
+        "time": 1748073341,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

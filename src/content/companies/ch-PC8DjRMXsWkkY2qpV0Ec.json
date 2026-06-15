@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGQMiMgy0hEcRAhC36mXv7TE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Melanie Dürr",
+        "author_photo": "/images/reviews/marco-thoeny-plattenbelaege-schiers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Marco und sein Team sind \"aifach abiz besser....\"! Arbeiten auf höchstem Niveau und sehr sympathisch obendrauf. Gerne wieder!",
+        "time": 1770812909,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Arno Krättli",
+        "author_photo": "/images/reviews/marco-thoeny-plattenbelaege-schiers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr guter Betrieb, Plattenarbeiten werden auf höchstem Niveau ausgeführt.",
+        "time": 1544796147,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Manuela Willi",
+        "author_photo": "/images/reviews/marco-thoeny-plattenbelaege-schiers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, sensationelle Qualität, kann ich nur weiter empfehlen👍",
+        "time": 1544792861,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "tots-parts (Tobias Tschopp)",
+        "author_photo": "/images/reviews/marco-thoeny-plattenbelaege-schiers/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Betrieb",
+        "time": 1534031328,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Volkmar Straub",
+        "author_photo": "/images/reviews/marco-thoeny-plattenbelaege-schiers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten seit vielen Jahren mit Marco Thöny zusammen. Hohe Qualität, engagierte Zusammenarbeit und super Kommunikation sind Standard bei dieser Firma. Überdurchschnittlich finden wir den Vorausblick auf alle Abläufe auf der Baustelle, so dass die Schnittstellen mit allen anderen Handwerkern nicht nur hervorragend läuft, sondern sogar noch optimiert wird. Immer wieder gerne!",
+        "time": 1777009162,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0duJySvemkcRt0TH8DVtPro",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Annalena Berisha",
+        "author_photo": "/images/reviews/stern-malergeschaeft-herisau/reviewer_1.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1780588725,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Paesc26",
+        "author_photo": "/images/reviews/stern-malergeschaeft-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1668796894,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roger Scherrer",
+        "author_photo": "/images/reviews/stern-malergeschaeft-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1647890377,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

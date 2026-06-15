@@ -1,7 +1,7 @@
 {
   "id": "ch-sVs0ktlcc7ILdNie23X5",
   "slug": "jp-balmer-sa-la-chaux-de-fonds",
-  "name": "JP Balmer SA",
+  "name": "Jean Pierre Balmer S.A.",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJrau5BmT7jUcRNkWe_AH1dPU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Lionel Voirol",
+        "author_photo": "/images/reviews/jp-balmer-sa-la-chaux-de-fonds/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Der Chef kam zu mir nach Hause, um Maß zu nehmen, wollte aber seine Schuhe nicht ausziehen, also gab ich ihm Überschuhe.\n\nNachdem unser Schreiner das Fenster eingebaut hatte, kam er zurück, um die Maße zu überprüfen. Dabei stellte er fest, dass die weiße Wand (die nach dem Abkleben durch den Schreiner immer noch weiß war) mehrere schwarze/graue Flecken aufwies – ich habe Fotos als Beweis. Daraufhin schrieb ich dem Chef eine Nachricht und bat ihn, beim zukünftigen Anbringen des Regals vorsichtig zu sein, um weitere Flecken zu vermeiden.\n\nEr rief mich an und sagte, er wolle das Regal nun doch nicht mehr anbringen, da meine Erwartungen zu hoch für ihn seien!\n\nZum Glück hatte er das Regal bereits angefertigt und mir unmontiert verkauft. Immerhin etwas.\n\nVielen Dank an unseren Schreiner, der es sauber montiert hat (und der meine Anmerkungen akzeptiert hat).",
+        "time": 1764410597,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Laetitia Faivre",
+        "author_photo": "/images/reviews/jp-balmer-sa-la-chaux-de-fonds/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schnell und effizient. Ich hatte heute Morgen eine Panne und sie kamen schnell vorbei, vielen Dank.",
+        "time": 1528111604,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Jean-denis Bless",
+        "author_photo": "/images/reviews/jp-balmer-sa-la-chaux-de-fonds/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Seriöse und qualitativ hochwertige Arbeit, ich empfehle sie.",
+        "time": 1681404093,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "INFO INFORMAGIQUE",
+        "author_photo": "/images/reviews/jp-balmer-sa-la-chaux-de-fonds/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Perfekt",
+        "time": 1502173704,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Raymond Mess",
+        "author_photo": "/images/reviews/jp-balmer-sa-la-chaux-de-fonds/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1718339189,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJp-4Ghhe9jkcR36I39e_fFFQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: 07:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Yann Liardet",
+        "author_photo": "/images/reviews/nd-carrelage-renovation-monthey/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles Unternehmen, das hervorragende Arbeit leistet. Wir haben sie mit dem Fliesenlegen unserer Badezimmer beauftragt und sind mit dem Ergebnis sehr zufrieden. Sie sind sehr aufmerksam und hilfsbereit. Wir können sie uneingeschränkt empfehlen.",
+        "time": 1772653942,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Hélène Bullat",
+        "author_photo": "/images/reviews/nd-carrelage-renovation-monthey/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma ND Carrelages hat den Umbau meiner Badewanne zur Dusche in meinem Badezimmer übernommen. Professionelle, schnelle und einwandfreie Arbeit, und dazu noch sehr freundlich. Ich kann sie uneingeschränkt empfehlen!",
+        "time": 1755878402,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Lorenz Hirt",
+        "author_photo": "/images/reviews/nd-carrelage-renovation-monthey/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Auf Empfehlung der Sanitärfirma Frangu Sarl beauftragten wir die Firma ND Carrelage mit der Badsanierung. ND Carrelage führte die Arbeiten äußerst präzise und sorgfältig aus, und wir sind mit dem Ergebnis sehr zufrieden. Die Fliesenleger sind sehr freundlich und professionell, und wir können sie uneingeschränkt empfehlen.",
+        "time": 1763921711,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Mila Bellon",
+        "author_photo": "/images/reviews/nd-carrelage-renovation-monthey/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das gesamte Team hat vorbildliche Professionalität und hohe Effizienz bewiesen. Das Projekt wurde in einer freundlichen und respektvollen Atmosphäre durchgeführt. Alle waren jederzeit für Fragen erreichbar und haben umgehend geantwortet. Das Endergebnis hat meine Erwartungen übertroffen, und die Ausführungsqualität ist exzellent. Ich werde Sie ohne Zögern meiner Familie und meinen Freunden weiterempfehlen.\n\nVielen Dank noch einmal. Mit freundlichen Grüßen, Nadège Bellon",
+        "time": 1759316666,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Ines Yenoth",
+        "author_photo": "/images/reviews/nd-carrelage-renovation-monthey/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind mit dem Ergebnis unserer Duschsanierung rundum zufrieden. Tadelloser Service, freundlich und effizient. Die Professionalität war deutlich spürbar. Wir können diese Firma für Ihre Renovierungsprojekte wärmstens empfehlen.",
+        "time": 1756209914,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

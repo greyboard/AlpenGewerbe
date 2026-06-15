@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJP3w1Rj9DhUcRcUVdN48rmfk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Roger Miazzo",
+        "author_photo": "/images/reviews/schlosserei-troegli-ag-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlicher kompetenter Service\nSehr zu empfehlen",
+        "time": 1645460734,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simon Studer",
+        "author_photo": "/images/reviews/schlosserei-troegli-ag-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664292976,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Matthias arnold",
+        "author_photo": "/images/reviews/schlosserei-troegli-ag-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597684355,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nick Kempf",
+        "author_photo": "/images/reviews/schlosserei-troegli-ag-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1568109414,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Matthias Traxel",
+        "author_photo": "/images/reviews/schlosserei-troegli-ag-altdorf/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1540237522,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

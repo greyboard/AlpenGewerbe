@@ -26,5 +26,47 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJL_OJy-K4kUcRm2QEiy1rUKQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "MWA Architecture",
+        "author_photo": "/images/reviews/impresa-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wirklich hochwertige Dienstleistungen.",
+        "time": 1747237501,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Arlesheim Architect",
+        "author_photo": "/images/reviews/impresa-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Superteam!",
+        "time": 1741290039,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gianni Faraco",
+        "author_photo": "/images/reviews/impresa-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1644850695,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

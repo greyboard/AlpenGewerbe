@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJj8Uiraf9j0cR0f-QVxzNTM8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Yanick Bigler",
+        "author_photo": "/images/reviews/glas-form-switzerland-ag-ebikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe bereits das dritte Mal Pokale bestellt. Es wurde perfekt auf die Bedürfnisse eingegangen, es wurden Vorschläge gemacht und Korrekturen blitzschnell erledigt. Der freundliche Service wertet die tollen Produkte auf und ich kann diese Firma nur weiterempfehlen!",
+        "time": 1675114944,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kevin Walz",
+        "author_photo": "/images/reviews/glas-form-switzerland-ag-ebikon/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Einen Pokal für CHF 178 bestellt. Wurde erst mit einiger Verspätung geliefert, was mir nichts ausmachte. Kam aber beschädigt an (ein Teil war abgebrochen). 3 Mails geschrieben und nie eine Rückmeldung erhalten. Definitiv nicht zu empfehlen.",
+        "time": 1697732489,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jolanda Huber",
+        "author_photo": "/images/reviews/glas-form-switzerland-ag-ebikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer wieder gerne schenken wir Freunden zum Geburtstag, oder wie kürzlich zur Auswanderung, ein graviertes Sackmesser. Die Freude über das praktische und mit der Gravur sehr persönliche Geschenk  ist immer sehr gross  Auch alle Briefkasten- und Klingelschilder lassen wir bei glas&form gravieren. Top Beratung, gute Qualität und freundlicher Kontakt.",
+        "time": 1619546260,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Vanessa K.",
+        "author_photo": "/images/reviews/glas-form-switzerland-ag-ebikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hinter glas&form steht ein sehr kompetentes Team, das individuell berät und die Wünsche der KundIn bestens umsetzt. Mit dem gelieferten Produkt, das ein Valentinstagsgeschenk für meinen Freund war, sind mein Freund und ich seeehr zufrieden! :) Die Qualität ist super.",
+        "time": 1618783521,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "mac burri",
+        "author_photo": "/images/reviews/glas-form-switzerland-ag-ebikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Absolut top! Preis und Leistung hervorragend. Sehr empfehlenswert sowohl für Gravuren wie auch Pokale. Sehr kompetente und professionelle Beratung.",
+        "time": 1726048494,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJmf5Ck4C3mkcRm9D_GLmpX7k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 12:30–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Michael Schoch",
+        "author_photo": "/images/reviews/glas-schneller-gmbh-rueti/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma\nKann ich nur jedem empfehlen.\nVom ersten Kontakt, Aussendienst, Monteure lief alles perfekt und ohne Probleme ab.\nWirklich eine sehr gute Adresse für Glas arbeiten.\nBin mehr als glücklich Glas Schneller gewählt zu haben.\nDanke euch🥰",
+        "time": 1742804439,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Conny Gysel",
+        "author_photo": "/images/reviews/glas-schneller-gmbh-rueti/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches Unternehmen. Die Arbeiten wurden speditiv, professionell und zu fairen Preisen ausgeführt. Können wir nur weiter empfehlen.",
+        "time": 1767555845,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Salome Wyss",
+        "author_photo": "/images/reviews/glas-schneller-gmbh-rueti/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Inhaber geführtes Unternehmen, wo der Chef noch selbst das Telefon abnimmt und auch ausliefert. Vom ersten Kontakt bis zum Bringen, sehr kompetent. Gut beraten, professionelle Ausführung und sehr netter Kontakt. Sehr zu empfehlen. Gerne wieder",
+        "time": 1737529134,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simon Güdel",
+        "author_photo": "/images/reviews/glas-schneller-gmbh-rueti/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gerne möchte ich der Firma Schneller ein grosses Kompliment aussprechen, von der ersten Kontaktaufnahme bis zur Ausführung der Arbeit war ich total zufrieden. Kompetente Beratung und wahnsinnig speditive Arbeitsweise von der Organisation bis zur Montage. TOP!! Kann ich definitiv weiterempfehlen!!",
+        "time": 1706276007,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Geburtshaus Zürich Oberland",
+        "author_photo": "/images/reviews/glas-schneller-gmbh-rueti/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Glas Schneller hat schnell, kompetent und mit freundlichem Service unsere Duschtüren in den Familienzimmern ersetzt. Auch unsere Küche mit der neuen Glasrückwand sieht wieder aus wie neu! Sehr empfehlenswert, vielen Dank, gerne wieder!",
+        "time": 1676456637,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

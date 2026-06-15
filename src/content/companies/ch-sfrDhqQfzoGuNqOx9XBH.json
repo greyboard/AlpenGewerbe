@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJmaLNfDLyj0cRykwFzahT0-U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 08:00–11:45 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Sabrina Hungerbühler",
+        "author_photo": "/images/reviews/halter-colledani-ag-sarnen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Unzuverlässig und  Arbeit seit einem Jahr nicht fertig, nie erreichbar und keinen Rückruf von angeblich zuständiger Person! Eine Frechheit!\nVor ein Paar Jahren mit der alten Geschäftsleitung und dem Bauführer war alles anders!",
+        "time": 1660889448,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Edith Lustenberger",
+        "author_photo": "/images/reviews/halter-colledani-ag-sarnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Fachgerechte Ausführung der Arbeiten. Motivierte Mitarbeiter.",
+        "time": 1654687948,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Johannes Schlattau",
+        "author_photo": "/images/reviews/halter-colledani-ag-sarnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionell und zuverlässig.",
+        "time": 1536849485,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Bruno Ineichen",
+        "author_photo": "/images/reviews/halter-colledani-ag-sarnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652704389,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Josef Lustenberger",
+        "author_photo": "/images/reviews/halter-colledani-ag-sarnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652710353,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJIZH31HIXj0cRnFQp5AMGOLI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Yvonne Leiggener",
+        "author_photo": "/images/reviews/gruber-haustechnik-ag-gampel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Während eines Umbaus wurde eine Leitung beschädigt und wir brauchten aus Zeitgründen schnelle Hilfe.\nDiese bekamen wir!\nsehr zuverlässig, freundlich, kompetent und sauber!\nImmer wieder gerne",
+        "time": 1625839400,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Thomas Walter",
+        "author_photo": "/images/reviews/gruber-haustechnik-ag-gampel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schon mehrmals durfte ich die Dienstleistungen der Gruber Haustechnik AG in Anspruch nehmen. Immer wurden die Arbeiten perfekt ausgeführt. Herzlichen Dank dafür.",
+        "time": 1679057865,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Iris Ludewig",
+        "author_photo": "/images/reviews/gruber-haustechnik-ag-gampel/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Keine gute Firma. Keine Ahnung von ihrem Job. Seit Monaten bekommen sie Probleme nicht in den Griff",
+        "time": 1745240304,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "L",
+        "author_photo": "/images/reviews/gruber-haustechnik-ag-gampel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nett. Schnelle und kompetente Hilfe.",
+        "time": 1742877395,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sadiq Mohamadi",
+        "author_photo": "/images/reviews/gruber-haustechnik-ag-gampel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gut",
+        "time": 1778001132,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

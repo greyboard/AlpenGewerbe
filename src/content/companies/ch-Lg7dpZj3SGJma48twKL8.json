@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJR7wPrzn7j0cRDJc_uQ1NgVY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 56,
+    "reviews": [
+      {
+        "author_name": "A. Zimmermann",
+        "author_photo": "/images/reviews/portmann-meier-schreinerei-kuechen-innenausbau-umbau-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die erfahrenen und hoch professionellen Schreiner von Portmann Meier AG haben eine Brandschutztüre mit hohen Auflagen des Denkmalschutzes in meine Altbauwohnung eingebaut. Die Planung und Durchführung waren absolut vorbildlich und das Resultat lässt keine Wünsche offen.",
+        "time": 1742977912,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lukas Bäurle",
+        "author_photo": "/images/reviews/portmann-meier-schreinerei-kuechen-innenausbau-umbau-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr angenehme Zusammenarbeit und qualitativ überzeugende  Ausführung von Küche und Einbauschränken. Viel Kompetenz und Erfahrung mit Details - wir sind rundum zufrieden!",
+        "time": 1756630213,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Andreas B.",
+        "author_photo": "/images/reviews/portmann-meier-schreinerei-kuechen-innenausbau-umbau-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert! Die Zusammenarbeit war unkompliziert und zuverlässig. Alle Arbeiten wurden termingerecht und mit grosser Sorgfalt ausgeführt. Das Ergebnis ist hochwertig und optisch wirklich gelungen – genau so, wie wir es uns vorgestellt haben.",
+        "time": 1762327154,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Beatrice Steiner",
+        "author_photo": "/images/reviews/portmann-meier-schreinerei-kuechen-innenausbau-umbau-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Meine Küche (23 Jahre alt) macht mir heute noch genauso viel Freude wie damals.\nAlles funktioniert immer noch tadellos.\nWenn doch mal ein kleines Problem aufgetreten ist, wurde es schnell behoben.\nAls letzte Arbeit wurde mein Eichentisch aufgearbeitet und sieht wieder wie neu aus.",
+        "time": 1729323204,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marketing Wärchbrogg",
+        "author_photo": "/images/reviews/portmann-meier-schreinerei-kuechen-innenausbau-umbau-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit bei unserem Umzugsprojekt war von Anfang an partnerschaftlich und professionell. Wir können Portmann-Meier uneingeschränkt weiterempfehlen.",
+        "time": 1777471604,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

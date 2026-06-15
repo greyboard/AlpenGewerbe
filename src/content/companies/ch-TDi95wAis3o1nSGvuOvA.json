@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJO9bzgEWqmkcRbvmMjnO1eDA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Swenja Laser",
+        "author_photo": "/images/reviews/moos-bauingenieure-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und lösungsorientierte Bauingenieure. Im Rahmen unseres Hochbauprojekts in Zug überzeugten die Moos Bauingenieure mit wirtschaftlichen, nachhaltigen Tragwerkslösungen sowie präzisen statischen Berechnungen und Ausführungsplänen. Die Zusammenarbeit war professionell, effizient und jederzeit angenehm. Sehr empfehlenswert.",
+        "time": 1772220885,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Ramon Senn",
+        "author_photo": "/images/reviews/moos-bauingenieure-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und zuverlässig. Die Abklärungen wurden schnell, fundiert und verständlich durchgeführt. Kommunikation freundlich und professionell. Empfehlenswert",
+        "time": 1770153049,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Tim Michaelis",
+        "author_photo": "/images/reviews/moos-bauingenieure-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir wurden absolut super und freundlich von Moos Bauingenieure beraten, alles ist nach Absprache gelaufen und Termine wurden jederzeit eingehalten.\nGerne wieder!",
+        "time": 1777452960,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Pereshia Berlenbach",
+        "author_photo": "/images/reviews/moos-bauingenieure-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "René Hantzsch hat uns bei allen Anfragen stets schnell, professionell und zuverlässig unterstützt. Besonders geschätzt haben wir neben seinen fachlichen Qualitäten seine freundliche Art und die klare Kommunikation. Die Zusammenarbeit war jederzeit angenehm und effektiv.",
+        "time": 1755957652,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Jörg Gansner",
+        "author_photo": "/images/reviews/moos-bauingenieure-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich hatte noch nie mit dieser Firma zu tun. Für einen Lagerraum benötigte ich eine dringende Auskunft hinsichtlich Bodenbelastung. Innert weniger als einem Arbeitstag wurde mir eine schriftliche, fachkompetente Antwort erteilt, inkl. Erläuterungen und Plan. Ich finde, diese Mitarbeitenden inkl. dem Chef machen einen super-guten Job. Dankeschön - sehr gerne wieder! Freundliche Grüsse. Jörg G., Stadt Zug.",
+        "time": 1707114640,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

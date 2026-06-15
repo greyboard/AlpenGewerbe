@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJP7P0mTOqmkcRK30d7RAtfUU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 08:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Andre Kälin",
+        "author_photo": "/images/reviews/murer-busreisen-gmbh-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren schon ein paar mal mit Murer Reisen unterwegs. Von der Buchung bis zur Reise hat alles Tip Top geklappt. Peter, Danke für deine Hilfsbereitschaft wo die Rechnung per A-Post fast eine Woche mit der Post unterwegs war. Auch super finde ich das man online buchen kann und den Sitzplatz im Bus gleich auswählen kann. Das ist mega. Peter, wir bleiben dran und freuen uns schon jetzt auf das Prgramm 2026. Bis auf einem Ausflug. Gruss André",
+        "time": 1766777928,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Sofiia- Teodora Pylat",
+        "author_photo": "/images/reviews/murer-busreisen-gmbh-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein grosses Dankeschön an den gesamten Fuhrpark und besonders an unseren Fahrer Sepp Odermatt. Von der Organisation bis zur Durchführung war alles perfekt. Sepp ist ein sehr kompetenter und freundlicher Chauffeur, der unsere zweitägige Reise mit einem äusserst komfortablen Bus zu einem wunderbaren Erlebnis gemacht hat. Besser hätte es wirklich nicht sein können.",
+        "time": 1755466802,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Roger Nauer",
+        "author_photo": "/images/reviews/murer-busreisen-gmbh-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alles bestens funktioniert! Vernünftiger Reisecar mit kompetentem Chauffeur!\nWir waren 3Tage auf der BAUMA. Ein sehr gutes Hotel, das Restaurant war ebenfalls gut.\nEs war ein rundum sorglos Paket👍 Auch mit der Möglichkeit sich selbständig zu bewegen.",
+        "time": 1744492564,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Petz",
+        "author_photo": "/images/reviews/murer-busreisen-gmbh-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Chauffeur Sepp fuhr uns in einem komfortablen und sauberen Dreiachs-Car nach Basel und zurück. Er bewegte den grossen Reisecar ruhig und souverän über die Autobahn und durch den Basler Stadtverkehr, so dass wir uns immer sicher fühlen und die Reise geniessen konnten. Kompliment, sehr empfehlenswertes Unternehmen!",
+        "time": 1746618866,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mike",
+        "author_photo": "/images/reviews/murer-busreisen-gmbh-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung. Flexibilität wird gross geschrieben, Herr Zahner wird ein extra Stopp zum Einsteigen machen. Weiter so 👍👌",
+        "time": 1648069694,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

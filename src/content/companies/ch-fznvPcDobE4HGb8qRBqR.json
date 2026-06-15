@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsSEnOnF_kEcR4BIJA751hHI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Swiss Sen",
+        "author_photo": "/images/reviews/friedel-gabele-gmbh-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Guter Handwerksbetrieb, gute Kommunikation, saubere und gute Arbeit. Vorbildliche Massnahmen zur Verhinderung von Staub und Dreck",
+        "time": 1685603708,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Salvatore",
+        "author_photo": "/images/reviews/friedel-gabele-gmbh-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeiten, präzise Ausführung und top Qualität – sehr zu empfehlen.",
+        "time": 1739033642,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Wilma Kwasnicki",
+        "author_photo": "/images/reviews/friedel-gabele-gmbh-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Dank Friedel Gabele und seinem Mitarbeiter ist unser Gästebad nun wieder wie neu - kompetente Beratung, saubere Arbeit - das Endergebnis eine wahre Freude!",
+        "time": 1756408207,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Urs Studer",
+        "author_photo": "/images/reviews/friedel-gabele-gmbh-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetent und zuverlässig",
+        "time": 1566318789,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Markus Walter",
+        "author_photo": "/images/reviews/friedel-gabele-gmbh-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Firma Gabele kann man nur empfehlen, es war heute ein netter Arbeiter bei uns am 9.4.26 nach 9 Uhr wo unsere Gartenmauer geflickt hat.\nIch bin sehr zufrieden, und wurde sehr sauber gearbeitet!\nWenn ich was habe, nehme ich immer die Firma Gabele!\nDie kann man sehr empfehlen.\nGruss\nMarkus Walter",
+        "time": 1775749973,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

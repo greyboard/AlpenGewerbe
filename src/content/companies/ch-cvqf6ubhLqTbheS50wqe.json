@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJN61kJc_ZjUcRUKRpKIg1vi4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–16:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–16:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–16:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–16:45 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Clément Alleaume",
+        "author_photo": "/images/reviews/metal-concept-sa-murist/reviewer_1.jpg",
+        "rating": 1,
+        "text": "❌ Meiden Sie diese Firma unbedingt – keinerlei Rückmeldung!\n\nIch habe bei Metal Concept in Murist zwei Angebote angefordert, im Abstand von sechs Monaten. Nach drei E-Mails, zwei Anrufen und dem Versprechen, zurückzurufen … immer noch nichts, auch nicht drei Wochen später. Keine Neuigkeiten, keine Antwort. Wenn Sie eine zuverlässige und professionelle Firma suchen, schauen Sie sich woanders um.\n\nOffensichtlich braucht Metal Concept weder neue Kunden noch Aufträge. Vielleicht fallen ihnen die Projekte einfach so zu, oder das Geld fließt von selbst … Wie dem auch sei, verschwenden Sie nicht Ihre Zeit wie ich.",
+        "time": 1752350259,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Visar Sulejmani",
+        "author_photo": "/images/reviews/metal-concept-sa-murist/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes Unternehmen! Ich kann es nur empfehlen.",
+        "time": 1763123148,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "rui leite",
+        "author_photo": "/images/reviews/metal-concept-sa-murist/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gutes Arbeitsklima und gute Bedingungen",
+        "time": 1605722407,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Serega Hariton",
+        "author_photo": "/images/reviews/metal-concept-sa-murist/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Es gibt keine Parkplätze, aber das Entladen erfolgt schnell.",
+        "time": 1648822736,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "José Santos",
+        "author_photo": "/images/reviews/metal-concept-sa-murist/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Meta_concept macht einen guten Job",
+        "time": 1582303281,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

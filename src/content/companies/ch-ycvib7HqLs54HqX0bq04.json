@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu-53YCxpj0cRDjjxLoxNdaE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Joerg Jeitziner",
+        "author_photo": "/images/reviews/moebelhaus-bodenbelaege-schwery-brig-glis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, Danke!",
+        "time": 1671134231,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kevin Eyer",
+        "author_photo": "/images/reviews/moebelhaus-bodenbelaege-schwery-brig-glis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit!",
+        "time": 1671134155,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marc Anthony Sommer",
+        "author_photo": "/images/reviews/moebelhaus-bodenbelaege-schwery-brig-glis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit Möbelhaus - Bodenbeläge Schwery ist professionell, unkompliziert. Ihre äusserst kompetente und speditiv ausgeführte Arbeit überzeugt uns sehr.\n\nGerne wieder.",
+        "time": 1731050668,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudio Schaller",
+        "author_photo": "/images/reviews/moebelhaus-bodenbelaege-schwery-brig-glis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762759640,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Daniel Sarbach",
+        "author_photo": "/images/reviews/moebelhaus-bodenbelaege-schwery-brig-glis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697722269,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

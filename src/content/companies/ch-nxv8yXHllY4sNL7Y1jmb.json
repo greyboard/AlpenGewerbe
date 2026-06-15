@@ -26,5 +26,22 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJN2DcCKEdkEcR1V-Y8t2GvxU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Andréia",
+        "author_photo": "/images/reviews/mueller-bodengestaltung-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1714900606,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,31 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJrVfV9Jc5jkcRt8BgYJbpurA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Marianne Aeschbach",
+        "author_photo": "/images/reviews/baumann-bodenbelaege-bolligen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1750417917,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

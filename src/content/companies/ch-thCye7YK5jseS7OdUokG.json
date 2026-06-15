@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJT18OhHa_hEcRQu64M5OOvrY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "migo",
+        "author_photo": "/images/reviews/brueesch-ag-churwalden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere alte Ölheizung durch eine Luftwärmepumpe ersetzen lassen. Die Betreuung war vom ersten Telefonat bis zum Abschluss vorbildlich. Auch das Montageteam war professionell, kompetent und freundlich. Die Heizung läuft einwandfrei und macht uns Freude. Danke an das ganze Team 😊.",
+        "time": 1732788986,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mike Wilkinson",
+        "author_photo": "/images/reviews/brueesch-ag-churwalden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit von Bruesch AG. Ich hatte ein unterirdischen Leck in der Wohnung das vieles kaputt machte. Bruesch AG hat das Problem rasch analysiert und schnell und gut repariert. Eine sehr angenehme und kompetente Firma.",
+        "time": 1744234960,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Silvana Stock-Blaser",
+        "author_photo": "/images/reviews/brueesch-ag-churwalden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Am Donnerstag fiel unsere Heizung aus, wir hatten vergessen den Tank umzuhängen.\nNeu im Dorf haben wir am nächsten Tag bei Brüesch angerufen.\nSuper nett wurde unser Anliegen aufgenommen. Trotz hoher Arbeitsauslastung schafften sie es am selben Tag vorbeizukommen und die Heizung zu reparieren. Unsere Gäste am Abend konnten so doch ohne Winterkleidung kommen 😎\nDas nenne ich Kundenservice! Und das bei einem Neukunden!\nWir wissen, wer in Sachen Service etc. unsere Ansprechsperson sein wird.\n\nVielen Dank für euren spontanen Einsatz und euren Kundenservice!",
+        "time": 1646676870,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "manuel vieira",
+        "author_photo": "/images/reviews/brueesch-ag-churwalden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir brauchen Hilfe wegen eines verstopften Abwasserrohrs, sie haben schnell geholfen und sind nur mit dem gelösten Problem gegangen.\n\nIch empfehle",
+        "time": 1677618714,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pascal Born",
+        "author_photo": "/images/reviews/brueesch-ag-churwalden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr guter Dienstleister mit einer hohen Arbeitsqualität. Ich kann diese Firma allen weiterempfehlen. Weiter so...",
+        "time": 1606318520,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

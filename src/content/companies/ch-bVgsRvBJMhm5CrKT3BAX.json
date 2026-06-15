@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJizK3ewCrmkcRp8QmRTTqrYg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Renato S",
+        "author_photo": "/images/reviews/romer-design-gmbh-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alles pünktlich und termingetreu erledigt. Sehr saubere und professionelle Arbeit. Angel Romer ist ein sehr angenehmer Mensch. Ich kann Romer Design sehr empfehlen.",
+        "time": 1772832991,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Lise Behar",
+        "author_photo": "/images/reviews/romer-design-gmbh-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionelle Handwerker, freundlich und pünktlich. Sie haben bei uns Malerarbeiten und Tapezierarbeiten ausgeführt, und das Ergebnis ist sehr zufriedenstellend. Ich empfehle sie.",
+        "time": 1771401140,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Gerry K",
+        "author_photo": "/images/reviews/romer-design-gmbh-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Firma kann ich jederzeit empfehlen",
+        "time": 1766153695,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Altin Hallulli",
+        "author_photo": "/images/reviews/romer-design-gmbh-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777223141,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Mario Volic",
+        "author_photo": "/images/reviews/romer-design-gmbh-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777045854,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

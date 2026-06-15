@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJs_xWKGAem0cRnJufx_k2EYQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–14:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 59,
+    "reviews": [
+      {
+        "author_name": "Michael Huwiler (foto-huwi)",
+        "author_photo": "/images/reviews/haelg-co-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Hälg unsere Dusche erneuert und dabei ein Top-Team erlebt. Schon bei der Offertstellung und Planung erhielten wir eine genaue Vorstellung darüber, wie der Umbau erfolgen wird und wie sich das Endprodukt präsentieren wird. Die Bauleitung durch Hälg war erstklassig, reagierte auch bei einem kleinen Problem mit einem beauftragten Zulieferer prompt und in unserem Sinne und sorgte insgesamt für eine zügige Fertigstellung. Wir sind sehr zufrieden mit dem Ergebnis.\n\nHinweis zur Transparenz: Ich bin öfters als externer Fotograf für die Hälg-Gruppe tätig. Es gab bei diesem Auftrag jedoch keine Sonderbehandlung.",
+        "time": 1536321668,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Phil Künz",
+        "author_photo": "/images/reviews/haelg-co-ag-st-gallen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Wenn die Firma gleich rücksichtslos ist wie der Mitarbeiter der am 25.10.25 auf der Autobahn A1 Richtung Winterthur,  gerast ist und nur wenige Meter Abstand zum Vordermann hat, will ich nichts mit dieser Firma zu tun haben",
+        "time": 1761465389,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Peter",
+        "author_photo": "/images/reviews/haelg-co-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Lieber Marco. Einen super Service den du heute geleitest hast.\nAlles verständlich erklärt das auch ein Laie es kapiert.\nInsgesamt beurteile ich die Firma als sehr gut und angenehm\nWenn Probleme auftreten sind sie sehr rasch vor Ort\nMacht bitte weiter so\nHauswart von der Lindenwis, Engelburg",
+        "time": 1727335346,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yannic Loritz",
+        "author_photo": "/images/reviews/haelg-co-ag-st-gallen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Der Fahrstil des Mitarbeiters war völlig unangemessen: Er fuhr bei 130 km/h auf der Autobahn bis auf wenige Meter auf und zeigte beim Überholen den Mittelfinger.",
+        "time": 1751389816,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Mike Etter (Mike Van Dyk)",
+        "author_photo": "/images/reviews/haelg-co-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Firma in Bereich Lüftung/Kälte/Heizung/Sanitär. Diese Firma hat Qualität für diesen Preis, und Servicetechniker sind alle immer stehts freundlich. Kenne Hälg&Co. AG seit 25 Jahren nur zum Empfehlen...",
+        "time": 1691447625,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-uzJ27jyjmpY1JSKY8WBR",
   "slug": "holzbau-ag-moerel-moerel-filet",
-  "name": "Holzbau AG Mörel",
+  "name": "Holzbau AG",
   "branchen": [
     "zimmermann"
   ],
@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMaLBroRvj0cRG4mY7oXdOH0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 56,
+    "reviews": [
+      {
+        "author_name": "Martin Grun",
+        "author_photo": "/images/reviews/holzbau-ag-moerel-moerel-filet/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Es hat alles bestens geklappt. Termin und Qualität",
+        "time": 1731357578,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Renata Suter",
+        "author_photo": "/images/reviews/holzbau-ag-moerel-moerel-filet/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich kann mich der letzten Rezension anschliessen. Auch wir sind nicht einmal zu einer Offerte gekommen.\nEs wurde versprochen, dass die Offerten der Reihe nach abgearbeitet werden. Nachdem ich vier Wochen lang vertröstet wurde, wurde mir direkt gesagt, unser Projekt (Bau 2 Terassen mit Treppe und Untermauerung) sei nach unten auf die Biege geschoben worden, sie haben „andere Prioritäten“ und es sei nicht lukrativ genug.\nEine Hinhaltetaktik, wo man an der Nase herumgeführt wird. Wenn wir bereits am Anfang gewusst hätten, dass wir keine Offerte erhalten würden, hätten wir viel Zeit und Mühe sparen können. Gierde über Ehrlichkeit. Schade!",
+        "time": 1670582534,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jasmine Cina",
+        "author_photo": "/images/reviews/holzbau-ag-moerel-moerel-filet/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Vermutlich war unser Projekt zuwenig rentabel für die Firma, deshalb wurden wir wohl links liegen gelassen! Die Zusammenarbeit wäre ziemlich sicher besser verlaufen wenn unser geplantes Haus für ihr Finanzpolster ergiebiger ausgefallen wäre. Doch unser Wunschhaus wollten wir klein und gemütlich, daher wurden keinerlei Bemühungen seitens der Firma unternommen, uns als gleichwertige Kunden zu behandeln.   Schade, dass die Firma so über alles stehen möchte, um die kleinen Projekte nicht mehr wertzuschätzen! ..  Mit Geld wächst die Gier noch \"lukrativeren\"  Kunden!",
+        "time": 1622138008,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Natascha K.",
+        "author_photo": "/images/reviews/holzbau-ag-moerel-moerel-filet/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung und Ausführung! Es wurde alles fristgerecht erledigt. Wir sind sehr zufrieden und würden die Holzbau AG immer wieder wählen!",
+        "time": 1693220173,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Josef Föhn",
+        "author_photo": "/images/reviews/holzbau-ag-moerel-moerel-filet/reviewer_5.jpg",
+        "rating": 5,
+        "text": "DANKE für den speditiven Bau unseres neuen BormPoint. Es war eine Freude mit euch zusammen diesen Holzbau an spezieller Lage zu erstellen.",
+        "time": 1717481407,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

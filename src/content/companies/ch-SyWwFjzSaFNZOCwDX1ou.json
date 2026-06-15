@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJs4OLg0YKkEcRnZyXG-ZbxY8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Cornelia Wiprächtiger",
+        "author_photo": "/images/reviews/urs-maetzler-schreinerei-gmbh-manufaktur-fuer-innenausbau-moebelbau-schreinerei-fuer-denkmalschutz-brandschutztueren-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben bei der Schreinerei Mätzler einen Tisch auf Mass anfertigen lassen und sind sehr zufrieden mit dem Ergebnis. Der Tisch ist aus wunderschönem amerikanischem Nussbaum-Massivholz gefertigt und von super Qualität. Die Schreinerei hat mir einen durchsichtigen Lack empfohlen, der wie geölt aussieht, und dem Tisch eine besondere Note verleiht. Es sieht echt hochwertig aus, danke für die tolle Empfehlung!\nDie Schreinerei hat mich während des gesamten Prozesses gut betreut und ich fühlte mich immer gut informiert. Ich kann die Schreinerei Mätzler jedem empfehlen, der auf der Suche nach einem individuellen Möbelstück ist.",
+        "time": 1708175913,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Reto Wiprächtiger",
+        "author_photo": "/images/reviews/urs-maetzler-schreinerei-gmbh-manufaktur-fuer-innenausbau-moebelbau-schreinerei-fuer-denkmalschutz-brandschutztueren-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schönes Sideboard mit genialem Öffnungsmechanismus:\nDie Schreinerei Mätzler hat für uns ein schwebendes Sideboard aus amerikanischem Nussbaum hergestellt und wir sind super zufrieden. Ich bin speziell begeistert von den raffinierten Schiebetüren. Sie öffnen sich überlappend auf nicht sichtbaren Schienen und brauchen kaum Platz. Eine super Lösung die mir vom Mätzler Team empfohlen wurde. Danke für die tolle Arbeit! Ich kann sie nur empfehlen.",
+        "time": 1707909391,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jasper van Tilburg",
+        "author_photo": "/images/reviews/urs-maetzler-schreinerei-gmbh-manufaktur-fuer-innenausbau-moebelbau-schreinerei-fuer-denkmalschutz-brandschutztueren-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragende Schreinerei mit perfekter Schreinerarbeit und ausgezeichnetem Service. Wir haben riesige Freude an unseren tollen Schränken und dem modernen Sideboard. Sehr empfehlenswert",
+        "time": 1702853093,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

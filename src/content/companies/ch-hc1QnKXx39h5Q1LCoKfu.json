@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJl67KN_U5jkcRYFT9O1cb4lA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Gjoko Micev",
+        "author_photo": "/images/reviews/stefan-stocker-malerei-bern-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit! Stefan hat bei uns sauber, zuverlässig und termingerecht gearbeitet. Die Beratung war kompetent, er war sehr freundlich und das Ergebnis wirklich top, alles sieht wieder wie neu aus. Preis-Leistung absolut fair. Klare Weiterempfehlung!",
+        "time": 1770993536,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "David Gutbrod",
+        "author_photo": "/images/reviews/stefan-stocker-malerei-bern-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Grandiose Arbeit! Stefan Stocker hät äusserst professionell gearbeitet - sauber, zuverlässig und mit viel Liebe zum Detail. Die Wand sieht super aus, absolut empfehlenswert!",
+        "time": 1755194775,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Samuele",
+        "author_photo": "/images/reviews/stefan-stocker-malerei-bern-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Begutachtung der Fassade, über das Erstellen eines fairen Kostenvoranschlags bis zur raschen, zuverlässigen und sorgfältigen Ausführung der Streicharbeiten: Herr Stocker hat uns durch und durch überzeugt! Gerne geben wir in Zukunft wieder grössere Arbeiten bei ihm in Auftrag.",
+        "time": 1757958769,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Michael Frauchiger",
+        "author_photo": "/images/reviews/stefan-stocker-malerei-bern-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Stocker hat unsere Wohnung neu gestrichen. Wir waren mit seiner Arbeit sehr zufrieden. Er arbeitet sehr exakt und doch speditiv. Den vereinbarten Termin hat er eingehalten. Wir können Herrn Stocker sehr gerne weiter empfehlen.",
+        "time": 1747043030,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dominic",
+        "author_photo": "/images/reviews/stefan-stocker-malerei-bern-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich war wirklich sehr zufrieden! Herr Stocker hat mich mit seiner Kompetenz als Maler mehr als begeistert! Vo der ersten Kontaktaufnahme bis zum wunderschönen Ergebnis, war ich rundum zufrieden mit seiner Arbeit!\nWürde ich definitiv weiterempfehlen",
+        "time": 1747063202,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

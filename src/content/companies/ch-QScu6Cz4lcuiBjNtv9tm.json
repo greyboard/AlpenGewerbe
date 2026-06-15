@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-RMkslM6kEcRbGf4gy5qJZQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Fabian Wildi",
+        "author_photo": "/images/reviews/schreinerei-nabholz-gmbh-schoenenwerd/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team macht einen echt guten Job. Wir haben vor ein paar Jahren Insektenschutzgitter installieren lassen und das wurde tiptop umgesetzt - die Qualität stimmt. Auch später mit weiteren Wünschen wird kompetent weitergeholfen (wir hatten eine Erweiterung und Anpassungen benötigt). Auch weitere Arbeiten wie der Tausch eines Fensters oder Einstellen von Fenstern etc. wurden sehr engagiert und kompetent erledigt. Besten Dank!",
+        "time": 1762424636,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Patrick Mattes",
+        "author_photo": "/images/reviews/schreinerei-nabholz-gmbh-schoenenwerd/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits 3 Projekte mit der Schreinerei Nabholz umgesetzt. 1) Türe in den Keller einbauen. 2) Komplette Raumteilung inkl. Türe. 3) Umbau Hauseingangstüre. Wiederholaufträge sind das grösste Kompliment. Firmen Inhaber und alle Mitarbeiter sind sehr kompetent, freundlich und erledigen die Arbeiten sehr sauber. Kann diese Schreinerei jedem bedingungslos weiter empfehlen!",
+        "time": 1700227089,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Roth",
+        "author_photo": "/images/reviews/schreinerei-nabholz-gmbh-schoenenwerd/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unser Projekt bestand aus der Renovation einer alten 3.5 Zimmerwohnung: Holzböden abschleifen und versiegeln, neue Zimmertüren mit Zargen, neue Wohnungstüre, Badezimmermöbel nach Mass und vielen kleineren Anpassungen / Renovationen. Wir wurden ausführlich beraten und haben viele Auswahl- Kombinationsmöglichkeiten erhalten. Sämtliche Arbeiten wurden schnell, kompetent und sauber ausgeführt. Sehr gerne wieder!",
+        "time": 1643873588,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "J. I.",
+        "author_photo": "/images/reviews/schreinerei-nabholz-gmbh-schoenenwerd/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragende Qualität, habe hier mein TV Möbel nach Mass anfertigen lassen. Super Beratung und das Endergebnis ist einfach perfekt. Beim Hausumbau werden wir hier alles machen lassen.",
+        "time": 1623817509,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Heinz Pfenninger",
+        "author_photo": "/images/reviews/schreinerei-nabholz-gmbh-schoenenwerd/reviewer_5.jpg",
+        "rating": 5,
+        "text": "sehr gute Arbeit, zuverlassige Ausführung und freundliche Beratung",
+        "time": 1671790693,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJiyiwlrk8jkcRFzbAPi_owyI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Blerim Jusufi",
+        "author_photo": "/images/reviews/seferi-gmbh-muenchringen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der ersten Besichtigung bis zur ausführung TOP!\nGute Beratung, schnelles und sauberes einbringen vom Unterlagsboden.\nAlle wichtigen Details wurden berücksichtigt👍🏼",
+        "time": 1715774618,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Naim Dalipi",
+        "author_photo": "/images/reviews/seferi-gmbh-muenchringen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "• Sehr professionelles Team\n• Top-Qualität\n• Zuverlässig\n• Kompetent",
+        "time": 1715791947,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Arxhent Muslija",
+        "author_photo": "/images/reviews/seferi-gmbh-muenchringen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Service! Kompetent und zuverlässig. Große Weiterempfehlung 👍",
+        "time": 1715778533,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Uerdu",
+        "author_photo": "/images/reviews/seferi-gmbh-muenchringen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super arbeit👌",
+        "time": 1715780343,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kadi Ajan.",
+        "author_photo": "/images/reviews/seferi-gmbh-muenchringen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "👍👍👍",
+        "time": 1705523181,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

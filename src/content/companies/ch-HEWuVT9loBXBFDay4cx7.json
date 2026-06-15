@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJlbCEmqULkEcR2r41KkwunLo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–19:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–19:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–19:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–19:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Alfred Meier",
+        "author_photo": "/images/reviews/frehner-bedachungen-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Dachdecker bei moderaten Kosten. Sehr zu empfehlen.",
+        "time": 1700578487,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Olly S",
+        "author_photo": "/images/reviews/frehner-bedachungen-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "freundlicher, kompetenter und zuverlässiger Fachmann.",
+        "time": 1683283167,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kauz72",
+        "author_photo": "/images/reviews/frehner-bedachungen-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit und Freundlich",
+        "time": 1518777605,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Move it",
+        "author_photo": "/images/reviews/frehner-bedachungen-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697867962,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christian",
+        "author_photo": "/images/reviews/frehner-bedachungen-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1538310083,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

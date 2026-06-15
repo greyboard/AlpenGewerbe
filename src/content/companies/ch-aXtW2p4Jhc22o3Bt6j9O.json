@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2732eKR7jEcRZLnXUExZS7E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Sara Garcia",
+        "author_photo": "/images/reviews/watts-electricite-sa-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein großartiges Unternehmen! Herzlichen Dank an Lionel für seine Freundlichkeit und Professionalität!",
+        "time": 1778602196,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Sylvie Granger",
+        "author_photo": "/images/reviews/watts-electricite-sa-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gründliche und hochprofessionelle Arbeit. Sehr aufmerksames Personal. Ich kann sie weiterempfehlen.",
+        "time": 1764092689,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Véronique Affolter",
+        "author_photo": "/images/reviews/watts-electricite-sa-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein seriöses und zuverlässiges Unternehmen. Die Mitarbeiter in den Bereichen Installation, Reparatur und Verwaltung sind professionell und freundlich.",
+        "time": 1763570450,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "DALL Lopez",
+        "author_photo": "/images/reviews/watts-electricite-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer einwandfreie Arbeit und sehr freundliche Mitarbeiter!",
+        "time": 1762551821,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Justine Berard",
+        "author_photo": "/images/reviews/watts-electricite-sa-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit und ein sehr freundliches Team",
+        "time": 1763584046,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

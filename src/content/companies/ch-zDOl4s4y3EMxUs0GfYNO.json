@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3ZBXchgKkEcRQOTcTRi76cM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Valon Sejdaj",
+        "author_photo": "/images/reviews/bonardi-gipsergeschaeft-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma, professionelles & freundliches Personal.",
+        "time": 1645289847,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "rocco ancora",
+        "author_photo": "/images/reviews/bonardi-gipsergeschaeft-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "TOP-SIGNATUR",
+        "time": 1744186796,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "MÜLLER HP",
+        "author_photo": "/images/reviews/bonardi-gipsergeschaeft-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top-Team",
+        "time": 1685978245,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jo Mariano",
+        "author_photo": "/images/reviews/bonardi-gipsergeschaeft-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643182375,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sergej Thoma",
+        "author_photo": "/images/reviews/bonardi-gipsergeschaeft-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1544071789,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

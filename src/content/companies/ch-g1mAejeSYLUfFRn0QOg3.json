@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJB2HAjagthUcR58r0oQDr0vU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Andreas Zweifel",
+        "author_photo": "/images/reviews/peter-bamert-bodenwelten-gmbh-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit vielen Jahren arbeiten wir mit der Peter Bamert Bodenwelten an Projekten aller Art – und das immer mit grosser Freude!\nDie Zusammenarbeit ist von Anfang bis Ende professionell, individuell, fair und vertrauensvoll.\nEin grosses Dankeschön an das ganze Team – wir können euch nur wärmstens empfehlen 🙂\n\nAuf viele weitere gemeinsame Erfolgsgeschichten!\n\nSchiesser Architektur und Bauingenieur AG, Glarus",
+        "time": 1760360254,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Barbara Keller-Inhelder",
+        "author_photo": "/images/reviews/peter-bamert-bodenwelten-gmbh-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, sympathische Fachkräfte - bin sehr zufrieden!",
+        "time": 1617191262,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Markus Borner",
+        "author_photo": "/images/reviews/peter-bamert-bodenwelten-gmbh-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super freundliche Mitarbeiter, hohe Fachkompetenz",
+        "time": 1539004919,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Wlhelm Tautscher",
+        "author_photo": "/images/reviews/peter-bamert-bodenwelten-gmbh-glarus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Perfekte Qualitative bediehnung.Personal 10 von10 Punkten.",
+        "time": 1775211601,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Krum Karkov",
+        "author_photo": "/images/reviews/peter-bamert-bodenwelten-gmbh-glarus/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1780072674,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

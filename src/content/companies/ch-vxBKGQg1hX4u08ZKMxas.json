@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ93byOSLHkUcRDawkrKOqFAM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Roberto Scolari-Mannala",
+        "author_photo": "/images/reviews/mh-bau-gmbh-aesch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswerte Firma. MH Bau hat bei uns einen super Job gemacht! Innenanstrich, Innenisolation, div. Gipserarbeiten, etc.\nHinzu kommt eine wirklich gute Kommunikation, Pünktlichkeit und saubere Angebote und Abrechnung. Ich bin absoluter MH Bau Fan!",
+        "time": 1618303380,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "ASo",
+        "author_photo": "/images/reviews/mh-bau-gmbh-aesch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "MH Bau hat bei mir verschiedene Arbeiten in der Küche ausgeführt. Top Firma, pünktlich, professionell sehr engagiert um alle Wünsche zu erfüllen. Preis Leistung, Top. Sehr empfehlenswert!",
+        "time": 1650731089,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ardita Rrahimi",
+        "author_photo": "/images/reviews/mh-bau-gmbh-aesch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Absolute Weiterempfehlung! Sehr zuverlässig  und sehr freundlich, sie setzten deine Wünsche perfekt um!",
+        "time": 1725302691,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rene Hauser",
+        "author_photo": "/images/reviews/mh-bau-gmbh-aesch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit alle Arbeiten sind sehr gut ausgeführt worden",
+        "time": 1736237678,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ugur Findik",
+        "author_photo": "/images/reviews/mh-bau-gmbh-aesch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service..! sehr professionell und zuverlässige Firma.",
+        "time": 1589405720,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

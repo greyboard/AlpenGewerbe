@@ -26,5 +26,31 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJf1fZu2Mfm0cRmgMsIF3XaD8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Romano Degonda",
+        "author_photo": "/images/reviews/lentec-gmbh-teufen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann als Kunde die Fitma Lentec GmbH mit den allerbesten Noten weiterempfehlen. Top Qualität und freundliche kompetente Arbeiter.  Sehr angenehmes Team. sowie Preis/Leistung stimmt auch. Bravo",
+        "time": 1537569731,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

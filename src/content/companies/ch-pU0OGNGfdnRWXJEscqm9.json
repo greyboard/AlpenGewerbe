@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_YkOK2b9mkcRCPHFtPvFyD4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Tamara Petralli",
+        "author_photo": "/images/reviews/metallbau-huser-und-partner-gmbh-romanshorn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit über 10 Jahren ein kompetenter und zuverlässiger Partner. Termingerecht und saubere Arbeiten. Wir können die Firma nur weiterempfehlen!",
+        "time": 1698910324,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ivo Frei",
+        "author_photo": "/images/reviews/metallbau-huser-und-partner-gmbh-romanshorn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absoluter Top-Betrieb. Unkompliziert, effizient, kundenfreundlich, versteht die Bedürfnisse und fachlich auf höchstem Niveau. Habe ein Projekt in Rekordzeit umsetzen düfen.",
+        "time": 1720776024,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nico",
+        "author_photo": "/images/reviews/metallbau-huser-und-partner-gmbh-romanshorn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen , saubere Tig Schweißarbeiten 👍",
+        "time": 1776240599,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Juergen Meilinger",
+        "author_photo": "/images/reviews/metallbau-huser-und-partner-gmbh-romanshorn/reviewer_4.jpg",
+        "rating": 3,
+        "text": "Die Firma mag gut sein, die Fahrer sind jedenfalls flott unterwegs und pflügen sich den Weg durch den Verkehr. Sogar am Pfingstsonntag scheinen sie immer für Ihre Kunden unterwegs zu sein. Schade nur, wenn man einer der anderen unbeteiligten Verkehrsteilnehmer ist, der vom überholenden Firmenwagen fast abgedrängt wird. So ist es zumindest uns ergangen.",
+        "time": 1685610835,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Peter Gsell",
+        "author_photo": "/images/reviews/metallbau-huser-und-partner-gmbh-romanshorn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten schon lange mit der Firma Metallbau Huser & Partner GmbH zusammen. Top Arbeit, super Service. Kann ich nur weiter empfehlen.",
+        "time": 1540888221,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

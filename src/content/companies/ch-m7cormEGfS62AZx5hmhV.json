@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJn8ogMP37j0cRzekKcuzLmxU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Beata",
+        "author_photo": "/images/reviews/maler-und-gipsergeschaeft-marko-jagustin-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten schnell und professionell in Angriff genommenen. Hohe Flexibilität als dann noch zusätzliche Arbeiten gemacht werden mussten, war das kein Problem. Wände, Holztäfer streichen und Gipsern zu meiner vollen Zufriedenheit. Die Arbeiter waren sehr nett und zuvorkommend.\nImmer wieder gern.",
+        "time": 1765188263,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Jasmina Sadikovic",
+        "author_photo": "/images/reviews/maler-und-gipsergeschaeft-marko-jagustin-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut begeistert von der kompetenten Beratung und dem Endergebnis. Unsere individuellen Bedürfnisse wurden von Anfang an sehr ernst genommen. Die Malerarbeiten, vom Mitarbeiter Jamail, wurden äusserst präzise und sorgfältig ausgeführt, und wir waren beeindruckt, wie sauber die Wohnung während und nach den Arbeiten hinterlassen wurde. Besonders geschätzt haben wir, dass der Chef Marko persönlich die Qualität der Ausführung überprüfte und sich versicherte, dass wir vollkommen zufrieden sind. Dieses Unternehmen können wir sehr empfehlen! Herzlichen Dank nochmals an Jamail und Marko!!",
+        "time": 1755767105,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Simon Treis",
+        "author_photo": "/images/reviews/maler-und-gipsergeschaeft-marko-jagustin-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute und saubere Arbeit. Hat alles zuverlässig erledigt während wir in den Ferien waren -  hat auch Fotoupdates zu den Malerarbeiten geschickt. Preis/Leistung auch perfekt!",
+        "time": 1757448863,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "M Schwarb",
+        "author_photo": "/images/reviews/maler-und-gipsergeschaeft-marko-jagustin-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super professionelle Arbeit. Sehr schnell und unkompliziert. Ich würde wieder mit Marko arbeiten!",
+        "time": 1756968764,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Jasmin Heim",
+        "author_photo": "/images/reviews/maler-und-gipsergeschaeft-marko-jagustin-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "\"Preis-Leistung stimmt absolut! Die Zusammenarbeit war unkompliziert und effizient. Der Maler hat ein hervorragendes Ergebnis erzielt – sehr zufrieden, gerne wieder!\"",
+        "time": 1733835727,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

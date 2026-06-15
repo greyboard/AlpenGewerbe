@@ -26,5 +26,31 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPyqvQzD4jkcR2zItua_m4SI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Hans Erb",
+        "author_photo": "/images/reviews/roesti-bedachungen-ag-zweisimmen/reviewer_1.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1582993456,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

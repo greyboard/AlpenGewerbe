@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqdiKY9M7kEcRH-dNZd5vxiE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–11:45 Uhr",
+    "Mittwoch: 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Greg Stroman",
+        "author_photo": "/images/reviews/rsk-elektro-ag-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Firma RSK-Elektro Aarau unter der Leitung von Ruben Garcia ist äusserst professionell, kompetent und absolut empfehlenswert.",
+        "time": 1778578849,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Stefan5702 Wut",
+        "author_photo": "/images/reviews/rsk-elektro-ag-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711471800,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ruben Garcia",
+        "author_photo": "/images/reviews/rsk-elektro-ag-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1706622329,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yves Ledermann",
+        "author_photo": "/images/reviews/rsk-elektro-ag-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1706622268,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJiVMhPvrxmkcR-cLLgRF4kqA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:15 Uhr",
+    "Dienstag: 07:00–17:15 Uhr",
+    "Mittwoch: 07:00–17:15 Uhr",
+    "Donnerstag: 07:00–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Paul Pruss",
+        "author_photo": "/images/reviews/schadegg-schreinerwerk-ag-weinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hiermit möchten wir festhalten, dass meine Frau Silke Pruss und ich Paul Pruss, keinerlei negative Bewertungen über die Fa. Brüschwiler & Schadegg abgegeben haben. Wir distanzieren uns von obrige Bewertung mit einem Stern, diese Fakebewertung und nicht von uns. In Absprache mit der Fa. Brüschwiler & Schadegg haben wir polizeiliche Schritte eingeleitet. Wir sind mir der Fa. Brüschwiler & Schadegg sehr zufrieden und können die Firma nur weiterempfehlen.",
+        "time": 1528283635,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Dänu",
+        "author_photo": "/images/reviews/schadegg-schreinerwerk-ag-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben Diverse Möbelstücke bei der Firma Schadegg machen lassen. Die Qualität ist 1A und die Beratung durch Roger Schadegg sehr professionell. Jederzeit wieder...",
+        "time": 1696258003,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marcel 81",
+        "author_photo": "/images/reviews/schadegg-schreinerwerk-ag-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top qualität, top service, top beratung.\nWir haben die küche, badezimmer, garderobe, reduit und ankleide von der firma schadegg schreinerhandwerk schreinern lassen, alles perfekt und sehr sauber ausgeführt zu einem fairen preis.\nDanke an das ganze team.",
+        "time": 1645086285,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Raphael Tanner",
+        "author_photo": "/images/reviews/schadegg-schreinerwerk-ag-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die verstehen Ihr Handwerk\nWir haben ein wunderschönes und einzigartiges Regal für unsere Küche erhalten. Vielen Dank",
+        "time": 1737394742,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pascal Kühnis",
+        "author_photo": "/images/reviews/schadegg-schreinerwerk-ag-weinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr netter Kontakt zu Martin Brüschweiler und Florian Vollenweider. Kompetente, schnelle und seriöse Arbeit. Vielen herzlichen Dank!",
+        "time": 1535550649,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

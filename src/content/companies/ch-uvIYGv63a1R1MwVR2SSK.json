@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJa6cVEsU5jkcRwE-sPHflkdk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Annette Graeter",
+        "author_photo": "/images/reviews/paradiesgaerten-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gut umsetzbare Vorschläge vereinten sich mit meinen persönlichen Wünsche. Sehr aufmerksame, zuverlässige und effiziente Arbeitsweise. Was mich beeindruckte, wie sich auf kleinem Raum ein richtiges Gartenparadies aufbauen liess. Jetzt gibt es auf meiner Terrasse eine richtige Naturhecke!",
+        "time": 1762629224,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Franziska Feller",
+        "author_photo": "/images/reviews/paradiesgaerten-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Persönlich, kreativ, sympathisch, anpackig und einfach DIE Gartenfachleute! Mit ihnen wird dein Garten zum eigenen Paradiesgarten!",
+        "time": 1770566006,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Eliane Meister",
+        "author_photo": "/images/reviews/paradiesgaerten-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuerst ein herzliches Dankeschön.  Unser Garten sieht wieder wie neu aus.\nPerfekte saubere Arbeit. Man kann euch überall empfehlen.\nDANKESCHÖN",
+        "time": 1727504871,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anna Meier",
+        "author_photo": "/images/reviews/paradiesgaerten-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super professioneller Partner für Gartengestaltung und -umsetzung. Sehr kompetent – gerne wieder 😊.",
+        "time": 1717681105,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Silja",
+        "author_photo": "/images/reviews/paradiesgaerten-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Paradiesgaerten hat die Situation gut erfasst und einen entsprechenden Gestaltungsvorschlag präsentiert!",
+        "time": 1756831978,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

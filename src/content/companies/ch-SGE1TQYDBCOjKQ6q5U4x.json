@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJUT9nAvTHhUcR7Yz7hgxbUw4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–13:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Katharina Ineichen-Dietschi",
+        "author_photo": "/images/reviews/vetreria-beffa-sa-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein gefreuter Familienbetrieb ,  die für ihre Arbeiten gerade stehen und das sogar nach 4 Jahren.  Beffa S.A. empfehle ich sehr gerne weiter ,  Grazie Mille Team  Beffa S.A. ⭐️⭐️⭐️⭐️⭐️+",
+        "time": 1749699445,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Meier",
+        "author_photo": "/images/reviews/vetreria-beffa-sa-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Empfang, engagiertes Aufnehmen unseres Anliegens, perfekte Umsetzung, fairer Preis - und das alles, obwohl es sich nur um einen kleinen Auftrag gehandelt.",
+        "time": 1657440835,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "rené Laetsch",
+        "author_photo": "/images/reviews/vetreria-beffa-sa-losone/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Grosse und gute glaser Firma in unserer Umgebung.",
+        "time": 1632745259,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Steffi Krämer",
+        "author_photo": "/images/reviews/vetreria-beffa-sa-losone/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr sehr gute Firma",
+        "time": 1709581752,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Il Profeta",
+        "author_photo": "/images/reviews/vetreria-beffa-sa-losone/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Ich habe mich vom ersten Anruf an nicht wohl gefühlt.",
+        "time": 1771625532,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

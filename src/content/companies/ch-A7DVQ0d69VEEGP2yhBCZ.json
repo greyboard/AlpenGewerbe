@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvRWXdGeqmkcR-Y21qMwxsNg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Don Reviewleone",
+        "author_photo": "/images/reviews/landtwing-telefon-und-elektro-ag-steinhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Beratung und erstklassiger Service!\n\nDie Monteure waren äusserst aufmerksam, freundlich und haben sehr sauber gearbeitet. Elektro Landtwing kann ich bestens weiterempfehlen.\n\nVielen Dank an das gesamte Team für die tolle Arbeit!",
+        "time": 1732912308,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ralf Leschke",
+        "author_photo": "/images/reviews/landtwing-telefon-und-elektro-ag-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tumbler anschliessen\n\nIch kann die Firma Landtwing sehr empfehlen. Kompetent, schnelle Reaktion auf Anfragen, zuverlässig und zeitnah werden die Arbeiten erledigt. Ich werde die Firma Landtwing für zukünftige Elektro-Arbeiten sehr gerne wieder berücksichtigen. Besten Dank",
+        "time": 1608563010,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Markus Lang",
+        "author_photo": "/images/reviews/landtwing-telefon-und-elektro-ag-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "zuverlässig, schnell und symphatisch",
+        "time": 1656684194,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mario Janka",
+        "author_photo": "/images/reviews/landtwing-telefon-und-elektro-ag-steinhausen/reviewer_4.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1747914415,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

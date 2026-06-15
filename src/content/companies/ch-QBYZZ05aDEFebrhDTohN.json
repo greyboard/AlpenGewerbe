@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0-01ZzgZjkcRzyG2VS3KVuQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Nicolas H. B.",
+        "author_photo": "/images/reviews/elektro-betschart-home-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma bereits mehrfach beauftragt und sind jedes Mal begeistert. Sehr zuverlässige, kompetente Arbeit und reibungslose Kommunikation. Herr Betschart ist zudem äusserst sympathisch. Absolut empfehlenswert!",
+        "time": 1732544673,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "sandro bundeli",
+        "author_photo": "/images/reviews/elektro-betschart-home-biel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super freundlich, top service!!",
+        "time": 1605163465,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Meyer Urs",
+        "author_photo": "/images/reviews/elektro-betschart-home-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super arbeit,",
+        "time": 1667852289,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Aline Jaquet",
+        "author_photo": "/images/reviews/elektro-betschart-home-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Äußerst kompetent, schnell, effizient und arbeitet sehr sauber. Außerdem super freundlich – ich kann sie uneingeschränkt empfehlen. Vielen Dank für den exzellenten Service!",
+        "time": 1769530729,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jacqueline Messmer",
+        "author_photo": "/images/reviews/elektro-betschart-home-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1640335007,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

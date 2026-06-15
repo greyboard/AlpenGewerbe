@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSz33-agbm0cRI6tLo6l7cNU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "ARFI Werbetechnik",
+        "author_photo": "/images/reviews/fesigips-gmbh-rorschach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir begleiten Fesi Gips seit Anfang an und kennen ihn als sehr zuverlässigen, professionellen und unkomplizierten Kunden. Auch wenn wir selbst keine Dienstleistungen von ihm genutzt haben, erleben wir ihn als jemanden, der sauber arbeitet, klar kommuniziert und seine Abläufe im Griff hat.\n\nWir haben Fesi Gips bereits mehreren unserer Kunden empfohlen und bekommen durchweg positives Feedback. Das Team leistet starke Arbeit und die Kunden sind uns dafür dankbar.\n\nAus unserer Sicht kann man nur Gutes sagen.",
+        "time": 1764776887,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Rahil Shajnoski",
+        "author_photo": "/images/reviews/fesigips-gmbh-rorschach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Menschen mit denen die Zusammenarbeit sehr angenehm ist",
+        "time": 1764832060,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "max nono",
+        "author_photo": "/images/reviews/fesigips-gmbh-rorschach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765836817,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Elias Mitter",
+        "author_photo": "/images/reviews/fesigips-gmbh-rorschach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765300887,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Alisan -",
+        "author_photo": "/images/reviews/fesigips-gmbh-rorschach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1764775817,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJE1ocKl3JhUcRnr3E1jgpHfY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:30 Uhr",
+    "Dienstag: 08:00–18:30 Uhr",
+    "Mittwoch: 08:00–18:30 Uhr",
+    "Donnerstag: 08:00–18:30 Uhr",
+    "Freitag: 08:00–18:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Martin Brunati",
+        "author_photo": "/images/reviews/gims-piastrelle-di-goran-milenkovic-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einfach außergewöhnlich. Mir von einem Freund empfohlen, entpuppte er sich als Meister seines Fachs: Er verlegte alle Fliesen in meinem Haus (einschließlich dreier Badezimmer!) makellos und termingerecht. Er suchte stets nach den besten Lösungen und achtete auf jedes Detail. Die Arbeit wurde perfekt ausgeführt, und die Baustelle war äußerst ordentlich und sauber. Goran ist zudem ein wirklich netter Mensch. Absolut empfehlenswert.",
+        "time": 1764851426,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Andrea",
+        "author_photo": "/images/reviews/gims-piastrelle-di-goran-milenkovic-locarno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit.",
+        "time": 1738146417,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "نصرت الله رحمانی",
+        "author_photo": "/images/reviews/gims-piastrelle-di-goran-milenkovic-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777541926,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

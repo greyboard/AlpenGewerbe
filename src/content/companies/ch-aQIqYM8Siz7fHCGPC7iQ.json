@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJh-nq8B05jkcRNpwj7IQe23U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "F. Wyss",
+        "author_photo": "/images/reviews/b-f-haustechnik-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren mit den Dienstleistungen der Firma B+F Haustechnik GmbH rundum sehr zufrieden. Die Arbeiten wurden zuverlässig, fachgerecht und termingerecht ausgeführt. Wir können das Unternehmen für sämtliche Arbeiten uneingeschränkt weiterempfehlen.",
+        "time": 1771315804,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "dAn fromBerne",
+        "author_photo": "/images/reviews/b-f-haustechnik-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service und professionelle Arbeit!\n\nIch bin absolut begeistert von der Arbeit der B+F Haustechnik GmbH. Der Einbau wurde von Herrn Stettler durchgeführt, und ich kann nur sagen: Perfektion bis ins Detail! Er war nicht nur pünktlich und freundlich, sondern hat auch äußerst sorgfältig und effizient gearbeitet.\n\nVon der ersten Beratung bis zur Fertigstellung fühlte ich mich rundum gut betreut. Die Qualität der Arbeit und das Fachwissen von Herrn Stettler sind wirklich beeindruckend. Hier wird Kundenzufriedenheit großgeschrieben!\n\nIch kann B+F Haustechnik GmbH uneingeschränkt empfehlen und bedanke mich herzlich für den großartigen Service.",
+        "time": 1734079360,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "daniel loerch",
+        "author_photo": "/images/reviews/b-f-haustechnik-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unser Problem mit dem Geschirrspüler wurde von der Firma Berisha&Fuchser professionell, unkompliziert und sehr effizient gelöst. Gerne wieder bei einem Sanitärproblem!",
+        "time": 1687176618,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabian Hanselmann",
+        "author_photo": "/images/reviews/b-f-haustechnik-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hochkompetente und -effiziente Jungs. Kann man jedem nur empfehlen! :-)",
+        "time": 1738946603,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Corine Wampfler",
+        "author_photo": "/images/reviews/b-f-haustechnik-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einwandfreier Service, absolut empfehlenswert. Gerne wieder!",
+        "time": 1733750414,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

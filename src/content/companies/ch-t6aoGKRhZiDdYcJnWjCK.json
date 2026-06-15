@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJibACSMC5kUcR8fmVBTPzUYc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Christoph Streib",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjUxySOJW8mGdomxckEOy4r39aqWKuJ92mXPrYiznenRB7CK-CUTCw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "text": "Handwerk und Service erster Güte!\nAus traurigem Familienanlass musste ich das Elternhaus räumen. Die Aussteuer in Form von handgefertigten Kästen, Möbel und Holz-Accessoires aus dem Familienkreis (auch ein Schreiner) haben 60 Jahre auf dem Buckel. Viel zu schade zu entsorgen. Also: auffrischen und neu aufstellen und weiter in Ehren halten. Die Beratung - vor Ort - die zuverlässige Abholung haben mich sehr beeindruckt. Empathie, effizient und rücksichtsvoll wurden die Stücke pünktlich zum vereinbarten Termin abgeholt. Ich bin aufs Resultat gespannt und freue mich gerne wieder Schreinerarbeiten vom Profi ausführen zu lassen. Unternehmer wie es sein sollte. Zufriedene Kunden dürfen das auch gerne weitergeben. Weiterhin alles Gute und weiter so!",
+        "time": 1716972457,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nic Anonymus",
+        "author_photo": "/images/reviews/schreinerei-voellmy-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit von der Schreinerei Voellmy. Netter Empfang und Besprechung unserer Wünsche, danach wurden die Arbeiten wunderschön umgesetzt. Beim nächsten Mal wende ich mich wieder an Voellmy.",
+        "time": 1665152925,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrick Müller",
+        "author_photo": "/images/reviews/schreinerei-voellmy-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Voellmy + Co. ist die Firma wenn es um den Innenausbau geht. Sehr vielseitiges Angebot von Restaurationen über Küchenbau, Schrankbau und Brandschutz. Bin jedes mal mehr als zufrieden. Daher fünf Sterne.",
+        "time": 1306749124,
+        "relative_time_description": "vor 15 Jahren"
+      },
+      {
+        "author_name": "André Hildebrandt",
+        "author_photo": "/images/reviews/schreinerei-voellmy-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Reparaturarbeiten an einer vermurksten Tür. Der Monteur hat spontan sogar noch ein weiteres Problem behoben. Wir sind absolut zufrieden. Danke nochmals.",
+        "time": 1487035838,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Antigona Jusufi",
+        "author_photo": "/images/reviews/schreinerei-voellmy-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super freundliches Personal. Bin sehr zufrieden. Danke nochmals!",
+        "time": 1671635508,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

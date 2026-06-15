@@ -1,7 +1,7 @@
 {
   "id": "ch-3N4v7wLLnTuGul0UdJJ9",
   "slug": "botanic-garden-st-gallen-st-gallen",
-  "name": "Botanic Garden St. Gallen",
+  "name": "Botanischer Garten",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-xiQOYwem0cRX0qL6iaDhaU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: 08:00–17:00 Uhr",
+    "Sonntag: 08:00–17:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 992,
+    "reviews": [
+      {
+        "author_name": "Elke Kronester",
+        "author_photo": "/images/reviews/botanic-garden-st-gallen-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "★★★★★\n\nDer Botanischer Garten St. Gallen hat uns total gut gefallen. Wunderschöne Blumen, interessante Gewächshäuser und alles sehr liebevoll angelegt. Besonders toll: Der Eintritt ist kostenlos. Klare Empfehlung!",
+        "time": 1778846828,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Julija Stößl",
+        "author_photo": "/images/reviews/botanic-garden-st-gallen-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In diesem Garten sind viel exotische Pflanzen. Ich bin begeistert 🤩.\nLeider gibt es auch kranke(mit Parasiten, genau mit Schmierlaus) Pflanzen. Ich kenne mich mit Phalaenopsis aus. Und leider muss ich sagen, dass diese Pflanze wird ohne Behandlung nicht überleben. Ich hoffe sehr, das diese Bewertung wird von einem Mitarbeiter gelesen sein. Sonst diese Orchidee gat selber kein Chance zum Überleben und natürlicherweise wird die andere Pflanzen auch anstecken. Ich habe mit der kranke Pflanze ein deutliches Foto gemacht.",
+        "time": 1756651665,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Jutta Fischel",
+        "author_photo": "/images/reviews/botanic-garden-st-gallen-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr schöner, gut gepflegter Botanischer Garten!  Ausgezeichnete, gut verständlich botanische Beschreibungen. Es gibt vielfältig gestaltete und bepflanzte Ecken zu entdecken. Ein herrlicher Platz, um ein paar schöne entspannte Stunden zu verbringen und gleichzeitig allerhand Wissenswertes zu lernen.",
+        "time": 1752145590,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Patrick Filser",
+        "author_photo": "/images/reviews/botanic-garden-st-gallen-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "So etwas schönes hab ich noch nie gesehen.\nVerschiedene Pflanzen und Baumarten nach Kontinenten aufgeteilt. Die Tropenhäuser sind grandios. Von Orchideen bis Kakteen sieht man hier alles. Aber aufgepasst wer genau hinsieht, findet Geckos in Maßen die alle frei jagen.\nIm Ganzen ein schöner Botanischer Garten, welcher einzigartig ist.\nAuch waren wir überrascht, dass der Eintritt gratis ist.\nKlare Empfehlung.",
+        "time": 1744391054,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jeanette Bless",
+        "author_photo": "/images/reviews/botanic-garden-st-gallen-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben an einer Führung während der Museumsnacht teilgenommen. Die Führung war sehr interessant und wir hatten das Glück eine blühende Drachenfrucht zu sehen. Und  im Tropenhaus hörte man unzählige Antillische Pfeiffrösche. Ein wunderbares Erlebnis! 🥰",
+        "time": 1758286063,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJwWRWPFz7j0cRyNL7TIjKFWA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Barbara Schmeder",
+        "author_photo": "/images/reviews/zemp-sanitaer-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service!\nBoiler Entkalkung in der Wohnung. Anspruchsvoll!\nSuper gemacht! Freundlich, Zuvorkommend, Professionell.\nVielen Dank\n\nWir freuen uns auf die nächste in 4 - 5 Jahren.\n\nFamilie Schmeder\nAn der kleinen Emme 6\n6014 Luzern",
+        "time": 1778085010,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Basilisk 71",
+        "author_photo": "/images/reviews/zemp-sanitaer-ag-luzern/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Im grossen und ganzen ist alles bestens. Freundliche und Kompetente Mitarbeiter. Leider wird man sehr kurzfristig informiert wenn das Wasser geplant abgestellt wird.",
+        "time": 1757712088,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Biinchen92",
+        "author_photo": "/images/reviews/zemp-sanitaer-ag-luzern/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Super schnell, aber achtung bei Mietwohnungen wird man schnell  über den Tisch gezogen!!! Vorsicht! Egal wie dringlich erst dringlich eine offerte Verlangen!!!!",
+        "time": 1706773648,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sa",
+        "author_photo": "/images/reviews/zemp-sanitaer-ag-luzern/reviewer_4.jpg",
+        "rating": 2,
+        "text": "Service gut aber bei der Rechnung wurde zuviel verrechnet (nicht so abgemacht vorab am Telefon). Kamen minim entgegen. Würde es nicht mehr in Anspruch nehmen.",
+        "time": 1590305265,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "K A",
+        "author_photo": "/images/reviews/zemp-sanitaer-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches Team.\nSehr gute Dienstleistung und Service.\n\nKann ich nur empfehlen.",
+        "time": 1570791284,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

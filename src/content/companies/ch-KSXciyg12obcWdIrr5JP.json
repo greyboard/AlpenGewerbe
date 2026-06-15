@@ -26,5 +26,30 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJSzG06ok5jkcRYoFEvmrDUhE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Ursula Baour",
+        "author_photo": "/images/reviews/stettler-kunstglaserei-glasmalerei-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle und interessante Glaskunst!",
+        "time": 1637166989,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stettler Vincent",
+        "author_photo": "/images/reviews/stettler-kunstglaserei-glasmalerei-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1568110605,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

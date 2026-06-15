@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ37wObMhujkcR0LFIlICW0wQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Tim Gulpinar",
+        "author_photo": "/images/reviews/cossa-cotting-sanitaires-sa-granges-paccot/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Nur fr. und kein de🤔",
+        "time": 1648828335,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Loïc Gremaud",
+        "author_photo": "/images/reviews/cossa-cotting-sanitaires-sa-granges-paccot/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes Sanitärunternehmen im Kanton Freiburg. Schneller, effizienter und äußerst professioneller Kontakt.\n\nDer Service war erstklassig, mit exzellenter Beratung zu Installationen und möglichen Verbesserungen. Auch die Nachbetreuung war professionell.\n\nBesonders hervorzuheben ist die familiäre Atmosphäre, die sich in der hervorragenden Kommunikation mit der Geschäftsleitung und den Teams widerspiegelt.\n\nVielen Dank an Cossa Sanitaires SA für diesen herausragenden Service!",
+        "time": 1774805268,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Sarah Guldimann",
+        "author_photo": "/images/reviews/cossa-cotting-sanitaires-sa-granges-paccot/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann COSSA SA uneingeschränkt empfehlen! Ein Sanitärbetrieb mit vorbildlicher Professionalität. Das Team ist zuverlässig, pünktlich und äußerst kompetent. Die Arbeiten werden sorgfältig, präzise und mit hochwertigen Materialien ausgeführt.\n\nMan spürt sofort die Ernsthaftigkeit und Erfahrung, die hinter jedem Auftrag stecken. Die Beratung ist klar, ehrlich und auf die Bedürfnisse des Kunden zugeschnitten. Neben ihrer Effizienz sind sie freundlich und aufmerksam, was die Zusammenarbeit noch angenehmer macht.\n\nEinwandfreier Service von Anfang bis Ende. Ein großes Lob an das gesamte Team von COSSA SA für die hervorragende Arbeit! 👏",
+        "time": 1771413458,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Naëli Bapst",
+        "author_photo": "/images/reviews/cossa-cotting-sanitaires-sa-granges-paccot/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Erstklassige Klempnerfirma! Sorgfältige Arbeit, professionelles und hilfsbereites Team. Schneller Service und einwandfreie Ergebnisse. Absolut empfehlenswert! 👍",
+        "time": 1771839138,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Apreda Maria",
+        "author_photo": "/images/reviews/cossa-cotting-sanitaires-sa-granges-paccot/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Warmwasserbereiter in meinem Friseursalon war kaputt, aber die Reparatur ging schnell vonstatten, und die Mitarbeiter waren verständnisvoll und effizient.\nVielen Dank an Cossa.",
+        "time": 1771866688,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

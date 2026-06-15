@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJKzzTdBhUhUcRRHKBJ4y2tLI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Georg Goge",
+        "author_photo": "/images/reviews/schreiner-annen-arth-arth/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Geile Arbeit, super Handlauf montiert inkl. feintuning.",
+        "time": 1777307854,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Andrés Abellán Lozano",
+        "author_photo": "/images/reviews/schreiner-annen-arth-arth/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1693143706,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Armin Hürlimann",
+        "author_photo": "/images/reviews/schreiner-annen-arth-arth/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575160664,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

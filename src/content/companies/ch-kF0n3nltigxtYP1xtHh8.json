@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJZdO7nTcYjkcRC7A9RBV8IP0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Fabian Engeli",
+        "author_photo": "/images/reviews/rgt-stahlbau-ag-kappelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit der Firma RGT Stahlbau diverse Projekte durchgeführt, immer in vollster Zufriedenheit. Kompetent und Kundenorientiert.",
+        "time": 1772039066,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Larissa Aebersold",
+        "author_photo": "/images/reviews/rgt-stahlbau-ag-kappelen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1760009453,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Can Tulcali",
+        "author_photo": "/images/reviews/rgt-stahlbau-ag-kappelen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1582023553,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marc Brunner",
+        "author_photo": "/images/reviews/rgt-stahlbau-ag-kappelen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580551765,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

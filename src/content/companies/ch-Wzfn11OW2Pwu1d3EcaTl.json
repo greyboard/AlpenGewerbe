@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJF4537172mkcRDXVIOLq8yec",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Christoph Gäng",
+        "author_photo": "/images/reviews/konstanzer-glashandel-gmbh-konstanz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin rundum begeistert! Vom ersten Kontakt bis zur Montage lief alles absolut reibungslos. Die Kommunikation war freundlich, transparent und schnell. Besonders hervorheben möchte ich das sehr sympathische Montage-Team – pünktlich, kompetent und äußerst freundlich. Die Qualität der Arbeit ist einwandfrei und der Preis absolut gerechtfertigt.\n\nAuch der Kontakt mit dem Geschäftsführer war hervorragend: Beim persönlichen Gespräch zum Aufmaß wurde ich herzlich empfangen und mir wurde sofort ein Getränk angeboten – eine kleine Geste, die viel über die Kundenorientierung aussagt. Hier fühlt man sich als Kunde wirklich wertgeschätzt.\nKlare Weiterempfehlung!",
+        "time": 1745852194,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Melina Trash",
+        "author_photo": "/images/reviews/konstanzer-glashandel-gmbh-konstanz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben eine sehr gute Erfahrung mit dem Konstanzer Glashandel gemacht:\nVon der Kommunikation, der Organisation über das Angebot bis hin zur Umsetzung sind wir von der Qualität begeistert.\n\nIch kann den Konstanzer Glashandel darum zu 100 % empfehlen.\n\nVielen Dank für die tolle Duschkabine. Wir freuen uns jeden Tag daran! 🙌🏼🎉",
+        "time": 1769592621,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Katrin Hauck",
+        "author_photo": "/images/reviews/konstanzer-glashandel-gmbh-konstanz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben dort zwei sehr große LED-Spiegel für unsere Beiden Bäder maßanfertigen lassen. Das Ergebnis ist einfach toll! Toller Service, klasse Montage-Team.....jederzeit wieder. Sehr zu empfehlen!",
+        "time": 1776441864,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Alla Gut",
+        "author_photo": "/images/reviews/konstanzer-glashandel-gmbh-konstanz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Beratung, Top Ausführung, kompetentes freundliches Team, reibungsloser Ablauf.\nNur zu empfehlen und gerne wieder, egal ob einfache Glasplatte oder die komplette Duschkabine.",
+        "time": 1770216328,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Mathias Mendler",
+        "author_photo": "/images/reviews/konstanzer-glashandel-gmbh-konstanz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir waren das erste mal beim Konstanzer Glashandel haben uns ein ESG Spionspiegelglas bestellt. Vom Aufmaß bis zur Montage ist alles perfekt gelaufen, so muß Handwerk funktionieren. Unser  Ansprechpartner Herr Reiss hat sich um alles sehr professionell gekümmert hat, herzlichen Dank dafür es hat Spaß gemacht mit Ihnen zusammen dieses Projekt zu verwirklichen.\n\nWir kommen sicher wieder zu Ihnen.\n\nMit freundlichen Grüßen\nFam. Mendler",
+        "time": 1766746272,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7WP8vxaSj0cRjDy9m7-SIdk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Sämi Zumstein",
+        "author_photo": "/images/reviews/neue-holzbau-ag-innovative-und-nachhaltige-loesungen-im-ingenieurholzbau-lungern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dei neue Holzbau AG hat uns wesentlich beim Bau der neuen Werkhalle unterstützt.\nEngineering, Tragwerkstplanung, Herstellung, Abbund und Lieferung vom ganzen Tragwerk inkl. GSA-Verbindungen.\nTop Beratung und Ausführung, tadellose Zusammenarbeit und Koordination mit den beteiligten Handwerkern, Bauleitung und Bauherrschaft..... besten Dank",
+        "time": 1667203238,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Віталій «Хатабич»",
+        "author_photo": "/images/reviews/neue-holzbau-ag-innovative-und-nachhaltige-loesungen-im-ingenieurholzbau-lungern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Ware wurde geliefert!\nHervorragendes und zügiges Entladen!\nEs gibt keinen Parkplatz, nur einen einzigen Stellplatz ausschließlich für den Entladevorgang!",
+        "time": 1743674792,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "B130AMV AMV EUROTRANSLOG",
+        "author_photo": "/images/reviews/neue-holzbau-ag-innovative-und-nachhaltige-loesungen-im-ingenieurholzbau-lungern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Leicht erreichbar, wunderschöne Gegend, schneller Download, persönlich 5 Sterne",
+        "time": 1674068468,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Djordje Marjanovic [Ђорђе Марјановић]",
+        "author_photo": "/images/reviews/neue-holzbau-ag-innovative-und-nachhaltige-loesungen-im-ingenieurholzbau-lungern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1752170605,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Gordian Stapf",
+        "author_photo": "/images/reviews/neue-holzbau-ag-innovative-und-nachhaltige-loesungen-im-ingenieurholzbau-lungern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1688644918,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

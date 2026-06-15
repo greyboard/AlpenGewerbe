@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9ZkMZo43jkcRJka4nfPIv5c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–22:00 Uhr",
+    "Dienstag: 07:00–22:00 Uhr",
+    "Mittwoch: 07:00–22:00 Uhr",
+    "Donnerstag: 07:00–22:00 Uhr",
+    "Freitag: 07:00–22:00 Uhr",
+    "Samstag: 07:00–22:00 Uhr",
+    "Sonntag: 07:00–22:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Artan Omura",
+        "author_photo": "/images/reviews/steiner-feuerungen-energietechnik-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einfach top! Steiner und Feuerungen haben bei uns perfekte Arbeit geleistet – absolut professionell, sauber und termingerecht. Das ganze Team war sehr freundlich, kompetent und hilfsbereit. Man fühlt sich sofort gut aufgehoben und merkt, dass hier mit Herz und Verstand gearbeitet wird. Vielen Dank für den super Service – absolut empfehlenswert!”",
+        "time": 1745414777,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ueli Stucki",
+        "author_photo": "/images/reviews/steiner-feuerungen-energietechnik-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir bedanken uns bei der Firma Steiner Feuerungen für die ausgeführten Arbeiten an unserem Heizsystem. Wir empfehlen diese Firma und Herr Lottaz gerne weiter.",
+        "time": 1506413201,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "René Stirnimann",
+        "author_photo": "/images/reviews/steiner-feuerungen-energietechnik-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Feuerungsfachmann, freundlich und effizient; vielen Dank.\nSehr empfehlenswert.",
+        "time": 1617695018,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jani Jeanneret",
+        "author_photo": "/images/reviews/steiner-feuerungen-energietechnik-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Service und sehr freundlich und kompetent. Kann ich nur empfehlen.",
+        "time": 1698490461,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Manuela Müller",
+        "author_photo": "/images/reviews/steiner-feuerungen-energietechnik-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service",
+        "time": 1549399960,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

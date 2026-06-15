@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJv8wp9L8gjkcR_tmY5jk6cmw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Barbara Flury",
+        "author_photo": "/images/reviews/werder-elektro-ag-grenchen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Azevedo war sehr freundlich und hilfsbereit. Top-Beratung und rasche Montage der Lampen. Sehr empfehlenswert",
+        "time": 1778921168,
+        "relative_time_description": "vor 4 Wochen"
+      },
+      {
+        "author_name": "Marc Häfliger",
+        "author_photo": "/images/reviews/werder-elektro-ag-grenchen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an die Firma für die Unterstützung in Bettlach. Das einzige Unternehmen, das sich unserem Problem annahm und uns bis zum Schluss unterstützte. Herr Elsom de Azevedo war ein sehr angenehmer, hochkompetenter Helfer in Not. Ich kann dieses Unternehmen wärmstens empfehlen.",
+        "time": 1763289991,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Pierre Schorro",
+        "author_photo": "/images/reviews/werder-elektro-ag-grenchen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent , Flexibel, Schnell. Top Service. Diese Firma kann ich nur empfehlen.",
+        "time": 1679403145,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sauvain Beschriftungen",
+        "author_photo": "/images/reviews/werder-elektro-ag-grenchen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Stets korrekt, zuverlässig und ehrlich. Kann Werder Elektro AG nur empfehlen.",
+        "time": 1608210722,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Rony Rüfenacht",
+        "author_photo": "/images/reviews/werder-elektro-ag-grenchen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Elektrofachkompetenz am Jurasüdfuss. Ehrlich, kompetent und zeitgerecht wird der Job erledigt. Vielen Dank !",
+        "time": 1493947797,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

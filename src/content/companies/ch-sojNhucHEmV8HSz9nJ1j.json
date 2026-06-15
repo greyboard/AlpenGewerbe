@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJtyzpaPq5kUcRSTA8wn3IUXw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: 08:00–14:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Alona Khomenko",
+        "author_photo": "/images/reviews/faam-gmbh-platten-und-natursteinhandel-allschwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte mich ganz herzlich für die hervorragende Arbeit bedanken! Die Fliesen wurden schnell, sauber und professionell verlegt. Besonders beeindruckt hat mich, dass der Handwerker sehr gut zuhört, auf Ideen eingeht und einem förmlich die Wünsche von den Augen abliest. Ich bin mit dem Ergebnis mehr als zufrieden und kann ihn wärmstens weiterempfehlen!",
+        "time": 1756484446,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Manfred Seeberger",
+        "author_photo": "/images/reviews/faam-gmbh-platten-und-natursteinhandel-allschwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "100% Kunden-Orientierung und 100% Engagement von Herrn Fink von FAAM: als die von uns bestellten Keramikplatten in der ersten in Aussicht gestellten Woche nicht aus Spanien geliefert wurden und in der darauf folgenden Woche das falsche Produkt bei FAAM eintraf, holte Herr Fink die Keramikplatten für unsere Chalet-Renovation im Wallis selber in Spanien ab. Nur dank diesem grossen Engagement von Herrn Fink wird unser Chalet rechtzeitig für die Weihnachtsferien bezugsbereit - danke Herr Fink!\n100% Empfehlung für Herrn Fink, 100% Empfehlung für FAAM!",
+        "time": 1702745556,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Fröhlich",
+        "author_photo": "/images/reviews/faam-gmbh-platten-und-natursteinhandel-allschwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, Termingerecht, zuverlässig , preisleistungfehr und flexibel.",
+        "time": 1756478793,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Andreas Rings",
+        "author_photo": "/images/reviews/faam-gmbh-platten-und-natursteinhandel-allschwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "👍🏻",
+        "time": 1699712754,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Peter Brassel",
+        "author_photo": "/images/reviews/faam-gmbh-platten-und-natursteinhandel-allschwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699268621,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-5P8DRy0lCmZoSkcy0zfD",
   "slug": "toitures-ferblanterie-fribourgeoise-fribourg",
-  "name": "Toitures & Ferblanterie Fribourgeoise",
+  "name": "SARL de Couverture",
   "branchen": [
     "dachdecker"
   ],
@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ970AplkhS4QRzE8sAvujM64",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "Ariane Quenum",
+        "author_photo": "/images/reviews/toitures-ferblanterie-fribourgeoise-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma SARL de Couverture hat die Moosentfernung auf unserem Dach durchgeführt, und das Ergebnis war perfekt. Die Techniker sind sehr kompetent und haben die Baustelle sauber hinterlassen. Erstklassiger Service!",
+        "time": 1722617033,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Edjrossè Fiacre DOSSOU",
+        "author_photo": "/images/reviews/toitures-ferblanterie-fribourgeoise-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In Freiburg haben wir uns entschieden, die Sanierung unseres Daches der SARL de Couverture anzuvertrauen. Dies war unsere erste Erfahrung mit ihrem Team und wir wurden nicht enttäuscht. Sie zeigten große Professionalität und Fachkompetenz. Das Ergebnis ist perfekt.",
+        "time": 1722080693,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Siméon Ahoyesso",
+        "author_photo": "/images/reviews/toitures-ferblanterie-fribourgeoise-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe mit SARL de Couverture im Bereich Blechbearbeitung hervorragende Erfahrungen gemacht. Das Team war hilfsbereit, professionell und die Arbeit war tadellos. Ich kann sie uneingeschränkt empfehlen!",
+        "time": 1722519914,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Khalil Tabsoba",
+        "author_photo": "/images/reviews/toitures-ferblanterie-fribourgeoise-fribourg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "SARL de Couverture hat unser Dach mit modernen Techniken und hochwertigen Materialien saniert. Wir waren von ihrer Effizienz und Detailgenauigkeit beeindruckt. Wir können sie für alle Dacharbeiten wärmstens empfehlen.",
+        "time": 1721814442,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Armand Vitouley",
+        "author_photo": "/images/reviews/toitures-ferblanterie-fribourgeoise-fribourg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Firma SARL de Couverture hat meine Dachrinnen in Fribourg hervorragend installiert. Die Arbeiten wurden sauber ausgeführt, das Team war professionell und pünktlich. Ich bin mit dem Ergebnis sehr zufrieden.",
+        "time": 1722332575,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

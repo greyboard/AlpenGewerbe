@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1crQhtg7jkcRmKTsAaufbXM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–11:30 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marie-Louise Fehlmann",
+        "author_photo": "/images/reviews/bruno-tschanz-ag-saeriswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit unserem neuen Vinylboden. Die professionelle Beratung, die zeitnahe Planung, die exakte, sorgfältige Ausführung waren einfach top! Hier wird noch mit Stolz und Herzblut für dieses Handwerk gearbeitet. Alle involvierten Personen waren äusserst freundlich! Wir können die Firma wärmstens empfehlen!",
+        "time": 1769016685,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Melanie Fisler",
+        "author_photo": "/images/reviews/bruno-tschanz-ag-saeriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Rundum zufrieden: Sehr freundliche Mitarbeiter, top Arbeit geleistet (Effizienz und Resultat)",
+        "time": 1722793720,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudine Chiquet",
+        "author_photo": "/images/reviews/bruno-tschanz-ag-saeriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden. Sehr guter Service,  gute Arbeit und sehr sympathische Mitarbeiter! Vielen Dank für die tolle Arbeit!",
+        "time": 1654012047,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fred Ketterer",
+        "author_photo": "/images/reviews/bruno-tschanz-ag-saeriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Adresse für Bodenbeläge. Fachmännische Beratung und Ausführung.",
+        "time": 1658939050,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Samuel Fischer",
+        "author_photo": "/images/reviews/bruno-tschanz-ag-saeriswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank",
+        "time": 1569412086,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

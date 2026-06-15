@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJv313khvHkUcRovUG-RwtvLs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Ernst",
+        "author_photo": "/images/reviews/stoecklin-zimmerei-ag-ettingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, alles hat gut geklappt. Freundlich, pünktlich und sauber gearbeitet. Bin sehr zufrieden und kann die Zimmerei Stöcklin AG weiterempfehlen.",
+        "time": 1762427078,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Fabio Greter",
+        "author_photo": "/images/reviews/stoecklin-zimmerei-ag-ettingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit und absolute Zuverlässigkeit!\nVon der ersten Kontaktaufnahme bis zur Fertigstellung unseres Projekts lief alles reibungslos. Die Offerte war schnell da, klar verständlich und fair kalkuliert. Die Arbeiter kamen pünktlich, waren professionell und hinterliessen die Baustelle sauberer, als sie sie vorgefunden hatten. Nach mehreren positiven Erfahrungen mit der Firma, kann ich mit Überzeugung sagen: Qualität hat ihren Preis, aber hier stimmt das Preis-Leistungsverhältnis absolut. Ich empfehle die Zimmerei Stöcklin AG mit Freude weiter.",
+        "time": 1741870582,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Max Kilcher",
+        "author_photo": "/images/reviews/stoecklin-zimmerei-ag-ettingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben mit der Firma Stöcklin einen Fachmann bekommen. Ein Telefon am Morgen und schon am Mittag hatte jemand Zeit um die Sache zu besichtigen. 2 Tage später war die Offerte da und auch die Umsetzung hat wunderbar geklappt. Kann die Firma also empfehlen.",
+        "time": 1706952638,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sa Rina",
+        "author_photo": "/images/reviews/stoecklin-zimmerei-ag-ettingen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Reparatur Carport\n\nSie haben nicht geklingelt und sind einfach in den Garten. Durch den Umbau hatten wir viele Handwerker. Alle auch wen Sie angemeldet waren haben geklingelt um Bescheid zu geben. Die ganzen Platten sind stark verschmutzt und wurden nicht geputzt. Das musste ich selber den ganzen Morgen erledigen.",
+        "time": 1687088510,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roger Schaad",
+        "author_photo": "/images/reviews/stoecklin-zimmerei-ag-ettingen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Wir haben Deckbretter wechseln lassen, na ja es wurde stückweise ersetzt na gut. Aber was diese Arbeit kostete ist ein sehr schlechtes Preis Leistung Verhältnisse ich empfehle diese Firma nicht.",
+        "time": 1687088841,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

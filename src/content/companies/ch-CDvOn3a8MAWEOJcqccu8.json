@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJt6rf-9ntmkcRL-vsLirLliQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Marcio Lopes",
+        "author_photo": "/images/reviews/oliveira-pais-gipsergeschaeft-maerwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fassade neu verputzt! Herr Pais hat die Arbeit zu meiner vollsten Zufriedenheit erledigt.! Wer einen motivierten, hilfsbereiten und fleissigen Gipser sucht ist bei O.Pais genau richtig.",
+        "time": 1726502548,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Willi Kocher",
+        "author_photo": "/images/reviews/oliveira-pais-gipsergeschaeft-maerwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgeführte Arbeiten: Renovation von zwei Zimmern und Anstrich von Teilen der Aussenfassade.\nAusgezeichnete Beratung im Vorfeld, speziell auch für die Isolation des Rolladenkastens. Termingerechte Ausführung in bester Qualität unter Einhaltung der Kosten. Auch anfallende Regiearbeiten wurden zu sehr moderaten Preisen ausgeführt.\nWir schätzten auch die sehr freundliche, geduldige und kompetente Art im Umgang mit uns sehr. Für unsere weiteren Renovationen werden wir Herrn Pais gerne wieder beauftragen.",
+        "time": 1635440971,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sam Seven",
+        "author_photo": "/images/reviews/oliveira-pais-gipsergeschaeft-maerwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Arbeit zur Isolation Keller gegen Erdreich und Decke. A.Pais hat die Arbeit zur vollsten Zufriedenheit ausgeführt, termingerecht und immer mit bester Kommunikation. Die Arbeitsflächen waren auch immer besten organisiert und am Abend sauber und ordentlich aufgeräumt.",
+        "time": 1703683326,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sibylle Disteli",
+        "author_photo": "/images/reviews/oliveira-pais-gipsergeschaeft-maerwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Pais ist ein sehr gewissenhafter, sorgfältiger, ordentlicher und ausgesprochen zuverlässiger Arbeiter. Die Arbeiten hat er stets zu unserer besten Zufriedenheit erledigt, weshalb wir ihn sehr empfehlen können.\nPhilipp Berni und Sibylle Disteli Berni in Elsau",
+        "time": 1680711892,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Walter Samuel Bösch",
+        "author_photo": "/images/reviews/oliveira-pais-gipsergeschaeft-maerwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragendes Fachgeschäft, fachkundig, modern, kundenfreundlich, kostengerecht. Beherrscht alle Bereiche seines Berufsgattung und erledigt auch zuverlässig Malerarbeiten. 1",
+        "time": 1598387123,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

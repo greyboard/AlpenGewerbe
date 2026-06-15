@@ -26,5 +26,39 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJQUiEzcj7j0cR5t45nyhcBCQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Fatlind Lulaj",
+        "author_photo": "/images/reviews/leon-platten-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1738060766,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Caterina",
+        "author_photo": "/images/reviews/leon-platten-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1738060519,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJQ6s4q1vYkUcRvAQ_uBEpgWI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Stefan Zosso",
+        "author_photo": "/images/reviews/adam-schreinerei-ag-oberdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Brigitte und Stefan Zosso\nEin kleiner Auftrag, mit einem grossen Effekt!\nWir sind sehr begeistert von den Schreiner-Arbeiten der ADAM Schreinerei AG, die für unsere neue Nasszelle im Keller ausgeführt wurden.\nDie Futtertüre mit Verkleidung wurde äußerst professionell und mit viel Liebe zum Detail montiert. Sie passt perfekt in das Gesamtbild und wirkt sehr hochwertig. Besonders schätzen wir die saubere Verarbeitung und die präzise Passform, die den Raum noch ansprechender machen.\nDer Türabschluss zur Heizung wurde ebenfalls sehr sorgfältig ausgeführt. Es ist deutlich zu erkennen, dass hier mit großer Sorgfalt gearbeitet wurde, sodass alles nahtlos ineinander übergeht und keine störenden Lücken oder Unebenheiten sichtbar sind. Das sorgt für ein sehr sauberes und elegantes Erscheinungsbild.\nAuch das Kellerfenster wurde sehr fachmännisch eingebaut. Es lässt viel Licht in den Raum und sorgt für eine angenehme, helle Atmosphäre. Die Arbeiten wurden mit großer Präzision erledigt, was uns sehr beeindruckt hat.\nInsgesamt sind wir äußerst zufrieden mit der Qualität, der Zuverlässigkeit und dem sehr freundlichen Service der Mitarbeitenden. Es ist deutlich, dass hier echte Handwerkskunst und Leidenschaft für das Detail im Spiel sind. Wir können diese Schreinerei wärmstens weiterempfehlen.",
+        "time": 1748858698,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jennifer Planche",
+        "author_photo": "/images/reviews/adam-schreinerei-ag-oberdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schnell, profesionell und genau! Ich bin sehr zufrieden mit der Arbeit von Adam Schneiderei. Preis-Leistungs-Verhältnis stimmt für mich absolut, immer wieder gerne😁",
+        "time": 1777927186,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Daniel Kernen",
+        "author_photo": "/images/reviews/adam-schreinerei-ag-oberdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnell, zuverlässig, unkompliziert - auch bei Sonderanfertigungen.",
+        "time": 1516787938,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Rolf Bruegger",
+        "author_photo": "/images/reviews/adam-schreinerei-ag-oberdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Toller Service, super Firma!",
+        "time": 1557645884,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Q-si Dietschy",
+        "author_photo": "/images/reviews/adam-schreinerei-ag-oberdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1655220618,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

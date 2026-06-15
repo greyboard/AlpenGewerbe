@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJD5hJd8FZhUcRchVkTpF-SAo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Reto Huber",
+        "author_photo": "/images/reviews/baumgartner-beckenried-gmbh-beckenried/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Versteht sein Handwerk, kommt prompt und leistet perfekte Arbeit.",
+        "time": 1723214395,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ursula Hess",
+        "author_photo": "/images/reviews/baumgartner-beckenried-gmbh-beckenried/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute, kompetente und freundliche Beratung. Top Arbeit! Gerne wieder.",
+        "time": 1697618394,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Georg Murer",
+        "author_photo": "/images/reviews/baumgartner-beckenried-gmbh-beckenried/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Beratung und Installation. Zufrieden von A bis Z",
+        "time": 1722610930,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gerhard Baumgartner",
+        "author_photo": "/images/reviews/baumgartner-beckenried-gmbh-beckenried/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alles für den Sanitärbereich, freundliche Beratung und kompetente Montage sowie prompte Service- und Pannenhilfen.",
+        "time": 1606418128,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Wilhelm Tell",
+        "author_photo": "/images/reviews/baumgartner-beckenried-gmbh-beckenried/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1496941758,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

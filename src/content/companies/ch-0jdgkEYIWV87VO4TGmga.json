@@ -26,5 +26,31 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJKe46_O7XkUcRlAJ5yrH7jY4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 07:30–18:00 Uhr",
+    "Sonntag: 07:30–18:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "M. Baumann",
+        "author_photo": "/images/reviews/solotherm-waermepumpe-solothurn-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit unserer neuen Vaillant Wärmepumpe. Unsere alte Hoval Wärmepumpe war in die Jahre gekommen und musste ersetzt werden.",
+        "time": 1777620163,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

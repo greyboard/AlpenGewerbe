@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJz4b02TVAjkcRzMDeozUAmZU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Paul Lehmann",
+        "author_photo": "/images/reviews/binz-schreinerei-ag-schmitten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1635686087,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Janis Portmann",
+        "author_photo": "/images/reviews/binz-schreinerei-ag-schmitten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1687539493,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lars Döhlich",
+        "author_photo": "/images/reviews/binz-schreinerei-ag-schmitten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1687875305,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yves Gauch",
+        "author_photo": "/images/reviews/binz-schreinerei-ag-schmitten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1558296753,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

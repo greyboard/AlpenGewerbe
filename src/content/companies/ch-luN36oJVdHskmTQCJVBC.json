@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3149Rx8ZjkcRIeZY9ln_i-c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Heinz Hirt",
+        "author_photo": "/images/reviews/a-keller-glaserei-ag-bruegg/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Freundliche Bedienung. Leider musste ich 2 mal hin. Fehler in der Fabrikation. Zu empfehlen.",
+        "time": 1632813451,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Chris",
+        "author_photo": "/images/reviews/a-keller-glaserei-ag-bruegg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service, mega nettes Team. Arbeit sehr ordentlich und perfekt.",
+        "time": 1519492260,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Marlise Fuhrer",
+        "author_photo": "/images/reviews/a-keller-glaserei-ag-bruegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Rasche, kompetente Erledigung der Reparatur",
+        "time": 1624957151,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Antenen",
+        "author_photo": "/images/reviews/a-keller-glaserei-ag-bruegg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "...freundliche  Mitarbeiter mit guten Ideen",
+        "time": 1625509922,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mathias „Disu“",
+        "author_photo": "/images/reviews/a-keller-glaserei-ag-bruegg/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1742054998,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

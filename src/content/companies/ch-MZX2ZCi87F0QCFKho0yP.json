@@ -26,5 +26,31 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJMWFjXZmrmkcR0RxR6H-rXy4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Vito Provini",
+        "author_photo": "/images/reviews/naturgarten-werk-marc-styger-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und angenehme Beratung.\nEmpfehle diesen Gartenbau jedem!",
+        "time": 1770642107,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

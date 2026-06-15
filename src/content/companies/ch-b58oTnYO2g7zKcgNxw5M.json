@@ -26,5 +26,55 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJdT78PhbfjkcRmtWOv0H8AKM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jérôme Albasini",
+        "author_photo": "/images/reviews/garden-paysage-yves-favre-sa-granges/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein wirklich erstklassiges Unternehmen mit einem hohen Kundeninteresse und sehr freundlichen Mitarbeitern, die die Arbeit regelmäßig überwachen. Ich kann dieses Unternehmen für alle Ihre Projekte wärmstens empfehlen!\nVielen Dank an das gesamte Team!",
+        "time": 1597992916,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ayaan maxamed",
+        "author_photo": "/images/reviews/garden-paysage-yves-favre-sa-granges/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich liebe es",
+        "time": 1596491474,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Thaïs Naoux",
+        "author_photo": "/images/reviews/garden-paysage-yves-favre-sa-granges/reviewer_3.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1646474869,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Frédéric Masson",
+        "author_photo": "/images/reviews/garden-paysage-yves-favre-sa-granges/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1585815303,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

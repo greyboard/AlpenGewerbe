@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_8mMd7cAkEcRSqM7SeTDDZs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "igor roos",
+        "author_photo": "/images/reviews/schuler-gebaeudehuellen-ag-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Team !! Kompetenter Chef !!  Eine Firma mit Leidenschaft.",
+        "time": 1586424914,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Abel Tojeiro",
+        "author_photo": "/images/reviews/schuler-gebaeudehuellen-ag-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652724435,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hans-Ruedi Schönbächler",
+        "author_photo": "/images/reviews/schuler-gebaeudehuellen-ag-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623175860,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Lukas Portmamn",
+        "author_photo": "/images/reviews/schuler-gebaeudehuellen-ag-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1771858909,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Ilker Köksal",
+        "author_photo": "/images/reviews/schuler-gebaeudehuellen-ag-cham/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1582550759,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJf4ykvw8ajkcRvoL_eJqkOyw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Dolf A. Geisseler",
+        "author_photo": "/images/reviews/grimm-sanitaertechnik-gmbh-gerolfingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service von Herrn Pfister und absolut humane Preise. Sehr empfehlenswert.",
+        "time": 1696239478,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "shavi veda",
+        "author_photo": "/images/reviews/grimm-sanitaertechnik-gmbh-gerolfingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service. Danke",
+        "time": 1702886177,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Maggie",
+        "author_photo": "/images/reviews/grimm-sanitaertechnik-gmbh-gerolfingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schneller, kompetenter Service!",
+        "time": 1657032554,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "S Treachi",
+        "author_photo": "/images/reviews/grimm-sanitaertechnik-gmbh-gerolfingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alles super",
+        "time": 1687118609,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dominik Steiner",
+        "author_photo": "/images/reviews/grimm-sanitaertechnik-gmbh-gerolfingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1555513412,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

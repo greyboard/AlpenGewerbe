@@ -1,7 +1,7 @@
 {
   "id": "ch-OPCTRalHdQnS97e39MQB",
   "slug": "cadotsch-malergeschaeft-gmbh-savognin",
-  "name": "Cadotsch Malergeschäft GmbH",
+  "name": "Malergeschäft Cadotsch GmbH",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_zb70cuRhEcR_A7FAtiJjoE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Lydia Betschart",
+        "author_photo": "/images/reviews/cadotsch-malergeschaeft-gmbh-savognin/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundliche und kompetente Mitarbeitende. Sehr gute Beratung und Malerarbeiten in hoher Qualität ausgeführt.",
+        "time": 1775455621,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "R R",
+        "author_photo": "/images/reviews/cadotsch-malergeschaeft-gmbh-savognin/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir liessen unser Haus innen komplett streichen. (Teilweise dunkle Holzdecken - super Ergebnis) 1A Beratung.Sehr nette Mitarbeiter, speditives Arbeiten sowie top Ausführung. Kann ich sehr empfehlen. Weiter so!",
+        "time": 1664959207,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabio Profeta",
+        "author_photo": "/images/reviews/cadotsch-malergeschaeft-gmbh-savognin/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung und freundliche Mitarbeiter. Hat alles problemlos geklappt auf Termin. Jederzeit gerne wieder. Top Service 5/5 Sterne",
+        "time": 1632071109,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Juanita Demarmels",
+        "author_photo": "/images/reviews/cadotsch-malergeschaeft-gmbh-savognin/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Sehr Freundlich und Hilsbeteit",
+        "time": 1724695899,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "A. S.",
+        "author_photo": "/images/reviews/cadotsch-malergeschaeft-gmbh-savognin/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1657868071,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

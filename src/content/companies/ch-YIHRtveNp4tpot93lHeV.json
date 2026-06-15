@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJxY10pQnHhEcRZer0Y7YaW88",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Wilhelm",
+        "author_photo": "/images/reviews/knuchel-ag-chur/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Möbel-Mikado\n\nWenn Improvisation eine olympische Disziplin wäre, hätte die Schreinerei Knuchel AG Gold verdient – und zwar mit Abstand.\nIm schönen Maienfeld durften wir Zeugen eines wahren Kunstwerks des kreativen Bastelns werden. Die Montage der Garderobe wurde offenbar genau so geplant wie ein Überraschungsei: Man weiss nie, was drin ist – oder was fehlt. In unserem Fall: einige entscheidende Bestandteile. Aber hey, wer braucht schon eine vollständige Garderobe, wenn man stattdessen ein aufregendes Puzzle geliefert bekommt?\nDie Türen? Krummer als der Turm von Pisa im Wind. Die Schliessbleche? Eine völlig neue Interpretation von \"passt schon irgendwie\". Jeder Versuch, etwas zu schliessen, fühlt sich an wie ein Geduldsspiel für Fortgeschrittene.\nBesonders hervorzuheben ist der Lüftungsschrank, der aussieht, als hätte ihn jemand während eines Erdbebens zusammengebaut – mit verbundenen Augen und zwei linken Händen.\nFazit: Wer auf Flickwerk, Bastelspass und Überraschungen steht, wird bei der Knuchel AG voll auf seine Kosten kommen. Wer hingegen einfach nur Möbel will, die funktionieren... sollte sich vielleicht woanders umsehen.",
+        "time": 1752182890,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "ohboyy",
+        "author_photo": "/images/reviews/knuchel-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Schreinerei!",
+        "time": 1756224555,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Marius Mueller",
+        "author_photo": "/images/reviews/knuchel-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr sympathisch, empfehle ich weiter!",
+        "time": 1759848088,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Tomy Unkown",
+        "author_photo": "/images/reviews/knuchel-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Ansprechpartner für Verglasungen jeglicher Art, sowie für Haustüren!",
+        "time": 1637064474,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marc Berger",
+        "author_photo": "/images/reviews/knuchel-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit und faire Preise.",
+        "time": 1756455838,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

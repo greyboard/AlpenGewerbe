@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJr-x6lQHYkUcRrDytd_IUHRE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Beat Rutishauser",
+        "author_photo": "/images/reviews/lichttechnik-ludaescher-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir liessen unsere Ferienwohnung in Locarno von Lichttechnik beleuchten. Vom Konzept bis zur Einrichtung hat alles perfekt geklappt. Wir mussten keine Elektriker vor Ort engagieren, sondern alles wurde von Lichttechnik selber gemacht!",
+        "time": 1762365529,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Philipp Mühlethaler",
+        "author_photo": "/images/reviews/lichttechnik-ludaescher-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Lichttechnik Ludäscher AG war von Beginn an überzeugend. Die Beratung erfolgte kompetent und auf die spezifischen Anforderungen abgestimmt. Auch die Umsetzung verlief professionell und zuverlässig. Ein Unternehmen, das ich ohne Einschränkungen weiterempfehlen kann.",
+        "time": 1759144575,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Pascal Wertli",
+        "author_photo": "/images/reviews/lichttechnik-ludaescher-ag-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sympathisch und Lösungsorientiert. Kurze Entscheidungswege und rasche Umsetzung. Qualitativ haben mich die Arbeiten überzeugt und  das Design der verschiedenen Leuchten passen hervorragend und sind absolute Eyecatcher.",
+        "time": 1759134096,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Niklaus Schneider",
+        "author_photo": "/images/reviews/lichttechnik-ludaescher-ag-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich war vom ersten Kontakt bis zur Umsetzung rundum begeistert von der Lichttechnik Ludäscher AG. Die Beratung war sehr persönlich und professionell – man merkt sofort, dass hier echten Wert auf Qualität und individuelle Lösungen gelegt wird.\nAlles in allem eine Firma, die ich mit gutem Gewissen weiterempfehlen kann.",
+        "time": 1759134767,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Yanick Schläpfer",
+        "author_photo": "/images/reviews/lichttechnik-ludaescher-ag-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der beste Lichtplaner weit und breit!\nTop Beratung und freundliches Team.\nDie Montagen wurden immer zu meiner vollsten Zufriedenheit durchgeführt, und bei Fragen konnte stets fachlich hervorragend geholfen werden! Ich arbeite oft mit Lichttechnik Ludäscher zusammen und bin immer wieder begeistert!",
+        "time": 1721924102,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

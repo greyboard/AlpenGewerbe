@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvxVS0FULkEcRLnWYgUXxGK0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "T Dowa",
+        "author_photo": "/images/reviews/gips-solution-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert von der Arbeit dieser Maler- und Gipserfirma. Die Ausführung war einwandfrei, sehr sauber und von hoher Qualität. Die Kommunikation verlief jederzeit klar, zuverlässig und angenehm.\n\nBesonders hervorzuheben ist Herr Alberto Scriva: sehr freundlich, extrem schnell und äusserst professionell. Termine wurden kurzfristig möglich gemacht und pünktlich eingehalten.\n\nEine Firma, die man mit bestem Gewissen weiterempfehlen kann. Vielen herzlichen Dank!",
+        "time": 1768385202,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Jona Stutzer",
+        "author_photo": "/images/reviews/gips-solution-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bei mir mussten mehrer Löcher in der Wand zugemacht werden. Dies wurde von Gips Solution kurzfristig übernommen. Der Gipser kam pünktlich, war freundlich und löste mein Problem zu einem guten Preis. Die Wand sieht wieder wunderbar aus.",
+        "time": 1667809872,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Devne Jones",
+        "author_photo": "/images/reviews/gips-solution-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Etabliertes Unternehmen mit professionellen und motivierten Experten. Wir wurden sehr schnell und sehr gut beraten - die Offerte folgte unmittelbar nach dem ersten Gespräch, die abgestimmte Preis-/Leistungsverhältnisse sind sehr kundenfreundlich. Sehr empfehlenswert.",
+        "time": 1607425289,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Hai Linh Thach",
+        "author_photo": "/images/reviews/gips-solution-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Gips Solution AG hat unsere Pizzeria in Urdorf (Pizza Fitt) komplett umgebaut. Sehr professionelle Planung und Umsetztung. Vereinbarte Termine wurden auf den Tag eingehalten. Wir sind sehr zufrieden, dass wir uns auf Gips Solution verlassen durften und können sie mit bestem Gewissen weiterempfehlen.",
+        "time": 1635837805,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Johann Tschudi",
+        "author_photo": "/images/reviews/gips-solution-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Meine Erfahrung mit Gips Solution war vom ersten Kontakt über die Abwicklung des Auftrages bis hin zum Abschluss durchwegs erster Klasse!\nProfessionell und Schnell, so wie man es sich wünscht.",
+        "time": 1687503411,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

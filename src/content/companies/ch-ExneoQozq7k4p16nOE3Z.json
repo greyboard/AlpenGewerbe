@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpW3aNarhmkcRPn27pYJ_m9E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 07:30–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Brugger Kezia",
+        "author_photo": "/images/reviews/m-b-maler-renovationen-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Aus zwei grossen Zimmer mussten 4 Schlafzimmer mit jeweils einer Eingangstür inklusive Vorraum gemacht werden. Wir sind mit den ausgeführten Arbeiten rundum sehr zufrieden. Die Raumteilung mit Gipswänden, der Abrieb und Schlussanstrich sowie die Fensteranpassungen, einsetzen der Türen und Elektroinstallationen wurden sauber, professionell und termingerecht ausgeführt. Die neuen Zimmer sind sehr schön geworden und entsprechen genau unseren Vorstellungen. Die Zusammenarbeit war angenehm, zuverlässig und sehr speditiv. Sehr fairer Preis. Wir können die Firma uneingeschränkt weiterempfehlen.",
+        "time": 1768338766,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Tosic Ivana",
+        "author_photo": "/images/reviews/m-b-maler-renovationen-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Maler hat in meinem Badezimmer fantastische Arbeit geleistet. Besonders beeindruckt hat mich, wie sorgfältig abgeklebt und wie sauber der Arbeitsplatz hinterlassen wurde. Die Qualität des Anstrichs ist top. Ein sehr freundlicher Kontakt und ein faires Preis-Leistungs-Verhältnis. Vielen Dank",
+        "time": 1768902929,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Comitrans Logistics GmbH",
+        "author_photo": "/images/reviews/m-b-maler-renovationen-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut zufrieden! Ein echter Allround-Profi, der sein Handwerk versteht – egal ob Bodenbeläge, Sanitärarbeiten oder Fassaden. Die Arbeit wurde effizient, zielorientiert und zuverlässig ausgeführt. Besonders beeindruckend ist das Preis-Leistungs-Verhältnis: deutlich günstiger als viele andere Anbieter, dabei aber in keiner Weise weniger professionell. Sehr empfehlenswert!",
+        "time": 1758893499,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Denise C.",
+        "author_photo": "/images/reviews/m-b-maler-renovationen-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Toller Service, super freundlich!\nIch kann dieses Unternehmen nur weiterempfehlen!\nVielen Dank nochmals für alles.",
+        "time": 1768405794,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Monica",
+        "author_photo": "/images/reviews/m-b-maler-renovationen-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service, freundlich und unkompliziert! Kann ich nur weiter empfehlen",
+        "time": 1768311495,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

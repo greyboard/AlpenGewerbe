@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJa9Ueyv7HhEcRu9jeThWoieg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Sandor K.",
+        "author_photo": "/images/reviews/terza-sanitaer-service-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hat sich meinem Problem sofort angenommen und super schnell und sauber erledigt. Die Rechnung war sehr fair und transparent. Ich bin sehr zufrieden mit Terza - Sanitär. Kann ich unbedingt weiterempfehlen.",
+        "time": 1762180775,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Daniela Peer",
+        "author_photo": "/images/reviews/terza-sanitaer-service-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top! Es wäre schön wenn alle so arbeiten würden.\nWenn man ein gutes Preis-Leistungsverhältnis mit Langzeitwirkung erwartet, dann ist man hier richtig,",
+        "time": 1723387911,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marco kunz",
+        "author_photo": "/images/reviews/terza-sanitaer-service-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit geleistet. Kundenfreundlicher Umgang. Sehr zu empfehlen. Bis zum nächsten Auftrag",
+        "time": 1568975592,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Claudio Huber",
+        "author_photo": "/images/reviews/terza-sanitaer-service-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten in meinem Bad wurden sehr schnell und sauber ausgeführt.\nSehr empfehlenswert!",
+        "time": 1568203053,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Philipp Chresta",
+        "author_photo": "/images/reviews/terza-sanitaer-service-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service! Freundlich, schnell und sauber.",
+        "time": 1659981997,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

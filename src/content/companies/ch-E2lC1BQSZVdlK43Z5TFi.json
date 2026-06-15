@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ31zFdn4dkEcRBWs76yMM398",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 47,
+    "reviews": [
+      {
+        "author_name": "Thomas Aerni",
+        "author_photo": "/images/reviews/gebaeudetechnik-estermann-ag-weggis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super gemacht, unsere neue Luft-Wasserwärmepumpe für die neue Bodenheizung und den Wärmepumpenboiler für die Warmwasseraufbereitung in unserem frisch renovierten Einfamilienhaus. Freude bereiten uns auch das neue Gäste-WC und das kleine aber feine Badezimmer mit exklusiven Armaturen von Duravit by Starck, Hansgrohe, Newform, KWC, HKS, Keller und Schneider. Danke an Lukas Estermann und sein kompetentes Gebäudetechnikteam. Handwerk begeistert immer wieder 💪🏻👏🏻👌🏻",
+        "time": 1720800157,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Waldemar Diehl",
+        "author_photo": "/images/reviews/gebaeudetechnik-estermann-ag-weggis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich möchte gerne meine aufrichtige Wertschätzung für die ausgezeichnete Arbeit ausdrücken, die Sie bei unserem jüngsten Projekt geleistet haben. Von Anfang bis Ende war die Zusammenarbeit mit Ihrem Team äußerst professionell und effizient.\nBesonders beeindruckt hat mich die Sauberkeit, mit der das Projekt durchgeführt wurde. Ihr Team hat stets darauf geachtet, die Baustelle ordentlich zu halten, was nicht nur ein angenehmes Arbeitsumfeld geschaffen hat, sondern auch gezeigt hat, dass Sie großen Wert auf Qualität und Detailgenauigkeit legen.\nInsgesamt möchte ich Ihnen und Ihrem Team meinen herzlichsten Dank aussprechen. Es war eine wahre Freude, mit Ihnen zusammenzuarbeiten, und ich werde Ihr Unternehmen jedem wärmstens empfehlen, der qualitativ hochwertige Arbeit mit einem Höchstmaß an Professionalität sucht.",
+        "time": 1714113480,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "dodo luther",
+        "author_photo": "/images/reviews/gebaeudetechnik-estermann-ag-weggis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "sehr guter Service von Nuran, hat auch telefonisch nachgefragt, ob alles o. k. wir waren total zufrieden!!",
+        "time": 1768661804,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Roland Studer",
+        "author_photo": "/images/reviews/gebaeudetechnik-estermann-ag-weggis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir machten Heizungsersatz / Ersonde mit Estermann Gebäudetechnik. Alles sehr professionell; gute Erreichbarkeit;\nEmpfehlenswert!",
+        "time": 1767359631,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Chantal Palm",
+        "author_photo": "/images/reviews/gebaeudetechnik-estermann-ag-weggis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super freundlich, schnell und zuverlässig!\nWir hatten kurz vor einem Feiertag einen Notfall, da unser komplettes Heizungssystem in der Nacht ausgefallen war.\nAls wir am nächsten Morgen kurz nach 7 Uhr die Notfall-Hotline anriefen, kam der Geschäftsführer, Herr Estermann, nur wenige Stunden später persönlich vorbei und sorgte dafür, dass wir wieder ein warmes Zuhause und warmes Wasser hatten. Tausend Dank!",
+        "time": 1746003002,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

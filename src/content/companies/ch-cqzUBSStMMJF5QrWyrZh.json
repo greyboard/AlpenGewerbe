@@ -26,5 +26,47 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ140JUFChUcROErcTf4Ipzc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 2.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Daniel Goncalves",
+        "author_photo": "/images/reviews/gebr-brun-ag-uri-erstfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "🤝🤝👍",
+        "time": 1636486573,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Estahrion",
+        "author_photo": "/images/reviews/gebr-brun-ag-uri-erstfeld/reviewer_2.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1707123578,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dirk Hovenjuergen",
+        "author_photo": "/images/reviews/gebr-brun-ag-uri-erstfeld/reviewer_3.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1557766239,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

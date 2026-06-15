@@ -26,5 +26,38 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ712mD0gm0cRPJACHCp9apc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Claudia Tanner",
+        "author_photo": "/images/reviews/christian-koller-bedachungen-stein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super guter Betrieb,  macht wunderschöne schindel Fassaden\nKann ich nur empfehlen",
+        "time": 1738829390,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marianne Heeb",
+        "author_photo": "/images/reviews/christian-koller-bedachungen-stein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Hanwerker",
+        "time": 1508324474,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Andreas Müller",
+        "author_photo": "/images/reviews/christian-koller-bedachungen-stein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667671874,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

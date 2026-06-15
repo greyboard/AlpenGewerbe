@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJCSMPxOQtjkcRNVtciJvXCMs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Edieight",
+        "author_photo": "/images/reviews/buri-gartenbau-ag-oberburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Buri Gartenbau AG hat bei uns eine von wildem Gestrüpp überwachsene und dadurch nicht nutzbare Grundstückecke in eine traumhafte Grillecke mit hängendem Sitzelement und Bodenplatten - eingerahmt in einer neuen Hecke - verwandelt.\nUnsere Erwartungen wurden in allen Bereichen übertroffen. Das ganze Team hat sehr professionell und zuverlässig gearbeitet. Termine wurden kommuniziert und eingehalten.\nJederzeit gerne wieder.",
+        "time": 1695556563,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "walter kräuchi",
+        "author_photo": "/images/reviews/buri-gartenbau-ag-oberburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und gute Arbeit. Dem ganzen\nBuri  Taem ein grosses Dankeschön.",
+        "time": 1698405696,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Antonello Camiolo",
+        "author_photo": "/images/reviews/buri-gartenbau-ag-oberburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wie seit Jahren top Qualität!!!",
+        "time": 1655795693,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andre Vladimirov",
+        "author_photo": "/images/reviews/buri-gartenbau-ag-oberburg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Firma, schnelles Entladen, aber sie sollten am Eingang ein Schild anbringen, das auf die Firma hinweist. Ich hatte Bedenken, mit dem Sattelzug dort hineinzufahren, da sich in der Nähe Wohnhäuser und ein Autohaus befinden. Man fragt sich, wie man später wieder herauskommt, wenn man nicht am richtigen Ort ist.",
+        "time": 1743018576,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Katja Stalder",
+        "author_photo": "/images/reviews/buri-gartenbau-ag-oberburg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1694947063,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJmyjrrENvjkcRDLpFR1K2MPE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:30–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 61,
+    "reviews": [
+      {
+        "author_name": "Seevaratnam Vimal",
+        "author_photo": "/images/reviews/fri-elec-sa-givisiez/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service und korrekter Preis",
+        "time": 1779348129,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Greg Adam",
+        "author_photo": "/images/reviews/fri-elec-sa-givisiez/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann diese Firma wärmstens empfehlen. Ich habe sie kürzlich mit der Installation meiner Ladestation zu Hause beauftragt.\n\n– Günstigeres Angebot als andere Anbieter in der Gegend.\n\n– Schnelle und reibungslose Installation.",
+        "time": 1774990056,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jessica Hug",
+        "author_photo": "/images/reviews/fri-elec-sa-givisiez/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sie kamen noch am selben Tag, um uns zu helfen. Sehr freundliches Personal, schneller Service und sorgfältige Arbeit. Ich kann sie wärmstens empfehlen.",
+        "time": 1761736529,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "dylan vonlanthen",
+        "author_photo": "/images/reviews/fri-elec-sa-givisiez/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin mit den Leistungen von Fri Elec äußerst zufrieden. Ihre Expertise als Elektriker in Freiburg ist bemerkenswert. Sie arbeiten professionell und reaktionsschnell, was für alle Elektroarbeiten unerlässlich ist. Ob Standardarbeiten oder komplexere Projekte, Fri Elec war immer zur Stelle. Ihre Professionalität und Reaktionsfähigkeit machen sie zu einem vertrauenswürdigen Partner für alle Ihre Elektroprojekte. Ich kann Fri Elec jedem wärmstens empfehlen, der einen kompetenten und zuverlässigen Elektriker sucht.",
+        "time": 1741343442,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Avadis Pontiqian",
+        "author_photo": "/images/reviews/fri-elec-sa-givisiez/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fri Elec SA ist ein hervorragendes Unternehmen mit einem hochprofessionellen, reaktionsschnellen und kompetenten Team.\nWenn Sie ein zuverlässiges Unternehmen für Ihre Elektroinstallationen suchen, kann ich Fri Elec wärmstens empfehlen.",
+        "time": 1741949753,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

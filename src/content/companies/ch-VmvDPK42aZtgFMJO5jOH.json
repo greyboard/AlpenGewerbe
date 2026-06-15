@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJDTmVll-4kUcR0vDqwgsBWrE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "S. A.",
+        "author_photo": "/images/reviews/ms-marco-schaeffler-baugeschaeft-ag-oberwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Marco Schäffler AG ist äussert kompetent und professionell und desweiteren sehr kundenorientiert. Herr Schäffler beantwortet geduldig allerlei Fragen, zur Sicherstellung eines  guten Gefühls so dass keinerleri Fragezeichen bleiben. Absolut empfehlenswert!",
+        "time": 1629894155,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marianne Dudelhuhn",
+        "author_photo": "/images/reviews/ms-marco-schaeffler-baugeschaeft-ag-oberwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Firma Schäffler sehr zufrieden und kann sie nur weiterempfehlen. Auftragsausführung erfolgte wie gewünscht, sauber und sehr freundlich.",
+        "time": 1575982469,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marc F.",
+        "author_photo": "/images/reviews/ms-marco-schaeffler-baugeschaeft-ag-oberwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent, pragmatisch, lösungsorientiert! .",
+        "time": 1762274450,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Gaby Ammann",
+        "author_photo": "/images/reviews/ms-marco-schaeffler-baugeschaeft-ag-oberwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Toller Service, sehr empfehlenswert.",
+        "time": 1615565111,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Sebastian Flores Gallardo",
+        "author_photo": "/images/reviews/ms-marco-schaeffler-baugeschaeft-ag-oberwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1722611731,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

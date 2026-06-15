@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJQakm2RLIhUcRhc1iaUBBe6o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Chris Kendall",
+        "author_photo": "/images/reviews/ghirardelli-luigi-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Qualität und Pünktlichkeit.",
+        "time": 1642116869,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simi Lavigna",
+        "author_photo": "/images/reviews/ghirardelli-luigi-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1721224541,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

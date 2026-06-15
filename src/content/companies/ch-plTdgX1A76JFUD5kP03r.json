@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJGSLQX50fm0cRbxkfb-C4ZxA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Irene Bonaldo",
+        "author_photo": "/images/reviews/faessler-oskar-ag-teufen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Unternehmen Fässler Oskar AG und Team hat mich bei meinem Renovationsprojekt beraten und unterstützt. Die Auftragsausführung war äusserst kundenfreundlich, schnell, zuverlässig und einwandfrei. Top Service und Qualität! Die Dienstleistungen nehme ich sehr gerne wieder in Anspruch und kann die Firma nur weiterempfehlen. Herzlichen Dank.",
+        "time": 1765198297,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "L. Ivascu",
+        "author_photo": "/images/reviews/faessler-oskar-ag-teufen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kundenfreundliche Firma mit tollen Mitarbeitern und Wow Effekt. Ich bin begeistert von dieser Firma und empfehle sie ihnen herzlich weiter. 🩷",
+        "time": 1763970834,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Juan Albendiz",
+        "author_photo": "/images/reviews/faessler-oskar-ag-teufen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Betrieb, der erfolgreich Lehrlinge ausbildet. Langjährige Erfahrung. Sehr zu empfehlen.",
+        "time": 1646854047,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Iban Jimenez (Hispanosuizo)",
+        "author_photo": "/images/reviews/faessler-oskar-ag-teufen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer schnell und kompetent",
+        "time": 1704226041,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabienne Jaeger",
+        "author_photo": "/images/reviews/faessler-oskar-ag-teufen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service!",
+        "time": 1620557935,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

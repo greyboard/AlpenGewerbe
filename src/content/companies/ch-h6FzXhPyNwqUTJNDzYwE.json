@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJnfpF3WlDjEcR09gau-jCFik",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 3.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Jean Edgar Merle",
+        "author_photo": "/images/reviews/lamelle-glass-et-stores-sa-nyon/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Exzellenter Service, schnelle Anfertigung von neuem und Ersatzglas für Fenster, Türen, Gemälde und vieles mehr, freundliches und kompetentes Personal, Produkte zu fairen Preisen. Sie produzieren und schneiden nahezu alle Glasarten und fertigen und montieren auch Sonnenschutzsysteme. Empfehlenswert.",
+        "time": 1658250228,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Anna Herczeg",
+        "author_photo": "/images/reviews/lamelle-glass-et-stores-sa-nyon/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Eine sehr schlechte Erfahrung. Sehr amateurhaft und völlig unzuverlässig. Wir raten dringend davon ab.",
+        "time": 1720803834,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Julliand Manon",
+        "author_photo": "/images/reviews/lamelle-glass-et-stores-sa-nyon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Er ist stets erreichbar und aufmerksam, ich kann ihn empfehlen.",
+        "time": 1599479906,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefano Ferri Parsi",
+        "author_photo": "/images/reviews/lamelle-glass-et-stores-sa-nyon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service, wir haben eine Duschabtrennung aus Glas einbauen lassen und sind sehr zufrieden damit.",
+        "time": 1776675109,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Brayer Vincent",
+        "author_photo": "/images/reviews/lamelle-glass-et-stores-sa-nyon/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1720803979,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

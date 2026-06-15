@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJKWSFf4c9jkcRiJMSEyb2vsg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "25Arline Lugi",
+        "author_photo": "/images/reviews/hl-metallbau-gmbh-metallbau-lofttueren-tore-solarbau-planung-aarberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, engagiert und motiviert den Kundenwünschen zu entsprechen und Wünsche zu erfüllen! Arbeitet exakt, kommuniziert sehr gut und ist bei Fragen da. Scheut sich auch nicht vor kniffligen Aufgaben.\nKann ich nur weiter empfehlen ! Oder anders gesagt, ein Geheimtipp !\nDanke für aues !",
+        "time": 1653986584,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bettina Diederich",
+        "author_photo": "/images/reviews/hl-metallbau-gmbh-metallbau-lofttueren-tore-solarbau-planung-aarberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir hatten eine spezielle Anfrage für ein Vordach um die Lücke zwischen Carport und Garage sowie Haus \"Wasserdicht\" zu machen. Wir erhielten eine prima Lösung, es wurde perfekt umgesetzt und wir können nun trockenen Fusses zur Garage und vom Carport zum Haus. Herzlichen Dank. Wir werden Euch gerne wieder beauftragen.",
+        "time": 1682072754,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "N G",
+        "author_photo": "/images/reviews/hl-metallbau-gmbh-metallbau-lofttueren-tore-solarbau-planung-aarberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von HL Metallbau und dem Service von Dominique Lauper! Mein Sohn (3 Jahre alt) hatte ein Problem mit seinem BMX-Rad, das ihm viel Freude bereitet – die Tretlagerachse war defekt, und eine Schraube abgebrochen. Trotz der kurzfristigen Anfrage, hat Dominique sich spontan die Zeit genommen, die abgebrochene Schraube auszubohren und ein neues Gewinde zu schneiden – alles mit unglaublicher Geduld und Präzision. Dank seiner Kompetenz und Flexibilität kann mein Sohn jetzt wieder mit strahlendem Lächeln den Pumptrack unsicher machen. Vielen Dank für die schnelle und professionelle Hilfe!",
+        "time": 1731017581,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patric Gadient",
+        "author_photo": "/images/reviews/hl-metallbau-gmbh-metallbau-lofttueren-tore-solarbau-planung-aarberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Beratung, sehr freundlicher Kontakt und der Auftrag wurde perfekt ausgeführt! Ich werde mich für weitere Projekte gerne wieder melden. Vielen Dank nochmals. Gruss Patric",
+        "time": 1693406318,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "A. Ts",
+        "author_photo": "/images/reviews/hl-metallbau-gmbh-metallbau-lofttueren-tore-solarbau-planung-aarberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Planung, Einbau und Service von unserer Lofttüre. Wir sind sehr zufrieden. Vielen Dank!",
+        "time": 1732565176,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

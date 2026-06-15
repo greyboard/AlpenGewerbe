@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ71aJGqzmkcRPHX3k0yuDaE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Marc Herger",
+        "author_photo": "/images/reviews/bingisser-maler-ag-einsiedeln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Preis-Leistungsverhältnis, gepaart mit jahrelanger Erfahrung und bestens geschultem Personal!\nNur zu empfehlen.",
+        "time": 1767047720,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Jean-Pierre Deuber",
+        "author_photo": "/images/reviews/bingisser-maler-ag-einsiedeln/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Hohe Qualität, freundliche Mitarbeiter 👌\nHätte mir eine detaillierte Rechnungsstellung gewünscht 👎",
+        "time": 1759394891,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Limacher Marcel",
+        "author_photo": "/images/reviews/bingisser-maler-ag-einsiedeln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643209483,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mike Grätzer",
+        "author_photo": "/images/reviews/bingisser-maler-ag-einsiedeln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1741709634,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gyr Christoph",
+        "author_photo": "/images/reviews/bingisser-maler-ag-einsiedeln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629733313,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

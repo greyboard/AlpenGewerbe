@@ -26,5 +26,38 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJtfhQQh34j0cRIIpIYGZ_Fdo",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Fabio",
+        "author_photo": "/images/reviews/tresch-toni-ennetbuergen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Spitze!",
+        "time": 1496905733,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Oriol Gautschi",
+        "author_photo": "/images/reviews/tresch-toni-ennetbuergen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1691745642,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "turbo freddy",
+        "author_photo": "/images/reviews/tresch-toni-ennetbuergen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664475340,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

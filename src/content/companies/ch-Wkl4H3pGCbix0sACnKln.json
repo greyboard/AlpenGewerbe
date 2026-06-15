@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJtWymbQ8tjkcRA9zDYLatBHY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Adrian Probst",
+        "author_photo": "/images/reviews/um-bau-schreinerei-bern-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben bei Umundbau unsere Garderobe neu erstellen lassen sowie unsere Treppe abschleifen und ölen lassen. Wir sind mit dem Ergebnis sehr zufrieden! Die Beratung war sehr professionell und das Montageteam war ebenfalls sehr kompetent und freundlich. Absolut empfehlenswert!",
+        "time": 1720016268,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sabrina Schmidt",
+        "author_photo": "/images/reviews/um-bau-schreinerei-bern-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben Philippe und sein Team für die Erstellung von zwei Badezimmerunterschränken beauftragt. Von der Kontaktaufnahme, der Beratung, über die Lieferung und Montage war alles sehr professionell und freundlich! Wir sind mit dem Endergebnis sehr zufrieden. Das Preis-/Leistungsverhältnis stimmt. Danke Philippe!",
+        "time": 1703760922,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christine Strahm",
+        "author_photo": "/images/reviews/um-bau-schreinerei-bern-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir können Philippe Tschan und seine Firma nur weiter empfehlen. Er und sein Team haben unseren Neubau geplant und erstellt. Top Beratung, immer auf unsere Wünsche eingegangen, so macht bauen Freude. Herzlichen Dank",
+        "time": 1645093183,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Matthias Käser",
+        "author_photo": "/images/reviews/um-bau-schreinerei-bern-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir liessen bei unserer Eingangstür ein elektronisches Türschloss einbauen. Die technisch anspruchsvolle Aufgabe des Umbaus wurde mit Präzision und viel Geduld umgesetzt.",
+        "time": 1779787373,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Nicolas Papritz",
+        "author_photo": "/images/reviews/um-bau-schreinerei-bern-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Im Rahmen unseres Umbaus haben wir von Philippe Tschan und seinem Team neuen Parkett einlegen und neues Täfer monitieren lassen. Wir sind absolut begeistert vom Resultat! Herzlichen Dank an Phlippe Tschan und sein Team für die hervorragende Arbeit und den tadellosen Service! Dies sind nicht die ersten Arbeiten, welche wir von Um&Bau durchführen liessen und es werden sicherlich nicht die letzten sein! :)",
+        "time": 1661797587,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

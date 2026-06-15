@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJIcBv_t0Rm0cRHc9b9sElLHw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:30 Uhr",
+    "Dienstag: 08:00–17:30 Uhr",
+    "Mittwoch: 08:00–17:30 Uhr",
+    "Donnerstag: 08:00–17:30 Uhr",
+    "Freitag: 08:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Udeesha Perera",
+        "author_photo": "/images/reviews/lupo-ceramica-gmbh-roggwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit Lupo, dem Inhaber des Unternehmens. Er ist sehr genau und sorgfältig und führte unseren Auftrag hervorragend aus. Wir werden definitiv auch in der Zukunft wieder auf seinen Kontakt zurückgreifen. Toller Einsatz, nochmals vielen Dank!",
+        "time": 1720550177,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tesic David",
+        "author_photo": "/images/reviews/lupo-ceramica-gmbh-roggwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dr. für die Fliesen legen ...sehr sehr sauber\nDanke",
+        "time": 1775584211,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Francesco De Solda",
+        "author_photo": "/images/reviews/lupo-ceramica-gmbh-roggwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eindeutig der Wolf unter den Plattenleger👍🏻 Die Arbeiten wurden sauber und professionell durchgeführt👍🏻 Weiter so..",
+        "time": 1699960347,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marc Keller",
+        "author_photo": "/images/reviews/lupo-ceramica-gmbh-roggwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vom ersten Moment an, wussten wir, dass wir den richtigen Plattenleger gefunden haben.\nWir sind mit den Arbeiten sehr zufrieden und waren auch dankbar für die professionellen Anregungen.\nVielen Dank und sicher auf ein andermal",
+        "time": 1708705839,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Milan Rikic",
+        "author_photo": "/images/reviews/lupo-ceramica-gmbh-roggwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende arbeitsqualität! Sehr netter und kompetenter Fachmann. Sauber gearbeitet, jeder bewundert unsere verlegten Fliesen 👍",
+        "time": 1709562691,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

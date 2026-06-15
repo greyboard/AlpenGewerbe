@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJd1M99ufomkcRQAGjZ4nHwbo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Donald Duck",
+        "author_photo": "/images/reviews/niedermann-holzbau-ag-uzwil/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Schrauben waren für die Befestigung zu lang ( ca. 2mm ) und stehen nun nach Innen bzw. den Innenraum und keine Ausbesserung. Achtung Verletzungsgefahr.  Sorry, das geht aber besser.",
+        "time": 1658148687,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Michael Fritsche",
+        "author_photo": "/images/reviews/niedermann-holzbau-ag-uzwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ganz einfach: Top Leute, Top Qualität. Alles wie abgemacht umgesetzt und kleinere Garantiearbeiten werden umgehend abgearbeitet. Danke, gerne wieder!",
+        "time": 1708537042,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Whirlpool-Agentur",
+        "author_photo": "/images/reviews/niedermann-holzbau-ag-uzwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "JEDERZEIT WIEDER - TOLLES UNTERNEHMEN - TOLLER CHEF - ABSOLUT EMPFEHLENSWERT.......danke",
+        "time": 1645273075,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Guido Zahner",
+        "author_photo": "/images/reviews/niedermann-holzbau-ag-uzwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1628948252,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Boro Njegomirović",
+        "author_photo": "/images/reviews/niedermann-holzbau-ag-uzwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1475522281,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

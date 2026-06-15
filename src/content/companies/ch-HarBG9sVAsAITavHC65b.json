@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJXw3JEuz3j0cRY3iCyhtkF38",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Gabrielle Aschwanden",
+        "author_photo": "/images/reviews/schreinerhof-gmbh-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Beratung, termingerechte Ausführung! Motiviertes und sehr zielorientiertes, kreatives Team. Diese Firma kann ich wärmstens weiter empfehlen.",
+        "time": 1709112465,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Bloodline Records",
+        "author_photo": "/images/reviews/schreinerhof-gmbh-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung, top Ausführung,, sehr freundlich und kundenorientiert. Wir sind total happy mit unserer neuen Küche. Vielen Dank an das ganze Team.",
+        "time": 1713631225,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Anita Tellenbach",
+        "author_photo": "/images/reviews/schreinerhof-gmbh-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super freundliche und kompetente Beratung, pünktliche, schnelle, saubere und einwandfreie Lieferung und Montage. Wir sind begeistert und das Produkt ist toll! Vielen Dank!!",
+        "time": 1653408449,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Beni Tellenbach",
+        "author_photo": "/images/reviews/schreinerhof-gmbh-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top-Beratung, sehr kompetent, saubere Ausführung der Arbeiten. Ich bin absolut zufrieden! Der Schreinerhof..... jederzeit sehr zu empfehlen. Vielen Dank!!",
+        "time": 1653479610,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Vivi pfiffner",
+        "author_photo": "/images/reviews/schreinerhof-gmbh-buochs/reviewer_5.jpg",
+        "rating": 1,
+        "text": "8.00 Termin für Arbeitsauftrag nicht erschienen",
+        "time": 1559543030,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

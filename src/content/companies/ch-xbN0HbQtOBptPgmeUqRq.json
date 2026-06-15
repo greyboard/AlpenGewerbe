@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJt5f_uL7_j0cRJ1SxYCTYyc0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 09:00–13:30 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 53,
+    "reviews": [
+      {
+        "author_name": "Arthur GUINNESS",
+        "author_photo": "/images/reviews/voi-tech-bau-gmbh-root/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir hatten die Idee, in unserem neu gestalteten Industrial-Bad eine Backsteinwand umzusetzen – von der ersten Beratung bis hin zur finalen Ausführung hat alles hervorragend funktioniert. Das Team der Voi-Tech Bau überzeugte durch Freundlichkeit, Verständnis für unsere Wünsche, hohe Fachkompetenz und eine sehr saubere Arbeitsweise. Mit dem Endresultat sind wir rundum zufrieden und können Voi-Tech Bau wärmstens weiterempfehlen.\nEmanuela & Beat, Sursee LU",
+        "time": 1777531003,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Simon Lavagnini",
+        "author_photo": "/images/reviews/voi-tech-bau-gmbh-root/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma. Von der angenehmen Planung bis zur Abgabe, wurden alle meine Erwartungen erfüllt und sogar übertroffen.\nTermine eingehalten.Qualitative Ausführung. Sympathischer Umgang.\nIch kann das Voitech-Team bestimmt weiterempfehlen.\nS.Lavagnini",
+        "time": 1761161045,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Georges",
+        "author_photo": "/images/reviews/voi-tech-bau-gmbh-root/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der sauber und fachlich kompetent ausgeführten Arbeit. Das neue Bad macht Freude. Das Resultat ist ehrliches und sauberes Handwerk! Herzlichen Dank. G. Rudin, Ebikon",
+        "time": 1772565219,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Markus Alt",
+        "author_photo": "/images/reviews/voi-tech-bau-gmbh-root/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Truppe, freundlich, kompetent, kulant. Termine, auch kurzfristige, wurden eingehalten. Sehr gute Arbeit. Die Treppe hatte mir Sorgen gemacht, das Resultat lässt dies nicht mehr erahnen. Hervorragend gelöst, inklusive der Verputzarbeiten an der Seite. Es ist nicht selbstverständlich, heute so gute Handwerker zu finden, und zu einem vernünftigen Preis. Herzlichen Dank. Ein anderes Mal gerne wieder.",
+        "time": 1731571968,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "André Bleiker",
+        "author_photo": "/images/reviews/voi-tech-bau-gmbh-root/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von der angenehmen und professionellen Planung bis hin zur finalen Übergabe wurden all unsere Erwartungen nicht nur erfüllt, sondern übertroffen.\nAlle Termine wurden zuverlässig eingehalten, die Ausführung war qualitativ hochwertig und der gesamte Umgang mit uns Kunden  stets sympathisch und professionell!",
+        "time": 1771683255,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-fwaWl02Hk8DWoneZEieW",
   "slug": "gallati-luzern",
-  "name": "Gallati",
+  "name": "Gallati AG, Heizung-Sanitär-Service, 24h-Notfalldienst",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJDfIrOTn7j0cRaXB0gxSJVic",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 42,
+    "reviews": [
+      {
+        "author_name": "Brigitte Ellenberger",
+        "author_photo": "/images/reviews/gallati-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vom ersten Gespräch bis zur Fertigstellung meines Badezimmers fühlte ich mich jederzeit bestens aufgehoben. Das ganze Team war unglaublich freundlich, aufmerksam und professionell.Während des Umbaus lief alles reibungslos,\nBesonders positiv ist mir die transparente und übersichtliche Kostenzusammenstellung aufgefallen, ich wusste immer genau, woran ich bin.\nVom Ergebnis bin ich rundum begeistert!\nEin herzliches Dankeschön an alle Beteiligten!!!",
+        "time": 1765196349,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Ben San",
+        "author_photo": "/images/reviews/gallati-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Angerufen wegen Wasserleck, sofort erreicht, hilfe sofort (in nur 30 min) gekommen und Leck entdeckt und behoben. Alle ausnehmend nett! 100% zu empfehlen! Herzlichen Dank",
+        "time": 1764945857,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Pascal",
+        "author_photo": "/images/reviews/gallati-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten gestern ein Wasserproblem und dadurch einen Schaden. Herr Slavi Dobricanin von der Firma Gallati kam sehr schnell vorbei und hat alles zuverlässig und professionell repariert. Er war sehr freundlich, hilfsbereit und hat die Arbeit super erledigt. Wir sind sehr zufrieden und können ihn absolut weiterempfehlen!",
+        "time": 1755422501,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Mirhad Elkazovic",
+        "author_photo": "/images/reviews/gallati-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hatte kürzlich die Gelegenheit, mit der Firma Sanitär Gallati zusammenzuarbeiten, und bin rundum begeistert. Von der ersten Kontaktaufnahme bis zur fertigen Arbeit war alles professionell, zuverlässig und sehr kundenorientiert.\n\nEin besonderer Dank geht an Aladin, der als Kontaktperson stets freundlich, kompetent und lösungsorientiert aufgetreten ist. Er hat sich Zeit genommen, meine Anliegen genau zu verstehen, und alle Arbeiten wurden sauber, schnell und mit hoher Qualität ausgeführt.\n\nEs ist heutzutage selten, auf einen Handwerksbetrieb zu treffen, der sowohl menschlich als auch fachlich so überzeugt. Ich kann Sanitär Gallati uneingeschränkt weiterempfehlen – hier fühlt man sich bestens aufgehoben!",
+        "time": 1756470708,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Peter Wolf",
+        "author_photo": "/images/reviews/gallati-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Ausfall von Heizung und Warmwasser wurde am 7.5.2025 dem Kundendienst Hrn. Rodriguez gemeldet und von ihm an einen Servicemonteur weitergeleitet. Nach ein paar Stunden stand dieser schon vor unserer Türe und hat den Fehler sofort gefunden und behoben. Danke für die flotte Organisation, jetzt läugt alles wieder bestens. Das Nachfüllen des Solekreislaufs sollte aber das nächste Mal gemäss Vorschrift mit demineralisiertem Wasser und nicht direkt ab Trinkwasseranschluss erfolgen.\nRichtigstellung:\nNur das hausinterne Heizsystem muss mit demineralisiertem Wasser bei Bedarf nachgefüllt werden. Der Monteur hat den Solekreislauf korrekt mit Trinkwasser nachgefüllt.",
+        "time": 1748254266,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

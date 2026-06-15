@@ -26,5 +26,55 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJr0HqNPermkcRUTQxoj_WHuc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Mladen Antolovic",
+        "author_photo": "/images/reviews/steinpur-plattenleger-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Qualität und professioneller Service! STEINPUR bietet erstklassige Materialien und Lösungen für Böden und Wände. Von der ersten Beratung bis zum Endprodukt – alles war einwandfrei. Präzise, langlebig und ästhetisch auf höchstem Niveau. Sehr empfehlenswert für alle, die einen zuverlässigen Partner in diesem Bereich suchen!",
+        "time": 1739992409,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pawel Bykowski",
+        "author_photo": "/images/reviews/steinpur-plattenleger-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778330955,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "André Bannwart",
+        "author_photo": "/images/reviews/steinpur-plattenleger-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1752855297,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "homesickBeni",
+        "author_photo": "/images/reviews/steinpur-plattenleger-baar/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1727240468,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

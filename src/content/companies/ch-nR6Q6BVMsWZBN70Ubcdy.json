@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJEVc8-5Z5kEcRFUBylPG1_tw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Fredy Egli",
+        "author_photo": "/images/reviews/metallbau-kunst-gmbh-neuhausen-am-rheinfall/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit vom Metallbau Kunst Team!\n\nWir sind absolut begeistert von unserem neuen Geländer. Die Montage verlief reibungslos und professionell. Das Team von Metallbau Kunst hat von Anfang bis Ende eine herausragende Arbeit geleistet. Besonders beeindruckt hat uns die kundenorientierte Herangehensweise und die Freundlichkeit des gesamten Teams. Sie haben sich Zeit genommen, um auf unsere Wünsche einzugehen und haben jedes Detail perfekt umgesetzt. Wir können Metallbau Kunst uneingeschränkt weiterempfehlen und freuen uns auf zukünftige Projekte!",
+        "time": 1724953255,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Etter",
+        "author_photo": "/images/reviews/metallbau-kunst-gmbh-neuhausen-am-rheinfall/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Durch MetallbauKunst Obradovic wurde bei meinem Haus im Freien aus Edelmetall vom Garten her zum Garagevorplatz hin ein Geländer/Handlauf montiert. Sehr gute,  schöne Arbeit. Vielen Dank",
+        "time": 1725776923,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Filip Reschowsky",
+        "author_photo": "/images/reviews/metallbau-kunst-gmbh-neuhausen-am-rheinfall/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alles top! Freundliche Mitarbeiter, tolle Arbeit und sehr gutes Preisleistungsverhältnis. Vielen Dank nochmal.",
+        "time": 1745838345,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Atilla Chappuis",
+        "author_photo": "/images/reviews/metallbau-kunst-gmbh-neuhausen-am-rheinfall/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1719086428,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

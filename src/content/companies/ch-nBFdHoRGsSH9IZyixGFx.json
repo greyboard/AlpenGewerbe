@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJOYeLIs3xmkcRmXFWkPkPI3o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Silvia Sutter",
+        "author_photo": "/images/reviews/gipsergeschaeft-kradolfer-gmbh-weinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein regionales Unternehmen das ihr Handwerk versteht! Freundliche und kompetente Mitarbeitende mit viel Fachwissen.",
+        "time": 1729156808,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gal Csata Istvan Gal Csata",
+        "author_photo": "/images/reviews/gipsergeschaeft-kradolfer-gmbh-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Pünktlichkeit, Disziplin, Qualitätsarbeit, freundliche und respektvolle Menschen, danke, dass ich Sie kennenlernen durfte!",
+        "time": 1738735646,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Besa Xo",
+        "author_photo": "/images/reviews/gipsergeschaeft-kradolfer-gmbh-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Rundum zufrieden! Sehr freundlich, top Arbeit, schnelle Terminvereinbarung.",
+        "time": 1692619203,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Bachofner",
+        "author_photo": "/images/reviews/gipsergeschaeft-kradolfer-gmbh-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "saubere und sorgfältige Arbeit. Eine klare Empfehlung!",
+        "time": 1712317192,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christoph Lanter",
+        "author_photo": "/images/reviews/gipsergeschaeft-kradolfer-gmbh-weinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Handwerk aus der Ostschweiz. Innovativste Lösungen für alle erdenklichen Gips-Arbeiten.",
+        "time": 1562734221,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

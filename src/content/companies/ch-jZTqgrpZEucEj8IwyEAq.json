@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJS8y38qfYj0cRl6Ue61117Kw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Jonas Meyer",
+        "author_photo": "/images/reviews/graf-ag-haustechnik-schoetz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir können die Graf AG nur weiterempfehlen. Von der Beratung und Planung bis zur Installation unseren neuen Wärmepumpe war alles top! Danke für die ausgezeichnete Arbeit.",
+        "time": 1776370664,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Hans Ziswiler",
+        "author_photo": "/images/reviews/graf-ag-haustechnik-schoetz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Graf Haustechnik das Bad total umgebaut.Wir sind mitJoel Stocker und seinem Team sehr zufrieden.Alle Arbeiten wurden sauber ausgeführt und empfehlen die Firma sehr gerne weiter.\nBesten Dank",
+        "time": 1771618419,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marco Steger",
+        "author_photo": "/images/reviews/graf-ag-haustechnik-schoetz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut zufrieden mit der Montage meiner Duschtrennwand durch die Firma Graf. Vom ersten Kontakt bis zur Fertigstellung lief alles reibungslos. Die Beratung war kompetent, die Terminvergabe unkompliziert und die Handwerker haben sauber und präzise gearbeitet. Die Trennwand sitzt perfekt, und ich bin begeistert von der hochwertigen Ausführung. Ich kann die Firma Graf uneingeschränkt weiterempfehlen – hier wird Wert auf Qualität und Kundenzufriedenheit gelegt!",
+        "time": 1742288306,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Philipp Näf",
+        "author_photo": "/images/reviews/graf-ag-haustechnik-schoetz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hatte eine sehr positive Erfahrung mit der Firma Graf AG. Herr Stocker hat die nötigen Teile schnell und professionell ersetzt. Die Abwicklung war super schnell und problemlos. Zudem war die Rechnung absolut fair. Sehr empfehlenswert!",
+        "time": 1742279906,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "W B",
+        "author_photo": "/images/reviews/graf-ag-haustechnik-schoetz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Während der Weihnachtsfeiertage fiel unsere Heizung aus. Trotz der Feiertage reagierte die Firma Graf schnell und zuverlässig. Besonders hervorheben möchten wir Herrn G. Brunner („Gäbu“), der sich unkompliziert und engagiert um die Situation kümmerte – ohne zusätzliche Feiertagszuschläge. Auch beim Heizungswechsel mit Anbindung an eine bestehende Solaranlage übernahm er die Rolle des Bauführers und koordinierte die Arbeiten effizient. Die professionelle, hilfsbereite und kundenorientierte Arbeitsweise aller Mitarbeiter der Firma hat uns sehr beeindruckt. Wir fühlten uns stets gut betreut und in besten Händen. Wir können die Firma Graf uneingeschränkt weiterempfehlen und bedanken uns herzlich für den hervorragenden Einsatz. Danke Fam. Bühlmann",
+        "time": 1747500446,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

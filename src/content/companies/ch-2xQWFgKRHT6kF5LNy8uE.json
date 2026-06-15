@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9yhP9Ocfj0cRA3LjqHcEpX4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Risse Pierre-Alex",
+        "author_photo": "/images/reviews/aj-revetement-sarl-crans-montana/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für die Vorbereitung und Verlegung der Fliesen in unserem WC, unserer Küche und unserem Badezimmer war AJ Revêtement stets erreichbar, hat uns hervorragend beraten und war äußerst professionell. Die Arbeiten wurden sorgfältig ausgeführt, termingerecht abgeschlossen und der Kostenvoranschlag eingehalten: Was will man mehr? Einfach perfekt!",
+        "time": 1766159809,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Alexandre Naoux",
+        "author_photo": "/images/reviews/aj-revetement-sarl-crans-montana/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Badezimmersanierung im Haus meiner Mutter war hervorragend, alle Termine wurden eingehalten. Ich bin sehr zufrieden mit dem Service und werde sie beim nächsten Mal ohne Zögern wieder beauftragen. Vielen Dank!",
+        "time": 1766176528,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Sven Clavien (Snorkies)",
+        "author_photo": "/images/reviews/aj-revetement-sarl-crans-montana/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin mit den Leistungen von AJ Revêtement äußerst zufrieden.\n\nDas Team ist nicht nur professionell, sondern auch sehr freundlich und zuvorkommend. Die Fliesenarbeiten in meinem Haus wurden makellos ausgeführt. Das Ergebnis ist perfekt, und jedes Detail wurde sorgfältig bedacht. Darüber hinaus wurden die vereinbarten Fristen und das Budget eingehalten. Ich kann die Firma jedem wärmstens empfehlen, der hochwertige Fliesenlegerarbeiten sucht. Nochmals vielen Dank für die hervorragende Arbeit!",
+        "time": 1720097463,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Paola Geisseler",
+        "author_photo": "/images/reviews/aj-revetement-sarl-crans-montana/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir waren mit diesem Fliesenleger sehr zufrieden. Er ist ein überaus netter, unkomplizierter und bescheidener Mensch. Die Arbeit wurde in kürzester Zeit hervorragend, professionell und makellos ausgeführt. Die Fliesen sind perfekt verlegt. Auch die Details waren am Ende der Arbeiten sehr präzise. Ich werde Herrn Stefano definitiv für zukünftige Projekte beauftragen und kann ihn allen empfehlen, die schwarze Fliesen mit der feuerfesten Methode verlegen lassen möchten. Wir sind sehr froh, dass wir uns für ihn entschieden haben und werden dies auch in Zukunft tun. 5 Sterne",
+        "time": 1640202266,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "joyce van wijk",
+        "author_photo": "/images/reviews/aj-revetement-sarl-crans-montana/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Agron ist sehr freundlich und serviceorientiert. Die Zusammenarbeit mit ihm verlief hervorragend und das Ergebnis war erstklassig. Vielen Dank, Herr Agron!",
+        "time": 1692472796,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

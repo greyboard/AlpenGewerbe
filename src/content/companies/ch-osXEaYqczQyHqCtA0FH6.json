@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJFWrB77z3j0cRTqgiD7YwdSA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 06:45–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 06:45–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 06:45–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 06:45–12:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "R C B Matt",
+        "author_photo": "/images/reviews/achermann-ag-sanitaer-heizung-solar-oberdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Absprache, obwohl in einem Servicefall nur per E-Mail und Fotos. Umsetzung terminiert, da keine absolute Dringlichkeit (schafft Zeit für Notfälle...). Pünktlich erschienen, tatsächliches Problem nach wenigen Minuten behoben. Danke und bis zum nächsten Mal.",
+        "time": 1747979292,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jeremias Steffen",
+        "author_photo": "/images/reviews/achermann-ag-sanitaer-heizung-solar-oberdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service, genau wies sein soll. Monteur kam pünktlich war freundlich, alles top.",
+        "time": 1733937047,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "w y w",
+        "author_photo": "/images/reviews/achermann-ag-sanitaer-heizung-solar-oberdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der beste!",
+        "time": 1725884806,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Leo André Schallberger",
+        "author_photo": "/images/reviews/achermann-ag-sanitaer-heizung-solar-oberdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1727366158,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Josua Steinmann",
+        "author_photo": "/images/reviews/achermann-ag-sanitaer-heizung-solar-oberdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1620656547,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

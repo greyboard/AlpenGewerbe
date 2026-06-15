@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAW0-6Tfyj0cRF29IgZSqHWo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Michael Lorenz",
+        "author_photo": "/images/reviews/elektro-huwyler-ag-kaegiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute, kompetente Firma mit netten und zuvorkommenden Mitarbeiter. Ich empfehle die Firma Elektro Huwyler AG in Kägiswil.",
+        "time": 1765458478,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Al C",
+        "author_photo": "/images/reviews/elektro-huwyler-ag-kaegiswil/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Habe eben einen Elektriker gesucht und herausgefunden, dass Elektro Huwyler \"Schwurbelzeugs\" verkauft. Wie kann ein Betrieb, mit fundierten Elektrokenntnissen, solch ein Zeugs verkaufen? Es geht um den FOSTAG OMNI CHIP.",
+        "time": 1708951073,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pierre Oster (ROWILUX GMBH)",
+        "author_photo": "/images/reviews/elektro-huwyler-ag-kaegiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr Kompetent und Gute Arbeit, jederzeit gern wieder.",
+        "time": 1601286387,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Andre Beeler",
+        "author_photo": "/images/reviews/elektro-huwyler-ag-kaegiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind schon mehrere Jahre Kunde.\nDie Arbeiten werden immer termingerecht und professionell ausgeführt. Auch bei Problemen ist ein Monteur schon nach kurzer Zeit bei uns.\nIch kann die Elektro Huwyler AG zu 100% weiter empfehlen.",
+        "time": 1776764797,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Seefeld Park Sarnen",
+        "author_photo": "/images/reviews/elektro-huwyler-ag-kaegiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1651910980,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

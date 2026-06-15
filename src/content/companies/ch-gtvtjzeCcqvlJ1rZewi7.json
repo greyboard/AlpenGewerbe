@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzYYCCZ0RkEcR3YAx-OY4BnE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Cartastic AG",
+        "author_photo": "/images/reviews/melintec-ag-bremgarten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Melintec AG, euer kompetenter Ansprechpartner bei allen Themen rund um Strom.\nIhr habt keine Lust auf Überraschungen beim Bau oder Umbau, dann ist Steve und sein Team die richtige Wahl.\nSteve berät kompetent und ehrlich, sein Fachwissen und die Begeisterung für das Thema kommen sehr zu tragen.",
+        "time": 1769501084,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Chrischan Weisshaupt",
+        "author_photo": "/images/reviews/melintec-ag-bremgarten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Melintec hat bei den Renovationsarbeiten in Küche und Wohnzimmer die Elektroarbeiten übernommen. Aufgrund der alten Elektroinstallationen wurde gleich noch der Sicherungsschrank im Keller ersetzt und die Heizungssteuerung neu angeschlossen.\n\nDie Mitarbeitenden von Melintec haben sehr gute Arbeit geleistet und alle Änderungswünsche präzise umgesetzt. Wir wurden umfassend beraten, und alle Arbeiten wurden termingerecht ausgeführt und abgeschlossen.\n\nWir danken Melintec herzlich für die hervorragende Leistung und empfehlen die Firma gerne weiter!",
+        "time": 1765889690,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Marc Wohlfarth",
+        "author_photo": "/images/reviews/melintec-ag-bremgarten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Faszination & Leidenschaft für Strom ist bei Stive Meier & seinem Team absolut spürbar. Projekte werden mit grosser Leidenschaft und grosser Kompetenz ausgeführt! Weiter so!",
+        "time": 1770113824,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Fotografie Ulrike Kiese",
+        "author_photo": "/images/reviews/melintec-ag-bremgarten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "«Melintec» überzeugt mich durch klare Kompetenz in Photovoltaik, Energiemanagement und modernen E-Mobilitätslösungen. Die Beschreibungen sind nicht nur technisch fundiert, sondern zeigen, wie durchdacht «Melintec» Kundinnen und Kunden auf dem Weg in eine nachhaltige Energiezukunft begleitet.\nStive Meier kenne ich seit Längerem aus unserem wöchentlichen Businessmeeting. Jede Woche bringt er Impulse ein, die uns in der BNI-Welt und mich persönlich im Business weiterbringen. Seine offene, positive Art und sein profundes Wissen schätze ich sehr. Man spürt, dass bei «Melintec» dieselbe Haltung gelebt wird: zuverlässig, kompetent und mit Blick nach vorn.",
+        "time": 1765204241,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Patrick Bianco",
+        "author_photo": "/images/reviews/melintec-ag-bremgarten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service von A-Z. Beratung, Offerierung, Geschwindigkeit, Administation, Freundlichkeit. Perfekt. Vielen Dank Herr Stive Meier und Ihrem Team.",
+        "time": 1769691472,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

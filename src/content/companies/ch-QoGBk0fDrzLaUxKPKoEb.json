@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJRauYoYQhkEcR9SfpgUd_W0A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "trixli",
+        "author_photo": "/images/reviews/ig-glas-gmbh-triengen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kann ich nur empfehlen. Sehr kompetent und verständnisvoll.\nSuper Service und gutes Preis/Leistungsverhältnis.",
+        "time": 1768736862,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "ASM Deco AG",
+        "author_photo": "/images/reviews/ig-glas-gmbh-triengen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnell, preiswert und kompetent.\n\nDie IG Glas GmbH überzeugt durch flexibles und kundenorientiertes Auftreten. Ebenso ist die Ware stets pünktlich fertig und das Personal ist sehr freundlich und kompetent.\n\nWir freuen uns auf die weitere Zusammenarbeit.\n\nEs grüssen,\n\n#DIEverWANDlungsKÜNSTLER",
+        "time": 1687188263,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Esteban Parra Rios",
+        "author_photo": "/images/reviews/ig-glas-gmbh-triengen/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Freundliches und sehr kompetentes Personal.\nSchnelle Antworten auf E-mail oder Telefon. Kurze Lieferfristen.\nWir haben jetzt eine neue Küchenrückwand und eine Ganzglasdusche seit ca. 1 Jahr, alles Top.\n\nVielen Dank an Herr Kuster für seine kompetente und saubere Arbeit.",
+        "time": 1639395002,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michael Grohs",
+        "author_photo": "/images/reviews/ig-glas-gmbh-triengen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Preis Leistung... super sympathisch... gutes Business... freu mich auf mehr mit euch",
+        "time": 1534604230,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Fahnenschwinger Luzern",
+        "author_photo": "/images/reviews/ig-glas-gmbh-triengen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Unser Verein brauchte ein spezielles Glas mit einem Druck, wurde Perfekt und zu einem unschlagbaren Preis ausgeführt. Danke.",
+        "time": 1679863140,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

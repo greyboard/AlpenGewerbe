@@ -1,7 +1,7 @@
 {
   "id": "ch-GFhGUMhuWukZuSzKmPyu",
   "slug": "markus-keller-gmbh-muri-bei-bern",
-  "name": "Markus Keller GmbH",
+  "name": "Markus Keller GmbH | Sanitär & Heizung | Bern, Muri, Belp, Ostermundingen",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJNSReoBo3jkcR3YV90zDXjmY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Natacha Fasnacht",
+        "author_photo": "/images/reviews/markus-keller-gmbh-muri-bei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren mit der Arbeit von Herrn Keller äusserst zufrieden. Er ist jederzeit erreichbar, hilfsbereit und löst Probleme schnell sowie effizient. Die Arbeiten führt er sauber, zuverlässig und termingerecht aus.\nWir können Herrn Keller jederzeit weiterempfehlen.",
+        "time": 1768830139,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Pablo Di Lione",
+        "author_photo": "/images/reviews/markus-keller-gmbh-muri-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Markus Keller hat unsere alte Elektrospeicherheizung durch eine moderne, innen aufgestellte Wärmepumpe von Viessmann ersetzt. Die Zusammenarbeit war durchweg sehr gut und transparent. Auch das Preis-Leistungs-Verhältnis ist super.\n\nBesonders schätzen wir, dass Markus auch nach Abschluss der Arbeiten jederzeit für Fragen, Probleme oder Anliegen zur Verfügung steht.\n\nWir können Markus Keller wärmstens empfehlen!",
+        "time": 1720604460,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Camil Schmid",
+        "author_photo": "/images/reviews/markus-keller-gmbh-muri-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Markus Keller - Was für ein Typ! Mit einer simplen Vorstellung von sanitären Anlagen sind wir zu ihm gestossen und haben dank seiner vielseitigen und umfassenden Erfahrung die perfekte Lösung erhalten - inklusive einer pünktlichen und professionellen Umsetzung. Das Ganze sogar noch zu einem unschlagbaren Preis und in einem höllischen Tempo. Macht Spass so!",
+        "time": 1618571381,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Patrick Weber",
+        "author_photo": "/images/reviews/markus-keller-gmbh-muri-bei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Markus liefert gute Arbeit ab, findet Lösungen und setzt diese um. Sein Preis-Leistungsverhätlnis ist sehr gut und macht die zusammenarbeit mit ihm attraktiv. Bei Fragestellungen ist er stets in Kürze erreichbar.",
+        "time": 1579509839,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Christoph Kohler",
+        "author_photo": "/images/reviews/markus-keller-gmbh-muri-bei-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind top zufrieden mit den erbrachten Leistungen. Markus hat für uns eine Wärmepumpenheizung und sämtliche sanitären Anlagen installiert. Alles wurde fristgerecht und in höchster Qualität ausgeführt.",
+        "time": 1679654574,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

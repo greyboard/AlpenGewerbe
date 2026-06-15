@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2YhVqVI_jkcR8vPwz8fahBk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–17:00 Uhr",
+    "Dienstag: 07:15–17:00 Uhr",
+    "Mittwoch: 07:15–17:00 Uhr",
+    "Donnerstag: 07:15–17:00 Uhr",
+    "Freitag: 07:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Lars van Wijk",
+        "author_photo": "/images/reviews/ringeisen-ag-koeniz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr tolle Schreinerei mit perfektem Service. Egal ob Sonderanfertigungen oder Restauration von bestehenden Möbel. Sehr empfehlenswert!",
+        "time": 1571395634,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ziger Tiger",
+        "author_photo": "/images/reviews/ringeisen-ag-koeniz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "TOP Service, saubere Arbeit!! Sehr netter, unkomplizierter und zuvorkommender Kundenkontakt. Berichterstattung der ausgeführten Arbeiten ist sehr detailliert. Wärmstens zu empfehlen, vielen Dank für den vorbildlichen Service!",
+        "time": 1678097881,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Raphael M",
+        "author_photo": "/images/reviews/ringeisen-ag-koeniz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und vorallem fachmännische Beratung. Das von Ringeisen angefertigte Bett ist 1A Qualität und millimetergenau geschreinert. Gerne wieder!",
+        "time": 1530383267,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marc Wüthrich",
+        "author_photo": "/images/reviews/ringeisen-ag-koeniz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1727422330,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "D. W.",
+        "author_photo": "/images/reviews/ringeisen-ag-koeniz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1694948339,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

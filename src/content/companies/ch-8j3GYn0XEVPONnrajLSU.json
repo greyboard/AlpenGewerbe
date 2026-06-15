@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJq0FiLoQLkEcRWb1n79uzsqc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Ueli Lehmann",
+        "author_photo": "/images/reviews/herzog-umbauten-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Baumeister!\nHat Mehrfamilienhaus zu einem günstigen Preis und guter Qualität realisiert, mit schönem Sichtbeton!\nDavide Palazzo kümmert sich persönlich für gutes Gelingen und ist oft selber vor Ort auf der Baustelle. Dabei denkt er auch bei anderen Arbeitsgattungen mit und hilft so ein Projekt optimal abzuwickeln.\nGut, günstig, fair und sympathisch 👍",
+        "time": 1716836909,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yves Bachmann",
+        "author_photo": "/images/reviews/herzog-umbauten-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente und umsichtige Zusammenarbeit. Danke für die gute und termingerechte Arbeit.",
+        "time": 1767685223,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Thomas Keller",
+        "author_photo": "/images/reviews/herzog-umbauten-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Besten Dank für Euren Einsatz.\nHat alles super geklappt.\nBin sehr zufrieden mit Eurer Arbeit.\nGerne wieder.",
+        "time": 1716561029,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "philippe Hungerbühler",
+        "author_photo": "/images/reviews/herzog-umbauten-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundliche Kommunikation, Spontanität und Hilfsbereitschaft der zwei Geschäftsleiter.\nVorarbeiter und Poliere übernehmen Verantwortung und unterstützen bei der Planung und Koordination.",
+        "time": 1716535532,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Barbara Leutenegger",
+        "author_photo": "/images/reviews/herzog-umbauten-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Setzt sich für eine gute Berufsausbildung ein und gibt das Wissen um gutes Handwerk weiter. Sehr empfehlenswert!",
+        "time": 1664819904,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

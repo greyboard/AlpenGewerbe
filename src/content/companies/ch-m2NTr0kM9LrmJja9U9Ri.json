@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6R1PfZOGmkcRqOXVGmi0SSQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:30–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Susi Stuessi",
+        "author_photo": "/images/reviews/a-h-maurer-gartenbau-gmbh-diessenhofen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bin restlos zufrieden! Freundlich, kompetent,  effizient,  zuverlässig.  Termine von der Besichtigung bis zur Fertigstellung  eingehalten. Kann ich sehr empfehlen. Topp!",
+        "time": 1626246840,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Renato Chiozza",
+        "author_photo": "/images/reviews/a-h-maurer-gartenbau-gmbh-diessenhofen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die wiederum perfekte Ausführung der Arbeiten und dies zu einem sehr fairen Preis. Gerne immer wieder.",
+        "time": 1647334214,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Roger Engler",
+        "author_photo": "/images/reviews/a-h-maurer-gartenbau-gmbh-diessenhofen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Kompetent und sehr zuverlässig.\nSehr gutes Preise – Leistungsverhältnis.\nKann nur weiterempfohlen werden.",
+        "time": 1591268960,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Siegi Lange",
+        "author_photo": "/images/reviews/a-h-maurer-gartenbau-gmbh-diessenhofen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit.  Passt !",
+        "time": 1745493202,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Karin Di Sabatino",
+        "author_photo": "/images/reviews/a-h-maurer-gartenbau-gmbh-diessenhofen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "5 Sterne für tolles innovatives Team",
+        "time": 1572969021,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

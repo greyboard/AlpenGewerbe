@@ -26,5 +26,31 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0VfWvXw7kEcRYL4TKWqOvgk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: 09:00–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Flamur Ramadani",
+        "author_photo": "/images/reviews/baupart-baumann-partner-platten-aktuelle-boden-und-wandplatten-fuer-innen-und-aussen-in-der-region-aarau-oberentfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professioneller und freundlicher Kontakt. Die Firma wirkt zuverlässig und arbeitet sauber und präzise.\nSehr empfehlenswert!",
+        "time": 1775428391,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

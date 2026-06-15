@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8Ypp5KO5kUcROufUXHENvzA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Emily Pease",
+        "author_photo": "/images/reviews/felix-fluri-schreinerei-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Felix Fluri und sein Team haben bei uns im Studio Yogabloom mehrere Türen und eine Wand aus Eichenholz und Glas eingebaut. Alles ist aus Massivholz auf Mass gefertigt, es ist wunderschöne präzise Arbeit und alles passt perfekt! Wir sind absolut zufrieden und können die Schreinerei sehr empfehlen. Danke Felix und Team!",
+        "time": 1716234073,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michel Röthlisberger",
+        "author_photo": "/images/reviews/felix-fluri-schreinerei-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit den custom-Lösungen der Schreinerei Felix Fluri.\nSehr kreativ und präzis.\nDanke!",
+        "time": 1642727538,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

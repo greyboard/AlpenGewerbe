@@ -26,5 +26,54 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJQ-a-tRpwB0ERw_Up9rKE13A",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Nico Junghans",
+        "author_photo": "/images/reviews/bernasconi-boden-decke-waende-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr netter Kundenservice:)",
+        "time": 1780493645,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Bala Fadil",
+        "author_photo": "/images/reviews/bernasconi-boden-decke-waende-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732554686,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sara Brönnimann",
+        "author_photo": "/images/reviews/bernasconi-boden-decke-waende-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1723032787,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "louis maesano",
+        "author_photo": "/images/reviews/bernasconi-boden-decke-waende-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1712229501,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "stefano bartholdi",
+        "author_photo": "/images/reviews/bernasconi-boden-decke-waende-bern/reviewer_5.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1659032874,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

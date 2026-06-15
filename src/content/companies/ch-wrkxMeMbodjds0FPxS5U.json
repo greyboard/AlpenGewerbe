@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJFxxjO9odm0cRdSjlg3NS52o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:55 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:55 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:55 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:55 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:55 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Benedikt",
+        "author_photo": "/images/reviews/meister-stahlbau-ag-wittenbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher und professioneller Kontakt, hervorragende Qualität und flexibles Eingehen auf Kundenwünsche bei fairen Preisen - mehr kann man sich nicht wünschen!",
+        "time": 1672166302,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kristjan Kol",
+        "author_photo": "/images/reviews/meister-stahlbau-ag-wittenbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich und kompetente Beratung von A-Z.\nDie Arbeiten wurden sauber Ausgeführt und Termin und Kosten wurden eingehalten",
+        "time": 1676987449,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rolf Markus Baumann",
+        "author_photo": "/images/reviews/meister-stahlbau-ag-wittenbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der Erste zu sein ist immer schön ;-)",
+        "time": 1612947935,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Carmen Seyfried",
+        "author_photo": "/images/reviews/meister-stahlbau-ag-wittenbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672390299,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

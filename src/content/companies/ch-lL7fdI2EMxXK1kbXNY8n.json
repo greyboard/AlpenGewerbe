@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-7XcVr3fmkcRp2ihEctU9jY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Biraj Dhungel",
+        "author_photo": "/images/reviews/diener-haustechnik-ag-sanitaere-anlagen-heizungen-tankrevision-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super freundlich und spontan im Einsatz! Ich hatte seit zwei Tagen kein warmes Wasser im Haus – die Rohre waren gefroren. Diener hat geholfen, die Leitung aufzutauen, und mir gute Tipps zur Isolierung gegeben",
+        "time": 1767709069,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Reto Krucker (elRetito)",
+        "author_photo": "/images/reviews/diener-haustechnik-ag-sanitaere-anlagen-heizungen-tankrevision-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Da ich Wasser auf dem Boden hatte, habe ich bei Diener Haustechnik angerufen.\nAnstatt einfach vorbeizukommen, haben wir das Problem zusammen am Telefon analysiert und sind zum Schluss gekommen, dass es am Geschirrspüler liegt, welcher vom Servicetechniker desselben repariert werden muss. Somit musste ich keine Fahrkosten oder Arbeitsstunden bezahlen und bin bei der Problemfindung schnell weitergekommen.\nvielen Dank nochmal!",
+        "time": 1596723261,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Reto Zürcher",
+        "author_photo": "/images/reviews/diener-haustechnik-ag-sanitaere-anlagen-heizungen-tankrevision-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Diener Haustechnik unser Badezimmer umgebaut/renoviert.\nHat alles super geklappt.\nBeratung und Umsetzung waren top und zu unserer vollsten zufriedenheit.\nKleiner Mängel resp. Anpassundswunsch wurde umgehend erledigt.\n👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "time": 1549814864,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Valentin Thomann",
+        "author_photo": "/images/reviews/diener-haustechnik-ag-sanitaere-anlagen-heizungen-tankrevision-herisau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetente, zielgerichtete und freundliche Beratung. Die Arbeiten vor Ort wurden effizient und sauber umgesetzt. Gerne wieder. Besten Dank!",
+        "time": 1676923015,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Yannick Kunz",
+        "author_photo": "/images/reviews/diener-haustechnik-ag-sanitaere-anlagen-heizungen-tankrevision-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Danke für die tolle Arbeit, pünktlich, freundlich und top organisiert. Gerne wieder!",
+        "time": 1733420855,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

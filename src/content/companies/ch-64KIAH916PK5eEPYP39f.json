@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGWxc4Vppj0cRwClNirn96BA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Gabi Karlen",
+        "author_photo": "/images/reviews/escher-caesar-ag-gamsen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit der Schreinerei rundum zufrieden. Von der Beratung über die Planung bis zur Umsetzung lief alles reibungslos. Termine wurden eingehalten, die Ausführung war präzise und das Ergebnis hochwertig. Sehr kompetentes und freundliches Team – jederzeit wieder!",
+        "time": 1768772036,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Rolf Bayard",
+        "author_photo": "/images/reviews/escher-caesar-ag-gamsen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere 30 Jahre alten Fenster von der Firma Escher Cäsar auswechseln lassen.\nDie Fenster selber sind sehr sauber und hochwertig verarbeitet.\nDie alten Fenster wurden auschgenitten und die neuen eingesetzt.\nAlles hat ausgezeichnet funktioniert.\nWir sind von A bis Z sehr ! zufrieden mit dieser Firma und empfehlen sie weiter.",
+        "time": 1731066409,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Karin",
+        "author_photo": "/images/reviews/escher-caesar-ag-gamsen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und kompetente Firma. Von der Auftragserfassung bis zur fertigen Montage einwandfreie Arbeit. Die Beratung und Organisation vom Geschäftsführer, sowie die saubere und rasche Montage sind top. Absolut empfehlenswert.",
+        "time": 1666943765,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrick Fux",
+        "author_photo": "/images/reviews/escher-caesar-ag-gamsen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Fenster sehen nicht nur super aus, sie sind auch in einer top Qualität geliefert und montiert worden! Und dies alles zu einem super Preis. Jederzeit gerne wieder!",
+        "time": 1639123887,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michel Zumoberhaus",
+        "author_photo": "/images/reviews/escher-caesar-ag-gamsen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Massgeschneiderte Lösung genau wie gewünscht umgesetzt. Sind extrem zufrieden. Merci!",
+        "time": 1675919430,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

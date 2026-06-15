@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJX97uGQI8kEcR3vhJfOIVYSQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Björn Sundin",
+        "author_photo": "/images/reviews/felix-steiner-ag-rohr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Im Rahmen der Sanierung unserer Eigentumswohnung im Herbst 2025 haben wir die Felix Steiner AG mit einer Teilrenovierung der Küche und dem Austausch von Geräten beauftragt. Wir sind mit der Arbeit sehr zufrieden, die Firma arbeitet kompetent und termingerecht. Die Kommunikation war unkompliziert, freundlich und offen und wir wurden gut beraten. Wir können die Felix Steiner AG nur weiterempfehlen!",
+        "time": 1768298826,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Yvonne Hügli-Fricker",
+        "author_photo": "/images/reviews/felix-steiner-ag-rohr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, sehr gute Ausführung. Die Mitarbeiter sind top geschult und die Arbeiten wurden termintreu ausgeführt. Vielen Dank.",
+        "time": 1765966101,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Stefan Küenzi",
+        "author_photo": "/images/reviews/felix-steiner-ag-rohr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Felix Steiner AG kann ich nur wärmstens weiter Empfehlen. Mit der Felix Steiner AG hatten wir eine sehr Fachkompetente Schreinerei/ Küchenbauer an unserer Seite und es lief von A-Z alles reibungslos! Vielen herzlichen Dank",
+        "time": 1722106516,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Philipp Odermatt",
+        "author_photo": "/images/reviews/felix-steiner-ag-rohr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1669226223,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christoph",
+        "author_photo": "/images/reviews/felix-steiner-ag-rohr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732382909,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

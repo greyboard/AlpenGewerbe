@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKdpcoMI7kEcRhu3bHRUGVos",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Hugo Gfeller",
+        "author_photo": "/images/reviews/malermeister-hochuli-ag-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben an unserem 4 Familien Haus die Fassade und Balkon-Platten reinigen, und neu bemalen müssen...\n\nIn 3 Tagen waren die grossen Flächen TIP-Top gemacht worden. Sehr freundliche und informative Beratung. 😄",
+        "time": 1779348783,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Roland Kleiner",
+        "author_photo": "/images/reviews/malermeister-hochuli-ag-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Haus (Fassade) von Hochuli Streichen lassen und meine Frau wie ich sind vom Resultat begeistert. Angefangen von der Terminverbindlichkeit, die Sauberkeit und Ausführung der Arbeiten war Top! Wir können diese Firma nur empfehlen und kommen gerne wieder auf dieses Team zurück. Lobend erwähnen möchten wir auch den Malerprofi vor Ort, welcher unserem Haus zu diesem neuen tollen Gewand verholfen hat; immer freundlich, aufmerksam und eben - ein Profi! Schön, dass es noch solche Firmen gibt. Macht weiter so!!!",
+        "time": 1714740513,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ro-G",
+        "author_photo": "/images/reviews/malermeister-hochuli-ag-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Bad mit Naturofloor neu gestaltet. Alles wurde in guter Qualität und zum abgemachten Zeitpunkt erledigt. Bei Fragen war der Chef immer stehts bemüht diese schnell zu beantworten und kam rasch auf die Baustelle.\nGerne werden wir die nächste Renovation wieder durch Hochuli ausführen lassen.",
+        "time": 1607695532,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Pascal Bucheli",
+        "author_photo": "/images/reviews/malermeister-hochuli-ag-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Seit vielen Jahren arbeiten wir regelmässig mit der Firma Hochuli zusammen und sind sehr zufrieden mit den Arbeiten.\nToller Betrieb, kann ich nur weiterempfehlen.",
+        "time": 1694673639,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Treuhand AG Knaus",
+        "author_photo": "/images/reviews/malermeister-hochuli-ag-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und unkompliziert. Herzlichen Dank!",
+        "time": 1528366119,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

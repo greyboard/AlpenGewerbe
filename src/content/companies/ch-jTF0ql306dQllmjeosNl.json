@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJa2E7QoH7j0cRlbVJjm9sQ5E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "m. rea",
+        "author_photo": "/images/reviews/end-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bin zufrieden gewesen mit End Sanitär AG (Mitarbeiter Titus)\nHabe heute Vormittag meiner Hausverwaltung angerufen wegen dem tropfenden Wasserhahn und die haben es an End Sanitär weitergeleitet und haben mir gleich angerufen und sind auch schnell gekommen was mich sehr gefreut hat sehr kompetent Mitarbeiter Titus\nKann es weiter empfehlen! Bitte weiterleiten an Mitarbeiter Titus!👍",
+        "time": 1776170244,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "studio aw",
+        "author_photo": "/images/reviews/end-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dank der End AG ist es in unserer Wohnung nun so warm wie noch nie in den letzten 15 Jahren! Herzlichen Dank!",
+        "time": 1765525028,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Benno Christen",
+        "author_photo": "/images/reviews/end-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten mit der End AG unsere Badezimmer umgebaut. Das Team war äusserst professionell und untereinander gut informiert. Von der Beratung bis zur Installation verlief alles reibungslos und effizient. Die Qualität ihrer Arbeit und ihrer Produkte war super. Unsere neuen Badezimmer sehen toll aus! Ich kann die End AG jedem empfehlen, der hochwertige Sanitärlösungen sucht. Vielen Dank an das Team für ihre souveräne Arbeit!",
+        "time": 1712343071,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Reto Giusti",
+        "author_photo": "/images/reviews/end-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tolle Zusammenarbeit in unserem Attika-Studio. Der Umbau von der Nasszelle verlief perfekt, mit schönen Ideen der Firma End AG. Gerne wieder und sehr empfehlenswert. Super Arbeit und alles im Termin. Bravo, Reto Giusti und Sandra Keiser",
+        "time": 1654514469,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Igor P.",
+        "author_photo": "/images/reviews/end-ag-luzern/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Diesen Sommer hat die End AG im Autrag der ewl den Seewärmeanschluss bei unserer Überbauung gemacht. Seither fällt fast einmal pro Woche das Warmwasser aus. Des Weiteren liegt seit Wochen immer noch eine riesige Leiter im Keller herum. Ein absoluter Globiverein genau wie die ewl...",
+        "time": 1726659692,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

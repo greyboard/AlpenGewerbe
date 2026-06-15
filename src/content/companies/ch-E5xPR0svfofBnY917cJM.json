@@ -1,7 +1,7 @@
 {
   "id": "ch-E5xPR0svfofBnY917cJM",
   "slug": "alla-vetreria-perletti-sagl-bellinzona",
-  "name": "Alla Vetreria Perletti Sagl",
+  "name": "Alla vetreria Perletti Sagl",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,54 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJXTYxx7dLhEcRk_8npHlhtJU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Claude Ramoni",
+        "author_photo": "/images/reviews/alla-vetreria-perletti-sagl-bellinzona/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Was ich trotz des kleinen Auftrags besonders geschätzt habe, waren die Professionalität und die ständige Erreichbarkeit. Die Arbeit wurde respektvoll und sauber ausgeführt und, nicht zuletzt, in hoher Qualität. Vielen Dank.",
+        "time": 1725350111,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rachel Grüninger (Rara)",
+        "author_photo": "/images/reviews/alla-vetreria-perletti-sagl-bellinzona/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kannte keine Glasmanufaktur, als ich zufällig auf die Seite der Familie Perletti stieß. Ich muss sagen, ich habe noch nie einen so herzlichen und aufmerksamen Service erlebt. Ich hatte ein sehr altes Glasstück zerbrochen, das nicht mehr hergestellt wird und unmöglich zu finden ist – doch nicht für Herrn Perletti. Dank gründlicher Recherche und seiner Hartnäckigkeit gelang es ihm auf wundersame Weise, genau das zu finden, was ich brauchte. Wenn Sie Wert auf umfassenden Service von jemandem legen, der seine Arbeit noch mit Leidenschaft ausübt, kann ich die Glasmanufaktur Perletti wärmstens empfehlen.",
+        "time": 1714866019,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Luca Giroldi",
+        "author_photo": "/images/reviews/alla-vetreria-perletti-sagl-bellinzona/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden präzise und schnell erledigt. Ich bin seit mehreren Jahren Kunde und werde ihre Dienste definitiv weiterhin in Anspruch nehmen.",
+        "time": 1726853525,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stéphanie Pau Lessi",
+        "author_photo": "/images/reviews/alla-vetreria-perletti-sagl-bellinzona/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Eine absolute Katastrophe. Schlampige und überteuerte Arbeit. Sie haben das gesamte Holz aus dem Fensterrahmen gerissen und die Teile mit Kitt wieder zusammengeklebt ... eine Schande: 2 Fenster, 360 Euro.",
+        "time": 1563709879,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Mac",
+        "author_photo": "/images/reviews/alla-vetreria-perletti-sagl-bellinzona/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Die Scheibe wurde ausgetauscht, zwar verspätet, aber gut und ohne Probleme (hoffentlich bleibt das so...). Und nicht zu vergessen der günstige Preis. Empfehlenswert.",
+        "time": 1496350604,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

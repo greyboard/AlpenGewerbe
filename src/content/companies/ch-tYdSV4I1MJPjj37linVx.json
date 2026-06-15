@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJpYcg0QDjjUcRtTSjf2AougY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 44,
+    "reviews": [
+      {
+        "author_name": "Killian Wenger",
+        "author_photo": "/images/reviews/n-tecservices-sarl-cernier/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles Unternehmen, qualitativ hochwertige Arbeit, effizient ausgeführt. Wir sind mit der Installation unserer neuen Badezimmermöbel sehr zufrieden. Vielen Dank an das gesamte Team und insbesondere an Herrn Mendes für seine Beratung und Projektleitung.",
+        "time": 1772708694,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Giulia Legio",
+        "author_photo": "/images/reviews/n-tecservices-sarl-cernier/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Installation d'une cuvette et chasse d'eau: travail impeccable, propre et minutieux par M. Cana soucieux de laisser le tout dans les meilleures conditions vu l'âge de l'appartement. Merci beaucoup.",
+        "time": 1777223400,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "lucien mauron",
+        "author_photo": "/images/reviews/n-tecservices-sarl-cernier/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann dieses zuverlässige und vertrauenswürdige Unternehmen wärmstens empfehlen. Hervorragende Arbeit und tadelloses Projektmanagement. 👌👍",
+        "time": 1675705367,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nicolas geldart",
+        "author_photo": "/images/reviews/n-tecservices-sarl-cernier/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Service top ! Tout s’est bien passé et dans les délais ! Prix absolument correct . Je recommande vivement cette société !",
+        "time": 1741025416,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Serge Ramel",
+        "author_photo": "/images/reviews/n-tecservices-sarl-cernier/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir hatten eine hervorragende Erfahrung mit N-Techservices! Herr Mendes hat uns kompetent beraten, ein vorbildliches Projektmanagement gewährleistet und war jederzeit für uns da. Das Ergebnis: ein wunderschönes Duschbad, geschmackvoll und professionell renoviert. Vielen Dank!",
+        "time": 1760077454,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

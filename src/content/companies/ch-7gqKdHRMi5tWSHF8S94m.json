@@ -26,5 +26,54 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_xxnXK85jkcRLGNVHOxCSPg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "Peter St.",
+        "author_photo": "/images/reviews/gipser-u-malergenossenschaft-bern-thoerishaus/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Bilder sagen mehr als 1000 Worte. Auf den Fotos seht ihr den erstellten Glattputz in unserem Bad.",
+        "time": 1636961404,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simon Gonzenbach",
+        "author_photo": "/images/reviews/gipser-u-malergenossenschaft-bern-thoerishaus/reviewer_2.jpg",
+        "rating": 2,
+        "text": "wahnsinnig schlecht geplante Sanierung der Fassade… 5 Wochen ohne Fensterläden weil diese abmontiert wurden, um vermessen zu werden. Info, dass 3 Tage Zugang zur Wohnung benötigt wird, kommt knappe 1 Woche vorher…",
+        "time": 1664775500,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "M S",
+        "author_photo": "/images/reviews/gipser-u-malergenossenschaft-bern-thoerishaus/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Rechts überholen und ohne Rücksicht einfach  mal reindrücken. So wie ihr Auto  fährt, so ist wahrscheinlich auch eure Arbeit.",
+        "time": 1652852821,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Annette Buehlmann",
+        "author_photo": "/images/reviews/gipser-u-malergenossenschaft-bern-thoerishaus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Spetitive Offerterstellung, gute fachliche Beratung, qualitative und termingerechte Ausführung!",
+        "time": 1569579945,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Serafin Steinemann",
+        "author_photo": "/images/reviews/gipser-u-malergenossenschaft-bern-thoerishaus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "gute Arbeit, gerne wieder",
+        "time": 1660664397,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

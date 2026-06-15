@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJU61-YpVRhUcRlHM6GMpEoY8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "noah",
+        "author_photo": "/images/reviews/strueby-holzbau-ag-seewen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top, empfehle ich weiter",
+        "time": 1765285263,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Kai Lappins",
+        "author_photo": "/images/reviews/strueby-holzbau-ag-seewen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Es ist ein Baugeschäft was in die Zukunft blickt für die Bauherren immer ein offenes Ohr hat und für seine Mitarbeiter immer das möglichst beste macht",
+        "time": 1601669440,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "hans-jürgen lappins",
+        "author_photo": "/images/reviews/strueby-holzbau-ag-seewen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hier ist alles gut.",
+        "time": 1579969238,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Guido Mondgenast",
+        "author_photo": "/images/reviews/strueby-holzbau-ag-seewen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Geschäftspartner",
+        "time": 1488372615,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Ro Ruppert",
+        "author_photo": "/images/reviews/strueby-holzbau-ag-seewen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "wenn sie anwohner einer strüby baustelle sind, viel spass. Kran und Baulärm jeden tag 06:45 uhr. Mittagszeiten Pausen werden nicht eingehalten, sprich fast durchgehend gearbeiet. Am Samstag wird wie wochtentags gearbeitet. Baulärmrichtlinen und Arbeitszeitengesetz wird nicht eingehalten. Gruss aus der grossbaustelle in 6034 Inwil",
+        "time": 1779946845,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

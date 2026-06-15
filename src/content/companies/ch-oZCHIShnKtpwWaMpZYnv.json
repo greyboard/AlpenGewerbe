@@ -26,5 +26,47 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJWWZuVCznmkcRKNnAzeyLbOc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "annemarie gemperli",
+        "author_photo": "/images/reviews/fliesi-gmbh-gossau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "professionelle Arbeiten, sehr gute Ausführung bei nicht immer einfacher Umgebung (Restaurierungen in älterer Liegenschaft), Flair für optisch schöne und  praktisch mögliche Renovationen, Fliesi kann ich nur empfehlen!",
+        "time": 1759016366,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Sara Fiorillo",
+        "author_photo": "/images/reviews/fliesi-gmbh-gossau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr guter und freundlicher Service. Professionnell und präzise. Wir sind mit dem Ergebnis sehr zufrieden. Preis- Leistungsverhältnis stimmt. Würden wir jederzeit weiterempfehlen!!!",
+        "time": 1626777375,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Frank Stoop",
+        "author_photo": "/images/reviews/fliesi-gmbh-gossau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einer der besten PLattenleger in der Region. Auch ein Kunde von mir. Arbeitet sehr seriös und professionel. Und auch preiswert.",
+        "time": 1561527181,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

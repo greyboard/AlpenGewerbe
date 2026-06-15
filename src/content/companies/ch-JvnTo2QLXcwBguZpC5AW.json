@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJnRkoJ0v7j0cR7_argBFkdMA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: 09:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Enea Nosetti",
+        "author_photo": "/images/reviews/bonsania-gmbh-gartenbau-gartenpflege-pflanzenverkauf-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe die Bonsania GmbH für die Neugestaltung unseres Gartens beauftragt und bin mit dem Ergebnis sehr zufrieden. Es ging bei uns um Natursteinarbeiten, eine neue Sitzplatzlösung sowie die Anpassung der Umgebung – alles wurde sauber und durchdacht umgesetzt.\n\nDie Beratung war sehr angenehm und praxisnah. Es wurden gute Vorschläge gemacht, die optisch wie auch funktional Sinn ergeben haben, ohne unnötig kompliziert zu werden.\n\nDie Ausführung war präzise, besonders bei den Natursteinen hat man gesehen, dass hier mit Erfahrung gearbeitet wird. Auch die Baustelle wurde immer ordentlich hinterlassen, was ich sehr geschätzt habe.\n\nPreis-Leistung stimmt und die Zusammenarbeit war insgesamt unkompliziert.\n\nKann ich definitiv weiterempfehlen 👍",
+        "time": 1774546130,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jaromir Husme",
+        "author_photo": "/images/reviews/bonsania-gmbh-gartenbau-gartenpflege-pflanzenverkauf-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Florian ist ein engagierter, freundlicher und kreativer Gärtner. Mit seiner Fachkompetenz, qualitativ hochwertiger Arbeitsweise und seinem super Team hat er mich begeistert.\nSehr sympathische Firma mit fairen Preisen.",
+        "time": 1752679556,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Barfshop by Patricia Brönnimann",
+        "author_photo": "/images/reviews/bonsania-gmbh-gartenbau-gartenpflege-pflanzenverkauf-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "TOP Arbeit, aufgestellt sehr zuvorkommende Mitarbeiter und haben ein absolutes Herz für naturnahe Gärten. Soeben haben sie einen weiterenTeil unseres Gartens zu einem Ökoparadies umgestaltet. Ganz herzlichen Dank!",
+        "time": 1773468525,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Thomas Hartmann",
+        "author_photo": "/images/reviews/bonsania-gmbh-gartenbau-gartenpflege-pflanzenverkauf-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung!\nMan merkt, dass hier mit viel Herzblut gearbeitet wird. Preis Leistung Top.\nKommen jederzeit gerne wieder.",
+        "time": 1744398257,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Karin Vermeulen",
+        "author_photo": "/images/reviews/bonsania-gmbh-gartenbau-gartenpflege-pflanzenverkauf-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr nette und gute gartenbau",
+        "time": 1749142539,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

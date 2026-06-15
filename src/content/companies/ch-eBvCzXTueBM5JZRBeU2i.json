@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJtT5uiYZ_kEcRs8w0SI5IPTg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 38,
+    "reviews": [
+      {
+        "author_name": "Don Quichopp",
+        "author_photo": "/images/reviews/elektro-meister-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Monteure, (fast immer) sehr saubere und sorgfältige Arbeit, Termingerechte Umsetzung, sehr gute Beratung. Während dem Umbau war die Kommunikation sehr holprig, das ist definitiv ein Punkt zur Verbesserung.\nAlles in Allem waren wir aber sehr zufrieden und haben die Wahl retrospektiv nie bereut.\nVielen Dank",
+        "time": 1755810168,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Andreas Bleisch",
+        "author_photo": "/images/reviews/elektro-meister-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir erleben Elektro Meister in unseren Projekten als sehr guten und verlässlichen Partner im Bereich Elektroinstallationen. Sie halten Termine und Kosten, haben kompetente Mitarbeiter und eine sehr gute Geschäftsführung rund um Inhaber Lukas Meister.",
+        "time": 1743842754,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jess",
+        "author_photo": "/images/reviews/elektro-meister-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Elektro Meister überzeugt durch hohen Qualitätsanspruch und echte Fachkompetenz. Hier wird nicht nur sauber gearbeitet, sondern auch mitgedacht – professionell, zuverlässig und zukunftsorientiert. Ein Unternehmen, das hält, was es verspricht.",
+        "time": 1745416183,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexander Volck",
+        "author_photo": "/images/reviews/elektro-meister-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das Elektro-Meister Team um Herrn Frutiger und Herrn Wisler haben bei den Sanierungsarbeiten an unserem Haus einen hervorragenden Job gemacht. Gute vorausschauende Planung, pünktliche Einhaltung des Zeitplanes, gute Kommunikation, flexible Reaktionen auf unerwartete Situationen bauseits - ein herzliches Dankeschön für diese super Leistung! Wenn es möglich wäre, würde ich hier 6 Sterne vergeben.",
+        "time": 1601152261,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Pau Lo",
+        "author_photo": "/images/reviews/elektro-meister-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fachlich sehr kompetente und lösungsorientierte Elektrofirma. Sehr freundliches Personal. Probleme werden zeitnah und effizient gelöst. Ich bin gerne Stammkunde hier.",
+        "time": 1706428435,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

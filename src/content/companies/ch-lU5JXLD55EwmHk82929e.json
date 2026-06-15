@@ -26,5 +26,55 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_QKHqG08kEcR8xDLquSciOc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "BS *",
+        "author_photo": "/images/reviews/widmer-co-ag-aargau-suhr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "sehr empfehlenswert, einwandfreie top Arbeit",
+        "time": 1777555852,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Burim Avziu",
+        "author_photo": "/images/reviews/widmer-co-ag-aargau-suhr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1571596936,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Yancarlos Reyes",
+        "author_photo": "/images/reviews/widmer-co-ag-aargau-suhr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1567940770,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jasi Schneider",
+        "author_photo": "/images/reviews/widmer-co-ag-aargau-suhr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1560776549,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

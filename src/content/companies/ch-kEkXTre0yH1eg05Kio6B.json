@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJmWH-mTBOhUcRcpTdplBjFDg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "P. B.",
+        "author_photo": "/images/reviews/gasser-plattenbelaege-gmbh-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Gasser Plattenbeläge GmbH hat bei uns 90m2 Platten verlegt in drei Schlafzimmer und im Korridor.\n\nDa hat einfach ALLES gestimmt. Von der tollen, effizienten und sehr hilfreichen Beratung in der Ausstellung, bis zum Verfugen des neuen Plattenbodens. Alles wurde zu unserer vollsten Zufriedenheit erledigt. Nein - eigentlich wurden unsere Erwartungen weit übertroffen, denn die Firma Gasser hat recht Gas gegeben. Dadurch waren sie auch noch ein paar Tage früher fertig. Das Team rund um den Chef Othmar Schuler hat Grossartiges geleistet. Meine Partnerin und ich sind sehr zufrieden.\n\nWir können also die Firma Gasser Plattenbeläge GmbH nur wärmstens weiterempfehlen.",
+        "time": 1755597359,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Felix Heinzer",
+        "author_photo": "/images/reviews/gasser-plattenbelaege-gmbh-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1660500373,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simon Spadin",
+        "author_photo": "/images/reviews/gasser-plattenbelaege-gmbh-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1590602008,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Alois Camenzind",
+        "author_photo": "/images/reviews/gasser-plattenbelaege-gmbh-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1511593532,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

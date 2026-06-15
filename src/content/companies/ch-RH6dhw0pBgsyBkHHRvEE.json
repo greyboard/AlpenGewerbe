@@ -26,5 +26,38 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJkaiyC_23hEcRFhrs4Zdreaw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Marco Hitz",
+        "author_photo": "/images/reviews/kb-bauunternehmen-ag-trimmis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vom ersten Kontakt bis zum letzten Hammerschlag, super Arbeit abgeliefert!",
+        "time": 1675784236,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pascal Schurte",
+        "author_photo": "/images/reviews/kb-bauunternehmen-ag-trimmis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684163142,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Selina Marti",
+        "author_photo": "/images/reviews/kb-bauunternehmen-ag-trimmis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675784341,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

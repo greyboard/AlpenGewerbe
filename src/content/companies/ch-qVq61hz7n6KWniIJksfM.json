@@ -26,5 +26,31 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-9saM1u4kUcRKDQQ7efG6js",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 2,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Bruno Gagliano",
+        "author_photo": "/images/reviews/huerzeler-holzbau-ag-basel/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Wir wollten für einen Umbau mit Holz bei Hürzeler Holzbau eine potenzielle Zusammenarbeit anfragen. Leider wurde auf wiederholtes Nachfragen keine Offerte erstellt. Es kann durchaus sein, dass zum Zeitpunkt der Anfrage keine Kapazitäten oder kein Interesse an einer Zusammenarbeit besteht, was verständlich gewesen wäre. Es hätte nur transparente Kommunikation erfordert. Es hat uns sehr frustriert, dass wir keinerlei Rückmeldung auf unsere Nachfragen erhalten haben, nicht einmal eine Absage. Das empfinden wir als unfair gegenüber potenziellen Kunden.",
+        "time": 1776447849,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

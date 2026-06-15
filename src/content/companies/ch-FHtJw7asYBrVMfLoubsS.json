@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJn1K5JoqtmkcRtgbwDI2eYno",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Valentin Koch",
+        "author_photo": "/images/reviews/baumgartner-plattenbelaege-gmbh-oberaegeri/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dave liefert absolute Qualitätsarbeit! Die LED Schienen in den Badezimmern wurden so präzise reingemacht, das es schlicht Perfekt aussieht.",
+        "time": 1677406192,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Silvan Arnold",
+        "author_photo": "/images/reviews/baumgartner-plattenbelaege-gmbh-oberaegeri/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dave hat bei uns das Bad gefliesst.\nTop Arbeit und sehr freundlich. Wir sind sehr zufrieden\n\nGerne wieder einmal",
+        "time": 1750707041,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "J T",
+        "author_photo": "/images/reviews/baumgartner-plattenbelaege-gmbh-oberaegeri/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kann ich nur empfehlen. Sehr gute Qualität bei angemessenen Preisen. Nimmt sich auch die Zeit den Kunden zu beraten.",
+        "time": 1732561717,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alessandro Serratore",
+        "author_photo": "/images/reviews/baumgartner-plattenbelaege-gmbh-oberaegeri/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Saubere und kompetente Arbeit. Preis/Leistung Top!",
+        "time": 1666964327,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Matthias Püntener",
+        "author_photo": "/images/reviews/baumgartner-plattenbelaege-gmbh-oberaegeri/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1666978236,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

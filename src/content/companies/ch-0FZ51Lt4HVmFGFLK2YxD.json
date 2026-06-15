@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8xHvRsrrhEcRnGQvyCGkeBQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–20:00 Uhr",
+    "Dienstag: 08:00–20:00 Uhr",
+    "Mittwoch: 08:00–20:00 Uhr",
+    "Donnerstag: 08:00–20:00 Uhr",
+    "Freitag: 08:00–20:00 Uhr",
+    "Samstag: 08:00–20:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Calvin Beeli",
+        "author_photo": "/images/reviews/rui-plattenleger-thusis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Beste Platten, super servie, ich war sehr zufrieden danke für die Super Arbeit",
+        "time": 1773534034,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Daniela Esquina",
+        "author_photo": "/images/reviews/rui-plattenleger-thusis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionell!",
+        "time": 1712368712,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kurt Oswald",
+        "author_photo": "/images/reviews/rui-plattenleger-thusis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Beim Umbau des Badezimmers wurden wir durch Ruis kompetentes und professionelles Fachwissen sehr gut beraten. Rui fand  immer wieder  für jedes auftretende Problem eine perfekte Lösung. Er hat stets vorausschauend seine Arbeiten ausgeführt und zu unserer vollsten Zufriedenheit erledigt. Die Baustelle verliess er täglich sehr sauber. Rui, der Allrounder erledigte auch spontan diverse Arbeiten, welche nicht in sein Fachgebiet gehörten. Rui ist ein sympathischer Mann, welcher immer ein Lächeln im Gesicht hat.  Dank seiner freundlichen Persönlichkeit ist Rui ein Handwerker, welchen man gerne auf der Baustelle hat. In Zukuft wird Rui für uns die 1. Wahl sein, wenn wir wieder einen Plattenleger benötigen.\nHerzlichen Dank für die tolle Arbeit.",
+        "time": 1665174571,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Isaac Baeta",
+        "author_photo": "/images/reviews/rui-plattenleger-thusis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ehrlich und fleißig!",
+        "time": 1661802929,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Elias Watschinger",
+        "author_photo": "/images/reviews/rui-plattenleger-thusis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777391983,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJTyMrNwqTmkcRYaGhLITaIFg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "Andreas Utzinger",
+        "author_photo": "/images/reviews/haustechnik-mathis-ag-matzingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Liebes Mathis Team\n\nWir möchten uns herzlich bedanken für die Sanierung unseres Hausanschlusses. Die Ausführung war sehr professionell und wir sind sehr happy mit der neuen Verteilungsbatterie.\n\nHerzliche Grüsse\n\nAndreas Utzinger & Family",
+        "time": 1744784707,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "db bischofberger bau gmbh",
+        "author_photo": "/images/reviews/haustechnik-mathis-ag-matzingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben ein sehr schönes, modernes und auch sehr zweckmässiges neues Badezimmer. Die Firma Mathis GmbH hat uns professionell beraten, die Planung gemacht und anschliessend den Umbau durchgeführt. Wir können dieses Unternehmen vorbehaltlos und mit gutem Gewissen weiterempfehlen.",
+        "time": 1607272764,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Michi Manser",
+        "author_photo": "/images/reviews/haustechnik-mathis-ag-matzingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Mathis Team hat aus unserem alten Badezimmer ein wunderschönes Wohlfühlbad gestaltet. Wir wurden vom Start bis zur Fertigstellung sehr gut beraten, begleitet und unterstützt. Die Arbeiten wurden stets termingerecht und zu unserer vollsten Zufriedenheit ausgeführt. Wir können das Mathis Team nur weiterempfehlen.",
+        "time": 1590145722,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "C. Staub",
+        "author_photo": "/images/reviews/haustechnik-mathis-ag-matzingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke für die bereits Jahrzehnte lange solide und vertrauensvolle Zusammenarbeit. Wir sind stets sehr zufrieden und schätzen die persönliche Betreuung.",
+        "time": 1570643802,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Philipp",
+        "author_photo": "/images/reviews/haustechnik-mathis-ag-matzingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Liest einem jeden Wunsch von den Lippen und bringt immer ausserordentliche Leistungen in allen Belangen.",
+        "time": 1637352082,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

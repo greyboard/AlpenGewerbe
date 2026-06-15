@@ -1,7 +1,7 @@
 {
   "id": "ch-tHzKBUsaBKU3Akb6gutL",
   "slug": "metallwerk-zurich-ag-zuerich",
-  "name": "Metallwerk Zurich AG",
+  "name": "Metall Werk Zürich AG",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJU8w2rokKkEcRNgkHcCj0PWY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Ralph Ziegler",
+        "author_photo": "/images/reviews/metallwerk-zurich-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Feuerschale von sehr guter Qualität erhalten. Schale sieht super aus. Bestellung unkompliziert mit speditiver Lieferung. Gerne wieder.",
+        "time": 1715852564,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Beatrix Untersander-Bernegger",
+        "author_photo": "/images/reviews/metallwerk-zurich-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Immer nett und hilfsbereit.\nEinfach gute Arbeit und perfekt\nPreisleistung stimmt auch.",
+        "time": 1550849633,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Martin Boldt",
+        "author_photo": "/images/reviews/metallwerk-zurich-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einzigartig, Kreativ und immer mit höchstemQualitätsbewusstsein an der Sache. Mein Café besteht mittlerweile zu 70% aus den Händen dieser Metaller und ich kann es nur empfehlen, sich mit seinem Projekt an diese Profis zu wenden. Weiter so und auf viele weitere gemeinsame Projekte :-)",
+        "time": 1655472092,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Domenic Sommer",
+        "author_photo": "/images/reviews/metallwerk-zurich-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "So ein Service gibt es nur noch ganz selten.\nHERZLICHEN DANK DAFÜR.",
+        "time": 1706789567,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lee Hatzikiriakos",
+        "author_photo": "/images/reviews/metallwerk-zurich-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Manuel Zahner versteht die Metallurgie wie kein anderer. Danke für die Top Beratung!",
+        "time": 1690991409,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

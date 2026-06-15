@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP0dgTyWAmkcRjLDkIUGXFV4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Rizzo Rosario Angelo",
+        "author_photo": "/images/reviews/stauber-malergeschaeft-gmbh-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Rizzo Rosario Malergeschäft 2020. fr.75. 1Std 👍",
+        "time": 1582235218,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Y. Lan",
+        "author_photo": "/images/reviews/stauber-malergeschaeft-gmbh-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit meiner Balkonrenovation bei dem Stauber Malergeschäft. Ihre Angebote sind vielfältig: Wandmalern und Boden mit Polyurethanharz. Die Arbeiter sind sehr freundlich und kommunikativ. Jetzt ist mein Balkon beim warmen Wetter eine Oasis richtig zu geniessen.",
+        "time": 1740395604,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alessia Fiorito",
+        "author_photo": "/images/reviews/stauber-malergeschaeft-gmbh-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Frau Nick hat schon öfters für mich Arbeiten Erledigt! Bin top zufrieden und wurde super gut beraten! 😊",
+        "time": 1555945397,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Mattia",
+        "author_photo": "/images/reviews/stauber-malergeschaeft-gmbh-schaffhausen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Kleines Geschäft macht aber super Arbeit",
+        "time": 1507097882,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Mirko Babic",
+        "author_photo": "/images/reviews/stauber-malergeschaeft-gmbh-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden!",
+        "time": 1709787362,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

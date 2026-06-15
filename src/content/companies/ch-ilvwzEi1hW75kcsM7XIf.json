@@ -26,5 +26,47 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9TTmk3x_kEcR5FVsLmT_pWU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "smail hadzimamovic",
+        "author_photo": "/images/reviews/kunz-hofmann-elektro-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Habe da unternehmen beauftragt par Leitungen zu ersetzen in Ramen eine Renovierung. Das ganze dauerte ein Tag. Danach funktionierten bis dahin funktionierende Leitungen nicht mehr. Aber der Rechnung gleich per Anwalt zugestellt. Das zeugt von eine gewisse Geschäftspolitik das nicht besonderes kundenfreundlich ist. Also das Geschäft ist nicht zu empfehlen",
+        "time": 1763289397,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Bilall Hoda",
+        "author_photo": "/images/reviews/kunz-hofmann-elektro-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1764601351,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "As Kul",
+        "author_photo": "/images/reviews/kunz-hofmann-elektro-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1694689327,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJS5aBMjQthEcRxpLTTJPKY0s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Marco Margnini",
+        "author_photo": "/images/reviews/cursa-sa-tetti-piani-in-ticino-lugano/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich war mit Cursa SA in Lugano sehr zufrieden. Besonders geschätzt habe ich ihre Hilfsbereitschaft, die verständlichen Erklärungen und die professionelle Herangehensweise an das Projekt.\n\nSie verfügen eindeutig über Erfahrung in der Baubranche, insbesondere in den Bereichen Dachdeckung, Abdichtung, Blechbearbeitung, Dämmung und Sanierung. Die Kontaktaufnahme verlief unkompliziert und professionell, ohne unnötige Komplikationen.\n\nEs war eine positive Erfahrung; ich kann sie jedem, der in Lugano und im Tessin ein zuverlässiges Unternehmen sucht, wärmstens empfehlen.",
+        "time": 1778324197,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Luca Mentasti",
+        "author_photo": "/images/reviews/cursa-sa-tetti-piani-in-ticino-lugano/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1768386049,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

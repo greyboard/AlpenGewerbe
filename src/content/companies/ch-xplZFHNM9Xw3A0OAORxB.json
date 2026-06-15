@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJrZUBQyB7jEcRRvqtSvnS2hM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Edward Abensur",
+        "author_photo": "/images/reviews/bert-eau-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ehrlich gesagt, ein sehr gutes Unternehmen. Die Mitarbeiter sind sehr professionell, pünktlich und freundlich. Absolut empfehlenswert!",
+        "time": 1681894561,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pablo Molina",
+        "author_photo": "/images/reviews/bert-eau-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes Klempnerunternehmen",
+        "time": 1522410789,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Matthieu Thievent",
+        "author_photo": "/images/reviews/bert-eau-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1677702246,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alexandre Peyraud",
+        "author_photo": "/images/reviews/bert-eau-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622025071,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "midou abasi",
+        "author_photo": "/images/reviews/bert-eau-carouge/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1576102690,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

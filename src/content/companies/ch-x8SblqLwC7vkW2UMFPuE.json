@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJj9otCfaqmkcRhL2Y-tqU0FQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Gaarunjan Segar",
+        "author_photo": "/images/reviews/schwerzmann-metallbau-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1586163021,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hüseyin Cengiz",
+        "author_photo": "/images/reviews/schwerzmann-metallbau-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775342457,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Moreno Spagnoli",
+        "author_photo": "/images/reviews/schwerzmann-metallbau-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1646258093,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hannes Nussbaumer",
+        "author_photo": "/images/reviews/schwerzmann-metallbau-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1568789058,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

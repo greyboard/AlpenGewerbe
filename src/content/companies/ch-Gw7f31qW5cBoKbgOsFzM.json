@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqxaheUtLhUcRajmnQwtDgJg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Tobias Meier",
+        "author_photo": "/images/reviews/elektro-fisch-ag-einsiedeln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Elektro Fisch AG war bei unserem Komplettumbau tätig (Elektrik). Wir sind mit dem Endergebnis sehr zufrieden. Speziell erwähnen möchte ich Ryan und Fabio. Beide waren sehr lösungsorientier und kundenfreundlich. Alle besprochenen Punkte wurden eingehalten (Preis, Qualität, Zeitplan usw.). So macht Umbau Spass. Danke an das ganze Team. Immer wieder gerne!",
+        "time": 1747211390,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Kauter",
+        "author_photo": "/images/reviews/elektro-fisch-ag-einsiedeln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässige und saubere Arbeit. Immer freundlich",
+        "time": 1777657727,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Anton Puhach",
+        "author_photo": "/images/reviews/elektro-fisch-ag-einsiedeln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe die Firma für die periodische Kontrolle der elektrischen Installationen beauftragt. Alles wurde termingerecht und professionell ausgeführt. Der Preis war ebenfalls sehr fair. Klare Empfehlung!",
+        "time": 1742484895,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Oliver Pozzi",
+        "author_photo": "/images/reviews/elektro-fisch-ag-einsiedeln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Einfach Perfekt, topp Service und gute Beratung. Auch die ausgeführten Arbeiten und Personal topp.",
+        "time": 1689744508,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sarah",
+        "author_photo": "/images/reviews/elektro-fisch-ag-einsiedeln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit, immer \"zackig\" und zuverlässig. Vielen Dank",
+        "time": 1657042067,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

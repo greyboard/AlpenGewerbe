@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJgR20hCpqjkcRftr8TTigdZU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Andreas Rothacher",
+        "author_photo": "/images/reviews/kaderli-ag-duedingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das absolute Paradies zum Finden aller Dinge für den Garten und sehr freundliches und hilfsbereites  Personal in deutscher und französischer Sprache..!",
+        "time": 1775995279,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "M K",
+        "author_photo": "/images/reviews/kaderli-ag-duedingen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Seit fast 2 Monaten schiebt man eine Arbeit hinaus bei einem Neubau. Es wurde immer wieder gesagt nächste Woche nächste Woche. Und seit meine Mutter eingezogen ist. Mitte Juli ist der Rasen noch immer nicht gemacht, so viel ich weis ist jetzt endlich jemand drann. Guter Tipp: Weniger ist oftmals mehr. Wenn sie schon so viele Aufträge haben, scheuen Sie sich nicht halt mal mehr Personal zu besorgen. Denn aleine Geld macht nicht glücklich. Und bitte, Freundlichkeit der Mitarbeiter und des Chefes wäre auch nett.\nArbeit wäre soweit gut, aber die Verlässlichkeit eine Katastrophe.",
+        "time": 1663753130,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rückmeldung Rückmeldung",
+        "author_photo": "/images/reviews/kaderli-ag-duedingen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Eigentlich eine Gute Garten Firma, das Problem ist die Kommunikation ist katastrophal.\nMan bemüht sich nicht. Emails welche vor 5 Wochen geschrieben wird, werden nie beantwortet.\nWenn man einen Kunden nicht via Email Antworten will oder kann ist das für mich kein Service - Ich empfehle die Firma nicht mehr !",
+        "time": 1556724274,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Stefan Brülhart",
+        "author_photo": "/images/reviews/kaderli-ag-duedingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Gartenbau-Firma. Fest verankert in der Region und stets mit hohem Service. Kann ich jederzeit weiterempfehlen!",
+        "time": 1669976440,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manfred Lehmann",
+        "author_photo": "/images/reviews/kaderli-ag-duedingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Danke super Leistung und immer wieder",
+        "time": 1581102529,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

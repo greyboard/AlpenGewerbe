@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJDZZaDz_6j0cRyDMudhRdA8o",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Marinko Nerandzic",
+        "author_photo": "/images/reviews/gygax-gartenbau-horw-horw/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr Guter Kunde!",
+        "time": 1578231968,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Frank Rumohr",
+        "author_photo": "/images/reviews/gygax-gartenbau-horw-horw/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Meist angenehmes Team-Work",
+        "time": 1635962028,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bernhard Wolf",
+        "author_photo": "/images/reviews/gygax-gartenbau-horw-horw/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit",
+        "time": 1610989570,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Graciéla Sarina",
+        "author_photo": "/images/reviews/gygax-gartenbau-horw-horw/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein skurriler Ort.",
+        "time": 1594301168,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Raphael Haller",
+        "author_photo": "/images/reviews/gygax-gartenbau-horw-horw/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1638567146,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

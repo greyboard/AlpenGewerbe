@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJm6rdiTPWkUcRRNzDwplVN1Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "beat lanz",
+        "author_photo": "/images/reviews/glaserei-scheidegger-ag-luterbach/reviewer_1.jpg",
+        "rating": 3,
+        "text": "Freundlich,sauber und schnell jedoch extrem teuer ,zumindest im Kundenservice für kleine Reparaturen muss man sehr tief in beide die Tasche greifen! Doch arbeit war ok und schnell erledigt",
+        "time": 1757062483,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Sandro Häfliger",
+        "author_photo": "/images/reviews/glaserei-scheidegger-ag-luterbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Durfte mit Ihnen zusammen arbeiten, familiär, freundlich und professionell. Gerne wieder mal",
+        "time": 1689233730,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jürg Krämer",
+        "author_photo": "/images/reviews/glaserei-scheidegger-ag-luterbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Beratung - wir flicken statt neues Fenster",
+        "time": 1695576257,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Samuel Santschi",
+        "author_photo": "/images/reviews/glaserei-scheidegger-ag-luterbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundlich, professionell und super schnell, gerne wieder.",
+        "time": 1686751530,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alois von Flüe",
+        "author_photo": "/images/reviews/glaserei-scheidegger-ag-luterbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Beste Glaserei in der Region.\nSehr kompetent",
+        "time": 1701872825,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

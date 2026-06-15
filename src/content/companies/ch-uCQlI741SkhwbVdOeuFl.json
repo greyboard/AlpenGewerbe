@@ -1,7 +1,7 @@
 {
   "id": "ch-uCQlI741SkhwbVdOeuFl",
   "slug": "donada-sa-vezia",
-  "name": "Donada SA",
+  "name": "Donada Sa",
   "branchen": [
     "dachdecker"
   ],
@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_f8Em4sthEcRbSG3fsY7X9s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "ccs coordinator",
+        "author_photo": "/images/reviews/donada-sa-vezia/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Absolut nicht empfehlenswert – ich bin nicht bereit, auch nur in Erwägung zu ziehen, eine andere Sprache als Italienisch zu sprechen. Ich habe es auf Englisch, Französisch und Deutsch versucht und war sogar bereit, Google Translate für die einfachere Kommunikation zu benutzen. Beim zweiten Versuch ist gar nichts mehr passiert.",
+        "time": 1523962439,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Altin Dedej",
+        "author_photo": "/images/reviews/donada-sa-vezia/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710950505,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dante Tarallo",
+        "author_photo": "/images/reviews/donada-sa-vezia/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1647420787,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Paul Vannix",
+        "author_photo": "/images/reviews/donada-sa-vezia/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1594205994,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "cristian x",
+        "author_photo": "/images/reviews/donada-sa-vezia/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1591021445,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJCbUfGHT7j0cRF7Jk3HbGWhM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Jealous Pictures",
+        "author_photo": "/images/reviews/schmidt-ag-sanitaer-heizung-24-h-notfall-service-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Besten Dank für den super schnellen Einsatz, die kompetente Beratung und die Qualität ihrer Arbeit! Gerne wieder!",
+        "time": 1747122838,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lea",
+        "author_photo": "/images/reviews/schmidt-ag-sanitaer-heizung-24-h-notfall-service-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein Geschäft zum Empfehlen!!! Tolles Familienunternehmen! Die Montage absolut perfekt und sauber ausgeführt und sehr freundlicher Service!",
+        "time": 1747254289,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marina Rogger",
+        "author_photo": "/images/reviews/schmidt-ag-sanitaer-heizung-24-h-notfall-service-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann Sanitär Schmidt wärmstens empfehlen! Ein tolles Familienunternehmen, welches von einer tollen Powerfrau geführt wird! Ich habe bisher nur tolle Erfahrungen gemacht – von der ersten Beratung bis zur Umsetzung hat einfach alles gepasst. Schmidt AG nimmt sich hier wirklich Zeit für die Kunden, es wird ehrlich und kompetent beraten, und der Service ist erstklassig. Besonders hervorheben möchte ich auch die Monteure: super freundlich, zuverlässig und sehr sauber gearbeitet. Man merkt, dass hier mit Herz und Verstand gearbeitet wird. Vielen Dank an das ganze Team!",
+        "time": 1747122724,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Charlie Giger",
+        "author_photo": "/images/reviews/schmidt-ag-sanitaer-heizung-24-h-notfall-service-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die schnelle Reparatur, sehr kompetent und freundlich tolle Mitarbeiter. Ich kann allen Schmidt Sanitär nur empfehlen.",
+        "time": 1749629755,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lea Hunkeler",
+        "author_photo": "/images/reviews/schmidt-ag-sanitaer-heizung-24-h-notfall-service-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super perfekter Service ich bin so unsagbar dankbar.\nMein nicht alltägliches Problem wurde souverän und zeitnah behoben und ich kann wieder meiner Tätigkeit nachgehen.\nEinfach großartig. Vielen lieben Dank",
+        "time": 1709907995,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ49dFcKeBmkcRyNqNxhud7RI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–18:30 Uhr",
+    "Dienstag: 09:00–18:00 Uhr",
+    "Mittwoch: 09:00–18:00 Uhr",
+    "Donnerstag: 09:00–18:00 Uhr",
+    "Freitag: 09:00–18:00 Uhr",
+    "Samstag: 09:00–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Abdulkadir Akca",
+        "author_photo": "/images/reviews/euro-fliesen-buesingen-am-hochrhein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Auswahl an qualitativen Fliesen.\nDie Beratung war auch top! Wir sind sehr zufrieden.",
+        "time": 1738450903,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Valentina Montagno",
+        "author_photo": "/images/reviews/euro-fliesen-buesingen-am-hochrhein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wunderschöne und große Fliesenauswahl in toller Qualität, professionale Beratung und Top Service wie immer!",
+        "time": 1730187684,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcus Aurelius",
+        "author_photo": "/images/reviews/euro-fliesen-buesingen-am-hochrhein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Qualität und super Preis mit 1A Beratung. Kann ich nur empfehlen.",
+        "time": 1689326365,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sergio De Almeida",
+        "author_photo": "/images/reviews/euro-fliesen-buesingen-am-hochrhein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, grosses Sortiment an Muster, freundliche Menschen, verstehen was von ihrem Beruf 😉",
+        "time": 1701700734,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Antonio Renzi",
+        "author_photo": "/images/reviews/euro-fliesen-buesingen-am-hochrhein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr grosse Auswahl an Bodenfliesen , die Qualität und Preis/Leistung unschlagbar.  Immer wieder gerne bei Francesco Maffia.",
+        "time": 1666203674,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

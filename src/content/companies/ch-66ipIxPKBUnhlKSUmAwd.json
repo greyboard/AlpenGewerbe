@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJbc_Ob-J0jkcRcn-kRtKYf6o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 65,
+    "reviews": [
+      {
+        "author_name": "Sandra Duvoisin",
+        "author_photo": "/images/reviews/ad-carrelage-parquet-sevaz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit, sehr professionell, schnell, gut organisiert, Einhaltung des Zeitplans, zu empfehlen",
+        "time": 1759945300,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Dominique Huguet",
+        "author_photo": "/images/reviews/ad-carrelage-parquet-sevaz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "AD hat große Paneele (2,6 m x 1,2 m) und TopWall-Nischen installiert. Die Präzision des Laserschnitts und die Qualität der Ausführung sind bemerkenswert. Diese Firma ist professionell. Ich bin sehr zufrieden mit der Arbeit. Danke, AD!",
+        "time": 1751532794,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Beat Scheibli",
+        "author_photo": "/images/reviews/ad-carrelage-parquet-sevaz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden sehr gut ausgeführt. Die Arbeiter waren kompetent und freundlich. Wir sind mit dem Ergebnis zufrieden.",
+        "time": 1757945213,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Cristina de Schaller",
+        "author_photo": "/images/reviews/ad-carrelage-parquet-sevaz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes Preis-Leistungs-Verhältnis, schnelle Abwicklung, sehr reaktionsschnelles Unternehmen – ich kann es nur empfehlen!",
+        "time": 1774275060,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jean-Luc Blondel",
+        "author_photo": "/images/reviews/ad-carrelage-parquet-sevaz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "AD ist eine Firma, die ich wärmstens empfehlen kann. Hervorragende Arbeit, Termine und Angebot eingehalten. Vielen Dank!",
+        "time": 1765959406,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

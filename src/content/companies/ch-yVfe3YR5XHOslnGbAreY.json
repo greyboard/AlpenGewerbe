@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJWcLqa1LxmkcRVYhk1f4f4L0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Denis Nuredini",
+        "author_photo": "/images/reviews/aliugips-gmbh-weinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und saubere Arbeit. Das Team war pünktlich, zuverlässig und hat alles perfekt umgesetzt. Man merkt sofort die Erfahrung und die hohe Qualität der Arbeit. Ich bin sehr zufrieden und kann Aliugips GmbH definitiv weiterempfehlen!",
+        "time": 1774893574,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "S. Kibar",
+        "author_photo": "/images/reviews/aliugips-gmbh-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Junior Aliu hat uns im Februar 21 bei der Sanierung unserer Eigentumswohnung von A-Z unterstützt, war stets freundlich und geduldig, wenn mal etwas nicht klar war.\nYlber und sein Team haben die Wände und Decken neu verputzt, in der Küche wurde eine Gisplatte angebracht, da wir LED Spots wollten. Abrechnungen waren transparent und verständlich. Preis -/ Leistungsverhältnis top!\nHat alles super funktioniert, vielen Dank an das ganze Team.",
+        "time": 1668463574,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Annette Rahatoka",
+        "author_photo": "/images/reviews/aliugips-gmbh-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Qualität in jedem Produkt, sehr schnelle Lieferung und bezahlbare Qualität, gerne immer wieder",
+        "time": 1698047020,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Man Gue",
+        "author_photo": "/images/reviews/aliugips-gmbh-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Toller Service sowie schnelle Abwicklung!",
+        "time": 1640867227,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sokol Qerreti",
+        "author_photo": "/images/reviews/aliugips-gmbh-weinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Speditiv, freundlich!",
+        "time": 1657190063,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5cvwrhmSmkcR8cZcHu-Qz_4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Dennis Gildehaus",
+        "author_photo": "/images/reviews/soma-gartenbau-gmbh-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben schon mehrere gemeinsame Projekte mit der Soma Gartenbau GmbH als Firma und Projektleiter realisieren dürfen.  Das Team ist super freundlich, zuverlässig und harmoniert auf der Baustelle hervorragend mit den Subunternehmern zusammen. Egal ob es um Gartenplanung, Pflanzarbeiten oder Pflege geht – alles wird bis ins kleinste Detail perfekt umgesetzt.",
+        "time": 1738000935,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "N M",
+        "author_photo": "/images/reviews/soma-gartenbau-gmbh-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Fabian und sein Team leisten eine hervorragende Arbeit. Pünktlichkeit, Flexibilität, Kreativität und Sauberkeit werden gelebt bei Soma Gartenbau. Es wird ein Miteinander gelebt in dieser Firma  - sei es im Team intern oder zusammen mit dem Kunden.\nZusätzlich zu der tollen Organisation und Leistung möchten wir die sehr angenehme menschlichen Attribute erwähnen von Daniel und Silvan - man spürt eure Freude an eurem Beruf, eure Kreativität und es war sehr angenehm mit euch und eurer Anwesenheit. Merci!\nHard skills meets soft skills - what do you want more for a successful garden project?\nJust a clear recommendation - go 4 it!",
+        "time": 1729669267,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcel Brunner",
+        "author_photo": "/images/reviews/soma-gartenbau-gmbh-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Junges, dynamisches und kompetentes Team, bei welchem auf jegliche Kundenwünsche eingegangen wird.\nVon der Erstbesichtigung, Offerterstellung, Zwischenbesprechung und Umsetzung - wir sind super happy mit dem Ergebnis und wurden jederzeit professionell beraten.",
+        "time": 1621361108,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefan Frühauf",
+        "author_photo": "/images/reviews/soma-gartenbau-gmbh-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fabian und sein Team können wir nur weiterempfehlen: Prompte Besichtigung unseres Gartens, saubere Offertstellung, zügige und sorgfältige Erledigung der Arbeiten. Wir kommen beim nächsten Mal gerne wieder auf das Soma-Team zurück - vielen Dank!",
+        "time": 1669127173,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andreas Weber",
+        "author_photo": "/images/reviews/soma-gartenbau-gmbh-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Handwerker mit Fachwissen und Verstand. Leider findet man solche Betriebe nur noch selten. Qualität vor Quantität....wir sind sehr zufrieden mit ihrer Arbeit.",
+        "time": 1681757846,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

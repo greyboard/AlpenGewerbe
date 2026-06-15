@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ3PoeHb7j0cRAv9wT_sjn8M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Beat Langer",
+        "author_photo": "/images/reviews/brauchli-ag-luzern-luzern/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Firma Brauchli bestand auf Barzahlung der erbrachten Leistung (was am 23.12.2022 erfolgte) und schickte mir knapp drei Monate später eine Zahlungsaufforderung inkl. Mahnungsandrohung. Erhalt Barzahlung wurde jedoch durch den Mitarbeiter B. B. schriftlich bestätigt.\n\nHatte die Geschäftsführerin, die mir mit Mahnung gedroht hatte, anhand aller vorliegenden Dokumente auf den Irrtum hingewiesen. Ihrerseits kam nicht einmal eine Entschuldigung, aber auch keine weitere Zahlungsaufforderung….\n\nVon meiner Seite absolut keine Empfehlung für diese Unternehmung.",
+        "time": 1772437834,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Matthias Koch",
+        "author_photo": "/images/reviews/brauchli-ag-luzern-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe kürzlich die Brauchli Schreinerei beauftragt und bin begeistert von ihrer Arbeit. Die Qualität und Detailgenauigkeit ihrer Möbel sind beeindruckend. Das Team war stets freundlich, pünktlich und hat meine Wünsche perfekt umgesetzt. Der Preis war fair und die Kommunikation lief reibungslos. Ich kann die Brauchli Schreinerei jedem wärmstens empfehlen!",
+        "time": 1719385708,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matthias Huettner",
+        "author_photo": "/images/reviews/brauchli-ag-luzern-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Solide Arbeit erhalten - dankbar, dass auch ein kleinerer Auftrag angenommen wurde und speditiv Lücken im Kalender genutzt wurden um unsere Arbeiten zeitnah zu erledigen. Sehr zufrieden.",
+        "time": 1643389084,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Karo K",
+        "author_photo": "/images/reviews/brauchli-ag-luzern-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr innovatives dienstleistungsorientiertes Unternehmen, faire Preise, gute Beratung. Kann man immer wieder empfehlen.",
+        "time": 1736159151,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "NN",
+        "author_photo": "/images/reviews/brauchli-ag-luzern-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super hilfreiche Mitarbeitende mit mega Know How",
+        "time": 1761907780,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

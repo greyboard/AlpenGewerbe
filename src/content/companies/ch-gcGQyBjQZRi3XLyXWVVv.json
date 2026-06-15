@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCxuYG9s9kEcRkPl0cB2XMl8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Sandro Hängärtner",
+        "author_photo": "/images/reviews/fehlmann-ag-keramikbelaege-und-natursteine-hunzenschwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seidenfeine Arbeit, die Jungs haben uns die komplette Hütte neu eingeschrootet, die netten Bürodamen haben uns auch immer gut beraten. Der junge Wipfli hat es faustdick hinter den Ohren, dem brennen die Lösungen förmlich unter den Fingernägeln, 1A Typ , 1A Firma",
+        "time": 1655142612,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Timo Geiger",
+        "author_photo": "/images/reviews/fehlmann-ag-keramikbelaege-und-natursteine-hunzenschwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nette Mitarbeiter,  Partnerfirmen und Projektbetreuer.\nDas Ergebnis von unserem Umbau ist sehr schön geworden und die Projektumsetztung war angenehm und fehlerfrei dank Herr Fehlmann!\nEin grosses Merci nochmals!",
+        "time": 1702555291,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Domi S.",
+        "author_photo": "/images/reviews/fehlmann-ag-keramikbelaege-und-natursteine-hunzenschwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Haben in unseren Haus alle Bodenbeläge von dieser Firma legen lassen und sind sehr zufrieden.\nGerne möchten wir uns ganz herzlich bei Frau Müller für Ihre gute Beratung und hervorragenden Service bedanken.\nWeiter so !!!",
+        "time": 1547221791,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marius Aeschlimann",
+        "author_photo": "/images/reviews/fehlmann-ag-keramikbelaege-und-natursteine-hunzenschwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Fehlmann AG hat uns Top Platten geliefert, leider war unser Plattenlegger eher ein Gisper , die nächsten Platten werden gleich von der Firma Fehlmann verlegt.",
+        "time": 1666944463,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Robin Hängärtner",
+        "author_photo": "/images/reviews/fehlmann-ag-keramikbelaege-und-natursteine-hunzenschwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1646734021,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

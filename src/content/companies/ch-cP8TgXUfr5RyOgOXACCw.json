@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJWypP5r5qkEcRdajpx2pEueA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:45 Uhr, 13:30–16:45 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:30–16:45 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:30–16:45 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:30–16:45 Uhr",
+    "Freitag: 08:00–11:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 38,
+    "reviews": [
+      {
+        "author_name": "S K",
+        "author_photo": "/images/reviews/kern-elektro-ag-brugg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Caruso ist immer sehr nett und schnell. Vielen herzlichen Dank, dass sie mein HDMI-Kabelproblem so schnell gelöst haben. Super Service!",
+        "time": 1727350549,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "d s",
+        "author_photo": "/images/reviews/kern-elektro-ag-brugg/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Die Dame, welche meinen Anruf entgegen nahm war sehr freundlich. Sie leitete mein Anliegen dem Geschäftsführer weiter. Er rief mich zwei Stunden später zurück, war jedoch sehr unmotiviert, unfreundlich und zeigte sich überhaupt nicht an meinem Auftrag interessiert! Scheinbar geht es dem Geschäft finanziell gut und sie benötigen keine neuen Aufträgen von Privatkunden! Ohne mich, so was geht gar nicht!!!",
+        "time": 1649531731,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "oyhchris",
+        "author_photo": "/images/reviews/kern-elektro-ag-brugg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Riniker war sehr freundlich und kompetent. Die Terminvereinbarung wie auch die Ausführung war tip top. Gerne wieder!",
+        "time": 1736849930,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "R B",
+        "author_photo": "/images/reviews/kern-elektro-ag-brugg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Was ich besonders an Kern Elektro schätze, ist ihre Fähigkeit, Probleme schnell zu lösen und Lösungen zu finden, die auf die Bedürfnisse ihrer Kunden zugeschnitten sind. Ihr Team von erfahrenen Elektroinstallateuren ist äußerst professionell und arbeitet hart, um sicherzustellen, dass ihre Kunden mit ihrer Arbeit zufrieden sind.\n\nDarüber hinaus ist ihr Kundenservice ausgezeichnet. Ich habe immer schnelle Antworten auf meine Fragen erhalten und ihre Mitarbeiter sind immer höflich und hilfsbereit. Ich fühle mich immer gut betreut, wenn ich mit Kern Elektro arbeite.\n\nInsgesamt kann ich Kern Elektro nur empfehlen. Wenn Sie einen zuverlässigen und erfahrenen Elektroinstallateur suchen, der hochwertige Arbeit leistet und einen exzellenten Kundenservice bietet, dann sind Sie bei Kern Elektro genau richtig. Ich werde ihre Dienstleistungen auf jeden Fall auch in Zukunft in Anspruch nehmen und kann sie jedem empfehlen, der eine qualitativ hochwertige Elektroinstallation benötigt.",
+        "time": 1679851716,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "M Frey",
+        "author_photo": "/images/reviews/kern-elektro-ag-brugg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Küchenumbau mit der Firma Kern gemacht und sind mit den Arbeiten äusserst zufrieden. Super organisiert,  speditiv, freundlich und sympathisch. Vielen Dank!",
+        "time": 1722505886,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

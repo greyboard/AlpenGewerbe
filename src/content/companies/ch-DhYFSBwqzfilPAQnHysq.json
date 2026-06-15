@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJl0gATQXYkUcRAOpQlLzOxQY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Martin Vögtli",
+        "author_photo": "/images/reviews/marti-ag-solothurn-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Grosse Kompetenz und Leistungsfähigkeit. Die Führungskräfte sind machen einen ausgezeichneten Job.",
+        "time": 1616579858,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fabian käppeli",
+        "author_photo": "/images/reviews/marti-ag-solothurn-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kundenmaurer im Hausumbau leistet sehr gute und saubere Arbeit. Die Organisation verlief reibungslos und die Beratung war super. Hier versteht man was Kundendienst bedeutet.",
+        "time": 1519158427,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Daniel Teixeira",
+        "author_photo": "/images/reviews/marti-ag-solothurn-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1752507752,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Zdenko Cibulka",
+        "author_photo": "/images/reviews/marti-ag-solothurn-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1707545757,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "ALi Nuhiji",
+        "author_photo": "/images/reviews/marti-ag-solothurn-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1704529624,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

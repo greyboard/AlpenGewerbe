@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ15WsyerdhEcR8EszmI-C0oM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Sabri Ekinci",
+        "author_photo": "/images/reviews/spadin-haustechnik-gmbh-flims-dorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompentente und hilfsbereite Handwerker die ihr Fach verstehen",
+        "time": 1678796298,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fuck You",
+        "author_photo": "/images/reviews/spadin-haustechnik-gmbh-flims-dorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Superteam",
+        "time": 1678794295,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Petula Voherb",
+        "author_photo": "/images/reviews/spadin-haustechnik-gmbh-flims-dorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1692204024,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Antonio Garcia Ortega",
+        "author_photo": "/images/reviews/spadin-haustechnik-gmbh-flims-dorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1678794301,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "linder dario",
+        "author_photo": "/images/reviews/spadin-haustechnik-gmbh-flims-dorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1678794223,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

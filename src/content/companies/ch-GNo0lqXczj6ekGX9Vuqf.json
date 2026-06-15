@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJZ0q5GMem0cRCY_qQVh6y2s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Michael Duy",
+        "author_photo": "/images/reviews/kaeser-p-malergeschaeft-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hier bekommt man hervorragende Malerqualität. Tolles Geschäft und super Mitarbeiter.\nDas Geschäft ist empfehlenswert.",
+        "time": 1533905596,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Elle",
+        "author_photo": "/images/reviews/kaeser-p-malergeschaeft-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super tolle Mitarbeiter, machen ihre Arbeit sauber und schön! Sind sehr zufrieden , vielen Dank!!",
+        "time": 1527796898,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Manuela Ajami",
+        "author_photo": "/images/reviews/kaeser-p-malergeschaeft-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Maler Firma kann ich nur weiter empfehlen !",
+        "time": 1603444574,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dominik Kraner",
+        "author_photo": "/images/reviews/kaeser-p-malergeschaeft-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "kann ich sehr empfehlen",
+        "time": 1589398484,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Claudio P",
+        "author_photo": "/images/reviews/kaeser-p-malergeschaeft-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1585133506,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

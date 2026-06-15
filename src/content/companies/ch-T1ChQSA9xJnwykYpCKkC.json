@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5T0Q3NjxmkcRN3GtL33TASg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Nicolai Rhee",
+        "author_photo": "/images/reviews/meier-schreinerei-ag-weinfelden/reviewer_1.jpg",
+        "rating": 3,
+        "text": "Kleiderschrank war schön und in gute Qualität. Doch mehr als 2 Monate verspätet. Zweitens sind nicht alle Kosten inkludiert. Obwohl in den Vertrag \"fertig montiert\" steht müssten wir für die letzte Installationen noch separat zahlen um den Schrank benutzen zu können.",
+        "time": 1736783350,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcel Bolliger",
+        "author_photo": "/images/reviews/meier-schreinerei-ag-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vom ersten Kontakt an mit Herrn Eisenegger wurden wir sehr kompetent beraten. Der Wunsch einer neuen modernen Küche wurde super ausgearbeitet. Unser Wunsch, Designelemente mit Alltagstauglichkeit zu kombinieren stand für uns im Vordergrund. Dieser Wunsch wurde perfekt erfüllt. Vielen Dank!",
+        "time": 1576832058,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "RIMA Bauleistungen Weinfelden",
+        "author_photo": "/images/reviews/meier-schreinerei-ag-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621436838,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniel Laubscher",
+        "author_photo": "/images/reviews/meier-schreinerei-ag-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580840329,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Daniel Sutter",
+        "author_photo": "/images/reviews/meier-schreinerei-ag-weinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1579298888,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

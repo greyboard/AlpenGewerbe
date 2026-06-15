@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGRMQD9Mfm0cR12rateTcEM0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "H. Moser immoserve.ch",
+        "author_photo": "/images/reviews/elektro-p-baenziger-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Elektro-Fachmann! Kompetent, lösungsorientiert und flexibel. Sehr zu empfehlen.",
+        "time": 1777450232,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Jonas Bürgi",
+        "author_photo": "/images/reviews/elektro-p-baenziger-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe angerufen betreffend einem kleinen elektrischen Problem. Herr Bänziger hat mich am telefon beraten, und ich konnte daraufhin das Problem lösen. Herr Bänziger verzichtet auf Zahlung, obwohl ich es angeboten habe. Schön dass es sowas noch gibt, und vielen Dank!",
+        "time": 1680789820,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "BP",
+        "author_photo": "/images/reviews/elektro-p-baenziger-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "In unserer Wohnung mussten diverse Leuchtkörper installiert werden.\n\nHerr Bänziger war sehr zuvorkommend und professionell. Die Terminvereinbarung war unkompliziert, das Preis-Leistungs-Verhältnis top. Ich kann die Elektro P. Bänziger GmbH, insbesondere Herrn Bänziger selbst, wärmstens empfehlen.",
+        "time": 1640785834,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Randy Koller",
+        "author_photo": "/images/reviews/elektro-p-baenziger-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "War pünktlich, schnell und hat perfekte Arbeit geleistet! Zudem gutes Preis-/ Leistungsverhältnis. Top!",
+        "time": 1590560649,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jonas Wetter",
+        "author_photo": "/images/reviews/elektro-p-baenziger-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das Garagentor funktioniert wieder einwandfrei. Kompetente Beratung, saubere Arbeit und ein motiviertes und freundliches Auftreten.",
+        "time": 1590570097,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

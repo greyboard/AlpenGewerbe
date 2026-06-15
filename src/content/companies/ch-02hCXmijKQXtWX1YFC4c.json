@@ -26,5 +26,39 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTVo61PUem0cRfphAnVgANJ4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "DRSL",
+        "author_photo": "/images/reviews/wild-treichler-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "W+T hat die aufwendige und komplexe Flachdachsanierung bei uns zu unserer vollen Zufriedenheit ausgeführt. Insbesondere die gewissenhafte und umsichtige Arbeit des Projektleiters Martin Wild haben wir sehr geschätzt. Man hat gut gespürt, dass bei ihm Qualität an erster Stelle steht.",
+        "time": 1731061758,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christoph Kessler",
+        "author_photo": "/images/reviews/wild-treichler-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die speditive und fachgerechte Ausführung der Dachdeckerarbeiten",
+        "time": 1777399662,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

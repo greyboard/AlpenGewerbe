@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8xT4ECcvhUcRib9l4pVQ8lI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 07:30–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Christina Lüssi",
+        "author_photo": "/images/reviews/michael-legler-baudienstleistungen-schwanden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Betonierarbeiten: Herr Legler hat die Arbeit zu unserer vollen Zufriedenheit erledigt. Er war immer pünktlich und arbeitete sehr sauber und speditiv. Auch bei Unsicherheiten in der weiteren Planung stand uns Herr Legler mit seinem Fachwissen beratend zu Seite. Der Kontakt war jederzeit angenehm und das Preisleistungsverhältnis sehr gut. Wir werden uns bei Bedarf jederzeit wieder an Herr Legler wenden und können Legler Baudienstleistungen nur wärmstens empfehlen.",
+        "time": 1750489627,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Stefan Kälin",
+        "author_photo": "/images/reviews/michael-legler-baudienstleistungen-schwanden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kleine Streifenfundament-Arbeit im Garten; für die meisten Mitbewerber zu wenig oder uninteressant! Aber Herr Legler Baudienstarbeiten kompetent aufgetreten, meinen Bedenken angenommen und den Auftrag zur besten Zufriedenheit abgewickelt.\nKann ich weiterempfehlen! 👍",
+        "time": 1746368267,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

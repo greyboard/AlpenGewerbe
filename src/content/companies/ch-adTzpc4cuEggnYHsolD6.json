@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJIS4_py3emkcR0w0ztIf9u-4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Greenfinity GmbH",
+        "author_photo": "/images/reviews/schreinerei-eisenhut-ag-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir von Greenfinity GmbH sind begeistert von der Zusammenarbeit mit der Schreinerei Eisenhut AG\n\nDie Qualität, Präzision und Zuverlässigkeit sind einfach herausragend. Die massgeschneiderten Schreinerarbeiten passen perfekt zu unseren Mooswänden und die gemeinsame Umsetzung anspruchsvoller Projekte hat unsere Erwartungen stets übertroffen.\n\nBesonders beeindruckt hat uns die Liebe zum Detail und die Kreativität, mit der die Schreinerei individuelle Lösungen findet. Ob kleinere Projekte oder grosse Herausforderungen – die Zusammenarbeit ist immer professionell, unkompliziert und auf höchstem handwerklichen Niveau.\n\nVielen Dank für die hervorragende Arbeit! Wir freuen uns auf viele weitere gemeinsame Projekte.",
+        "time": 1733782770,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Asna Jamara",
+        "author_photo": "/images/reviews/schreinerei-eisenhut-ag-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Eisenhut zusammen mit dem Team von Greenfinity haben unseren Traum von der schalldämpfenden Mooswand mit Sideboard in unserem Wohnzimmer wahr werden lassen! Von Anfang an haben wir uns fantastisch beraten gefühlt und die ganzen Arbeiten wurden absolut hochprofessionell und qualitativ perfekt ausgeführt. Das war nicht der letzte Auftrag von uns, vielen Dank für alles! :-)",
+        "time": 1728644762,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Shahryar Hemmaty",
+        "author_photo": "/images/reviews/schreinerei-eisenhut-ag-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich möchte mir einen Moment Zeit nehmen, um meine tiefste Wertschätzung für die aussergewöhnliche Arbeit, die Schreinerei Eisenhut AG für uns geleistet hat, auszudrücken.\n\nVon Anfang bis Ende zeigte das Team eine unglaubliche Kompetenz und Zuverlässigkeit. Sie haben uns während des gesamten Prozesses durch ihr Fachwissen und ihre Professionalität beeindruckt. Jede Aufgabe wurde mit grösster Sorgfalt und Präzision ausgeführt, was zu einem Endprodukt geführt hat, das unsere Erwartungen bei weitem übertrifft.\n\nBesonders hervorheben möchte ich ihre Pünktlichkeit und Freundlichkeit. Sie haben immer dafür gesorgt, dass die Arbeit termingerecht erledigt wird und ihre freundliche Haltung hat die gesamte Erfahrung äusserst angenehm gemacht. Es ist eine Seltenheit, auf ein Team zu stossen, das so engagiert ist, um sicherzustellen, dass alle Aspekte ihrer Arbeit von höchster Qualität sind.\n\nEinfach ausgedrückt, die Arbeit von Schreinerei Eisenhut AG könnte nicht besser sein. Wir sind nicht nur mit dem Ergebnis extrem zufrieden, sondern auch mit dem Prozess, der dazu geführt hat.\n\nWir werden Schreinerei Eisenhut AG ohne zu zögern weiterempfehlen und freuen uns darauf, in der Zukunft wieder mit Ihnen zusammenzuarbeiten. Es war ein wahres Vergnügen, mit einem so herausragenden und professionellen Team zu arbeiten.",
+        "time": 1688973566,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christian Geisser",
+        "author_photo": "/images/reviews/schreinerei-eisenhut-ag-herisau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer eine Freude um zu arbeiten mit der Firma Eisenhut :)",
+        "time": 1661368963,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Michael Nägele",
+        "author_photo": "/images/reviews/schreinerei-eisenhut-ag-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schreinerei Handwerk von seiner besten Seite, als zufriedener Kunde kann ich die Schreinerei Willi Nägele AG sehr empfehlen.",
+        "time": 1487122115,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

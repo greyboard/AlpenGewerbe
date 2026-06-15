@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJI9-3e5kem0cRHBfdwQcJ2_k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Monier Wegmüller",
+        "author_photo": "/images/reviews/knop-und-reitze-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte ein sehr angenehmes Gespräch mit Patrick Anderes von Knop und Reitze AG. Er hat mir die Firma und ihre Dienstleistungen ausführlich erklärt und dabei einen sehr kompetenten und professionellen Eindruck hinterlassen. Der persönliche Austausch war äusserst positiv, und ich habe das Unternehmen als vertrauenswürdig und kundenorientiert kennengelernt. Sehr empfehlenswert",
+        "time": 1743286250,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Epple",
+        "author_photo": "/images/reviews/knop-und-reitze-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente und freundliche Beratung, perfekte und saubere Arbeit.\nDie Firma können wir mit gutem Gewissen weiter empfehlen!",
+        "time": 1778776251,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Philipp Graf",
+        "author_photo": "/images/reviews/knop-und-reitze-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1723306150,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

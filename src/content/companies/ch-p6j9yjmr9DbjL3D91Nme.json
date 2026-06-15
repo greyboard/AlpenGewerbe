@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJvamAyU-qmkcRYBp4UhijoX0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–13:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Stefan N.",
+        "author_photo": "/images/reviews/fritz-weber-ag-zug/reviewer_1.jpg",
+        "rating": 3,
+        "text": "Die Firma hat die Aufhängung für Glaswände geliefert und montiert. Das Abdeckprofil in CNS wurde seitenverkehrt angefertigt und gleich wieder mitgenommen. Seiher warten wir seit 4 Monaten für das richtige Profil.",
+        "time": 1681892153,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Willi Götz",
+        "author_photo": "/images/reviews/fritz-weber-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausserordentlich rasche Erledigung des kleinen Auftrags. Danke!",
+        "time": 1654514762,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hüseyin Cengiz",
+        "author_photo": "/images/reviews/fritz-weber-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775341132,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

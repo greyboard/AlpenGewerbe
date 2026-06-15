@@ -26,5 +26,39 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5X2MSUGYhEcR3WowK8MXoq8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–00:00 Uhr",
+    "Dienstag: 00:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Philipp",
+        "author_photo": "/images/reviews/bernhard-holzbau-ag-wiesen-gr-wiesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Typisch Davoser KMU / Familienunternehmen: Kompetent, persönlich, freundlich, zuverlässig. Wir waren sowohl mit einer neuen Küche im Jahr 2022, als auch einem Umbau mit neuer Fensterfront im Jahr 2025 sehr zufrieden mit den Arbeiten und dem gebotenen Service. Besten Dank an Janine und Martin Bernhard und ihre Crew!",
+        "time": 1765201849,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Nico Sonderegger",
+        "author_photo": "/images/reviews/bernhard-holzbau-ag-wiesen-gr-wiesen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605822391,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

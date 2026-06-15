@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxxjsaQA7kEcRFGLFTFN4C70",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Michelle K.",
+        "author_photo": "/images/reviews/malerei-r-mueller-gmbh-oberentfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Robin hat bei mir tolle Arbeit geleistet! Alles sauber ausgeführt, zuverlässig und genau nach meinen Wünschen. Absolut empfehlenswert und jederzeit wieder!",
+        "time": 1763827745,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Tina Neuenschwander",
+        "author_photo": "/images/reviews/malerei-r-mueller-gmbh-oberentfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit. Die Wohnzimmer- und Schlafzimmerwand wurden schnell, sauber und wirklich professionell gestrichen. Man merkt, dass hier jemand sein Handwerk versteht. Zuverlässig, unkompliziert und das Ergebnis sieht super aus. Würde ich jederzeit wieder beauftragen.",
+        "time": 1769715768,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Natalie Wyss",
+        "author_photo": "/images/reviews/malerei-r-mueller-gmbh-oberentfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut zufrieden mit der Arbeit von Robin! Er arbeitet äusserst exakt und professionell. Besonders beeindruckt hat mich, wie gut er auf meine Wünsche eingegangen ist und sie genau nach meinen Vorstellungen umgesetzt hat. Die Ergebnisse sprechen für sich – sauber, ordentlich und mit viel Liebe zum Detail.",
+        "time": 1747834674,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Silvan Schmid",
+        "author_photo": "/images/reviews/malerei-r-mueller-gmbh-oberentfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Innovativer Jungunternehmer mit herausragendem Fachwissen und Engagement!\nVon der Erstabklärung, über die professionelle Beratung bis hin zu der ausgeführten qualitativen Arbeit - rundum zufriedenstellend..\n\nJederzeit gerne wieder - absolut empfehlenswert!",
+        "time": 1742805557,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Céline Waldvogel",
+        "author_photo": "/images/reviews/malerei-r-mueller-gmbh-oberentfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hochwertige Arbeit, an der wirklich nichts auszusetzen ist. Der Maler hat mit großer Präzision und Sorgfalt gearbeitet und das Ergebnis ist einfach top. Die Beratung war exzellent – alle Wünsche wurden berücksichtigt und mit Fachwissen und Erfahrung umgesetzt. Das Ergebnis übertrifft meine Erwartungen in Bezug auf Qualität und Ausführung. Absolute Empfehlung für alle, die Wert auf professionelle und zuverlässige Arbeit legen!",
+        "time": 1740595849,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

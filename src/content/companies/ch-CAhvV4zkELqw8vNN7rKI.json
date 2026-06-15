@@ -26,5 +26,47 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJq79sjEkshUcRbP-TFkllihw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Andreas Zweifel",
+        "author_photo": "/images/reviews/walter-hefti-sanitaer-spenglerei-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Walter Hefti Sanitär und Spenglerei überzeugt bei der Ausführung selbst anspruchsvollster Spenglerarbeiten – sowohl im Steil- als auch im Flachdachbereich – durch erstklassige Qualität, hohe Präzision und eine saubere, detailgetreue Umsetzung. Besonders hervorzuheben ist die grosse Sorgfalt, das ausgeprägte Qualitätsbewusstsein und Berufsstolz des gesamten Teams.\n\nWir arbeiten seit vielen Jahren vertrauensvoll, partnerschaftlich und auf Augenhöhe zusammen. Ihre fachliche Kompetenz, Zuverlässigkeit und Termintreue, kombiniert mit der konstant hohen Ausführungsqualität, schätzen wir ausserordentlich.\n\nWir empfehlen die Firma und ihr engagiertes Team mit bestem Gewissen gerne weiter.\n\nSCHIESSER Architektur und Bauingenieur AG, Glarus",
+        "time": 1762791264,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Josef Blättler",
+        "author_photo": "/images/reviews/walter-hefti-sanitaer-spenglerei-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Grosse Werkstatt. Professionelle Beratung und Planung. Selbständige gelernte Arbeiter.",
+        "time": 1640456403,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marlies Thoma",
+        "author_photo": "/images/reviews/walter-hefti-sanitaer-spenglerei-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1542730228,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

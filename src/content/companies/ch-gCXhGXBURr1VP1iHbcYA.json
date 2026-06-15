@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJN3yVN0zwjkcRHArSQbaQ9hs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Welten Metallbau AG Metallbau und Schlosserei",
+        "author_photo": "/images/reviews/welten-metallbau-ag-metallbau-und-schlosserei-in-gstaad-gstaad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir heissen SIe herzlich willkommen bei Welten Metallbau Gstaad",
+        "time": 1420904874,
+        "relative_time_description": "vor 11 Jahren"
+      },
+      {
+        "author_name": "Kathrin Schläppi",
+        "author_photo": "/images/reviews/welten-metallbau-ag-metallbau-und-schlosserei-in-gstaad-gstaad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Sache",
+        "time": 1660907067,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pedro De Freitas",
+        "author_photo": "/images/reviews/welten-metallbau-ag-metallbau-und-schlosserei-in-gstaad-gstaad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1779014109,
+        "relative_time_description": "vor 4 Wochen"
+      },
+      {
+        "author_name": "Mon Bp",
+        "author_photo": "/images/reviews/welten-metallbau-ag-metallbau-und-schlosserei-in-gstaad-gstaad/reviewer_4.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1626275551,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

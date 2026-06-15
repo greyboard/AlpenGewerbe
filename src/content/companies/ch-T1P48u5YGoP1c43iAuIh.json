@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJFxsL_DzhmkcRwuoPsLAAVhw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Laura Taranu",
+        "author_photo": "/images/reviews/gianpaolo-bad-pool-projekt-abtwil-sg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen! Sehr schnelle Rückmeldung, äußerst freundlich und hilfsbereit bei allem, was man braucht. Ich bin sehr zufrieden mit dem Service und werde ihn bei Bedarf auf jeden Fall wieder kontaktieren. Ich kann seine Dienstleistungen definitiv weiterempfehlen!",
+        "time": 1778762923,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Thomas Mesmer",
+        "author_photo": "/images/reviews/gianpaolo-bad-pool-projekt-abtwil-sg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert von unserem neuen Pool!\nDie Arbeiten verliefen strukturiert, zuverlässig und mit hoher Qualität. Vielen Dank für die tolle Zusammenarbeit, wir würden uns jederzeit wieder dafür entscheiden.",
+        "time": 1775673392,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Gliba Aniko",
+        "author_photo": "/images/reviews/gianpaolo-bad-pool-projekt-abtwil-sg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Er ist super 🤗",
+        "time": 1775745383,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Daniela Geisser",
+        "author_photo": "/images/reviews/gianpaolo-bad-pool-projekt-abtwil-sg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir waren mit der Poolreinigung sehr zufrieden",
+        "time": 1778598895,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Deborah Hobi",
+        "author_photo": "/images/reviews/gianpaolo-bad-pool-projekt-abtwil-sg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "super service,sympathischer typ,gute beratung,sauber und diskret,wie mann von einem fachmann erwarten kann.",
+        "time": 1778243788,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

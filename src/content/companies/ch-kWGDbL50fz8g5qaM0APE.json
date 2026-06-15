@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJG2QS4Etpj0cRPXEXr3hCteo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Hans Ulrich Brunner",
+        "author_photo": "/images/reviews/schreinerei-schmidhalter-ulysses-ag-brig-glis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Offertstellung bis zur Rechnung überzeugend. Jérôme Schmidhalter hat über mehrere Monate hinweg kompetent, freundlich und zuverlässig mehrere Arbeiten im Innenausbau zu unserer vollsten Zufriedenheit und äußerst pünktlich ausgeführt. Selbst kleine Änderungen gegenüber der Offerte wurden unkompliziert und ohne Aufpreis vorgenommen! Wir können ihn deshalb uneingeschränkt weiterempfehlen und wünschen ihm alles Gute für seine Zukunft!",
+        "time": 1647885451,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Cyglas",
+        "author_photo": "/images/reviews/schreinerei-schmidhalter-ulysses-ag-brig-glis/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Leider hat sich die Ulysses Schmidhalter AG nicht an die vereinbarte Offerte gehalten. Somit wurde der Auftrag für uns ca. 40% teurer als geplant war. Als wir die Zahlung verweigern wollten wurde uns mit rechtlichen Schritten gedroht, was man als Privatperson nicht eingehen möchte... Wir waren sehr enttäuscht über diese Vorgehensweise.\nK. Holzer",
+        "time": 1503074226,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Kiritharjan",
+        "author_photo": "/images/reviews/schreinerei-schmidhalter-ulysses-ag-brig-glis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schön",
+        "time": 1728056794,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simon Stinger",
+        "author_photo": "/images/reviews/schreinerei-schmidhalter-ulysses-ag-brig-glis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725615484,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pascal Roten",
+        "author_photo": "/images/reviews/schreinerei-schmidhalter-ulysses-ag-brig-glis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725614953,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

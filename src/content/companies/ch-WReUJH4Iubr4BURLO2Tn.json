@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJNfXIvNVujkcRTqs_wBmd8jA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.6,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Julien",
+        "author_photo": "/images/reviews/antiglio-sa-fribourg/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Diese Firma kann sich also keinen Stromgenerator leisten, läuft aber trotzdem weiter. Der Chef wird diese extrem umweltschädlichen und lauten Generatoren doch nicht etwa benutzen, selbst bei geschlossenem Fenster...\n\nHaben Sie denn gar kein Mitleid oder gesunden Menschenverstand? Offenbar nicht. Es geht nur ums Geld...",
+        "time": 1744130094,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Emel Topojani",
+        "author_photo": "/images/reviews/antiglio-sa-fribourg/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich schreibe Ihnen, um meine Besorgnis über die kürzlich erfolgte, unerwartet frühe Straßensperrung zum Ausdruck zu bringen. Diese Situation hat vielen Verkehrsteilnehmern, mich eingeschlossen, erhebliche Unannehmlichkeiten bereitet.\n\nDie plötzliche Sperrung hat meinen Tagesablauf gestört und mich daran gehindert, meine Termine wahrzunehmen. Ich hatte wichtige Termine vereinbart, und die eingerichtete Umleitung konnte diese Unterbrechung nicht kompensieren.\n\nMir ist bewusst, dass Straßenbauarbeiten oder Instandhaltungsarbeiten notwendig sein können, aber eine bessere Kommunikation hätte die entstandenen Unannehmlichkeiten deutlich verringert.\n\nIch würde mich freuen, wenn Sie meine Beschwerde berücksichtigen und die Informationen zu zukünftigen Behinderungen verbessern würden. Ich hoffe, Sie können mir weitere Details zur aktuellen Situation und zu den Maßnahmen, die ergriffen werden, um solche Vorfälle künftig zu vermeiden, zukommen lassen.",
+        "time": 1728993025,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Moi Toi",
+        "author_photo": "/images/reviews/antiglio-sa-fribourg/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Eine schädliche Unternehmenskultur. Der Bauleiter beeinflusst seine Arbeiter ständig mit einer Verleugnungshaltung. Im Umgang mit Kunden verhalten sie sich verächtlich und versuchen, mit den dümmsten Ausreden zu argumentieren: „Wir sind die Profis.“ Erst als wir den Architekten konsultierten, der uns sofort zustimmte, blieben die Arbeiter bei ihrer Position. Keine einzige Entschuldigung von der Geschäftsleitung. Sie finden mit Sicherheit Besseres!",
+        "time": 1657257075,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Thierry Haas",
+        "author_photo": "/images/reviews/antiglio-sa-fribourg/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Meiden Sie diese Firma für Renovierungsarbeiten. Die Ziegelwände wurden von den inkompetenten Mitarbeitern so stark beschädigt, dass sie schließlich mit Gips verputzt werden mussten, um die Schäden zu kaschieren.",
+        "time": 1732119949,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sumana",
+        "author_photo": "/images/reviews/antiglio-sa-fribourg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Es war leicht zu finden",
+        "time": 1763655820,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

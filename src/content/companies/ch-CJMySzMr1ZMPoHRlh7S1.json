@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJge5ji7q5kUcRwFFUO8Mofug",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Christine Balmer",
+        "author_photo": "/images/reviews/walo-isler-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Walo Isler AG hat für uns diverse Arbeiten beim Umbau unseres Einfamilienhaus erledigt. Sie haben den gesamten Umbau der Sanitären Anlagen getätigt, die gesamten Spenglerarbeiten, sowie eine neue Heizungsanlage (Luft-Wärmepumpe) installiert.\n\nWir sind mit dem Ergebnis sehr zufrieden und wurden während des gesamten Umbaus gut und professionell beraten und betreut.\n\nWir können die Firma Walo Isler AG sehr empfehlen!",
+        "time": 1700998107,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michel Bär",
+        "author_photo": "/images/reviews/walo-isler-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gesamtrenovation der sanitären Einrichtungen in unserem Haus, sowie der Heizung. Die Arbeiten wurden zu unserer vollstendiger Zufriedenheit ausgeführt. Wünsche oder spezialsituationen wurden schnell und unkompliziert behoben. Die Arbeiter haben ihre Arbeit sauber vollbracht. Auch Herr Isler kam regelmässig auf der Baustelle vorbei um zu schauen wie weit die Arbeiten vorgeschritten sind.\nSehr zu empfehlen. Besten Dank an das ganze Team",
+        "time": 1701086010,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gnanasekaran Yogarajah",
+        "author_photo": "/images/reviews/walo-isler-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Als Bauherr kann ich mit Sicherheit sagen, dass ihre Arbeit aussergewöhnlich ist. Die Firma ist mehr als nur ein Bauunternehmen – sie sind Partner, die sich voll und ganz den Projekten widmen.\n\nDie Qualität ihrer Arbeit ist beeindruckend. Jeder Aspekt, sei es die Bauplanung, -ausführung oder -überwachung, wurde mit Präzision und Fachkenntnis durchgeführt. Was mir besonders gefällt, ist ihre Fähigkeit, Probleme anzugehen, bevor sie zu Herausforderungen werden, und dabei innovative Lösungen zu finden.\n\nDie Walo Isler AG hat einen kundenorientierten Ansatz, der wirklich hervorsticht. Die Kommunikation war stets offen und ehrlich. Sie haben sich die Zeit genommen, zuzuhören und meine Bedürfnisse sowie Wünsche zu verstehen, was für mich als Bauherr von unschätzbarem Wert war.\n\nIch schätze ihre Professionalität und ihr Engagement, das weit über das Übliche hinausgeht. Es ist beruhigend zu wissen, dass man ein Bauteam hat, dem man vertrauen kann. Ich empfehle die Walo Isler AG jedem Bauherrn, der nach höchster Qualität und einem Team sucht, das sich wirklich um das Endprodukt kümmert.\n\nVielen Dank an das gesamte Team für ihre anhaltende Hingabe und erstklassige Arbeit!",
+        "time": 1700751683,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "René Häfliger",
+        "author_photo": "/images/reviews/walo-isler-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut professionelle Arbeit und zuverlässig. Sehr angenehme Kommunikation. Der perfekte Partner für sanitäre Arbeiten. Gerne wieder!",
+        "time": 1701080166,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andri Schneider",
+        "author_photo": "/images/reviews/walo-isler-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und gute Beratung, auch die Arbeiten und der Service sind top. Bin immer sehr zufrieden und würde die Firma sofort weiterempfehlen.",
+        "time": 1700808371,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

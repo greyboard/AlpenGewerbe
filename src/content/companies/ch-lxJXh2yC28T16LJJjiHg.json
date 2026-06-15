@@ -26,5 +26,31 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJLcxiNKBrj0cRFtX_ZdijiRM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 07:00–20:00 Uhr",
+    "Mittwoch: 07:00–20:00 Uhr",
+    "Donnerstag: 07:00–20:00 Uhr",
+    "Freitag: 07:00–20:00 Uhr",
+    "Samstag: 07:00–20:00 Uhr",
+    "Sonntag: 07:00–20:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "ABES Maler und Gipser Profi im Wallis",
+        "author_photo": "/images/reviews/abes-maler-und-gipser-lalden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1520406517,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

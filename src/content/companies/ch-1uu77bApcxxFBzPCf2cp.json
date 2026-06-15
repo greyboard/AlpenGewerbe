@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3VQ4SzaqmkcRJCfiBaWK_Pg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Laura Mandelli",
+        "author_photo": "/images/reviews/rueegg-haustechnik-gmbh-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mein Badezimmer mit Hilfe von Rolf renoviert, und alles verlief wie geplant. Er war sehr professionell und präzise, unterstützte uns bei der Auswahl der Materialien und koordinierte sich hervorragend mit den anderen Handwerkern. Ich kann ihn definitiv empfehlen.",
+        "time": 1750175894,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Reto Fries",
+        "author_photo": "/images/reviews/rueegg-haustechnik-gmbh-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kann ich sehr empfehlen. Schnell, unkompliziert, top Arbeit. Immer wieder",
+        "time": 1750150485,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Manuela Waser",
+        "author_photo": "/images/reviews/rueegg-haustechnik-gmbh-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundliche, schnelle, kompetente hilfe bei meinem Badezimmer problem.\nJederzeit wieder",
+        "time": 1749151800,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rustemi Behim",
+        "author_photo": "/images/reviews/rueegg-haustechnik-gmbh-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Topp Service gemacht sehr freundlich und Fachlich. Würde absolut weiterempfehlen.",
+        "time": 1749135734,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "kenny",
+        "author_photo": "/images/reviews/rueegg-haustechnik-gmbh-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zuverlässig gute Arbeit. Sind zufrieden.",
+        "time": 1734976246,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

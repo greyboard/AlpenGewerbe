@@ -26,5 +26,55 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSX4bbXFvj0cR8x44AmnD7Mo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Martin Grichting",
+        "author_photo": "/images/reviews/farb-buda-naters/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind richtig happy mit der Arbeit! Super Team, das sein Handwerk versteht und mit viel Gefühl und Genauigkeit arbeitet. Unsere Wünsche wurden ernst genommen, und man merkt sofort: Da ist echtes Gespür dafür da, was zu den Menschen passt und was ein Raum braucht, um richtig zur Geltung zu kommen. Und das Ganze mit richtig viel Herzblut, Liebe zum Detail und echter Freude an der Arbeit. Einfach top – sehr zu empfehlen!",
+        "time": 1754548504,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Jeaninne Lerjen",
+        "author_photo": "/images/reviews/farb-buda-naters/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Farb Buda Neters, immer die richtige Wahl.\nIch bin von dem Resultat überwältigt und erfreue mich jeden Tag aufs Neue daran.\nMerci vill Mal 🙏🏼",
+        "time": 1613505329,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alain Volken",
+        "author_photo": "/images/reviews/farb-buda-naters/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fachkundige, sympathische Beratung und einwandfreie Ausführung. Merci.",
+        "time": 1613506828,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Enzo Marvulli",
+        "author_photo": "/images/reviews/farb-buda-naters/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1745911789,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

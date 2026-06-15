@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfdrjSI89kEcRMPBxvtpdCIM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–15:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Familie W.",
+        "author_photo": "/images/reviews/ruba-maler-graenichen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Ruba-Maler hat sämtliche Malerarbeiten (Wände / Decken streichen, Türen / Regale abschleifen und streichen) sowie notwendige Renovationsarbeiten (Tapezieren und Verputzen) für unser neues Zuhause in Zürich durchgeführt. Alle unsere Wünsche wurden berücksichtigt, Termine und das vereinbarte Budget eingehalten, sämtliche Arbeiten sauber, speditiv und in überzeugender Qualität erbracht. Gerne empfehlen wir Herrn Rubanovici und die Firma Ruba-Maler weiter und werden sie bei Bedarf wieder beauftragen.",
+        "time": 1770282193,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Pusnei Tatiana",
+        "author_photo": "/images/reviews/ruba-maler-graenichen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777278847,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

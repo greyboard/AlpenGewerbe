@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJqXM6Esrjj0cRYZhcd_AA_Tk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Sarah Manser",
+        "author_photo": "/images/reviews/sanitaer-isler-am-pilatus-emmenbruecke/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service. Schnelle, kompetente und fachlich hervoragende Beratung. Sehr zu empfehlen.",
+        "time": 1776017348,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Karin Höfinger",
+        "author_photo": "/images/reviews/sanitaer-isler-am-pilatus-emmenbruecke/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr hervorzuheben ist das überdurchschnittliche Preis-Leistungsverhältnis.Ich empfehle Sie gerne weiter!",
+        "time": 1772429179,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Rolf Frei",
+        "author_photo": "/images/reviews/sanitaer-isler-am-pilatus-emmenbruecke/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr sympathisch, und ein Super Fachwissen.\nImmer wieder gerne👍🏻",
+        "time": 1772019109,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Kristina",
+        "author_photo": "/images/reviews/sanitaer-isler-am-pilatus-emmenbruecke/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super sympathisch, zuverlässig und unkompliziert. Die Arbeit wurde sauber erledigt und man hat sich direkt gut aufgehoben gefühlt. Gerne wieder!",
+        "time": 1779256293,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Lola Balhaban",
+        "author_photo": "/images/reviews/sanitaer-isler-am-pilatus-emmenbruecke/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service! Der Techniker war nicht nur fachlich top, sondern auch sehr freundlich und rücksichtsvoll. Preis Leistung stimmt, und ich hatte hinterher keine offenen Fragen mehr. Wurde mir von Freunden empfohlen – zu Recht! Gerne wieder!",
+        "time": 1772221333,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

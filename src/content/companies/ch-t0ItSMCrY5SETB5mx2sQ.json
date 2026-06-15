@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJNWnlRmWBmkcRuzi06SpABGM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Zvoni Lucic",
+        "author_photo": "/images/reviews/qmc-maler-schimmel-renovationen-feuerthalen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service und erstklassige Arbeit! Wir waren von Anfang bis Ende sehr zufrieden mit dem Malergeschäft. Herr Cunaj war immer sehr freundlich, professionell und hat unsere Wünsche perfekt umgesetzt. Das Ergebnis hat unsere Erwartungen sogar übertroffen – wir können den Betrieb definitiv weiterempfehlen.",
+        "time": 1772987039,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Linda",
+        "author_photo": "/images/reviews/qmc-maler-schimmel-renovationen-feuerthalen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Arbeit! Sehr zuverlässig und freundlich. Die Arbeiten wurden sauber, schnell und professionell ausgeführt. Preis-Leistung top, absolut empfehlenswert. Gerne wieder!",
+        "time": 1772476809,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Lana Dugalic",
+        "author_photo": "/images/reviews/qmc-maler-schimmel-renovationen-feuerthalen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und saubere Schimmelbehandlung. Die Arbeit wurde zuverlässig, termingerecht und mit hoher Qualität ausgeführt. Freundlich, kompetent und absolut empfehlenswert!",
+        "time": 1765752506,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Joel Cunaj",
+        "author_photo": "/images/reviews/qmc-maler-schimmel-renovationen-feuerthalen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "War mit der Arbeit sehr zufrieden. Alles wurde ordentlich gestrichen, sauber abgeklebt und am Ende sauber übergeben. Termine wurden eingehalten und das Preis-Leistungs-Verhältnis stimmt. Gerne wieder und definitiv weiterzuempfehlen.",
+        "time": 1772478026,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sadikovic Edon",
+        "author_photo": "/images/reviews/qmc-maler-schimmel-renovationen-feuerthalen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Malerarbeiten in unserer Podologie Praxis wurden sehr sauber und zuverlässig ausgeführt. Termine wurden eingehalten, alles lief reibungslos und das Ergebnis ist top. Herzlichen Dank !",
+        "time": 1765792214,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

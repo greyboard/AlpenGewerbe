@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkeYu9WjgmkcRgTLlUfwz2P0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "B B",
+        "author_photo": "/images/reviews/merz-egger-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Segermann und sein Kollege haben bei uns drei sehr alte Oberlichter ausgetauscht – und das von der ersten Kontaktaufnahme bis zur Abschlussrechnung absolut reibungslos. Die Kommunikation war klar, das Angebot fair und die Ausführung fachlich top. Alles verlief zu unserer vollsten Zufriedenheit. So wünscht man sich Handwerksarbeit – zuverlässig, sauber und kompetent. Vielen Dank für den hervorragenden Service – jederzeit gerne wieder!",
+        "time": 1754491503,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Cornelia Bischoff",
+        "author_photo": "/images/reviews/merz-egger-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nach einem Wasserschaden war Herr Hofmann schnell vor Ort um die Ursache zu suchen. Diese war sofort gefunden und fachgerecht repariert. Ein defekter Kamin wurde entfrent und das Dach wieder verschlossen. Vielen Dank für den Hinweis und die schnelle, exakte Ausführung. Auch danke ich für die professionelle Ausführung und die freundliche und engagiert. Art von Herrn Hofmann.",
+        "time": 1757400838,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "andrea sigg",
+        "author_photo": "/images/reviews/merz-egger-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Im Namnen von D. Staub\nDer heutige  Termin um 7:15 uhr wegen denn neuen Dachfenster von Bad und Schlafzimmer wahr mega schnell und sauber. Und sehr freundlich und hilfsbereit.\nNur zum Empfehlen.\nFreundliche Grüsse Dolores Staub Langelenstrasse 3 Herisau",
+        "time": 1759239613,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Claudia Büchler",
+        "author_photo": "/images/reviews/merz-egger-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Hofmann hat unser Dach mardersicher verbaut. Er arbeitet sehr gewissenhaft und engagiert. Nach erneutem Marderbefall war er sofort wieder 2 Mal vor Ort und hat alles nochmals neu beurteilt und optimiert. Sehr zu empfehlen. Super Fachmann.",
+        "time": 1742033145,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Robert Zellweger",
+        "author_photo": "/images/reviews/merz-egger-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Nach einem Hagelschaden musste unsere komplettes Dach erneuert werden. Ausgezeichnete Arbeit. Schnelle, exakte Ausführung dank einem kompetenten Team. Und das zu einem vernünftigen Preis!",
+        "time": 1706778203,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

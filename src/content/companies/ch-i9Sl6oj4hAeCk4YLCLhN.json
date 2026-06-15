@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJM3Nmf70em0cRfJt42DKrGpc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Priska Leutenegger",
+        "author_photo": "/images/reviews/kern-kern-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetente und schnelle Antwort auf grössere Mailanfragen. Eine wahre Hilfe bei wichtigen Entscheidungen. Viel Verständnis und Fachwissen. Kann ich nur wärmstens weiterempfehlen.",
+        "time": 1770389313,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "kevin s",
+        "author_photo": "/images/reviews/kern-kern-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswerte Schreinerei! Von der Beratung bis zur Umsetzung alles top. Die Arbeiten wurden präzise, termingerecht und mit viel Liebe zum Detail ausgeführt.",
+        "time": 1761333919,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Christoph Portmann",
+        "author_photo": "/images/reviews/kern-kern-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Qualität und Service. Gerne wieder!",
+        "time": 1780496943,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Patrik Etschmayer",
+        "author_photo": "/images/reviews/kern-kern-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bot einen tollen Infotag für interessierte Jugendliche an. Kompetenter, vielseitiger Ausbildungsbetrieb. Sehr empfehlenswert und systematisch",
+        "time": 1637866051,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Kronos Network",
+        "author_photo": "/images/reviews/kern-kern-ag-st-gallen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "absolut nicht empfehlenswert, sehr unsympathisch",
+        "time": 1750103298,
+        "relative_time_description": "vor 12 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

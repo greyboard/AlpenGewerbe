@@ -26,5 +26,54 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJQag5iuv3j0cR-Pzk68QMY-Y",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Anton Graber",
+        "author_photo": "/images/reviews/glas-troesch-ag-zweigniederlassung-fireswiss-buochs-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Swiss Made Brandschutzglas Ei30 bis Ei60 produziert in Buochs NW.",
+        "time": 1637861886,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Josef Bättig",
+        "author_photo": "/images/reviews/glas-troesch-ag-zweigniederlassung-fireswiss-buochs-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Firma",
+        "time": 1502572827,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Антон Бесвалдерево",
+        "author_photo": "/images/reviews/glas-troesch-ag-zweigniederlassung-fireswiss-buochs-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Firma, sie verladen Glas. Das Personal ist sehr freundlich und zuvorkommend. Es gibt keine Parkplätze vor Ort; die Anmeldung erfolgt telefonisch, das Telefon befindet sich rechts neben dem Tor.",
+        "time": 1678450217,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jakub Kowalczyk",
+        "author_photo": "/images/reviews/glas-troesch-ag-zweigniederlassung-fireswiss-buochs-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnelles Entladen, sehr freundliches Team.",
+        "time": 1644997073,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bruno Stadler",
+        "author_photo": "/images/reviews/glas-troesch-ag-zweigniederlassung-fireswiss-buochs-buochs/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Gute Gesellschaft",
+        "time": 1668182713,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

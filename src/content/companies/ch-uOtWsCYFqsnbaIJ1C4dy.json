@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJheoTaLVQhUcRwyh0Rs3FJFs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Ruth Zäch",
+        "author_photo": "/images/reviews/camenzind-gartenbau-planung-ag-gersau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Firma. Nach der wunderschönen Neugestaltung des Gartens ist auch der Unterhalt erstklassig. Kompetent, schnell und immer sehr freundlich. Gehen auf die Kundenwünsche ein. Sehr nette Mitarbeiter-/innen. Preis-Leistung stimmen hier noch.",
+        "time": 1731415640,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Seiler",
+        "author_photo": "/images/reviews/camenzind-gartenbau-planung-ag-gersau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einfach fantastisch!\n\nFabio, der Chef, ist nicht nur ein Gärtner, sondern auch ausgebildeter Landschaftsarchitekt – und das merkt man sofort. Seine kreative und professionelle Herangehensweise hat unseren kleinen Garten in einen echten Traum verwandelt.\n\nDie Beratung war top, Fabio hat sich viel Zeit genommen, um unsere Wünsche zu verstehen und mit eigenen, tollen Ideen zu ergänzen. Das Ergebnis ist genau das, was wir uns vorgestellt haben – oder sogar besser!\n\nWir würden Camenzind Gartenbau jederzeit wieder beauftragen. Absolute Empfehlung!",
+        "time": 1731623518,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Natalie Sch",
+        "author_photo": "/images/reviews/camenzind-gartenbau-planung-ag-gersau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "I can highly recommend Gartenbau Camenzind! The company has been very reliable, the workers were always on time, and all the work was done in a good and professional manner. We are very content with the outcome. The value is also good.\nThank you, Fabio and your team, for a job well done, and for the always immediate responsive communication. I would definitely use this company again:-)\n(Since I am bilingual, I will write the review also in German)\n\nIch kann Gartenbau Camenzind sehr empfehlen! Das Unternehmen war sehr zuverlässig, die Arbeiter waren immer pünktlich, und die komplette Arbeit wurde auf gute und professionelle Weise erledigt. Wir sind sehr zufrieden mit dem Ergebnis. Der Wert ist auch gut. Vielen herzlichen Dank, Fabio und an das ganze Team, für die gute Arbeit, und für die immer sofortige Kommunikation und Zusammenarbeit.\nIch würde dieser Firma auf jeden Fall wieder einen Auftrag geben.",
+        "time": 1682588188,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Julia Hatt",
+        "author_photo": "/images/reviews/camenzind-gartenbau-planung-ag-gersau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "unkomplizierte Verhandlung, kreative Ideen und zuverlässige Arbeitsausführung. Wir waren sehr zufrieden und unser Garten strahlt noch immer",
+        "time": 1529058942,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Stephan Zäch",
+        "author_photo": "/images/reviews/camenzind-gartenbau-planung-ag-gersau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Haben uns einen super schönen Garten gestaltet. Durften mit dem Chef in der Gärtnerei Pflanzen aussuchen. Er hat sich viel Zeit genommen und ist auf die Kundenwünsche eingegangen. Vielen Dank!",
+        "time": 1590227365,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

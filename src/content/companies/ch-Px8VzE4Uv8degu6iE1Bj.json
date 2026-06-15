@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJZVkDNw45jkcRaEFoNCayYfc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Deborah Taylor",
+        "author_photo": "/images/reviews/gebr-mueller-ag-metallmanufaktur-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer super Produkte, Beratung und ein symphatisches Team!",
+        "time": 1709031940,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rodion",
+        "author_photo": "/images/reviews/gebr-mueller-ag-metallmanufaktur-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1767792506,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Andreia Salgado",
+        "author_photo": "/images/reviews/gebr-mueller-ag-metallmanufaktur-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1744827559,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ismail",
+        "author_photo": "/images/reviews/gebr-mueller-ag-metallmanufaktur-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725647007,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gill Oliver",
+        "author_photo": "/images/reviews/gebr-mueller-ag-metallmanufaktur-bern/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1508497041,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

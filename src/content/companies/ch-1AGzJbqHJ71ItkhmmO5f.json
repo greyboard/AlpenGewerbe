@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJnWHwIjrhmkcR6YEgqoP-IW4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "M H",
+        "author_photo": "/images/reviews/arte-inox-schlosserei-metallbau-st-gallen-zuzwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Schlosserei! Selten so gute Schweissarbeiten gesehen. Francesco, der Inhaber,  ein unkomplizierter, sympatischer Typ! Freue mich schon auf die nächste Zusammenarbeit. Sehr zu empfehlen. Besten Dank nochmals!",
+        "time": 1739621967,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "J.Angel Rey",
+        "author_photo": "/images/reviews/arte-inox-schlosserei-metallbau-st-gallen-zuzwil/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Rundum zufrieden. Sehr gute Schweisser.unkompliziert.und hilfsbereit.👍👍👍.würde weiter empfehlen. 👍👍",
+        "time": 1724145122,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nadia Arcuri",
+        "author_photo": "/images/reviews/arte-inox-schlosserei-metallbau-st-gallen-zuzwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, speditiv und professionell.\nRundum zufrieden, weiter so. 💪🏽😃",
+        "time": 1723672515,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Severin Zeller",
+        "author_photo": "/images/reviews/arte-inox-schlosserei-metallbau-st-gallen-zuzwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Rundum Zufrieden",
+        "time": 1723532885,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Antonio Mele",
+        "author_photo": "/images/reviews/arte-inox-schlosserei-metallbau-st-gallen-zuzwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1723532764,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

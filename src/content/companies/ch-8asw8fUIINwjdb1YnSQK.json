@@ -26,5 +26,38 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5TFShOH7mkcRYe8yys6kJ_k",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "G. Schopper",
+        "author_photo": "/images/reviews/wuermli-bau-gmbh-guettingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tip Top. Zuverlässig, fachlich und menschlich.\nHerzlichen Dank!",
+        "time": 1698786387,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Erwin Voney",
+        "author_photo": "/images/reviews/wuermli-bau-gmbh-guettingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696341970,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabian Bohren (Fäbu)",
+        "author_photo": "/images/reviews/wuermli-bau-gmbh-guettingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1649177869,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

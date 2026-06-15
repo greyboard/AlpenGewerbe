@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2YoysM4PjkcRJmJGwwHXedc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Iris Schwob",
+        "author_photo": "/images/reviews/perner-ag-erlach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Diese negative Bewertung kann gar nicht stimmen, wir kennen diese Firma schon einige Jahre.\nFirma Perner hat uns aus einer Baunot geholfen, als Bauführer\nUser Dach wunderbar gedeckt, Fenster eingebaut, Dach von innen getäfert und vieles mehr.\nIst immer zur Stelle wenn gebraucht wird auch für kleine Dinge.\nSolche Dienstleister sind Heute gesucht.Da legt der Chef noch selber Hand an💪\nDanke Fime Perner immer gerne wieder!",
+        "time": 1681723125,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Adrian Laeng",
+        "author_photo": "/images/reviews/perner-ag-erlach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mehrere Aufträge im Bereich Holzbau und auch Gartenhausbau/Plattenplatz wurden rasch und einwandfrei erledigt. Auch preislich sehr gut. Bin sehr zufrieden!",
+        "time": 1681149042,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andy „TheThistle 55“ Thistle",
+        "author_photo": "/images/reviews/perner-ag-erlach/reviewer_3.jpg",
+        "rating": 1,
+        "text": "ziemlich unseriös",
+        "time": 1499014641,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Lüscherz Grimm",
+        "author_photo": "/images/reviews/perner-ag-erlach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Guter Kontakt! Die Arbeiten wurde sorgfältig erledigt.",
+        "time": 1781162039,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Marc Grimm",
+        "author_photo": "/images/reviews/perner-ag-erlach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Toller Familien Betrieb!",
+        "time": 1781161915,
+        "relative_time_description": "in der letzten Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJG08nPv76j0cRkV21edUe2R8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Remo Achermann",
+        "author_photo": "/images/reviews/nali-gipser-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nali hat bei uns in der Wärchbrog eine Trennwand instaliert. Die Arbeit wurde termingerecht und sauber erledigt. Das Team ist sehr Freundlich und hat nach getaner Arbeit die Baustelle wider sauber hinterlassen. Ich kann Nali Gipser gerne und mit gutem Gewissen weiter empfehlen. Danke Jungs für die tolle Arbeit.",
+        "time": 1758614414,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Susanne Vogt-Lamberts",
+        "author_photo": "/images/reviews/nali-gipser-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Nali Gipser GmbH super Erfahrungen gemacht. Die Qualität ist einfach klasse und das Team mega zuverlässig. Kann ich nur wärmstens empfehlen. Danke Euch!",
+        "time": 1666085422,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "DennisAvmeti",
+        "author_photo": "/images/reviews/nali-gipser-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zu friden mit Nali Gipser GmbH 👍🏼",
+        "time": 1638669871,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Briliant Kasumi",
+        "author_photo": "/images/reviews/nali-gipser-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden!",
+        "time": 1677084257,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beat __",
+        "author_photo": "/images/reviews/nali-gipser-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei der Sanierung unseres Hauses haben wir die Wände erneuern lassen.\nTrotz kurzfristigen Zusatzwünschen und zusätzlichen Räumen, die erneuert werden sollten, konnten die Gipserarbeiten zu unserer vollen Zufriedenheit und pünktlich abgeschlossen werden. Der Arbeitseinsatz der Mitarbeiter der Firma Nali Gipser war bemerkenswert.\nWir sind mit der Arbeit der Gipser sehr zufrieden. Wir können die Firma Nali Gipser uneingeschränkt weiterempfehlen.",
+        "time": 1777206177,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

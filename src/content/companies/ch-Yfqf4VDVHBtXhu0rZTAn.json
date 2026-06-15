@@ -1,7 +1,7 @@
 {
   "id": "ch-Yfqf4VDVHBtXhu0rZTAn",
   "slug": "h-t-room-design-ag-aarau",
-  "name": "H & T Room Design AG",
+  "name": "H & T Raumdesign AG",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJOc8ThPk7kEcRo2sjbTrd7zs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Hueb Kelly",
+        "author_photo": "/images/reviews/h-t-room-design-ag-aarau/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Wir werden nochmal das \" Vergnügen \" zusammen haben, man sieht sich immer zweimal im Leben!!!",
+        "time": 1761484853,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Ruth Hitz",
+        "author_photo": "/images/reviews/h-t-room-design-ag-aarau/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Nie wieder! Schludrige Arbeit unprofessionelle Reaktion, kein Interesse etwas zu verbessern!",
+        "time": 1760700129,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Peppy Bass",
+        "author_photo": "/images/reviews/h-t-room-design-ag-aarau/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Wenn Sie mir die richtige Ansprechperson mit Telefon offenbaren, die für Beschwerden von aussen zuständig ist , dann nenne ich den Grund meiner vorherigen Beurteilung, ( was ich als temporärer Beobachter in Ihrer Firma feststellte ,was gar nicht geht!) bloss mit Herrn Zulauf möchte ich nicht darüber reden!\nEinen schönen Gruss",
+        "time": 1599560050,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Breidert Uwe",
+        "author_photo": "/images/reviews/h-t-room-design-ag-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Betrieb. Modern, innovativ und fachlich ohne Mangel. Dieser Betrieb ist absolut weiter zu Empfehlen. Bravo.",
+        "time": 1722347936,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Stöckli",
+        "author_photo": "/images/reviews/h-t-room-design-ag-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionell aufgestellt mit guter Verbindung zu anderen Handwerkern im Raum Aarau.",
+        "time": 1689837562,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

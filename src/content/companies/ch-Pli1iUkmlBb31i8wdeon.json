@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2xIbZpI5jkcRlN6lQgOA0l0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Simon Bossart",
+        "author_photo": "/images/reviews/stahlwerkstatt-bern-gmbh-ehemals-schlosserei-metallbau-daniel-baeumlin-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Spontan vorbeigekommen und sofort bestens betreut worden. Die Reparaturarbeit war hervorragend. Alles wurde schnell und professionell erledigt. Ich bin sehr zufrieden mit dem Ergebnis. Herzlichen Dank!",
+        "time": 1754515529,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Karin Walthert",
+        "author_photo": "/images/reviews/stahlwerkstatt-bern-gmbh-ehemals-schlosserei-metallbau-daniel-baeumlin-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma mein kleiner fahrradanhänger wurde super verstärkt und repariert. Kann sie nur weiterempfehlen",
+        "time": 1752828505,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Olivier Messerli",
+        "author_photo": "/images/reviews/stahlwerkstatt-bern-gmbh-ehemals-schlosserei-metallbau-daniel-baeumlin-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer wider e Fröid es Projekt mitem Sämu u Konsorte um ds setzä! Stets fründlech und hiufsbereit.",
+        "time": 1731428286,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tee Kaffee",
+        "author_photo": "/images/reviews/stahlwerkstatt-bern-gmbh-ehemals-schlosserei-metallbau-daniel-baeumlin-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1687864798,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patric Marbot",
+        "author_photo": "/images/reviews/stahlwerkstatt-bern-gmbh-ehemals-schlosserei-metallbau-daniel-baeumlin-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1636213623,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

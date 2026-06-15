@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3XapjpcWj0cRgW9zY8EiRbY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Febatec GmbH",
+        "author_photo": "/images/reviews/3dmetall-ag-steg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der 3dmetall AG ist stets angenehm und zuverlässig. Unsere bestellten Abkantbleche werden sauber und termingerecht gefertigt, und die Qualität überzeugt jedes Mal. Vielen Dank für die tolle Zusammenarbeit!",
+        "time": 1763805420,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Boss „Bossiboss“ Fredi",
+        "author_photo": "/images/reviews/3dmetall-ag-steg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben bei 3dmetall eine Grill Wanne bestellt und das ausserhalb der Öffnungszeiten. Der Chef kam persönlich vorbei um die Masse zu nehmen. Das nenne ich Professionalität und es macht Spass mit Profis zu arbeiten!!! Ich kann 3dmetall nur bestens empfehlen.\nDanke Flöru und das ganze Team 👍👍👍\nFredi Boss",
+        "time": 1756126760,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Raymond Kalbermatter",
+        "author_photo": "/images/reviews/3dmetall-ag-steg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729242213,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stephanie Bähler",
+        "author_photo": "/images/reviews/3dmetall-ag-steg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664258806,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Veljko Mutavdzic",
+        "author_photo": "/images/reviews/3dmetall-ag-steg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1659024195,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

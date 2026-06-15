@@ -26,5 +26,22 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJeQPF2Zs9m0cROI650q_gEsE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Yvo Luechinger",
+        "author_photo": "/images/reviews/zaech-peter-schreinerei-und-glaserei-oberriet/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wegen Auftrag nachgefragt.\nAuf kommenden Samstag terminiert! Alles ok",
+        "time": 1626205662,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJucrdEcnrZygRwIoWdjoXYHI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Dave Milo",
+        "author_photo": "/images/reviews/guler-maler-gmbh-siselen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Guler Maler hat von Beginn an kompetent beraten und war jederzeit verfügbar. Die Arbeit wurde von Anfang bis Abschluss präzise und sauber ausgeführt. Qualität sehr hoch. Preis-Leistungs-Verhältnis unschlagbar.",
+        "time": 1765517883,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Merlin",
+        "author_photo": "/images/reviews/guler-maler-gmbh-siselen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit und absolut zuverlässig!\n\nIch habe Herr Guler für die Malerarbeiten einer 3.5 Zimmer Wohnung engagiert und bin rundum zufrieden. Die Arbeit wurde professionell, sauber und termingerecht ausgeführt. Besonders beeindruckt hat mich die Sorgfalt im Detail und die freundliche, kompetente Art. Absolut empfehlenswert – jederzeit wieder!",
+        "time": 1739957401,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "M power",
+        "author_photo": "/images/reviews/guler-maler-gmbh-siselen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung.\nTop Qualität, saubere Arbeit.\nGerne wieder!",
+        "time": 1771530810,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Upchain Consulting",
+        "author_photo": "/images/reviews/guler-maler-gmbh-siselen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Maler. Danke für Ihre Arbeit.",
+        "time": 1771518144,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Mathias Nydegger",
+        "author_photo": "/images/reviews/guler-maler-gmbh-siselen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Perfekte Beratung, sehr saubere Arbeit, super Preis! Vielen Dank für alles!!",
+        "time": 1773772651,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

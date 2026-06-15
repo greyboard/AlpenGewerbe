@@ -26,5 +26,39 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMYmHRIbHhUcRqly4EvUaMgI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Oscar Von der Pahlen",
+        "author_photo": "/images/reviews/giroldi-fenaroli-lattonieri-copertura-tetti-piani-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlichkeit und Professionalität",
+        "time": 1706723241,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ilario Garbani",
+        "author_photo": "/images/reviews/giroldi-fenaroli-lattonieri-copertura-tetti-piani-losone/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1647622646,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

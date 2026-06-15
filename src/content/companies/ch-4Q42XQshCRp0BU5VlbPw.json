@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJt4ruhcDNmkcR3B7U0nW16tU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Joel Hofmann",
+        "author_photo": "/images/reviews/max-schilling-ag-werkzeug-und-maschinenbau-mollis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und freundliche Beratung. Arbeit ist jedesmal perfekt ausgeführt. Vielen Dank für die Zusammenarbeit.",
+        "time": 1713447559,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mirko Heinecke",
+        "author_photo": "/images/reviews/max-schilling-ag-werkzeug-und-maschinenbau-mollis/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Hab dort mit meinem Arbeitskollegen ne WC Trennanlage montiert und alle Mitarbeiter dort waren sehr freundlich und zuvorkommend!!!",
+        "time": 1652117093,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Zweifel Rolf",
+        "author_photo": "/images/reviews/max-schilling-ag-werkzeug-und-maschinenbau-mollis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einfach super",
+        "time": 1679473598,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Matthias Krimmer",
+        "author_photo": "/images/reviews/max-schilling-ag-werkzeug-und-maschinenbau-mollis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Max Schilling ist cool",
+        "time": 1544898628,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Viktor Schriber",
+        "author_photo": "/images/reviews/max-schilling-ag-werkzeug-und-maschinenbau-mollis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675755171,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

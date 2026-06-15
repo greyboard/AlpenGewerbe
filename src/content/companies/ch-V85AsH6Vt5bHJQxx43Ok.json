@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJvSILmPoZm0cR6uVCGs3DpTE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Ozcan Gezer",
+        "author_photo": "/images/reviews/kobelt-paul-ag-heizungen-sanitaere-anlagen-heiden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlicher Kontakt, qualitativ hochwertige Arbeit und steht zu seinem Wort. Top Firma – kann ich nur empfehlen.\n\nZusätzlich wurde alles sehr schnell und zügig beantwortet und erledigt.\n\nMichael ist der beste Chef!\n\nLiebe Grüße\nÖzcan",
+        "time": 1778051822,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Reto Rechsteiner",
+        "author_photo": "/images/reviews/kobelt-paul-ag-heizungen-sanitaere-anlagen-heiden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Kobelt hat die Sanitär-Arbeiten zu unserer vollsten Zufriedenheit ausgeführt. Sehr guter Service und freundliche Mitarbeiter.",
+        "time": 1714401057,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Brigitte Trunz",
+        "author_photo": "/images/reviews/kobelt-paul-ag-heizungen-sanitaere-anlagen-heiden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Diese Firma kann ich wärmstens weiter empfehlen. Ich war schon in der ersten Generation super zufrieden.",
+        "time": 1704285352,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Luca Braun",
+        "author_photo": "/images/reviews/kobelt-paul-ag-heizungen-sanitaere-anlagen-heiden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundlicher Kontakt, qualitativ hochwertige Arbeit und steht zu seinem Wort. Top Firma, kann ich nur empfehlen.",
+        "time": 1708462171,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kraddie",
+        "author_photo": "/images/reviews/kobelt-paul-ag-heizungen-sanitaere-anlagen-heiden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich, guter Service, faire Preise.\nWenn wir jeweils einen Sanitär brauchen, wenden wir uns immer an Kobelt",
+        "time": 1642974392,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

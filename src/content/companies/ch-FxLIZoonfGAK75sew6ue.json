@@ -1,7 +1,7 @@
 {
   "id": "ch-FxLIZoonfGAK75sew6ue",
   "slug": "express-eau-plombier-canton-de-geneve-geneve",
-  "name": "Express'EAU Plombier - Canton de Genève",
+  "name": "Express'EAU",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJCd_YpMVkjEcRTCaVPZr2I8s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:30–20:00 Uhr",
+    "Dienstag: 06:00–20:00 Uhr",
+    "Mittwoch: 06:30–20:00 Uhr",
+    "Donnerstag: 06:30–20:00 Uhr",
+    "Freitag: 06:30–20:00 Uhr",
+    "Samstag: 09:00–17:00 Uhr, 17:30–20:30 Uhr",
+    "Sonntag: 09:00–17:00 Uhr, 18:30–20:30 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 198,
+    "reviews": [
+      {
+        "author_name": "Gita Gojani",
+        "author_photo": "/images/reviews/express-eau-plombier-canton-de-geneve-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe Express'Eau für den Anschluss meiner Waschmaschine beauftragt und bin sehr zufrieden. Exzellenter Service! Schnelle Reaktion, saubere und sorgfältige Arbeit zu einem sehr fairen Preis. Professionell, pünktlich und äußerst effizient. Ich kann sie wärmstens empfehlen!",
+        "time": 1763366969,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "T. Gómez",
+        "author_photo": "/images/reviews/express-eau-plombier-canton-de-geneve-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service. Pünktlich und freundlich. Und als Bonus gab es gute Erklärungen, um das Problem möglichst nicht wieder auftreten zu lassen. Ich kann sie wärmstens empfehlen.",
+        "time": 1763541834,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "I LO",
+        "author_photo": "/images/reviews/express-eau-plombier-canton-de-geneve-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service: schnell, hilfsbereit, einwandfrei. Ich kann sie wärmstens empfehlen und würde Express'EAU bei Bedarf jederzeit wieder in Anspruch nehmen.",
+        "time": 1763714774,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "S Hoffmann",
+        "author_photo": "/images/reviews/express-eau-plombier-canton-de-geneve-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank, Yannick, für Ihre hervorragende Arbeit.\n\nSehr empfehlenswert!\n\nSchöne Feiertage!\n\nMit freundlichen Grüßen,\n\nSean",
+        "time": 1764675371,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Lara Romero",
+        "author_photo": "/images/reviews/express-eau-plombier-canton-de-geneve-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe den Anruf wegen einer verstopften Badewanne getätigt und war begeistert vom exzellenten Service: schnell, erreichbar und sehr hilfsbereit. Absolut empfehlenswert!",
+        "time": 1770799181,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJgVbrx76UmkcR39gchKia5w0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Daniel Barben",
+        "author_photo": "/images/reviews/miesch-elektro-ag-eschlikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Effizient und kompetent\nDanke\nDer neue Österreicher Mitarbeiter ist sehr gut und kooperativ",
+        "time": 1675681660,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sacha Zaugg",
+        "author_photo": "/images/reviews/miesch-elektro-ag-eschlikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert für jedes Projekt. Tolle Unterstützung vom ganzen Team.",
+        "time": 1572858872,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michael Gianotti",
+        "author_photo": "/images/reviews/miesch-elektro-ag-eschlikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute fachliche Beratung.\nPreis - Leistung ist top!",
+        "time": 1578329992,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Christian Pfister",
+        "author_photo": "/images/reviews/miesch-elektro-ag-eschlikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Elektro Miesch kann man mit allerbestem Gewissen weiterempfehlen.\nImmer Top-Beratung, sowie Top-Ausführung, vielen Dank dafür...👍🏼",
+        "time": 1567598976,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tobias Mächler",
+        "author_photo": "/images/reviews/miesch-elektro-ag-eschlikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "TOP Firma mit TOP Mitarbeiter",
+        "time": 1648464098,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

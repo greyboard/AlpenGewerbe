@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJWd3m_oEthUcRLv6W4XiDqv4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 09:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 09:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Stefan Wich",
+        "author_photo": "/images/reviews/haemmerli-waerme-gmbh-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einer der besten Kundenservice die ich erlebt habe. Freundlich, kompetent und speditiv. Ganz besonderen Dank geht natürlich a Lukas, der dafür gesorgt hat, das meine Terrasse am Abend schön leuchtet und warm gibt. Danke nochmals dafür.\nBeste Grüße, ein sehr zufriedener Kunde..",
+        "time": 1711470975,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Suad Mehmedi",
+        "author_photo": "/images/reviews/haemmerli-waerme-gmbh-glarus/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich habe vor 2 Jahren 2 Geräte bestellt bei ihnen. Dann habe ich ein Glas während dem Putzen kaputt gemacht. Ich bestellte online ein neues, das auch geliefert wurde. Nach dem 2en Mal das ich das Gerät einsetzte, bemerkte ich beim Rand der Glasröhre das ein Riss im Glas entstand, vermutlich wegen der Hitze.\nAls ich telefonisch die Situation schilderte um eins auf Garantie zu bekommen sagte man mir nur: Sie dürfen ein neues bestellen (160.- CHF) da es nicht sein kann das ein Produktionsfehler ist.\nDas ist eine Frechheit weil ich das genau 2 Mal benutzt habe, niemand in der Nähe des Gerätes steht das es kaputt machen könnte und komischerweise das andere Glas seit 2 Jahren nichtmal ein kleinen kratzer hat.\nMan bestellt absichtlich etwas das SWISSMADE ist, weil man davon ausgeht das auch ein guter Service dahinter stehen sollte und kriegt nur eine Antwort das man ein neues bestellen soll.\nNiewieder bestelle ich etwas von denen!!!!",
+        "time": 1711446491,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tailored Moments",
+        "author_photo": "/images/reviews/haemmerli-waerme-gmbh-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Firma, können wir nur weiterempfehlen!\nTolle Produkte und sehr gute Beratung.\nWir haben den Pelletofen Q Box in unserem Glaskubus und sind sehr zufrieden damit!",
+        "time": 1663689391,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Chris L",
+        "author_photo": "/images/reviews/haemmerli-waerme-gmbh-glarus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Innovativer Kleinbetrieb. Prima Beratung zur Installation eines Pelletofens. Unkomplizierte Kaufabwicklung, Lieferung, Installation und Erklärungen zur Einführung tadellos. Produkt funktioniert einwandfrei. Kann nur empfohlen werden.",
+        "time": 1651207968,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Pascal Aschwanden",
+        "author_photo": "/images/reviews/haemmerli-waerme-gmbh-glarus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Geniale Produkte, ich habe mir vor ca. 4 Jahren einen Pelletofen zugelegt und würde ihn nicht mehr hergeben. Gute Heizleistung und er funktioniert auch nach dieser längeren Zeit noch tadellos. Danke Jungs, komme mal noch auf Euch zu betreffend einem Feuerturm ;)",
+        "time": 1711473489,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

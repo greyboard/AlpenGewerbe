@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzYDQDszhmkcRGl1qvI-2Axk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Astrid Lehmann",
+        "author_photo": "/images/reviews/haeberli-malerei-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der sorgfältigen, sauberen und termingerechten Ausführung seiner Malerarbeiten. Sein Einsatzgebiet reicht bis zum Zürichsee. Jederzeit immer wieder gerne.",
+        "time": 1724951958,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hirushan Sivanathan",
+        "author_photo": "/images/reviews/haeberli-malerei-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Maler des Vertrauens! Sehr flexibel und unkomliziert.\nNeben seiner malerischen Kompetenz ist Joel H. sehr zuvorkommend und ein angenehmer Geschäftspartner.",
+        "time": 1724924827,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Chantal Häberli",
+        "author_photo": "/images/reviews/haeberli-malerei-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professioneller Malerbetrieb. Schnelle, saubere Arbeit, die meine Erwartungen übertroffen hat. Sehr zu empfehlen!",
+        "time": 1724906083,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

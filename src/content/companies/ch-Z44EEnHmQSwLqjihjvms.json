@@ -26,5 +26,54 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJE8xMgUynmkcRlAONiinzziE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Andy Gantenbein",
+        "author_photo": "/images/reviews/eugen-hechler-ag-maur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Liebes Team Hechler\nVielen Dank für Eure speditive und saubere Arbeit. Hochmotiviert & professionell sind unsere Scheiben ausgetauscht worden und dies zu einem äusserst fairen Preis. Gerne wieder und die Weiterempfehlung ist garantiert. 👍 En liäbä Gruäss Andy",
+        "time": 1755245476,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Pascal Bürkli",
+        "author_photo": "/images/reviews/eugen-hechler-ag-maur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich suchte einen Glaser für den Einbau meiner Katzenklappe und wurde fündig. Noch am gleichen Tag kam Herr Müller vorbei und nahm die Masse. 2 Wochen später der Anruf das die Scheibe da wäre und noch am gleichen Tag wurde es montiert. Einfach nur top 👍 Herr Müller kann ich wärmstens empfehlen. Super Typ. Jederzeit wieder!",
+        "time": 1647719356,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Rafael Schilt",
+        "author_photo": "/images/reviews/eugen-hechler-ag-maur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung, freundlich und schnell zu fairen Preisen. Schön dass es in Zürich noch so Orte gibt.",
+        "time": 1606383512,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Peter Widmer",
+        "author_photo": "/images/reviews/eugen-hechler-ag-maur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service - toller Preis\nHerzlichen Dank P. Widmer , Forch",
+        "time": 1633848968,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ralf Becker",
+        "author_photo": "/images/reviews/eugen-hechler-ag-maur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service gute Handwerker und nette Kerle",
+        "time": 1709754949,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

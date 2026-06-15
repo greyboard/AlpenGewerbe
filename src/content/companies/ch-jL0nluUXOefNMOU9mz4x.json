@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJV-wQGoI5m0cRGw5sGoqcXoU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Chris Kercmar",
+        "author_photo": "/images/reviews/martin-lorenz-glasbau-feldkirch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Martin lorenz wurde von uns kontaktiert, da wir auf der terrasse einen spannungsriss beim Geländer hatten und angst hatten, dass das Glas ganz kaputt geht und für die Kinder eine Gefahr besteht. Martin ist innerhalb einem halben Tag bei uns gestanden und hat alles provisorisch repariert. Das Glas hat er dann gleich bestellt und innerhalb von zwei Wochen ausgewechselt. Alles Problemlos - und das sogar mit Kran. Vielen Dank Martin.\n\nWir können diese Firma wirklich weiter empfehlen. Der schnellste Glaser im Land 😊",
+        "time": 1775310097,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Admir Muric",
+        "author_photo": "/images/reviews/martin-lorenz-glasbau-feldkirch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr guter Fachmann der sein Handwerk versteht! Sehr seriös und zuverlässig! Tolle Arbeit.",
+        "time": 1758287564,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jean-Michel Angerer",
+        "author_photo": "/images/reviews/martin-lorenz-glasbau-feldkirch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bei uns ist die Wohnzimmertüre mit Glaseinsatz Kaputt gegangen, anschließend Telefonisch Kontakt aufegnommen und am nächsten Tag  hat er sich schon darum gekümmert.Super symaptisch & Freundlich preis leistungsverhältnis absolut Top.",
+        "time": 1749117340,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marlon Ronge",
+        "author_photo": "/images/reviews/martin-lorenz-glasbau-feldkirch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Von der Planung bis zur Ausführung äußerst professionell, 300 % verlässlich und ein hervorragender Handwerker! Auch bei Großprojekten sowie in herausfordernden Situationen bewahrt er Ruhe. Wenn die eine oder andere ungeliebte Überraschung auf der Baustelle auftaucht (Wer kennt es nicht?) hat er die zündende kreative Idee und findet eine Lösung.\n\nVertrauen bei allen Projekten und Reparaturen rund ums Glas nur auf Martin Lorenz Glasbau – absolute Empfehlung!",
+        "time": 1681307080,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mathias",
+        "author_photo": "/images/reviews/martin-lorenz-glasbau-feldkirch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zuverlässig und kompetent",
+        "time": 1761309161,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

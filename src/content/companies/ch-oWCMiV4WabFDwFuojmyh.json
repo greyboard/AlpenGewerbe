@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJYWi5ft-nmkcRebKHy9yq4qc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Eric Hoffmann",
+        "author_photo": "/images/reviews/proof-gmbh-langnau-am-albis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Proof-Team hat unser altes Dach entfernt, die Abdichtungen neu erstellt, eine Dämmung eingebracht und anschliessend alles neu gedeckt. Das Team ist sehr sympathisch und hat gemeinsam mit uns tolle Lösungen für das ein oder andere, herausfordernde Detail gefunden. Von uns gibt es daher 5/5 Sternen",
+        "time": 1779198796,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Fredy Tschui",
+        "author_photo": "/images/reviews/proof-gmbh-langnau-am-albis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Folgende Arbeiten haben wir über Proof gemacht:\nSanierung Asbest-Dach mit Isolation, aufwändige Indach-Photovoltaikanlage mit Batteriespeicher.\n\nDie Proof GmbH gehört für mich zu den besten Handwerker-Firmen in der Region. Gute Kommunikation, super freundliche und zuverlässige Mitarbeiter, unkomplizierter Umgang mit unvorhergesehenen Herausforderungen.\n\nIch kann Proof GmbH definitiv zu 100% weiterempfehlen!",
+        "time": 1733305612,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ya'en Lauper",
+        "author_photo": "/images/reviews/proof-gmbh-langnau-am-albis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir danken Proof GmbH für die kompetente Planung und effiziente Ausführung unserer Photovoltaikanlage. Bis zur Fertigstellung zuverlässig und professionell, wie auch immer offen für Beratungen. Bestens zu empfehlen.",
+        "time": 1677422589,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Peter Fierz",
+        "author_photo": "/images/reviews/proof-gmbh-langnau-am-albis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Almer und sein Team haben perfekte Arbeit geleistet. Die installierte Photovoltaikanlage mit dem Batteriespeicher speichert und liefert den Solarstrom wie geplant. Wir danken der Proof GmbH für die professionelle Beratung und Arbeit.",
+        "time": 1710829301,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mark Burkhard",
+        "author_photo": "/images/reviews/proof-gmbh-langnau-am-albis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Proof GmbH hat durch eine kompetente Beratung, schnelle Offertstellung und durch eine effiziente und professionelle Umsetzung überzeugt.\nGerne empfehlen wir hiermit die Firma Proof GmbH weiter.",
+        "time": 1672333169,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

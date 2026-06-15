@@ -26,5 +26,31 @@
     "Badmöbel",
     "Holzreparatur"
   ],
-  "description": "So weist die mobile PageSpeed-Performance trotz der Integration eines Content Delivery Networks Optimierungspotenzial auf. Zudem zeigt sich auf sämtlichen Unterseiten ein global identisch geladenes Bildmaterial im Kopfbereich."
+  "description": "So weist die mobile PageSpeed-Performance trotz der Integration eines Content Delivery Networks Optimierungspotenzial auf. Zudem zeigt sich auf sämtlichen Unterseiten ein global identisch geladenes Bildmaterial im Kopfbereich.",
+  "googlePlaceId": "ChIJLwP87j0zm0cRHmRsRimZvYE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–14:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "M S",
+        "author_photo": "/images/reviews/beck-schreinerei-triesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der Remo Beck Schreinerei in Triesen. Nach mehreren erfolglosen Anfragen bei anderen Betrieben wurden wir hier rasch, kompetent und freundlich betreut. Herr Beck hat sich persönlich Zeit genommen, uns ehrlich beraten und zeitnah eine faire Offerte erstellt. Die Arbeit wurde zuverlässig, sauber und in hoher Qualität ausgeführt. Besonders schätzen wir die Verbindlichkeit und die unkomplizierte Kommunikation – auch bei einem kleineren Auftrag. Absolute Empfehlung!",
+        "time": 1750684483,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

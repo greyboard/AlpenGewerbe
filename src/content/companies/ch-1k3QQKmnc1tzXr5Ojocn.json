@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO2U3VjzhmkcRsT2-Oqzvrls",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Chelsea Alther",
+        "author_photo": "/images/reviews/holzbau-ledergerber-ag-andwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden. Das Team war stets professionell, pragmagisch und lösungsorientiert. Es wurde stets auf unsere Bedürfnisse eingegangen und das Ergebnis des Umbaus ist sehr Hochwertig. Wir können Holzbau Ledergerber gänzlich weiterempfehlen.",
+        "time": 1762435444,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Marcel Scheiwiller",
+        "author_photo": "/images/reviews/holzbau-ledergerber-ag-andwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent. Lösungsorientiert. Äusserst freundliches Personal. Termintreu! Sehr empfehlenswert. Besten Dank für die gute Zusammenarbeit.",
+        "time": 1702978973,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patrick Winteler",
+        "author_photo": "/images/reviews/holzbau-ledergerber-ag-andwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent und zuverlässig. Planung und Ausführung der Arbeiten werden zuverlässig und schnell durchgeführt.",
+        "time": 1623485893,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tomasz N.",
+        "author_photo": "/images/reviews/holzbau-ledergerber-ag-andwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1708703638,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Reto Mauchle",
+        "author_photo": "/images/reviews/holzbau-ledergerber-ag-andwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1685552749,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

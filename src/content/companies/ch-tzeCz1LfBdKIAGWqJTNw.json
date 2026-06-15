@@ -1,7 +1,7 @@
 {
   "id": "ch-tzeCz1LfBdKIAGWqJTNw",
   "slug": "valais-paysage-sarl-noes",
-  "name": "Valais Paysage Sàrl",
+  "name": "Valais Paysage",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJM_SDBI0fj0cRAPtMltl01zs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Emmanuelle Le Quéré",
+        "author_photo": "/images/reviews/valais-paysage-sarl-noes/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben Valais Paysage beauftragt, eine Hecke entlang unserer Grundstücksgrenze anzulegen, Stroh zur Vervollständigung unserer Gartengestaltung aufzubringen und Bäume sowie andere Pflanzen zu liefern und zu pflanzen.\nSie haben uns hervorragend beraten, und das gesamte Team hat äußerst sorgfältig und professionell gearbeitet. Herzlichen Dank! Wir können diese Firma uneingeschränkt empfehlen. In jeder Hinsicht exzellent.",
+        "time": 1650648797,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Annabelle Richard",
+        "author_photo": "/images/reviews/valais-paysage-sarl-noes/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles und freundliches Team mit exzellenter Beratung. Qualitativ hochwertige Arbeit. Ich bin sehr zufrieden. Ich kann sie wärmstens empfehlen.",
+        "time": 1592548734,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Sandro De Feo",
+        "author_photo": "/images/reviews/valais-paysage-sarl-noes/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Schöne Präsentation!\n\nUnd zum Abschluss karamellisierte Ananas!",
+        "time": 1569070288,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sven Clavien (Snorkies)",
+        "author_photo": "/images/reviews/valais-paysage-sarl-noes/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675692513,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Maxime Combre",
+        "author_photo": "/images/reviews/valais-paysage-sarl-noes/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637409906,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

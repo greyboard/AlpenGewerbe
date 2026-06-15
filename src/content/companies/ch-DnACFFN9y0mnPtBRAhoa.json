@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_QUYgFe5kUcRPOIvgHJshbo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Willdichwiedersehn Gartenbau",
+        "author_photo": "/images/reviews/cavallaro-metallbau-basel/reviewer_1.jpg",
+        "rating": 1,
+        "text": "UNERREICHBAR\nSowas habe ich noch nie erlebt....\nHabe über 20 mal probiert anzurufen und 3 Nachrichten hinterlassen, doch der \"werte\" Herr macht sich absolut keine Mühe zurück zu rufen.\nEinfach nur unterste Schublade.\n0 Punkte nicht möglich, deswegen gezwungenermassen 1 Punkt.",
+        "time": 1773078153,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Stephan Leutwyler",
+        "author_photo": "/images/reviews/cavallaro-metallbau-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einfacht Top, kleine Firma mit grossen Ideen. Die Firma Cavallaro hat uns schon einige Projekte realisiert, immer in Rekordzeiten und mit bester Qualität.",
+        "time": 1641478401,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ajra Ardijan",
+        "author_photo": "/images/reviews/cavallaro-metallbau-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Besten dank für ihre Perfekte arbeit",
+        "time": 1750793078,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Roger- Philipp Rickli",
+        "author_photo": "/images/reviews/cavallaro-metallbau-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "TipTope Arbeit...sehr gerne wieder, danke.",
+        "time": 1710532809,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Liuzzi",
+        "author_photo": "/images/reviews/cavallaro-metallbau-basel/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Schnelle und zuverlässige.",
+        "time": 1645045209,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

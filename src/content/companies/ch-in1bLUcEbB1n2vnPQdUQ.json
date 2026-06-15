@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJRVfY0M9uj0cRlbr4THDsCu8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Febatec GmbH",
+        "author_photo": "/images/reviews/lauber-iwisa-hauptsitz-naters-naters/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Lauber IWISA ist ein seriöser und zuverlässiger Anbieter. Unsere bisherigen Berührungspunkte lagen vor allem im Bereich Dach und Spenglerei – die Zusammenarbeit war stets angenehm, sauber und professionell. Wir schätzen diese Partnerschaft und freuen uns auf weitere gemeinsame Projekte.",
+        "time": 1763968438,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Samuel Eyer",
+        "author_photo": "/images/reviews/lauber-iwisa-hauptsitz-naters-naters/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Leider wurde meine Bitte, ein defektes Waschbecken ( Versicherungsfall) auszutauschen abgelehnt. Das Waschbecken aus Porzellan einzubauen sei heikel und schwierig ( Aussage Sanitärmonteur) Und dafür brauchte es 3 telefonate, mehrere Nachrichten und über einer Woche Zeit, um dann eine solche Absage zu erhalten.\nSehr unprofessionell von solch einer grossen Firma. Habe nun eine andere Firma aus der Region angefragt, 1 Telefonat,  und alles klappte. Dies wäre gar kein Problem, das Becken auszutauschen, hiess es von der Konkurrenz. Bedenklich, wo wir doch in den Jahren zuvor solch gute Erfahrungen mit Lauber Iwisa machten.\nSchade.",
+        "time": 1779781260,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Ronald Zeiser",
+        "author_photo": "/images/reviews/lauber-iwisa-hauptsitz-naters-naters/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super service. Super monteur. Kann ich jedem nur empfehlen",
+        "time": 1562531508,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Pierre Gendre",
+        "author_photo": "/images/reviews/lauber-iwisa-hauptsitz-naters-naters/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragender Kontakt und einwandfreie Arbeit im Rahmen des Austauschs eines Badezimmerschranks mit Beleuchtung und Steckdose. AAA+",
+        "time": 1672827266,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Priska Haas",
+        "author_photo": "/images/reviews/lauber-iwisa-hauptsitz-naters-naters/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725364353,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

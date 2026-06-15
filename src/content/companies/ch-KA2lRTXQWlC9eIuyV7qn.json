@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJtcYyy7u5kUcRR_uaNPxrtDE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "jolanda Hochstrasser",
+        "author_photo": "/images/reviews/miloti-bodenbelaege-gmbh-parkett-teppich-und-linoleum-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung und Arbeit. Bin sehr zufrieden",
+        "time": 1592208134,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Berisha Arben",
+        "author_photo": "/images/reviews/miloti-bodenbelaege-gmbh-parkett-teppich-und-linoleum-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1772996805,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

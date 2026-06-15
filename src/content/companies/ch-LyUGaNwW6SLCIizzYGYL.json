@@ -26,5 +26,30 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPem-UKpZhUcRf0pVFO2DI8A",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Marc Sachse",
+        "author_photo": "/images/reviews/risi-dach-und-fassadenbau-gmbh-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig und professionell! Kann ich jederzeit nur empfehlen!",
+        "time": 1659095181,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manfred Wagner",
+        "author_photo": "/images/reviews/risi-dach-und-fassadenbau-gmbh-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1655215791,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

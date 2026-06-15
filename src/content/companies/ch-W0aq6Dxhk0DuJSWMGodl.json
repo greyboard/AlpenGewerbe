@@ -1,7 +1,7 @@
 {
   "id": "ch-W0aq6Dxhk0DuJSWMGodl",
   "slug": "a2-services-gmbh-langendorf",
-  "name": "A2 Services GmbH",
+  "name": "A2 ElektroTech GmbH",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ_17tRGjxIAR2Dd6EceKeXg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:30 Uhr",
+    "Dienstag: 08:00–17:30 Uhr",
+    "Mittwoch: 08:00–17:30 Uhr",
+    "Donnerstag: 08:00–17:30 Uhr",
+    "Freitag: 08:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Chris Voser",
+        "author_photo": "/images/reviews/a2-services-gmbh-langendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit. Der Elektriker war kompetent und hat saubere Arbeit geleistet. Termingestaltung war flexibel. Den Service würde ich wieder benutzen.",
+        "time": 1769685165,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Scott Douglas",
+        "author_photo": "/images/reviews/a2-services-gmbh-langendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dies ist bereits der zweite Auftrag, den A2 Services für mich ausgeführt hat – und erneut bin ich absolut zufrieden. Der Arbeitsumfang umfasste den neuen Anschluss der Hausstromversorgung an den Sicherungskasten, die Installation einer zusätzlichen Steckdose sowie den Einbau eines Shelly-Stromzählers.\n\nA2 war von Anfang an sehr flexibel und entgegenkommend. Das Projekt musste mit einem weiteren Unternehmer koordiniert werden, der mehrfach Änderungen am ursprünglichen Plan vorgenommen hat. A2 konnte sich problemlos darauf einstellen und hat jederzeit unterstützt.\n\nBesonders hervorheben möchte ich die Qualität von Almir’s Arbeit. Die Verkabelung ist makellos, extrem sauber und ordentlich ausgeführt – das fällt sofort auf. Zudem hat er weit über das ursprünglich Vereinbarte hinaus mitgedacht und die Installation bereits für einen zukünftigen Glasfaseranschluss vorbereitet.\n\nMan merkt sofort, dass hier ein echter Profi am Werk ist. Verschwendet keine Zeit mit Renovero – geht direkt zu diesen Jungs. Ich werde A2 Services definitiv wieder beauftragen.",
+        "time": 1766096818,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Alois Koller",
+        "author_photo": "/images/reviews/a2-services-gmbh-langendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Nach anfänglichen Startschwierigkeiten konnte man durch konstruktive Gespräche gute Lösungen finden. Die Arbeit wurde stets gut und motiviert erledigt. Wir können diese Firma nur weiterempfehlen und werden sie sicherlich wieder aufbieten wenn es nötig ist.",
+        "time": 1771021727,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Joddy Appiah",
+        "author_photo": "/images/reviews/a2-services-gmbh-langendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "A2 Services hat sehr schnell auf mein Angebot bei Renovero reagiert und kam vorbei, um eine genaue Offerte zu erstellen. Dabei haben sie nicht nur die Arbeit eingeschätzt, sondern auch ihr Fachwissen geteilt – besonders hilfreich, da unsere Lampen etwas außergewöhnlich waren.\n\nSie haben prompt auf meine Fragen geantwortet, während ich die Leuchten gekauft habe, und die Installation verlief reibungslos und professionell. Besonders beeindruckt hat mich ihre Bereitschaft, zusätzliches Zubehör direkt bei Jumbo zu besorgen, um alles perfekt abzuschließen.\n\nVielen Dank an A2 Services für Ihre Professionalität, schnelle Reaktion und Expertise – absolut empfehlenswert! Ich würde Sie jederzeit wieder beauftragen.",
+        "time": 1761382877,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Sarina Tandler",
+        "author_photo": "/images/reviews/a2-services-gmbh-langendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mein Anliegen wurde sehr rasch erledigt, sympathisches Team und reibungslose Kommunikation. Zudem hat Almir gleich noch gratis die Montage meiner Lampe „verschönert“ - aus Eigeninitiative. Bin sehr zufrieden und kanns nur weiterempfehlen!",
+        "time": 1760830609,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

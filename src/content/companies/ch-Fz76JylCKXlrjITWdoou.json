@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJV-_kd0N_kEcRykyTykTATPM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Dienstag: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Mittwoch: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Donnerstag: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Freitag: 07:45–11:45 Uhr, 13:15–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Andy Steinemann",
+        "author_photo": "/images/reviews/burkhalter-elektrotechnik-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "stets sehr zuverlässig und mit nachhaltiger Beratung..!!!",
+        "time": 1499167708,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Gary Hümbeli",
+        "author_photo": "/images/reviews/burkhalter-elektrotechnik-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1602248718,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Joshua Tappolet",
+        "author_photo": "/images/reviews/burkhalter-elektrotechnik-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1601283755,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tim Stalder",
+        "author_photo": "/images/reviews/burkhalter-elektrotechnik-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1559811949,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Payawe Amicare",
+        "author_photo": "/images/reviews/burkhalter-elektrotechnik-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1526227799,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

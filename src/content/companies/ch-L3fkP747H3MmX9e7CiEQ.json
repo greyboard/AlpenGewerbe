@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJwVGM3xMthUcR60VhPcYwWO0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 06:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 06:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 06:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 06:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "R M",
+        "author_photo": "/images/reviews/gebr-accoto-wohnraum-ag-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ihre Mitarbeiter sind allesamt sehr freundlich, pünktlich, sauber, kompetent und haben top Arbeit geleistet! Hat alles wunderbar geklappt.\nVielen herzlichen Dank!\n\nDie Firma Accoto kann man bestens weiter empfehlen.",
+        "time": 1530868550,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "George Schwyter",
+        "author_photo": "/images/reviews/gebr-accoto-wohnraum-ag-netstal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragendes Gipsergeschäft, für innen und aussen",
+        "time": 1608118618,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fuchs Immobilien",
+        "author_photo": "/images/reviews/gebr-accoto-wohnraum-ag-netstal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, freundlich und zuverlässig. Vielen Dank für die angenehme Zusammenarbeit!",
+        "time": 1541165717,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Jorge Andrade",
+        "author_photo": "/images/reviews/gebr-accoto-wohnraum-ag-netstal/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1695986896,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gazmend Zekiri",
+        "author_photo": "/images/reviews/gebr-accoto-wohnraum-ag-netstal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1631128675,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

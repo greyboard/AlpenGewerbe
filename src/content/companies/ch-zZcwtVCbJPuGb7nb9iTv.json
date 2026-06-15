@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTbU381cshEcR76YHg6WGhXc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Reto Kaiser",
+        "author_photo": "/images/reviews/aurelio-pagnamenta-sa-tetti-case-in-legno-ampliamenti-sopraelevazioni-lugano/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sie haben hervorragende Arbeit geleistet, Professionalität und Zuverlässigkeit sind garantiert!",
+        "time": 1745466064,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andrea Portaro",
+        "author_photo": "/images/reviews/aurelio-pagnamenta-sa-tetti-case-in-legno-ampliamenti-sopraelevazioni-lugano/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Sie reagieren nicht einmal auf Anfragen per E-Mail oder über ihre Website. Ich rate dringend davon ab, ihnen zu vertrauen. Unternehmen, die sich so verhalten, sind absolut unseriös.",
+        "time": 1675868658,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Olga Spandri",
+        "author_photo": "/images/reviews/aurelio-pagnamenta-sa-tetti-case-in-legno-ampliamenti-sopraelevazioni-lugano/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelles und seriöses Unternehmen",
+        "time": 1611929733,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marco Vassella",
+        "author_photo": "/images/reviews/aurelio-pagnamenta-sa-tetti-case-in-legno-ampliamenti-sopraelevazioni-lugano/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1604052999,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Riccardo de sandr",
+        "author_photo": "/images/reviews/aurelio-pagnamenta-sa-tetti-case-in-legno-ampliamenti-sopraelevazioni-lugano/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576100205,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

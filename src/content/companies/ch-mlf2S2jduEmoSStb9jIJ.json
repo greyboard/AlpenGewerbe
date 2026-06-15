@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJrfSY2tTrmkcRPWSufoLGWA8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 47,
+    "reviews": [
+      {
+        "author_name": "Niklaus Buchegger",
+        "author_photo": "/images/reviews/schoenenberger-partner-ag-tobel-taegerschen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Schönenberger&Partner zwei Badezimmer neu gestaltet. Die Zusammenarbeit war perfekt, die Kosten haben die Offerte nicht überschritten, die geplanten Termine wurden eingehalten, die Bauführung hervorragend. Die Mitarbeiter sind alles Fachleute auf ihrem Gebiet und sie haben alle ein freundliches und respektvolles Auftreten. Alles in Allem: wir sind äußerst zufrieden und können Schönenberger&Partner mit gutem Gewissen weiterempfehlen!\nNick und Andrea Buchegger",
+        "time": 1772740503,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Roger Hollenstein",
+        "author_photo": "/images/reviews/schoenenberger-partner-ag-tobel-taegerschen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service\nHerr M.Rocco ein sehr versierter, kompetenter Techniken!\nDas defekte Ventile wurde problemlos ausgetauscht.\nHerzliche Dank\nGerne wieder einmal.",
+        "time": 1764913486,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Ingrid Schönenberger",
+        "author_photo": "/images/reviews/schoenenberger-partner-ag-tobel-taegerschen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service kompetent und zuverlässig, kann ich nur empfehlen.",
+        "time": 1763475021,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Beat Stark",
+        "author_photo": "/images/reviews/schoenenberger-partner-ag-tobel-taegerschen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Service Abteilung sehr freundlich und kompetent. Kann ich nur empfehlen",
+        "time": 1759571495,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jean-Pierre Emery",
+        "author_photo": "/images/reviews/schoenenberger-partner-ag-tobel-taegerschen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super und unkomplizierte Unterstützung.\nDanke für die schnelle Reaktion.",
+        "time": 1768135842,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

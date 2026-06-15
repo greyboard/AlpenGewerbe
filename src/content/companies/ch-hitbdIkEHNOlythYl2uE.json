@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJy1eFplU1jEcRONmzxrqpcw4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Ludovic Thonney",
+        "author_photo": "/images/reviews/m-f-v-carrelage-cossonay-ville/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die hervorragende Arbeit bei unserer Badsanierung. Wir waren begeistert von der wunderschönen Fliesenauswahl, der exzellenten Beratung, der schnellen Reaktionsfähigkeit des Teams und natürlich vom Endergebnis. Es ist einfach großartig geworden.",
+        "time": 1732656282,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rémy Wiesmann",
+        "author_photo": "/images/reviews/m-f-v-carrelage-cossonay-ville/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Superbe travail exécuté dans les délais malgré diverses surprises rencontrées pendant la rénovation de notre habitation.\nA assumé le chantier de A à Z avec une équipe compétente et agréable.\nPrix correct avec de super produits je ne peux que le recommander\nMer",
+        "time": 1625827638,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Damien Serra",
+        "author_photo": "/images/reviews/m-f-v-carrelage-cossonay-ville/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Verwirklichen Sie Ihren Traum vom Eigenheim? M.F.V Carrelage sorgt dafür, dass er zum Albtraum wird. Sparen Sie sich unnötigen Ärger und wählen Sie ein Unternehmen, das seine Kunden schätzt und vor allem gute Arbeit leistet.",
+        "time": 1728301067,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ray lewis",
+        "author_photo": "/images/reviews/m-f-v-carrelage-cossonay-ville/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für Ihren Einsatz heute Morgen, insbesondere an Allie (Ali), die die Fliesen ausgebessert und die Silikonfugen verfugt hat. Sehr effizient und freundlich. Wir haben ihre Arbeit sehr geschätzt. Ray + Michèle, Champlan (VS)",
+        "time": 1614266825,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Yanno Sonrel Belfio",
+        "author_photo": "/images/reviews/m-f-v-carrelage-cossonay-ville/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an Mirza und Samuel für ihre schnelle Reaktionsfähigkeit und ihre professionelle Arbeit. Ich kann sie wärmstens empfehlen.",
+        "time": 1731666037,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

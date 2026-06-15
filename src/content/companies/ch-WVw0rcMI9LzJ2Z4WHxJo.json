@@ -1,7 +1,7 @@
 {
   "id": "ch-WVw0rcMI9LzJ2Z4WHxJo",
   "slug": "gamboni-salmina-impresa-costruzioni-sa-gordola",
-  "name": "Gamboni & Salmina impresa costruzioni SA",
+  "name": "Gamboni & Salmina Impresa Costruzioni SA",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJlStUyvW1hUcRndSJXd05UYY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Gianni- Il ghurmet",
+        "author_photo": "/images/reviews/gamboni-salmina-impresa-costruzioni-sa-gordola/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Großes Bauunternehmen mit qualifizierten und spezialisierten Mitarbeitern, wettbewerbsfähige Standardpreise.",
+        "time": 1638538416,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Maria Grazia Pantellini",
+        "author_photo": "/images/reviews/gamboni-salmina-impresa-costruzioni-sa-gordola/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe ihre Rücksichtnahme und Freundlichkeit sehr geschätzt.",
+        "time": 1630337090,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ivan Jelmoni",
+        "author_photo": "/images/reviews/gamboni-salmina-impresa-costruzioni-sa-gordola/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1735022792,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sandro Menegaz",
+        "author_photo": "/images/reviews/gamboni-salmina-impresa-costruzioni-sa-gordola/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705567097,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nadia Ragazzon",
+        "author_photo": "/images/reviews/gamboni-salmina-impresa-costruzioni-sa-gordola/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1690882389,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

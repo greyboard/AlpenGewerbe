@@ -26,5 +26,55 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0-1veojhmkcRnwan9bandis",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Andi Bichsel",
+        "author_photo": "/images/reviews/roha-keramik-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Beste persönliche Beratung. Fachliche perfekte Ausführung. Einhalten sämtlicher terminlicher Vorgaben.",
+        "time": 1751560395,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Michael Keller",
+        "author_photo": "/images/reviews/roha-keramik-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, Hohe Qualität, termingerechte Ausführung, lösungsorientierte und pragmatische Herangehensweise, gute Kommunikation",
+        "time": 1751619829,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Joel Peter",
+        "author_photo": "/images/reviews/roha-keramik-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bester Plattenleger!!!",
+        "time": 1751560105,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Philippe M. Sonderegger Photography",
+        "author_photo": "/images/reviews/roha-keramik-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service",
+        "time": 1751563458,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

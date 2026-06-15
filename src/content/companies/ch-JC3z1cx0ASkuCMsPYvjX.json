@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJnY5pQq1qkEcRPhzwalg2q0M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Ma Bo",
+        "author_photo": "/images/reviews/schreinerei-spicher-ag-huesler-nest-center-brugg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Spicher können wir von A-Z weiterempfehlen. Wir sind begeistert von unserem Hüsler Nest. Auf alle unsere Bedürfnisse wurde bei der Beratung Rücksicht genommen. Sehr kompetent und freundlich.\nDie Montage verlief speditiv und sorgfältig.",
+        "time": 1744352475,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tobias Krummenacher",
+        "author_photo": "/images/reviews/schreinerei-spicher-ag-huesler-nest-center-brugg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten nun schon zum zweiten Mal mit der Schreinerei Spicher zusammen und waren bislang mit der Leistung immer äusserst zufrieden. Wir wurden bei der Planung und Materialisierung Bestens beraten und unsere Wünsche wurden optimal umgesetzt. Bei unserem zweiten Projekt mit kleinerem Budget wurden wir mit genau gleich viel Hingabe beraten und freuen uns auf das vollendete Werk. Wir können Sämi und sein Team - in unserem Fall - für Küchen und Einbauschränke wärmstens empfehlen und arbeiten auch zukünftig gerne weiter mit ihnen.",
+        "time": 1739300160,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Isabelle Monost",
+        "author_photo": "/images/reviews/schreinerei-spicher-ag-huesler-nest-center-brugg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben uns eine dunkelblaue Linol-Küche von Spicher für unsere neue Wohnung ausgesucht. Die Beratung war sehr professionell, es wurden genau die richtigen Fragen gestellt und auf jedes Detail geachtet. Obwohl der endgültige Liefertermin aufgrund von Verzögerungen auf der Baustelle mehrmals angepasst werden musste, hat am Ende alles rechtzeitig geklappt. Auf der Baustelle gab es bei der Endabnahme eine lange Mängelliste. Kein einziger Mangel war aber bei der Küche und diese ist nun bereits ein paar Monate in Betrieb. Optisch ist die Küche ein Highlight.",
+        "time": 1697808995,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Urs Rohner",
+        "author_photo": "/images/reviews/schreinerei-spicher-ag-huesler-nest-center-brugg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kauf Hüsler Nest dank der sehr guten Beratung.",
+        "time": 1731355829,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bruno Oesch",
+        "author_photo": "/images/reviews/schreinerei-spicher-ag-huesler-nest-center-brugg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Exzellente und kreative Schreinerei. 1a Qualität. Coole Möbel. Super Service.",
+        "time": 1685087740,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

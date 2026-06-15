@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJlfA-aLRDhUcRbqnydn31G5s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Roman Hauger",
+        "author_photo": "/images/reviews/gotthard-holzbau-gmbh-flueelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das komplette Gotthardholzbau Team macht richtig gute Arbeit. Immer absolut fair und zuverlässig. Immer eine Freude. Für Holzbau und Innenausbau die Beste Adresse!",
+        "time": 1598269108,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Walti Tresch",
+        "author_photo": "/images/reviews/gotthard-holzbau-gmbh-flueelen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Betrieb",
+        "time": 1609016670,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ivan Aschwanden",
+        "author_photo": "/images/reviews/gotthard-holzbau-gmbh-flueelen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1757874186,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Pius Walker",
+        "author_photo": "/images/reviews/gotthard-holzbau-gmbh-flueelen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1735841439,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "nicole nc",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjVVOkDgxL_SB9Pq95n0GjgHO-O5gEmgCpg_5EMnD9oHnzBfP_7w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "",
+        "time": 1721243336,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

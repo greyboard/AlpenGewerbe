@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJW5T1VgLIhEcRLW0Sojq5yQE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Camo",
+        "author_photo": "/images/reviews/kuhn-gartenbau-ag-trimmis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super sympathischer Betrieb. Wurde super beraten.",
+        "time": 1775391229,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Domenico Giannetta",
+        "author_photo": "/images/reviews/kuhn-gartenbau-ag-trimmis/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Auftrag angefragt, nie Antwort erhalten. Arroganter Betrieb!",
+        "time": 1752345314,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Mc Murda",
+        "author_photo": "/images/reviews/kuhn-gartenbau-ag-trimmis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute schoffa auf baustella jeden tag sehr gut.",
+        "time": 1658411692,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ennio Caminada",
+        "author_photo": "/images/reviews/kuhn-gartenbau-ag-trimmis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Beratung bekommen.",
+        "time": 1621623397,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Peter Baumgartner",
+        "author_photo": "/images/reviews/kuhn-gartenbau-ag-trimmis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Kuhn Gartenbau AG überzeugt durch professionelle Arbeit und eine angenehme Zusammenarbeit. Die Beratung war kompetent, auf unsere Wünsche wurde gut eingegangen, und die Umsetzung erfolgte sauber und termingerecht. Das Ergebnis entspricht unseren Erwartungen – gerne wieder.",
+        "time": 1775392347,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTa3zR-c7kEcRYlsIzCja6FQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 2.3,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Menetyan Rober",
+        "author_photo": "/images/reviews/rohrer-bedachungen-ag-aarau/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ich möchte meine Erfahrungen mit der Firma Rohrer Bedachungen AG teilen, die leider weit hinter unseren Erwartungen zurückgeblieben sind. Zwei Monteure von dieser Firma kamen zu einem Einsatz bei uns, während des Servicebesuchs schrieben die Monteure in Ihrem Arbeitsrapport 2 x 1,5 Stunden Arbeitszeit auf und bat um Unterschrift, wobei die tatsächliche Anwesenheit und laut unserer Eingangskamera nur 34 Minuten Betrug, wurde er angesprochen und erklärte das die Fahrtzeit inklusive war in diesen Arbeitsstunden. Zu unserer Überraschung enthielt die später ausgestellte Rechnung zusätzlich zu den verrechneten 3 Stunden Arbeitszeit noch eine separate Position für 0,25 Stunden Fahrtzeit die nochmals verrechnet wurden.\n\nDiese Diskrepanz sprach ich an und erhielt die Erklärung, dass alles korrekt sei und alle Positionen so stimmen. Obwohl mündlich zugesichert wurde, dass die Fahrtzeit nicht nochmals berechnet wird, erschien sie zusätzlich zu den überhöhten Arbeitsstunden auf der endgültigen Rechnung.\n\nMeine Versuche, dieses Problem telefonisch mit Herrn Rohrer zu klären, führten zu keiner zufriedenstellenden Lösung. Er bestand darauf, dass die Abrechnung korrekt sei und drohte sogar mit seinem Anwalt, als ich auf einer Anpassung bestand. Gar nicht kooperativ und Kundenfreundlich vor allem sehr grenzwertig was hier geboten wird!\n\nNoch frustrierender ist, dass der ursprüngliche Schaden durch ihren Besuch nicht behoben wurde. Trotzdem wären wir bereit, die Rechnung zu begleichen, sofern diese angemessen angepasst wird. Die mangelnde Bereitschaft des Unternehmens, auf berechtigte Kundenbeschwerden einzugehen, und die fehlende Lösungsorientierung haben bei uns einen sehr negativen Eindruck hinterlassen.\n\nIch kann die Rohrer Bedachungen AG aufgrund dieser Erfahrungen leider nicht weiterempfehlen. Eine faire und transparente Geschäftspraxis ist das Mindeste, was Kunden erwarten können, und ich hoffe, dass das Unternehmen seine Methoden überdenkt.",
+        "time": 1705102210,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jan",
+        "author_photo": "/images/reviews/rohrer-bedachungen-ag-aarau/reviewer_2.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1781013774,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Florian Qupeva",
+        "author_photo": "/images/reviews/rohrer-bedachungen-ag-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1616176577,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-K7yVWELnJ2P4BExJUg4c",
   "slug": "bischofberger-sonja-fribourg",
-  "name": "Bischofberger Sonja",
+  "name": "Mrs. Sonja Bischofberger",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJczYwYTBpjkcRIF3mJG2Kojw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 14:00–17:30 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Regula Möri",
+        "author_photo": "/images/reviews/bischofberger-sonja-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Atelier Kurs! Habe zwei Gläser machen dürfen mit Hilfe von Sonja sind sie sehr schön geworden. Ein wunderschönes aber auch schwieriges Kunsthandwerk Glasblasen. Bin beeindruckt und reich beschenkt von diesem Nachmittag.",
+        "time": 1621622766,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fabienne Stulz",
+        "author_photo": "/images/reviews/bischofberger-sonja-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super gemacht, Sonja!\nDein Workshop ist eine coole und schöne Erfahrung.\nMach es, wirklich schöne Sachen.",
+        "time": 1675088127,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Melissa Antenen",
+        "author_photo": "/images/reviews/bischofberger-sonja-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein fantastischer interaktiver Workshop zur Entdeckung der Glasbläserei!",
+        "time": 1739980433,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ma vision des choses le guide et voyageur",
+        "author_photo": "/images/reviews/bischofberger-sonja-fribourg/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Eine voll ausgestattete Werkstatt, prächtige Skulpturen",
+        "time": 1588347866,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Madeleine Christinaz",
+        "author_photo": "/images/reviews/bischofberger-sonja-fribourg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705743970,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

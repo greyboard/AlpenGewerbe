@@ -25,5 +25,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1cBCNl0xm0cRq3GGKwit234",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Martin Hauser",
+        "author_photo": "/images/reviews/mega-solutions-anstalt-vaduz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Firma mit sehr gut ausgebildetem und freundlichem Team. Das hohe Engagement beeindruckt uns und fördet die reibungslose Zusammenarbeit. In jedem Fall können wir Megasolutions weiter empfehlen.",
+        "time": 1535522211,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Walter Heide",
+        "author_photo": "/images/reviews/mega-solutions-anstalt-vaduz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Andreas Vogt macht bei uns im Casino96 einen super Job! Ist wirklich ein Top Techniker!",
+        "time": 1637581463,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Miroslav ŠOTEK (anulum fortis)",
+        "author_photo": "/images/reviews/mega-solutions-anstalt-vaduz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eines der Top-Unternehmen Liechtensteins in der Elektroindustrie, tolles Organisationsteam und durchweg professionell. Sehr gerne.",
+        "time": 1653288057,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simon Meier",
+        "author_photo": "/images/reviews/mega-solutions-anstalt-vaduz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1646040663,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simona Smržová",
+        "author_photo": "/images/reviews/mega-solutions-anstalt-vaduz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1759740319,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

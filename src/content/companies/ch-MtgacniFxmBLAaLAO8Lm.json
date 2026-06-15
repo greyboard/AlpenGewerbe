@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8aEOZr_hmkcRKC32a96Kazg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Mary",
+        "author_photo": "/images/reviews/thomas-abdichtungstechnik-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Thomas Abdichtung überzeugt durch zuverlässige und saubere Arbeit im Bereich Abdichtungen.\nKann es gerne weiterempfehlen.",
+        "time": 1777532010,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Hani S",
+        "author_photo": "/images/reviews/thomas-abdichtungstechnik-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Qualität zum fairen Preis.",
+        "time": 1778358815,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Jasmin St.",
+        "author_photo": "/images/reviews/thomas-abdichtungstechnik-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wer eine vertrauenswürdige Firma für Bauabdichtungen sucht, ist hier sehr gut aufgehoben.",
+        "time": 1777545526,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "kingaco",
+        "author_photo": "/images/reviews/thomas-abdichtungstechnik-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1779213092,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "tomica popović",
+        "author_photo": "/images/reviews/thomas-abdichtungstechnik-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777642538,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

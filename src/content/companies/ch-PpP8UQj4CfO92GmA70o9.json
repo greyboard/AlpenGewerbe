@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJE81rZDc8jkcRgqwlQOyP9Uo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Besorgter Bürger",
+        "author_photo": "/images/reviews/baur-ag-saeriswil/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Termin mit einem potentiellen Neukunden vor zwei Monaten vereinbart. Am Vorabend des Termines wird dieser kurzfristig abgesagt. Begründung: ich gönne mir morgen einen freien Tag mit meiner Familie. Dass der potentielle Neukunde Termine verschoben hat, damit dieser Termin wahrgenommen werden kann, lassen wir mal so im Raum stehen. Schön, wenn das Geschäft so gut läuft, dass Termine kurzfristig zu Gunsten der Familie abgesagt werden können.\nWer braucht schon Neukunden ?\nZudem: eigene Mitarbeitende beurteilen die eigene Firma mit 5 Sternen, damit die Bewertung besser aussieht. Cool!",
+        "time": 1707986904,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Manuel Suter",
+        "author_photo": "/images/reviews/baur-ag-saeriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hohe Qualität, faire Preise, Abmachungen werden eingehalten - sehr empfehlenswert !",
+        "time": 1683460639,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Annina Hinz",
+        "author_photo": "/images/reviews/baur-ag-saeriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1763318803,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "BigDrop Shop",
+        "author_photo": "/images/reviews/baur-ag-saeriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705224872,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Herren",
+        "author_photo": "/images/reviews/baur-ag-saeriswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696501370,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

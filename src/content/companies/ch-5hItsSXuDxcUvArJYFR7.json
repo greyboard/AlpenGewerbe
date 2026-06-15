@@ -26,5 +26,47 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJCfuKGq_xjkcRRkBCYD9OuiU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Hans-Peter Zimmermann",
+        "author_photo": "/images/reviews/benz-hauswirth-ag-saanen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bis jetzt wurde jedes unserer Sanitär- und Heizungsprobleme durch diese Firma schnell und kompetent gelöst. Freundliches Personal. Absolut empfehlenswert!",
+        "time": 1558551546,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Joel Perreten",
+        "author_photo": "/images/reviews/benz-hauswirth-ag-saanen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656178870,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gadget Andy",
+        "author_photo": "/images/reviews/benz-hauswirth-ag-saanen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1654088522,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ12iymV77j0cR9y-7eYmhXyE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Dritan Gashi",
+        "author_photo": "/images/reviews/bleisch-schreinerei-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "I\nch möchte mich herzlich bei Ihnen für den hervorragenden Service bedanken. Ich hatte eine Tür bei Ihnen bestellt, da ich die alte leider zerstören musste, weil sich mein kleiner Neffe versehentlich eingesperrt hatte. Die Bestellung verlief vollkommen reibungslos und die Qualität der Tür ist einfach hervorragend.\n\nDie Zusammenarbeit war sehr unkompliziert, und das Team war ausgesprochen professionell. Besonders hervorheben möchte ich Sie persönlich, Herr Bleisch. Sie sind ein sehr seriöser und entgegenkommender Mann, was den gesamten Prozess für mich angenehm gestaltet hat.\n\nFalls ich in der Zukunft erneut eine Tür benötige, werde ich definitiv wieder auf Ihre Firma zurückkommen – an keine andere denke ich.\n\nMit besten Grüßen,\nGashi Dritan",
+        "time": 1739461246,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marco Reichmuth",
+        "author_photo": "/images/reviews/bleisch-schreinerei-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und super kompetent.",
+        "time": 1627470220,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jasmin Christen",
+        "author_photo": "/images/reviews/bleisch-schreinerei-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1780326968,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Vithursan Sachchi",
+        "author_photo": "/images/reviews/bleisch-schreinerei-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642623817,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fabian Niendorf",
+        "author_photo": "/images/reviews/bleisch-schreinerei-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1640964539,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

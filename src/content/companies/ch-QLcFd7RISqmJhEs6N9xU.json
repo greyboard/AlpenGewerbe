@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq6oa_iFShUcRDSwQxZVe2vI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "ASM Deco AG",
+        "author_photo": "/images/reviews/guensch-gmbh-steinen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Armin Sidler von der GUENSCH GmbH konnte bereits einige Projekt für uns oder in Zusammenarbeit mit uns realisieren. Die Ausführungsweise und Endergebnisse waren stets mehr als zufriedenstellend. Zuverlässig, Sauber und sehr Engagiert.\n\nWir bedanken uns für die tolle Zusammenarbeit und freuen uns auf weitere Projekte im 2024.\n\n#DIEverWANDlungsKÜNSTLER",
+        "time": 1704381144,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Bruno Kälin",
+        "author_photo": "/images/reviews/guensch-gmbh-steinen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1590904086,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sidler Janik",
+        "author_photo": "/images/reviews/guensch-gmbh-steinen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1588786083,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Manuel Merz",
+        "author_photo": "/images/reviews/guensch-gmbh-steinen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1588703746,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ronny Traxel",
+        "author_photo": "/images/reviews/guensch-gmbh-steinen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781257773,
+        "relative_time_description": "in der letzten Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

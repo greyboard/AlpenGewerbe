@@ -26,5 +26,55 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9R6QG_rxmkcRajpvXCtGW-A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Thomas Martens",
+        "author_photo": "/images/reviews/ilg-dach-ag-neuwilen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Ilg nur weiterempfehlen, sehr gute Beratung, fachmännische Ausführung der Arbeiten und speditive Arbeitsweise.",
+        "time": 1749213641,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Roger Zängerle",
+        "author_photo": "/images/reviews/ilg-dach-ag-neuwilen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, fachgerechte Ausführung der Arbeiten, zuverlässig und rasch. Gerne wieder. 😀👍",
+        "time": 1733997821,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Peter",
+        "author_photo": "/images/reviews/ilg-dach-ag-neuwilen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute und saubere Ausführung der Arbeiten. Angenehme und freundliche Mitarbeitende. Das Warten hat sich gelohnt. Bei nächster Gelegenheit gerne wieder.",
+        "time": 1778602137,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Samuel Kolb",
+        "author_photo": "/images/reviews/ilg-dach-ag-neuwilen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1761464868,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

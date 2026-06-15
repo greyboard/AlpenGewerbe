@@ -26,5 +26,31 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJHcVcDK4jm0cRW6ou_uyGj9k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Benedikt",
+        "author_photo": "/images/reviews/astrain-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1708082497,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

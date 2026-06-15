@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJdWv5sycAkEcRUIs54gwSl8A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Maria Gabriela",
+        "author_photo": "/images/reviews/anton-bachmann-ag-rotkreuz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Mitarbeitende, ausgezeichnete Arbeit, erstklassiger Service und sehr gute Beratung. Jacquot Wilmes war äußerst professionell und hat sich in allem, was er getan oder koordiniert hat, mit großer Sorgfalt engagiert. Wenn kleine Probleme auftraten, brachte Jacquot stets passende Lösungen ein.\nIch habe eine komplette Wohnungsrenovation durchgeführt, und die Bachmann AG hat die Koordination sowie die Sanitärarbeiten übernommen – alles hervorragend unter der Leitung von Jacquot Wilmes.\nIch bin sehr zufrieden mit der ausgeführten Arbeit und kann sie ohne Zweifel wärmstens empfehlen! Vielen Dank.",
+        "time": 1769273435,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Matthias Suter",
+        "author_photo": "/images/reviews/anton-bachmann-ag-rotkreuz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben Bad, Dusche, Küche und alle Radiatoren renoviert und sind dabei von Jacquot Wilmes beraten worden. Die Zusammenarbeit mit Jacquot war angenehm, professionell und effizient. Auf unsere Wünsche wurde eingegangen und Jacquot stand uns jederzeit mit Rat und Tat zur Seite. Die Qualität ist hervorragend (und wir sind Perfektionisten...). Preis-Leistung ist unserer Meinung nach sehr fair. Wir werden bei zukünftigen Projekten sicher wieder mit Jacquot zusammenarbeiten. Absolute Weiterempfehlung von uns.",
+        "time": 1767860857,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "A P",
+        "author_photo": "/images/reviews/anton-bachmann-ag-rotkreuz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben gerade mit der Firma Bachmann unsere Wohnung renoviert und sind absolut begeistert. Schon bei der Vorbesprechung war der Ablauf einfach und reibungslos. Peter Scheidegger war äußerst hilfsbereit und hat uns viele hilfreiche Zusatztipps gegeben.\n\nDas Produkt / die Dienstleistung hat unsere Erwartungen übertroffen. Die Qualität der Materialien ist hervorragend und die Zusammenarbeit war super.\n\nBesonders beeindruckt hat uns die freundliche und kompetente Beratung von Peter und die hervorragende Begleitung während der Umsetzung. Er hat sich jederzeit um unsere Anliegen gekümmert und innerhalb kürzester Zeit sich um eine Lösung bemüht. Man merkt, dass hier viel Wert auf Kundenzufriedenheit gelegt wird.\n\nWell done!",
+        "time": 1724140400,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sischtian Selber",
+        "author_photo": "/images/reviews/anton-bachmann-ag-rotkreuz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "bei einer notfallmässigen Anfrage im Sanitärbereich war der freundliche Monteur C.O. an einem Freitagnachmittag innert einer halben Stunde bei mir. Er hat kompetent und sachlich die Mängel am Wandspülkasten in kurzer Zeit nachhaltig behoben. Die Rechnung sehr günstig ohne Notfallzuschlag. Ich kann die Firma sehr wärmstens weiter empfehlen! Herzlichen Dank!",
+        "time": 1719859590,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Leah",
+        "author_photo": "/images/reviews/anton-bachmann-ag-rotkreuz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Jacquot Wilmes von der Anton Bachmann AG hat sich viel Zeit genommen, uns fachmännisch und ausführlich zu beraten. Seine Kompetenz und sein Engagement haben uns sehr beeindruckt. Vielen Dank!",
+        "time": 1727698749,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8QcdHcILkEcRE6FgweH2Ihg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–16:30 Uhr",
+    "Dienstag: 08:00–16:30 Uhr",
+    "Mittwoch: 08:00–16:30 Uhr",
+    "Donnerstag: 08:00–16:30 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Patrick Schäli",
+        "author_photo": "/images/reviews/uni-schreiner-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Uni Schreiner AG hat bei unserem Haus alle Fenster (7 Stück) und Balkontüren (2 Stück), ein Einbaubücherregal und 2 Hauseingangstüren geplant und eingebaut. Dazu die komplette Küche montiert.\nHervorragende Kommunikation und Ablauf aller Arbeiten.\nWir können diese Firma sehr empfehlen!",
+        "time": 1733166796,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marija Katrin",
+        "author_photo": "/images/reviews/uni-schreiner-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1767800323,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Leo Für",
+        "author_photo": "/images/reviews/uni-schreiner-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1659727605,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

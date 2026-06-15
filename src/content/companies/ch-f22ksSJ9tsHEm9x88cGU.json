@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvxptOkN_kEcRP-XDFvvTL90",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "N. Kathrin Schmid",
+        "author_photo": "/images/reviews/bachmann-neukomm-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sensationeller Service und perfekte Qualität!\n\nGerade eben war ein junger Mann der Bachmann Neukomm AG bei mir, um den alten Badezimmerspiegelschrank mit noch alten Leuchtstoffröhren auf LED umzubauen.\nEr war super pünktlich, sehr freundlich und erledigte seine Arbeit schnell und zuverlässig.\nIch bin von der Firma und dem Ergebnis absolut begeistert!\n\nAuch die telefonische Terminvergabe im Vorfeld war unkompliziert und einfach professionell.\nIch kann diese Firma uneingeschränkt weiterempfehlen.",
+        "time": 1743402607,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andreas Kandlen",
+        "author_photo": "/images/reviews/bachmann-neukomm-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐ Hervorragender Service und Zuverlässigkeit!\n\nIch benötigte kurzfristig einen Elektriker, und die Bachmann Neukomm AG hat sofort und unkompliziert Unterstützung zugesichert. Bereits im Vorfeld war der Kontakt äusserst professionell, freundlich und zuverlässig.\n\nIch freue mich auf den vereinbarten Termin und möchte mich schon jetzt für den hervorragenden Service und die schnelle Hilfe bedanken. Solch eine Kundenorientierung ist wirklich bemerkenswert und verdient grosses Lob!\n\nVielen Dank an die Bachmann Neukomm AG für die Unterstützung!",
+        "time": 1734447352,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jonas Sulzberger",
+        "author_photo": "/images/reviews/bachmann-neukomm-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unser Reisebüro ist seit Jahren überaus zufriedener Kunde bei diesem Schaffhauser Traditionsunternehmen. Kompetentes und freundliches Team.",
+        "time": 1514448451,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Swaffle 99",
+        "author_photo": "/images/reviews/bachmann-neukomm-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "schneller und freundlicher service! empfehle le ich auf jeden fall weiter",
+        "time": 1579046991,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jacqueline Schork",
+        "author_photo": "/images/reviews/bachmann-neukomm-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Weil es eine hervorragende Firma ist und gute Arbeit leistet.",
+        "time": 1665932658,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-TJKwb3XP5wIkAkD0gSPQ",
   "slug": "sl-keramik-gmbh-wandbelaege-bodenbelaege-muhen-muhen",
-  "name": "SL Keramik GmbH - Wandbeläge & Bodenbeläge Muhen",
+  "name": "SL Keramik GmbH",
   "branchen": [
     "fliesenleger"
   ],
@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ980xXb08kEcRohbQxpI8vtw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Pascal Bachmann",
+        "author_photo": "/images/reviews/sl-keramik-gmbh-wandbelaege-bodenbelaege-muhen-muhen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei der Realisierung unserer Bad-Sanierung übernahm SLK das Gewerk Plattenarbeiten. Die Abwicklung lief tadellos, die Arbeiten wurden sehr präzise und schön ausgeführt. Alles war im Sinne der Bauherrschaft, Kosten und Termine wurden eingehalten. So machen Bauprojekte Freude, wir können SLK nur weiterempfehlen.",
+        "time": 1770277812,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Stefan Küenzi",
+        "author_photo": "/images/reviews/sl-keramik-gmbh-wandbelaege-bodenbelaege-muhen-muhen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir hatten schon 2x ein Projekt mit SL Keramik. Das erste mal ein Badezimmerumbau und das 2x eine komplette Innenhaus Sanierung. Und wir waren beides mal sehr zufrieden. Sehr effizient, sauber gearbeitet und äusserst Fachkompetent. Zudem lief bei der Haus Sanierung durch das SL Keramik Team alles reibungslos ab, immer just in time😊 Vielen herzlichen Dank wir können euch nur weiters empfehlen und würden euch auch no für ein 2,4 oder 5 Projekt nehmen!",
+        "time": 1722105575,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Schattauer",
+        "author_photo": "/images/reviews/sl-keramik-gmbh-wandbelaege-bodenbelaege-muhen-muhen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Lehner und sein Team haben erstklassige Arbeit bei unserer Badezimmer-Erneuerung geleistet. Professionalität und die Liebe zum Handwerk stehen in dieser Firma ganz weit oben. So macht Umbauen Spass. Uneingeschränkte Empfehlung unsererseits. Wir freuen uns schon auf das nächste gemeinsame Projekt.",
+        "time": 1702735808,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Laub",
+        "author_photo": "/images/reviews/sl-keramik-gmbh-wandbelaege-bodenbelaege-muhen-muhen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Von A-Z, sprich Vorgesprächen > Ideen-Anpassungen > Planung > Realisation > Ausführungen > Fertigstellung wirklich Alles tip top. Seit Jahren immer wieder erfolgreich tolle Aufträge, mittlerweile im Tief- und Hoch-, wie auch Innen- und Aussen-Ausbau vergeben. Absolut empfehlenswert und auch in Zukunft immer sehr gerne wieder.",
+        "time": 1639412740,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Julian Blaser",
+        "author_photo": "/images/reviews/sl-keramik-gmbh-wandbelaege-bodenbelaege-muhen-muhen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Lehner und sein Team hat bei mir im Badezimmer Fliesen verlegt und noch weiter Arbeiten gemacht. Sehr qualitatives und speditives Unternehmen.",
+        "time": 1641409404,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

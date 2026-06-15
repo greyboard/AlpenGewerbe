@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJOXIOA7Q1kEcRT_EDxwQ-Bd4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Carolina Fricker",
+        "author_photo": "/images/reviews/ggs-ag-holzbau-spenglerei-gelterkinden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine sehr professionelle Firma, welche absolute Top Arbeit abliefert. Haben bei uns für ein grosses Bauernhaus den gesamten Dach-Umbau gemacht. Kommunkation hat immer super geklappt, Termine wurden jederzeit eingehalten und die Qualität ist 1a. Kann ich jederzeit weiter empfehlen und würde ich sofort wieder engagieren.",
+        "time": 1780583199,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Chrigi",
+        "author_photo": "/images/reviews/ggs-ag-holzbau-spenglerei-gelterkinden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Neues Dach , neu Solar.\nWir sind glücklich und zufrieden.\nProfessionelle Firma , kompetent , sehr flexibel (Möglichkeit von Eigenleistung) , sehr gute Arbeit und schnell\nVielen Herzlichen Dank und gerne wieder!!",
+        "time": 1749061231,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcel Schaub",
+        "author_photo": "/images/reviews/ggs-ag-holzbau-spenglerei-gelterkinden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "War zwar nur ein kleiner Auftrag (Auswechseln eines Stützbalkens unserer Pergola) jedoch super schnelle und unkomplizierte Ausführung! Ich empfehle GGS gerne weiter...",
+        "time": 1619793587,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alexandre Perrier",
+        "author_photo": "/images/reviews/ggs-ag-holzbau-spenglerei-gelterkinden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Dachisolation und Sanierung ist sehr schön und gut geworden. Die Kommunikation war einwandfrei und sehr kundenorientiert. GGS offeriert und arbeitet auch kostenbewusst. Ich kann GGS Holzbau absolut weiterempfehlen!",
+        "time": 1731262307,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dominik Strub",
+        "author_photo": "/images/reviews/ggs-ag-holzbau-spenglerei-gelterkinden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Supertolle und effiziente Zimmerei.\nProffessioneller Holzbau in verschiedenen Bereichen (Neubau, Umbau, Carport, Sturmschaden usw...)\nSehr empfehlenswer",
+        "time": 1735949915,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

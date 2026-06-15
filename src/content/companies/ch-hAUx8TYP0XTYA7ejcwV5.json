@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJmdZCYTgzjEcRmO2YZGPp48U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "b_rayan _17",
+        "author_photo": "/images/reviews/zimmermann-sarl-villars-sainte-croix/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Meine Erfahrung mit Zimmermann war außergewöhnlich. Vom ersten Kontakt an zeigte das Team Professionalität, Liebe zum Detail und ein unübertroffenes Engagement für die Kundenzufriedenheit. Die Qualität der Produkte und Dienstleistungen übertraf meine Erwartungen, und der gesamte Prozess verlief reibungslos und effizient. Ich kann Zimmermann jedem wärmstens empfehlen, der Wert auf Qualität und Zuverlässigkeit legt. Vielen Dank für Ihre hervorragende Arbeit!",
+        "time": 1740223113,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lavdim Hoxha",
+        "author_photo": "/images/reviews/zimmermann-sarl-villars-sainte-croix/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte die Gelegenheit, mit Zimmermann Sàrl zusammenzuarbeiten und bin mit deren Service sehr zufrieden. Die Arbeit ist von hoher Qualität und wird professionell und präzise ausgeführt. Das Team arbeitet schnell und effizient und ist dabei stets erreichbar und hilfsbereit. Ein zuverlässiges Unternehmen, auf das man sich verlassen kann. Ich kann sie wärmstens empfehlen!",
+        "time": 1740594581,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Afrim Hoxha",
+        "author_photo": "/images/reviews/zimmermann-sarl-villars-sainte-croix/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service und kompetente Beratung von echten Profis der Lüftungsbranche. Produkte höchster Qualität. Seit Jahrzehnten.",
+        "time": 1753940553,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "vichot yann",
+        "author_photo": "/images/reviews/zimmermann-sarl-villars-sainte-croix/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Ich bin überrascht, dass die Angestellten des Unternehmens weit nach Feierabend auf Behindertenparkplätzen parken.",
+        "time": 1719511823,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Halil Hoxha",
+        "author_photo": "/images/reviews/zimmermann-sarl-villars-sainte-croix/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bel accueil avec professionnalisme.",
+        "time": 1640018343,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

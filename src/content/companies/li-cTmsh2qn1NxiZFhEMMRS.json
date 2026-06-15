@@ -26,5 +26,54 @@
     "Fundamentbau",
     "Renovation"
   ],
-  "description": "So weist Ihr Webauftritt zwar ein sehr modernes Design mit einer guten Darstellung der Referenzen auf, lässt jedoch bei der Performance und dem nDSG-Datenschutz akute Flanken offen: Mit einem mobilen PageSpeed von gerade einmal 59 verliert die Seite wertvolle Nutzer, während im Hintergrund das veral"
+  "description": "So weist Ihr Webauftritt zwar ein sehr modernes Design mit einer guten Darstellung der Referenzen auf, lässt jedoch bei der Performance und dem nDSG-Datenschutz akute Flanken offen: Mit einem mobilen PageSpeed von gerade einmal 59 verliert die Seite wertvolle Nutzer, während im Hintergrund das veral",
+  "googlePlaceId": "ChIJjexblMczm0cR62_wpiqhma8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "M N",
+        "author_photo": "/images/reviews/meisterbau-ag-balzers/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Keine Empfehlung für diesen Betrieb! Fängt beim Chef an…",
+        "time": 1760471984,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Luis Dos Santos",
+        "author_photo": "/images/reviews/meisterbau-ag-balzers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alle sehr kompetent und freundlich",
+        "time": 1610469317,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Sven Dietsche",
+        "author_photo": "/images/reviews/meisterbau-ag-balzers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1772310840,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Cirilo Dias",
+        "author_photo": "/images/reviews/meisterbau-ag-balzers/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1729334899,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "jarno luechinger",
+        "author_photo": "/images/reviews/meisterbau-ag-balzers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675459097,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

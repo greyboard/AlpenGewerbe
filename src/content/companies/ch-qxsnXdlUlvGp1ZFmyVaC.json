@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ91QoSMrkj0cREdnBCLINw_4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Sambuco68",
+        "author_photo": "/images/reviews/buehlmann-metallbau-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung und professionelles Auftreten. Viele Muster vorhanden um sich eine gute und breite Meinung machen zu können.\nEinziges minus: Für nicht Raucher ist das Empfangsbüro eine kleine Zumutung.",
+        "time": 1602782519,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Paul Hueber",
+        "author_photo": "/images/reviews/buehlmann-metallbau-ag-luzern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Am 4.7.2018 habe ich den Auftrag für ein Terrassengeländer gegeben. Heute, am 12.11.18 ist noch nichts passiert, trotz mehrmaliger Anfrage und eingeschriebenem Brief.",
+        "time": 1542008522,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marc Heyer",
+        "author_photo": "/images/reviews/buehlmann-metallbau-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiger und professioneller Metallbauer zu fairen Preisen!",
+        "time": 1562662133,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Utz Heiner",
+        "author_photo": "/images/reviews/buehlmann-metallbau-ag-luzern/reviewer_4.jpg",
+        "rating": 3,
+        "text": "Nicht sehr professionell, dafür sehr teuer.",
+        "time": 1655969967,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pius Bühlmann",
+        "author_photo": "/images/reviews/buehlmann-metallbau-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Betrieb!",
+        "time": 1668512211,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

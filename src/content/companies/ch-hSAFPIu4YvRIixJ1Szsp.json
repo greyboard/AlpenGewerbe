@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJVVURnmp9kEcRKPdYgKWzQ0Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Lars Ulmer",
+        "author_photo": "/images/reviews/meterpeter-schreinerei-kuechen-umbauten-schaffhausen-schleitheim-schleitheim/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind so zufrieden! Die Schreinerarbeiten (Ersetzen von Fenstersimsen in Eiche) ist absolut sauber und sorgfältig ausgeführt worden. Wir sind zu 100 % zufrieden und werden uns für weitere Schreinerarbeiten in unserem Haus jederzeit wieder für meterpeter entscheiden.",
+        "time": 1778184245,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Elsbeth Wanner",
+        "author_photo": "/images/reviews/meterpeter-schreinerei-kuechen-umbauten-schaffhausen-schleitheim-schleitheim/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin seit Jahren zufriedene Kundin der Schreinerei Meterpeter👍Mein derzeitiger Umbau in meiner Küche ist voll und ganz nach meinen Wünschen gemacht worden. Ich werde die zwei Meterpeter's, Peter und Fabio jederzeit weiterempfehlen!",
+        "time": 1621608346,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gustav Arnold",
+        "author_photo": "/images/reviews/meterpeter-schreinerei-kuechen-umbauten-schaffhausen-schleitheim-schleitheim/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter und zeitnaher Service. Die Reparatur wurde sehr umsichtig und kompetent ausgeführt.",
+        "time": 1756919595,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Urs Reinwald",
+        "author_photo": "/images/reviews/meterpeter-schreinerei-kuechen-umbauten-schaffhausen-schleitheim-schleitheim/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolle Zusammenarbeit mit Peter und Fabian. Exakte und speditive Arbeit die ich bekommen habe. Danke",
+        "time": 1760680593,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Celine Christen",
+        "author_photo": "/images/reviews/meterpeter-schreinerei-kuechen-umbauten-schaffhausen-schleitheim-schleitheim/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705143220,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

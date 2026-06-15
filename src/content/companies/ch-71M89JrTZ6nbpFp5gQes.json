@@ -26,5 +26,47 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJD0dARwjxj0cRKcsvHQ1tmMU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Gregor Kathriner",
+        "author_photo": "/images/reviews/pilatus-therm-ag-alpnach-dorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unsere Heizung war defekt. Nach einem Anruf bei Pilatus Therm AG kam schnell ein freundlicher und kompetenter Mitarbeiter zu uns. Nach ein par Tests bemerkte er, dass es an der Umwälzpumpe lag. Diese holte er direkt bei einem Lieferanten ab und tauschte sie aus. Nach kurzer Zeit war  die Heizung wieder repariert.\nVielen Dank!",
+        "time": 1768128565,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "tomsi tom",
+        "author_photo": "/images/reviews/pilatus-therm-ag-alpnach-dorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente Partner für Haustechnik.\nImmer wieder gerne.",
+        "time": 1662024491,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrick Wiesendanger",
+        "author_photo": "/images/reviews/pilatus-therm-ag-alpnach-dorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715855626,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

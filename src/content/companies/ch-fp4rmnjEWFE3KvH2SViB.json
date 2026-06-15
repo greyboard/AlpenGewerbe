@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJe8wOMsVrkEcRSziOP63vIDA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–20:00 Uhr",
+    "Dienstag: 07:00–20:00 Uhr",
+    "Mittwoch: 07:00–20:00 Uhr",
+    "Donnerstag: 07:00–20:00 Uhr",
+    "Freitag: 07:00–20:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Nina Plump",
+        "author_photo": "/images/reviews/joss-holzbau-brugg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank!\n\"Herr Joss hat bei unserer Dachreparatur fantastische Arbeit geleistet. Die Kommunikation war super, dadurch haben wir zeitnah einen Termin für die Reparatur bekommen und wir sind  total happy mit dem Endergebniss. Das Preis-Leistungs-Verhältnis ist top. Sehr zu empfehlen!\"\n\nFreundliche Grüsse Nina Plump & Familie Albrecht",
+        "time": 1761327713,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Werkli",
+        "author_photo": "/images/reviews/joss-holzbau-brugg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit Joss Holzbau ist immer eine echte Freude. Es passt fachlich wie auch menschlich. Wir schätzen besonders das Vertrauen und die wertvolle Zusammenarbeit.\n\nAaron arbeitet super professionell und mit Freude. Wir konnten gemeinsam unsere Handwerkersoftware Werkli einführen. Jetzt freuen wir uns über die freudige Nutzung und das Feedback aus dem Betrieb. Aaron versteht genau was wichtig ist und ist ein bedeutender Feedback Partner. Das fachliche Wissen als auch der unkomplizierte Umgang macht die Zusammenarbeit besonders.\n\nWir schätzen diese Partnerschaft sehr und freuen uns auf die weitere Zusammenarbeit.",
+        "time": 1779387060,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Paul H",
+        "author_photo": "/images/reviews/joss-holzbau-brugg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super professionelle und zuverlässige Zusammenarbeit mit Aaron. Die Kommunikation war jederzeit unkompliziert und angenehm. Man merkt sofort, dass hier mit viel Leidenschaft, Freude und handwerklichem Geschick gearbeitet wird. Absolut empfehlenswert!",
+        "time": 1779350171,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Cornel Dudle",
+        "author_photo": "/images/reviews/joss-holzbau-brugg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Zuverlässig und mitdenkend. Als Bauleiter schätze ich das. Cornel Dudle, CDUDLE GmbH",
+        "time": 1779083760,
+        "relative_time_description": "vor 4 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

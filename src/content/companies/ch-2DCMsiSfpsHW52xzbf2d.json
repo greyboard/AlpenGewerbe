@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJhfk8EY1IhUcRMMTCTy2LHmc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Sarah",
+        "author_photo": "/images/reviews/rickenbacher-gmbh-muotathal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Rickenbacher GmbH aus dem Muotathal. Da man Gipser und Maler und Plattenleger aus einer Firma bekommt spart man sich viel Zeitaufwand da intern alles geregelt wird. Arbeit wurde zu meiner Zufreidenheit ausgeführt.",
+        "time": 1775735430,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "M. Ulm.",
+        "author_photo": "/images/reviews/rickenbacher-gmbh-muotathal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert! Immer wieder gerne.\nGruss M.",
+        "time": 1760700062,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Rosemary",
+        "author_photo": "/images/reviews/rickenbacher-gmbh-muotathal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut Überzeugt von der Firma Rickenbacher GmbH. Sympathisch, Fair und Korrekt. Jederzeit eine weiterempfehlung von mir!",
+        "time": 1760529028,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Mar Rai",
+        "author_photo": "/images/reviews/rickenbacher-gmbh-muotathal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Rickenbacher GmbH hat bei unserem Hausumbau für die Fassadendämmung offeriert. Die Beratung war sehr kompetent & unkompliziert. Aus terminlichen Gründen haben wir den Auftrag schlussendlich einer andere Firma vergeben. Würden die Firma auf Grund der gemachten Erfahrung trotzdem weiterempfehlen.",
+        "time": 1626257375,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "E. Kad.",
+        "author_photo": "/images/reviews/rickenbacher-gmbh-muotathal/reviewer_5.jpg",
+        "rating": 1,
+        "text": "unfreundlich, zu teuer und unkompetent, nie wieder!",
+        "time": 1748455931,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

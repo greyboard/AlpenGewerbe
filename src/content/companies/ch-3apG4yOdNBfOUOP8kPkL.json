@@ -1,7 +1,7 @@
 {
   "id": "ch-3apG4yOdNBfOUOP8kPkL",
   "slug": "huwyler-studer-ag-luzern",
-  "name": "Huwyler Studer AG",
+  "name": "HUWYLER STUDER AG",
   "branchen": [
     "gipser"
   ],
@@ -26,5 +26,55 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7-9frDD7j0cRoXES0PNagiw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Paolo Reda",
+        "author_photo": "/images/reviews/huwyler-studer-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Vergnügen, mit Gipser Studer an einem Projekt zusammenzuarbeiten, und bin mit dem Ergebnis mehr als zufrieden.\nDas Team erwies sich als professionell und ging auf alle meine Wünsche ein. Die Qualität der geleisteten Arbeit war makellos, die vereinbarten Fristen wurden eingehalten, und die Baustelle wurde stets sauber und ordentlich hinterlassen.\nIch kann Gipser Studer jedem wärmstens empfehlen, der hochwertige Verputzarbeiten sucht. Ihre Erfahrung und Leidenschaft für ihren Beruf spiegeln sich in jedem Detail ihrer Arbeit wider. Vielen Dank!",
+        "time": 1764499285,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Joscha Burri",
+        "author_photo": "/images/reviews/huwyler-studer-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642693307,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Leonardo De Gennaro",
+        "author_photo": "/images/reviews/huwyler-studer-ag-luzern/reviewer_3.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1634973353,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Francesco Agresta",
+        "author_photo": "/images/reviews/huwyler-studer-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1624997499,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

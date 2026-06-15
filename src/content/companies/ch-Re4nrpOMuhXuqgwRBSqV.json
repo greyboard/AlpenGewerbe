@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJI9F8xE_YB0ERYvYO5B_u-gc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Sidney Trachsel",
+        "author_photo": "/images/reviews/renggli-schreinerei-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hat uns spontan für ein Schulprojekt geholfen. War sehr freundlich und Hilfsbereit. Er hat einfach so sehr viel Zeit investiert, obwohl sie mehr als genug Arbeit hatten.\nVielen Dank dafür!!",
+        "time": 1758268136,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Edith Muff",
+        "author_photo": "/images/reviews/renggli-schreinerei-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Gaukler hat bei uns schnell und professionelle Arbeit geleistet.\nEin einbruchsicherer Türgriff mit Schlüssel, plus hat er die schwere Türe gerichtet. Toll, gerne empfehlen wir weiter",
+        "time": 1740643113,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Werner Inäbnit",
+        "author_photo": "/images/reviews/renggli-schreinerei-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Renggli Schreinerei hat in unseren Haus Holzfenster aufgefrischt und diese wieder dicht gemacht. Zudem wurden historische Holzfenster aufgedoppelt von Ein- auf Isolierverglasung. Saubere Arbeit von A - Z wurde geleistet. Herzlichen Dank!",
+        "time": 1730884314,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Raphael van Bürck",
+        "author_photo": "/images/reviews/renggli-schreinerei-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Schreiner, kann ich nur empfehlen! Immer wieder gerne. Top Arbeit, schnelle Reaktionszeit und guter Preis - so mögen wir das!",
+        "time": 1733943409,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Shani Chen Kornhäuser",
+        "author_photo": "/images/reviews/renggli-schreinerei-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "sehr nett und professionell! Super",
+        "time": 1729841141,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

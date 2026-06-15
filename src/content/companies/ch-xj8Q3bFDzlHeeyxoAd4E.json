@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJV6ZpNnU2j0cR1YqWKy5HuEI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Michèle Schneitter",
+        "author_photo": "/images/reviews/perren-haustechnik-ag-zermatt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mein Badezimmer renoviert und wurde dabei von Diego exzellent beraten. Die Bäder erstrahlen nun in einem modernen Design und die Arbeiten wurden termingerecht abgeschlossen.\n\nGruss\nMichèle Schneitter",
+        "time": 1722103886,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Wagner",
+        "author_photo": "/images/reviews/perren-haustechnik-ag-zermatt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionelle und rasche Arbeitserledigung. Beste Empfehlung für diese Unternehumung.",
+        "time": 1723539475,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fabian W",
+        "author_photo": "/images/reviews/perren-haustechnik-ag-zermatt/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einfach super! Vielen Dank! 😀",
+        "time": 1721122506,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Joel Grabe",
+        "author_photo": "/images/reviews/perren-haustechnik-ag-zermatt/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Der Lärm nach 21 Uhr ist unerträglich, keinerlei Respekt.",
+        "time": 1779829368,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Brendan Meehan",
+        "author_photo": "/images/reviews/perren-haustechnik-ag-zermatt/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Service war hervorragend. Selbst nach den üblichen Schließzeiten in Zermatt schrieb ich in meiner Verzweiflung eine SMS und bekam trotzdem Hilfe – ein echter Glücksfall für mich als Reisende ohne Klempnerwerkzeug. Etwa zehn Minuten nach meiner Kontaktaufnahme war jemand in meiner Wohnung. Selbst in diesem Notfall war es eine positive Erfahrung. Ich weiß nicht genau, wie die Preise im Vergleich zu Klempnerdiensten in anderen Ländern sind, aber da die Behebung des Problems nur 10–15 Minuten dauerte, war ich gerne bereit, jeden Preis zu zahlen.",
+        "time": 1718852675,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

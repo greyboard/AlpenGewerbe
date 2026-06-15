@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJeW5wn5y5kUcRsUM7_DYosCI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Hardo G. Loehr",
+        "author_photo": "/images/reviews/bodenfrisch-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die ausgezeichnete Arbeit. Hätte nicht gedacht, dass man aus einem alten Fischgrät-Parkett noch so viel rausholen kann. Das Schleifen und Ölen hat sich total gelohnt. Alles lief reibungslos, freundlich und sauber ab. Ich bin rundum zufrieden.",
+        "time": 1766858640,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Mesut Dereli",
+        "author_photo": "/images/reviews/bodenfrisch-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Gebrüder Vezaj von BodenFrisch haben sehr gut gearbeitet. Sie waren freundlich und pünktlich. Alles wurde sauber gemacht. Unser Parkett sieht jetzt wieder wie neu aus. Wir sind sehr zufrieden und sagen vielen Dank.",
+        "time": 1766852662,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Nicolas Widmer",
+        "author_photo": "/images/reviews/bodenfrisch-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr angenehmer Kontakt & freundliche Beratung.\nDie Arbeit wurde zeitgerecht, sauber und sehr professionell erledigt. Ich kann die Firma wirklich nur empfehlen.",
+        "time": 1779193501,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "kathleen hopkins",
+        "author_photo": "/images/reviews/bodenfrisch-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnelle, kompetente, saubere Arbeit und Arbeiter! Bin sehr zufrieden.",
+        "time": 1767647512,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "besir neziri",
+        "author_photo": "/images/reviews/bodenfrisch-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Immer Pünktlich und leisten eine Saubere Arbeit.",
+        "time": 1632921138,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

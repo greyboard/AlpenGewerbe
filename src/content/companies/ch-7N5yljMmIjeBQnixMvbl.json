@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJeXcT-goUjkcRKzLt7FuUtgE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Marc Schoder",
+        "author_photo": "/images/reviews/schwab-schreinerei-ag-showroom-kerzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Stets sehr gute und saubere Arbeit in höchster Qualität. Freundliche und kompetente Mitarbeiter. Inhabergeführter Betrieb und das merkt man auch im positiven Sinne. Danke Nicolas und deinem Team für euren Einsatz!",
+        "time": 1766474152,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "marenda s",
+        "author_photo": "/images/reviews/schwab-schreinerei-ag-showroom-kerzers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Auf kleinem Raum hat der Inhaber uns eine neue Küche hingezaubert. Mit Stauraum und deutlich mehr Platz als zuvor. Die Beratung war Top, ebenso die Ausführung. Gutes Team, das sein Handwerk versteht.",
+        "time": 1689333667,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Knecht Nico",
+        "author_photo": "/images/reviews/schwab-schreinerei-ag-showroom-kerzers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "In unserem Neubau-Projekt wurden die Zimmertüren sowie diverse Einbauschränke installiert. Die sehr kompetente Beratung in der Projektierungsphase sowie die perfekte Umsetzung im Bau haben uns sehr imponiert! Weiter so!",
+        "time": 1663855696,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Diana Tschachtli",
+        "author_photo": "/images/reviews/schwab-schreinerei-ag-showroom-kerzers/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Zuverlässige, gute Arbeit. Humorvolles Team. Guter Kundendienst. So soll es sein. Immer wieder gerne.",
+        "time": 1660420117,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pedro Medina Escobar",
+        "author_photo": "/images/reviews/schwab-schreinerei-ag-showroom-kerzers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Markenzeichen: Qualität, Zuverlässigkeit, Professionalität...\nZurzeit werden bei uns verschiedene Arbeiten durchgeführt und wir sind sehr zufrieden...!!",
+        "time": 1651301555,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

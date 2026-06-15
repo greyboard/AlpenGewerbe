@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5zY6o9RrjkcRtkYBV0XOw5w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Yves Neuenschwander",
+        "author_photo": "/images/reviews/ad-metall-design-gmbh-boesingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Damian von der AD-Metalldesign GmbH hat mit einem Mitarbeiter in einer konzentrierten Aktion unser Waldhaus neu eingedeckt. Super Arbeit und angenehme Zusammenarbeit. Ich kann die Firma nur empfehlen.",
+        "time": 1704920892,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "S Vo",
+        "author_photo": "/images/reviews/ad-metall-design-gmbh-boesingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "AD-Metall Design hat für unser Haus eine neue Treppe angefertigt. Genau nach unseren Wünschen, ausgezeichnet verarbeitet und montiert. Sehr empfehlenswert!",
+        "time": 1759221409,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Nadine N",
+        "author_photo": "/images/reviews/ad-metall-design-gmbh-boesingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben vor kurzem bei der AD-Metall Design GmbH individuell gestaltete Tischbeine für unseren Esstisch sowie für den Salontisch bestellt. Das Design wurde auf unsere Bedürfnisse und die speziellen Holzplatten angepasst. Beim Esstisch wurden die Tischbeine extra so konzipiert, dass niemand die Knie anschlägt. Das Resultat überzeugt uns ästhetisch und funktional. Die Verarbeitung des Material ist beeindruckend. Insgesamt waren wir äusserst zufrieden mit der Beratung und der Abwicklung der zwei Aufträge. Die Firma AD-Metall Design empfehlen wir auf jeden Fall weiter.",
+        "time": 1704918351,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJM9DSuH8xkEcRioEW5jqiO6E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Melvin Mavely",
+        "author_photo": "/images/reviews/vi-kundenmaurer-gmbh-dulliken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vito war 3 Tage bei uns für den Umbau des Bads, dabei hat er bei uns Bohrarbeiten durchgeführt und die Wände verputzt. Seine Arbeit hatte eine super Qualität und das Ergebnis sieht super aus. Er war immer pünktlich da und hat die Wohnung sauber hinterlassen. Ausserdem war er sehr freundlich und angenehm im Umgang. Wir können ihn nur weiterempfehlen! :)",
+        "time": 1761255242,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Vincent Löblich",
+        "author_photo": "/images/reviews/vi-kundenmaurer-gmbh-dulliken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent, zuverlässig, lösungsorientiert, schnell, sauber, flexibel und absolut seinen PreisWert. So durften wir Vito bei unserem Umbau kennenlernen. Es war eine sehr angenehme Zusammenarbeit und wir können ihn nur Empfehlen. Ein Handwerker mit Berufsstolz und absoluter Kundenorientierung.\nAuch in Zukunft unsere erste Wahl.\nVielen Dank für alles.",
+        "time": 1756411373,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Dominic Wächter",
+        "author_photo": "/images/reviews/vi-kundenmaurer-gmbh-dulliken/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vito ist sehr kurzfristig auf unserer Baustelle eingesprungen und hat in Rekordzeit alle nötigen Maurerarbeiten sauber und zuverlässig erledigt. Stets freundlich und aufgestellt. Besten Dank",
+        "time": 1741612287,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nuno Mestre",
+        "author_photo": "/images/reviews/vi-kundenmaurer-gmbh-dulliken/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vito organisierte mehrere Projekte bei uns selber, von A bis Z.\nAufmerksam, fachlich kompetent, hilfsbereit, menschlich und zuverlässig - selten trifft man jemanden, der mit so viel Herz und Verstand an die Sache geht.\nWir können ihn wärmstens empfehlen und wenn wieder Projekte anstehen, wissen wir, bei wem wir anklopfen.",
+        "time": 1752093736,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Ramon Buholzer",
+        "author_photo": "/images/reviews/vi-kundenmaurer-gmbh-dulliken/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mit den Arbeiten von VI Kundenmaurer sind wir absolut zufrieden. Von der ersten Beratung bis zur Fertigstellung unseres Projekts verlief alles reibungslos und professionell.\n\nDas Fundament für unser Gewächshaus sowie der Sitzplatz wurden fachmännisch angelegt. Zudem war die Kommunikation stets freundlich, transparent und lösungsotientiert - sehr gerne wieder!",
+        "time": 1740504255,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

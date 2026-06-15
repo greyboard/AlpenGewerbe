@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJsXpdoTY3jkcRwsYyyQcDzJQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Magid",
+        "author_photo": "/images/reviews/manu-schreiner-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit Manu, fachmännischer Schreiner in Bern.\nIch habe ihn heute angerufen und er ist noch am selben Abend vorbeigekommen – das nenne ich Service!\nEr war pünktlich, sehr kompetent und hat sauber gearbeitet. Zudem sind seine Preise absolut fair.",
+        "time": 1771006665,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Charles Kinch",
+        "author_photo": "/images/reviews/manu-schreiner-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellenter und schneller Service! Ich schrieb ihm abends und er war schon am nächsten Morgen erreichbar. Sehr freundlich und professionell – ich kann ihn wärmstens empfehlen!",
+        "time": 1770368918,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

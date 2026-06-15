@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJV5-5h163kUcRTBLAz7quUCI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Katharina schillinger",
+        "author_photo": "/images/reviews/schlosserei-metallbau-von-arx-ag-riehen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für alle, die Wert auf aussergewöhnliche Qualität und individuelle Lösungen im Schlossereibereich legen, kann ich diesen Betrieb nur wärmstens empfehlen! Die Kommunikation war sehr freundlich und zuverlässig, die Arbeit präzise und mit einem feinen Gespür für Ästhetik ausgeführt!\nVielen herzlichen Dank!",
+        "time": 1761648191,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Flo Gutzwiller",
+        "author_photo": "/images/reviews/schlosserei-metallbau-von-arx-ag-riehen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolles Unternehmen. Unkompliziert, schnell und qualitativ top!",
+        "time": 1591195049,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Thomas Rutishauser",
+        "author_photo": "/images/reviews/schlosserei-metallbau-von-arx-ag-riehen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775674795,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "László Panyik",
+        "author_photo": "/images/reviews/schlosserei-metallbau-von-arx-ag-riehen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732708542,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "N Blind",
+        "author_photo": "/images/reviews/schlosserei-metallbau-von-arx-ag-riehen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1625508123,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

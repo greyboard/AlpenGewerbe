@@ -26,5 +26,38 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJg6Jofwj3j0cR6xetVm867VY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Marcel Hersche",
+        "author_photo": "/images/reviews/antonini-ag-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gutes gibsergeschäft, mit viel erfahrung erledigt auch maler arbeiten, lang järige mitarbeiter. Zu empfehlen.",
+        "time": 1515069945,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Bircher Lukas",
+        "author_photo": "/images/reviews/antonini-ag-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1598602959,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Minas Sabri",
+        "author_photo": "/images/reviews/antonini-ag-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1491389013,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

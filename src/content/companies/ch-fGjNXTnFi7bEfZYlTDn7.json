@@ -26,5 +26,55 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJHVvIdf7XkUcRkXkHyQNCDHs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Patrick Bader",
+        "author_photo": "/images/reviews/mombelli-co-solothurn-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben in einer älteren Liegenschaft Zimmer neu tapezieren lassen und das Treppenhaus und den Eingangsbereich neu streichen lassen. Die Arbeiten wurden bis ins Detail exakt und qualitativ hervorragend ausgeführt. Ebenfalls wurden wir kompetent und mit guten Ideen von einem sympathischen Team beraten. Wir werden unsere nächsten Malerarbeiten wieder von Mombelli und Co. ausführen lassen und empfehlen die Firma sehr gerne weiter.",
+        "time": 1708871658,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roland Furrer",
+        "author_photo": "/images/reviews/mombelli-co-solothurn-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Lieber Claudio\nLieber Oliver\nFür die Malerarbeiten in unserem Wohn- und Esszimmerbereich bedanken wir uns.\nTop, professionelle Arbeit! Wir sind begeistert.\nHerzlichen Dank.\nRoland und Amy",
+        "time": 1728627393,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Evelyne Voumard",
+        "author_photo": "/images/reviews/mombelli-co-solothurn-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Qualitativ ausgezeichnete Arbeit, toller Service, flexibel, zuverlässig, sehr freundlich und sympathisch. Wir werden uns bei der nächsten anstehenden Malerarbeit erneut für Mombelli entscheiden!",
+        "time": 1531467056,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marc Zurcher",
+        "author_photo": "/images/reviews/mombelli-co-solothurn-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1567006114,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

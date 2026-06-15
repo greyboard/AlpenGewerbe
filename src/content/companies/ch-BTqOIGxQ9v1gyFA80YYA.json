@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJl51zc4cXjkcRIuP-jv0pvYY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Andreas",
+        "author_photo": "/images/reviews/dach-wand-reusser-gmbh-walperswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser altes Dach wurde zur Vorbereitung für eine PV-Anlage von der Firma Reusser erneuert. Das alte Dach wurde komplett entfernt und ein neues Unterdach erstellt. Die Fronten wurden zu grossen Teilen in Kupfer eingefasst und eine aktuell dimensionierte Hinterlüftungsebene erstellt. Die Besprechung der Arbeiten gestaltete sich angenehm und Herr Reusser brachte selbst einige Möglichkeiten ein, wie man die Arbeiten umsetzen könnte - was dann auch den Zuschlag für diese Firma gegeben hat.",
+        "time": 1657182039,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christoph Heer",
+        "author_photo": "/images/reviews/dach-wand-reusser-gmbh-walperswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Reusser hat sich sich unser Flachdach angeschaut und uns bestens beraten, vielen Dank dafür!",
+        "time": 1753199879,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Verena Nikles",
+        "author_photo": "/images/reviews/dach-wand-reusser-gmbh-walperswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, Schnell und Produktiv. Ekn Lob an Herr Marc Reusser und Team!",
+        "time": 1687355838,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandro Kocher",
+        "author_photo": "/images/reviews/dach-wand-reusser-gmbh-walperswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, flexibel, tolle und speditive Arbeit, trotz schlechten Wetterbedingungen! Top gerne wieder. Grüsse sandro",
+        "time": 1713986884,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jeremy Blunier",
+        "author_photo": "/images/reviews/dach-wand-reusser-gmbh-walperswil/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1676201057,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJSfBnTagBkEcRogW1yNYbBbI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "beat hess",
+        "author_photo": "/images/reviews/boog-schreinerei-ag-huenenberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswerter Betrieb. Kompetent, kundenorientiert und speditiv. Habe geschäflich und privat diverse Aufträge dort vergeben und war immer sehr zufrieden.",
+        "time": 1755787977,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Yves Hörler",
+        "author_photo": "/images/reviews/boog-schreinerei-ag-huenenberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind begeistert von A- wie Anfrage bis Z- wie zensationell.\n\nWir haben einen Einbauschrank in Auftrag gegeben. Unsere Wünsche wurden eins zu eins umgesetzt und die Montage verlief ebenso perfekt.\n\nUnbedingt weiter zu empfehlen!",
+        "time": 1616609213,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefan B (Stefan B.)",
+        "author_photo": "/images/reviews/boog-schreinerei-ag-huenenberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelle Beratung und super Qualität! Kann ich jedem weiterempfehlen.",
+        "time": 1699956030,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Detlef Larson",
+        "author_photo": "/images/reviews/boog-schreinerei-ag-huenenberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit",
+        "time": 1580832251,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "N G",
+        "author_photo": "/images/reviews/boog-schreinerei-ag-huenenberg/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Ein netter Laden, aber die Fabrik gibt regelmäßig Lösungsmittel (Lack, Farbe, Klebstoff usw.) an die Luft ab. Nicht gut für die Nachbarschaft, besonders wenn man Kinder hat.",
+        "time": 1693898901,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

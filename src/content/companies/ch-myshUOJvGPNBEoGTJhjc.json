@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJl4srkIHxj0cR-yoqHRfCjSE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Daniel S",
+        "author_photo": "/images/reviews/portmann-garten-ag-kaegiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Erfahrung. Wir haben ein eher umfangreiches Gartenumbauprojekt inklusive Pool-Neubau von Portmann ausführen lassen. Von Planung über Ausführung war alles perfekt. Super Service, sehr gewissenhaft und ordentlich, sehr gut organisiert. Wir wurden von einem hervorragenden Team betreut und können Portmann ohne Vorbehalte weiterempfehlen!",
+        "time": 1596378118,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Andreas Seiler",
+        "author_photo": "/images/reviews/portmann-garten-ag-kaegiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir waren von der Planung bis und mit der Ausführung unseres Gartens sehr zufrieden mit der Portmann Garten AG. Sehr professionelle Beratung und Ausführung bis zum Schluss hin. Danke vielmals an das tolle Team der Portmann Garten AG. Immer wieder gerne :-)",
+        "time": 1615447858,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tim Portmann",
+        "author_photo": "/images/reviews/portmann-garten-ag-kaegiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697221188,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Martin Baumgartner",
+        "author_photo": "/images/reviews/portmann-garten-ag-kaegiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1588056035,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Anika Weber",
+        "author_photo": "/images/reviews/portmann-garten-ag-kaegiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778090029,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

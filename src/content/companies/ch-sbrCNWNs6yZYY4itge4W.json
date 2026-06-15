@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJe1uOsA18g0cRFAU4rNsuWqU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Omar Della Moretta",
+        "author_photo": "/images/reviews/costa-ag-hoch-und-tiefbau-pontresina/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professionell und seriös",
+        "time": 1626041104,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Rosario Scibona",
+        "author_photo": "/images/reviews/costa-ag-hoch-und-tiefbau-pontresina/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionalität 100x100",
+        "time": 1642102626,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Wolly Biavaschi",
+        "author_photo": "/images/reviews/costa-ag-hoch-und-tiefbau-pontresina/reviewer_3.jpg",
+        "rating": 5,
+        "text": "🔝",
+        "time": 1642424940,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Reini Sac",
+        "author_photo": "/images/reviews/costa-ag-hoch-und-tiefbau-pontresina/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774976063,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "MarioTuguinha",
+        "author_photo": "/images/reviews/costa-ag-hoch-und-tiefbau-pontresina/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1767735967,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

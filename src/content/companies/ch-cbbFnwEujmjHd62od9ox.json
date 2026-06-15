@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJM9S6gh9OhUcRPEt0yMs5Bt4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Heinzer Remo",
+        "author_photo": "/images/reviews/paul-weber-ag-metall-und-stahlbau-seewen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Paul Weber AG ist ein total flexibler, lösungsorientierter Metallbauer, welcher auch vor komplexen Herausforderungen nicht zurückschreckt. Faire Preise.\nAuch persönlich sehr loyal und freundlich.\nBesten Dank für die stets hervorragend ausgeführten Dienstleistungen.\nRemo Heinzer\nAuto Heinzer AG",
+        "time": 1706172808,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tihamer Abraham",
+        "author_photo": "/images/reviews/paul-weber-ag-metall-und-stahlbau-seewen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1670072119,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Thomas Schweizer",
+        "author_photo": "/images/reviews/paul-weber-ag-metall-und-stahlbau-seewen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1593010313,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Toni Schürpf",
+        "author_photo": "/images/reviews/paul-weber-ag-metall-und-stahlbau-seewen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1592235028,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

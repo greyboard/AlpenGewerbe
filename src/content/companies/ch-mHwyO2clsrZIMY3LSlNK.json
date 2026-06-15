@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRxvzuLWRhEcRlKuM95NjB1o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "8006 ZH",
+        "author_photo": "/images/reviews/elektro-savoldelli-ag-savognin/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der vermutlich zuverlässigste und beste Handwerksbetrieb, mit dem ich auf meiner Baustelle  zu tun hatte. Alles verlief immer Reibungslos und in absoluter Top Qualität. Der Chef geht immer die Extrameile, reagiert schnell und seine Mitarbeiter hat er gut und kompetent ausgewählt. Herzlichen Dank für die immerwährende TopQualität auf der ganzen Linie. Wenn alle Handwerker so wären, würde Bauen mehr Spass machen.",
+        "time": 1638348798,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Max Kobler",
+        "author_photo": "/images/reviews/elektro-savoldelli-ag-savognin/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schnell das am Freitag Nachmittag.\nKann ich nur weiterempfehlen.\nFür uns klarer Favorit, für\nzukünftige Arbeiten\n\nM. u. R. Kobler",
+        "time": 1621612709,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christian Schmid",
+        "author_photo": "/images/reviews/elektro-savoldelli-ag-savognin/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige und pünktliche Firma. Angenehme Mitarbeiter.",
+        "time": 1638892448,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Adrian Pabst",
+        "author_photo": "/images/reviews/elektro-savoldelli-ag-savognin/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schneller prompter Service, gerne wieder.",
+        "time": 1692288959,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kurt Wiederkehr",
+        "author_photo": "/images/reviews/elektro-savoldelli-ag-savognin/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Brauchte Leuchtstoffröhre und Starter! Habe beides erhalten!",
+        "time": 1730554583,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

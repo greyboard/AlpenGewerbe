@@ -26,5 +26,30 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJz9JD5wkzm0cRSgXAQ9BQ1PM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "A. L.",
+        "author_photo": "/images/reviews/schreinerei-von-aarburg-gmbh-weite/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit von der Schreinerei Von Aarburg voll zufrieden. Nahm sich Zeit für eine kompetente Beratung, offerierte genau, arbeitete genau, das Resultat passt total. Kann ich weiterempfehlen.",
+        "time": 1586162546,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Adrian von Aarburg",
+        "author_photo": "/images/reviews/schreinerei-von-aarburg-gmbh-weite/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Schreinerei.",
+        "time": 1723377005,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

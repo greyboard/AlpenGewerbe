@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJYWu8uwO5kUcRpigNOZ5iKXs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "sarah steffen",
+        "author_photo": "/images/reviews/barbey-soehne-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann den Malerbetrieb nur wärmstens empfehlen! Die Brüder sind freundlich, fröhlich und sympathisch – man fühlt sich sofort gut aufgehoben. Die Fachkompetenz ist deutlich sichtbar, die Arbeiten wurden schnell und professionell ausgeführt. Das Ergebnis ist wunderschön geworden, genau nach meinen Vorstellungen. Auch die Offerte war transparent und korrekt. Insgesamt eine rundum positive Erfahrung – jederzeit wieder!",
+        "time": 1751460983,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Sani Tasto",
+        "author_photo": "/images/reviews/barbey-soehne-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Malergeschäft! Herr A.Barbey arbeitet zuverlässig und wir sind begeistert.(Arbeit im Sommer 20 erledigt und gefällt uns immer noch, danke)",
+        "time": 1635930202,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Tobias Barbey",
+        "author_photo": "/images/reviews/barbey-soehne-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausführliche und transparente Offerte. Informatieve, sachlich grundlegende und handfeste Beratung.",
+        "time": 1744369450,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matthias Gubler",
+        "author_photo": "/images/reviews/barbey-soehne-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Malerfirma. Vielen Dank für alles, es sieht wunderbar aus.",
+        "time": 1562843574,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "NC",
+        "author_photo": "/images/reviews/barbey-soehne-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich und kompetent. Der Kunde und seine Wünsche stehen im Zentrum.",
+        "time": 1588011039,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

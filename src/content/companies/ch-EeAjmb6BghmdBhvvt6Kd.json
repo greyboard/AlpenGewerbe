@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJBWTFB_crkEcRW0-DoKgh_S4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Pascal Streit",
+        "author_photo": "/images/reviews/reber-gartenmanager-gmbh-wynau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sind Privat und geschäftlich seit Jahren Kunden, und können Reber Gartenbau zu jederzeit ohne Einschränkung weiterempfehlen. Wer Qualität sucht, ist hier genau richtig! Top Service, Fachwissen, Kompetenz und Freundlichkeit, Pflanzen und Gartenbau liegt Ihnen im Blut.",
+        "time": 1772826384,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Grütler Saiki",
+        "author_photo": "/images/reviews/reber-gartenmanager-gmbh-wynau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Machen einen guten Job bei mir im Garten. Nette Angestellte. Zumindest die 2 die zu mir kommen. Unternehmen mach auf mich einen offenen und freundlichen Eindruck.",
+        "time": 1694251967,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "CS",
+        "author_photo": "/images/reviews/reber-gartenmanager-gmbh-wynau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, professionell\nSehr flexibel\nEine der wenigen Firmen die noch zuverlässig ist. Vielen Dank und weiter so!",
+        "time": 1690988276,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Severin Von Niederhäusern",
+        "author_photo": "/images/reviews/reber-gartenmanager-gmbh-wynau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super war mega 1 klassiger Gartenbau super weiter so.👍👍👍😎👍👍👍",
+        "time": 1708198193,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Natalia Lehmann",
+        "author_photo": "/images/reviews/reber-gartenmanager-gmbh-wynau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Innovative ideen. Empfehlungswert",
+        "time": 1538597541,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

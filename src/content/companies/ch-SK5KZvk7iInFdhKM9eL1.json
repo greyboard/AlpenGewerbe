@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJiVGHGhapmkcRcExh4xcmr_Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Nicolai Berardi",
+        "author_photo": "/images/reviews/garten-haag-gmbh-hausen-am-albis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Teich sanieren assen durch Garten Haag, nachdem andere Gartenbauer gesagt haben es sei unmöglich oder 20'000.- teuer. Die Arbeit wurde schnell, sauber und in bester Qualität und Handarbeit durchgeführt. Als besonderes Highlight ist erwähnenswert, das die Mölche von Hand abgefangen wurden und wieder eingesetzt werden konnten, sowie der neu installierte Bachlauf! Mit dem Ergebnis sind wir äusserst zufrieden und der Preis war sehr gut.",
+        "time": 1606201839,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christoph Haas",
+        "author_photo": "/images/reviews/garten-haag-gmbh-hausen-am-albis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Arbeit wurde von Herrn Haag und einem Mitarbeiter zu meiner vollsten Zufriedenheit ausgeführt. Es war auch ein sehr angenehmer Kontakt mit ihnen während der Bauzeit. Ich war erstaunt, wie schnell und pünktlich die Arbeiten ausgeführt wurden.\nSehr zu empfehlen!",
+        "time": 1651665466,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Līva Veļķere",
+        "author_photo": "/images/reviews/garten-haag-gmbh-hausen-am-albis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Terassenbepflanzung neu machen lassen. Das Gespräch war sehr freundlich und wir fühlten uns gut beraten. Jetzt haben wir endlich eine farbige und pflegeleichte Bepflanzung. Wir sind mit der Garten Haag GmbH sehr zufrieden. Junges, motiviertes und kompetentes Team die eine saubere Arbeit gemacht haben. Gerne wieder.",
+        "time": 1601123302,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marlies Müller",
+        "author_photo": "/images/reviews/garten-haag-gmbh-hausen-am-albis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Erdrutsch. Hr. Haag und Mitarbeiter kamen sehr kurzfristig und haben die nötigen Arbeiten sehr effizient und mit gutem Fachwissen erledigt. Durch die Spezialausbildung konnten sie uns auch eine Hangsicherung erstellen. Wir sind sehr zufrieden und empfehlen die Firma gerne weiter.",
+        "time": 1630246081,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simone Kurmann",
+        "author_photo": "/images/reviews/garten-haag-gmbh-hausen-am-albis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Haag entwurzelte & entsorgte unseren Baumstrunk. Die Anfrage wurde sehr pragmatisch und speditiv umgesetzt.\nWir waren begeistert.\nBeim nächsten Auftrag gehen wir sehr gerne wieder auf Herrn Haag zu.",
+        "time": 1657711306,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

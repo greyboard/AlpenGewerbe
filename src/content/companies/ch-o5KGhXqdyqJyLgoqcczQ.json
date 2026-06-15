@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJpyUggQ-5kUcRD-p9sWg-sn8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "B. S.",
+        "author_photo": "/images/reviews/kasa-haustechnik-basel-bad-heizung-und-sanitaer-fuer-ihr-haus-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnelle Reaktion auf unser Anliegen und das Problem mit der Heizung konnte schnell gelöst werden ! Danke !",
+        "time": 1766260403,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Dominic Bosch",
+        "author_photo": "/images/reviews/kasa-haustechnik-basel-bad-heizung-und-sanitaer-fuer-ihr-haus-basel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Überholt rechts auf der Autobahn und drängelt vorne rein",
+        "time": 1759243980,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Rrahmon Nuhiji",
+        "author_photo": "/images/reviews/kasa-haustechnik-basel-bad-heizung-und-sanitaer-fuer-ihr-haus-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Firma sehr zuverlässig, schnell, sauber und Kompetent.",
+        "time": 1452350895,
+        "relative_time_description": "vor 10 Jahren"
+      },
+      {
+        "author_name": "Dammv Basel",
+        "author_photo": "/images/reviews/kasa-haustechnik-basel-bad-heizung-und-sanitaer-fuer-ihr-haus-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Seit Jahren unser Haus-Sanitär",
+        "time": 1588750434,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Red",
+        "author_photo": "/images/reviews/kasa-haustechnik-basel-bad-heizung-und-sanitaer-fuer-ihr-haus-basel/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1769972336,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

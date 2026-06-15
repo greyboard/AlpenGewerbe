@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJXy1WcKj3j0cRMXqTfYKErCI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 09:00–11:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 09:00–11:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: 13:30–18:30 Uhr",
+    "Freitag: 13:30–18:30 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Martin Joller",
+        "author_photo": "/images/reviews/knuesel-ag-elektroanlagen-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe noch selten einen so kundenorientierten Service erlebt.\nVielen herzlichen Dank an Frau Knüsel für die Spontanität, den Einsatz und die Grosszügigkeit.\nDa kann sich manch ein \"Grosser\" eine Scheibe abschneiden.",
+        "time": 1669665075,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "R. M.",
+        "author_photo": "/images/reviews/knuesel-ag-elektroanlagen-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Waren bereits mehrmals bei Elektro Knüsel. Wir haben immer eine ehrliche und gute Bedienung erhalten. Nur zu empfehlen. R.M.",
+        "time": 1658049117,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "René Kobler",
+        "author_photo": "/images/reviews/knuesel-ag-elektroanlagen-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute und kompetente  Beratung top Service 👍",
+        "time": 1532497859,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "flecklin thomas",
+        "author_photo": "/images/reviews/knuesel-ag-elektroanlagen-stans/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Gut",
+        "time": 1545878015,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Christine Schäfer",
+        "author_photo": "/images/reviews/knuesel-ag-elektroanlagen-stans/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Elektrische Geräte schlecht funktionieren, Service langsam. Völlig enttäuschend.",
+        "time": 1779775717,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

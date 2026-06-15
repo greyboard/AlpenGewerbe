@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_wKQ6uUJkEcRl97FEKgjM0o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Maria Luise Hilber",
+        "author_photo": "/images/reviews/walter-grueebler-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Es stimmt alles: freundliche und aufgeweckte Mitarbeiter, saubere professionelle Arbeit, freiwilliges und mitdenken, und -gestalten,  gute Auftragsabwicklung. Kompliment.",
+        "time": 1747134456,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Zoey Montgomery",
+        "author_photo": "/images/reviews/walter-grueebler-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Beratung, toller Service, netter Kontakt, perfekte Qualität 1a 5 *****",
+        "time": 1706627572,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Liva van der Ven",
+        "author_photo": "/images/reviews/walter-grueebler-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nette und kompetente Beratung vor Ort. 👍",
+        "time": 1706627360,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lea Bo",
+        "author_photo": "/images/reviews/walter-grueebler-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1751300974,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Stern",
+        "author_photo": "/images/reviews/walter-grueebler-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1744805374,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjaSfTDk5jkcRd5db6urY1AY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Justyna Mamczur",
+        "author_photo": "/images/reviews/bichsel-ag-elektro-telecom-siselen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr grosse Fachkompetenz. Wir waren sehr zufrieden mit der Arbeit. Vor allem hat uns sein grosses Fachwissen im bereich Heizungen überrascht. Da spart man sich den Heizungstechniker gleich selbst. Weiter so...!",
+        "time": 1708243620,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Bern 75",
+        "author_photo": "/images/reviews/bichsel-ag-elektro-telecom-siselen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent, freundlich, Auf die ist Verlass 😀",
+        "time": 1530310807,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Ana Rio",
+        "author_photo": "/images/reviews/bichsel-ag-elektro-telecom-siselen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gut erreichbar",
+        "time": 1562405656,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Eveline Winkelmann",
+        "author_photo": "/images/reviews/bichsel-ag-elektro-telecom-siselen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1738222088,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ilgar Ibrahimov",
+        "author_photo": "/images/reviews/bichsel-ag-elektro-telecom-siselen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1736436549,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

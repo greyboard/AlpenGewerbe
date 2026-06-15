@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ09F9iF37j0cRyPDnR8uDM98",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Hans van Hout",
+        "author_photo": "/images/reviews/capasso-elektro-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "2 Neue Steckdosen für Einbaugeräte, alles super installiert! Nur zum empfehlen!",
+        "time": 1769684618,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Nicole P",
+        "author_photo": "/images/reviews/capasso-elektro-gmbh-luzern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Defekte Klingel wurde nicht repariert oder sonstiges und schreibt dem Vermieter es funktioniert einwandfrei obwohl es nicht einwandfrei funktioniert. Dadurch bleiben wir nun auf den Kosten sitzen! Inkompetente Mitarbeiter",
+        "time": 1708508061,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stibe Gross",
+        "author_photo": "/images/reviews/capasso-elektro-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten Capasso Elektro GmbH nun einige Male im Einsatz. Wir waren bisher jedes Mal sehr zufrieden!",
+        "time": 1590348507,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Mayk Bolliger",
+        "author_photo": "/images/reviews/capasso-elektro-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Guter Elektriker mit sympatischen Preisen. Nur zum empfehlen.",
+        "time": 1648294090,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ali Abdul Sater",
+        "author_photo": "/images/reviews/capasso-elektro-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und saubere Arbeit.",
+        "time": 1706174008,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

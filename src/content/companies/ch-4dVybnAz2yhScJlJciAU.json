@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJWx93yK61hEcRzwSimQDpAGE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Peter Paul Benz",
+        "author_photo": "/images/reviews/maler-berger-gmbh-gruesch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert, die Arbeiten werden sauber und exakt ausgeführt, kann ich nur empfehlen.",
+        "time": 1626801660,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Eva Niggli",
+        "author_photo": "/images/reviews/maler-berger-gmbh-gruesch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699896130,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

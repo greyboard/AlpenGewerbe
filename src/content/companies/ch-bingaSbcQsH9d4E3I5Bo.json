@@ -1,7 +1,7 @@
 {
   "id": "ch-bingaSbcQsH9d4E3I5Bo",
   "slug": "swiss-gartenbau-zuerich",
-  "name": "Swiss Gartenbau",
+  "name": "Swiss Gartenbau GmbH",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ84DRVh4LkEcRCbr-oxDy9No",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 08:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Beat Gmuender",
+        "author_photo": "/images/reviews/swiss-gartenbau-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team von Swiss Gartenbau erledigte einen top Job in meinem Garten. Es ging um eine Wiederinstandstellung nach einer Bauphase. Sehr motivierter, kompetenter Teamleiter. Seriöse Arbeit durch engagierte Mitarbeiter, die ihre Arbeit gerne verrichten. Diese Jungs werde ich gerne wieder berücksichtigen und kann sie nur empfehlen.",
+        "time": 1655463082,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Yves P.",
+        "author_photo": "/images/reviews/swiss-gartenbau-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Isuf Sopa und sein Team von Swiss Gartenbau haben bei uns einen fantastischen Job gemacht. Sie haben unseren Garten in ein kleines Paradies verwandelt, dazu mussten sie eine kleine Mauer bauen, verschiedene Pflanzen pflanzen, Rollrasen verlegen und andere Arbeiten erledigen.\nVon der Beratung bis zur Ausführung war Swiss Gartenbau sehr professionell. Das Team war immer freundlich und hilfsbereit. Die Kommunikation war einfach und unkompliziert. Die Preise sind fair und man wird rechtzeitig über allfällige Mehrkosten informiert.\nVielen Dank an das Team von Swiss Gartenbau, wir sind rundum zufrieden mit Ihrer Arbeit.",
+        "time": 1647418351,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "SirMueller1976",
+        "author_photo": "/images/reviews/swiss-gartenbau-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bei unserer Liegenschaft mussten 4 Bäume gefällt und 2 Bäume zurück geschnitten werden. Von der ersten Anfrage über persönliches Treffen vor Ort, Angebot, Beauftragung und Erledigung der Arbeiten vergingen nur 2 Wochen. Rasch und unkompliziert. Und trotz Mehrarbeiten fiel die Rechnung leicht tiefer aus als das Angebot. Vielen Dank an Hern Sopa und sein Team. Ich bin vollends zufrieden.",
+        "time": 1643028283,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Laura Vaccarino",
+        "author_photo": "/images/reviews/swiss-gartenbau-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden für die kompetente und angenehme Beratung. Unsere Ideen und Wünschen wurden berücksichtigt und eine optimale Lösung vorgeschlagen. Schnelle, perfekte und sorgfältige Durchführung der Arbeit. Grosse Flexibilität, Hilfsbereitschaft und unkomplizierten Umgehen. Sehr sympathische und hoch kompetente Firma. Ich kann Swiss Gartenbau und Herr Sopa nur empfehlen! Top 👍🏻 Herzlichen Dank 🍃🌱",
+        "time": 1646935824,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Diego De Nicola",
+        "author_photo": "/images/reviews/swiss-gartenbau-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, kompetent und hilfsbereit! Freue mich auf die weitere Zusammenarbeit und kann Isuf und sein Team wirklich sehr empfehlen! Danke!",
+        "time": 1669122720,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

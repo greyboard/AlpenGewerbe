@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJIYHba524kUcRqXcnaq0iEbU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Patricia Madoerin",
+        "author_photo": "/images/reviews/schulte-gartenbau-gmbh-oberwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "sehr freundliches Team, die Arbeiten wurden zu unserer vollen Zufriedenheit speditiv ausgeführt.\nWir werden Schulte Gartenbau gerne wieder für weitere Gartenarbeiten aufbieten !",
+        "time": 1740731809,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anita E.",
+        "author_photo": "/images/reviews/schulte-gartenbau-gmbh-oberwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sowohl privat als auch geschäftlich seit über 30 Jahren sehr zufriedene Kunden und können die Firma wärmstens weiter empfehlen. Ob Neugestaltung oder normaler Unterhalt, wird wurden immer hervorragend beraten.",
+        "time": 1679990716,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "dvaia",
+        "author_photo": "/images/reviews/schulte-gartenbau-gmbh-oberwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundliches, kompetentes Team. Gute Beratung. fristgerechte Termin Einhaltung. Wunderschönes Endergebnis\nJederzeit gerne wieder. Herzlichen Dank an Alle für die hervorragende Leistung",
+        "time": 1702394096,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Richard Heiligtag",
+        "author_photo": "/images/reviews/schulte-gartenbau-gmbh-oberwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank dem Schulte Gartenbau Team für die ausgezeichnete Arbeit. Die Gärtner waren sehr freundlich und kompetent , fleissig und pünktlich. Wir freuen uns sehr über das Ergebnis. Gerne wieder!",
+        "time": 1588434770,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Pascal Ryf-Stocker",
+        "author_photo": "/images/reviews/schulte-gartenbau-gmbh-oberwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Leistung, super Service, wunderschöne Ausführung und fristgerechte Umsetzung des Auftrages. Herzlichen Dank und gerne wieder!",
+        "time": 1689856898,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

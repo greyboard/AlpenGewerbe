@@ -26,5 +26,46 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJCx1xKOz3j0cRmEJ_p4wq9sI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jan Tresch",
+        "author_photo": "/images/reviews/riva-bau-ag-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Unternehmung mit hoher Fachkompetenz und präziser Ausführung. Die Arbeiten wurden in bester Qualität erledigt.",
+        "time": 1741076337,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Beat",
+        "author_photo": "/images/reviews/riva-bau-ag-buochs/reviewer_2.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1724416828,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bruno Murer",
+        "author_photo": "/images/reviews/riva-bau-ag-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1616571974,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dennis Mathis",
+        "author_photo": "/images/reviews/riva-bau-ag-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1595951709,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

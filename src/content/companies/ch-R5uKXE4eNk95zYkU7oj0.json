@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJY5KFrF5ljEcR8ZmO1SuVeaU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Julien Gaspard",
+        "author_photo": "/images/reviews/gina-art-paysagiste-sarl-chene-bourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mein Garten hat sich dank Gina ART unglaublich verwandelt! Vielen Dank für die hervorragende Arbeit! Ich kann dieses Unternehmen aus Genf wärmstens empfehlen!",
+        "time": 1772788760,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Olivier Sauty",
+        "author_photo": "/images/reviews/gina-art-paysagiste-sarl-chene-bourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit, Angebot und Fristen wurden eingehalten.",
+        "time": 1776696180,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Michael Helke",
+        "author_photo": "/images/reviews/gina-art-paysagiste-sarl-chene-bourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gina Art kümmert sich seit über anderthalb Jahren um meinen Garten. Je nach Jahreszeit schneidet sie regelmäßig die Hecken, mäht den Rasen und so weiter. Als ich einen Befall mit Prozessionsspinnerraupen entdeckte, war sie sofort zur Stelle. Sie gab mir auch einige interessante Anregungen für die Umgestaltung des Gartens, der vom Vorbesitzer angelegt worden war.",
+        "time": 1769808802,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Patrick Malek-Asghar",
+        "author_photo": "/images/reviews/gina-art-paysagiste-sarl-chene-bourg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Gesellschaft!",
+        "time": 1752093732,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Coz Mx",
+        "author_photo": "/images/reviews/gina-art-paysagiste-sarl-chene-bourg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle Zusammenarbeit!",
+        "time": 1661768607,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

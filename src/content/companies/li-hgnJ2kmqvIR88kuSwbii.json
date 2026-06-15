@@ -25,5 +25,31 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJTW1vP10zm0cRRRdOFGayyf8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Renato Ronchis",
+        "author_photo": "/images/reviews/aw-innenausbau-gmbh-balzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für eure tolle Arbeit bei uns. Alles wurde pünktlich, mit viel Leidenschaft und sehr speditiv umgesetzt. Schön, dass es noch solch top Handwerker gibt. Kann euch sehr empfehlen, immer gerne wieder 😀👍",
+        "time": 1619970290,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

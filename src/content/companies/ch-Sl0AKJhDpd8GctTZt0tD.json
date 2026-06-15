@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzxxq7GEem0cRlRlc8qk4SMs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "kerstin schrader",
+        "author_photo": "/images/reviews/ruedi-rueegg-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für den schnellen Service. Ihr macht einen ganz tollen Job. Die Jungs waren wie immer freundlich, schnell und kompetent. Alle die einen zuverlässigen Dachdecker suchen, hier ist man bestens aufgehoben. Macht weiter so 👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "time": 1764064677,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Sandra Meyer",
+        "author_photo": "/images/reviews/ruedi-rueegg-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionell, effizient und freundlich!",
+        "time": 1542263713,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rene Blumer",
+        "author_photo": "/images/reviews/ruedi-rueegg-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1719806506,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Timo Strüber",
+        "author_photo": "/images/reviews/ruedi-rueegg-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1677065255,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Franzisca",
+        "author_photo": "/images/reviews/ruedi-rueegg-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1569704338,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

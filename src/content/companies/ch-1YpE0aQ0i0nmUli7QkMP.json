@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6xGbJ964kUcRy_QjKVI5n5Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Emil Weishaupt",
+        "author_photo": "/images/reviews/professionelle-dachrinnenreinigung-vogt-nuglar-st-pantaleon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir empfehlen dieses Unternehmen gerne, da wir seit längerer Zeit\n\"zusammenarbeiten\". Die Gespräche und deren Abläufe, sowie die\ngetätigten Arbeiten, entsprachen den jeweiligen Vereinbarungen.\nAuch sind die Arbeiten durchaus profimässig ausgeführt worden.",
+        "time": 1732175262,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maureen Lutz",
+        "author_photo": "/images/reviews/professionelle-dachrinnenreinigung-vogt-nuglar-st-pantaleon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schneller Service, saubere arbeit, günstig und sehr nette Leute",
+        "time": 1581059179,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jennifer Soundso",
+        "author_photo": "/images/reviews/professionelle-dachrinnenreinigung-vogt-nuglar-st-pantaleon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Pünktlich, Zuverlässig, kompetent und äusserst freundlich....\n\nAbsolut empfehlenswert!",
+        "time": 1580299921,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Timo Schweizer",
+        "author_photo": "/images/reviews/professionelle-dachrinnenreinigung-vogt-nuglar-st-pantaleon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Handwerker!",
+        "time": 1778345643,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Nigel Mayhew",
+        "author_photo": "/images/reviews/professionelle-dachrinnenreinigung-vogt-nuglar-st-pantaleon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service! Sehr empfehlenswert!",
+        "time": 1700163792,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJPffcZmcUj0cRoLvd8d8SS4I",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "dyy rtst",
+        "author_photo": "/images/reviews/theler-ag-bauunternehmung-raron/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Die Zahlung unserer Lieferantenrechnung hatte hier keine Priorität.",
+        "time": 1768396153,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "lukas külling",
+        "author_photo": "/images/reviews/theler-ag-bauunternehmung-raron/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Die betrieblichen Abläufe bei der Annahme von asbesthaltigen Stoffen noch nicht ganz optimal gelöst",
+        "time": 1738217342,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Silvana Schnyder",
+        "author_photo": "/images/reviews/theler-ag-bauunternehmung-raron/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Beste Firma 👍👍👍",
+        "time": 1577021517,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Diego Eggel",
+        "author_photo": "/images/reviews/theler-ag-bauunternehmung-raron/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Bauunternehmung 💪💪",
+        "time": 1662044119,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Davide Tucci",
+        "author_photo": "/images/reviews/theler-ag-bauunternehmung-raron/reviewer_5.jpg",
+        "rating": 3,
+        "text": "Ausgezeichnetes Schweizer Bauunternehmen... die Qualität der Baumaschinen und die schweizerische Professionalität ermöglichen es uns, einen hervorragenden Service zu bieten!!!",
+        "time": 1567495138,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

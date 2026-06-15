@@ -26,5 +26,38 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7f9qtMgfm0cR7eZrFFYUmgI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Philipp Bühler",
+        "author_photo": "/images/reviews/campi-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragender Kundenservice, Campi arbeitet professionell und sorgfältig!",
+        "time": 1629360124,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Daniel Pfister",
+        "author_photo": "/images/reviews/campi-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kelin aber oho! Serviceorientierter Baudienstleister",
+        "time": 1507032348,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Karl Palatini",
+        "author_photo": "/images/reviews/campi-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1551231097,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

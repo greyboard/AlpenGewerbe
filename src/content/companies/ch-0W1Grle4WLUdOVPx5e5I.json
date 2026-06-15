@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfQwp6JOrmkcRQHJEuiySUyo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Mergim Islami",
+        "author_photo": "/images/reviews/a-christen-spenglerei-blitzschutz-bedachungen-ag-steinhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super organisierte Firma. Angenehme Zusammenarbeit mit dem Geschäftsführer Liridon Arifi.\n\n5* plus!\n\nFreundliche Grüsse\n\nMergim Islami",
+        "time": 1736871268,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "red7epi",
+        "author_photo": "/images/reviews/a-christen-spenglerei-blitzschutz-bedachungen-ag-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eine sehr kompetente Firma. Die Mitarbeiter sind motiviert und arbeiten sauber und gut. Die Firma geht auf die Kunden ein und erledigt die Arbeit wie besprochen professionell.",
+        "time": 1584946228,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jacqueline Bischof",
+        "author_photo": "/images/reviews/a-christen-spenglerei-blitzschutz-bedachungen-ag-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super kompetente und professionelle Firma. Würde ich jedem wärmstens empfehlen.",
+        "time": 1697264512,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lina Zumi",
+        "author_photo": "/images/reviews/a-christen-spenglerei-blitzschutz-bedachungen-ag-steinhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine seriöse und kompetente Firma!",
+        "time": 1697442145,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Renat Uruqi",
+        "author_photo": "/images/reviews/a-christen-spenglerei-blitzschutz-bedachungen-ag-steinhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1772908441,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

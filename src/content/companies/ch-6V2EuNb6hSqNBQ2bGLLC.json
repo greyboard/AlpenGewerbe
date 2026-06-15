@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJAQC0BnPlmkcRfnuRSVAUbYY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Salvatore Longo",
+        "author_photo": "/images/reviews/walther-gartenbau-schoenenberg-an-der-thur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Walther der Chef und sein super Mitarbeiter, Herr Brügger. Ein tolles Team. Sehr zuvorkommend. Sie gehen auf deine Wünsche ein, bringen Ideen. Kann nichts schlechtes beurteilen. Eines ist mir bewusst. \"Habe meinen Gärtner gefunden\"",
+        "time": 1670214693,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dominic Ramos",
+        "author_photo": "/images/reviews/walther-gartenbau-schoenenberg-an-der-thur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut zu empfehlen! Danke!",
+        "time": 1757517530,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Alex Ruh",
+        "author_photo": "/images/reviews/walther-gartenbau-schoenenberg-an-der-thur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit!",
+        "time": 1659355224,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Johanna Gamma",
+        "author_photo": "/images/reviews/walther-gartenbau-schoenenberg-an-der-thur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnelle und kompetente Beratung.",
+        "time": 1688532559,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michael Brügger",
+        "author_photo": "/images/reviews/walther-gartenbau-schoenenberg-an-der-thur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Dieser Gartenbau ist sehr empfehlenswert.",
+        "time": 1609650433,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

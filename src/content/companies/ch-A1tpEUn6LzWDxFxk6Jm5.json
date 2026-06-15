@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqz1ZmgwUjkcRVB8Ml914F60",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Beat Schneuwly",
+        "author_photo": "/images/reviews/kaufmann-malergeschaeft-gmbh-kerzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute professionelle Firma! 100% zufrieden! Danke an das ganze Team!",
+        "time": 1655192711,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Brigitte Buhmann",
+        "author_photo": "/images/reviews/kaufmann-malergeschaeft-gmbh-kerzers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit den ausgeführten Arbeiten.",
+        "time": 1667428082,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sascha G.",
+        "author_photo": "/images/reviews/kaufmann-malergeschaeft-gmbh-kerzers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621411863,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dyn By",
+        "author_photo": "/images/reviews/kaufmann-malergeschaeft-gmbh-kerzers/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1614379543,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "kuqi fidan",
+        "author_photo": "/images/reviews/kaufmann-malergeschaeft-gmbh-kerzers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1771444304,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

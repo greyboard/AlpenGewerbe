@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJiVyiiMM5jkcRKFp3wQpm7jM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Barbara",
+        "author_photo": "/images/reviews/altstadt-glasexpress-24-h-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dass es diese Freundlichkeit noch gibt: Ich habe das falsche Glas bestellt. Glas Express hat mir liebenswürdigerweise sofort ein neues zum gleichen Preis gemacht und auch noch vorbeigebracht. Ganz herzlichen Dank. BW",
+        "time": 1753334963,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "André Segiser",
+        "author_photo": "/images/reviews/altstadt-glasexpress-24-h-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Altstadt Glasexpress gibt es sicher noch!\nAn drei Standorten:\nIn Bern Kramgasse 43 in den Teppichladen hinein gehen !\nIn  Bätterkinden am Bärenmattweg 1\nUnd im Eggiwil Bern ist das Lager.",
+        "time": 1552560578,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Fabian Tomet",
+        "author_photo": "/images/reviews/altstadt-glasexpress-24-h-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "sehr guter servic immer nett guter preis top!",
+        "time": 1562919477,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Simona Baumgartner",
+        "author_photo": "/images/reviews/altstadt-glasexpress-24-h-bern/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Erstklassiger Service.",
+        "time": 1678484888,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alexandra Segiser",
+        "author_photo": "/images/reviews/altstadt-glasexpress-24-h-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1552010513,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,22 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJV0of2dgSjkcRqzW40OS6ANg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Stephan Mathys",
+        "author_photo": "/images/reviews/schaller-elektro-ag-murten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684271740,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

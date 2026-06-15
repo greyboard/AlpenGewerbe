@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ0Yrt--rmkcRi_NN_NvpfLs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "beni schnüriger",
+        "author_photo": "/images/reviews/karl-obrist-ag-neuheim/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben schon mehrmals mit der Karl Obrist AG zusammengearbeitet.  Beat und sein Team sind sehr zuverlässige Handwerker. Ihre Arbeit wird termingerecht und fachmännisch umgesetzt. Sie denken mit und helfen mit lösungsorientierten Vorschlägen.",
+        "time": 1604486375,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Pascal Vizeli",
+        "author_photo": "/images/reviews/karl-obrist-ag-neuheim/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich und hilfsbereit und schnell. Danke",
+        "time": 1709238862,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mike",
+        "author_photo": "/images/reviews/karl-obrist-ag-neuheim/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1728977152,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hank Lauener",
+        "author_photo": "/images/reviews/karl-obrist-ag-neuheim/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1707300246,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Albert Conrad",
+        "author_photo": "/images/reviews/karl-obrist-ag-neuheim/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1593018429,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

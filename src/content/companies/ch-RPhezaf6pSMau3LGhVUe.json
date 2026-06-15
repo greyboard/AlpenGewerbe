@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJnS8XbTbTmkcRW_DDbFh0QcI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Jana Sauter",
+        "author_photo": "/images/reviews/feldmann-gaerten-ag-ziegelbruecke/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mega sympathische Leute mit richtig guten Ideen! Die Arbeit wurde exakt und sehr sauber umgesetzt, und nach Abschluss war alles top aufgeräumt. Besser geht’s nicht – DANKE",
+        "time": 1769974220,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Didi Redzepi",
+        "author_photo": "/images/reviews/feldmann-gaerten-ag-ziegelbruecke/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Dienstleistung, alles besprochen und genau so wurde es Ausgeführt. SUPER Mitarbeiter.  Danke.. kann ich nur empfehlen.",
+        "time": 1765965874,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Patrick Schwarzmann",
+        "author_photo": "/images/reviews/feldmann-gaerten-ag-ziegelbruecke/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1766488764,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-kOMap2Mkv1teQvLxtFCN",
   "slug": "schmidli-et-cie-sa-monthey",
-  "name": "Schmidli et Cie SA",
+  "name": "Schmidli & Cie S.A.",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJkanbJwW9jkcRfMlxBSXiTNo",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Chang Revaz",
+        "author_photo": "/images/reviews/schmidli-et-cie-sa-monthey/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Im Industriegebiet Boeuferrant gelegen, Bau-, Beschichtungs- und Tiefbauarbeiten.",
+        "time": 1508769786,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Laurent Hennet",
+        "author_photo": "/images/reviews/schmidli-et-cie-sa-monthey/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Hält weder Fristen ein, noch respektiert er die Arbeitsumgebung oder die Nachbarschaft.",
+        "time": 1688472835,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Killian Robles",
+        "author_photo": "/images/reviews/schmidli-et-cie-sa-monthey/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1678995988,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fiona Di Donato",
+        "author_photo": "/images/reviews/schmidli-et-cie-sa-monthey/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679511781,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Bernard P",
+        "author_photo": "/images/reviews/schmidli-et-cie-sa-monthey/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1750432414,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

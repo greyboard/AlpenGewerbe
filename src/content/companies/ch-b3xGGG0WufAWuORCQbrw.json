@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAaPaV3k_jkcRZeWf3JrCyKU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Michel Biffiger",
+        "author_photo": "/images/reviews/jost-bedachungen-ag-oberwangen-bei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Christian und das Team von Jost Bedachungen AG haben hervorragende Arbeit geleistet. Professionell, zuverlässig und sauber – bin rundum zufrieden und kann sie wärmstens empfehlen!",
+        "time": 1760356370,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Alessandra Gelsomino",
+        "author_photo": "/images/reviews/jost-bedachungen-ag-oberwangen-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "HERVORRAGENDE LEISTUNG UND ZUVERLÄSSIGER PARTNER!\nIch habe bereits mehrere Projekte mit Jost Bedachung (Christian Jost) realisiert und bin durchweg sehr zufrieden. Von der ersten Beratung bis zur Fertigstellung arbeitet das Team professionell, kompetent und zuverlässig. Die Qualität der Arbeiten ist erstklassig, Termine werden eingehalten und bei Fragen oder kleinen Anpassungen findet man immer eine schnelle, hilfreiche Lösung. Besonders schätze ich die transparente Kommunikation und die saubere Ausführung auf der Baustelle. Wenn Sie Wert auf hochwertige Dacharbeiten und einen verlässlichen Partner legen, kann ich Jost Bedachung AG uneingeschränkt empfehlen.\nVielen Dank, Christian!",
+        "time": 1756726140,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Daniel Rutishauser",
+        "author_photo": "/images/reviews/jost-bedachungen-ag-oberwangen-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir waren sehr zufrieden mit der geleisteten Arbeit.",
+        "time": 1757518423,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Marlen Schwab",
+        "author_photo": "/images/reviews/jost-bedachungen-ag-oberwangen-bei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Auftrag wurde sehr schnell ausgeführt und abgerechnet. Daumen hoch!",
+        "time": 1754031328,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Mirxan Ok",
+        "author_photo": "/images/reviews/jost-bedachungen-ag-oberwangen-bei-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Firma, mega gute Arbeit 10/10! Kann ich nur empfehlen",
+        "time": 1752242014,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

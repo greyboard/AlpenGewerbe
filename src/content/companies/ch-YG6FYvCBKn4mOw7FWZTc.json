@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJGxtuOpUhm0cRxK1cwJWBnoM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Michael Vogels",
+        "author_photo": "/images/reviews/tosam-gartenbau-appenzell-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Schmidhauser hatte uns sehr gut beraten. Die Ausführung der Arbeiten war genau nach unseren Wünschen. Das Resultat war sogar besser als erwartet. Der Preis war Fair. Ich kann TOSAM betens weiterempfehlen!",
+        "time": 1599765625,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "mario modenese",
+        "author_photo": "/images/reviews/tosam-gartenbau-appenzell-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777902414,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Andrea Thoma",
+        "author_photo": "/images/reviews/tosam-gartenbau-appenzell-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1626338829,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hussein Sheikho",
+        "author_photo": "/images/reviews/tosam-gartenbau-appenzell-appenzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1609885206,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "كيمو",
+        "author_photo": "/images/reviews/tosam-gartenbau-appenzell-appenzell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1566213446,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,55 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJG39LNEjHhEcR4ZRJCJgDAnc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "///AMG63",
+        "author_photo": "/images/reviews/prodach-swiss-gmbh-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit.\n\nVom ersten Kontakt bis zur Fertigstellung lief alles professionell, zuverlässig und freundlich ab. Herr Adilji arbeitet sauber, schnell und mit hoher Qualität. Termine wurden eingehalten und alle Fragen kompetent beantwortet. Besonders beeindruckt hat mich die sorgfältige Ausführung und die transparente Kommunikation während des gesamten Projekts.",
+        "time": 1779863879,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Giuliano Götz",
+        "author_photo": "/images/reviews/prodach-swiss-gmbh-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundliche und zuverlässige Firma, macht schöne und tolle Arbeiten\nweiter so👍",
+        "time": 1761383133,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Elsa Despoix",
+        "author_photo": "/images/reviews/prodach-swiss-gmbh-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1780303334,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Valdeta Hasanii",
+        "author_photo": "/images/reviews/prodach-swiss-gmbh-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1755297082,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

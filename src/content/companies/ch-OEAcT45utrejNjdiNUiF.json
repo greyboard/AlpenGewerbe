@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ72SEw1gem0cR6CFLHQbeTYc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Hannes Juon",
+        "author_photo": "/images/reviews/friemel-schreinerei-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe eine Holzplatte schleifen und ölen lassen. Preislich sehr günstig und schnelle Ausführung (innert 24 Std.), sowie auch der Service und die Beratung top! Gerne wieder.",
+        "time": 1700685907,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "John Doe",
+        "author_photo": "/images/reviews/friemel-schreinerei-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774844677,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

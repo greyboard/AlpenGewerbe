@@ -26,5 +26,47 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJafparKP7j0cRq4VwUqBec9A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Nina Weber",
+        "author_photo": "/images/reviews/f-kuster-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super freundliche Frau in der Administration. Sehr kompetente und schnelle Auftragsabwicklung. Vielen Dank!",
+        "time": 1768292849,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Sara",
+        "author_photo": "/images/reviews/f-kuster-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1737986338,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ivan Garic",
+        "author_photo": "/images/reviews/f-kuster-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1534514515,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

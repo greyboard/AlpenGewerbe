@@ -26,5 +26,39 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4y-i0KTZkUcRUhjXYoBTyn8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "em autopflege",
+        "author_photo": "/images/reviews/electro-engineering-jovic-gmbh-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Zusammenarbeit im Industrieareal Wolfwil!\n\nWir können die Electro Engineering Jovic GmbH uneingeschränkt weiterempfehlen. Für unser Industriegelände in Wolfwil, auf dem wir Garagen und Lagerhallen betreiben, haben wir einen verlässlichen Partner gesucht - und gefunden.\n\nDas Team hat uns auf ganzer Linie überzeugt: von der tiefgehenden Elektroberatung über eine sensationelle Elektroplanung bis hin zur reibungslosen Fachbauleitung.\nDie Arbeitsweise ist durchweg sehr kompetent, absolut zuverlässig und in jedem Schritt transparent. Man merkt sofort, dass hier echte Profis am Werk sind. Vielen Dank für die tolle Zusammenarbeit!",
+        "time": 1779218835,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Nenad Peric",
+        "author_photo": "/images/reviews/electro-engineering-jovic-gmbh-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben die EE Jovic GmbH als Koordinationsexperten hinzugezogen, als unser Projekt aufgrund technischer Unklarheiten ins Stocken geraten war. Dank der schnellen und präzisen Expertise konnten die Fehler in der ursprünglichen Elektroplanung identifiziert und behoben werden. Das Team hat mit einer beeindruckenden Ruhe und Fachwissen die Leitung übernommen und das Projekt wieder auf Kurs gebracht. Es ist selten, eine so hohe Fachkompetenz gepaart mit echtem Engagement zu finden. Für uns ist die Electro Engineering Jovic GmbH ab sofort die erste Adresse bei Elektrofragen.",
+        "time": 1778399391,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

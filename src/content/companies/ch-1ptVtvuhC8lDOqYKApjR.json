@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTZPH6ZAAkEcRQzXc28cK2Jg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "juan merino",
+        "author_photo": "/images/reviews/cesi-canepa-ag-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent zuverlesig sauber und freundlich vor allem schnell",
+        "time": 1732175989,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "gigachad гигачад",
+        "author_photo": "/images/reviews/cesi-canepa-ag-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin Nevios kolleg also gebe ich 5 Sterne",
+        "time": 1716271057,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michael Huwiler",
+        "author_photo": "/images/reviews/cesi-canepa-ag-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1767975998,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Yo JuanMa",
+        "author_photo": "/images/reviews/cesi-canepa-ag-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762887949,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Jacqueline Stadelmann",
+        "author_photo": "/images/reviews/cesi-canepa-ag-cham/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1758621280,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

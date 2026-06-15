@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJne4PULQ5m0cRRRfSJ09KvZk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 38,
+    "reviews": [
+      {
+        "author_name": "Kate Hepberger (MASSIVE ART)",
+        "author_photo": "/images/reviews/glas-mueller-gmbh-frastanz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Glas Müller hat bei uns bereits die komplette Fassade realisiert und wir waren damals schon begeistert. Nach einem Sturmschaden mit Glasbruch Sturm mussten nun einige Scheiben ausgetauscht und poliert werden – und wieder war der Service erstklassig! Das Team ist extrem freundlich, arbeitet hochprofessionell und führt jeden Handgriff absolut sauber und präzise aus. Man merkt einfach, dass hier echte Experten am Werk sind. Herzlichen Dank für die schnelle Hilfe und die gewohnt hohe Qualität!",
+        "time": 1771936976,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Michael Gau",
+        "author_photo": "/images/reviews/glas-mueller-gmbh-frastanz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service & TOP Mitarbeiter. Haben uns in unserem Ferienhaus innerhalb 1 Tages die kompletten Fenstergläser getauscht! Unglaublich professionell! Sehr zu empfehlen!",
+        "time": 1774020686,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Timo Boehme",
+        "author_photo": "/images/reviews/glas-mueller-gmbh-frastanz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "1a kompetent servicefreundlich, auf Mass zugeschnitten. vielen Dank",
+        "time": 1750279983,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Tamara Wiesner-Bujac",
+        "author_photo": "/images/reviews/glas-mueller-gmbh-frastanz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir können die Firma Glas Müller bestens empfehlen! Vom Angebot bis zur Ausführung hat alles SUPER geklappt! Sehr kompetent, wir sind sehr zufrieden!",
+        "time": 1744351640,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kurt Geisler",
+        "author_photo": "/images/reviews/glas-mueller-gmbh-frastanz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr bemüht für tech. Fragen u. super schnelle Angebotabwicklung bin stolz auf meine emaligen Arbeitskollege nur so kann heute ein Alteingesessener Betrieb in schwierigen Zeiten bestehen alles Gute 👍👍👍",
+        "time": 1591180467,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

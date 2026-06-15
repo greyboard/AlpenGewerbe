@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ92OJirD7j0cR6dXjxMb1ix8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Pirmin Lustenberger",
+        "author_photo": "/images/reviews/herzog-alois-ag-luzern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ich bin von der Geschäftsgebaren dieser Firma massiv enttäuscht. Wir haben einen Arbeitsauftrag erteilt, der vor Ort in lediglich 30 Minuten vollständig erledigt wurde. In der Rechnung wurden uns jedoch folgende Punkte belastet, die in keinem Verhältnis zur erbrachten Leistung stehen:\n​Arbeitszeit: Es wurde eine volle Stunde verrechnet, obwohl nur die Hälfte der Zeit gearbeitet wurde.\n​Anfahrt: Selbst für einen Anfahrtsweg von gerade einmal 2 Minuten wurde eine Gebühr erhoben.\n​Fahrzeugpauschale: Zusätzlich wurde ein Pauschalbetrag für das Fahrzeug verrechnet.\n​Es ist verständlich, dass Firmen Fixkosten decken müssen, aber diese Art der „Gewinnmaximierung“ bei einem derart geringen Aufwand empfinde ich als höchst unseriös. Besonders enttäuschend ist jedoch der Umgang mit Kritik: Auf meine telefonische Rückmeldung hin wurde mir eine Klärung versprochen, erfolgt ist jedoch bis heute nichts. Keine Reaktion, kein Rückruf, kein Entgegenkommen.\n​Diese Geschäftsmoral und die hier gelebte Firmenkultur sind für mich absolut bedenklich. Hier scheint der kurzfristige Profit wichtiger zu sein als eine faire, langfristige Kundenbeziehung. Ich kann diese Firma aufgrund dieser Erfahrung nicht weiterempfehlen",
+        "time": 1777284409,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "I J",
+        "author_photo": "/images/reviews/herzog-alois-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service und saubere Arbeit!\nWerner Peter ist ein vorbildlicher und sehr umgänglicher Kontakt! Danke für Ihre Arbeit in unserem neuen Zuhause :-)",
+        "time": 1756464243,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Till Herzog",
+        "author_photo": "/images/reviews/herzog-alois-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Diese Firma ist sehr kundenfreundlich, Zuverlässig und macht gute Arbeit.  Die Alois Herzog AG ist beim Neubau, Umbau und beim Service Top!",
+        "time": 1598807596,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Lea Berti",
+        "author_photo": "/images/reviews/herzog-alois-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Neulich gab es einen Totalausfall meines Schüttsteins aufgrund von massiver Verkalkung. Dank der Fachleute dieser Firma konnten die Probleme jedoch schnell ausgebessert werden. Seitdem fliesst das Wasser wieder einwandfrei.",
+        "time": 1374233920,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Bernardo Delgado",
+        "author_photo": "/images/reviews/herzog-alois-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei der Firma Herzog, werde ich auch als privat Kunde, sehr zuvorkommend bedient!\nDANKE",
+        "time": 1721991232,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

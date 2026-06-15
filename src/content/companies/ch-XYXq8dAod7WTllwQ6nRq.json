@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJWZECakf3j0cRr5WOaXtP-pQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:15–16:45 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:15–16:45 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:15–16:45 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:15–16:45 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:15–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Mirjam Müller",
+        "author_photo": "/images/reviews/malerei-schmid-ag-stansstad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuverlässige,  präzise und hervorragende Firma. Wir sind mit der Arbeit sehr zufrieden und können die Firma uneingeschränkt weiterempfehlen.",
+        "time": 1761147811,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Marcel Hersche",
+        "author_photo": "/images/reviews/malerei-schmid-ag-stansstad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein ausgezeichnetes Malergeschäft👍",
+        "time": 1626445623,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "lea forderkunz",
+        "author_photo": "/images/reviews/malerei-schmid-ag-stansstad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1607200077,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Yvonne Barmettler",
+        "author_photo": "/images/reviews/malerei-schmid-ag-stansstad/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1567714775,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Chregu Fluder",
+        "author_photo": "/images/reviews/malerei-schmid-ag-stansstad/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1513522362,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

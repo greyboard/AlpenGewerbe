@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJsST3_eTGhEcRUx2GOCdF78I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Mike Mascaro",
+        "author_photo": "/images/reviews/holzwerkstatt-felsberg-ag-felsberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Was für ein sympathischer Schreinerbetrieb. Die getätigte Arbeit ist top. Der Einbauschrank ist ein Prachtstück geworden und die Gartenterrasse ist super gelungen. Unkomplizierte Handhabung und professionelle Umsetzung der Aufträge. Die 5 Sterne sind verdient und wenn es ein sechsten geben würde, dann wären es 6.",
+        "time": 1697812112,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Battaglia Brigitte",
+        "author_photo": "/images/reviews/holzwerkstatt-felsberg-ag-felsberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der unkomplizierten Art und der genialen Idee von Christof Schmid, dem Chef der Holzwerkstatt Felsberg AG, und der exakten und kompetenten Arbeit seines aufgestellten Teams verdanke ich die unmöglich scheinende Umgestaltung meiner Küche. Eine totale Aufwertung! Ich gebe den Tipp, den ich bekommen habe, die Holzwerkstatt zu beauftragen, unbedingt weiter.",
+        "time": 1711218801,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "sy-2bfree Lagoon 42",
+        "author_photo": "/images/reviews/holzwerkstatt-felsberg-ag-felsberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben dem Team von Holzwerkstatt unseren Camper für einige kleine Arbeiten anvertraut.  Wir sind vollends zufrieden mit allem:\n- Erster Besuch, mit Beratung, Ideen seitens Team wie man unsere Wünsche umsetzen könnte.\n- schnelle Offerte was kostet die Umsetzung.\n- Termin der Umsetzung\n- Dauer nur 1 Tag für alle Holzarbeiten\n- Preis / Leistung super\nAlles Perfekt. Kann ich mit gutem Gewissen\nweiterempfehlen. Viele Dank dem Team von Holzwerkstatt.",
+        "time": 1780641655,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Dea Schmid",
+        "author_photo": "/images/reviews/holzwerkstatt-felsberg-ag-felsberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1766492467,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Noah Ludwig",
+        "author_photo": "/images/reviews/holzwerkstatt-felsberg-ag-felsberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676059184,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

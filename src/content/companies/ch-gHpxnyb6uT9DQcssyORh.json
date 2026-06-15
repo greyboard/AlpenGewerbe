@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO7t7jOdHkEcR6mIM55MhJ4c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Franziska Geiger",
+        "author_photo": "/images/reviews/gebr-schmid-ag-bedachungen-gipf-oberfrick/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Projekte liefen immer super über die Bühne. Die Angestellten haben eine sehr gute Arbeit geleistet und waren ausserordentlich freundlich. Der Chef hat eine gute Offerte geliefert, war auch für Rücksprachen Erreichbar. Er half mit die Ideen von uns umzusetzen. Wobei Preis /Leistung sehr gut waren. Danke",
+        "time": 1733185154,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ursula Nussbaum",
+        "author_photo": "/images/reviews/gebr-schmid-ag-bedachungen-gipf-oberfrick/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Mitarbeiter. Ich bin sehr zufrieden mit dem Einbau der neuen Dachfenster und der kompetenten Beratung.\nIch kann die Gebr. Schmid nur weiterempfehlen.\nDanke für alles.",
+        "time": 1705947472,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas B.",
+        "author_photo": "/images/reviews/gebr-schmid-ag-bedachungen-gipf-oberfrick/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Angestellte, kompetente Beratung und Service. Danke👍👍",
+        "time": 1598564514,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Veronika Böni",
+        "author_photo": "/images/reviews/gebr-schmid-ag-bedachungen-gipf-oberfrick/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit meinen neuen Dachfenstern. Sehr freundliche Mitarbeiter und sie haben bei der Hitze, sehr gut gearbeitet. Offerte/ Preis/ Leistung/ Arbeit, alles tiptop. Die Firma Gebr. Schmid Ag, kann ich nur weiterempfehlen. Vielen Dank",
+        "time": 1780463664,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Joel Dinkel",
+        "author_photo": "/images/reviews/gebr-schmid-ag-bedachungen-gipf-oberfrick/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1758637562,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

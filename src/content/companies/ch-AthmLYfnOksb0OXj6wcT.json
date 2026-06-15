@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJR0SPtnTtmkcR7gao7mCsLg0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Sandro A.",
+        "author_photo": "/images/reviews/sanitaer-rolf-frei-affeltrangen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sympathischer, professioneller Auftritt und unkomplizierte Kommunikation. Rolf Frei wirkt engagiert und vertrauenswürdig. Gerne weiterzuempfehlen.",
+        "time": 1768463887,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Fabian",
+        "author_photo": "/images/reviews/sanitaer-rolf-frei-affeltrangen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen. 🙌🙌🙌\nWir brauchten kurzfristig einen Sanitär für die Küche. Rolf Frei machte es möglich, gleichentags das Problem unkompliziert zu beheben. Freundlich, sympathisch & professionell! - Als wir die Rechnung erhielten, bestätigte sich dieser positive Eindruck durch den fairen Preis. 👍",
+        "time": 1774387139,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Sandro Isler",
+        "author_photo": "/images/reviews/sanitaer-rolf-frei-affeltrangen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bester Sanitär in der Region. Rolf Frei ist nicht nur fachlich überdurchschnittlich kompetent sondern auch menschlich sehr zu empfehlen.",
+        "time": 1776182135,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Ralf Stooss",
+        "author_photo": "/images/reviews/sanitaer-rolf-frei-affeltrangen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service,08.00 Uhr angerufen ,1 Stunde später war das Problem mit der Toilette behoben.Sanitär Frei ist sehr zu empfehlen 👍👍👍",
+        "time": 1773649197,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "SwissAnjo 99",
+        "author_photo": "/images/reviews/sanitaer-rolf-frei-affeltrangen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1767466416,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

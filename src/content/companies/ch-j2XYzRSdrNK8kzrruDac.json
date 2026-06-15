@@ -26,5 +26,30 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJl0Kq7fQem0cRHXtaelnAkIE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Marcel Brändle",
+        "author_photo": "/images/reviews/luli-haustechnik-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben kürzlich eine Luft-Wärmepumpe von der Luli Haustechnik GmbH in unserem Haus installieren lassen und sind äusserst zufrieden mit dem gesamten Prozess. Die Gebrüder Luli haben uns stets freundlich und kompetent beraten und waren bei allen Fragen sehr hilfsbereit. Der Einbau verlief reibungslos und professionell. Auch danach war der Support vorbildlich. Wir können die Firma in allen Belangen uneingeschränkt weiterempfehlen. Vielen Dank an das ganze Team der Luli Haustechnik GmbH für die hervorragende Arbeit!",
+        "time": 1719579408,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Heinz",
+        "author_photo": "/images/reviews/luli-haustechnik-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Luli-Team ist wirklich einmalig. Ein äußerst eingespieltes Familienunternehmen (Vater mit beiden Söhnen und langjährigem Mitarbeiter Koni Müller) arbeitet präzis, sauber, effizient und zuverlässig. Es bereitete grosse Freude die aufwändige Erdsondenheizung mit diesem KMU zu realisieren. Das Luli-Tean kann ich vorbehaltlos jedem und jederzeit wärmstens weiterempfehlen. Vielen Dank für die tolle Arbeit die geleistet wurde.",
+        "time": 1713462627,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

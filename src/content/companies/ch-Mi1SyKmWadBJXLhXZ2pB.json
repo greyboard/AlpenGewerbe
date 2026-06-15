@@ -26,5 +26,55 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJk91DvLMthUcR-3jClbO8bTs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Michael Steinmann",
+        "author_photo": "/images/reviews/yves-aschwanden-gipsergeschaeft-gmbh-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe noch nie solch saubere Gipserarbeit gesehen und ich habe eine Menge Unternehmen und Arbeiten gesehen.\nWenn Ihnen Qualität wichtig ist, dann sind Sie bei dieser Firma definitiv am richtigen Ort!\n\nBesten Dank und machen Sie so weiter!\n\nGruss Michael",
+        "time": 1699630735,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Claudio Camenzind",
+        "author_photo": "/images/reviews/yves-aschwanden-gipsergeschaeft-gmbh-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und kompetente Beratung!",
+        "time": 1701690060,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "C BÖNI",
+        "author_photo": "/images/reviews/yves-aschwanden-gipsergeschaeft-gmbh-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1701024232,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dustin Zug",
+        "author_photo": "/images/reviews/yves-aschwanden-gipsergeschaeft-gmbh-glarus/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1695817155,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

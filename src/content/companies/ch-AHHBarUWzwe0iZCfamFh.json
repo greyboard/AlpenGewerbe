@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJu7U7qhPxjkcRMNmFtieCcPE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Oleksandr Khondozhko",
+        "author_photo": "/images/reviews/moesching-bau-ag-gstaad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Atemberaubender Ort",
+        "time": 1554722375,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Nibby Wallace",
+        "author_photo": "/images/reviews/moesching-bau-ag-gstaad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1678981247,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Swiss Chris",
+        "author_photo": "/images/reviews/moesching-bau-ag-gstaad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1670615469,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Peter Bärtschi",
+        "author_photo": "/images/reviews/moesching-bau-ag-gstaad/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1580053142,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hanspeter Gadient",
+        "author_photo": "/images/reviews/moesching-bau-ag-gstaad/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1565023065,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

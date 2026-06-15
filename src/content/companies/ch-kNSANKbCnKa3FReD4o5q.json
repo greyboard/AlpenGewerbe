@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5flE5cLdjkcRYaY4wyjO3Hw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:30 Uhr",
+    "Dienstag: 07:30–18:30 Uhr",
+    "Mittwoch: 07:30–18:30 Uhr",
+    "Donnerstag: 07:30–18:30 Uhr",
+    "Freitag: 07:30–18:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "luigi miano",
+        "author_photo": "/images/reviews/valgen-isolation-peinture-conthey/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dieses Unternehmen leistet hervorragende Arbeit und bietet qualitativ hochwertige Dienstleistungen. Es kümmert sich um seine Kunden und beweist in seiner Arbeit echte Professionalität.",
+        "time": 1772462353,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Léor Ademi",
+        "author_photo": "/images/reviews/valgen-isolation-peinture-conthey/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem Ergebnis sehr zufrieden. Sorgfältige und gewissenhafte Arbeit, saubere Ausführung und ein professionelles Team.\n\nDer Inhaber ist außergewöhnlich, aufmerksam und sehr professionell. Ehrlich gesagt, gibt es nichts zu beanstanden. Ich empfehle sie uneingeschränkt. 👍🏼",
+        "time": 1769363875,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Euron",
+        "author_photo": "/images/reviews/valgen-isolation-peinture-conthey/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein zuverlässiges und kompetentes Unternehmen. Die Dämm- und Malerarbeiten wurden sorgfältig und professionell ausgeführt. Klare Kommunikation, ein pünktliches Team und Ergebnisse, die unsere Erwartungen erfüllten. Ausgezeichnetes Preis-Leistungs-Verhältnis; ich empfehle sie uneingeschränkt.",
+        "time": 1769363852,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "NoLam",
+        "author_photo": "/images/reviews/valgen-isolation-peinture-conthey/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kann sie wärmstens empfehlen. Professionelle Arbeit zu einem unschlagbaren Preis. Vielen Dank an das gesamte Team für die geleistete Arbeit!",
+        "time": 1769365060,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Arnes Husic",
+        "author_photo": "/images/reviews/valgen-isolation-peinture-conthey/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Malerfirma! Sorgfältige Arbeit, makellose Ergebnisse und termingerechte Fertigstellung. Das Team ist professionell, pünktlich und geht sehr auf die Wünsche des Kunden ein. Die Baustelle wurde sauber hinterlassen, und das Ergebnis entspricht genau meinen Erwartungen. Ich kann diese Firma uneingeschränkt empfehlen!",
+        "time": 1769372806,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

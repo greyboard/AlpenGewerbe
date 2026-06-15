@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJp_4i_Pk5jkcRkNwFrUOrXhs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Sandro",
+        "author_photo": "/images/reviews/stucki-spezialbau-ag-strassenbau-umbau-neubau-sanierung-hochbau-tiefbau-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiges und professionelles Team.",
+        "time": 1760707577,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Daniel Gilg",
+        "author_photo": "/images/reviews/stucki-spezialbau-ag-strassenbau-umbau-neubau-sanierung-hochbau-tiefbau-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wer Qualität und kompetente Beratung sucht, ist bei der Stucki Spezialbsu AG, genau richtig.",
+        "time": 1592143624,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "thomas lins",
+        "author_photo": "/images/reviews/stucki-spezialbau-ag-strassenbau-umbau-neubau-sanierung-hochbau-tiefbau-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Baufirma",
+        "time": 1604048718,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Lukas Gilg",
+        "author_photo": "/images/reviews/stucki-spezialbau-ag-strassenbau-umbau-neubau-sanierung-hochbau-tiefbau-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656672279,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Barbara Pulfer",
+        "author_photo": "/images/reviews/stucki-spezialbau-ag-strassenbau-umbau-neubau-sanierung-hochbau-tiefbau-bern/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1622667557,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

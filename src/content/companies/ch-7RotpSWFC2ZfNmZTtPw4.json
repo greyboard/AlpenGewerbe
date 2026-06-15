@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJx2B2t2zGhUcRLbWYYt0P2D0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:15 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:15 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:15 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:15 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Alex Peu",
+        "author_photo": "/images/reviews/quaglia-sa-brissago/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und sehr hilfsbereit.",
+        "time": 1594065892,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Bruno Conti Rossini",
+        "author_photo": "/images/reviews/quaglia-sa-brissago/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Qualität der Arbeit.",
+        "time": 1535191972,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

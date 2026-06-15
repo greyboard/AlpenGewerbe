@@ -26,5 +26,22 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJE_GlgGb3j0cR7_9RnmMRrXs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Elisa und Oliver",
+        "author_photo": "/images/reviews/vz-keramik-plattenbelaege-stucco-pompeji-stansstad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wirklich einer der besten Plättlileger! Freundlich, unkompliziert, effizient und macht sehr schöne Arbeit. Kann ich nur empfehlen.",
+        "time": 1773859206,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

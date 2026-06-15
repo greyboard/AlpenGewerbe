@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJgyr94AAfm0cReUSK9M665kg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Krasniqi Ermal",
+        "author_photo": "/images/reviews/zulian-co-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "mega schöne firma und sehr gute TEAMWORK👌",
+        "time": 1755176760,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "daniel klausberger",
+        "author_photo": "/images/reviews/zulian-co-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schöne Firma",
+        "time": 1649264053,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christoph Kessler",
+        "author_photo": "/images/reviews/zulian-co-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Baugeschäft in St. Gallen mit tollem Kundenservice, super.",
+        "time": 1777400027,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Beni",
+        "author_photo": "/images/reviews/zulian-co-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1764377830,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "U G",
+        "author_photo": "/images/reviews/zulian-co-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1541802250,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

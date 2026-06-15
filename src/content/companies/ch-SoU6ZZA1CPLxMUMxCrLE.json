@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJaxThTFiqmkcRqQoNGq_DHJA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Niklas Lang",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-zug-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Frey+Cie haben für uns eine Wallbox installiert. Herr Michl von der Firma Frey+Cie hat die Arbeiten zur vollsten Zufriedenheit ausgeführt. Vom Erstkontakt bis zur Übergabe war alles perfekt: Kommunikation, Umsetzung, Zeitspanne von der Bestellung bis zur Ausführung. Ich kann Frey+Cie, insbesondere Herr Michl, absolut weiterempfehlen. Besten Dank!",
+        "time": 1765128077,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Christoph Bremgartner",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-zug-zug/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Eingebildete Hobby Elektriker.\ndas Ergebnis lässt sich knapp anschauen Falls mal gearbeitet wird.\nHauptsache Quatschen.",
+        "time": 1778576133,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Tim Fridlin",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-zug-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "3 Jahre später, wieder Umzug, diesmal mit Sandro Michl. Hat wunderbar geklappt! Vielen Dank auch für die Beratung betreffend der dimmbaren Lampe. Immernoch wärmstens zu empfehlen.\n\nPünktlich, effizient, unkompliziert & hilfsbereit. Hatte das Vergnügen mit Luca Passarella, welcher bei unserem Umzug die Lampen de- und am neuen Ort montiert hat. Koordination unkompliziert via Whatsapp. 5 Tage nach dem Auftrag hatte ich eine Frage betreffend Deckenbeschaffenheit, welche er mir tip top beantworten konnte. Nur zu empfehlen. 👍",
+        "time": 1765212808,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Carsten Thurand",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-zug-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Notfall! ... innerhalb 10 Minuten stand ein Mitarbeiter bei uns im Geschäft und hat konzentriert das Problem gelöst.\nSomit war unser Mittagsgeschäft gerettet.\nBravo!\nVielen Dank.\nBeste Grüsse\nCarsten Thurand\nDaily Pizza Zug",
+        "time": 1705088002,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Esther Burkart",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-zug-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "War sehr zufrieden! Kompetent, Preis Leistung stimmt und sehr freundlich! Würde ich jedem weiterempfehlen.",
+        "time": 1651003137,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

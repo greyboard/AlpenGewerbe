@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ49U6vcgSjkcRKCV9LGEyxt0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "simon blaser",
+        "author_photo": "/images/reviews/maler-sahli-ag-murten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Kinderzimmer wurde sauber und richtig schön gestrichen. Super professionell, sympathische Mitarbeiter.\nIch komme gerne wieder. 😃",
+        "time": 1685729980,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stefan Messmer",
+        "author_photo": "/images/reviews/maler-sahli-ag-murten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr sympathische Mitarbeiter. Baustelle sauber geputzt. Linien gut gezogen.",
+        "time": 1685729687,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dora Sahli",
+        "author_photo": "/images/reviews/maler-sahli-ag-murten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich , arbeiten sehr sauber und halten termine ein !",
+        "time": 1571923925,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

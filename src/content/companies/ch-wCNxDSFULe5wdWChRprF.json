@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJY4p6cJx_kEcRKp5ZDSP4CiM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Javed Khan",
+        "author_photo": "/images/reviews/schmid-hutter-ag-heizung-lueftung-klima-kaelte-schaffhausen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Als Lehrling musste ich ca. 100 Kilo Stickstoffflasche zum 3. Stock tragen. Sehr Unmenschlichkeit und ich kann nur die Lehrlinge empfehlen nicht in dieser Firma eine Lehre zu machen. Alle Personen, die dort arbeiten, sind nicht ausgebildete Personen und wissen gar nicht, wie mit den Lehrlingen umzugehen. Leider wegen der schwere Stickstoffflassche habe ich Bandscheibenvorfall, unter dem leide ich leider noch Rückenschmerzen und ist schon 2 Jahre vorbei. Am Ende lachte die Personal in der Firma an mich aus, da ich nicht wegen der Rückenschmerzen arbeiten konnte. unglaublich schlechte Erfahrung.",
+        "time": 1690660463,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Brigitte Raphold",
+        "author_photo": "/images/reviews/schmid-hutter-ag-heizung-lueftung-klima-kaelte-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Mitarbeiterin am Telefon, die Frau Kowaroa konnte wunderbar Auskunft geben😁",
+        "time": 1721330238,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rui Da Silva",
+        "author_photo": "/images/reviews/schmid-hutter-ag-heizung-lueftung-klima-kaelte-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Cooles Team",
+        "time": 1572277661,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ivan Del",
+        "author_photo": "/images/reviews/schmid-hutter-ag-heizung-lueftung-klima-kaelte-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tipp top!",
+        "time": 1751292313,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Giuseppe Passaro",
+        "author_photo": "/images/reviews/schmid-hutter-ag-heizung-lueftung-klima-kaelte-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Meine Firma",
+        "time": 1691590847,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

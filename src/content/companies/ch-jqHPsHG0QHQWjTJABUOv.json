@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJueyCKMV9g0cRWo18W6WrLEI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "M4ur0シ",
+        "author_photo": "/images/reviews/zarucchi-gartenbau-ag-san-maurizio/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696513619,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marcel Zanolari",
+        "author_photo": "/images/reviews/zarucchi-gartenbau-ag-san-maurizio/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684494315,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ivan Clalüna",
+        "author_photo": "/images/reviews/zarucchi-gartenbau-ag-san-maurizio/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1632694041,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

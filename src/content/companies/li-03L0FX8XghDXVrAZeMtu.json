@@ -1,7 +1,7 @@
 {
   "id": "li-03L0FX8XghDXVrAZeMtu",
   "slug": "frickbau-ag-bauunternehmen-schaan",
-  "name": "Frickbau AG Bauunternehmen",
+  "name": "Frickbau AG",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,63 @@
     "Fundamentbau",
     "Renovation"
   ],
-  "description": "So weist Ihr Webauftritt zwar eine umfassende Darstellung der Referenzen auf, lässt jedoch bei der Performance und dem nDSG-Datenschutz kritische Flanken offen: Mit einem mobilen PageSpeed von gerade einmal 42 % verliert die Seite wertvolle Nutzer an der Ladezeit-Bremse, während im Hintergrund exter"
+  "description": "So weist Ihr Webauftritt zwar eine umfassende Darstellung der Referenzen auf, lässt jedoch bei der Performance und dem nDSG-Datenschutz kritische Flanken offen: Mit einem mobilen PageSpeed von gerade einmal 42 % verliert die Seite wertvolle Nutzer an der Ladezeit-Bremse, während im Hintergrund exter",
+  "googlePlaceId": "ChIJs0lpcfgwm0cRMAxtf8YfCvs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 07:00–17:00 Uhr",
+    "Sonntag: 07:00–17:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Vanessa Meyer",
+        "author_photo": "/images/reviews/frickbau-ag-bauunternehmen-schaan/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Haben keinen Respekt vor den Ruhezeiten in Wohnanlagen.\nMorgens um 6:40 Uhr beginnt man, den Boden aufzuspitzen, mittags (die einzige Stunde des Tages, in der man Ruhe hätte) wird weitergelärmt und auch abends oftmals länger als 18:00 Uhr. Eine absolute Zumutung. Auch samstags fangen sie vor 7:00 Uhr morgens an. Absolut respektlos den Anwohnern gegenüber.",
+        "time": 1687515493,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ivona Hein",
+        "author_photo": "/images/reviews/frickbau-ag-bauunternehmen-schaan/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich soll Eindfrücke schildern ...\nKeine Eindrücke,  die Firma hat auf meine Kontaktaufnahme nicht reagiert...",
+        "time": 1679320849,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Caser Marcel",
+        "author_photo": "/images/reviews/frickbau-ag-bauunternehmen-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Firma Arbeite gerne da👍👍👍",
+        "time": 1736021869,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sinan Civiloglu",
+        "author_photo": "/images/reviews/frickbau-ag-bauunternehmen-schaan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein Vertrauensvoller Unternehmen, ein Unternehmen, dass auch sein Versprechen hält....",
+        "time": 1619937932,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nützi Marc",
+        "author_photo": "/images/reviews/frickbau-ag-bauunternehmen-schaan/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Sehr freundlich",
+        "time": 1553114592,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

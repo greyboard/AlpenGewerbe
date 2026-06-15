@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJezy-jsoLkEcRJf807kjfsho",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Lore",
+        "author_photo": "/images/reviews/aqua-lab-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mehr als zufrieden! Unser Geschirrspüler wurde schnell, sauber und absolut professionell eingerichtet. Die Kommunikation war von Anfang an einfach und unkompliziert, und der Preis im Vergleich zur Konkurrenz wirklich top – sehr fair und transparent.\n\nDie Umsetzung war einwandfrei und effizient. Man merkt sofort, dass hier echte Fachkompetenz am Werk ist.\n\nKlare Weiterempfehlung, jederzeit wieder! 🙌",
+        "time": 1763652601,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Supkultur Admin",
+        "author_photo": "/images/reviews/aqua-lab-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "AquaLab und Herr Gyalzur haben uns geholfen, unsere Küche und die dafür nötigen Anschlüsse zu installieren. Nach einer ersten Offerte haben wir vor Ort mit Herrn Gyalzur die Details besprochen und konnten die Woche darauf schon mit der Arbeit beginnen. Sauber, kompetent und sehr freundlich. Wir können AquaLab sehr empfehlen und freuen uns, dass wir einen Sanitär gefunden haben, mit dem wir unser Raumprojekt auch in der Zukunft weiter ausbauen können. Vielen Dank!!",
+        "time": 1735217497,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gilda Nigg",
+        "author_photo": "/images/reviews/aqua-lab-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich schätze die Arbeit von aqualab als sehr professionell ein. Der Auftrag wurde zuverlässig, zügig und doch qualitativ hochwertig ausgeführt. Die Beratung war ebenfalls kompetent und freundlich. Kann ich daher sehr weiterempfehlen und werde ich gerne wieder beauftragen.",
+        "time": 1625601757,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "tibi",
+        "author_photo": "/images/reviews/aqua-lab-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich empfehle wärmstens aqua lab Zürich!\nAlles lief perfekt! Die Arbeit wurde sehr schnell und sauber ausgeführt.\nDie neue Toilette funktioniert einwandfrei.\nEin tolles Unternehmen, dessen Dienstleistung ich das nächste Mal gerne wieder in Anspruch nehme!\nHerzlichen Dank🙏🏽",
+        "time": 1664889187,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Anu",
+        "author_photo": "/images/reviews/aqua-lab-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben lange einen Sanitär gesucht, der auf unsere Bedürfnisse eingehen kann, und nun endlich gefunden. Beste Beratung! Hat viel Erfahrung, nimmt die Anliegen der KundInnen ernst und findet Lösungen dafür. Schnell, kompetent und günstig. Vielen Dank!!",
+        "time": 1684183407,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

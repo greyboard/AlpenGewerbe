@@ -1,7 +1,7 @@
 {
   "id": "ch-PlnCZAyrBzB8rb3MjW6y",
   "slug": "geiser-gartenbau-zuerich",
-  "name": "Geiser-Gartenbau",
+  "name": "Geiser Gartenbau",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJBf-PIzsKkEcRNP2qhcg2EB8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 07:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "CusTom's Garage GmbH",
+        "author_photo": "/images/reviews/geiser-gartenbau-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Grosses Dankeschön an Geiser Gartenbau für die Planung und zielgerechte Umsetzung von unserem Vorplatz und Garten, faszinierend was Geiser Gartenbau aus unserer langweiligen Brache gezaubert hat.\n\nBesonders herausragend empfand ich die offene und transparente  Komunikation und Einbringung in das Projekt  wie z.b; Pflanzenwahl und Bewässerungsanlage , vorallem aber die Anschlusslösung mit den benötigten Unterhaltsarbeiten da fühlt man sich rundum in guten Händen.\n\nHier merkt mann das der Betrieb mit Herzblut geführt wird, unser dank geht auch an das ganze Team das für die rasche und saubere Umsetzung gesorgt hat, wenn ihr demnächst zum Unterhalt kommt gibts sicher wider Kaffe und Gipfeli für euch...\n\nPs: gab schon einige Komplimente zu eurer Arbeit und wie gepflegt der Garten  jezt ist (Unterhalt sei dank😅)\n\nGruss\nCusTom's Garage GmbH",
+        "time": 1748313038,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jana Haering",
+        "author_photo": "/images/reviews/geiser-gartenbau-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Geiser hat meinen Balkon in eine wahre Wohlfühloase verwandelt! Sein kreatives Pflanzenkonzept mit automatischer Bewässerung hat meine Erwartungen übertroffen – jede Pflanze passt perfekt und verleiht meinem Balkon ein echtes Holiday-Feeling! Dank der zuverlässigen Unterhaltspflege durch sein Team bleibt alles stets in Bestform. Ein herzliches Dankeschön für diese grossartige Arbeit – absolut empfehlenswert!",
+        "time": 1740048490,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Beni Bachmann",
+        "author_photo": "/images/reviews/geiser-gartenbau-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit!\nPünktlich/kompetent/zuverlässig\n\nMein Garten wurde auf hochglanz poliert! Ich werde au zukünftige Projekte mit einem sehr guten gewissen mit ihnen realisieren.... ich freue mich jetzt scho auf den Frühling😍\n\nAlso sehr empfehlenswert.",
+        "time": 1740078262,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Metzger",
+        "author_photo": "/images/reviews/geiser-gartenbau-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Geiser-Gartenbau\nTop Gärtner mit fairen Preisen und ein gutes Gespür was zu unserem Garten passt. Die Beratung sucht seines gleichen, Herr Geiser hat sich gehrne Zeit genommen uns zu beraten und die Ausführung war einfach klasse, man spürt das hier noch mit Herzblut gearbeitet wird auch die ergänzungen zu der uns Geiser Gartenbau geraten hat  finden wir toll und sind sehr froh uns für diesen noch mit Leidenschaft gefürten Betrieb entschieden  zu haben, wir freuen uns schon auf das nächste Projekt... Der Sitzplatz mit Teich den ihr uns gezaubert habt ist einfach toll und wir können den Sommer kaum erwarten um unser kleines Paradies zu geniesen.\n\nMacht weiter so Top!!!",
+        "time": 1706213453,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nitrinchen",
+        "author_photo": "/images/reviews/geiser-gartenbau-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat mich super bei meiner Balkonbepflanzung beraten und alles schnell umgesetzt. Der Mann mit dem grünen Daumen:)",
+        "time": 1756046357,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

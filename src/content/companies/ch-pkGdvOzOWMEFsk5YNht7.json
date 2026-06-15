@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ11IYRTlpjkcR3DRzxOwZt3g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Erwin Brülhart",
+        "author_photo": "/images/reviews/schafer-yves-sa-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alles mit bester Zufriedenheit",
+        "time": 1673773865,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Paul Lehmann",
+        "author_photo": "/images/reviews/schafer-yves-sa-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dienstleistungen nach Verkauf",
+        "time": 1558689078,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "ma vision des choses le guide et voyageur",
+        "author_photo": "/images/reviews/schafer-yves-sa-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service, kompetente und hilfsbereite Mitarbeiter – diese Vermietungsfirma können wir uneingeschränkt empfehlen. Die Ausrüstung ist professionell und in einwandfreiem Zustand, und die Preise sind mehr als fair. Wir werden bei Bedarf wieder bei ihnen mieten. Vielen Dank nochmals für Ihre Professionalität.",
+        "time": 1715863729,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ludovic Frehner",
+        "author_photo": "/images/reviews/schafer-yves-sa-fribourg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Mitarbeiter waren sehr herzlich und freundlich. Dieses kleine Unternehmen bietet schnellen, qualitativ hochwertigen Service zu einem sehr günstigen Preis. Ich kann diese Firma für Einkäufe, Dienstleistungen und Beratung wärmstens empfehlen.",
+        "time": 1624016439,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Carlina Desax",
+        "author_photo": "/images/reviews/schafer-yves-sa-fribourg/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Diebe!! Um jeden Preis meiden!\nWir brachten ihnen einen automatischen Rasenmäher, um ein Rad zu reparieren, das sich löste. Abgesehen von diesem Problem funktionierte der Mäher einwandfrei. Eine einfache Lötarbeit hätte gereicht!\nDie Radachse ist zugänglich, ohne die Maschine zu zerlegen.\nTrotzdem nahmen sie alles auseinander und diagnostizierten das durchgebrannte Motherboard ^^\nIch fragte, wie eine Maschine mit einem durchgebrannten Motherboard weiterfahren kann???\nDer Mitarbeiter sagte mir, das sei selten, aber möglich 😄\nSie machten uns einen Kostenvoranschlag von über 1000 CHF für die Reparatur und boten uns an, uns ein anderes Gerät zu verkaufen.\nIch bat sie, meinen Mäher mit wieder zusammengebautem Motor zurückzunehmen, und tatsächlich sprang er seitdem nicht mehr an.\nAlso, dieser Mäher gehört in den Müll.",
+        "time": 1636104441,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

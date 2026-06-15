@@ -26,5 +26,47 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJzTYJKTSvhEcRVlWxp5guAHw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Kerstin Strubel",
+        "author_photo": "/images/reviews/braegger-bau-ag-klosters-serneus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1763711103,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Simi Sicherli",
+        "author_photo": "/images/reviews/braegger-bau-ag-klosters-serneus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1604944947,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Barbara Kern",
+        "author_photo": "/images/reviews/braegger-bau-ag-klosters-serneus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1538668711,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

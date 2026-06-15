@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJATuwJKHwj0cR-B7DEQEyVME",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Ja M aL",
+        "author_photo": "/images/reviews/poli-bau-ag-hergiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Firma super Leute und gute Qualität.",
+        "time": 1541659693,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "RX Jöri Hü",
+        "author_photo": "/images/reviews/poli-bau-ag-hergiswil/reviewer_2.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1749366961,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alfred Ferner",
+        "author_photo": "/images/reviews/poli-bau-ag-hergiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1706526259,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Francesco Iacovo",
+        "author_photo": "/images/reviews/poli-bau-ag-hergiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1703163457,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefan Iseli",
+        "author_photo": "/images/reviews/poli-bau-ag-hergiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698510348,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

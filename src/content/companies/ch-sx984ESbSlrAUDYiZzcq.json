@@ -26,5 +26,39 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJXf2fbvMuhUcRXn9H1ZiY9NE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–17:15 Uhr",
+    "Dienstag: 07:15–17:15 Uhr",
+    "Mittwoch: 07:15–17:15 Uhr",
+    "Donnerstag: 07:15–17:15 Uhr",
+    "Freitag: 07:15–12:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Andreas Zweifel",
+        "author_photo": "/images/reviews/marti-holzbau-gmbh-schwanden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit über 20 Jahren realisieren wir gemeinsam Projekte aller Art und Komplexität. Die Zusammenarbeit mit der MARTI HOLZBAU überzeugt uns in allen Bereichen – von der kompetenten Beratung über die sorgfältige gemeinsame Planung bis hin zur zuverlässigen und präzisen Ausführung. Wir schätzen das gesamte Team als lösungsorientiert, fair, professionell und absolut vertrauenswürdig und können es uneingeschränkt weiterempfehlen.\n\nWir bedanken uns herzlich für die bisherige ausgezeichnete Zusammenarbeit und freuen uns auf viele weitere erfolgreiche Projekte.\n\nSchiesser Architektur und Bauingenieur AG, Glarus",
+        "time": 1759732766,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "mue man",
+        "author_photo": "/images/reviews/marti-holzbau-gmbh-schwanden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Fachbetrieb mit sehr kompetenten und freundlichen Profis bei fairen Preisen.",
+        "time": 1504040995,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

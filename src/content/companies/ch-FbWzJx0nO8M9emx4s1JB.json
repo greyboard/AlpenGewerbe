@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKZkDKa5DhUcRw2hs5UdU33w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Klaus Beeler",
+        "author_photo": "/images/reviews/elektro-nauer-ag-schattdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Extrem grosses Lager für Elektrobauteile!\nGutes Team. Topfirma für jegliche Elektroarbeiten auf der Baustelle!",
+        "time": 1652784725,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ramplorer Ramplorer",
+        "author_photo": "/images/reviews/elektro-nauer-ag-schattdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Guter Service.",
+        "time": 1492063271,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Superhole 2011",
+        "author_photo": "/images/reviews/elektro-nauer-ag-schattdorf/reviewer_3.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1737740708,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "D S",
+        "author_photo": "/images/reviews/elektro-nauer-ag-schattdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711228657,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thierry Wagner",
+        "author_photo": "/images/reviews/elektro-nauer-ag-schattdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629995143,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

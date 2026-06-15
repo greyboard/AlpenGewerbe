@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJu7eilxy5kUcRt5fRwAR3mMY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Carmen Passerini",
+        "author_photo": "/images/reviews/schreinerei-signoretti-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Toller Familienbetrieb sehr freundlich schnell, Super Arbeiten. Katzenklappe in Fenster & Türen, Ersetzen von Fenster, Bodenbelägen versch. Arten, Vefschiedene Küchen, Pool Aussen böden, Pergola,  Schränken, Regale usw.... Nur zum empfehlen. TOP 10😉👍",
+        "time": 1719264122,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dario Dario",
+        "author_photo": "/images/reviews/schreinerei-signoretti-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Beste Schreinerei in Basel. Unkompliziert und sehr kompetent",
+        "time": 1744271545,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andre Teixeira",
+        "author_photo": "/images/reviews/schreinerei-signoretti-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1773153178,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "boby meiers",
+        "author_photo": "/images/reviews/schreinerei-signoretti-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710400804,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michel Oberer",
+        "author_photo": "/images/reviews/schreinerei-signoretti-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656352937,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJoc5ZppAVjkcRxEq9BXUS-7k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "René Loosli",
+        "author_photo": "/images/reviews/aeschbacher-hj-ag-muehleberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schneller geht es nicht. Nach Auftragserteilung wurde unser Spulmischer im Reisebüro umgehend und am selben Tag ausgewechselt. So schnell hätten wir diese Ausführung nicht erwartet. Der Mitarbeiter hat seine Arbeit sauber mit Freundlichkeit, Fachwissen und Kompetenz durchgeführt. Herzlichen dank für diesen super Service. Selbstverständlich können wir die Firma\nhj. Aeschbacher bestens weiterempfehlen. René Loosli 3008 Bern. 22.10.25",
+        "time": 1761124577,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "David Meyer",
+        "author_photo": "/images/reviews/aeschbacher-hj-ag-muehleberg/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Wir wohnen in einem Neubau und haben seit diesem Punkt Problem mit der Heizung, welche auch alle unserer Nachbarn betrifft. Leider ist die Firma seit heute nicht an einer Lösung interessiert. Ich kann somit aus eigener Erfahrungen die Firma auf keinen Fall weiterempfehlen.",
+        "time": 1718877745,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kim Stucki",
+        "author_photo": "/images/reviews/aeschbacher-hj-ag-muehleberg/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Sehr enttäuscht. Aufgrund eines Fehlers bestellte ich den falschen WC Sitz bei der Aeschbacher HJ AG.\nLeider kann man falsch bestellte WC Sitze                    ( Ungebraucht und Originalverpackt!) nicht zurückschicken.\nNicht gerade ein toller Kundenservice.\n\nDer Versand war auch nicht gerade schnell.",
+        "time": 1628591612,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michael Rothenbühler",
+        "author_photo": "/images/reviews/aeschbacher-hj-ag-muehleberg/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Ich muss sagen beste firma 10/10",
+        "time": 1738510162,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Müller",
+        "author_photo": "/images/reviews/aeschbacher-hj-ag-muehleberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Erfahrungen gemacht.",
+        "time": 1622825519,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

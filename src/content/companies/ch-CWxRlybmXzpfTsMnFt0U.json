@@ -1,7 +1,7 @@
 {
   "id": "ch-CWxRlybmXzpfTsMnFt0U",
   "slug": "elektrizitaetswerk-altdorf-ag-altdorf",
-  "name": "Elektrizitätswerk Altdorf AG",
+  "name": "energieUri",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJl5b354NDhUcRV5HDRxwqht8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Matthias Hummler",
+        "author_photo": "/images/reviews/elektrizitaetswerk-altdorf-ag-altdorf/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Dsa die Option \"Online\" nur mit LSV/DebitDirect funktionieren soll und nicht mit eBill ist eine Bevormundung der Kunden.",
+        "time": 1710153178,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Janine Imhof",
+        "author_photo": "/images/reviews/elektrizitaetswerk-altdorf-ag-altdorf/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Es verwundert mich sehr, dass keine kompetente Person zuständig ist, wenn jemand in den Ferien ist, der diese Aufgabe normalerweise übernimmt.",
+        "time": 1721033701,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Druckcenter Uri",
+        "author_photo": "/images/reviews/elektrizitaetswerk-altdorf-ag-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelles und perfekt strukturiertes Unternehmen. Top Qualität und ein spitzenservice👍👏",
+        "time": 1632071442,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Maria Ertl Märki",
+        "author_photo": "/images/reviews/elektrizitaetswerk-altdorf-ag-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Beratung war sehr kompetent.",
+        "time": 1679346877,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Elger Gledhill SATOMEC AG",
+        "author_photo": "/images/reviews/elektrizitaetswerk-altdorf-ag-altdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetentes Engineering im Einsatz mit zenon Energy von COPA-DATA",
+        "time": 1643385786,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

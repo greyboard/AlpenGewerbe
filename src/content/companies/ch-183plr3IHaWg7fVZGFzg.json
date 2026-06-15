@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJTbksYZoPjkcRa1k5kpo-5Q0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Kevin Charpilloz",
+        "author_photo": "/images/reviews/lirom-chapes-sa-la-neuveville/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Très déçu du travail effectué.\nLe patron justifie ensuite le résultat avec des normes de 1970.\n\nDéconseillé si vous souhaitez mettre du carrelage d'un format supérieur à 30x30cm",
+        "time": 1564489179,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "François Banha",
+        "author_photo": "/images/reviews/lirom-chapes-sa-la-neuveville/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich war mit Herrn Romanos Arbeit beim Bau meines Hauses in Gletterens sehr zufrieden. Die Arbeiten wurden sauber und termingerecht ausgeführt.",
+        "time": 1600769228,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Antonio Margheriti",
+        "author_photo": "/images/reviews/lirom-chapes-sa-la-neuveville/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragende Fliesenarbeiten, sorgfältig und schnell, sehr gute Kommunikation.\n\nVielen Dank, Romano!\n\nIch kann sie wärmstens empfehlen.",
+        "time": 1630395348,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christophe Brecher",
+        "author_photo": "/images/reviews/lirom-chapes-sa-la-neuveville/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Renovierungsarbeiten an einem alten Haus, hervorragende Arbeit.",
+        "time": 1566238049,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Murielle Domingues",
+        "author_photo": "/images/reviews/lirom-chapes-sa-la-neuveville/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein seriöses Unternehmen. Saubere und effiziente Arbeitsweise.",
+        "time": 1499668794,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

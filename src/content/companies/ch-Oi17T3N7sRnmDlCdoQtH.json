@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJQTD1bag7kEcR4-xC7lOL2Lk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Renato Stocker",
+        "author_photo": "/images/reviews/rs-elektro-unterentfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben im Q4 2024 durch RS diverse Arbeiten an unserem Haus ausführen lassen:\n- Ersatz der Hauptverteilung im Untergeschoss\n- Komplette Erneuerung der Stromversorgung in der neuen Küche und im Arbeitszimmer\n- Installation von Licht und Apparaten\n- Ersatz der Deckenbeleuchtung im Korridor\n\nWir sind mit den ausgeführten Arbeiten von RS Elektro sehr zufrieden. Alle Tätigkeiten wurden sehr genau und speditiv erledigt. Die vereinbarten Termine wurden stets eingehalten, und zusätzliche Kundenwünsche wurden immer berücksichtigt und umgesetzt. Wir werden auch zukünftige Projekte gerne mit euch angehen. Vielen Dank für euren ausgezeichneten Service.",
+        "time": 1740431528,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sonne 21",
+        "author_photo": "/images/reviews/rs-elektro-unterentfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und freundlich. Mein Anliegen wurde sofort erledigt – unkompliziert und schnell. Absolut empfehlenswert!",
+        "time": 1773330920,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Cyrill Mamin",
+        "author_photo": "/images/reviews/rs-elektro-unterentfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "RS Elektro hat in unserem EFH eine alte Hauptverteilung ersetzt und diverse neue Leitungen gezogen / Steckdosen+ Lichtschalter installiert. Die Arbeiten wurden zu unserer vollsten Zufriedenheit ausgeführt. Wir konnten am Termin selbst nicht anwesend sein, so kam Pascal Schneider im Vorfeld vorbei und ich konnte ihm unsere Pläne mitteilen und zukommen lassen. RS Elektro hat alles wirklich perfekt nach unseren Wünschen umgesetzt. Die speditive und freundliche Kommunikation ist ein weiterer Pluspunkt.",
+        "time": 1761318038,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Jasmine Kellenberger",
+        "author_photo": "/images/reviews/rs-elektro-unterentfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden und empfehlen RS Elektro gerne weiter!! Alles klappt immer wunderbar und schnell! Danke euch 😊",
+        "time": 1764182148,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Anders Hagström",
+        "author_photo": "/images/reviews/rs-elektro-unterentfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionell, flexibel, freundlich, kompetent. Kann ich nur empfehlen.",
+        "time": 1762535135,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

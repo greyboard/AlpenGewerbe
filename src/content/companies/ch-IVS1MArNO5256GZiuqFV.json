@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJa6u_gOTfhEcRwb1BefGfbgg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Isabel Baur",
+        "author_photo": "/images/reviews/spescha-schreinerei-ag-kuechen-und-innenausbau-rueun/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben eine komplett neue Küche einbauen lassen: Rückbau alter Küche, Einbau neuer  Küchenschränke, sanitärer Anlagen, Eichendielen, Steinabdeckung. Planung, und Bauleitung sehr professionell, freundlich und problemlos. Wir sind mit allem sehr zufrieden!",
+        "time": 1735582709,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anita Gerber",
+        "author_photo": "/images/reviews/spescha-schreinerei-ag-kuechen-und-innenausbau-rueun/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben zwei antike Tische abschleifen lassen und sind absolut begeistert, wie schön sie geworden sind. Die Spalten wurden auch perfekt gefüllt und fügen sich schön ins Bild der Tischstruktur ein.\nAuch unsere klemmende Tür wurde gerichtet und lässt sich wieder problemlos schliessen.\nVielen Dank an Tobias Spescha und Gian Luca Dermond, die uns  freundlich, prompt und professionell bedient haben.",
+        "time": 1757940836,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "peter vincenz",
+        "author_photo": "/images/reviews/spescha-schreinerei-ag-kuechen-und-innenausbau-rueun/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Beratung, Planung, Ausführung, Kommunikation - alles top. Wir haben einen grossen Einbauschrank, eine Gardebore und neue Holzböden machen lassen. Alles ist sehr hochwertig und präzise verarbeitet und eingebaut. Wirklich eine gelungene Sache. Wir können die Spescha Schreinerei AG bedingungslos weiterempfehlen.",
+        "time": 1688410002,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yvonne Kern",
+        "author_photo": "/images/reviews/spescha-schreinerei-ag-kuechen-und-innenausbau-rueun/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir ließen von der Schreinerei Spescha eine neue Eckbank für unsere Ferienwohnung anfertigen. Da wir enge Platzverhältnisse haben, hatten wir klare Vorstellungen wie unsere Eckbank aussehen sollte. Alle unsere Wünsche wurden zu unserer vollen Zufriedenheit ausgeführt. Wir sind mit dem Resultat sehr zufrieden. Das Team hat sorgfältig gearbeitet und war sehr freundlich. Fragen wurden schnell und kompetent beantwortet. Wir können die Schreinerei Spescha mit ihrem Team sehr empfehlen.\nVielen Dank! Yvonne und Heinz Kern",
+        "time": 1666788337,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Hans-Peter Schupp",
+        "author_photo": "/images/reviews/spescha-schreinerei-ag-kuechen-und-innenausbau-rueun/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei der Schreinerei Spescha durften wir sämtliche Umbauarbeiten  in sehr professionelle  und sorgfältige Hände geben. Die neue Badezimmer- und Wohnungsmöbel wurden in sehr hoher Qualität hergestellt und montiert.\nPreis - Listung ist top ! Wir sind mit allem sehr zufrieden.",
+        "time": 1641309357,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

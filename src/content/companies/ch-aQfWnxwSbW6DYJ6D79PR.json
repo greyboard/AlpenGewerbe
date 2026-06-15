@@ -26,5 +26,47 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-xMsXPnXkUcRaCsRLbm2kNg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 13:30–17:30 Uhr",
+    "Dienstag: 13:30–17:30 Uhr",
+    "Mittwoch: 13:30–17:30 Uhr",
+    "Donnerstag: 13:30–17:30 Uhr",
+    "Freitag: 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Roman Krähenbühl",
+        "author_photo": "/images/reviews/bodenpartner-gmbh-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Bodenpartner hat den anspruchsvollen Auftrag zu unserer vollsten Zufriedenheit ausgeführt. Wir sind von der profesionellen Arbeit und Ausführung begeistert. Können die Firma Bodenpartner mit Urs Bleuer zu 100% weiterempfehlen. Herzlichen Dank.",
+        "time": 1613163521,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fam Liechti",
+        "author_photo": "/images/reviews/bodenpartner-gmbh-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Grosse Auswahl, wunderschönes Material",
+        "time": 1531216247,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Markus Blatti",
+        "author_photo": "/images/reviews/bodenpartner-gmbh-solothurn/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Billiges material",
+        "time": 1533803637,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

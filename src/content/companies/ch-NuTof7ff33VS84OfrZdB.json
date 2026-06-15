@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkfzgimnHhEcRIP2NSpHbaIY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Calvin Beeli",
+        "author_photo": "/images/reviews/af-dachtechnik-ag-thusis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einfach nur wow! Die Plane auf dem Dach wurde absolut makellos und mit höchster Präzision verlegt. Curo Feltscher hat hier wirklich aussergewöhnliche Arbeit geleistet, man sieht sofort seine Erfahrung, sein Können und seine Leidenschaft fürs Detail. Ganz grosses Kompliment an ihn! Sein Team hat ihn dabei ebenfalls hervorragend unterstützt.",
+        "time": 1774552997,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "simon flurina",
+        "author_photo": "/images/reviews/af-dachtechnik-ag-thusis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles Gute euch zweien! Ihr werdet es schon packen! Sauber arbeiten konntet ihr schon immer, und eure heimische Konkurrenz ist seit Jahren leider nur noch verbal stark!",
+        "time": 1620230299,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "M Kaiser",
+        "author_photo": "/images/reviews/af-dachtechnik-ag-thusis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Pünktlich, professionell und hohe Qualität. Kann dieses Unternehmen nur empfehle!",
+        "time": 1618012190,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Robin Gossi",
+        "author_photo": "/images/reviews/af-dachtechnik-ag-thusis/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Anhand der Fotos ist deutlich zu erkennen, dass sie sehr gut funktionieren.",
+        "time": 1646228765,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Valerio Deplazes",
+        "author_photo": "/images/reviews/af-dachtechnik-ag-thusis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664966223,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

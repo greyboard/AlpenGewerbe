@@ -26,5 +26,30 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJabfiij-YhEcRJdI8vYCEepA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Flammorama AG",
+        "author_photo": "/images/reviews/geesmetall-gmbh-wiesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1560512737,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Kevin Marinkovic",
+        "author_photo": "/images/reviews/geesmetall-gmbh-wiesen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1505835370,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2ctUjvj7j0cRsrDY1wXgLJ0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Ilona Harvey",
+        "author_photo": "/images/reviews/burch-emmenegger-plattenleger-gmbh-horw/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Balkon wurde neu gefliest – die Arbeit der Firma Bruch + Emmenegger Plattenleger war absolut hervorragend! Das Team war zuverlässig, sehr kompetent und äusserst sorgfältig. Auch die Beratung im Vorfeld war ausgezeichnet. Wer ein professionelles und engagiertes Team sucht, dem kann ich diese Firma uneingeschränkt weiterempfehlen.",
+        "time": 1759937823,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Patrik Meier",
+        "author_photo": "/images/reviews/burch-emmenegger-plattenleger-gmbh-horw/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Leute, unkomplizierter Umgang und hohe Arbeitsqualität! Sehr zuverlässig (Termine, Aufwandsschätzung)",
+        "time": 1755010243,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "N A",
+        "author_photo": "/images/reviews/burch-emmenegger-plattenleger-gmbh-horw/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service! Sehr zuverlässig, äusserst zuvorkommend und am Ende sogar mehr geleistet als ursprünglich beauftragt — und das aus eigener Initiative. Vor allem Herrn Heer möchte ich an dieser Stelle herzlich danken. Absolute Empfehlung!",
+        "time": 1749235529,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Emir Kozarevic",
+        "author_photo": "/images/reviews/burch-emmenegger-plattenleger-gmbh-horw/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Mischa ist ein Handwerker vom Fach, die Kompetenz spürt man sofort. Absolut eine Empfehlung!",
+        "time": 1760620827,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Anja Lau",
+        "author_photo": "/images/reviews/burch-emmenegger-plattenleger-gmbh-horw/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mischa ist ein extrem freundlicher, kompetenter, zuverlässiger Geschäftsführer.\nWir waren extrem zufrieden mit der Qualität der Arbeit, den Service und dann noch der fire Preis.\n\nKann ich nur empfehlen.",
+        "time": 1740148721,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

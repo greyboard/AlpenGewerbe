@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJL7eX50Clj0cRRjn_mH-5MdM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 52,
+    "reviews": [
+      {
+        "author_name": "Febatec GmbH",
+        "author_photo": "/images/reviews/rexhepi-ag-fuer-malerei-gipserei-geruestbau-interlaken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Rexhepi AG ist stets angenehm und verlässlich. Termine werden eingehalten, und die Arbeiten werden sauber und zuverlässig ausgeführt.",
+        "time": 1763361104,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Erich von Känel",
+        "author_photo": "/images/reviews/rexhepi-ag-fuer-malerei-gipserei-geruestbau-interlaken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Danke für die tollen Arbeiten in unserem Autohaus. Die Zusammenarbeit klappt immer vorbildlich. Aller Arbeiten sind perfekt und immer im Termin ausgeführt. Danke vielmals.",
+        "time": 1539594011,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Riana Fiechter",
+        "author_photo": "/images/reviews/rexhepi-ag-fuer-malerei-gipserei-geruestbau-interlaken/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben bei der Rexhepi AG drei Tapeten machen lassen. Zwei für die Kinderzimmer und eine im Wohnzimmer. Der Geschäftsführer Luli, hat uns sehr gut beraten und mit uns die passenden Fototapeten ausgesucht. Die Mitarbeiter haben die Arbeiten exakt und sehr sauber ausgeführt. Die Kleinen durften sogar etwas mithelfen und da waren sie natürlich begeistert. Wir können die Rexhepi AG nur weiterempfehlen. TOP Leistung, vielen Dank!!!",
+        "time": 1710313329,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jolanda Brügger",
+        "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocJMIXGxLrqNH1JS1vsL_Wje-HPNy1-P_azG8Z9wF-G87nzxdQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "Die Firma Rexhepi AG hat bei uns einen grossen Balkon mit dem Produkt „Slate-Lite“ belegt. Die dünn beschichteten Echtstein-Platten im Grossformat wurden sauber und optimal bemessen, verlegt und versiegelt. Das Resultat erfreut immer noch, bewährt sich seit ca. 5 Jahren und erweist sich als angenehm pflegeleicht. Die vorgängige Beratung war freundlich, kompetent und aufschlussreich. Termine wurden angenehm eingehalten, Mitarbeiter arbeiteten sauber, effizient und stets freundlich.",
+        "time": 1710820561,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicole Jäger",
+        "author_photo": "/images/reviews/rexhepi-ag-fuer-malerei-gipserei-geruestbau-interlaken/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich glaube es gibt keine innovativere Malerei, als die Rexhepi AG. Saubere Arbeit, innerhalb kürzester Zeit. Wir waren mit der Beratung, wie auch mit der Sauberkeit sehr zufrieden. Sehr zum Weiterempfehlen! Top Arbeit!",
+        "time": 1710573106,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

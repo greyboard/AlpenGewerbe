@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJC4ST3GrgmkcRqkBR4q5tDHE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "Neal Lehmann",
+        "author_photo": "/images/reviews/hofmann-malerei-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann dieses Malerunternehmen nur wärmstens empfehlen! Die fachkompetente und persönliche Beratung von Dario Hofmann hat mich von Anfang an beeindruckt.\n\nIch war sehr zufrieden mit der Professionalität und dem Fachwissen des Teams bei der Arbeit. Der Wandanstrich, sowie der Anstrich mit 2-Komponenten Acrylfarbe auf dem Boden meiner Garage, wurden perfekt ausgeführt.\n\nNach 25 Jahren sieht die Garage wieder aus wie neu. Ich bin begeistert von dem Endergebnis!",
+        "time": 1677065203,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabio Mätzler",
+        "author_photo": "/images/reviews/hofmann-malerei-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Hofmann Malerei hat unsere Wohnung an der Baumgartenstrasse 8 in 9403 Goldach im Innenbereich gemacht sowie den ganzen Block im Aussen- und Innenbereich. Die Arbeiten wurden dabei von A-Z perfekt ausgeführt, toller Service und ein sehr attraktives Preis-Leistungsverhältnis. Wir waren mit Ihrer Arbeit rundum zufrieden, jederzeit sehr gerne wieder!",
+        "time": 1638437463,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marco",
+        "author_photo": "/images/reviews/hofmann-malerei-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Team von Hofmann Malerei wurde von mir beauftragt, bei einem Mieterwechsel diverse Malerarbeiten auszuführen (Zimmer streichen,  grössere Dübellöcher reparieren, Möbelspuren ausbessern, eine Türrückseite neu streichen usw.). Ich erhielt eine professionelle Beratung und einen Top-Service bei der Ausführung. Ich als Eigentümer sowie der neue Mieter waren bei der darauffolgenden Übergabe sehr zufrieden. Die Dienste von Hofmann Malerei kann ich jedem/r mit gutem Gewissen weiterempfehlen.",
+        "time": 1664131423,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Mendel",
+        "author_photo": "/images/reviews/hofmann-malerei-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Beratung und 1A Qualität. Das Team der Hofmann Malerei hat unser Haus in Wittenbach innen komplett neu gestrichen - wir sind rundum zufrieden und haben nichts zu bemängeln :)",
+        "time": 1667798733,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Herpich",
+        "author_photo": "/images/reviews/hofmann-malerei-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super angenehme Zusammenarbeit und sehr professionelle Arbeit! Für unser nächstes Projekt wissen wir bereits wo hin :)",
+        "time": 1664054556,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

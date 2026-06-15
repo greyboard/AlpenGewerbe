@@ -26,5 +26,39 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJa7T2tFCqmkcRVyQ9EFRenso",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Karin B.",
+        "author_photo": "/images/reviews/elektro-kontrollen-zug-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1737025125,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "goplus",
+        "author_photo": "/images/reviews/elektro-kontrollen-zug-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709620384,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

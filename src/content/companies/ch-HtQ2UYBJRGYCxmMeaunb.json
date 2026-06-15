@@ -26,5 +26,30 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3bnc0ucZjkcRNvUWsdZbQcU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Sandro Kocher",
+        "author_photo": "/images/reviews/elektro-bilingue-gmbh-bruegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr netter Kontakt, kompetent und auch flexibel wenn Änderungen anstehen. Tolle und speditive Arbeite gerne wieder Danke Grüsse kocher-architektur sandro kocher",
+        "time": 1715755245,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Edi Scheidegger",
+        "author_photo": "/images/reviews/elektro-bilingue-gmbh-bruegg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und zuverlässig. Würde ich jedem weiterempfehlen in Sache Elektro rund um das Haus! TipTop!",
+        "time": 1751719079,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

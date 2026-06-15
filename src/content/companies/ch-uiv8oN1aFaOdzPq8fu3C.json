@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJs6DnzN55CEERdPoMYQez7Tw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Jonas Ernst",
+        "author_photo": "/images/reviews/glaserei-goertz-e-k-ruemmingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Maßgenaue neue Glastüre! :)\nWir haben bei Firma Goertz eine Glastüre für unsere Dusche bestellt. Unsere Wünsche/Erwartungen wurden mehr als erfüllt. Der Einbau der Glastür erfolgte absolut maßgenau, sauber und zügig. Besonders hervorzuheben ist, dass trotz schräger, vorhandener Wände alles perfekt ausgemessen und exakt angepasst wurde – das Ergebnis passt millimetergenau.\nDie Qualität der Ausführung und der Materialien ist hochwertig – optisch wie technisch einwandfrei.\nFür uns ganz klar: Absolute und uneingeschränkte Weiterempfehlung!!",
+        "time": 1772208016,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Julia Wiesler",
+        "author_photo": "/images/reviews/glaserei-goertz-e-k-ruemmingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum zufrieden mit der Arbeit\nder Firma Goertz! Unsere neue Duschtür\nwurde maßgefertigt und perfekt umgesetzt. Von der Beratung bis zur Montage lief alles absolut professionell, zuverlässig und freundlich ab. Die Qualität der Duschtür und die Umsetzung unserer Vorstellungen war super und man merkt sofort, dass hier mit viel Erfahrung und Genauigkeit gearbeitet wird.\nDie Montage verlief sauber und schnell, und das Ergebnis sieht einfach top aus\nKlare Weiterempfehlung - vielen Dank für die tolle Arbeit!",
+        "time": 1771786092,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "reinhard blum",
+        "author_photo": "/images/reviews/glaserei-goertz-e-k-ruemmingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Egal was Sie mit Glas machen wollen: Küche, Bad, Terrasse... die Fa. Goertz ist der kompetente Ansprechpartner. Zuverlässig, professionell und menschlich absolut perfekt",
+        "time": 1718790812,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudia Kuehn",
+        "author_photo": "/images/reviews/glaserei-goertz-e-k-ruemmingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr nettes und professionelles Team. Lieferung der Glasfront für die Küche in 3 Tagen. Wir sind sehr zufrieden. Vielen Dank!",
+        "time": 1565088207,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Mailind Shurlliqi",
+        "author_photo": "/images/reviews/glaserei-goertz-e-k-ruemmingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kann ich wärmstens empfehlen.\nSehr zufrieden mit dem Team, der Abwicklung und Umsetzung!\nViele Grüße und danke !!",
+        "time": 1761503000,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

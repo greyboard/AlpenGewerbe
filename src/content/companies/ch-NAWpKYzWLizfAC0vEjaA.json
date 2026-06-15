@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJbYSWtnaqmkcRY5rWEpyHSaE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Joel Lüthi",
+        "author_photo": "/images/reviews/gartenbau-landtwing-zug/reviewer_1.jpg",
+        "rating": 1,
+        "text": "ZG116643: 5 Minuten früher aufstehen reicht schon aus, um nicht allen Menschen in der 80er Zone am Arsch zu kleben, zu überholen und Fussgänger nicht zu beachten.",
+        "time": 1744692120,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adi Heiniger",
+        "author_photo": "/images/reviews/gartenbau-landtwing-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich empfehle gerne diesen äusserst zuverlässigen Partner für den Gartenunterhalt und auch Neubau. Spezialist für Pflanzen und sogar Japangärten. Gerne wieder.",
+        "time": 1603289411,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Josef Camm",
+        "author_photo": "/images/reviews/gartenbau-landtwing-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent und zuverlässig.",
+        "time": 1766586679,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Flurin Hammer",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjV_2xEAbLcMAl65tWTyxtRxE2Xdfd-srYBSWyr43P1nQ0XOjOxs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "du yu now steggel?",
+        "time": 1608037593,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Rene Steinhauer",
+        "author_photo": "/images/reviews/gartenbau-landtwing-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr Sehr nette Leute",
+        "time": 1557857231,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

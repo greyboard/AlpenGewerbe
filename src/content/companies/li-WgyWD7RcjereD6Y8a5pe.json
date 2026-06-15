@@ -25,5 +25,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJD55rH2Uxm0cRe2cwetBt0l0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "Kübra Sezen",
+        "author_photo": "/images/reviews/ospelt-haustechnik-ag-im-kruez-2/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte mich herzlich bei Ihnen und Ihrem Team für den hervorragenden Einsatz bedanken. Die Arbeiten wurden pünktlich, sauber und äusserst professionell ausgeführt. Besonders geschätzt habe ich die freundliche Art, die klare Kommunikation sowie die schnelle, lösungsorientierte Vorgehensweise.\n\nEs ist heute nicht selbstverständlich, so zuverlässig und sorgfältig betreut zu werden. Wir sind sehr zufrieden und werden Sie gerne weiterempfehlen sowie bei Bedarf wieder beauftragen.",
+        "time": 1770968000,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Coninchen",
+        "author_photo": "/images/reviews/ospelt-haustechnik-ag-im-kruez-2/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Möchte mich hiermit noch bei den Monteur Martin,von der Firma Ospelt Haustechnik AG,bei einen Notfall eines Druckausgleich Behälters,der in Rekordtempo das Problem am 22.Dezember noch erledigt hat,und uns kalte Weihnachten erspart hat.Vielen lieben Dank für die flotte Hilfe.Mit freundlichen Grüßen Erich und Isabell Chudy",
+        "time": 1766407101,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "RC Flugkanal Meier",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjXI_Drc_Uh3bFGUudn7JrHdXcm7itUqnTpESFhduFvpMsCW-UZs=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "text": "immer und immer wieder sitzt man in einer kalten Wohnung und kann nicht mal Duschen gehen vor einem Termin weil warm Wasser fehlt. Geht seit Jahren so und dabei wurde die Heizung gerade erst erneuert",
+        "time": 1738071460,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "falsab",
+        "author_photo": "/images/reviews/ospelt-haustechnik-ag-im-kruez-2/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir waren mehr als zufrieden und wurden bestens betreut! Ausserdem möchten wir Ihren Mitarbeiter Mehmet Demirbas speziell erwähnen, er war ausgesprochen höflich und hat uns mit Engelsgeduld erklärt, wie die Heizung funktioniert und unser Problem gelöst werden könnte. Er hat auch eine hohe Fachkompetenz und arbeitet schnell und lösungsorientiert. Einfach top!",
+        "time": 1700642219,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabian Haas",
+        "author_photo": "/images/reviews/ospelt-haustechnik-ag-im-kruez-2/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Hält sich nicht an Termine und informiert nicht, sehr schade.",
+        "time": 1731962075,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

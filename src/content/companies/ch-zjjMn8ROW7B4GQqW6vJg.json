@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJgyJ8Grblj0cRX3OTR2-mP5Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Ladina",
+        "author_photo": "/images/reviews/elektro-schaerli-ag-malters-malters/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team der Elektro-Schärli AG überzeugt durch Kompetenz und Engagement. Ihre gut organisierte und strukturierte Arbeitsweise widerspiegelt sich in der Qualität ihrer Arbeit.",
+        "time": 1714130621,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Leibundgut",
+        "author_photo": "/images/reviews/elektro-schaerli-ag-malters-malters/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein freundlicher Betrieb mit super geschultem Personal.\nGrosse Kompetenz in sämtlichen Bereichen. Hier fühlt man sich als Kunde sehr gut aufgehoben!",
+        "time": 1560503461,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Sabine Schneider",
+        "author_photo": "/images/reviews/elektro-schaerli-ag-malters-malters/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Aufgrund eines Inserates – wonach Elektroinstallationen mit 100% WIR-Geld bezahlt werden können - sind wir auf diese Firma aufmerksam geworden. Es wurde ein Besichtigungstermin vereinbart um die Arbeiten zu besprechen. Mit kleineren Arbeiten wollte man sogleich beginnen. Der Mitarbeiter samt Stift kam eine halbe Stunde zu spät, machte pünktlich Znüni, Zmittag und Zvieri-Pause und ging dafür bereits um halb 5.\n\nDas Resultat dieser Übung war der völlig sinnlose Einzug eines Kabels in ein Leerrohr (beide Kabelenden liegen im Dreck ohne Sinn oder Anschluss an irgendwas) und der Anschluss von zwei Badlüftern – die allerdings bereits montiert waren. Die restliche Zeit hätte man für die Begutachtung der auszuführenden Arbeiten aufgewendet.\n\nMan wollte gleich weitere drei Tage einplanen, was für uns nicht in Frage kam.\n\nEs resultierte eine gesalzene Rechnung über 1200 Franken auf der selbst Kleinmaterial mit einem Stundentarif verrechnet wurde, nicht zu vergessen dass völlig sinnlose Kabel welches nicht den geringsten Zweck erfüllt.\n\nWir haben die (ungerechtfertigte) Rechnung bezahlt weil unsere Mitarbeiterin – die nicht in die Auftragsvergabe involviert war – unvorsichtigerweise den Arbeitsrapport unterschrieben hatte. Darauf notiert war die Arbeitszeit durchgehend für den ganzen Tag.\n\nPer Einschreiben haben wir reklamiert, in der Folge darauf erhielten wir vom Starkstrominspektorat zwei eingeschriebene Briefe, wonach eine „installationsberechtigte Unternehmung“ gemeldet hätte, dass für vorgenommene Installationen nicht der Sicherheitsnachweis erbracht worden sei. Wir hätten einen weiteren konzessionierten Elektriker damit zu beauftragen.\n\nDies offensichtlich als Racheakt, weil wir uns nicht weiter von dieser Firma ausnehmen lassen wollten. Mit anderen Worten sollen wir dieses für 1200 Franken eingezogene Kabel ohne Anschluss oder Verwendungszweck durch einen weiteren Elektriker kostenpflichtig kontrollieren lassen!\n\nEs gibt viele gute Elektriker, der gehört ganz sicher nicht dazu. Unsere Empfehlung: Wenn Sie sich Ärger ersparen und nicht wie eine Weihnachtsgans ausnehmen lassen wollen, machen Sie um diese Firma einen weiten Bogen….",
+        "time": 1534348623,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Brot mit Chäs",
+        "author_photo": "/images/reviews/elektro-schaerli-ag-malters-malters/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetentes und kundenfreundliches Unternehmen mit einem sympathischem Team",
+        "time": 1741634330,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ROGER GUT",
+        "author_photo": "/images/reviews/elektro-schaerli-ag-malters-malters/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Arbeit wurde sehr gut Ausgeführt.\nArbeiter war sehr freundlich, Ich würde die Firma sofort weiter empfehlen.👍",
+        "time": 1542987044,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

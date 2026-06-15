@@ -26,5 +26,30 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJf9W8fDeqmkcRXE7AIIi3Rlg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "rob den otter",
+        "author_photo": "/images/reviews/eigenstahl-roli-gysi-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top. 👍🏼👍🏼",
+        "time": 1564770412,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Stefanie Wild",
+        "author_photo": "/images/reviews/eigenstahl-roli-gysi-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1751902094,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

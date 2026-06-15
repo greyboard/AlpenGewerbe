@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJo55toHbJmkcRReZgl08KsEs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 39,
+    "reviews": [
+      {
+        "author_name": "Celina Grünwald",
+        "author_photo": "/images/reviews/rickenbach-malerfachbetrieb-wangen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\nIch bin rundum begeistert! Herr Rickenbach hat von Anfang bis Ende hervorragende Arbeit geleistet. Die Kommunikation war freundlich, zuverlässig und transparent. Alle Arbeiten wurden termingerecht, sauber und mit viel Liebe zum Detail ausgeführt. Man merkt sofort, dass hier ein Profis am Werk ist, der sein Handwerk versteht. Der Service war absolut top – immer erreichbar, hilfsbereit und lösungsorientiert.\nEine echte Herzensempfehlung!",
+        "time": 1759402979,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Bettina Batuska",
+        "author_photo": "/images/reviews/rickenbach-malerfachbetrieb-wangen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit von Sandro. Er hat meine Wohnung nicht nur wunderschön gestrichen, sondern auch Mängel sorgfältig ausgebessert.\nAbsolut empfehlenswert und ein echter Profi.\nIch empfehle ihn und würde ihn jederzeit wieder beauftragen.\nVielen Dank 😊",
+        "time": 1759236652,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Calimero Hulos",
+        "author_photo": "/images/reviews/rickenbach-malerfachbetrieb-wangen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit geleistet.\nHaben unser gesamte Haus streichen lassen und sind mit der Arbeit sehr zufrieden gewesen. Preis war ebenfalls top !",
+        "time": 1759428630,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Simone Helbling",
+        "author_photo": "/images/reviews/rickenbach-malerfachbetrieb-wangen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit! Schnell, technisch auf höchstem Niveau und sehr sauber gearbeitet. Dazu noch ausgesprochen sympathisch und unkompliziert. Jederzeit wieder – absolute Empfehlung.",
+        "time": 1768078617,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Lion Maurice",
+        "author_photo": "/images/reviews/rickenbach-malerfachbetrieb-wangen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das, was er bei uns machen sollte, war wirklich sehr anspruchsvoll, Es ist ein wunderschönes Ergebnis geworden, zuverlässig pünktlich fair. Ich kann ihn nur wärmstens weiter empfehlen mit besten Gewissen.",
+        "time": 1759426732,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

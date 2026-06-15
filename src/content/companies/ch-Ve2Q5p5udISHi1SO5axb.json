@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJXbC4hQcVkEcRRf6s4ZPrsGc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Herbert Albiez",
+        "author_photo": "/images/reviews/jardinsuisse-aargau-birr/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Interessante Geschichte, viele aussergewöhnliche Pflänzchen für den Hobbygärtner.\nEs gibt interessante Züchtungen aus anderen Ländern die das Klima besser vertragen.",
+        "time": 1651239654,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "David Coro",
+        "author_photo": "/images/reviews/jardinsuisse-aargau-birr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Instruktoren und sehr gute Kürse im Bereich Gartenbau und Unterhald",
+        "time": 1669232161,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Björn Rösch",
+        "author_photo": "/images/reviews/jardinsuisse-aargau-birr/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Sehr schöner Neubau. Tolle Leute vor Ort.",
+        "time": 1629781816,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ruedi Schwarz",
+        "author_photo": "/images/reviews/jardinsuisse-aargau-birr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schöne Anlage für die Ausbildung der Lehrlinge.",
+        "time": 1618292603,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "J. Simmen",
+        "author_photo": "/images/reviews/jardinsuisse-aargau-birr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mega schön gestalltet",
+        "time": 1595970635,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

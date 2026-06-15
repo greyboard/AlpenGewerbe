@@ -26,5 +26,55 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ889mVJs_jkcR3VoAC4VTtrk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Annika Flueckiger",
+        "author_photo": "/images/reviews/signoroni-ag-wohlen-bei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nach 10 Jahren hatte ich wieder Fliesenarbeiten zu vergeben und es hat mich gefreut, dass die Arbeiten wieder durch die Firma Signorni ausgeführt wurden.\nEs wird auf die Anliegen des Kunden eingegangen und gleichzeitig wurde man fachlich beraten.\nDie Arbeiten wurden zu unserer vollen Zufriedenheit ausgeführt und wir danken herzlich!",
+        "time": 1659290720,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "An Ko",
+        "author_photo": "/images/reviews/signoroni-ag-wohlen-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679500858,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alice Signoroni",
+        "author_photo": "/images/reviews/signoroni-ag-wohlen-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774451182,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Amarusdrx",
+        "author_photo": "/images/reviews/signoroni-ag-wohlen-bei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664200338,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

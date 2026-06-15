@@ -1,7 +1,7 @@
 {
   "id": "ch-gWywaohReo4WblzBHkk5",
   "slug": "rhomberg-bau-gmbh-st-gallen",
-  "name": "Rhomberg Bau GmbH",
+  "name": "Rhomberg Bau AG",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJebST0Esem0cRZx6coZpJupA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 2.6,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Mevlyde Kosumi",
+        "author_photo": "/images/reviews/rhomberg-bau-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Diese Firma ist sehr höflich, solange man den Vertrag unterschreibt. Danach sieht man den Albtraum mit eigenen Augen. Man merkt sofort, wie unhöflich und nachlässig sie werden. Kein Kundenwunsch wird vollständig erfüllt. Alles wird von der Firma billig übernommen, die Preise setzen sie absolut unrealistisch.\nAlle Arbeiter stammen aus anderen Ländern, und auch der Bauleiter , der absolut keine Ahnung hatte, welche Standards in der Schweiz gelten. Jeder schiebt die Schuld auf den anderen, absolut unprofessionell.\nWer bei dieser Firma kauft, kann sich sehr sicher sein, dass er stark enttäuscht wird!",
+        "time": 1773542576,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Michael Strebel",
+        "author_photo": "/images/reviews/rhomberg-bau-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Sie sind gut darin, jegliche Verantwortung von sich zu weisen.\nBei schriftlichen Antworten schaffen sie (bzw. Der für unsere Überbauung zuständige Bauleiter) es jedoch nicht einmal, den korrekten Empfänger anzuschreiben (sondern einen Nachbarn).",
+        "time": 1750077122,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Bernhard Rock",
+        "author_photo": "/images/reviews/rhomberg-bau-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alles super geklappt, netter Kontakt",
+        "time": 1750246201,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Nico Froehlich",
+        "author_photo": "/images/reviews/rhomberg-bau-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Sehr entäuscht wie die Baustelle organisiert ist und wie aus Kleinikeiten grosse Probleme gemacht werden.",
+        "time": 1711527728,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Project VOOS",
+        "author_photo": "/images/reviews/rhomberg-bau-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Bauleiter W. Hat nur für Probleme gesorgt und keine Lösungen angeboten. Die Qualität unseres Neubaus ist miserabel. Alles bröckelt und nur minderwertige Produkte verbaut! Diese Firma ist absolut nicht zu empfehlen.",
+        "time": 1777703410,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

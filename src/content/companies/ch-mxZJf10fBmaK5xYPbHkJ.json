@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJwQmvhk4bm0cRl5y2QfT3z-s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 65,
+    "reviews": [
+      {
+        "author_name": "Varioplant AG pflegt und baut Gärten",
+        "author_photo": "/images/reviews/walo-bertschinger-ag-ostschweiz-goldach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nachhaltige Aufbereitung von Baustoffen in eindrücklicher Anlage - die Zukunft der ökologischen Kiesgewinnung hier in der Ostschweiz.",
+        "time": 1719033150,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alex Dornbierer",
+        "author_photo": "/images/reviews/walo-bertschinger-ag-ostschweiz-goldach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionelle Firma genaue Arbeit,  pünktlich und zuverlässig. Sehr angenehmer Umgang mit Mitarbeitern, Lieferanten und Partnern",
+        "time": 1648195056,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Daniel Schiltknecht",
+        "author_photo": "/images/reviews/walo-bertschinger-ag-ostschweiz-goldach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schon mehrere Male Kies Privat bestellt und geliefert bekommen .Immer sehr zuvorkommend und faire Preise",
+        "time": 1717699639,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Paul Gmür",
+        "author_photo": "/images/reviews/walo-bertschinger-ag-ostschweiz-goldach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bestens bis ins Detail durchorganisiert",
+        "time": 1677243758,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sarah B.",
+        "author_photo": "/images/reviews/walo-bertschinger-ag-ostschweiz-goldach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bau",
+        "time": 1770471721,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

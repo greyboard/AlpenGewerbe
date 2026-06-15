@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJTcIOWGMvjEcRQvyP9oOgJLM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 42,
+    "reviews": [
+      {
+        "author_name": "Telmo Xavier",
+        "author_photo": "/images/reviews/genin-carrelage-sarl-lausanne/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Fliesenlegerfirma! Herr Genin ist sehr professionell, und sein Team steht ihm in nichts nach. Sie haben den Zeitplan perfekt eingehalten, die Arbeit war akribisch, mit viel Liebe zum Detail und makelloser Präzision. Die Baustelle war bestens organisiert, die Kommunikation verlief reibungslos, und das Ergebnis hat alle Erwartungen übertroffen. Ein zuverlässiges und effizientes Unternehmen. Ich empfehle sie uneingeschränkt.",
+        "time": 1767567307,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Zara Jong",
+        "author_photo": "/images/reviews/genin-carrelage-sarl-lausanne/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein fantastisches Team! Wir haben unser Badezimmer mit großformatigen Fliesen renoviert und sind vom Ergebnis begeistert. Herr Genin empfahl uns, eine Nische einzubauen, und das macht wirklich einen großen Unterschied. Wir können diese Firma und ihre kompetente Beratung uneingeschränkt empfehlen!",
+        "time": 1771619802,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Christine Recordon",
+        "author_photo": "/images/reviews/genin-carrelage-sarl-lausanne/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Entreprise très sérieuse, devis très bien chiffré, respecte les délais, patron et employés très sympathiques.\nBravo et merci à toute l'équipe pour l'exécution très soignée du travail de rénovation de ma douche et sols WC.\nExcellente entreprise, je recommande vivement",
+        "time": 1760105533,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Henri Clavel",
+        "author_photo": "/images/reviews/genin-carrelage-sarl-lausanne/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein fantastisches Team! Aufmerksam, effizient und professionell. Ich kann Genin Carrelage für alle Arten von Fliesenarbeiten wärmstens empfehlen. Ich werde Ihre Dienste ganz sicher bald für ein weiteres Projekt wieder in Anspruch nehmen! Vielen Dank und bis bald!",
+        "time": 1768482341,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "_r__nails__",
+        "author_photo": "/images/reviews/genin-carrelage-sarl-lausanne/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe Genin Carrelage in Lausanne mit der Verlegung großformatiger Fliesen beauftragt.\n\nDas Ergebnis ist hervorragend, mit makellosen Oberflächen und sorgfältiger Ausführung.\n\nDas Team ist professionell, zuverlässig und arbeitet mit Leidenschaft. Ich kann Genin Carrelage für alle Ihre Renovierungs- und Fliesenprojekte wärmstens empfehlen!",
+        "time": 1762411099,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

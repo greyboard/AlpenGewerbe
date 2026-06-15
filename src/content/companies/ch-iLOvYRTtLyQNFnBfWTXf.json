@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJi0oh_mp_kEcRmanryB2eD1U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "martin haslebacher",
+        "author_photo": "/images/reviews/sonnenburg-gaertnerei-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Diese relativ kleine Gärtnerei hat ein riesiges Sortiment an Saisonpflanzen, Obst, Beeren, Blütenstauden, Ziersträuchern und Weihnachtsbäumen . Immer wieder endeckt man Neuheiten oder Raritäten. Vom Inhaber wird man sehr gut beraten.",
+        "time": 1598265674,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roland Hauser",
+        "author_photo": "/images/reviews/sonnenburg-gaertnerei-schaffhausen/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Die Gärtnerei hat einen grossen Bestand an Blumen, Kräutern, Beeren usw.\nZudem ist auf dem Areal der Gärtnerei ein Bienenlehrpfad eingerichtet. Da der Inhaber der Gärtnerei gleichzeitig als Imker tätig ist, werden Fragen sowohl zu Pflanzen als auch zu den Bienen geduldig und kompetent beantwortet.",
+        "time": 1495982850,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Heidi Seiler-Sommer",
+        "author_photo": "/images/reviews/sonnenburg-gaertnerei-schaffhausen/reviewer_3.jpg",
+        "rating": 2,
+        "text": "War heute das erste Mal da...werde diese Gärtnerei nicht mehr besuchen. Die Beratung hatte keine Ahnung und war sehr unfreundlich. Draussen war es so ungepflegt, so rutschig...hatte grosses Glück konnte ich mich noch halten, sonst hätte es recht getätscht. Ein Mitarbeiter, welcher am Wischen war hat sich noch höflich dafür entschuldigt. Schade...konnte somit meine Einkäufe dort nicht tätigen!",
+        "time": 1622112046,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Michael Elber",
+        "author_photo": "/images/reviews/sonnenburg-gaertnerei-schaffhausen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Sehr schöne Pflanzen, die in wunderbarer Umgebung angeboten werden. Leider hatte niemand so richtig Zeit für Beratung, was bei den gehobenen Preisen wünschenswert wäre.",
+        "time": 1619194171,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Michael Ritter",
+        "author_photo": "/images/reviews/sonnenburg-gaertnerei-schaffhausen/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Bisher gekauft: Weihnachtsbäume und Stroopwafel. Die Bäume sind kräftig, haben eine super Farbe und blieben lange frisch. Die Waffeln (für eine Gärtnerei eher untypisch) waren sehr lecker.",
+        "time": 1449575281,
+        "relative_time_description": "vor 10 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

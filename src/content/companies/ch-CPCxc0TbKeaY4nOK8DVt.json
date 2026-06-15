@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ16X36-5kUcR5EOvURmXCvI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Fabio Innocenti",
+        "author_photo": "/images/reviews/stieber-und-ehret-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Team und tolle Beratung! Kann es nur weiterempfehlen!!!",
+        "time": 1730886478,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcel Burghart",
+        "author_photo": "/images/reviews/stieber-und-ehret-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle \"Roadrage\" Prügelei :)",
+        "time": 1705404763,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "M B",
+        "author_photo": "/images/reviews/stieber-und-ehret-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schlagfertige Truppe :)",
+        "time": 1708724720,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yannik Jermann",
+        "author_photo": "/images/reviews/stieber-und-ehret-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1761211889,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "ameerdeen m.imtiaz",
+        "author_photo": "/images/reviews/stieber-und-ehret-ag-basel/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1743889576,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

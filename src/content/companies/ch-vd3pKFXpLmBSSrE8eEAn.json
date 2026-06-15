@@ -1,7 +1,7 @@
 {
   "id": "ch-vd3pKFXpLmBSSrE8eEAn",
   "slug": "tecnoservice-engineering-sa-fribourg",
-  "name": "Tecnoservice Engineering SA",
+  "name": "Tecnoservice Engineering S.A.",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,39 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJbX9dBypvjkcR1C11ibNPBz0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Thierry Anstett",
+        "author_photo": "/images/reviews/tecnoservice-engineering-sa-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1686327994,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gregory Favre",
+        "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocI5OQZFUFdXyStpppUHgqoDCah1tUz2OY3y-VMTtVj95RCkylU=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "text": "",
+        "time": 1523266932,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

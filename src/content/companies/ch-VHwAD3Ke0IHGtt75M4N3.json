@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJlVnh0WgTkEcRgOP43FDXYxA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "Cyril Weber",
+        "author_photo": "/images/reviews/diebold-zgraggen-gartenbau-ag-fislisbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Auftritt und die Kompetenz der Firma Diebold & Zraggen hat mich sehr überzeugt. Herr Suter hat sich seriös und gut vorbereitet und wir können deswegen gerne eine durchgehend positive Rückmeldung geben.",
+        "time": 1741850939,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Joah Lyonel Crettenand",
+        "author_photo": "/images/reviews/diebold-zgraggen-gartenbau-ag-fislisbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nette und zuvorkommende Lehrlinge z.b Severin Meier bravo!!!",
+        "time": 1773521579,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Gianpietro Cacioppo",
+        "author_photo": "/images/reviews/diebold-zgraggen-gartenbau-ag-fislisbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der ganze Umbau hat von der Beratung, der Planung und Umsetzung bestens geklappt und wir wurden jederzeit professionell und kundenorientiert beraten. Wir sind rundum sehr zufrieden mit dem Resultat. Vielen Dank an das ganze Team! Wir können das Unternehmen wärmstens weiterempfehlen!",
+        "time": 1638592034,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sue Haller",
+        "author_photo": "/images/reviews/diebold-zgraggen-gartenbau-ag-fislisbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top!! Effizient, unkompliziert, symphatisch und Sie machen wunderschöne Gartenarbeiten. Wir sind super happy, dass wir uns für diesen Gärtner entschieden haben. Vielen Dank liebes Diebold & Zgraggen Team.👍",
+        "time": 1684846904,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dominic",
+        "author_photo": "/images/reviews/diebold-zgraggen-gartenbau-ag-fislisbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sensationeller Service - von der Planung zur Ausführung und Nachbetreuung alles top! Empfehlen wir sehr gerne weiter!",
+        "time": 1625335152,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

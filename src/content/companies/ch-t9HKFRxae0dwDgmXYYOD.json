@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ57p2SNcfm0cR-uXoddfgqx8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: 09:00–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Christian Bürki",
+        "author_photo": "/images/reviews/hgc-wand-bodenbelaege-st-gallen-parkett-keramikplatten-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr schöne und grosse Auswahl, Top Beratung, nette und kompetente Mitarbeiter. Kann ich nur empfehlen.",
+        "time": 1767339053,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Christian Gross",
+        "author_photo": "/images/reviews/hgc-wand-bodenbelaege-st-gallen-parkett-keramikplatten-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Topp Beratung, hier wird man mit seinen Bedürfnissen wahrgenommen und kommt bei grosser Auswahl sicher zum Ziel.  Grosses Danke an Frau Wirth!",
+        "time": 1754738211,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Daniel Schneider",
+        "author_photo": "/images/reviews/hgc-wand-bodenbelaege-st-gallen-parkett-keramikplatten-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Danke für die kompetente, professionelle Betreuung, Frau Garcia. Nachdem wir unsere Vorstellungen und Ideen für unser neues Badezimmer erklärt haben wurden uns verschiedene Lösungen gezeigt. Es hat uns sehr geholfen, dass Sie uns alles gezeigt und ihre Ideen miteingebracht haben. Zudem kamen wir noch unangemeldet... Danke, dass sie sich trotzdem Zeit genommen haben. Daniel Schneider.",
+        "time": 1653490356,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Thomas Eggli",
+        "author_photo": "/images/reviews/hgc-wand-bodenbelaege-st-gallen-parkett-keramikplatten-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr nette und kompetente Beratung! Vielen Dank Frau Garcia!",
+        "time": 1664479567,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nadja Koch",
+        "author_photo": "/images/reviews/hgc-wand-bodenbelaege-st-gallen-parkett-keramikplatten-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super freundlich und kompetent beraten, obwohl unser Besuch spontan und ohne Termin erfolgte.",
+        "time": 1667989657,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

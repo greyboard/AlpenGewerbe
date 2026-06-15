@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJcz96yiNOhUcRSy-tBS0O-XY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Marc Herger",
+        "author_photo": "/images/reviews/elektro-horat-ag-seewen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Preis-Leistungsverhältnis, gepaart mit jahrelanger Erfahrung und netten, flexiblen Mitarbeitern.\nNur zu empfehlen",
+        "time": 1767045262,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Mirella Nigro",
+        "author_photo": "/images/reviews/elektro-horat-ag-seewen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Preis Leistungs Verhältnis Top! Sehr kompetent, hilfsbereit und freundlich. Mein Internet Problem trotz Verkabelungen schnell gelöst! Super Service. Würde ich jedem empfehlen :-)",
+        "time": 1617965191,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stoosbahnen AG",
+        "author_photo": "/images/reviews/elektro-horat-ag-seewen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Service Arbeiten bei der Talstation der neuen Stoosbahn.\nSehr zuverlässige Mitarbeiter mit grossem Fachwissen und Begeisterung für den Beruf. Arbeiten wurden mit vollster Zufriedenheit erledigt",
+        "time": 1594658626,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "IDEOS Paddos",
+        "author_photo": "/images/reviews/elektro-horat-ag-seewen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "freundlich, schnell und kompetent - so geht kundenservice. sollte ich wieder einen elektriker benötigen, weiss ich wo anfragen.",
+        "time": 1739452999,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Johannes Henninger",
+        "author_photo": "/images/reviews/elektro-horat-ag-seewen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Notfall Einsatz am Sonntag vom Lukas, somit haben wir wieder warm Wasser und kochen können wir auch wieder 👍\nNur zu empfehlen, sehr nett und kompetent.\n\nMercy vielmals",
+        "time": 1660466757,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGT25j3armkcReUIVIl4BFgE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:30–17:30 Uhr",
+    "Dienstag: 06:30–17:30 Uhr",
+    "Mittwoch: 06:30–17:00 Uhr",
+    "Donnerstag: 06:30–17:30 Uhr",
+    "Freitag: 06:30–17:30 Uhr",
+    "Samstag: 06:30–17:30 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "maike martins afonso",
+        "author_photo": "/images/reviews/evo-gipsergeschaeft-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Abwicklung, gerne wieder! 👌🏼",
+        "time": 1776696512,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Andreas Bachmann",
+        "author_photo": "/images/reviews/evo-gipsergeschaeft-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bestens zufrieden, gute Konditionen, Sehr zuvorkommend sowie freundlich, und Professionel!",
+        "time": 1776706017,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Eli P",
+        "author_photo": "/images/reviews/evo-gipsergeschaeft-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776707246,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Sandro Junker",
+        "author_photo": "/images/reviews/evo-gipsergeschaeft-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776707221,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Name",
+        "author_photo": "/images/reviews/evo-gipsergeschaeft-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776707199,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

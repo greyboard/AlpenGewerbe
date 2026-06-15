@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7acu9AG5kUcRcSCaOc-Y6t4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Oliver",
+        "author_photo": "/images/reviews/t-p-haustechnik-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr glücklich mit der Arbeit, die Herr Topalovic und das Team von T & P Haustechnik GmbH für mich erledigt haben. Sie sind wirklich professionell und ich kann nicht genug betonen, was für ein grossartiger Job sie gemacht haben. Besonders hervorzuheben ist die Professionalität von Herrn Topalovic – er war in jeder Weise hilfsbereit und hat immer alles getan, um mir zu helfen. Er ging über meine Erwartungen hinaus. Ich rate Ihnen wärmstens, diese Firma aufzusuchen und ihre Dienste in Anspruch zu nehmen – Sie werden es nicht bereuen.",
+        "time": 1685089314,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Séverine Küpfer",
+        "author_photo": "/images/reviews/t-p-haustechnik-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionelle Beratung und Projektleitung, zuverlässig, effizientes Arbeiten. Wir haben im Haus alle Wasserleitungen und sanitären Anlagen sowie Armaturen mit T&P Haustechnik erneuert und empfehlen sie gerne weiter. Danke!",
+        "time": 1630958453,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "maurizio magnani",
+        "author_photo": "/images/reviews/t-p-haustechnik-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Es wird warm man möchte gerne duschen aber Sie läuft nicht ab.\nHier wird einem schnell unkompliziert auch zu später stunde geholfen.\nFreundliches Team und faire Preise.\n\nIch kann t & p nur weiter empfehlen",
+        "time": 1686073322,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Angelo Sassone",
+        "author_photo": "/images/reviews/t-p-haustechnik-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1660133583,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alen Ibrahim",
+        "author_photo": "/images/reviews/t-p-haustechnik-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1658779929,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

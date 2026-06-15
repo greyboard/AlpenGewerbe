@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJOapz4GLsmkcRDdcyg_EQ29E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 12:45–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Nina Züllig",
+        "author_photo": "/images/reviews/fmt-metallbau-ag-bettwiesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir schätzen die Zusammenarbeit mit Lukas Etter und seinem Team sehr. Die Firma ist professionell aufgestellt und trotzdem geht der persönliche Touch nicht verloren. Wir freuen uns auf viele weitere gemeinsame Projekte mit FMT Metallbau.",
+        "time": 1746025946,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jastin Glaus",
+        "author_photo": "/images/reviews/fmt-metallbau-ag-bettwiesen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekte Arbeit. Sehr freundliche Monteure und Termingerechte Fertigstellung.\nVielen Dank für euren Einsatz, unsere Schaufensterfront sieht super aus. Die arbeiten sind dank eurem Einsatz noch früher fertig geworden als geplant.\nImmer wieder gerne.",
+        "time": 1690471204,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jass Sara",
+        "author_photo": "/images/reviews/fmt-metallbau-ag-bettwiesen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die FMT hat bei uns in Aadorf ein Vordach montiert und ich bin sehr zufrieden mit der Arbeit. Das Personal war sehr freundlich. Sie haben sehr sauber gearbeitet.",
+        "time": 1687781331,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Suche Immer",
+        "author_photo": "/images/reviews/fmt-metallbau-ag-bettwiesen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "So was habe ich noch nie erlebt geht es nicht nach seinem Kopf wird man überal verleugnet",
+        "time": 1686076807,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sebastian Etter",
+        "author_photo": "/images/reviews/fmt-metallbau-ag-bettwiesen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Spitze!",
+        "time": 1532032766,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

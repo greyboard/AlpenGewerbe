@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVVWBc9YQkEcROhklom1e4C8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Riza Kenan",
+        "author_photo": "/images/reviews/robert-bedachungen-gmbh-villmergen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bin wirklich sehr zufrieden mit der Arbeit von Robert Bedachung. Vom ersten Kontakt bis zum Abschluss lief alles reibungslos. Das Team arbeitet sauber, zuverlässig und weiss genau, was es macht. Auch auf spontane Wünsche wurde ohne Probleme eingegangen. Das Ergebnis ist top – man sieht, dass hier mit Erfahrung und Sorgfalt gearbeitet wird. Preis-Leistung stimmt absolut. Kann ich mit gutem Gewissen weiterempfehlen.",
+        "time": 1762883334,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "musli reshani",
+        "author_photo": "/images/reviews/robert-bedachungen-gmbh-villmergen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit Robert Bedachung! Die Arbeit wurde schnell, sauber und völlig unkompliziert erledigt – von der Offerte bis zur Ausführung war alles top. Preis-Leistung stimmt absolut, und auch die Kommunikation war immer freundlich und zuverlässig. In der Umgebung gibt es wirklich niemanden, der da mithalten kann. Ich kann Robert Bedachung nur weiterempfehlen!",
+        "time": 1762883212,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Niki Frrokaj",
+        "author_photo": "/images/reviews/robert-bedachungen-gmbh-villmergen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma hatte den Auftrag unser Flachdach zu sanieren. Wir sind sehr zufrieden. Von der Anfrage bis zur Umsetzung hat alles gestimmt. Preis-Leistung stimmt zu 100%. Vielen Dank für die Arbeit!",
+        "time": 1766694757,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Florijan Alija",
+        "author_photo": "/images/reviews/robert-bedachungen-gmbh-villmergen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit von der Robert Bedachungen GmbH!\nIch bin wirklich sehr zufrieden – alles wurde sauber, zuverlässig und professionell gemacht. Das Team war freundlich, pünktlich und hat super Arbeit geleistet. Kann ich nur weiterempfehlen!",
+        "time": 1762880980,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Lars",
+        "author_photo": "/images/reviews/robert-bedachungen-gmbh-villmergen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe mein komplettes Dach renovieren lassen, sehr freundliche und saubere Mitarbeiter. Super Beratung ich bin total zufrieden 10/10 sehr empfehlenswert.",
+        "time": 1762529232,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

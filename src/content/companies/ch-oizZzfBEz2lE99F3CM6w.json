@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJY43fR7ynmkcRfyE0nntjvg8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Simone Jeger",
+        "author_photo": "/images/reviews/city-electro-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sofortiger Notfall-Support bei Stromausfall ausserhalb der Geschäftsöffnungszeiten. Der direkte Telefonkontakt war sehr kompetent, unkompliziert und lösungsorientiert. Sehr zu empfehlen!",
+        "time": 1779823574,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "M P",
+        "author_photo": "/images/reviews/city-electro-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Am Sonntag hatten wir einen Notfall: Die Herdplatte funktionierte plötzlich nicht mehr, und dazu fiel im halben Haus der Strom aus. Herr Vata von City Electro war der Einzige, der ans Telefon ging und uns mit freundlichen und kompetenten Tipps weiterhalf. Er rief sogar noch einmal zurück, um sicherzugehen, dass alles wieder funktioniert. Preis: vollkommen kostenlos. Vielen herzlichen Dank!",
+        "time": 1739128375,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simon Templar",
+        "author_photo": "/images/reviews/city-electro-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die kompetente und umsichtige Beratung von Herrn Vata ist grossartig. Arbeiten werden professionell und lösungsorientiert ausgeführt, wobei die Kosten immer im Auge behalten werden. Ganz nach dem Grundsatz: So viel wie nötig, so wenig wie möglich. City Electro kann ich nur empfehlen.",
+        "time": 1714199499,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Claudia Steinmann",
+        "author_photo": "/images/reviews/city-electro-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Vata hat uns im Gegensatz zu anderen Unternehmen eine kostengünstige Alternative vorgeschlagen und die Arbeiten zu unserer vollsten Zufriedenheit erledigt. Sehr fair im Preis, professionelle Erledigung. Einfach top. Jederzeit gerne wieder.",
+        "time": 1684763027,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Steffi Monn",
+        "author_photo": "/images/reviews/city-electro-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Elektriker! Saubere Arbeit, pünktlich und freundlich. Jederzeit wieder.",
+        "time": 1762333054,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

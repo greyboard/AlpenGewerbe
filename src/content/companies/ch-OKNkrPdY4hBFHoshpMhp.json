@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq6rq9NNRhUcR3QCvzwqtaJ0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:00 Uhr",
+    "Dienstag: 07:00–16:00 Uhr",
+    "Mittwoch: 07:00–16:00 Uhr",
+    "Donnerstag: 07:00–16:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Enzo Palmieri",
+        "author_photo": "/images/reviews/malergeschaeft-merenda-gmbh-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden. Die Beratung war ehrlich und kompetent, Termine wurden zuverlässig eingehalten und die Arbeiten sehr sauber und sorgfältig ausgeführt. Auch bei unseren Fragen und Abklärungen hat man sich Zeit genommen und alles fachmännisch erklärt. Insgesamt eine sehr angenehme Zusammenarbeit",
+        "time": 1772903427,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Fabio Camenzind",
+        "author_photo": "/images/reviews/malergeschaeft-merenda-gmbh-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung, Top Ausführung, Top Preis.",
+        "time": 1724748101,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Renato Bacchi",
+        "author_photo": "/images/reviews/malergeschaeft-merenda-gmbh-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1599824215,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Imelda Zaalberg",
+        "author_photo": "/images/reviews/malergeschaeft-merenda-gmbh-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1734598146,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Samuel Rickenbacher",
+        "author_photo": "/images/reviews/malergeschaeft-merenda-gmbh-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732773609,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

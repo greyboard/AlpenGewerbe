@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4xHVgVPkj0cR97fovp_ZWq4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Oli",
+        "author_photo": "/images/reviews/tantec-gmbh-metallbau-glasbau-tortechnik-malters/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Junges motiviertes Team das innert kürzester Zeit eine hervorragende Arbeit geleistet hat. Das ausgeschriebene Ganzglasgeländer und das zusätzlich beauftragte Garagen-Sektionaltor haben unsere Erwartungen überfüllt. Vielen Dank und gerne wieder.",
+        "time": 1557215632,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Arsim Mehmeti",
+        "author_photo": "/images/reviews/tantec-gmbh-metallbau-glasbau-tortechnik-malters/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein grosses Kompliment an die Tantec GmbH. Sie habe hochprofessionelle Arbeiten geleistet. Die Qualität und das Preis-Leistungsverhältnis hat unsere Erwartungen übertroffen. Danke.",
+        "time": 1576943239,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "marjakaj valentin",
+        "author_photo": "/images/reviews/tantec-gmbh-metallbau-glasbau-tortechnik-malters/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Danke für die perfekti Arbeit, bin mega zfride und chani eifach nur witer empfehle",
+        "time": 1589008913,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Shefkije Idrizi",
+        "author_photo": "/images/reviews/tantec-gmbh-metallbau-glasbau-tortechnik-malters/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1641996439,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Igor P.",
+        "author_photo": "/images/reviews/tantec-gmbh-metallbau-glasbau-tortechnik-malters/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1589880670,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

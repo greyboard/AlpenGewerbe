@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJI0t4tBQthUcRGKWspzVYU14",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Johanna Berger",
+        "author_photo": "/images/reviews/gruen-schindler-gmbh-gartenplanung-gartenbau-gartenpflege-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit seinem Leitsatz:,, Grün Schindler verwandelt Ihren Garten in einen Traumgarten\" wurde unsere Neugier geweckt. Aus unserer Idee erarbeitete Peter Schindler eine Handskizze, eine ,,Visualisierung\" unserer Idee, mit der er uns für sich gewinnen konnte. Mit seinem Fachwissen, seiner Professionalität, Freundlichkeit und Liebe zu seinem Handwerk, entstand ein Mehrwert für unseren Garten. Etwas ganz Bezauberndes\nUnser (Partnerschaftsecken). Herzlichen Dank",
+        "time": 1687122210,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Martin Baumgartner",
+        "author_photo": "/images/reviews/gruen-schindler-gmbh-gartenplanung-gartenbau-gartenpflege-netstal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Gartenplanung bis zur Umsetzung Top Arbeit.\nSauber und schnelle Umsetzung der Ideen.\nVielen Dank für die tolle Arbeit!",
+        "time": 1577372991,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jacob van Seijen",
+        "author_photo": "/images/reviews/gruen-schindler-gmbh-gartenplanung-gartenbau-gartenpflege-netstal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind begeistert! Sehr zuvorkommend, professionell und äusserst kompetent. Sauber und fachmännisch.",
+        "time": 1557697275,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Stefanie Schmidt",
+        "author_photo": "/images/reviews/gruen-schindler-gmbh-gartenplanung-gartenbau-gartenpflege-netstal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr pünktlich, professionell und freundlich.\nSuper Preis-Leistungsverhältnis.",
+        "time": 1679836260,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christian Schindler",
+        "author_photo": "/images/reviews/gruen-schindler-gmbh-gartenplanung-gartenbau-gartenpflege-netstal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mit Grün Schindler fanden wir einen kompetenten Fachmann für unseren Garten.",
+        "time": 1570301356,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

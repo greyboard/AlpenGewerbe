@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJA8i0aeO4kUcRWYXowDkGia4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Melanie Meier",
+        "author_photo": "/images/reviews/reber-kundenschreinerei-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Paul Peter ist der kompetenteste Handwerker den wir jemals hatten.\nEr hat ein breites Wissen, sehr viel Erfahrung und ist sehr bemüht sowie engagiert.\nAlles wurde bestens behoben und repariert.\nVielen lieben Dank",
+        "time": 1755693003,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Faruk Doganci",
+        "author_photo": "/images/reviews/reber-kundenschreinerei-gmbh-basel/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Ein Sofa-Bein wurde repariert, mit dessen Endergebnis wir zufrieden sind, jedoch nicht mit der Kommunikation und dem Preis. Leider wurde auf Anfrage im Voraus kein Preis genannt, bzw. keine Offerte gemacht. Der Schreiner hat sogleich die Ärmel hochgekrempelt und den 10 x 10 cm Holzstück quer-gesägt, verleimt und mit einer Schraube am Gerüst befestigt. Die Rechnung kam ca. ein Jahr später, ohne einen Preis vorher abgestimmt zu haben. Auf das Telefonat im Nachgang will ich gar nicht eingehen...\n\nSchade, solche Betriebe müssen lernen fair zu handeln und ihr Temperament nicht zu verlieren, insbesondere nicht gegenüber einer jungen Familie.",
+        "time": 1547486775,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

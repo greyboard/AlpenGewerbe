@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsQ1r6IPchEcRU3KXGLOGJnI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–16:30 Uhr",
+    "Dienstag: 08:00–16:30 Uhr",
+    "Mittwoch: 08:00–16:30 Uhr",
+    "Donnerstag: 08:00–16:30 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Peter Beusch",
+        "author_photo": "/images/reviews/maler-hardegger-gmbh-flims/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ist zu Empfehlen",
+        "time": 1543353128,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Michael Eggenberger",
+        "author_photo": "/images/reviews/maler-hardegger-gmbh-flims/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Malerfirms in Flims💪🏻",
+        "time": 1643088009,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Richard Osullivan",
+        "author_photo": "/images/reviews/maler-hardegger-gmbh-flims/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service. Rundum wertvoll und gute Beratung. Danke",
+        "time": 1692900139,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Aldo Belloni",
+        "author_photo": "/images/reviews/maler-hardegger-gmbh-flims/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1680989346,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Paul Racu",
+        "author_photo": "/images/reviews/maler-hardegger-gmbh-flims/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1604172204,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

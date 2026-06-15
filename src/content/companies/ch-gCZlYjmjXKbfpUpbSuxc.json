@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVdz9rU5vjkcRBv_Mz0aOqik",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Guillaume Pierroz",
+        "author_photo": "/images/reviews/voltis-energies-sarl-villars-sur-glane/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann sie wärmstens empfehlen! Das Team zeichnet sich durch seine Reaktionsschnelligkeit, Erreichbarkeit und die tadellose Arbeitsqualität bis ins kleinste Detail aus. Das Preis-Leistungs-Verhältnis ist einfach hervorragend.",
+        "time": 1757604256,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Catherine Berset",
+        "author_photo": "/images/reviews/voltis-energies-sarl-villars-sur-glane/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Je ne peux pas adhérer aux avis précédents, surtout en ce qui concerne la réactivité. Cela fait plus d'un mois que nous attendons la pose de spots (déjà payés), et personne ne bouge. Pas même une explication. Navrant et pas très pro. Et aucun appel manqué venant de Voltis Energies. Mais appel reçu de votre part juste après avoir publié cet avis. Bizarre non ?",
+        "time": 1773658369,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Syler Jiuus",
+        "author_photo": "/images/reviews/voltis-energies-sarl-villars-sur-glane/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Diese Firma sollte man unbedingt meiden!\n\nSie haben vergessen, Hausbesuche zu vereinbaren.\n\nIn einer Siedlung mit mehr als sieben Häusern haben sie die gesamte Verkabelung zwischen den Wandthermostatventilen und der Heizungsanlage vertauscht, obwohl die Heizungsfirma die Räume korrekt zugeordnet hatte!\n\nSie haben eines der beiden Wandthermostatventile im Wintermodus installiert, wodurch es funktionsunfähig wurde.\n\nNachdem sie ein Rohr im Dachboden verlegt hatten, hinterließen sie ein Chaos aus Schmutz und Bauschutt.\n\nWir mussten zurückkommen, weil sie keine Dachbodenbeleuchtung installiert hatten.\n\nIch kann diese Firma nicht empfehlen.\n\nSehr schlechte Problemlösungskompetenz.",
+        "time": 1753085519,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Mickael Humbert",
+        "author_photo": "/images/reviews/voltis-energies-sarl-villars-sur-glane/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Erfahrung mit einem zuverlässigen und kundenorientierten Unternehmen",
+        "time": 1750274787,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Norma",
+        "author_photo": "/images/reviews/voltis-energies-sarl-villars-sur-glane/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service zu erschwinglichen Preisen",
+        "time": 1764234873,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

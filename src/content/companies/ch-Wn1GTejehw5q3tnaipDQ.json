@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJjdczC4wAkEcRwyOKEZBTS9E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Yves Hörler",
+        "author_photo": "/images/reviews/diesuters-schreinerei-von-sandra-und-thomas-suter-cham-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ehrliches Schreinerhandwerk aus Meisters Hand. Wir sind begeistert über unseren Einbauschrank und möchten die Arbeit wärmstens weiter empfehlen.",
+        "time": 1616609015,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Noah",
+        "author_photo": "/images/reviews/diesuters-schreinerei-von-sandra-und-thomas-suter-cham-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Beste Schreinerei im ganzen Kanton! Super Freundlich & rasche/saubere Ausführung",
+        "time": 1604252733,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "A. Pascal Di Chiara",
+        "author_photo": "/images/reviews/diesuters-schreinerei-von-sandra-und-thomas-suter-cham-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1634587576,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

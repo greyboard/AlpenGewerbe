@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJcx49wbC5kUcRgXObOlWP2eo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Edona Iseni",
+        "author_photo": "/images/reviews/kiefer-co-gmbh-riehen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein wunderbarer Familienbetrieb, den ich von Herzen weiterempfehlen kann. Man spürt sofort die persönliche Betreuung, die Herzlichkeit und das Engagement der ganzen Familie. Vom ersten Gespräch bis zur Ausführung der Arbeiten verlief alles professionell, zuverlässig und freundlich. Die Qualität der Arbeit ist hervorragend, und auf individuelle Wünsche wurde stets eingegangen. Es ist schön zu sehen, mit wie viel Leidenschaft und Sorgfalt hier gearbeitet wird. Vielen Dank für den ausgezeichneten Service. Ich bin rundum zufrieden !",
+        "time": 1780737706,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Gjergj Vokraj",
+        "author_photo": "/images/reviews/kiefer-co-gmbh-riehen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Erfahrung von Anfang bis Ende. Sehr freundliches Personal, schnelle Terminvereinbarung und klare Kommunikation. Die Atmosphäre ist angenehm und sauber. Die Dienstleistungen wurden professionell erklärt und hervorragend umgesetzt. Bin rundum zufrieden und komme definitiv wieder. Klare Empfehlung!👏",
+        "time": 1770151189,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Musa Bektesi",
+        "author_photo": "/images/reviews/kiefer-co-gmbh-riehen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige Glaserei! Saubere und präzise Arbeit, termingerecht ausgeführt. Freundliche Beratung und faire Preise. Absolut empfehlenswert!",
+        "time": 1770127820,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Engin Subasi",
+        "author_photo": "/images/reviews/kiefer-co-gmbh-riehen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiger Betrieb, schnelle Reaktion und guter Service. Klare Empfehlung.",
+        "time": 1770137542,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Ahmet Jakupi",
+        "author_photo": "/images/reviews/kiefer-co-gmbh-riehen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service, freundlich und hervorragende Arbeit\nEmpfehlenswert auf jeden Fall",
+        "time": 1770141536,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

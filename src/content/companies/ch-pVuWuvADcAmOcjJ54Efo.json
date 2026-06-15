@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJLzJyrzfyj0cRNc-yClMAJ2U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Aliy Hussein",
+        "author_photo": "/images/reviews/wolfisberg-metallbau-ag-sarnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich liebe den Ort, weil meine Brüder dort wohnen.",
+        "time": 1535738681,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Raffaele Bortolas",
+        "author_photo": "/images/reviews/wolfisberg-metallbau-ag-sarnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1625583746,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sonny Colledani",
+        "author_photo": "/images/reviews/wolfisberg-metallbau-ag-sarnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623996285,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Cresta Andrin",
+        "author_photo": "/images/reviews/wolfisberg-metallbau-ag-sarnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1594653445,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Silvan Rohrer",
+        "author_photo": "/images/reviews/wolfisberg-metallbau-ag-sarnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1452623297,
+        "relative_time_description": "vor 10 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ70iV6WDgmkcROwJ90D6PyyA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Sven Thäle",
+        "author_photo": "/images/reviews/tecton-ag-st-gallen-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Meine Einfahrung war der Chef sehr nett die Mitarbeiter sehr Hilfsbereit und ansonsten hat auch alles gepasst! Wieder gerne 💯💪",
+        "time": 1724273712,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kurt H",
+        "author_photo": "/images/reviews/tecton-ag-st-gallen-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sympathische Beratung und Fachkompetenz zeichnen dieses  Unternehmen aus. Gerne wieder mal.",
+        "time": 1583921638,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "P. S.",
+        "author_photo": "/images/reviews/tecton-ag-st-gallen-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnelle Rückmeldungen und gute Berichte",
+        "time": 1662286176,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "J",
+        "author_photo": "/images/reviews/tecton-ag-st-gallen-st-gallen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1702501102,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "peter Mravec",
+        "author_photo": "/images/reviews/tecton-ag-st-gallen-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637170476,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

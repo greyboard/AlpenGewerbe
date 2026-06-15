@@ -1,7 +1,7 @@
 {
   "id": "ch-6P0jvQJRELySB22NxzXw",
   "slug": "proplaettli-weinfelden",
-  "name": "ProPlaettli",
+  "name": "proplättli",
   "branchen": [
     "fliesenleger"
   ],
@@ -26,5 +26,55 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJk6OES0TwmkcRgGNtXOVWMI8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Kathrin Freimann",
+        "author_photo": "/images/reviews/proplaettli-weinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Wasserschaden und die Firma welche wir zuerst kontaktiert hatten, haben leider unzureichende Arbeit geleistet. In der Not sind wir über eine Empfehlung an Herrn Thorsten Schmaler, Geschäftsführer von pro plättli, herangetreten. Er übernahm unsere bestehende Baustelle, welche im absoluten Chaos von den vorherigen Handwerkern zurückgelassen wurde. Er arbeitet mit seinem Team Hand in Hand, sie sind freundlich, fair, zuvorkommend und leisten tolle Arbeit. Dies ist noch echtes Handwerk!! Wir bedanken uns recht herzlich für unser wunderschönes neues Badezimmer.",
+        "time": 1585315954,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "jub jub",
+        "author_photo": "/images/reviews/proplaettli-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Auf Empfehlung haben wir die Firma ProPlättli zum verlegen eines neuen Bodens im ganzen Haus engagiert. Parkett raus und neuer Steinboden rein. Hat alles einwandfrei geklappt - und alles tiptop in der Zeit. Wir empfehlen die Firma ProPlättli auf jeden Fall weiter!",
+        "time": 1631103669,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Larissa Wild",
+        "author_photo": "/images/reviews/proplaettli-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "sehr unkompliziert und schnell bei Anfragen, sehr freundlich, top Arbeit! sehr zu empfehlen!",
+        "time": 1699535588,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sascha T",
+        "author_photo": "/images/reviews/proplaettli-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Arbeit! Schnell und effizient. Gerne wieder.",
+        "time": 1724179454,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

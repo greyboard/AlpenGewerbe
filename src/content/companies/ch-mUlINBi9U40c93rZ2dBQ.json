@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJU6MKjoG5kUcR9N6SStP1V_w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Pascal Miller",
+        "author_photo": "/images/reviews/arllati-all-montage-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher und professioneller Schlüsseldienst. Er war schnell da und hat die Tür schadenlos geöffnet und mich super beraten und beruhigt. Meine Kinder waren in der Wohnung eingeschlossen, zum Glück hat alles so gut geklappt. Vielen vielen dank",
+        "time": 1777843241,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Florian Rosenkranz",
+        "author_photo": "/images/reviews/arllati-all-montage-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der beste und zuverlässigste Schreiner aus Basel. Bin seit über 5 Jahren Stammkunde bei Arllati, er wechselt bei mir immer wieder Brandschutztüren und Zimmertüren bei meinen Immobilien die ich verwalte.",
+        "time": 1778139472,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Rene Schnell",
+        "author_photo": "/images/reviews/arllati-all-montage-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Perfekte Arbeit, versteht sein Handwerk, sehr flexibel, hat mir bis 2.00 Uhr Morgens wegen Riegelbruch neues Schloss und Schliessvorrichtung eingebaut. Sehr fairer Preis und gute Reparaturen. Gerne wieder und vielen herzlichen Dank. René Schnell",
+        "time": 1724309213,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yung Sinatra",
+        "author_photo": "/images/reviews/arllati-all-montage-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich war äußerst zufrieden mit dem Service des Schlüsseldienstes. Die Ankunft war schnell, die Arbeit professionell und der Preis fair. Der Techniker war freundlich und kompetent und hat das Problem in kürzester Zeit gelöst. Ich kann diesen Schlüsseldienst wärmstens empfehlen!",
+        "time": 1723059309,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marinette Grolimund",
+        "author_photo": "/images/reviews/arllati-all-montage-basel/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Finger weg von dieser Firma! Vor einem Jahr haben wir eine Haustüre bestellt und wurden immer wieder mit leeren Versprechungen vertröstet und hingehalten. Als wir uns direkt beim Lieferanten erkundigt haben, kam aus, dass die Türe gar nicht bestellt worden war... Nun suchen wir einen neuen seriösen Lieferanten, der hält, was er verspricht.",
+        "time": 1699884841,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,55 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTZDhKmX7j0cRt1vsU8IqtJY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 09:00–15:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Nicole",
+        "author_photo": "/images/reviews/alpen-dach-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professioneller und zuverlässiger Service, die Arbeiten wurden sauber und termingerecht ausgeführt und die Beratung war kompetent. Vielen Dank!",
+        "time": 1777118053,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "A N",
+        "author_photo": "/images/reviews/alpen-dach-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Betrieb! Top Qualität, äußerst zuverlässig und sehr professionell. Das Team war freundlich, schnell und hat perfekte Arbeit geleistet. Absolut empfehlenswert!",
+        "time": 1778011531,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Nuhi Kercova",
+        "author_photo": "/images/reviews/alpen-dach-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, zuverlässig und professionell. Sehr empfehlenswert!",
+        "time": 1777019534,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Grimmwolf",
+        "author_photo": "/images/reviews/alpen-dach-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden mit der Arbeit dieses sympathischen Dachdeckers. Er war immer kollegial und sehr zuverlässig im Umgang. Die Arbeiten wurden fleißig und mit großer Sorgfalt ausgeführt. Besonders beeindruckt hat mich die hohe Qualität des Ergebnisses. Ich kann ihn uneingeschränkt weiterempfehlen.",
+        "time": 1777016169,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

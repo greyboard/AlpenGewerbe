@@ -26,5 +26,55 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6R_PYdpkjEcRxl2z7p-_Trk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Alex Montanini",
+        "author_photo": "/images/reviews/ak-chauffage-genf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Effizient, freundlich und immer schnell erreichbar.\nAbsolut empfehlenswert 👌",
+        "time": 1763997265,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Garage Living Racing",
+        "author_photo": "/images/reviews/ak-chauffage-genf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit zu einem fairen Preis, Termine wurden eingehalten, wir empfehlen sie!",
+        "time": 1753681851,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Loris Caggiula",
+        "author_photo": "/images/reviews/ak-chauffage-genf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exzellenter und aufmerksamer Service. Sehr empfehlenswert.",
+        "time": 1559471451,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "sugus20000",
+        "author_photo": "/images/reviews/ak-chauffage-genf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und freundlich",
+        "time": 1577610033,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

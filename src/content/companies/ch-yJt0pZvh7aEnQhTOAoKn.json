@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJi2v319kfm0cR3mNElQbNZM8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Marijke Kamber",
+        "author_photo": "/images/reviews/palatini-ag-malergeschaeft-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Haben sehr gute Arbeit geleistet👍🏻. Die Malermeisterin verfügt über eine sehr gute Fachkompetenz und ist sehr freundlich. Die Firma Palatini ist sehr empfehlenswert👌",
+        "time": 1547205002,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Sakura Sakura",
+        "author_photo": "/images/reviews/palatini-ag-malergeschaeft-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute und schnelle Ausführung und beste Qualität. Fachmännische und sympathische Beratung, gerne immer wieder, sehr zu empfehlen.",
+        "time": 1667914395,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Diego Forlan",
+        "author_photo": "/images/reviews/palatini-ag-malergeschaeft-st-gallen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Unfreundlicher Kontakt, der Herr Palatini lässt sich nicht blicken, kein Kundenkontakt ! und die Vorarbeiterin ist unfreundlich und meiner meinung nach nicht ganz normal, mit dem umgang mit denn Mitarbeitern",
+        "time": 1526803195,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Christoph Richner",
+        "author_photo": "/images/reviews/palatini-ag-malergeschaeft-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Betrieb, sehr freundlich und zuverlässig, sehr genaue Arbeit, gute Preise, immer wieder gerne...",
+        "time": 1549467056,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Fritz Büchel",
+        "author_photo": "/images/reviews/palatini-ag-malergeschaeft-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service! Freundliche Mitarbeiter!",
+        "time": 1547140146,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

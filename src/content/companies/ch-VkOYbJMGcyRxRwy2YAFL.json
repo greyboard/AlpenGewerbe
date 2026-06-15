@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJvXii9smRhEcR8bwyeErjwFI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Ingo R.",
+        "author_photo": "/images/reviews/cavegn-ag-savognin/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben neue Heizkörper einbauen lassen. Top Beratung im Vorfeld und erstklassiges Ergebnis! Alle Arbeiten wurde sehr zuverlässig und schnell ausgeführt, eine klare Empfehlung für Savognin GR und Umgebung 👍",
+        "time": 1736842828,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ruth Welti",
+        "author_photo": "/images/reviews/cavegn-ag-savognin/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnelle und professionelle Erledigung unseres Problems mit der Bodenheizung vor 3 Monaten und jetzt auch mit einem defekten Wasserhahn in der Küche.",
+        "time": 1708532061,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "erwin sievi",
+        "author_photo": "/images/reviews/cavegn-ag-savognin/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer wieder",
+        "time": 1743922983,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexander Cadotsch",
+        "author_photo": "/images/reviews/cavegn-ag-savognin/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit",
+        "time": 1667157744,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roberto Guetg",
+        "author_photo": "/images/reviews/cavegn-ag-savognin/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753549466,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

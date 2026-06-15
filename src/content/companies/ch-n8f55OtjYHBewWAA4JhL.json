@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxSG0XkVpj0cRMykdbsXXOeA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Kevin Schwestermann",
+        "author_photo": "/images/reviews/malerei-und-gipserei-brigger-ag-gamsen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit der Brigger AG!\nDie Beratung durch Mattia Brigger war hervorragend – freundlich, kompetent und sehr professionell. Die Ausführung war top, sauber und termingerecht. Besonders möchte ich Vito hervorheben: sehr sympathisch, freundlich und fachlich äußerst kompetent.\nUnsere komplette Fassade wurde gedämmt und neu verputzt, und das Ergebnis ist einfach perfekt. Ich kann die Brigger AG nur wärmstens weiterempfehlen – hier stimmt wirklich alles, von der Beratung bis zur Umsetzung!",
+        "time": 1770112741,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Thomas Walter",
+        "author_photo": "/images/reviews/malerei-und-gipserei-brigger-ag-gamsen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Fassade unseres Gebäudes wurde perfekt erneuert. Top Qualität. Herzlichen Dank.",
+        "time": 1770358895,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "edwin hildbrand ag",
+        "author_photo": "/images/reviews/malerei-und-gipserei-brigger-ag-gamsen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "die brigger ag überzeugt mit qualität, zuverlässigkeit und sorgfalt.\nwir bedanken uns für eine fach- und termingerechte ausführung.\nbrigger christoph & mattia mit team haben grossartige arbeit geleistet.\nimmer wieder gerne - sehr zu empfehlen!",
+        "time": 1728893241,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "NETKUM",
+        "author_photo": "/images/reviews/malerei-und-gipserei-brigger-ag-gamsen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Unternehmung.\nArbeitsablauf genau wie ich mir das vorstelle: Professionelle Beratung - promptes Angebot - termingerechte und fachgerechte Ausführung.\nHerzlichen Dank Christoph & Mattia mit Team",
+        "time": 1727980987,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Braumanufaktur Simplon",
+        "author_photo": "/images/reviews/malerei-und-gipserei-brigger-ag-gamsen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Qualitativ Top. Sehr empfehlenswert.",
+        "time": 1770358578,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

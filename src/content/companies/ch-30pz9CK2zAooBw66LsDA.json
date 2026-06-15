@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ70-WZi-4kUcRm-89I2zVhs0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jo Mo",
+        "author_photo": "/images/reviews/zimbas-zimmerleute-basel-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die fantastische Arbeit. Dies ist eine ausgezeichnete Zimmerei. Sie konnten super Lösungen für unser Umbau finden. Die Arbeit wurde sehr präzise, pünktlich und sauber ausgeführt.",
+        "time": 1689701240,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ro Sch",
+        "author_photo": "/images/reviews/zimbas-zimmerleute-basel-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnelle Reaktion und Bearbeitung des Auftrags von der Aufnahme der Arbeit bis zur Fertigstellung. Sehr freundliche Kommunikation.\nIch kann diese Firma nur empfehlen!",
+        "time": 1698306204,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Larissa Céline Eisele",
+        "author_photo": "/images/reviews/zimbas-zimmerleute-basel-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zimbas hat uns einen super schönen Balkonboden gelegt, auch zwei Jahre später ist das Holz noch wunderschön und in einem guten Zustand.",
+        "time": 1660921942,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "claudius röthlisberger",
+        "author_photo": "/images/reviews/zimbas-zimmerleute-basel-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "mit abstand beste zimbas in basel!",
+        "time": 1615471678,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

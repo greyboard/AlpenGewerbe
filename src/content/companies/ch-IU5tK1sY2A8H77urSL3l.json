@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJLa7r1UIZm0cRsOrYaigb4Bg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Tobler Manfred",
+        "author_photo": "/images/reviews/malerhandwerk-keller-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "- Klare und detaillierte Offerte\n- Super Farbberatung\n- Zusammenarbeiten mit anderen Handwerkern war top\n- Mehraufwand klar dokumentiert und im voraus besprochen\n- Professionelles und stets freundliches Auftreten\n- Hat gute Kontakte und ist engagiert beim finden der weiteren benötigten Handwerker\nIch kann Markus und sein Team sehr empfehlen! Freuen uns schon auf die Zusammenarbeiten an der Fassade...",
+        "time": 1610375807,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fabrizio Verona",
+        "author_photo": "/images/reviews/malerhandwerk-keller-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir können Markus Keller und sein Team nur empfehlen! Ein Team, das seine Arbeit mit viel Freude, grosser Sorgfalt und in hoher Qualität ausführt.\nDie Beratung von Markus Keller zur Raum- und Farbgestaltung ist spitze. Die ausgeführten Arbeiten bereiten uns immer wieder aufs Neue grosse Freude.\nHerzlichen Dank und weiter so! :-)",
+        "time": 1636285674,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ralf Fiechter",
+        "author_photo": "/images/reviews/malerhandwerk-keller-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr tolle und innovative Farbkonzepte. Sehr sorgfältige und gründliche Arbeit. Motiviertes und freundliches Team. Sehr kompetente Beratung seitens Geschäftsführer bezüglich Raum- Farbgestaltung.",
+        "time": 1609957776,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Susanne Schwyn",
+        "author_photo": "/images/reviews/malerhandwerk-keller-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Beratung, das Angebot, die Planung, die Korrespondenz, die Ausführung, das Verhalten bei Anwesenheit, die Arbeitsausführung, das Resultat, das \"Verlassen der Baustelle\" (Aufräumarbeiten) und die Nachbetreuung der Baustelle / des Kunden sind einfach:\n\nWELTKLASSE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\nIch würde dieses Malerteam (wir haben unsere gesamten Malerarbeiten, für unser architektonisch komplexes Haus, von diesem Team ausführen lassen. Nachträglich Sanierungen, Erweiterungen, etc. ebenfalls durch dieses Team ausführen lassen!) immer wieder engagieren!\n\nVielen Dank für die ausgesprochen PROFESSIONELLE und SORGFÄLTIGE Arbeit auf ALLEN EBENEN!!!",
+        "time": 1610023459,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Verena D'Hondt",
+        "author_photo": "/images/reviews/malerhandwerk-keller-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit, qualitativ hochwertige Farben. Kreativ und sehr gute Beratung. Gerne wieder!",
+        "time": 1609961900,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

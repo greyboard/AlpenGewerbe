@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8cTuRzD4jkcR9Uk9skAQ5Qw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Sonntag: 07:00–12:00 Uhr, 13:15–17:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Leinad Bari",
+        "author_photo": "/images/reviews/schreinerei-moebelhaus-rufener-ag-zweisimmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wer auf handwerkliche Spitzenqualität Wert legt und ein topmotiviertes, engagiertes Team für den Küchen- und Innenausbau sucht , ist bei Holz und Design an der besten Adresse. So viel Handwerkskunst, Detailliebe, Fachwissen und Kreativität konzentriert zu finden ist für jeden Auftraggeber ein absoluter Glücksfall, wir haben den Schreiner unseres Vertrauens gefunden. Nach unserer Erfahrung mit zwei grossen Umbau- und Sanierungsprojekten können wir Holz und Design zu 100% empfehlen",
+        "time": 1669404425,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christian Schafroth",
+        "author_photo": "/images/reviews/schreinerei-moebelhaus-rufener-ag-zweisimmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Grosses und einziges Möbelhaus im Simmental. Ideal für bequeme und handwerklich ungeschickte Menschen wie mich. Hingehen, persönlich beraten lassen und vor Ort gleich probeliegen. Möbel werden nach Hause geliefert, montiert und auch um die Entsorgung brauchte ich mich nicht zu kümmern. Kombiniert mit der Schreinerei ein ganzheitlich kundenfreundliches Erlebnis, wo noch jemand den Hörer abnimmt, falls mal etwas nicht klappen sollte.",
+        "time": 1730820154,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christina Schierbaum",
+        "author_photo": "/images/reviews/schreinerei-moebelhaus-rufener-ag-zweisimmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "1 a Beratung und Ausführung der Arbeiten. Ich habe schon mehrere Projekte\nvon Holz und Design durchführen lassen und war jedes Mal sehr zufrieden.\nKann ich nur weiter empfehlen.",
+        "time": 1583488332,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Andreas Hänsenberger",
+        "author_photo": "/images/reviews/schreinerei-moebelhaus-rufener-ag-zweisimmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetent, schnell und freundlich.",
+        "time": 1536830963,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Aischia Naous",
+        "author_photo": "/images/reviews/schreinerei-moebelhaus-rufener-ag-zweisimmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "einfach nur SUPER!",
+        "time": 1550500280,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

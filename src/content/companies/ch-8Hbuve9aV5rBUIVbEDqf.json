@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJlR1sfBqSmkcR4nlPaSlCzag",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Sarah Sidler",
+        "author_photo": "/images/reviews/raumwerke-ag-felben-wellhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben uns von Raumwerke eine neue Küche planen und einbauen lassen. Es war bereits unser zweites Projekt mit ihnen und wie schon beim ersten Mal lief alles von Anfang bis Ende perfekt. Besonders toll fanden wir, dass auch unsere etwas unkonventionellen Wünsche nie negativ aufgenommen wurden. Ganz im Gegenteil, sie waren offen und wir konnten unsere Wünsche umsetzen. Das ganze Team war unglaublich freundlich, engagiert und sehr professionell. Wir würden uns jederzeit wieder für Raumwerke und das Team entscheiden und können sie von Herzen weiterempfehlen!",
+        "time": 1762523610,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Miriam Keller",
+        "author_photo": "/images/reviews/raumwerke-ag-felben-wellhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Raumwerke AG hat bei uns (u.a.) die Wandverkleidung im renovierten Badezimmer angebracht. Wir sind sehr zufrieden mit der Arbeit und mit der guten Kommunikation.",
+        "time": 1751562786,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Denise Graf",
+        "author_photo": "/images/reviews/raumwerke-ag-felben-wellhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Für unsere Galeria (Pausenraum), bzw. die grosse Betonwand, haben wir drei zusammenpassende Bilder mit Moos und Holz (Mooskunst) kreieren, herstellen und montieren lassen. Die Bilder haben die Raumatmosphäre sehr zum Positiven verändert. Unser Slogan war: From Grey zu Hey. Dies ist mit den wunderschönen Kunstwerken wirklich gelungen.",
+        "time": 1678805260,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "christoph asprion",
+        "author_photo": "/images/reviews/raumwerke-ag-felben-wellhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter und prompter Service.\nSchöne Auffrischung eines Esszimmertisches aus Holz und Deckensockel aus Holz für schräge Decke.\nDurchwegs eine gute, empfehlenswerte Arbeit !",
+        "time": 1684943917,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kathrin Zimmermann",
+        "author_photo": "/images/reviews/raumwerke-ag-felben-wellhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Raumwerke hat mitgeholfen, unsere alten Türbeschläge zu wechseln und einen alten, schönen Türrahmen zu versetzen. Wir schätzten besonders den raschen Service und die innovative Lösungsfindung bei kniffligen Problemen. Vielen Dank, einfach top!",
+        "time": 1719564293,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

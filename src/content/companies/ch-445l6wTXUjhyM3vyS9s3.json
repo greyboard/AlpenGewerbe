@@ -26,5 +26,54 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJkZg6TEM1hEcRnAmCL-qZoZg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Daniela Zinsli-Schneider",
+        "author_photo": "/images/reviews/domotec-sa-mezzovico-vira/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Techniker, super Instruktion. Einfache Bedienung. Kompliment an Domotec",
+        "time": 1728031179,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Erminio",
+        "author_photo": "/images/reviews/domotec-sa-mezzovico-vira/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Beratung und Professionalität.\nWir haben die optimale Lösung für unser Zuhause gefunden. Auch die Beratung zu den Anreizen war hervorragend.\nVielen Dank an Herrn Adriano D'Amario.",
+        "time": 1739735979,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jacopo Gilardi",
+        "author_photo": "/images/reviews/domotec-sa-mezzovico-vira/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Es ist eine Odyssee. Ich habe eine Wärmepumpe installiert, und nach zehn Jahren funktionierte sie nicht mehr. Ich habe das Außenmodul ausgetauscht und viel Geld ausgegeben – vergeblich. Schließlich fand ich heraus, dass sie einfach keine Ersatzteile mehr anbieten. Ich muss die gesamte Anlage erneuern, aber natürlich nicht von ihnen.",
+        "time": 1731767682,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matteo Cannone",
+        "author_photo": "/images/reviews/domotec-sa-mezzovico-vira/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Interessante und sehr kompetente Illustratoren, ein Top-Tipp!",
+        "time": 1736433793,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andrea Ferat",
+        "author_photo": "/images/reviews/domotec-sa-mezzovico-vira/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gut, Spitzen.",
+        "time": 1736433921,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

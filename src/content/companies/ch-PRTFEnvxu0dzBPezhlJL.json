@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJYzNIWCIzhEcRosFWZ2EYyoU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Flavio Cayetano",
+        "author_photo": "/images/reviews/fumasoli-sa-cadro/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, termingerecht und im Budgetrahmen; auch alle Formalitäten wurden übernommen.\nDie Mitarbeiter und Inhaber waren sehr freundlich, professionell, hilfsbereit und sogar zuvorkommend! Ausgezeichnete Zusammenarbeit mit den Partnerunternehmen.",
+        "time": 1764411640,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Jvan",
+        "author_photo": "/images/reviews/fumasoli-sa-cadro/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich nutze ihre Dienste seit über fünfundzwanzig Jahren und habe ihre Professionalität und Höflichkeit stets sehr geschätzt.",
+        "time": 1769604360,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Aron Stocker",
+        "author_photo": "/images/reviews/fumasoli-sa-cadro/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Service und immer freundlich, empfehlenswert!",
+        "time": 1451848830,
+        "relative_time_description": "vor 10 Jahren"
+      },
+      {
+        "author_name": "Capitanmatt",
+        "author_photo": "/images/reviews/fumasoli-sa-cadro/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Großartiger Rauch! Du musst ammò ciamat sein, um einen Service anzubieten! Bis bald!",
+        "time": 1573401916,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Antonella Badiali Severoni",
+        "author_photo": "/images/reviews/fumasoli-sa-cadro/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781293286,
+        "relative_time_description": "in der letzten Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

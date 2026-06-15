@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_SkHjTW5kUcRNmdVbv5pK5o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Thomas Steinemann",
+        "author_photo": "/images/reviews/lt-building-solutions-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "toller Service und sehr gute Arbeit geleistet.\nein wunderbares Produkt erhalten und der hochwertige Parkett passt perfekt zu unserem luxuriösen Showroom.\nkann die Firma nur empfehlen",
+        "time": 1759992232,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Patricia Gerig",
+        "author_photo": "/images/reviews/lt-building-solutions-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1653492854,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

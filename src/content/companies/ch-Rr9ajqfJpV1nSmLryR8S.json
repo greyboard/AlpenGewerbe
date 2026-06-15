@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJLSMszp2yj0cRQl_uIBopy6I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Nora Geninazzi (NoraG)",
+        "author_photo": "/images/reviews/duerig-und-voelkel-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe aus einer alten Ahorntischplatte 2 runde Beistelltische machen lassen. Die Arbeit wurde sehr schön und professionell erledigt. Ich hätte nicht gedacht, dass aus meiner alten Tischplatte 2 so schöne Tischchen entstehen!",
+        "time": 1611042607,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Patrick Müller",
+        "author_photo": "/images/reviews/duerig-und-voelkel-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Besti Lattene vo ganz Bärn",
+        "time": 1550164959,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Claude Plüss",
+        "author_photo": "/images/reviews/duerig-und-voelkel-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699550856,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "13loccos",
+        "author_photo": "/images/reviews/duerig-und-voelkel-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580711139,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

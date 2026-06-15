@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ50sS31gRkEcRFVQUQi2yank",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 67,
+    "reviews": [
+      {
+        "author_name": "Manuela Märchy",
+        "author_photo": "/images/reviews/gs-gashi-sanitaer-wohlen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben Herrn Gashi bei unserem Umbau an der Gaswerkstrasse in Wohlen kennengelernt und sind mehr als begeistert! Von Anfang an fühlten wir uns bestens beraten und betreut. Die Arbeiten in den Bereichen Heizung und Sanitär im Rahmen der Totalsanierung wurden mit höchster Professionalität, Sorgfalt und Leidenschaft ausgeführt. Das gesamte Team ist unglaublich freundlich, engagiert und zuverlässig. Ein riesiges Dankeschön – wir würden Herrn Gashi und sein Team jederzeit wieder wählen und uneingeschränkt weiterempfehlen!",
+        "time": 1766826242,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Lidija Bashoska",
+        "author_photo": "/images/reviews/gs-gashi-sanitaer-wohlen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und zuverlässige Sanitärfirma. Die Arbeiten in unserer Arztpraxis wurden äusserst sauber, hygienisch und sorgfältig ausgeführt. Besonders positiv hervorzuheben ist die Rücksichtnahme auf den laufenden Praxisbetrieb sowie die strukturierte und effiziente Arbeitsweise. Wir sind mit der Leistung sehr zufrieden und empfehlen die Firma uneingeschränkt weiter.\nNochmals vielen Dank.",
+        "time": 1768495369,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Robert Hanselmann",
+        "author_photo": "/images/reviews/gs-gashi-sanitaer-wohlen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten um 23:00 Uhr ein dringendes Problem mit dem Warmwasser im Hochhaus in Wohlen. Trotz der späten Uhrzeit war der Monteur bereits nach 25 Minuten vor Ort und hat das Problem rasch und professionell gelöst.\n\nWir sind sehr zufrieden mit dem schnellen und zuverlässigen Service und können die Firma uneingeschränkt weiterempfehlen!\n\nHandel / Immobilien",
+        "time": 1760022531,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "SpeCialistGame",
+        "author_photo": "/images/reviews/gs-gashi-sanitaer-wohlen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hatte ein Problem mit meinem WC und bin froh, Gashi Sanitär beauftragt zu haben. Schon über WhatsApp konnte er durch ein einziges Bild sofort die Ursache des Problems erkennen. Die Reparatur erfolgte schnell und die Arbeit war absolut zuverlässig. Herr Gashi war zudem sehr freundlich und professionell. Ich bin rundum zufrieden und würde seine Dienste jederzeit wieder in Anspruch nehmen. Eine klare Empfehlung für jeden, der einen zuverlässigen Sanitär-Experten sucht!",
+        "time": 1758210052,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Mountain Sky",
+        "author_photo": "/images/reviews/gs-gashi-sanitaer-wohlen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben einen grossen Umbau eines EFH durchgeführt. GS Gashi Sanitär hat diesen grossen Auftrag wunschgemäss ausgeführt. Trotz Verzögerungen beim Umbau (wegen anderen Faktoren) hat Herr Gashi stets freundlich und flexibel seine Termine angepasst. Das Team hat die Arbeiten zu unserer vollsten Zufriedenheit und in top Qualität ausgeführt - danke und gerne wieder!",
+        "time": 1736073661,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

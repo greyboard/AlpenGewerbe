@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJTZ6QAMznkUcRBNkzvCh5aaQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 44,
+    "reviews": [
+      {
+        "author_name": "Valdon Berbatovci",
+        "author_photo": "/images/reviews/thermosan-sa-delemont/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Sehr ungenau, nicht saubere Arbeit, schnell schnell montiert, damit die Arbeit fertig ist, aber sieht sehr unprofisionel aus.\n!!!Nicht empfehlenswert!!!",
+        "time": 1700166971,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rinor Mehmetaj",
+        "author_photo": "/images/reviews/thermosan-sa-delemont/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Entreprise au top !!!! à l'écoute pour toutes nos demandes.",
+        "time": 1769175561,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Virginie Stouder",
+        "author_photo": "/images/reviews/thermosan-sa-delemont/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Eine sehr schlechte Kundenservice-Erfahrung.",
+        "time": 1778689724,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Philippe CRISTINO",
+        "author_photo": "/images/reviews/thermosan-sa-delemont/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Äußerst professionell und reaktionsschnell. Sorgfältige Arbeit und ein sehr kompetenter Ansprechpartner. Ich kann sie weiterempfehlen.",
+        "time": 1707988304,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Francois Imondi",
+        "author_photo": "/images/reviews/thermosan-sa-delemont/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Die Arbeiten, für die sie bereits bezahlt haben, haben sie allerdings nicht ausgeführt.",
+        "time": 1751281487,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

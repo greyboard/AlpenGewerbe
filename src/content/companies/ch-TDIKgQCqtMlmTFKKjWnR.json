@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJd-O-xO05jkcRPr8ql_rL6-g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "hossein najafi",
+        "author_photo": "/images/reviews/plattenleger-sultani-baukeramik-gmbh-koeniz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann Plattenleger Sultani Baukeramik GmbH nur wärmstens empfehlen!\nDas Team arbeitet äußerst professionell, zuverlässig und mit großer Sorgfalt. Die Arbeit wurde termingerecht und in hervorragender Qualität ausgeführt. Man spürt, dass sie mit Leidenschaft und Engagement bei der Sache sind.\nVielen Dank für die tolle Zusammenarbeit – jederzeit gerne wieder!",
+        "time": 1760717209,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Markus Hess",
+        "author_photo": "/images/reviews/plattenleger-sultani-baukeramik-gmbh-koeniz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionel und sehr freundlich! Wir haben Dank Sultani Baukeramik nun ein sehr schönes Bad, welches uns jeden Tag Freude bereitet.\nGerne wieder mit Sultani Baukeramik",
+        "time": 1761214799,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Matthias Joss",
+        "author_photo": "/images/reviews/plattenleger-sultani-baukeramik-gmbh-koeniz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr netter Plattenleger. Wunderbare Arbeit zu fairen Preisen. Kann Najib nur empfehlen.",
+        "time": 1740690208,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Milad Huseini",
+        "author_photo": "/images/reviews/plattenleger-sultani-baukeramik-gmbh-koeniz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Sultani war durch seine Fachkompetenz und seine gute Ideen sehr hilfreich. Vielen Dank nochmals👌",
+        "time": 1679227676,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pa Be",
+        "author_photo": "/images/reviews/plattenleger-sultani-baukeramik-gmbh-koeniz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "er ist ein junger engegierter profi\nmacht faire und saubere arbeiten\nkann ich nur weiter empfehlen",
+        "time": 1679156520,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

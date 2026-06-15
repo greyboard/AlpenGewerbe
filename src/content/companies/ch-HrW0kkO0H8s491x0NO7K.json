@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6aSNz13rmkcRs1Y-YbJD6a8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Thomas Bachmann",
+        "author_photo": "/images/reviews/sanitaer-berger-gmbh-muenchwilen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Am Weihnachtsmarkt Aadorf ist Sanitär Berger heuteit mobilen WC Anlagen vertreten. Sehr gute Anlagen.",
+        "time": 1765647070,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Leandra Baumgartner",
+        "author_photo": "/images/reviews/sanitaer-berger-gmbh-muenchwilen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche, kompetente und lösungsorientierte Arbeit bei unserem Umbau (neues Badezimmer, neue Leitungen, Waschküche versetzen, Boiler Anschluss etc.). Wir empfehlen die Sanitär Berger GmbH gerne weiter!",
+        "time": 1762370200,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Christian Angst",
+        "author_photo": "/images/reviews/sanitaer-berger-gmbh-muenchwilen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die Hilfe, sogar aus dem Urlaub konnte mir Sanitär Berger helfen. Ein Service, der nicht mehr oft vorhanden ist.",
+        "time": 1769263895,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Thomas Schäpper",
+        "author_photo": "/images/reviews/sanitaer-berger-gmbh-muenchwilen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer pünktlich, freundlich und sehr genau in der Umsetzung! Nicht mehr selbstverständlich heutzutage, vielen Dank für die tolle Arbeit!",
+        "time": 1760033888,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Stefan Huber",
+        "author_photo": "/images/reviews/sanitaer-berger-gmbh-muenchwilen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die einwandfreie Arbeit. Top Preis und schnelle Umsetzung. Wie man dies in der heutigen Zeit wünscht. Wir kommen sehr gerne beim nächsten Projekt wieder auf Sie zu.",
+        "time": 1660571766,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

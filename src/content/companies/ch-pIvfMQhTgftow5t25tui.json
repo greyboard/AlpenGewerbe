@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMzNcWlj7j0cRt587Ra9Xz_4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "David Meier (REVOTOOL)",
+        "author_photo": "/images/reviews/fellmann-graf-holzbau-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekter Service, hochwertige Produkte, vielen Dank dafür!",
+        "time": 1741085003,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simona Brunner",
+        "author_photo": "/images/reviews/fellmann-graf-holzbau-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionell und kompetent.\nSehr zu empfehlen!\nImmer wieder gerne, danke",
+        "time": 1686218861,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beat Steiger",
+        "author_photo": "/images/reviews/fellmann-graf-holzbau-gmbh-luzern/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1755800872,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Daniel Walti",
+        "author_photo": "/images/reviews/fellmann-graf-holzbau-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1752403378,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJM6rg7qL3j0cRkV0IQOiWstI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Arnold Adolf",
+        "author_photo": "/images/reviews/aqwa-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vom ersten Anruf bis zur vollständigen Abwicklung ein äusserst freundlicher und professioneller Kontakt. Ich habe es sehr kundenorientiert empfunden und in einem Notfall wurde schnell und kompetent gehandelt. Ich kann jedem empfehlen dieser Firma einen Auftrag zu erteilen.\nHier ist man in besten Händen !!\nArnold",
+        "time": 1737039431,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc Isaak",
+        "author_photo": "/images/reviews/aqwa-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "AQWA bietet in ihrer riesigen Ausstellung beste Beratung und lässt keine Kundenwünsche offen. Sie stehen nicht nur beratend zur Seite, sondern können von der Planung bis zur Installation alles in house lösen.",
+        "time": 1721126320,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christian Pargger",
+        "author_photo": "/images/reviews/aqwa-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragendes Fachgeschäft für Bad und Sanitär aller Art. Nette und sehr kompetente Angestellte. Sympathischer Auftritt. Wir kommen immer wieder gerne.",
+        "time": 1501100652,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Mark Buchecker",
+        "author_photo": "/images/reviews/aqwa-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolle Ausstellung mit ausgesuchten designorientierten Produkten rund um das Bad! Sehr kompetente und professionelle Bad- und Raumgestaltung.",
+        "time": 1528888129,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Andre Sueess",
+        "author_photo": "/images/reviews/aqwa-stans/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Für mich die schönste und vielseitigste Sanitär Ausstellung der Schweiz. Sehr freundliche und kompetente Beratung.",
+        "time": 1605637581,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

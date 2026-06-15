@@ -25,5 +25,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJibl3p2Exm0cRPNRHI7n97UI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "WGoofy1966",
+        "author_photo": "/images/reviews/spenglerei-biedermann-ag-vaduz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Firma, wo qualitativ sehr hochstehende Arbeiten verrichtet. Sehr gute Firmenwerte! Man wird wirklich sehr gut als Kunde betreut. Hier spürt man wirklich: Der Kunde ist König! Sehr gute Firmenkultur, geht einem ans Herz. Vielen lieben Dank, Lieber Gruss, de Walter",
+        "time": 1718434862,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Volker Labinsch",
+        "author_photo": "/images/reviews/spenglerei-biedermann-ag-vaduz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Firma Super Mitarbeiter, es ist einfach ein tolles Tim! mit sehr guten Oulieviezierzen Arbeiten in Fachdach sowie in allen Bauspengler Arbeiten",
+        "time": 1603815221,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jürg Senn",
+        "author_photo": "/images/reviews/spenglerei-biedermann-ag-vaduz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein meisterhafter alt eingesessener Handwerksbetrieb. Eine empfehlenswerte Adresse. Qualitativ hochstehende Arbeiten.",
+        "time": 1645398384,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lars Wondras",
+        "author_photo": "/images/reviews/spenglerei-biedermann-ag-vaduz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Supper kompetente Mitarbeiter. Top",
+        "time": 1662537600,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manuel Krallmann",
+        "author_photo": "/images/reviews/spenglerei-biedermann-ag-vaduz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hier arbeiten excellente Fachkräfte 👍🏼",
+        "time": 1560624546,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

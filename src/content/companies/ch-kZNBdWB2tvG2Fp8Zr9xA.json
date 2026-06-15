@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJq1KNPiA5jkcRejpH4fj3xY0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 09:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 09:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Angela Russo",
+        "author_photo": "/images/reviews/sl-baukeramik-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Arbeit der SL Baukeramik Gmbh rundum zufrieden. Die Wand- und Bodenplatten wurden äußerst sauber, präzise und professionell verlegt. Der Inhaber ist sehr freundlich, arbeitet speditiv und überzeugt durch seine fachkundige und professionelle Vorgehensweise. Sein umfangreiches Wissen lässt er gezielt in jedes Detail einfliessen. Man merkt sofort, dass hier mit Erfahrung, Sorgfalt und hoher Professionalität gearbeitet wird. Klare Weiterempfehlung!",
+        "time": 1771099103,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Nicola Chiapperino",
+        "author_photo": "/images/reviews/sl-baukeramik-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "SP Baukeramik hat die Renovationsarbeiten unseres Hauses vollständig durchgeführt wir sind unglaublich zufrieden mit der Qualität der Arbeiten. Unsere Erwartungen wurden übertroffen. Wir können jedem wärmstens empfehlen.",
+        "time": 1771170065,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Dominik Cipa",
+        "author_photo": "/images/reviews/sl-baukeramik-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das zweite Bad machen lassen. Bin immer noch beeindruckt von der sehr guten und extrem präzisen Arbeit mit sehr gutem Blick für Details und guten Lösungen das optimale verlegedesign zu erreichen. Uneingeschränkt zu empfehlen, arbeitet als wenn es sein eigenes Bad wäre und besonders schön werden soll. Preis völlig in Ordnung für die Leistung. Mehr Fotos folgen.",
+        "time": 1639594918,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Gerardo La Nave",
+        "author_photo": "/images/reviews/sl-baukeramik-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Meine Dusche ist perfekt von SL Baukeramik GmbH gebaut worden... Sehr zuverläsig, genau, kompetent mit super Beratung. Freundlich und unkompliziert...\nHerzlichen Dank für die Top Arbeit",
+        "time": 1655830343,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Peter Christen",
+        "author_photo": "/images/reviews/sl-baukeramik-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Bad durch die SL Baukeramik renovieren lassen und sind mit dem Ergebnis rundum zufrieden. Die Arbeiten wurden sehr sauber und mit hoher Präzision ausgeführt, alle Fliesen und Fugen sind perfekt ausgerichtet und wirken äußerst hochwertig. Die Baustelle wurde stets ordentlich hinterlassen, Absprachen wurden eingehalten und die Kommunikation war freundlich und zuverlässig. Wir können SL Baukeramik für eine Badrenovation jederzeit weiterempfehlen.",
+        "time": 1779825146,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

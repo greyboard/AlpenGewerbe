@@ -26,5 +26,22 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJGRj8wBXKkUcRRWKbx2T3m4g",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Beat Schlegel",
+        "author_photo": "/images/reviews/juerg-marti-kundenmaurer-liestal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Arbeit von Jürg sehr zufrieden. Er konnte mir nebst den Maurerarbeiten auch in vielen anderen Bereichen auf der Baustelle helfen. Vielen Dank!",
+        "time": 1747381601,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

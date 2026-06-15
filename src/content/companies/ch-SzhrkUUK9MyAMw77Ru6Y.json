@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ01DwaMG5kUcRUBJAR1Z2Qdw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "D.A.M",
+        "author_photo": "/images/reviews/teppich-metzger-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Metzger bearbeitete meinen Auftrag (zur Teppichreinigung, welche nicht durch die Metzger GmbH selber erfolgt) freundlich und unkompliziert, ohne grossen Papierkram. Der Preis war sehr anständig und die Metzger GmbH hat an diesem Auftrag mit Sicherheit kaum etwas verdient. Umso mehr schätze ich, dass Herr Metzger diesen Service anbietet!",
+        "time": 1726120663,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pit Graf",
+        "author_photo": "/images/reviews/teppich-metzger-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schöne, hochwertige Teppiche, in grosser Auswahl.\nDazu eine perfekte Teppichreinigung, welche heute absolut professionell, und zu meiner vollsten Zufriedenheit ausgeführt wurde!\nSowohl Hr. Metzger, als auch die Mitarbeiter, sind sehr kundenorientiert, super freundlich und machen einen TOP JOB!!!\nSomit, absolut verdiente 5 Sterne!\nVielen Dank",
+        "time": 1744653554,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Pipola",
+        "author_photo": "/images/reviews/teppich-metzger-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Metzger setzt sich mit viel Wissen und Herzblut für seine Kunden ein.\nAbsolute empfehlung ✨",
+        "time": 1732696700,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Philippe Barny (Flaps)",
+        "author_photo": "/images/reviews/teppich-metzger-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Le chef d'entreprise nous a reçu en personne, très sympathique et d'un grand professionnalisme. Je vais confier les travaux à cette entreprise. On verra si tout sera parfait. À+\n\nSuper\nWir sind begeistert von dieser Firma, wir waren sehr gut beraten, Arbeit sehr gut erledigt, Geschäftsleiter und  Monteure sehr sympathisch. Termin und Preis eingehalten. Ich kann diese Firma sehr empfehlen",
+        "time": 1612167907,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Patrick Müller",
+        "author_photo": "/images/reviews/teppich-metzger-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Teppich Metzger GmbH führt alle Arbeiten qualitativ hochwertig und sehr Professionell aus. Besten Dank für den schönen neuen Boden.",
+        "time": 1303894259,
+        "relative_time_description": "vor 15 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

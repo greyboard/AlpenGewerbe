@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvdd8IPa5kUcRvteYfMu-Pxc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–19:00 Uhr",
+    "Dienstag: 08:00–19:00 Uhr",
+    "Mittwoch: 08:00–19:00 Uhr",
+    "Donnerstag: 08:00–19:00 Uhr",
+    "Freitag: 08:00–19:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "I. Sas",
+        "author_photo": "/images/reviews/gips-company-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben die GIPS COMPANY GmbH für die Kernsanierung unseres Einfamilienhauses beauftragt und sind mit dem Ergebnis äußerst zufrieden. Die Arbeiten wurden professionell, sauber und termingerecht ausgeführt. Besonders positiv hervorzuheben sind die zuverlässige Planung, die hochwertige handwerkliche Umsetzung sowie die stets transparente und freundliche Kommunikation. Auch Preis-Leistung war absolut fair und nachvollziehbar.\n\nDank der hervorragenden Arbeit fühlt sich unser Haus wie ein Neubau an. Wir empfehlen die GIPS COMPANY GmbH uneingeschränkt weiter.",
+        "time": 1765195131,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Cem Dedeoglu",
+        "author_photo": "/images/reviews/gips-company-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wenn Sie eine kompetente, ehrliche und zuverlässige Firma suchen, dann sind Sie hier genau richtig.",
+        "time": 1767707173,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Eugenio Stursi",
+        "author_photo": "/images/reviews/gips-company-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "\"Wir sind mit der Arbeit dieser Firma sehr zufrieden. Die Mitarbeiter waren zuverlässig, pünktlich und sehr professionell. Die Verputzarbeiten wurden sauber und präzise ausgeführt, und das Ergebnis ist wirklich hervorragend. Auch die Kommunikation verlief reibungslos. Wir können diese Firma uneingeschränkt weiterempfehlen.\"",
+        "time": 1758714879,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Marzia Magri",
+        "author_photo": "/images/reviews/gips-company-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "\"Sehr gute Arbeit, zuverlässig und professionell – absolut empfehlenswert!\"",
+        "time": 1758715078,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Sopa Fassadenbau",
+        "author_photo": "/images/reviews/gips-company-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mir hend mit dr Gips Company GmbH zämegschaffet und sind sehr zfriede gsi. E sehr seriösi, professionelli und zuverlässigi Firma. D Kommunikation isch top gsi und d Arbeit isch sauber und termingerecht usgführt worde. D Zämearbeit isch sehr positiv gsi – chöi mir absolut wiiterempfähle.",
+        "time": 1778951901,
+        "relative_time_description": "vor 4 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

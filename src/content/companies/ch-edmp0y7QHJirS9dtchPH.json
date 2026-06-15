@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvxKqIf24kUcRK63qDhHDgQg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:30 Uhr",
+    "Dienstag: 07:30–18:30 Uhr",
+    "Mittwoch: 07:30–18:30 Uhr",
+    "Donnerstag: 07:30–18:30 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 46,
+    "reviews": [
+      {
+        "author_name": "Hans im Glück",
+        "author_photo": "/images/reviews/bedachungen-spenglerei-dachtec-gmbh-loosli-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Dach wurde neu gedeckt incl. Regenwasserrohre. Problemlose, saubere Aus- und Durchführung, guter Tipp für Dachziegel (glasiert, so dass Moos nicht so leicht haftet) und Rohrmaterial (Chromstahl), schnelle und unkomplizierte Reaktion bei späteren Zusatzarbeiten.",
+        "time": 1763626068,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Bisharath Zavahir",
+        "author_photo": "/images/reviews/bedachungen-spenglerei-dachtec-gmbh-loosli-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Guten Tag HerrLoosli\nSehr gute Arbeit! Freundliche Mitarbeiter und alles sauber erledigt. Wir sind sehr zufrieden und können die Firma weiterempfehlen.\nFreundliche Grüsse\nFamilie Zavahir",
+        "time": 1766779322,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Reto Müller",
+        "author_photo": "/images/reviews/bedachungen-spenglerei-dachtec-gmbh-loosli-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Dachsanierung vor Montage einer PV-Anlage. Kompetente und motivierte Fachleute mit einem Patron nach altem Schlag (im besten Sinne), der kunden- und lösungsorientiert denkt! Kann vorbehaltlos empfohlen werden!",
+        "time": 1702308356,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ursula Berger",
+        "author_photo": "/images/reviews/bedachungen-spenglerei-dachtec-gmbh-loosli-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Loosli ist noch ein Handwerker mit Herzblut.\nImmer pünktlich, offen in der Kommunikation und in der Ausführung seiner Arbeit einfach ein Profi!\nWir haben unsere Terrasse mit ihm gemacht und ich vertraue darauf, dass diese dicht sein wird bis das Haus einstürzt. Ich arbeite schon seit Jahren mit Herr Loosli von der DachTec und kann ihn jedem empfehlen, der einen zuverlässigen Spengler braucht zu einem vernünftigen Preis.\nUnd wieviele Menschen kenn ihr, die bei der Arbeit pfeiffen?!",
+        "time": 1740036575,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tancredi Gaffuri",
+        "author_photo": "/images/reviews/bedachungen-spenglerei-dachtec-gmbh-loosli-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen herzlichen Dank, DachTec-Team für die super Arbeit, die Ihr geleistet habt! Egal, ob bei unerträglicher Hitze oder bei Regen, Ihr habt stets hart gearbeitet und dafür gesorgt, dass wir ein dichtes, gut isoliertes Dach über dem Kopf haben! Top Job! Danke für alles, wir können und werden Euch gerne weiter empfehlen!",
+        "time": 1726304924,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

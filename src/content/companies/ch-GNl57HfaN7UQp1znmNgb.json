@@ -26,5 +26,30 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCZXxlybgmkcRSf6YA8xcK4w",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Samuel Fitze",
+        "author_photo": "/images/reviews/schaellebaum-parkett-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In einer geometrisch nicht ganz einfachen und verwinkelten 210 m2 grossen 7-Zimmer-Wohnung wurde durch die Firma Schällibaum ein neuer Parketboden (150m2) verlegt. Von der umfangreichen, kompetente und freundliche Beratung über die Vorarbeiten bis zur Abnahme waren wir sehr zufrieden. Ein rundum Gesamtpaket inkl. Sockelleisten und Anpassen aller Türen und weiteren Details, alles wurde fachmännisch hervorragend ausgeführt.\nHerzlichen Dank für die angenehme Zusammenarbeit.\nWir können die Firma bestens weiterempfehlen.",
+        "time": 1753794516,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Benno Rudolf Horvath",
+        "author_photo": "/images/reviews/schaellebaum-parkett-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kenne Ruedi",
+        "time": 1694211507,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

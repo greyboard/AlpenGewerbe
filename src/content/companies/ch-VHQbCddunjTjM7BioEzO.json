@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJdW5agA4JkEcRkbOSnXQ0Bxo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Yünes Armen",
+        "author_photo": "/images/reviews/elut-ag-maler-zuerich-malermeister-fassade-gipser-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fassaden und Gerüstbau gemacht, sehr sehr professionell und detailverliebt. die Baustelle war recht gross und wir brauchten Gerüste mit einer Total Grösse von 50m höhe, was kein Problem für Elut AG war. top top Malerei in Zürich",
+        "time": 1729256128,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "05 Denis",
+        "author_photo": "/images/reviews/elut-ag-maler-zuerich-malermeister-fassade-gipser-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "wirklich top Malerbetrieb. Haben bei uns auch die Gisperaebeit übernommen. kann die Zusammenarbeit nur empfehlen. Super Maler in Zürich",
+        "time": 1729979190,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Berkan Koyun",
+        "author_photo": "/images/reviews/elut-ag-maler-zuerich-malermeister-fassade-gipser-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute arbeit waren sehr fleissig und schnell sehr sauber gearbeitet und waren sehr Kontakt freudig",
+        "time": 1731787116,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Feta Ameti",
+        "author_photo": "/images/reviews/elut-ag-maler-zuerich-malermeister-fassade-gipser-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundlicher Kundenkontakt. Die neuen Wände sehen Mega gut aus! Sehe empfehlenswert",
+        "time": 1733242857,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Filip Krstevski",
+        "author_photo": "/images/reviews/elut-ag-maler-zuerich-malermeister-fassade-gipser-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Malfähigkeiten sind definitiv überdurchschnittlich, musste Wände nachstreichen lassen super gelungen",
+        "time": 1731342332,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJO7vzpqP3j0cRMvtGlHXgG9k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Roger Jaggi",
+        "author_photo": "/images/reviews/lussi-haustechnik-ag-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Firma mit Kompetenz und Zuverlässigkeit. Reagieren sehr schnell und dir wird umgehend geholfen. Beste Empfehlung",
+        "time": 1741521690,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Spring Hermann",
+        "author_photo": "/images/reviews/lussi-haustechnik-ag-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Handwerker, die gleich anpacken und die Probleme effizient lösen.",
+        "time": 1418638501,
+        "relative_time_description": "vor 11 Jahren"
+      },
+      {
+        "author_name": "Willi Lussi",
+        "author_photo": "/images/reviews/lussi-haustechnik-ag-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753442087,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

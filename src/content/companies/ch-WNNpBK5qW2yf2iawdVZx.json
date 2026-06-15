@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPXffyGY3jkcRjcCSddLf-lE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Roman Weyermann",
+        "author_photo": "/images/reviews/witschi-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Chanathip von der Witschi AG hat bei mir die ganze Wohnung neu gestrichen. Ich war sehr erstaunt wie genau und präzise Chanathip gearbeitet hat. Grosses Kompliment! Ich kann allen die Witschi AG daher nur empfehlen. Das war bisher meine beste Erfahrung mit einer Malerfirma.",
+        "time": 1780488315,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Dave Schmutz",
+        "author_photo": "/images/reviews/witschi-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Witschi AG hat ein junges und motiviertes Team! Sie finden die richtige Lösung und meistern Ihre Arbeit gut!\nMerci viel mal und gerne wieder:)\nDave",
+        "time": 1720617674,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "A. St.",
+        "author_photo": "/images/reviews/witschi-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Beratung war sehr sehr fachkompetent und die Ausführung von allen Malerarbeiten wurde sehr fachkompetent und speditiv ausgeführt. Das Preis - Leistung Verhältnis ist sehr gut. Das Witschi AG -Team ist zuvorkommend, freundlich und sehr fachkompetent. Diese Firma Witschi AG kann ich allen sehr empfehlen! Auch in Zukunft werde ich diese Malerfirma Witschi AG, sehr gerne beauftragen!",
+        "time": 1738925833,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michael Zuercher",
+        "author_photo": "/images/reviews/witschi-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Witschi AG ist seit Jahren ein verlässlicher und geschätzter Partner. Wir freuen uns auf die weitere erfolgreiche Kooperation und wünschen der Witschi AG weiterhin viel Erfolg👍",
+        "time": 1719600314,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ueli Käser",
+        "author_photo": "/images/reviews/witschi-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Absolut professionelle Erledigung des Auftrages und sehr sympathische Begegnung! Toller Betrieb!",
+        "time": 1762502024,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

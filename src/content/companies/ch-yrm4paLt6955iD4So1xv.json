@@ -26,5 +26,39 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpTT-q8jZkUcR6NegSur_3iE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "zarif bektesi",
+        "author_photo": "/images/reviews/zimmer-group-schweiz-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762170392,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Tarek El-Hoiydi",
+        "author_photo": "/images/reviews/zimmer-group-schweiz-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1742199055,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJEYd9fIXrmkcRu6Rnhh-VW7A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Gül Kinar",
+        "author_photo": "/images/reviews/boden-konzept-gmbh-sirnach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut zufrieden mit der Verlegung des Vinylbodens! Die Arbeit wurde nicht nur sehr schnell, sondern auch äußerst sauber und professionell erledigt. Die Geschwindigkeit, mit der der Boden verlegt wurde, ist äußerst beeindruckend. Jedes Detail wurde sorgfältig beachtet, und das Ergebnis kann sich wirklich sehen lassen. Die Beratung war super, und all unsere Wünsche wurden perfekt umgesetzt.\nDanke vielmals!!",
+        "time": 1739789003,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "widmer_motorsport",
+        "author_photo": "/images/reviews/boden-konzept-gmbh-sirnach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service von A bis Z. Saubere und schnelle Arbeit, sehr kompetent. Danke für den neuen Vinylboden.",
+        "time": 1738852206,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matteo Carosella",
+        "author_photo": "/images/reviews/boden-konzept-gmbh-sirnach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sauber, schnell und unkomliziert.\nVielen Dank für die super Arbeit!",
+        "time": 1674721606,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marcel Pfister",
+        "author_photo": "/images/reviews/boden-konzept-gmbh-sirnach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1690887999,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Cecilia D'Asaro",
+        "author_photo": "/images/reviews/boden-konzept-gmbh-sirnach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1746367361,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

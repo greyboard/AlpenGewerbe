@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJUUmLExi3kUcRYc6VaJOWJcI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Evelyn Mabillard",
+        "author_photo": "/images/reviews/ms-keramik-meier-birsfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut zu empfehlen!\nDominik hat bei uns im ganzen EG inkl. Küche und GästeWC sehr schöne Platten verlegt…\nIch bekomme von allen komplimente für den schönen Boden.\nEin grosses Dankeschön 🙏🏻",
+        "time": 1755630441,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Thomas Keller",
+        "author_photo": "/images/reviews/ms-keramik-meier-birsfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "100% zufrieden - absolut empfehlenswert!\nWir haben ein altes Haus renoviert - MS Keramik Meier war für uns der perfekte Partner - von A bis Z wahre Kompetenz, hatte uns genial beraten, professionell begleitet und war äusserst flexibel im Handling - grosses Lob für die Qualität und Zeitmanagement - ein Mann ein Wort - so macht Bauen Spass! Gerne jederzeit wieder - vielen Dank für Euren Einsatz!",
+        "time": 1703259899,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Olivier Schweizer",
+        "author_photo": "/images/reviews/ms-keramik-meier-birsfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service und saubere, termingerechte Arbeit. Sehr freundliche Mitarbeiter",
+        "time": 1739387118,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Tresch",
+        "author_photo": "/images/reviews/ms-keramik-meier-birsfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe das Vergnügen, seit längerer Zeit geschäftlich mit diesem Unternehmen zusammenzuarbeiten. Auch wenn ich bisher noch kein eigenes Projekt ausführen lassen konnte, schätze ich die Professionalität, Zuverlässigkeit und die angenehme Zusammenarbeit sehr. Der Umgang ist stets freundlich, ehrlich und kundenorientiert. Aus meiner Erfahrung ein Betrieb, dem man mit gutem Gewissen Vertrauen schenken kann.\nDas Team um Dominik Meier macht einen tollen Job💪",
+        "time": 1780925774,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Sandro",
+        "author_photo": "/images/reviews/ms-keramik-meier-birsfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top! Sehr zufrieden herzlichen Dank!",
+        "time": 1776066391,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

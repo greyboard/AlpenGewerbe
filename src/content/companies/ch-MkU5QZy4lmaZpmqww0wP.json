@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJj9kaaLINkEcR-wBBmppsMiY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Sebastian Albert",
+        "author_photo": "/images/reviews/hubler-metallbau-ag-urdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kundenfeedback – glas & planung AG\n\nDie Firma Hubler Metallbau hat für uns die Produktion einer Pfosten-Riegel-Konstruktion übernommen. Die Zusammenarbeit war in jeder Hinsicht hervorragend: Die Kommunikation zu technischen Details, Sonderbearbeitungen und Terminen war stets klar, lösungsorientiert und zuverlässig. Die Qualität der Ausführung hat unsere Erwartungen voll erfüllt. Wir freuen uns auf weitere gemeinsame Projekte und setzen auch in Zukunft gerne auf Hubler Metallbau als kompetenten Partner.",
+        "time": 1745990489,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Franco Grimaldi",
+        "author_photo": "/images/reviews/hubler-metallbau-ag-urdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein absoluter Profi. Die Firma Hubler hat unsere Anforderung perfekt umgesetzt und die Qualität der Arbeit ist hervorragend. Die Kommunikation war stets offen und transparent, und die Fertigstellung erfolgte pünktlich und im Budget. Besonders beeindruckt hat mich die Präzision und Sorgfalt, mit der die Arbeit ausgeführt wurden. Ich kann diesen Betrieb nur empfehlen.",
+        "time": 1758443209,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Valon Dushica",
+        "author_photo": "/images/reviews/hubler-metallbau-ag-urdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Hubler Metallbau AG einen Pfostenriegel realisiert und sind mehr als zufrieden. Ein grosses Lob an Roman – seine fachliche Kompetenz, sein Auge fürs Detail und seine lösungsorientierte Art haben uns sehr beeindruckt. Die Zusammenarbeit war von Anfang an professionell, zuverlässig und sehr angenehm. Das Ergebnis spricht für sich: höchste Qualität und perfekte Ausführung. Vielen Dank an das ganze Team, besonders an Roman!",
+        "time": 1746774649,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Susanne Zioerjen",
+        "author_photo": "/images/reviews/hubler-metallbau-ag-urdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Aussen-Handläufe in unserem Garten wurden prompt und qualitativ sehr gut hergestellt und montiert. Wir sind mit dem Ergebnis sehr zufrieden und können diese Firma bestens empfehlen.\nH & S Ziörjen, Watt",
+        "time": 1746864318,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christian Ebnöther",
+        "author_photo": "/images/reviews/hubler-metallbau-ag-urdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Metalbauer – zuverlässig und präzise!\n\nSehr saubere Arbeit, termintreu und professionell. Die Qualität der Verarbeitung ist hervorragend. Absolut empfehlenswert!",
+        "time": 1743567673,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

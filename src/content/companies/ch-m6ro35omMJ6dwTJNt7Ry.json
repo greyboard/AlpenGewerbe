@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJQe4uM2Aem0cRs_7T8rizFN4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Markus Agostini",
+        "author_photo": "/images/reviews/cellere-bau-ag-st-gallen/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Sauber und freundliche Personen. Kompente Leute.kommst schnell zur Ware.",
+        "time": 1665475000,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrik Knoepfli",
+        "author_photo": "/images/reviews/cellere-bau-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tip Top gute Zusammenarbeit und sehr freundlich",
+        "time": 1660975888,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rolf Gigli",
+        "author_photo": "/images/reviews/cellere-bau-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Bauunternehmen",
+        "time": 1522919502,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "robin cadisch",
+        "author_photo": "/images/reviews/cellere-bau-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super firma",
+        "time": 1512903167,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Cristian Spedicato",
+        "author_photo": "/images/reviews/cellere-bau-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein großes und vor allem professionelles Straßenbauunternehmen, kompetente Mitarbeiter und Seriosität geben der Fachkompetenz Raum, ein ausgezeichnetes Unternehmen, das ich Kunden empfehle, wenn sie perfekte Straßenarbeiten benötigen",
+        "time": 1596037950,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

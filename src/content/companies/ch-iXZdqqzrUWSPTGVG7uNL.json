@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkdtXIpxljEcRQDXVdZVxEGg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–19:00 Uhr",
+    "Dienstag: 07:30–19:00 Uhr",
+    "Mittwoch: 07:30–19:00 Uhr",
+    "Donnerstag: 07:30–19:00 Uhr",
+    "Freitag: 07:30–19:00 Uhr",
+    "Samstag: 08:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Lili Brunel",
+        "author_photo": "/images/reviews/les-couvreurs-du-leman-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert und kann sie nur empfehlen. Der telefonische Kontakt war freundlich und professionell; zum Glück waren sie in der Nähe und konnten innerhalb einer Stunde vorbeikommen. Sie haben eine Fliese ausgetauscht. Da ich eine Ersatzfliese hatte, dauerte es keine fünf Minuten.",
+        "time": 1759484475,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Léonard Müller",
+        "author_photo": "/images/reviews/les-couvreurs-du-leman-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hallo, ich möchte Ihrem Team mein Lob für die hervorragende Arbeit an diesem komplexen Projekt aussprechen, das mir wohl noch lange in Erinnerung bleiben wird. Herzlichen Glückwunsch zu den geleisteten Arbeiten und dem großen Engagement vor Ort. Ich werde Ihre Dienste bei Bedarf jederzeit wieder in Anspruch nehmen. Vielen Dank.",
+        "time": 1741652775,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrick Vieillefond",
+        "author_photo": "/images/reviews/les-couvreurs-du-leman-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässige Profis und schnelle Reaktionszeit. Ich hatte ein Leck im Dach und es war ein kleines Risiko, einen Fachmann zu finden, der es schnell lokalisieren und reparieren konnte; ich hatte großes Glück, diese Firma zu finden. Ich kann sie wärmstens empfehlen!",
+        "time": 1716280938,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Elodie",
+        "author_photo": "/images/reviews/les-couvreurs-du-leman-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kann diese Firma wärmstens empfehlen. Der Techniker war pünktlich, äußerst professionell und hat seinen Arbeitsplatz sauber hinterlassen. Die Arbeit wurde schnell und einwandfrei ausgeführt.\n\nVielen Dank.",
+        "time": 1698053373,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "DAVID JORE",
+        "author_photo": "/images/reviews/les-couvreurs-du-leman-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich kann sie wärmstens empfehlen; sie sind sehr professionell und freundlich. Sie haben mein Dach gereinigt und die Firstabdeckung perfekt montiert – erstklassiger Service!",
+        "time": 1693405406,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

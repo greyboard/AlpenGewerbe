@@ -26,5 +26,39 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ--86Sg5djEcRwtNO5E9WyAg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 07:30–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Festim Zmajlaj",
+        "author_photo": "/images/reviews/imri-toiture-couvreur-toiture-nyon-vaud-nyon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1695105992,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fatlinda Kotorri",
+        "author_photo": "/images/reviews/imri-toiture-couvreur-toiture-nyon-vaud-nyon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1730382969,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

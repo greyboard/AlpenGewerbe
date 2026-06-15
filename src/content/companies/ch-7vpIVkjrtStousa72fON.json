@@ -26,5 +26,47 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJfTdB9kRljEcRb-hRXIKQuh4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Yvan Sabatino",
+        "author_photo": "/images/reviews/compagnie-du-verre-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, das bestellte und angefertigte Glas wurde in weniger als 24 Stunden geliefert, ich kann sie wärmstens empfehlen.",
+        "time": 1665425841,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Boris Müller",
+        "author_photo": "/images/reviews/compagnie-du-verre-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1772399332,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Alain Jaccard",
+        "author_photo": "/images/reviews/compagnie-du-verre-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1760361185,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

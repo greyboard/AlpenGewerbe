@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJb8R0fyFljEcRhzhVwW4IozA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Michael Unterkircher",
+        "author_photo": "/images/reviews/tas-vitrerie-stores-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Termin innerhalb von zwei Tagen vereinbart.\nReaktionsfähigkeit, Effizienz und Freundlichkeit zeichnen sie aus.\nProfessionell und freundlich.\nVielen Dank!",
+        "time": 1677749223,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniela S",
+        "author_photo": "/images/reviews/tas-vitrerie-stores-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service und sehr freundlich, sowohl der Manager als auch sein Assistent.",
+        "time": 1669024480,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "MARTIN DUBERT",
+        "author_photo": "/images/reviews/tas-vitrerie-stores-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit!",
+        "time": 1637090643,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jean-Jacques Zbinden",
+        "author_photo": "/images/reviews/tas-vitrerie-stores-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1691680164,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Kirza",
+        "author_photo": "/images/reviews/tas-vitrerie-stores-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667559645,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

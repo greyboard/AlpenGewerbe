@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVV6GwBcLkEcRoXwvSYUZqok",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 10:00–19:00 Uhr",
+    "Dienstag: 10:00–19:00 Uhr",
+    "Mittwoch: 10:00–19:00 Uhr",
+    "Donnerstag: 10:00–19:00 Uhr",
+    "Freitag: 10:00–19:00 Uhr",
+    "Samstag: 10:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Karolina Hofmann",
+        "author_photo": "/images/reviews/zimmermann-zurich-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine sehr schöne Boutique mit einer tollem Bekleidungssortiment. Super Beratung und sehr bemühte Mitarbeiter! Ein grosses Kompliment. Ich komme zu 100% wieder.",
+        "time": 1759228407,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Alexander Brönnimann",
+        "author_photo": "/images/reviews/zimmermann-zurich-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Boutique! Besten Dank, komme gerne wieder",
+        "time": 1754480932,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Ludmila Staudenmann",
+        "author_photo": "/images/reviews/zimmermann-zurich-zuerich/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Sehr enttäuschende Erfahrung bei Zimmermann Zürich. Ich hatte CHF 2.300 im Voraus für eine Jacke in einer größeren Größe bezahlt, die innerhalb von 2–3 Tagen geliefert werden sollte. Sie kam über zwei Wochen später beschädigt an, sodass ich sie nicht annehmen konnte.\n\nTrotzdem wurde mir gesagt, ich müsse entweder die kleinere Größe nehmen, die mir körperliche Beschwerden bereitet, oder die beschädigte Jacke akzeptieren.\n\nDann wurde mir ein Rabatt von 30 % versprochen, den ich gerne annahm und mit der kleineren Jacke verließ. Eine Stunde später rief mich der Filialleiter an und widerrief die Zusage.\n\nUnakzeptable Geschäftspraktiken, gebrochene Versprechen und kein Kundenschutz. Das erwartet man nicht von einer Luxusmarke.\n\nAuch die Verkäuferinnen von Globus äußerten sich negativ über diese Filiale. Ich bin nicht die Einzige. Ich denke, Zimmermann sollte seine Werte überdenken…",
+        "time": 1766141025,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "T. U.",
+        "author_photo": "/images/reviews/zimmermann-zurich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und äußerst professionelles Personal. Mir gefiel, dass sie nicht aufdringlich war.",
+        "time": 1762683493,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "lou schull",
+        "author_photo": "/images/reviews/zimmermann-zurich-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich war vor Kurzem in diesem Laden. Ich hatte das Glück, Maxime kennenzulernen, der mir hervorragende Tipps gegeben hat. Besonders toll war, dass er perfekt Französisch sprach. Ich komme wieder!",
+        "time": 1757603404,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

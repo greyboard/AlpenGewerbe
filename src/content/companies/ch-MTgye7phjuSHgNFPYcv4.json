@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu2QuGWcUj0cRA8O7gmKmI5k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "patschke",
+        "author_photo": "/images/reviews/gruber-polybau-ag-raron/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Toparbeit🥇superSauber🥇immer wieder gerne 🏆",
+        "time": 1759946309,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Febatec GmbH",
+        "author_photo": "/images/reviews/gruber-polybau-ag-raron/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Gruber Polybau AG überzeugt mit sauberer und zuverlässiger Arbeit in den Bereichen Spenglerei und Abdichtungen. Angenehme Kommunikation und eine Zusammenarbeit, die man sehr schätzt.",
+        "time": 1763967667,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Jacqueline Schnidrig",
+        "author_photo": "/images/reviews/gruber-polybau-ag-raron/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis zur Ausführung professionel und fachlich überzeugend. Zu jeder Zeit wieder! Danke für die tolle Arbeit!",
+        "time": 1713601659,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Céline Crettenand",
+        "author_photo": "/images/reviews/gruber-polybau-ag-raron/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert, die arbeiten werden professionnel, fachmänisch durch die Firma durchgeführt.\nVielen Dank an alle Mitarbeiter und an Herr Gruber.",
+        "time": 1714850439,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Domingos Kalbermatter",
+        "author_photo": "/images/reviews/gruber-polybau-ag-raron/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Arbeit. Kann ich nur weiterempfehlen.",
+        "time": 1713884486,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

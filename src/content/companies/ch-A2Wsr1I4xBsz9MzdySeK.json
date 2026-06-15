@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1UOFqvAJkEcRWjnKsLUk8SE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Franziska Illi",
+        "author_photo": "/images/reviews/reich-nievergelt-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tolle Zusammenarbeit. Wir können nur bestes von Herr Simon Gottschalk sagen, alles funktioniert zur besten Zufriedenheit. Schnelle unkomplizierte kurze Wege.",
+        "time": 1759330843,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Manuel D'Alberto",
+        "author_photo": "/images/reviews/reich-nievergelt-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich arbeite seit einiger Zeit mit der Firma Reich + Nievergelt AG zusammen und bin jedes Mal aufs Neue begeistert. Die Qualität ihrer Arbeit ist durchweg ausgezeichnet – präzise, zuverlässig und professionell. Besonders hervorzuheben ist die extrem schnelle Bearbeitungszeit. Sobald ich ein Projekt übergebe, weiß ich, dass ich mich entspannt zurücklehnen kann, denn es funktioniert einfach.\n\nDiese Firma steht für Vertrauen, Kompetenz und einen reibungslosen Ablauf. Ich kann Reich + Nievergelt AG uneingeschränkt weiterempfehlen und freue mich auf viele weitere erfolgreiche Projekte mit ihnen!",
+        "time": 1755061303,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Christian Caduff",
+        "author_photo": "/images/reviews/reich-nievergelt-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Meine Anfrage zu einer Wallbox wurde zügig und professionell beantwortet. Service ist hier top!",
+        "time": 1772468085,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Lillan Haas",
+        "author_photo": "/images/reviews/reich-nievergelt-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben mit der Firma Reich und Nievergelt ausschliesslich positive Erfahrungen gemacht. Die Aufträge werden schnell und sehr zuverlässig ausgeführt. Die Kommunikation ist top und das Preisleistungsverhältnis sehr gut. Ich kann diese Firma mit dem besten Gewissen weiterempfehlen und bin sehr dankbar, für die tolle Zusammenarbeit.",
+        "time": 1747227956,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Treadwell",
+        "author_photo": "/images/reviews/reich-nievergelt-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Reich + Nievergelt hat die gesamte Elektroinstallation für unser Mehrfamilienhaus in Zürich fachgerecht durchgeführt. Alle Vereinbarungen und Termine wurden zuverlässig eingehalten. Auch kurzfristige Änderungen und Ergänzungen wurden schnell und effizient umgesetzt. Die Mitarbeiter vor Ort zeigten sich stets professionell und hilfsbereit. Für sämtliche Elektroarbeiten kann ich Reich + Nievergelt uneingeschränkt empfehlen.",
+        "time": 1701770264,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJG-auHyIzhEcRJsDkQn7wZzI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Francesco Musitano",
+        "author_photo": "/images/reviews/lp-coperture-sa-bedano/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr hilfsbereites und schnelles Personal sowie faire Preise. Absolut empfehlenswert.",
+        "time": 1744779779,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michele Lang",
+        "author_photo": "/images/reviews/lp-coperture-sa-bedano/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe LP Copriseri beauftragt und einen professionellen, schnellen Service zu einem fairen Preis erhalten. Ich kann LP Copriseri uneingeschränkt empfehlen.",
+        "time": 1700244441,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "matteo degli agli",
+        "author_photo": "/images/reviews/lp-coperture-sa-bedano/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kenne und arbeite seit 10 Jahren mit LP Coperture zusammen, sowohl bei unseren eigenen Renovierungen als auch bei denen anderer Kunden. Sie waren immer professionell, schnell und kompetent. Eines der wenigen Unternehmen in der Branche, das ich uneingeschränkt empfehlen kann!",
+        "time": 1778847808,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

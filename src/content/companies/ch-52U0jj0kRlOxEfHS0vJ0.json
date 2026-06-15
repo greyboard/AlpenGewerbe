@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJryl2L3UthUcRQ-pO9W-gav4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Andreas Zweifel",
+        "author_photo": "/images/reviews/marti-elektroanlagen-ag-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit vielen Jahren realisieren wir gemeinsam Projekte aller Art und Komplexität. Die Zusammenarbeit mit der Marti Elektro empfinden wir als qualitativ hochwertig, lösungsorientiert, fair und vertrauensvoll. Wir können das gesamte Team wärmstens empfehlen.\n\nWir bedanken uns herzlich für die bisher ausgezeichnete Zusammenarbeit und freuen uns auf viele weitere erfolgreiche Projekte.\n\nSchiesser Architektur und Bauingenieur AG, Glarus.",
+        "time": 1759732092,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Mica Cera",
+        "author_photo": "/images/reviews/marti-elektroanlagen-ag-netstal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Profi",
+        "time": 1605211853,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Engler Oliver",
+        "author_photo": "/images/reviews/marti-elektroanlagen-ag-netstal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1570591712,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Timo Ramsbrock",
+        "author_photo": "/images/reviews/marti-elektroanlagen-ag-netstal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1628712487,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Robert Tschudi",
+        "author_photo": "/images/reviews/marti-elektroanlagen-ag-netstal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1550167270,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3W6gqIYwEWkRnvSiX7OqjZk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Klaus",
+        "author_photo": "/images/reviews/heizomat-schweiz-ag-triengen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr nette und kompetente Mitarbeiter. Meine Hackschnitzelheizung läuft wunderbar.",
+        "time": 1769188332,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Adrian Grossenbacher",
+        "author_photo": "/images/reviews/heizomat-schweiz-ag-triengen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Beratung von Heizomat ist kompetent, die Zusammenarbeit zuverlässig und unkompliziert – ein wirklich super Service.\nDas Produkt überzeugt durch seine hervorragende Robustheit und Qualität.",
+        "time": 1765971965,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Kevin Berger",
+        "author_photo": "/images/reviews/heizomat-schweiz-ag-triengen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervoragende Kundenbetreuung.\nTop Service\nSchnelle Bearbeitung von Problemen.\nDie Qualität der Heizung ist überragend.\nBin sehr zufrieden mit eurer Zusammenarbeit.",
+        "time": 1744786788,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marco rickli",
+        "author_photo": "/images/reviews/heizomat-schweiz-ag-triengen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Beratung, sehr angenehme Zusammenarbeit und alles termingerecht und professionell montiert.\nMit der Heizung von Heizomat haben wir eine zuverlässiges Heizsystem",
+        "time": 1738930994,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Sidler",
+        "author_photo": "/images/reviews/heizomat-schweiz-ag-triengen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Habe vor 10 Tagen meine alte Hackschnitzelfeuerung durch eine neue 30 Kw heizomat ersetzt, bin jetzt happy. Besten dank an Marco und Manuel für die superkompetente Arbeit!\nGruss Thomas",
+        "time": 1731520108,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

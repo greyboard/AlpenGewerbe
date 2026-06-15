@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ77aL5ESrmkcRDpLqV1lwXzc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Palmieri Boutique",
+        "author_photo": "/images/reviews/roofservice-gmbh-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiger und professioneller Service. Die Arbeiten wurden sauber, schnell und zu fairen Preisen ausgeführt. Freundliches Team und gute Kommunikation. Kann die Roofservice GmbH definitiv weiterempfehlen!",
+        "time": 1778844881,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Cyrill Müller",
+        "author_photo": "/images/reviews/roofservice-gmbh-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und zuverlässige Firma. Die Arbeiten wurden sauber, termingerecht und in hoher Qualität ausgeführt. Besonders geschätzt habe ich die unkomplizierte Kommunikation sowie die transparente und freundliche Beratung. Anliegen wurden rasch beantwortet und die Ausführung vor Ort hinterliess einen sehr guten Eindruck.\n\nIch kann Roofservice für Dachkontrollen, Dachreinigungen und allgemeine Servicearbeiten rund ums Dach jederzeit weiterempfehlen und bedanke mich für die angenehme Zusammenarbeit.",
+        "time": 1780123608,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Jonas Endres",
+        "author_photo": "/images/reviews/roofservice-gmbh-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service!!",
+        "time": 1778925736,
+        "relative_time_description": "vor 4 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

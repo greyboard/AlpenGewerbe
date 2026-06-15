@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJo95ZAmdDhUcRP2EeVguEQDE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 09:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 09:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 09:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 09:00–11:30 Uhr, 13:30–17:30 Uhr",
+    "Samstag: 09:00–11:30 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Florence Rebholz",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjUBEtlZQjZ93-Yl8T-WJJGpLbImCcqdi70HQS8ZOeh5iPLPRYJEeA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "text": "Wunderschöner Hofladen, der liebevoll eingerichtet ist und neben den Hofprodukten auch andere lokale Spezialitäten anbietet. Es gibt eine riesen Auswahl. Dazu gibt es Öle, Pomaden, Salben und Duschlotion mit tollen Düften (unter anderem Lavendel, der im eigenen Garten angebaut wird).\nTwint Zahlung möglich.\nEin Besuch lohnt sich, es gibt auch schöne Geschenkideen. Es hat auch einen Kühlautomaten, der rund um die Uhr verfügbar ist.",
+        "time": 1650472101,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bea Bucher",
+        "author_photo": "/images/reviews/klosterhof-mit-hofladen-seedorf-uri-seedorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Liebe Erika und Familie . Wir haben den Besuch bei Euch sehr genossen . Die Führung durch den Garten  und Euren Betrieb liess uns staunen . Wir bewundern die tollen Produkte . Herzlichen Dank für die überaus grosszügige Bewirtung unter dem lauschigen Birnenbaum und Eure Gastfreundschaft\nBea Bucher mit Sunnegg - Kochfrauen",
+        "time": 1694883101,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Silvia Schefer",
+        "author_photo": "/images/reviews/klosterhof-mit-hofladen-seedorf-uri-seedorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Fusscreme. Sehr nette Bedienung. Werde sicher wieder vor Ort einkaufen und nicht Online.",
+        "time": 1693839287,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "David Schneiders",
+        "author_photo": "/images/reviews/klosterhof-mit-hofladen-seedorf-uri-seedorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolle Auswahl Naturkosmetik und regionale Produkte zu völlig moderaten Preisen für Schweizer Verhältnisse",
+        "time": 1713113039,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "urs z'graggen",
+        "author_photo": "/images/reviews/klosterhof-mit-hofladen-seedorf-uri-seedorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "1 wunderbarer laden mit 1 super besitzerin. unbedingt reinschauen, staunen & einkaufen und damit unterstützen.",
+        "time": 1699463225,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJiVlFB0HLkUcRoNrVFv3qQyk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Glood 1972",
+        "author_photo": "/images/reviews/zihlmann-bedachungen-holzbau-und-spenglerei-gmbh-frenkendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Firma!\nVon der ersten Besprechung bis zum Abschluss.\nDas kompetente und freundliche Team hat einen wirklich guten Job gemacht.\nIch kann Tmo Zihlmann und sein Team mit bestem Gewissen weiterempfehlen.",
+        "time": 1743763598,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kaeser Silvio",
+        "author_photo": "/images/reviews/zihlmann-bedachungen-holzbau-und-spenglerei-gmbh-frenkendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir können die Firma Zihlmann wärmstens empfehlen. Ein tolles Team, ein faires Preis-Leistungs-Verhältnis und eine rundum gelungene Ausführung. Von der Beratung bis zur Fertigstellung hat einfach alles perfekt funktioniert. Danke Euch.",
+        "time": 1744706759,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matthias Meier",
+        "author_photo": "/images/reviews/zihlmann-bedachungen-holzbau-und-spenglerei-gmbh-frenkendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Firma! Saubere und qualitativ hochwertige Arbeit. Kosten- und Terminabsprachen wurden zu 100% einegahlten. Empfehlenswert! Gerne wieder!",
+        "time": 1741189277,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nicole Probst",
+        "author_photo": "/images/reviews/zihlmann-bedachungen-holzbau-und-spenglerei-gmbh-frenkendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige und professionelle Zimmerei! Die Arbeiten werden termingerecht und in bester Qualität ausgeführt. Freundliches Team – absolut empfehlenswert!",
+        "time": 1743943090,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "C. H.",
+        "author_photo": "/images/reviews/zihlmann-bedachungen-holzbau-und-spenglerei-gmbh-frenkendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sympathische und professionelle Firma. Die Qualität der Arbeit ist hervorragend. Gerne wieder!",
+        "time": 1689917171,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

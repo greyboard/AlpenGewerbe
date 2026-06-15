@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJS64Q1aXrhEcRa6-irIxs9E0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Angelina P",
+        "author_photo": "/images/reviews/viamala-haustechnik-thusis-sanitaer-heizung-lueftung-thusis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr, sehr freundlich und hilfsbereit!!\nDanke!!",
+        "time": 1623256946,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Elif Asam",
+        "author_photo": "/images/reviews/viamala-haustechnik-thusis-sanitaer-heizung-lueftung-thusis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1596228537,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Elif Asam",
+        "author_photo": "/images/reviews/viamala-haustechnik-thusis-sanitaer-heizung-lueftung-thusis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580434036,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Veysi Başbayandur",
+        "author_photo": "/images/reviews/viamala-haustechnik-thusis-sanitaer-heizung-lueftung-thusis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1470497959,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

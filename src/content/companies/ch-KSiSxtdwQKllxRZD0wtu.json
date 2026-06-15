@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJse-oijBtjkcR42kvBBSxUdU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Miriam Müller",
+        "author_photo": "/images/reviews/etter-waermetechnik-ag-morat/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Leider haben wir sehr schlechte Erfahrungen gemacht. Wir erachten ihn nicht als professionell",
+        "time": 1763900969,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Fabienne Rohrbach",
+        "author_photo": "/images/reviews/etter-waermetechnik-ag-morat/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden. Problem bei der Heizung wurde rasch gelöst. Sogar noch Einsatz nach dem Feierabend. Vielen DANK für den tollen Service.",
+        "time": 1732781440,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "René H",
+        "author_photo": "/images/reviews/etter-waermetechnik-ag-morat/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Service.\nBrenner Samstag Abend ausgestiegen. Herr Etter war 30 Minuten später vor Ort. Brenner war in kürzester Zeit repariert.\nBesten Dank!",
+        "time": 1573923319,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Fan's Club Lara Gut",
+        "author_photo": "/images/reviews/etter-waermetechnik-ag-morat/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein sehr kompetentes Team",
+        "time": 1714899334,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dec McG",
+        "author_photo": "/images/reviews/etter-waermetechnik-ag-morat/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service!",
+        "time": 1641883970,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

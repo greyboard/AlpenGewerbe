@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_YohU8ZcjkcRGJ8mIJ6RtdQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Dr. Menzis",
+        "author_photo": "/images/reviews/aebischer-ag-plaffeien/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit! Die neue Dacheindeckung mit Prefa Dachschindeln inklusiver Aufisolierung auf die bestehende Konstruktion ist der Hammer 🤩 auch der Fassadenteil sieht mit Winkelstehfalzbahnen einfach gut aus. Alle Details und Anschlüsse sind Fachmännisch ausgebildet und ich werde nun ein Leben lang keine Sorgen mehr mit dem Dach haben. Starke Leistung!",
+        "time": 1746727341,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dominik Schäfer",
+        "author_photo": "/images/reviews/aebischer-ag-plaffeien/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die tolle Ausführung der Arbeiten. Die angenehme und freundliche Zusammenarbeit bei uns in Praz (Vully)\nGerne wieder💪",
+        "time": 1774963190,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Ramon Kropf",
+        "author_photo": "/images/reviews/aebischer-ag-plaffeien/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Es klingt fast zu schön um wahr zu sein, aber es war echt ein Vergnügen mit der Firma Aebischer zu arbeiten. Wir haben unser Flachdach (eher komplex mit mehreren Niveaus und verschiedenen Gefällen) durch die Firma Aebischer machen lassen. Die Arbeit wurde super gemacht, alle Termine wurden eingehalten (oder sie waren sogar früher vor Ort als geplant), extrem Kundenorientiert auch bei Spezialwünschen, aufgestelltes und motiviertes Team mit freundlichen Mitarbeitern. Ach, wenn doch nur alle Firmen in der Baubranche so wären. Vielen Dank für die super Arbeit.",
+        "time": 1689862699,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alexandra Fuchs",
+        "author_photo": "/images/reviews/aebischer-ag-plaffeien/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein aussergewöhnlicher Lehrbetrieb!\nWenn es möglich wäre, würde ich die Firma Aebischer AG mit 10 ⭐️ bewerten. Das gesamte Team zeigt ein unglaubliches Engagement und kümmert sich mit viel Geduld und Leidenschaft um die persönliche und berufliche Entwicklung der Lehrlinge. Besonders beeindruckend ist die offene und unterstützende Atmosphäre, die den Auszubildenden den Raum gibt, sich frei zu entfalten, Fehler zu machen und daraus zu lernen. Jeder Lehrling wird auf auf seinem individuellen Weg begleitet.\nHier findet Ausbildung auf höchstem Niveau statt. Was für ein toller Lehrbetrieb!\nVielen Dank für alles!",
+        "time": 1728236905,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Perren",
+        "author_photo": "/images/reviews/aebischer-ag-plaffeien/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ersatz Dachfenster alles vorbildlich geklappt.",
+        "time": 1564897962,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

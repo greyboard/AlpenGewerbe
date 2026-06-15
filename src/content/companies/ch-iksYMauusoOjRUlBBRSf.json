@@ -26,5 +26,38 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJsQl-TzFqhUcRHybVgpmQLfk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Patrick Berger",
+        "author_photo": "/images/reviews/schreinerei-gerig-ag-amsteg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit und sehr kompetent, gerne wieder 👍🏻😃 liebe Grüße GENGAAG Patrick",
+        "time": 1772824544,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Walker Tobias",
+        "author_photo": "/images/reviews/schreinerei-gerig-ag-amsteg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Massivholz und Türen von höchster Qualität. Sehr zu empfehlen.",
+        "time": 1707286036,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Renato Triulzi",
+        "author_photo": "/images/reviews/schreinerei-gerig-ag-amsteg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Meinen Auftrag wurde perfekt geliefert danke",
+        "time": 1622233582,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

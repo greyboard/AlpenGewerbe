@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ70Z9n0ZjkcRoUapoKzxug8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Bdbdfb Brbdbr",
+        "author_photo": "/images/reviews/lehmann-partner-gartenbau-ag-ipsach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Service\nMitarbeiter Bombenfreundlich.",
+        "time": 1760974775,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Matthias Rüetschi",
+        "author_photo": "/images/reviews/lehmann-partner-gartenbau-ag-ipsach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent Beraten worden von Herr Niedermann. Leider kam es nicht zu einem gemeinsamen Projekt, dennoch vielen Dank!",
+        "time": 1738836954,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Angela Kämpfen",
+        "author_photo": "/images/reviews/lehmann-partner-gartenbau-ag-ipsach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super.",
+        "time": 1581330752,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "burzelbaum burzel",
+        "author_photo": "/images/reviews/lehmann-partner-gartenbau-ag-ipsach/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Die Schefin ist sehr Arogant. Schade.",
+        "time": 1557328887,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Patric Hostettler",
+        "author_photo": "/images/reviews/lehmann-partner-gartenbau-ag-ipsach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sympathisches Team, gute und preiswerte Abeit.",
+        "time": 1524728516,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

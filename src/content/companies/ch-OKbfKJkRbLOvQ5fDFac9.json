@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJR04NrLfSmkcRNQ_oyI2JmCY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "Andreas Zweifel",
+        "author_photo": "/images/reviews/eberle-floristik-gaerten-naefels/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit vielen Jahren arbeiten wir zusammen – stets seriös, kompetent, fair, freundlich und lösungsorientiert.\nDie Zusammenarbeit mit dem gesamte Team macht Freude, und wir freuen uns auf viele weitere gemeinsame Projekte.\n\nSCHIESSER Architektur und Bauingenieur AG, Glarus",
+        "time": 1759754585,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Fabrizio Ricchiuto",
+        "author_photo": "/images/reviews/eberle-floristik-gaerten-naefels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dieser Florist besticht durch seine exzellente Auswahl an frischen, qualitativ hochwertigen Blumen und Pflanzen. Das sachkundige und freundliche Personal bietet hervorragende Beratung und individuellen Service, was den Einkauf zu einem angenehmen Erlebnis macht. Die Preise sind fair und widerspiegeln die Qualität der Produkte. Insgesamt bietet dieser Florist ein großartiges Einkaufserlebnis für jeden Blumen- und Pflanzenliebhaber.",
+        "time": 1704191273,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tanja",
+        "author_photo": "/images/reviews/eberle-floristik-gaerten-naefels/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Beratung. Das Ergebnis war ein super schöner Brautstrauss & Deko. Ich hatte grosse Freude an den Blumen. Komme gerne wieder.:)",
+        "time": 1745747922,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Twitch_DJ7STARS",
+        "author_photo": "/images/reviews/eberle-floristik-gaerten-naefels/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr schöne Blumendekorationen und Auswahl an Blumen. Das Personal ist sehr freundlich und hilfsbereit.",
+        "time": 1651315578,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michael Hostettler",
+        "author_photo": "/images/reviews/eberle-floristik-gaerten-naefels/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hochzeitsfloristik auf höchstem Niveau!\n-kundenorientierte Beratung\n-sehr gute Preis-Leistung\n-perfekte Umsetzung.\nDer Hochzeitsschmuck und die Festdekoration von euch haben unserem Anlass ein WUNDERSCHÖNES Ambiente gegeben, vielen Dank.",
+        "time": 1665501597,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJU-GlphwYjkcRg1bIdayng7o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Raphael",
+        "author_photo": "/images/reviews/graeppi-moser-gmbh-lyss/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben bei unserem Neubau diverse Schränke herstellen lassen und sind vom Design und Qualtität begeistert!",
+        "time": 1771104892,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jean-Marc Sautebin",
+        "author_photo": "/images/reviews/graeppi-moser-gmbh-lyss/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Danke für die tolle Arbeit an unserem neuen EFH.\nSehr gute Handwerker/Schreiner mit viel Berufsstolz! Alle Termine werden eingehalten.",
+        "time": 1705770846,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mark Christen",
+        "author_photo": "/images/reviews/graeppi-moser-gmbh-lyss/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eine wirklich sehr unkomplizierte und freundliche Schreinerei. Nur zu empfehlen!",
+        "time": 1686578966,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "M. B.",
+        "author_photo": "/images/reviews/graeppi-moser-gmbh-lyss/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetente und unkomplizierte Schreinerei. Zu empfehlen.",
+        "time": 1561158544,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "lauraeggli",
+        "author_photo": "/images/reviews/graeppi-moser-gmbh-lyss/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699193601,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

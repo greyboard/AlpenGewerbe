@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJC8bmNxAhzY0Rl_dlUVlnzJw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Ronny Egger",
+        "author_photo": "/images/reviews/aw-gaerten-gmbh-islikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "hallo lieber Andi\nauch auf diesem Weg möchen wir uns herzlichst für deinen TOP JOB bedanken, echt schön einen solch zuverlässigen und guten \"Büetzer\" gefunden zu haben. Wir schätzen deine persönliche Art und Weise sehr, wie auch deine Liebe zum Detail. Alles in allem bist du mit deiner Arbeit wirklich äusserst preiswert!\nGerne werden wir dich für alle künftigen Gartenarbeiten engagieren, du hast zufriedene Stammkunden gefunden, die dich jederzeit gerne weiterempfehlen werden!!\n\nLiebe Grüsse\nFamilie Egger",
+        "time": 1744186582,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gavric Coin",
+        "author_photo": "/images/reviews/aw-gaerten-gmbh-islikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gartenarbeit super erledigt von Andy - zuverlässig, sauber und speditiv. Alles eingehalten wie vereinbart und zu einem super Preis! Danke Dir. Grüsse Goran",
+        "time": 1745678541,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tobias Etter",
+        "author_photo": "/images/reviews/aw-gaerten-gmbh-islikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Andi ist ein wahrer Profi. Mit viel Einsatz und Fachwissen verwandelt er braun-gefleckte Rasenflächen im Nu in saftiges Grün. Dank seiner geschickten Auswahl passender Pflanzen wird der Garten zu einer echten Wohlfühloase. Ein gepflegter Garten von Andi macht das Leben einfach schöner.",
+        "time": 1725725035,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christian Ott",
+        "author_photo": "/images/reviews/aw-gaerten-gmbh-islikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben AW Gärten für die Umgestaltung unseres Gartens beauftragt und sind mehr als zufrieden. Andi arbeitet effizient, mit viel Fachwissen und hält sich an alle Absprachen. Das Ergebnis ist ein Garten, der unsere Erwartungen weit übertroffen hat!",
+        "time": 1725725246,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Leoula Abraham",
+        "author_photo": "/images/reviews/aw-gaerten-gmbh-islikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit, pünktlich, freundlich und mit Liebe zum Detail!  Würde euch jederzeit wieder buchen. :)\nVielen Dank!",
+        "time": 1752652238,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

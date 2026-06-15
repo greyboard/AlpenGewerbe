@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0YJfys9vjEcRaxWMUUJDMpo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Martine Chollet",
+        "author_photo": "/images/reviews/magnin-paroisse-sa-thonex/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit diesem Unternehmen hat mir sehr viel Freude bereitet. Sie sind freundlich, seriös und engagiert. Sehr professionell. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1763975650,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Gregory",
+        "author_photo": "/images/reviews/magnin-paroisse-sa-thonex/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Emmanuel Magnin und sein gesamtes Team sind professionell und zuverlässig und leisten hervorragende Arbeit. Ich habe ihre Dienste für verschiedene Projekte in Anspruch genommen und bin mit der Arbeit und der Einhaltung der Fristen rundum zufrieden. Ich kann diese Firma uneingeschränkt empfehlen.",
+        "time": 1749544054,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manuel Sauter",
+        "author_photo": "/images/reviews/magnin-paroisse-sa-thonex/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein hervorragendes, hochprofessionelles Unternehmen. Die Inhaber und ihr Team sind sehr freundlich und aufmerksam und finden stets eine optimale Lösung.\n\nIch kann dieses Unternehmen uneingeschränkt empfehlen.",
+        "time": 1752844831,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Walter B.",
+        "author_photo": "/images/reviews/magnin-paroisse-sa-thonex/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Freundlich und kompetent",
+        "time": 1780078419,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Romain",
+        "author_photo": "/images/reviews/magnin-paroisse-sa-thonex/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein sehr angesehenes Unternehmen. Die Mitarbeiter sind kompetent, gewissenhaft und scheinen wirklich an ihrer Arbeit interessiert zu sein; ich kann sie empfehlen.",
+        "time": 1652599309,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

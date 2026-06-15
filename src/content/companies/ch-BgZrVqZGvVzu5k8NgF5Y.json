@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJA2-raNSBmkcRMgZjkGUMAw8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Daniel Ernst",
+        "author_photo": "/images/reviews/metasol-ag-beringen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fantastischer Service !!!! Wir sind zu früh aus unserer Garage gefahren. Das Sektionaltor war noch nicht ganz offen und wir sind mit der Dachantenne dagegen gefahren. Nicht nur der Schaden am Autodach war beträchtlich, auch das Tor hing schief und der Seilzug war gerissen. Nach nur eineinhalb Stunden war der freundliche und kompetente Monteur vor Ort und konnte das Tor reparieren. Wir sind begeistert !!!",
+        "time": 1719476256,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andy Steinemann",
+        "author_photo": "/images/reviews/metasol-ag-beringen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gerade ein Garagentor als Ersatz bestellt. Dank nicht nur 0815-Beratung fanden wir eine neue Lösung die uns einen schönen Mehrnutzen schafft..! DANKE!!!",
+        "time": 1518639756,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Patrick Schlatter",
+        "author_photo": "/images/reviews/metasol-ag-beringen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wenn Sie gut und fair bedient werden möchten und eine gute Arbeit dann sind Sie richtig bei der Metasol. Tolles Team. Danke für die Arbeiten die Ihr für mich gemacht haben.",
+        "time": 1520584362,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Gary Hümbeli",
+        "author_photo": "/images/reviews/metasol-ag-beringen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke für die tolle Beratung sowie für denn Einsatz wo unser Tor nicht mehr geschlossen hat.",
+        "time": 1717051991,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ronnie Christen",
+        "author_photo": "/images/reviews/metasol-ag-beringen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Leute freundlich und zuvorkommend",
+        "time": 1673869937,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

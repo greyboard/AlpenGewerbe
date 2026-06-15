@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ59HgnTQZjkcRWZ9V4tSXCug",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Cédric Huguenin",
+        "author_photo": "/images/reviews/perler-bodenbelaege-orpund/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit dem Resultat! Auch beim nächsten Boden werde ich zu Herr Perler gehen. Vielen Dank.",
+        "time": 1651746468,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "M M",
+        "author_photo": "/images/reviews/perler-bodenbelaege-orpund/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung perfekt alles umgesetzt.!",
+        "time": 1679583032,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Noelle Perler",
+        "author_photo": "/images/reviews/perler-bodenbelaege-orpund/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Geschäft von meine gusa jonas perler super",
+        "time": 1767346871,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Simeon Flöck",
+        "author_photo": "/images/reviews/perler-bodenbelaege-orpund/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Spitze!",
+        "time": 1767473484,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Jay Pyres",
+        "author_photo": "/images/reviews/perler-bodenbelaege-orpund/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Incrível 🤩",
+        "time": 1695559538,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

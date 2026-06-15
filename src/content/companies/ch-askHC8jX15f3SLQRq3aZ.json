@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJLSPUw8IWkEcRd6ClAPf1DMI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Hansueli Helbling",
+        "author_photo": "/images/reviews/klein-gartenbau-gmbh-dintikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gartenumgestaltung, März 2024\n\n\"Kleingartenbau\" Herr Manuel Klein hat uns sehr kompetent beraten. Alle Änderungen im Garten wurden sehr sorgfältig und professionell mit seinem Team umgesetzt. Das Projekt wurde laufend optimiert und speditiv abgeschlossen.\nWir geniessen täglich den erweiterten Wohnbereich in unserem Garten.\nFür das bestens gelungene Werk bedanken wir uns beim Team \"Kleingartenbau\" recht herzlich.",
+        "time": 1715075513,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "D. Bertschi",
+        "author_photo": "/images/reviews/klein-gartenbau-gmbh-dintikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tolle Arbeit. Meine Gartenplatten sind wieder wie neu und ich bin überglücklich über meinen schönen Garten, der in neuem Glanz erstrahlt- der Sommer kann kommen.",
+        "time": 1747311673,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Iryna Grossenbacher",
+        "author_photo": "/images/reviews/klein-gartenbau-gmbh-dintikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Arbeiten wurden professionell ausgeführt, qualitativ und sehr schnell. Vielen Dank. Ich werde euch immer gerne weiterempfehlen.",
+        "time": 1778847061,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Christian Geissmann",
+        "author_photo": "/images/reviews/klein-gartenbau-gmbh-dintikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sympathisch, ehrlich, schnell und professionell. So habe ich Manuel Klein kennen gelernt. Gerne zählen wir auch in Zukunft auf die Dienstleistungen der Klein Gartenbau aus Dintikon, bisher waren wir stets sehr zufrieden.",
+        "time": 1492122772,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Rudi Rüssel",
+        "author_photo": "/images/reviews/klein-gartenbau-gmbh-dintikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Dienstleistungen, professionell, persönlich und kompetent. Gerne wieder!",
+        "time": 1581782482,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

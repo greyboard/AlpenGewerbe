@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJJbFHHZxN7GIRpFAaSN_ueIA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Fendtastic V960",
+        "author_photo": "/images/reviews/schuetz-innenausbau-niederbipp/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Schütz ist sehr empfehlenswert. Vom Erstgespräch bis hin zur Rechnungsstellung klappt alles, stimmt alles und bereitet Freude. Freundlich, kompetent, speditiv und zuverlässig wird alles erledigt. Das schafft Vertrauen. Unser bester Dank geht an die Fa. Schütz.",
+        "time": 1753250117,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "N. F.",
+        "author_photo": "/images/reviews/schuetz-innenausbau-niederbipp/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Partner für Innenausbau\n\nWir hatten mit der Schütz Innenausbau AG eine wirklich erstklassige Zusammenarbeit. Alles verlief professionell, termintreu und sehr kompetent. Qualität und Details stimmten auf ganzer Linie – vom ersten Gespräch bis zur Fertigstellung. Sehr gerne wieder – absolut empfehlenswert!",
+        "time": 1758058953,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Gabriel Iberg",
+        "author_photo": "/images/reviews/schuetz-innenausbau-niederbipp/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent, Präzis und Sympathisch 👌😊.\nWerde in Zukunft sicher wieder was bei euch anfertigen lassen.",
+        "time": 1720976589,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Amanda Bögli",
+        "author_photo": "/images/reviews/schuetz-innenausbau-niederbipp/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit von Schütz Innenausbau AG und insbesondere Manuel Schütz. In meiner Ferienwohnung im Tessin wurde ein neuer Boden verlegt – die Umsetzung war schnell, unkompliziert und sehr effizient. Die zwei Arbeiter haben sauber und zuverlässig gearbeitet, und das Ergebnis ist sehr schön. Eine klare Weiterempfehlung meinerseits!",
+        "time": 1777970421,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Renat Schütz",
+        "author_photo": "/images/reviews/schuetz-innenausbau-niederbipp/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1754845347,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

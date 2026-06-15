@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ75tFHFwfjkcR37hDRBGQ_n0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Mel A.",
+        "author_photo": "/images/reviews/maibach-gartenbau-gmbh-safnern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Maibach Gartenbau hat uns im September 23 eine neue Terrasse gemacht und im September 24 eine Stützmauer. Wir können die Firma zu 100% und mit gutem Gewissen weiterempfehlen. Top Arbeit, sehr nette und kompetente Gartenbauer, Preis-Leistung perfekt! Gerne wieder 🙌🏻",
+        "time": 1727716251,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michelle Maron",
+        "author_photo": "/images/reviews/maibach-gartenbau-gmbh-safnern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann Maibach Gartenbau uneingeschränkt empfehlen! Wenn Sie auf der Suche nach einem zuverlässigen und kreativen Gartenunternehmer sind, der Ihre Vorstellungen verwirklicht, sind Sie hier genau richtig. Vielen Dank an das gesamte Team für die immer hervorragende Arbeit!",
+        "time": 1733758439,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ina von Bueren",
+        "author_photo": "/images/reviews/maibach-gartenbau-gmbh-safnern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Maibach arbeitet ohne giftige Spritzmittel - zum Wohl von uns allen. Es gibt eben für alles Alternativen. Lasst uns ganzheitliche Betriebe fördern - für einen gesunden Planeten und gesunde Meschen.",
+        "time": 1710944919,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrea BISANG",
+        "author_photo": "/images/reviews/maibach-gartenbau-gmbh-safnern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und freundliche Beratung.",
+        "time": 1761732560,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Urs Röthlisberger",
+        "author_photo": "/images/reviews/maibach-gartenbau-gmbh-safnern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Team und saubere Arbeit. Aufgestellt, nett und hilfsbereit. Sehr kompetente Beratung und Ausführung.",
+        "time": 1742292759,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCbSaWchRhUcRdFdNh1iitPY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Alexander Mauterer",
+        "author_photo": "/images/reviews/peter-camenzind-holzbau-und-bedachungen-gersau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Beste Zimmermann , der was von seinem Beruf versteht und mit Leib und Seele dabei ist 👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "time": 1774021902,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Darshan Chhatbar",
+        "author_photo": "/images/reviews/peter-camenzind-holzbau-und-bedachungen-gersau/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Gute Aussicht von hier",
+        "time": 1478630742,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

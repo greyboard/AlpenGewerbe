@@ -1,7 +1,7 @@
 {
   "id": "ch-Jb4Ax1IWXuWODX2x3lIu",
   "slug": "casto-menuiserie-carouge",
-  "name": "Casto Menuiserie",
+  "name": "Casto Fabio",
   "branchen": [
     "zimmermann"
   ],
@@ -26,5 +26,54 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJdcVpT9p6jEcRj1db6OSYgHs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Carla Gomes",
+        "author_photo": "/images/reviews/casto-menuiserie-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Schreiner, der zu mir nach Hause kam, war sehr freundlich und sehr effizient.",
+        "time": 1761138329,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Cath tt",
+        "author_photo": "/images/reviews/casto-menuiserie-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit der Schreinerei Casto. Vom ersten Kontakt an zeigte das Team große Professionalität und ging sehr aufmerksam auf meine Bedürfnisse und Erwartungen ein.\n\nDie Arbeiten wurden mit vorbildlicher Sorgfalt und Präzision ausgeführt. Jedes Detail wurde berücksichtigt, und das Endergebnis ist einfach perfekt. Die verwendeten Materialien sind von sehr hoher Qualität, und das fertige Produkt hat meine Erwartungen weit übertroffen.\n\nBesonders beeindruckt hat mich das Fachwissen und die Leidenschaft, die das Team in mein Projekt einbrachte. Sie setzten meine Ideen gekonnt in die Realität um und hielten die vereinbarten Fristen penibel ein. Ihre Liebe zum Detail und ihr Engagement für die Kundenzufriedenheit sind bemerkenswert.\n\nIch kann Casto Carpentry jedem wärmstens empfehlen, der ein kompetentes, zuverlässiges und engagiertes Team sucht. Herzlichen Dank an das gesamte Team für die hervorragende Arbeit!",
+        "time": 1722267841,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Paapa Adjekum",
+        "author_photo": "/images/reviews/casto-menuiserie-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein herzliches Dankeschön an das Team für die hervorragende Schreinerarbeit! Die Ausführung ist makellos und der Service von Anfang bis Ende professionell. Die 5-Sterne-Bewertung ist absolut verdient!",
+        "time": 1722349696,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc Baud",
+        "author_photo": "/images/reviews/casto-menuiserie-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein dynamisches, freundliches und sehr professionelles Team. Ich kann diese Firma wärmstens empfehlen, wir waren mit der Qualität ihrer Arbeit rundum zufrieden.",
+        "time": 1722268207,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexandra",
+        "author_photo": "/images/reviews/casto-menuiserie-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr seriöses Unternehmen mit einem tollen Team. Hochwertige Arbeit.",
+        "time": 1722267334,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

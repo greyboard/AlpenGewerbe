@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJty-lXT8em0cRMPRi3e0oan4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–17:15 Uhr",
+    "Dienstag: 06:45–17:15 Uhr",
+    "Mittwoch: 06:45–17:15 Uhr",
+    "Donnerstag: 06:45–17:15 Uhr",
+    "Freitag: 06:45–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Patrick F",
+        "author_photo": "/images/reviews/s-deluca-gipser-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sergio Deluca und sein Team arbeiten sehr professionell, schnell und liefern ein Top Resultat ab. Wir sind sehr zufrieden.",
+        "time": 1594101990,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Raffael Jakob",
+        "author_photo": "/images/reviews/s-deluca-gipser-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die besten Gipser aus der Ostschweiz. Danke für die tollen Arbeiten.",
+        "time": 1662365639,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "DRSL",
+        "author_photo": "/images/reviews/s-deluca-gipser-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1731099695,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Antonaci Leonardo",
+        "author_photo": "/images/reviews/s-deluca-gipser-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1503839105,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Helena Keusch",
+        "author_photo": "/images/reviews/s-deluca-gipser-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1436339763,
+        "relative_time_description": "vor 10 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

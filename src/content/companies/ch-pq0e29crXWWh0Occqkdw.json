@@ -26,5 +26,54 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJA34dkA3IhUcR3BJVBDKjLkw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "peter tschudi",
+        "author_photo": "/images/reviews/laube-sa-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekte Begleitung in der Vorprojekt-Phase meiner Tinyhouse-Idee. In kurzer Zeit wurde eine gut verständliche und umfassende Offerte erstellt. Laube bietet alles aus einer Hand, falls gewünscht. Eine Umsetzung würde ich bedenkenlos an Laube als GU übergeben .. fehlt nur noch das passende Grundstück.",
+        "time": 1649949020,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Antonio Arcese",
+        "author_photo": "/images/reviews/laube-sa-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Besten im Tessin in Sachen Professionalität, Organisation, Kosten und Lieferzeiten.",
+        "time": 1652121252,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Account Canadese",
+        "author_photo": "/images/reviews/laube-sa-losone/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Schrecklich.",
+        "time": 1697789506,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tiago Silva",
+        "author_photo": "/images/reviews/laube-sa-losone/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699376685,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dani",
+        "author_photo": "/images/reviews/laube-sa-losone/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1727881377,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

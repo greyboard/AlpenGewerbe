@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJywIhHjsim0cRsT6QvQ9GVdo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:45 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:45 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:45 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:45 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Baptist Inauen",
+        "author_photo": "/images/reviews/rechsteiner-ag-meistersrueti/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Sehr schöne sehenswerte Küchen",
+        "time": 1731538144,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Reto 4x4offroadreisen",
+        "author_photo": "/images/reviews/rechsteiner-ag-meistersrueti/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1733340511,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Willi",
+        "author_photo": "/images/reviews/rechsteiner-ag-meistersrueti/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656912281,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rebekka Storz",
+        "author_photo": "/images/reviews/rechsteiner-ag-meistersrueti/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1555422201,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

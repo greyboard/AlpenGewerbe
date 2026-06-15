@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJBziSW5M9kEcRpLAsb-C7-EU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Marcello Hess",
+        "author_photo": "/images/reviews/rey-metall-gmbh-suhr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Thomas hat von der Planung bis zur Ausführung einen perfekten Job gemacht! Das Balkongeländer entspricht genau unseren Vorstellungen. Sehr sympathisches und kompetentes Team – kann ich jederzeit weiterempfehlen!",
+        "time": 1679135340,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Zbinden Oliver",
+        "author_photo": "/images/reviews/rey-metall-gmbh-suhr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Planung bis zur Ausführung – einfach perfekt! Thomas und sein Team haben mit höchster Präzision und Professionalität überzeugt. Alles wurde bis ins kleinste Detail durchdacht und perfekt umgesetzt. Ein verlässlicher Partner, der sein Handwerk versteht. Absolute Empfehlung!",
+        "time": 1734435402,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Tramm",
+        "author_photo": "/images/reviews/rey-metall-gmbh-suhr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Rey und sein Team haben uns eine sehr schöne Stobag Bavona Hard-Top Pergola aufgestellt. Material und handwerkliche Ausführung in Top-Qualität und dabei sehr zuverlässig. Können wir nur weiterempfehlen.",
+        "time": 1724767907,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rudolf Buergi",
+        "author_photo": "/images/reviews/rey-metall-gmbh-suhr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Mit der Teilüberdachung inkl. Abschattung (elektrisch, mit Fernbedienung) unserer Terrasse hat die Firma Rey Metall nun die dritte und umfangreichste Arbeit für unser Zweigenerationenhaus ausgeführt. Von der Beratung über die Planung bis und mit Ausführung hat alles vorzüglich geklappt. Wir können diese junge Firma aus Suhr nur wärmstens weiter empfehlen!\nHerzlichen Dank für die tolle Arbeit.",
+        "time": 1684058178,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Aćim AS",
+        "author_photo": "/images/reviews/rey-metall-gmbh-suhr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von der Projektierung bis zur Ausführung wurde der Auftrag zur vollsten Zufriedenheit ausgeführt. Angenehme Beratung, Offerte eingehalten, perfekt organisiert und vorbereitet. Wir können Rey Metall sehr empfehlen.",
+        "time": 1626337242,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

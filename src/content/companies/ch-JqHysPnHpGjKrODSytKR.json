@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-REqyGzYkUcR8zCg42TwU6I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 56,
+    "reviews": [
+      {
+        "author_name": "Roman Zibung",
+        "author_photo": "/images/reviews/schneitter-ag-langendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zusammen mit der Firma Schneitter haben wir eine PV-Anlage auf unserem Dach realisiert. Von der initialen Beratung über die Planung bis hin zur Umsetzung haben wir uns sehr professionell und kompetent begleitet gefühlt. Die Handwerker arbeiten mit hoher Qualität, sind sehr freundlich und kommunizieren zeitnah und klar. Man spürt die kundenorientierte Firmenkultur. Für uns als Auftraggeber von A bis Z ein tolles Erlebnis.",
+        "time": 1684870019,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Jüni",
+        "author_photo": "/images/reviews/schneitter-ag-langendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firrma Schneitter AG installierte an unserem Firmenstandort innert kürzester Zeit die neue Solarananlage und sanierte das Flachdach. Sämtliche Arbeiten wurden sehr sauber, fachkundig und Termingerecht umgesetzt.\nWir können die Firma Schneitter sehr empfehlen.\nMister Cool AG, Daniel Jüni",
+        "time": 1689236726,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Theo Zbären",
+        "author_photo": "/images/reviews/schneitter-ag-langendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Schneitter AG ist ein zuverlässiger Partner im Bereich Sanitär, Heizung, Photovoltaik, und Flachdacharbeiten. Als Küchenbaufirma  arbeiten wir regelmässig mit der Firma zusammen. Unsere Kundschaft ist sehr zufrieden mit der professionellen Ausführung und der hohen Qualität der Arbeit.\n\nAuch privat durften wir uns bei unserem Neubau auf die Kompetenz von Schneitter AG verlassen. Die Arbeiten wurden präzise, termingerecht und mit grosser Sorgfalt ausgeführt. Besonders schätzen wir die fachkundige Beratung, den hervorragenden Service und das Engagement des gesamten Teams.\n\nEin Unternehmen, das Qualität und Zuverlässigkeit lebt – absolut empfehlenswert!",
+        "time": 1741897771,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anna Kobi",
+        "author_photo": "/images/reviews/schneitter-ag-langendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hatte als Privatperson im Rahmen einer Garantieabnahme mit der Firma Schneitter in Langendorf zu tun. Meine Anliegen wurden zeitnah, kompetent und sehr freundlich aufgenommen und umgesetzt. Besonders geschätzt habe ich die unkomplizierte Kommunikation und die verlässliche Rückmeldung. Man merkt, dass hier Kundenzufriedenheit wirklich ernst genommen wird. Vielen Dank für den guten Service.",
+        "time": 1757653229,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Bernhard Gerber",
+        "author_photo": "/images/reviews/schneitter-ag-langendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Thema: Reinigung der Photovoltaikanlage: Schnell, unkompliziert, kompetent und zu fairen Konditionen. Besonders zu erwähnen gibt es Herrn Bany Thanitsorn, welcher eine sehr gute Dienstleistung erbracht hat. Gerne wieder!\nBernhard Gerber, CEO Ekko Meister AG",
+        "time": 1744608044,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

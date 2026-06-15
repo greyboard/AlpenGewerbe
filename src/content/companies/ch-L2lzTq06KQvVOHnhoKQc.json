@@ -26,5 +26,22 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJndt1fvhrhUcRbvMRqsCbULQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Lukas Imhof",
+        "author_photo": "/images/reviews/hepps-gmbh-silenen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnell und unkompliziert",
+        "time": 1684611340,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

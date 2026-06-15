@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJR946w5NEhUcREn11i3kPep4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Jens Werner",
+        "author_photo": "/images/reviews/schibli-elektrotechnik-ag-attinghausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein nettes Team wo ich doch liebend gerne immer wieder hingehen würde. Ganz toll macht Ihr das. Trotz der vielen Probleme und Stress heut zu Tage bleiben alle mit einem Smilie freundlich und hilfsbereit. Danke vielmals",
+        "time": 1718191165,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Melanie Herger",
+        "author_photo": "/images/reviews/schibli-elektrotechnik-ag-attinghausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma!\nBester und kompetentester Mitarbeiter ist M.K.\nEinfach top!",
+        "time": 1602954708,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Angelika Grepper",
+        "author_photo": "/images/reviews/schibli-elektrotechnik-ag-attinghausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1755878641,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Noah Zurfluh",
+        "author_photo": "/images/reviews/schibli-elektrotechnik-ag-attinghausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753477188,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "René Chappuis",
+        "author_photo": "/images/reviews/schibli-elektrotechnik-ag-attinghausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1731949743,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

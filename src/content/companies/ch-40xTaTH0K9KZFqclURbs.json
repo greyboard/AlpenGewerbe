@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfRSkNLH8mkcRAp5rCZN7KaM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Mathyas W",
+        "author_photo": "/images/reviews/elektro-arber-ag-amriswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super service und mega freundlich👍👍👍👍",
+        "time": 1690277111,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "EWA DORMANOWSKA",
+        "author_photo": "/images/reviews/elektro-arber-ag-amriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr hilfsbereit und professionell",
+        "time": 1597662356,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Altin Fetahu",
+        "author_photo": "/images/reviews/elektro-arber-ag-amriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "perfekt",
+        "time": 1575989288,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Fonti Antonio",
+        "author_photo": "/images/reviews/elektro-arber-ag-amriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Profis und ein großartiges Team",
+        "time": 1607615944,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gaming 4life",
+        "author_photo": "/images/reviews/elektro-arber-ag-amriswil/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1726840531,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

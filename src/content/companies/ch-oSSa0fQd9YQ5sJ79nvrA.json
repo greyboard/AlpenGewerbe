@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJyb_4flBpj0cRPrwS2F1lMzA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Mario Aufdenblatten",
+        "author_photo": "/images/reviews/metallprofi-in-albon-rene-ag-gamsen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service bei Metallprofi In-Albon – Qualität, Präzision und Zuverlässigkeit\n\nMetallprofi In-Albon hat uns auf ganzer Linie überzeugt! Vom ersten Kontakt bis zur Fertigstellung unseres Projekts war die Zusammenarbeit professionell, freundlich und äußerst effizient. Das Team hat unsere Wünsche nicht nur verstanden, sondern mit großem handwerklichem Können und Liebe zum Detail perfekt umgesetzt.\n\nDie Qualität der Materialien und die Präzision der Verarbeitung sind außergewöhnlich. Besonders positiv hervorzuheben ist die termingerechte Fertigstellung – selbst bei einem komplexen Projekt. Metallprofi In-Albon zeigt, was es bedeutet, ein echter Profi zu sein.\n\nAuch der Kundenservice war exzellent: freundlich, hilfsbereit und stets lösungsorientiert. Wir können Metallprofi In-Albon uneingeschränkt weiterempfehlen und freuen uns schon auf zukünftige Projekte mit diesem herausragenden Betrieb. Vielen Dank für die großartige Arbeit!",
+        "time": 1734709768,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lisa Eggel",
+        "author_photo": "/images/reviews/metallprofi-in-albon-rene-ag-gamsen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1653114039,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Joël A",
+        "author_photo": "/images/reviews/metallprofi-in-albon-rene-ag-gamsen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1583093928,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Stefan Bregy",
+        "author_photo": "/images/reviews/metallprofi-in-albon-rene-ag-gamsen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1564001558,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Beti In-Albon",
+        "author_photo": "/images/reviews/metallprofi-in-albon-rene-ag-gamsen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1539777267,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

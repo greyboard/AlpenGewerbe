@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJp9iNMUgshUcRjhqNRwK3Tn8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Nöggi Arnold",
+        "author_photo": "/images/reviews/aebli-ag-ennenda/reviewer_1.jpg",
+        "rating": 5,
+        "text": "War immer sehr zufrieden.",
+        "time": 1567520049,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Milogi AE",
+        "author_photo": "/images/reviews/aebli-ag-ennenda/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1634664194,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jojo Lol",
+        "author_photo": "/images/reviews/aebli-ag-ennenda/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769194919,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Selma Kamm",
+        "author_photo": "/images/reviews/aebli-ag-ennenda/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739017094,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Flor Aebli",
+        "author_photo": "/images/reviews/aebli-ag-ennenda/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1634664316,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

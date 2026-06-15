@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_SeIsgp7j0cRRIIHIWsyqlA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Stefan Wehren",
+        "author_photo": "/images/reviews/russi-metallbau-ag-fieschertal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr profesionelle Firma mit langjährigen Mitarbeitern die ihr Handwerk verstehen.",
+        "time": 1646035135,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "klaus",
+        "author_photo": "/images/reviews/russi-metallbau-ag-fieschertal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1704830707,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabian Zurgilgen",
+        "author_photo": "/images/reviews/russi-metallbau-ag-fieschertal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1630680846,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hansruedi Wirthner",
+        "author_photo": "/images/reviews/russi-metallbau-ag-fieschertal/reviewer_4.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1624959246,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

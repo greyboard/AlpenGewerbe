@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJBxBbS71Fj0cRBOufy9EATfE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Leonie Stillhart",
+        "author_photo": "/images/reviews/schreinerei-imseng-ag-saas-fee/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Qualität",
+        "time": 1717262603,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dorothee Behringer",
+        "author_photo": "/images/reviews/schreinerei-imseng-ag-saas-fee/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann Witali nur empfehlen: schnelle Reaktionszeiten, respektvoller Umgang, agile Umsetzung in einwandfreier Qualität. Vielen Dank!",
+        "time": 1756460967,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Geoff Macdiarmid",
+        "author_photo": "/images/reviews/schreinerei-imseng-ag-saas-fee/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ivan und sein Team haben hervorragende Arbeit geleistet und für unsere Wohnung Altholzvertäfelungen und Möbel hergestellt und eingebaut. Absolut empfehlenswert!",
+        "time": 1627895685,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Eh Si",
+        "author_photo": "/images/reviews/schreinerei-imseng-ag-saas-fee/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684243616,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "eline schalbetter",
+        "author_photo": "/images/reviews/schreinerei-imseng-ag-saas-fee/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1614940135,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJjUKxiWD3mkcRV3ccbioWsJg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Bragaglia Claudio",
+        "author_photo": "/images/reviews/fliesenleger-mico-konstanz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mico Fliesen in Konstanz überzeugt durch  professionelle Beratung und hochwertige Produkte. Der Service ist kundenfreundlich und zuverlässig – von der Planung bis zur Ausführung. Sehr empfehlenswert!",
+        "time": 1743575216,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sina Wurster",
+        "author_photo": "/images/reviews/fliesenleger-mico-konstanz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nach einem Wasserschaden musste so einiges in meiner Wohnung erneuert werden. Das Team hat zuverlässig nach Absprache gehandelt. Sie haben sich flexibel anpassen können und haben qualitativ hochwertige Arbeit geleistet. Weiterhin kommt die gute Kommunikation und Freundlichkeit dazu. Das Ergebnis: Ich bin wieder gerne in meiner Wohnung. Danke euch dafür!",
+        "time": 1707752271,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marijana Luketina",
+        "author_photo": "/images/reviews/fliesenleger-mico-konstanz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Es gibt ihn noch den guten Handwerkerbetrieb der einfach professionelle und ehrbare ehrliche versprochene Arbeit leistet und zwar von Mensch zu Mensch ohne dass der Chef es machen muss oder dabei stehen sondern der Mitarbeiter der geschickt wird es perfekt nach Absprache ausführt!!! Bin dem ganzen Team so dankbar mein Bad gerettet zu haben nachdem sich Diletanten dort verewigt und ausgetobt hatten an den Fliesen! Ein tolles kompetentes professionelles Team das dieser Familienbetrieb da aufgebaut hat! Man spürt es einfach! Sebastian dein Chef kann sich glücklich schätzen! Danke dem Team Mico von ganzem Herzen! Sehr weiterzuempfehlen!!!! Passt alles.",
+        "time": 1691430881,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christopher Maier",
+        "author_photo": "/images/reviews/fliesenleger-mico-konstanz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben für eine Recht Spontane Umsetzung für eine Bad Renovierung einen Fliesenleger gebraucht. Mico war sehr flexibel professionell und qualitativ Top! Wir werden ihn das nächste Mal sicher wieder beauftragen. Klare Empfehlung",
+        "time": 1706436267,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sascha Volle",
+        "author_photo": "/images/reviews/fliesenleger-mico-konstanz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herausragende Arbeit, Qualität und Kommunikation, die es im Handwerk kaum mehr zu finden gibt. Mit den Arbeiten und dem Preis- Leistungsverhältnis sind wir überaus zufrieden, weshalb wir das sehr professionelle und zuverlässige Fliesenleger-Team Mico uneingeschränkt weiterempfehlen.",
+        "time": 1654863469,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

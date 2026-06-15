@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJPw0HY4Y6jkcREj41tTJTk1Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 64,
+    "reviews": [
+      {
+        "author_name": "Eve Lily",
+        "author_photo": "/images/reviews/marti-ag-bern-moosseedorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin grundsätzlich kein grosser Freund davon, Bewertungen zu verfassen. In diesem Fall ist es mir jedoch ein Anliegen, ein ausdrückliches Lob auszusprechen.\nDie Bauarbeiter, die sich derzeit vis-à-vis meines Pferdestalls befinden, überzeugen durch ihre freundliche Art, ihre Effizienz sowie durch die hohe Qualität ihrer Arbeit. Besonders hervorheben möchte ich ihre Rücksichtnahme gegenüber Mensch und Tier, was ich als sehr aufmerksam und professionell empfinde.\nFür dieses vorbildliche Verhalten möchte ich mich herzlich bedanken🙏😊",
+        "time": 1776777645,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "حبيب والي",
+        "author_photo": "/images/reviews/marti-ag-bern-moosseedorf/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Festangestellte Personal sind nicht anständig.hab auch mit polier Joel von Biel Baustelle zu tun gehabt.nicht zu empfehlen.",
+        "time": 1754852216,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "sir vacalina",
+        "author_photo": "/images/reviews/marti-ag-bern-moosseedorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir durften für das Weihnachtsessn Paellas machen. Alles perfect, wie besprochen. Wir sagen besten Dank!!!",
+        "time": 1735730605,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nyffenegger Jan",
+        "author_photo": "/images/reviews/marti-ag-bern-moosseedorf/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Ihr personal ist wahnsinnig unfreundlich und ungepflegt vorallem eure arbeiter in köniz tut mir leid aber es ist eine frechheit",
+        "time": 1740059999,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Friedli",
+        "author_photo": "/images/reviews/marti-ag-bern-moosseedorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine überzeugende Baumeister Firma mit Erfahrung die seines gleichen sucht! Kompetente Mitarbeiter, Kundenorientiert und Professionalität wird hier sehr gross geschrieben. Diverse Projekte hat Marti AG für uns schon in vollsten zufriedenheit ausgeführt. Für zukünftige Projekte wird die Marti AG durch uns sicher berücksichtigt.",
+        "time": 1548265141,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

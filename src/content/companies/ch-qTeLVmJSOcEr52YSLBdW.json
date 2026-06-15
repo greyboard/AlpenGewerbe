@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMyk6hNmBmkcRfhDAEev3t28",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 46,
+    "reviews": [
+      {
+        "author_name": "Matthias Klausmann",
+        "author_photo": "/images/reviews/wds-keramik-welten-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit und sehr kompetente Mitarbeiter. Die WDS Keramikwelten AG ist mehr als nur empfehlenswert.",
+        "time": 1760626858,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Liegenschaftenservices Silvan Müller GmbH",
+        "author_photo": "/images/reviews/wds-keramik-welten-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin rundum zufrieden! Die Beratung war super, sehr kompetent und hilfsbereit. Besonders hervorheben möchte ich die super freundlichen Mitarbeiter.",
+        "time": 1736330092,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Roman Müller",
+        "author_photo": "/images/reviews/wds-keramik-welten-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, schnelle Bearbeitung der Anfrage respektive Offerterstellung, unkomplizierte und flexible Terminvereinbarung für das Ausmass der Trennwand und fachgerechte/saubere Montage der Trennwand. Eindeutig 5 Sterne !!!",
+        "time": 1708629890,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rolf & Renate Weiss",
+        "author_photo": "/images/reviews/wds-keramik-welten-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der neuen Dusch-Falttüre sehr zufrieden. Die rasche Lieferung und die saubere Montage haben uns gefallen. Unser Dank gilt auch ganz besonders dem freundlichen und exakten Monteur, Herrn Al Maliki",
+        "time": 1554197468,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Steven Becker",
+        "author_photo": "/images/reviews/wds-keramik-welten-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Danke an das ganze Team und an Thomas Weber und euren Bruno .\nIhr seid sehr gut... Weiter so",
+        "time": 1660897898,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJLVpJ1_ryj0cRe06wfksxCJE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Hans",
+        "author_photo": "/images/reviews/j-von-moos-sanitaer-ag-sachseln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service. Schnell, kompetent und freundlich.\nDanke für die Reparatur!",
+        "time": 1757936660,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Martin Wagner",
+        "author_photo": "/images/reviews/j-von-moos-sanitaer-ag-sachseln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schneller Einsatz .\nWir waren sehr zufrieden und darum sehr empfehlenswert. Nochmals besten Dank",
+        "time": 1761468773,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Irène Amgarten",
+        "author_photo": "/images/reviews/j-von-moos-sanitaer-ag-sachseln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung und prompter einwandfreier Service. Herzlichen Dank für eure Spontanität",
+        "time": 1758642321,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Werner Dreyer",
+        "author_photo": "/images/reviews/j-von-moos-sanitaer-ag-sachseln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell, gründlich absolut zufriedenstellend. Sehr gerne wieder!!",
+        "time": 1742145384,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pius Rüttimann",
+        "author_photo": "/images/reviews/j-von-moos-sanitaer-ag-sachseln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit und schnelle Terminfindung",
+        "time": 1756018037,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

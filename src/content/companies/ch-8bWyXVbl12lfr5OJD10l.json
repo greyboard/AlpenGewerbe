@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJRzKyLBYnjkcRFesVF9MjABk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "La Palombara Michele",
+        "author_photo": "/images/reviews/heizungsmacher-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "«Ich bin von A–Z zufrieden mit der Firma Heizung Macher. Die Beratung, die Lösungsfindung und das Preis, Leistungsangebot waren top. Auch der Einbau hat reibungslos geklappt. Die Mitarbeiter sind freundlich und kompetent. Wir greifen wenn immer möglich auf Unternehmungen der Region zurück und Heizung Macher können wir absolut weiterempfehlen! der Samuel hat mich so überrascht mit seine Genauigkeit. Bravo.",
+        "time": 1765269844,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "André Müller VSG",
+        "author_photo": "/images/reviews/heizungsmacher-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung bei der Wahl der neuen Heizung (Erdsonde), Übernahme aller administrativen Belange (inkl. Antrag für Fördergelder), seriöse Abklärung mit den beteiligten Unternehmen vor Ort, aktive Begleitung der ganzen Bauphase und tadellose Inbetriebnahme des neuen Systems",
+        "time": 1765620800,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Christoph Kölliker",
+        "author_photo": "/images/reviews/heizungsmacher-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelle Wärmepumpen-Installation\n\nIch möchte meine Begeisterung für die Wärmepumpen-Installation durch das Team von Heizungsmacher AG teilen.\nVon Anfang bis Ende war die Erfahrung einfach fantastisch!\n\nDas Team war nicht nur äußerst kompetent, sondern auch unglaublich freundlich und zuvorkommend. Der Installateur hat sich Zeit genommen, all meine Fragen zu beantworten und mir das Verfahren verständlich zu erklären. Es fühlte sich wirklich wie eine Zusammenarbeit an.\n\nWährend des Installationsprozesses traten einige kleinere Probleme auf, aber das Team von Heizungsmacher AG rund um Tobias Häfliger reagierte sofort und fand schnelle, kundenorientierte Lösungen. Ihre Professionalität und Hingabe, Probleme umgehend anzugehen, haben meinen Respekt gewonnen.\n\nDie Installation verlief reibungslos und wurde termingerecht abgeschlossen. Die Wärmepumpe funktioniert einwandfrei, und ich spüre bereits den Unterschied in meiner Energieeffizienz.\n\nEin herzliches Dankeschön an das gesamte Team von Heizungsmacher AG. Ich kann ihre Dienstleistungen nur wärmstens ;-) empfehlen. Vielen Dank für die hervorragende Arbeit.",
+        "time": 1703088383,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Jordi",
+        "author_photo": "/images/reviews/heizungsmacher-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Service! Von der Beratung vor Ort, über die Planung bis zur Umsetzung waren wir vom Heizungsmacherteam und den involvierten Drittparteien begeistert. So macht's Spass, danke!",
+        "time": 1778135935,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Markus Roth",
+        "author_photo": "/images/reviews/heizungsmacher-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Umsetzung des ganzen Projekts \"Ölheizungsersatz mit Warmwassererzeugung\", die Planung von A-Z wie die Durchführung waren mustergültig. Die verschiedenen Handwerkteams arbeiten Hand in Hand.\nIch kann die Firma Heizungsmacher wärmstens empfehlen und möchte Andreas Hochreutener nochmals herzlichst danken.\n\nNibe F2120-20 + SMO-S40 + Multispeicher MFS 830S",
+        "time": 1651178452,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

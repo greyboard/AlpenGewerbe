@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_VR_IS1jg0cRWfKy7bhoENM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Gabriel Frey",
+        "author_photo": "/images/reviews/fried-schreinerei-ag-bever/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Fried Schreinerei AG führte die geplanten Arbeiten zu unserer vollsten Zufriedenheit aus. Die Datenerhebung für das Angebot erfolgte sehr sorgfältig, und es wurde ein detaillierter Kostenvoranschlag erstellt. Die Herren Fried (Junior und Senior) sowie deren Mitarbeiter waren jederzeit gut erreichbar und informierten uns während der gesamten Ausführungsphase telefonisch über den Stand. Dies war für uns besonders wertvoll, da es sich um einen kleinflächigen, detailreichen, jedoch technisch anspruchsvollen Auftrag handelte. Die Ferienwohnung war während der Arbeiten vollständig eingerichtet; aufgrund der notwendigen Abdeckungen konnten wir jedoch nicht vor Ort sein und waren entsprechend auf ein hohes Mass an Vertrauen angewiesen. Die Arbeiten wurden äusserst sorgfältig ausgeführt und makellos montiert. Die Schlussabrechnung entsprach vollständig dem Angebot sowie den vereinbarten Konditionen. Zwar war es anfänglich das teuerste Angebot, bei genauer Betrachtung zeigte sich jedoch rasch, dass es sich um verbindliche Fixpreise und nicht um Regiearbeiten handelte. Das Preis-Leistungs- und Serviceverhältnis ist daher transparent, ehrlich und absolut korrekt. Kommunikation und Umgang waren sehr persönlich und serviceorientiert, beinahe auf „boutiqueartigem“ Niveau. Die Fried Schreinerei AG kann uneingeschränkt weiterempfohlen werden.",
+        "time": 1770903632,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Isabella Lemberger",
+        "author_photo": "/images/reviews/fried-schreinerei-ag-bever/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1552076865,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Adriano Caviezel",
+        "author_photo": "/images/reviews/fried-schreinerei-ag-bever/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1528483661,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Sandra Fried",
+        "author_photo": "/images/reviews/fried-schreinerei-ag-bever/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1503415654,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Andreas H",
+        "author_photo": "/images/reviews/fried-schreinerei-ag-bever/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1485538918,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

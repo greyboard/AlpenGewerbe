@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJe7k0BQHYkUcRxhNbSn6yW6g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Adrian Menzi",
+        "author_photo": "/images/reviews/aare-elektro-solothurn-ag-biberist/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Anlässlich eines persönlichen Besuches sprach ich Daniel Hürlimann, Inhaber der Firma Aare Elektro, auf die Beleuchtungssituation in einigen Räumen unseres mehr als 300jährigen Wohnhauses an. Er machte ein paar Fotos und meldete sich wenige Tage später, um seine Ideen umzusetzen.\nWAs sein Team in wenigen Stunden umsetzte ist GENIAL - die alten Räume erstrahlen in warmen Glanz mit wohnlichem Charme. Die LED Beleuchtung ist dimmbar und somit in jeder Situation anpassbar. Sie ist diskret, aber sehr wirkungsvoll eingesetzt. Das Team arbeitete sauber, zügig und fachmännisch und gingen auf jeden unserer Wünsche ein.\nDie Kosten waren erstaunlich niedrig, wenn ich sie mit den Rechnungen anderer Handwerker vergleiche, die ebenfalls bei uns tätig waren!\nJedes Mal, wenn ich den Lichtschalter kippe, freue ich mich über das gelungene Resultat - DANKE VIELMALS, liebes Aare Elektro Team!",
+        "time": 1774619724,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Blazenko Knezevic",
+        "author_photo": "/images/reviews/aare-elektro-solothurn-ag-biberist/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr begeistert von der Arbeit 🔌 Die Ausführung war äusserst sauber und präzise, man merkt sofort, dass hier ein echter Profi am Werk ist. Besonders hervorheben möchte ich die freundliche Art und die Zuverlässigkeit – so wünscht man sich das als Kunde. Ich bin mit dem Ergebnis rundum zufrieden und würde ihn jederzeit wieder beauftragen. Klare Weiterempfehlung!",
+        "time": 1761383392,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Peter Stampfli",
+        "author_photo": "/images/reviews/aare-elektro-solothurn-ag-biberist/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Küchen Beleuchtung\nZuverlässig , Evitient und Fachlich !\nSehr freundlich und kompetent !\nImmer wieder !\nBei Leuenberger in Bbettlach",
+        "time": 1770110456,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Christoph Holenweg",
+        "author_photo": "/images/reviews/aare-elektro-solothurn-ag-biberist/reviewer_4.jpg",
+        "rating": 5,
+        "text": "top Arbeit, speditiv und trotzdem sehr sauber und vorsichtig gearbeitet. Freundlich und lustig. Alles funktioniert 1a. Macht weiter so, ich wünsch euch weiterhin viel Erfolg mit der noch jungen Firma! Beste Grüsse Christoph",
+        "time": 1693983074,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Elias Burkhalter",
+        "author_photo": "/images/reviews/aare-elektro-solothurn-ag-biberist/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat eine PV Anlage installiert war sehr effizient und freundlich",
+        "time": 1757064666,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ573eUfeqmkcRiEXce16tuBk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:45 Uhr",
+    "Dienstag: 08:00–17:45 Uhr",
+    "Mittwoch: 08:00–17:45 Uhr",
+    "Donnerstag: 08:00–17:45 Uhr",
+    "Freitag: 08:00–17:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Carolina Bianchi",
+        "author_photo": "/images/reviews/schluessel-fischer-sicherheitstechnik-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, hilfsbereit und professionell. Sie haben in wenigen Tagen einen Schlüssel für meinen antiken Schrank gezaubert. Sehr zufrieden!",
+        "time": 1704820277,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Esther Felber",
+        "author_photo": "/images/reviews/schluessel-fischer-sicherheitstechnik-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich brachte einen 50 Jahre alten Tankdeckel eines Oldtimers zu dem mir der Schlüssel fehlte. Die Angelegenheit war nicht ganz einfach und hat etwas gedauert, aber am Ende wird alles gut. Es hat wohl einige nerven gekostet. 😅\nMein Opel Gt und ich sind happy, vielen Dank",
+        "time": 1596830621,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Goran Kantardjiev",
+        "author_photo": "/images/reviews/schluessel-fischer-sicherheitstechnik-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Service!!! Bin mehr als zufrieden! Sehr empfehlenswert!",
+        "time": 1750260054,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Ralph Fischer",
+        "author_photo": "/images/reviews/schluessel-fischer-sicherheitstechnik-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nein - wir sind nicht verwandt !!!\n\nSuper Beratung auch erst um 18:44.\n\nLeider eher teuer:\n\nB2B verlangt 13.05 pro Schlüssel.\n\nFischer verlangt 60.00 pro Schlüssel.",
+        "time": 1570554766,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Elisabeth Boesiger",
+        "author_photo": "/images/reviews/schluessel-fischer-sicherheitstechnik-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sympathisch, mein Schlüssel konnte professionell und schnell repariert werden. Super Service, Danke.",
+        "time": 1642931395,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

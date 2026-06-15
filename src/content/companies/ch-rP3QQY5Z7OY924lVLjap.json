@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJo_9PTnk5jkcR_-ADRqZxqgM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jeannine Blunier",
+        "author_photo": "/images/reviews/marechaux-bern-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer freundlich und gute Arbeit",
+        "time": 1742324309,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "atz astzss",
+        "author_photo": "/images/reviews/marechaux-bern-bern/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1701453577,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Robin",
+        "author_photo": "/images/reviews/marechaux-bern-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637268065,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mario Fuso",
+        "author_photo": "/images/reviews/marechaux-bern-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1573996477,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

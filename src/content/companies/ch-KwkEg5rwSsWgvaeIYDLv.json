@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_QwwzxOhkUcRxilJSxqCDQU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "Nadine Rastan",
+        "author_photo": "/images/reviews/malerbetrieb-schneider-neuenburg-am-rhein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Schneider hat aus meinem alten Badezimmer ein neues, fugenloses, wunderschönes Bad entstehen lassen. Alle Termine wurden pünktlich eingehalten und so kam Herr Schneider jeden Morgen mit bester Laune auf die Baustelle. Auch mit den anderen Gewerken hat er alles persönlich abgesprochen, so dass ich mich um keine weiteren Terminabsprachen  kümmern musste. Absolut hilfsbereit, fachlich sehr kompetent und auf jeden Fall weiter zu empfehlen. Vielen Dank!!",
+        "time": 1759864257,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Margit Huhn",
+        "author_photo": "/images/reviews/malerbetrieb-schneider-neuenburg-am-rhein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "absolut zuverlässig in der Ausführung der Arbeiten; zudem sehr freundliche und geradlinige Kommunikation - dies war sehr hilfreich für die Abstimmung mit den anderen  Gewerken; transparentes Angebot mit gut nachvollziehbarer Preisgestaltung + Termintreue - wir sind zufrieden und empfehlen den Malerbetrieb Schneider uneingeschränkt weiter",
+        "time": 1707568428,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alexandra J.",
+        "author_photo": "/images/reviews/malerbetrieb-schneider-neuenburg-am-rhein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Schneider war super professionell und hat eine tolle Arbeit gemacht! Immer wieder gerne! 😊",
+        "time": 1768473755,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Selina Nägele",
+        "author_photo": "/images/reviews/malerbetrieb-schneider-neuenburg-am-rhein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Arbeit sehr zufrieden und glücklich mit dem Endergebnis.\nFreundlich und sauber!",
+        "time": 1769181729,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Steinteppich Klaiber",
+        "author_photo": "/images/reviews/malerbetrieb-schneider-neuenburg-am-rhein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sascha Schneider hat an einer Schulung zur Steinteppich Verlegung (Theorie&Praxisteil) bei uns teilgenommen. Er hat in beiden Teilen außerordentliches Talent und handwerkliches Geschick bewiesen. Seine Kundschaft kann  sich glücklich schätzen und freuen, dass so ein junges Team, wie Saschas, Auträge für Sie ausführt.",
+        "time": 1646033516,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

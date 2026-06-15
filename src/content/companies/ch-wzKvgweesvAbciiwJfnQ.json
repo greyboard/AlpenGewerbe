@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ32mwpEY3jkcRRj9-Py0usus",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Salomé Schneiter",
+        "author_photo": "/images/reviews/haeuslein-heiz-dich-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Weiss war super hilfsbereit und flexibel! Meine Wünsche wurden zu vollster Zufriedenheit erfüllt :)\n(PS: Design der Website und die magische Visitenkarte sind echt toll, meine Kids hatten mega Spass beim zaubern!!)",
+        "time": 1699735315,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Zwygart",
+        "author_photo": "/images/reviews/haeuslein-heiz-dich-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits zwei Aufträge durch Häuslein heiz dich ausführen lassen. Wir sind sehr zufrieden mit ihrer Arbeit und können sie uneingeschränkt weiterempfehlen. Sympathische und kompetente Jungs - weiter so!",
+        "time": 1574833972,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "David Sigrist",
+        "author_photo": "/images/reviews/haeuslein-heiz-dich-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vom ersten Kontakt bis zur Rechnungsstellung top Service. Einen solchen Handwerker wünscht man sich.",
+        "time": 1735476907,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Reto Lauper",
+        "author_photo": "/images/reviews/haeuslein-heiz-dich-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind mehr als zufrieden mit der Arbeit! Unkompliziert, äusserst fachkundig und schnelle Ausführung. Jederzeit wieder!",
+        "time": 1571485522,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Stefan Moret",
+        "author_photo": "/images/reviews/haeuslein-heiz-dich-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert! Super kompetent, effizient, preiswert und freundlich.",
+        "time": 1554494641,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

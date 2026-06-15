@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJdeWZ2OqmkcRE5VsTHMJ1es",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Daniel Gut",
+        "author_photo": "/images/reviews/marechaux-elektro-cham-elektriker-zug-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die haben bei unserem Umbau einen super Job gemacht! Kilian als Geschäftsführer war für die Offerte selber vor Ort und der Chefmonteur Miro war sehr gut! Sehr sauber Arbeit von Miro, zuverlässig und freundlich. Kann ich nur wärmstens empfehlen. Weiter so....",
+        "time": 1725550854,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anneke",
+        "author_photo": "/images/reviews/marechaux-elektro-cham-elektriker-zug-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In unserem neuen Haus gab es eine Reihe von kleineren Sachen zu lösen. Dazu gehörten auch einige elektrische Veränderungen, und Maréchaud schickte uns umgehend einen Servicemonteur, der nicht nur kompetent, sondern auch vertrauenswürdig wirkte und angenehm in der Zusammenarbeit war. Aufgrund meiner Erfahrung kann ich Maréchaud bedenkenlos weiterempfehlen",
+        "time": 1710402699,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Praveen Nellissery",
+        "author_photo": "/images/reviews/marechaux-elektro-cham-elektriker-zug-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Nettes Personal, sehr gute Arbeit, und top Preis-Leistung! Schneller und unkomplizierter Service! Sehr zu empfehlen! Immer wieder gerne zu Herrn Amrein!",
+        "time": 1685199705,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "D DB",
+        "author_photo": "/images/reviews/marechaux-elektro-cham-elektriker-zug-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super toller Service, unkompliziert, speditiv, freundlich, hilfsbereit und mit viel positiver, menschlicher Energie! Wir bleiben.",
+        "time": 1733988196,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ImMine_",
+        "author_photo": "/images/reviews/marechaux-elektro-cham-elektriker-zug-cham/reviewer_5.jpg",
+        "rating": 3,
+        "text": "Die Namensänderung ist verwirrend von Elektro Rüegg und Marchechaux.",
+        "time": 1551342290,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

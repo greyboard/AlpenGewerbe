@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJXSORImrD0UcRGL_MjQBix0U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Janine Grisiger",
+        "author_photo": "/images/reviews/mds-haustechnik-gmbh-sanitaer-luzern-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben über MDS Haustechnik eine neue Duschtrennwand einbauen lassen und sind vom ersten Ausmessen bis zur abgeschlossenen Montage rundum zufrieden.\nHerr Selimi war während des gesamten Prozesses ausgesprochen freundlich, zuverlässig und professionell. Die Arbeiten wurden sauber und präzise ausgeführt.\n\nWir werden die Firma bei zukünftigen Sanitäranliegen sehr gerne wieder beauftragen und können MDS Haustechnik voll und ganz weiterempfehlen 😊",
+        "time": 1764182256,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Josef Stettler",
+        "author_photo": "/images/reviews/mds-haustechnik-gmbh-sanitaer-luzern-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann diese Firma nur empfehlen. Die Arbeiten wurden zeitgerecht, sauber und professionell durchgeführt - keinerlei Beanstandungen meinerseits. Bei allfälligen Schwierigkeiten hat die Firma immer eine gute Lösung zu bezahlbaren Kosten gefunden. Joe.",
+        "time": 1771349935,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "A`Casa Gebüdemanagement GmbH",
+        "author_photo": "/images/reviews/mds-haustechnik-gmbh-sanitaer-luzern-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Arbeit! 👍\nZuverlässig, sauber und professionell ausgeführt. Der Service war freundlich und kompetent.\nAbsolut empfehlenswert!",
+        "time": 1770389902,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Gaby Kunz",
+        "author_photo": "/images/reviews/mds-haustechnik-gmbh-sanitaer-luzern-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Arsim war bereits bei drei unserer Projekten dabei und wir würden ihm jederzeit wieder den Auftrag geben.",
+        "time": 1770723400,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Roger Wermelinger",
+        "author_photo": "/images/reviews/mds-haustechnik-gmbh-sanitaer-luzern-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Alles bestens! Äusserst zufrieden und zuvorkommender Service. Können wir nur weiterempfehlen!",
+        "time": 1776681897,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

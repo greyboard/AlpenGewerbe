@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJL99Cz3Z58oIR04oaHl6sNE4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: 07:00–19:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Qendresa Zahiri",
+        "author_photo": "/images/reviews/rama-peinture-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service! Das Team ist professionell, pünktlich und liefert makellose Arbeit. Die Details sind perfekt, und die Beratung zeugt von echter Expertise. Vielen Dank für Ihre Professionalität und Ihre Leidenschaft für Ihr Handwerk! Ich kann diese Firma wärmstens empfehlen!",
+        "time": 1739472365,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jonathan Rudaz",
+        "author_photo": "/images/reviews/rama-peinture-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles Unternehmen. Aufmerksam und lösungsorientiert. Ich kann sie nur empfehlen!",
+        "time": 1751912074,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

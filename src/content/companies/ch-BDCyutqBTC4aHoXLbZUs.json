@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJcQmx8P9_kEcRyNuMTv2kZJE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Aaron Baur",
+        "author_photo": "/images/reviews/elektro23-gmbh-i-elektroinstallationen-i-elektroservice-neuhausen-am-rheinfall/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Preiswert, zuverlässig, flink. Tolle Partner  wenn es um Zusammenarbeit für verschiedene Projekte geht",
+        "time": 1771293384,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Jacqueline Haben",
+        "author_photo": "/images/reviews/elektro23-gmbh-i-elektroinstallationen-i-elektroservice-neuhausen-am-rheinfall/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolute Empfehlung! Hervorragender, sehr freundlicher, präziser und schneller Service (Lampenmontage) — grosses Dankeschön nochmals an Herrn Zenuni für seine klasse und super-professionelle Arbeit! 😊",
+        "time": 1743248523,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Danijela Schrag",
+        "author_photo": "/images/reviews/elektro23-gmbh-i-elektroinstallationen-i-elektroservice-neuhausen-am-rheinfall/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super, freundlich und mehr als Kompetent!!!",
+        "time": 1716973482,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michael Wetzel",
+        "author_photo": "/images/reviews/elektro23-gmbh-i-elektroinstallationen-i-elektroservice-neuhausen-am-rheinfall/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Service der Firma Elektro23. Kann ich nur empfehlen.",
+        "time": 1774554928,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Blerand Memishi",
+        "author_photo": "/images/reviews/elektro23-gmbh-i-elektroinstallationen-i-elektroservice-neuhausen-am-rheinfall/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1718752688,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

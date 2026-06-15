@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJXUE6zsHnkUcROy3pla0qDo8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Kévin Mérillat",
+        "author_photo": "/images/reviews/hofmann-carrelage-sarl-delemont/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team war schnell und aufmerksam. Das Angebot kam umgehend, und die Arbeiten wurden sofort ausgeführt. Während oft von Verzögerungen von mehreren Wochen oder gar Monaten die Rede ist, dauerte es bei Hofmann Carrelage Sàrl nur wenige Tage! Wahnsinn! Dieser junge Unternehmer versteht sein Handwerk!",
+        "time": 1729679825,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Almeida",
+        "author_photo": "/images/reviews/hofmann-carrelage-sarl-delemont/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann diese Firma wärmstens empfehlen.\n\nIch habe ein Angebot angefordert, es sehr schnell erhalten und die Arbeit, die sie in meinem Badezimmer geleistet haben, ist fantastisch! 🙏🏻 Vielen Dank, Hoffman Carrelage! ☺️",
+        "time": 1729624921,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maude Chirivi",
+        "author_photo": "/images/reviews/hofmann-carrelage-sarl-delemont/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles Unternehmen, das schnell auf unsere Anfragen reagiert. Ich kann es nur empfehlen!",
+        "time": 1725994972,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gauthier Comte",
+        "author_photo": "/images/reviews/hofmann-carrelage-sarl-delemont/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Firma! Ich kann sie für alle Fliesenarbeiten wärmstens empfehlen.\n\nVielen Dank an Patrick.",
+        "time": 1725961374,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gilles Meusy",
+        "author_photo": "/images/reviews/hofmann-carrelage-sarl-delemont/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Badsanierung war super. Die Kommunikation war hervorragend 👌 Ich kann die Firma wärmstens empfehlen.",
+        "time": 1727281488,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

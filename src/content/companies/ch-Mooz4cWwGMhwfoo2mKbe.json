@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJJdWCRAd_kEcREfxhO_iTXpI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "karin anderegg",
+        "author_photo": "/images/reviews/rr-garten-gartenunterhalt-hauswartservice-und-allrounder-buettenhardt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "The Best!\nUnd zwar weil Renato sehr zuverlässig ist und mit seinen Allrounder Qualitäten hervorragend zu unterstützen weiss. Er ist sympathisch und bringt viele eigene Ideen ein.\nRenato ist vielseitig begabt und somit die ideale Ansprechperson für Hauswart Dienstleistungen, Gartenarbeiten etc. Seine Kreativität und Sinn für Ästhetik, handwerkliches Geschick in  vielen Bereichen, machen ihn auch zum idealen Partner bei Projekten, wo vielleicht die eigene Idee auch noch etwas fehlt. Ich würde mich sehr darüber freuen, wenn wir bei meinem nächsten Garten Projekt zusammen arbeiten könnten",
+        "time": 1722088721,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Clivia Rohner",
+        "author_photo": "/images/reviews/rr-garten-gartenunterhalt-hauswartservice-und-allrounder-buettenhardt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann die Arbeit von Renato Rambone sehr empfehlen. Schnell, sauber und perfekte Kommunikation. Vielen Dank!",
+        "time": 1754689378,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Flurin Godenzi",
+        "author_photo": "/images/reviews/rr-garten-gartenunterhalt-hauswartservice-und-allrounder-buettenhardt/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Unterhaltsservice! Arbeiten wurden zuverlässig und wie besprochen erledigt, ohne Verzögerungen. Renatos Auftreten ist sehr freundlich und professionell, und die Preise sind angebracht. Gerne wieder!",
+        "time": 1709992935,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alina Gnatyshina",
+        "author_photo": "/images/reviews/rr-garten-gartenunterhalt-hauswartservice-und-allrounder-buettenhardt/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super professionell. Pünktlich und ordentlich. Top Service, sehr zuverlässig und kompetent. Bin total zufrieden! Kann ich nur weiter empfehlen!",
+        "time": 1737023322,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sonja Irina Zellweger",
+        "author_photo": "/images/reviews/rr-garten-gartenunterhalt-hauswartservice-und-allrounder-buettenhardt/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr pflichtbewusste, sorgfältige und vertrauensvolle Persönlichkeit. Ich war sehr zufrieden. Bis zum nächsten Mal.",
+        "time": 1737316448,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

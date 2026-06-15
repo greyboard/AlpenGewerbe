@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJeRK0zCs3jkcRQ04D1AufdJU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–17:00 Uhr",
+    "Dienstag: 08:30–17:00 Uhr",
+    "Mittwoch: 08:30–17:00 Uhr",
+    "Donnerstag: 08:30–17:00 Uhr",
+    "Freitag: 08:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Markus Zürcher",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjVE9zGbTl9h2X565EV_Eswz2_B1jYjVm0QdxUzdHpJRzvzuWkTb=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "text": "Ich persönlich empfehle diese Firma nicht, hält sich an unsere AGB und bezahlt die Rechnung nicht!",
+        "time": 1739439520,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lukas Maron",
+        "author_photo": "/images/reviews/aare-dach-ag-dachdecker-und-spengler-aus-der-region-bern-wir-koennen-dach-stettlen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Frau Steiner im Empfang ist immer super nett. Toller Empfang und auch sonst habe ich nur gute Erfahrungen hier gemacht.",
+        "time": 1667724218,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Michel Krähenbühl",
+        "author_photo": "/images/reviews/aare-dach-ag-dachdecker-und-spengler-aus-der-region-bern-wir-koennen-dach-stettlen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelles Unternehmen, Arbeiten zur vollsten Zufriedenheit und mit Liebe zum Detail ausgeführt.",
+        "time": 1663060622,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Francesco Caputo",
+        "author_photo": "/images/reviews/aare-dach-ag-dachdecker-und-spengler-aus-der-region-bern-wir-koennen-dach-stettlen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiges Unternehmen. Ich habe oft mit Janick zu tun und er ist wirklich gut. Professionell, sehr freundlich und kompetent. Er gibt nicht auf, bis das Problem gelöst ist. Ein großes Lob an den Küchenchef und sein gesamtes Team!",
+        "time": 1690106167,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mav E mav",
+        "author_photo": "/images/reviews/aare-dach-ag-dachdecker-und-spengler-aus-der-region-bern-wir-koennen-dach-stettlen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine tolle Aussicht und exzellente Cocktails.",
+        "time": 1659786300,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

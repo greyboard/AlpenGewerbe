@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF1RFLE89kEcRY4b3AY7v3cE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Daniel Glauser",
+        "author_photo": "/images/reviews/tanner-flachdach-gmbh-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma. Brauchte ein neues Flachdach auf meiner Garage, Sehr fairer Preis und die Arbeit war einwandfrei. Ich würde Tanner 100 % weiterempfehlen.",
+        "time": 1739446329,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Doreli Bautechnik GmbH",
+        "author_photo": "/images/reviews/tanner-flachdach-gmbh-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Tanner GmbH nur weiter empfehlen.",
+        "time": 1761907543,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Marek Polonsky",
+        "author_photo": "/images/reviews/tanner-flachdach-gmbh-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1581191719,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Peter Tanner",
+        "author_photo": "/images/reviews/tanner-flachdach-gmbh-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1558072979,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Yusuf Yilmaz",
+        "author_photo": "/images/reviews/tanner-flachdach-gmbh-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1556646949,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxShUXcTzj0cRtIksOf1vdV8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Nita",
+        "author_photo": "/images/reviews/holzbau-bucher-ag-kerns/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr sorgfältig und genau alle Jungs waren top.",
+        "time": 1771197385,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Pascal B.",
+        "author_photo": "/images/reviews/holzbau-bucher-ag-kerns/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind tiptop zufrieden mit den 3 fach verglasten Holz-/Aluminium-Fenster.",
+        "time": 1742994600,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Kaufmann",
+        "author_photo": "/images/reviews/holzbau-bucher-ag-kerns/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin ein ausserkantonaler Kunde von Bucher AG.\nDer Weg lohnt sich stets, denn es gibt keine bessere Firma!\nHut ab und meinen grössten Respekt.\nWeiter so\nMarkus",
+        "time": 1662627698,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Buholzer",
+        "author_photo": "/images/reviews/holzbau-bucher-ag-kerns/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service auch nach erfolgter Autragserfüllung. Fenstertüre hat geklemmt, wurde umgehend instandgestellt",
+        "time": 1619717722,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Martina H. Meier",
+        "author_photo": "/images/reviews/holzbau-bucher-ag-kerns/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Unsere Fenster in der Überbauung gemacht, top schnell freundlich sauber",
+        "time": 1664959679,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

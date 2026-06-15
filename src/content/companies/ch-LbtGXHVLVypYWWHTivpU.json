@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJuyUR3z5tkEcR0515f9iBVSc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Oliver Dredge",
+        "author_photo": "/images/reviews/schreinerei-form-schliff-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben bei Form und Schliff einen Kleiderschrank und einen Oberschrank fertigen lassen und sind mit dem Resultat sehr zufrieden. Matthias Parletta hat uns kompetent, freundlich und unkompliziert beraten. Die Ausführung ist hochwertig und entspricht genau unseren Vorstellungen. Klare Empfehlung!",
+        "time": 1780131409,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Christoph Holder",
+        "author_photo": "/images/reviews/schreinerei-form-schliff-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten nun seit einigen Jahren mit Form und Schliff zusammen. Die Zusammenarbeit funktioniert reibungslos und Resultate sind Tadellos. Es ist eine Freude mit der Schreinerei Form und Schliff.",
+        "time": 1772447706,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marco C.",
+        "author_photo": "/images/reviews/schreinerei-form-schliff-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Eichentisch schleifen und in neuer Farbe lackieren lassen. Der Tisch wurde pünktlich abgeholt und wieder zurück gebracht, die Arbeiten wurden sauber ausgeführt und das alles zu einem wirklich fairen Preis. Sehr empfehlenswert!",
+        "time": 1646405545,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sean Hofland",
+        "author_photo": "/images/reviews/schreinerei-form-schliff-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Aus unbenutzten Schrankwänden wurden Schranktüren und Schrankböden, Top Job, vielen Dank :)",
+        "time": 1748757617,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fra",
+        "author_photo": "/images/reviews/schreinerei-form-schliff-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die ältere Generation hat uns eine Wand eingezogen, die neue hat uns die Küchenfront repariert - und beide haben wunderbare Arbeit geleistet, vielen Dank! ☺️",
+        "time": 1663007250,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

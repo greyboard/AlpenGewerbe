@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJA0AsuT9OhUcRjYPjSuDBK-k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Domenik Looser",
+        "author_photo": "/images/reviews/truetsch-fenster-ag-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "„Ich brauchte von der Firma Trütsch eine technische Auskunft zu einem Fenstersystem eines inzwischen nicht mehr existierenden Anbieters. Obwohl wir Mitbewerber sind, wurde ich schnell, freundlich und kompetent unterstützt. Das ist für mich echte Seriosität. Vielen Dank.“",
+        "time": 1763389138,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "N R",
+        "author_photo": "/images/reviews/truetsch-fenster-ag-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich wohne in einer Wohnung mit Trütsch-Fenstern. Trotz Lämpegel auf der Strasse ist in meiner Wohnung fast nichts zu hören!!! Ausserdem sind diese einfach zu reinigen und ich kann bei Trütsch auch Fliegengitter nach Mass bestellen,  die langlebig sind. Diese kann man auch problemlos abnehmen und wieder ranmachen. Einfach top!!! Sehr nettes und professionelles Team!!",
+        "time": 1725746482,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriel Studer",
+        "author_photo": "/images/reviews/truetsch-fenster-ag-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kundendienst Mitarbeiter Stefan Krafft ist pünktlich, freundlich und arbeitet professionell. Bin sehr zufrieden und empfehle die Firma.",
+        "time": 1713444569,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "guzzi lee",
+        "author_photo": "/images/reviews/truetsch-fenster-ag-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kundenservice Top!\nHatte ein Problem mit Balkontüre .\nEmail geschrieben wurde durch  Frau Wiget sofort beantwortet und eine Lösung Angeboten.\nHerzlichen Dank\nMit Gruß Leo Kamer",
+        "time": 1696011930,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Guido Mondgenast",
+        "author_photo": "/images/reviews/truetsch-fenster-ag-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die besten Fenster der Welt, top Beratung, technisch versiert",
+        "time": 1670510810,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

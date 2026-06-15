@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJQchi1BP3j0cR4kgmPu2Haqc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Peter Imboden",
+        "author_photo": "/images/reviews/achermann-schreinerei-ag-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Schreinerei der A- Klasse. Bietet alles von Küchen, Schränke, Türen, allgemeine Schreinerarbeiten. Nur zu empfehlen! Freundliche und kompetente Beratung.",
+        "time": 1644340342,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michael Herzog",
+        "author_photo": "/images/reviews/achermann-schreinerei-ag-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697720055,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "D Gisler",
+        "author_photo": "/images/reviews/achermann-schreinerei-ag-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1662667600,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "KENNETH Biscette",
+        "author_photo": "/images/reviews/achermann-schreinerei-ag-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637160433,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

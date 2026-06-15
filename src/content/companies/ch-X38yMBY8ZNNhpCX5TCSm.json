@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJS2KklCNjjEcRHGxWbJ4Yc0I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Esther Chohan",
+        "author_photo": "/images/reviews/arteferro-suisse-sa-satigny/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionelles Personal und sehr solide Arbeit, dazu genau zur abgemachten Zeit, d h pünktlich. Ein Angestellter war mehrere Male in unserem Haus, jedesmal zur abgemachten Zeit.  Werde die Firma sicher weiter empfehlen!",
+        "time": 1615839210,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Charles Villa",
+        "author_photo": "/images/reviews/arteferro-suisse-sa-satigny/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Erstklassiger Service, vom ersten Kontakt mit der Rezeptionistin bis hin zu den Fachkräften in der Werkstatt. Schnell, zuverlässig und professionell. Hervorragend!",
+        "time": 1652427467,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mauricio Colomer",
+        "author_photo": "/images/reviews/arteferro-suisse-sa-satigny/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Schnell und sehr professionell.",
+        "time": 1626199835,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jason Ellison",
+        "author_photo": "/images/reviews/arteferro-suisse-sa-satigny/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Experte in der Herstellung von Metallprodukten",
+        "time": 1547200551,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Mr Robot",
+        "author_photo": "/images/reviews/arteferro-suisse-sa-satigny/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1675785634,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

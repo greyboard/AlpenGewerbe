@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0Zn4m7RljEcRRWlbCbu3PEA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–16:30 Uhr",
+    "Dienstag: 07:30–16:30 Uhr",
+    "Mittwoch: 07:30–16:30 Uhr",
+    "Donnerstag: 07:30–16:30 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Romain Evangelista",
+        "author_photo": "/images/reviews/easyelec-sarl-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein hervorragendes Team! Sie arbeiten schnell, effizient und pünktlich. Ihr Angebot wird durch eine breite Produktpalette und vielfältige Optionen ergänzt. Ich kann sie wärmstens empfehlen!",
+        "time": 1771946012,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "TT",
+        "author_photo": "/images/reviews/easyelec-sarl-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service. Sie installierten mehrere Lampen und einen Dimmer in meiner Wohnung. Sie sind kompetent, schnell, flexibel und freundlich. Uneingeschränkt empfehlenswert.",
+        "time": 1723640578,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lie Domi",
+        "author_photo": "/images/reviews/easyelec-sarl-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere und pünktliche Arbeit, sehr empfehlenswert, sehr gute Fachleute.",
+        "time": 1758122257,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Yannick Magliano",
+        "author_photo": "/images/reviews/easyelec-sarl-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert! Die Installation der Tesla-Ladestation in meiner Garage wurde perfekt ausgeführt. Saubere, schnelle und effiziente Arbeit. Junges und freundliches Team.",
+        "time": 1727428778,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jess 1209",
+        "author_photo": "/images/reviews/easyelec-sarl-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "ICH KANN ES WÄRMSTENS EMPFEHLEN!!!\nWas für ein Glück, dass mir dieses Elektrounternehmen empfohlen wurde, das im Juni dieses Jahres gegründet wurde. Professionell, kompetent und lösungsorientiert, pünktlich und sehr genau. Als sich ein scheinbar einfacher Auftrag als kompliziert herausstellte, war er voll engagiert, blieb ruhig, sehr professionell und nutzte die Situation nicht aus, um Gegenforderungen zu stellen.",
+        "time": 1693341069,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

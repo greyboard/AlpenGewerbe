@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJFUq-lWRjg0cRBxU8tvbVx8Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Bettina Hafter",
+        "author_photo": "/images/reviews/lasave-ag-la-punt-chamues-ch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetente, freundliche Beratung (super Kaffee), tolle Auswahl an lokalem (und fernem) Schiefer, Granit, Marmor, Keramik, Feinsteinzeugplatten und vielem mehr.",
+        "time": 1615997745,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Isabella niffeler",
+        "author_photo": "/images/reviews/lasave-ag-la-punt-chamues-ch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent👍",
+        "time": 1610555589,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Niculin Arquint",
+        "author_photo": "/images/reviews/lasave-ag-la-punt-chamues-ch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776601455,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Marisa Sanbrizzi",
+        "author_photo": "/images/reviews/lasave-ag-la-punt-chamues-ch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1717591171,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Luca Piras",
+        "author_photo": "/images/reviews/lasave-ag-la-punt-chamues-ch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1522307692,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4co70ZJpjkcRqGkSshiXz2w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 09:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Olivier Dessibourg",
+        "author_photo": "/images/reviews/sem-elec-sarl-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Kontakt mit dem Manager war sehr angenehm, und der Service war schnell und effizient. Ich kann diese Firma für Reparatur- oder Bauprojekte wärmstens empfehlen.",
+        "time": 1757344719,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Maxime Herbez",
+        "author_photo": "/images/reviews/sem-elec-sarl-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Leistung, außergewöhnlicher und professioneller Kundenservice.",
+        "time": 1753382824,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Yasmin Lavilla",
+        "author_photo": "/images/reviews/sem-elec-sarl-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770899315,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

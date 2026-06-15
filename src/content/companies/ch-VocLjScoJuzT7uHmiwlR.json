@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJldI2xLXJjkcRBzQ2dDmzH-g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Gilles",
+        "author_photo": "/images/reviews/mba-construction-sa-martigny/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Äußerst professionell, stets aufmerksam und mit größter Sorgfalt arbeiten sie. Wir haben MBA bereits mehrfach für Innen- und Außenprojekte beauftragt und waren jedes Mal äußerst zufrieden! Ich kann sie uneingeschränkt empfehlen!",
+        "time": 1652379876,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Agnes D",
+        "author_photo": "/images/reviews/mba-construction-sa-martigny/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1728580494,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "barroca jose manuel",
+        "author_photo": "/images/reviews/mba-construction-sa-martigny/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1686747989,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Paolo Bernardi",
+        "author_photo": "/images/reviews/mba-construction-sa-martigny/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672086336,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fernando Santos",
+        "author_photo": "/images/reviews/mba-construction-sa-martigny/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1641326117,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

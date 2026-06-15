@@ -26,5 +26,22 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJf-mCf6T7j0cRKw2Z_sX6sWs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Patrice Guye",
+        "author_photo": "/images/reviews/fuenfstern-garten-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580854476,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

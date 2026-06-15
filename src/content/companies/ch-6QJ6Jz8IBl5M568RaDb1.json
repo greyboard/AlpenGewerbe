@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ603pFsLHkUcR4WR-MkhA7MU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Thomas D",
+        "author_photo": "/images/reviews/elektro-brodbeck-ag-reinach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bester Elektriker in der Region und vor allem richtig faire Preise! Sehr gerne wieder und vor allem weiterempfohlen.\nHabe eine Wallbox in der Garage installieren und anschliessen lassen. Max. 3 Stunden.",
+        "time": 1764663366,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "JS",
+        "author_photo": "/images/reviews/elektro-brodbeck-ag-reinach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir waren sehr zufrieden mit Elektro Brodbeck AG. Bei der Renovation unseres Hauses hat rundum alles perfekt geklappt - super freundliches Team, absolut professionelle Arbeit und ein tolles Preis-Leistungsverhältnis! Wir empfehlen Euch gerne weiter und danken dem ganzen Team - insbesondere Herrn Schober und Herrn Mercato!",
+        "time": 1586012885,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sandra",
+        "author_photo": "/images/reviews/elektro-brodbeck-ag-reinach/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Nach anfänglichen Schwierigkeiten und mehrmaligem Erscheinen bei der Installation unserer Sonerie, funktioniert unsere Türglocke nun endlich. Einwandfrei!\nToll hat sich die Geschäftsleitung nochmals mit mir in Verbindung gesetzt, um den damaligen Problemen auf den Zahn zu fühlen.",
+        "time": 1517418254,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Selim Simsek",
+        "author_photo": "/images/reviews/elektro-brodbeck-ag-reinach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Mitarbeiter und Besitzer. Bedanke mich für die preisgünstigen Auftrag von 2013. Sie waren von der Leistung und Preis die besten.",
+        "time": 1546961767,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Kaya Aylin",
+        "author_photo": "/images/reviews/elektro-brodbeck-ag-reinach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente, professionelle und sehr freundliche Mitarbeiter. Ich bin sehr zufrieden. Preis leistungsverhältnis Top!",
+        "time": 1682496120,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

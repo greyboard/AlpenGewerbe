@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJy8zv8OQ7kEcRSPsQRhwCKa0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Hans Niderholz",
+        "author_photo": "/images/reviews/loni-gmbh-parkett-loni-unterentfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bin mit der Firma Loni GmbH mehr als zufrieden. Der Parkett sieht super aus. Super sorgfältige, exakte Handwerker! Saubere Arbeit, gerne wieder!",
+        "time": 1771594217,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Ilir Qerimaj",
+        "author_photo": "/images/reviews/loni-gmbh-parkett-loni-unterentfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einfach Top 👍",
+        "time": 1701248485,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Besmir Ramani",
+        "author_photo": "/images/reviews/loni-gmbh-parkett-loni-unterentfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "„Ich kann Parkett Loni nur wärmstens empfehlen! Er hat in meinem gesamten Haus Parkett verlegt und ich bin mehr als zufrieden mit dem Ergebnis. Die Arbeit wurde sehr sauber, präzise und mit viel Sorgfalt ausgeführt. Besonders hervorheben möchte ich seine freundliche und unkomplizierte Art – die Zusammenarbeit war von Anfang bis Ende angenehm und stressfrei. Man merkt sofort, dass er sein Handwerk versteht und mit Leidenschaft arbeitet. Vielen Dank für die tolle Arbeit!“",
+        "time": 1775850738,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Beluli dritan",
+        "author_photo": "/images/reviews/loni-gmbh-parkett-loni-unterentfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1692214296,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

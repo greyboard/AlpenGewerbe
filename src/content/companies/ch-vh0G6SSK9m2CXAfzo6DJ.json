@@ -1,7 +1,7 @@
 {
   "id": "ch-vh0G6SSK9m2CXAfzo6DJ",
   "slug": "jp-burgener-sa-carouge",
-  "name": "JP BURGENER SA",
+  "name": "JP Burgener Sa",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJrZUBQyB7jEcR1EMmR2vFPyI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Tacchini Antoine",
+        "author_photo": "/images/reviews/jp-burgener-sa-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service! Sehr effizient und sehr freundlich.\n\nAbsolut empfehlenswert.",
+        "time": 1763395046,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Leslie A",
+        "author_photo": "/images/reviews/jp-burgener-sa-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles und aufmerksames Unternehmen mit fairen Preisen. Ich kann es uneingeschränkt empfehlen.\n\nIch beauftrage dieses Unternehmen für alle meine Bauprojekte.",
+        "time": 1676621624,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mélanie Martin",
+        "author_photo": "/images/reviews/jp-burgener-sa-carouge/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Betrüger! Sie kamen, um meine Jalousie zu reparieren. Sie schätzten die Reparaturkosten auf 100 bis 200 CHF! Und ich erhielt eine Rechnung von fast 500 CHF! Es ist eine Schande!! Das sind Betrüger, lassen Sie sich nicht täuschen!!!!!! Unprofessionell und nicht ehrlich!!!",
+        "time": 1493799128,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Véronique Secrétan (Véronique)",
+        "author_photo": "/images/reviews/jp-burgener-sa-carouge/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Très mauvaise expérience,  sans commentaires il y aurait trop à dire.",
+        "time": 1718908650,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "LuxurCars Club",
+        "author_photo": "/images/reviews/jp-burgener-sa-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die Installation der Jalousien in unseren Räumlichkeiten. Ein fantastisches und sehr professionelles Team; wir können sie wärmstens empfehlen!",
+        "time": 1500500218,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7w_7ejktm0cRph9QNnmxetw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Fabian",
+        "author_photo": "/images/reviews/gruenenfelder-parkett-teppiche-sargans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team von Marcel Grünenfelder hat bei uns Parkett in sämtlichen Zimmern verlegt. Das Ergebnis ist absolut perfekt. Würde diese Firma sofort  wieder beauftragen",
+        "time": 1640878120,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marcus Schorm",
+        "author_photo": "/images/reviews/gruenenfelder-parkett-teppiche-sargans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Parkettboden in Maienfeld geschliffen und lackiert, sieht wie neu aus! Hervorragende Qualität, kompetente Beratung, 100% zufrieden",
+        "time": 1721281530,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Remo Schmidlin",
+        "author_photo": "/images/reviews/gruenenfelder-parkett-teppiche-sargans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die unkomplizierte und tolle Erledigung der Fussbodenreparatur. Das Ergebnis sieht wundervoll aus.",
+        "time": 1611035518,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dominic Dürst",
+        "author_photo": "/images/reviews/gruenenfelder-parkett-teppiche-sargans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Beratung und pünktliche Umsetzung.  Immer wieder gerne!",
+        "time": 1531935395,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Michael Vogt",
+        "author_photo": "/images/reviews/gruenenfelder-parkett-teppiche-sargans/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit und hervorragende Beratung!",
+        "time": 1557050052,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

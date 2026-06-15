@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJRwSXaaG5kUcRXnVl7Y9fwCk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 12:30–16:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 12:30–16:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 12:30–16:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 12:30–16:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 12:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Forum Fitness Club",
+        "author_photo": "/images/reviews/schreinerei-zumbrunn-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service! Der Kontakt war sehr unkompliziert und es wurde verstanden, was wir möchten. Ebenso ist die Arbeit toll ausgeführt worden. Gerne werden wir die Firma Zumbrunn wieder kontaktieren.",
+        "time": 1754384502,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "dominique boni",
+        "author_photo": "/images/reviews/schreinerei-zumbrunn-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gut, kompetent und stets bereit, für jedes Problem eine Lösung zu finden.",
+        "time": 1599823869,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Giuseppe Ritrovato",
+        "author_photo": "/images/reviews/schreinerei-zumbrunn-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629301140,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "M Ademaj",
+        "author_photo": "/images/reviews/schreinerei-zumbrunn-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1539636776,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Dänu Extrem",
+        "author_photo": "/images/reviews/schreinerei-zumbrunn-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1504076820,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

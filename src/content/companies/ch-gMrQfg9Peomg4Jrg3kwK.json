@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJKwgAfyPgmkcRYLLzk7d7vvQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Josè Barreiro",
+        "author_photo": "/images/reviews/frick-dolpp-schreinerei-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kenne die Arbeiter nicht, aber Mischa und der einte Lehrling sehr kompetent stets freundlich und wissen was Sie tun müssen. Wegen einer Holzdecke gekommen hat mir aber noch Fenster und schloss eingestellt.\n\nSehr sehr freundlich und ein gut eigespieltes Team.\n\nDanke",
+        "time": 1744786606,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Leo Mustafa",
+        "author_photo": "/images/reviews/frick-dolpp-schreinerei-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bereits zweimal beauftrag für unsere Firma. Jedes Mal wurden unsere Erwartungen übertroffen. Schnelle Verfügbarkeit und tolle Qualität. Es werden Arbeiten erfolgreich geleistet, die sogar über übliche Schreinerarbeiten hinaus gehen. Werden Frick & Dolpp sicherlich wieder beauftragen!",
+        "time": 1716381675,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Karlsson vom Dach",
+        "author_photo": "/images/reviews/frick-dolpp-schreinerei-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service, nach Mass, sauber und haben das geschafft was zig andere Handwerker nicht gemacht haben. Und das sogar als speditive Leistung. Bin sehr begeistert - so stelle ich mir Handwerk vor. Vielen Dank.",
+        "time": 1655672802,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dario Germann",
+        "author_photo": "/images/reviews/frick-dolpp-schreinerei-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent. Auftrag wurde zur vollsten Zufriedenheit abgewickelt. Kann ich nur weiterempfehlen.",
+        "time": 1611174346,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Baris Kartal",
+        "author_photo": "/images/reviews/frick-dolpp-schreinerei-st-gallen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Sowas unfreundliches am Telefon noch nie erlebt....nicht mal fähig am Telefon auskunft zugeben....werde es meiner Wohnugsverwaltung melden !!!",
+        "time": 1596632071,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

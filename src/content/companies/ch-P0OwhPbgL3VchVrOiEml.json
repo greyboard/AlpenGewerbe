@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJHamqt12pmkcRICBNAPNY54s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Ursula H.",
+        "author_photo": "/images/reviews/mooswey-gartenpflege-gmbh-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetentes und sehr sympathisches Team. Die Erstellung unseres Sitzplatzes wurde zu unserer vollsten Zufriedenheit ausgeführt. Wir werden die Dienstleistung auch in Zukunft gerne in Anspruch nehmen und können MoosWey GmbH Gartenpflege auf jeden Fall weiterempfehlen.",
+        "time": 1592511700,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Megan Kelso",
+        "author_photo": "/images/reviews/mooswey-gartenpflege-gmbh-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein erhöhtes Beet sowie eine Kletterhilfe für Himbeeren wurden schnell und mit einem Auge fürs Detail aufgebaut und an die Umgebung angepasst. Die mitgebrachte Erde war an die besprochenen Pflanzen angepasst und brachte alles wunderbar zum wachsen. Bei der Bepflanzung des neuen Beetes hat Remo Wey verständlich erklärt wie er die Pflanzen platziert um auf optimale Lichtverhältnisse und Pflanzeneigenschaften einzugehen. Es war ein toller Service und der Garten bereitet grosse Freude.",
+        "time": 1601043102,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Katarina Kelso",
+        "author_photo": "/images/reviews/mooswey-gartenpflege-gmbh-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Remo Way ist ein einfühlsamer Gärtner der die Natur gut versteht. Seit er mein Garten betreut wird der Gras grüner, die Obstbäume tragen mehr, und ich konnte noch lange schildern, was er bereits erfolgreich umgesetzt hat. Danke Remo und ich freue mich aufs nächste mal.",
+        "time": 1583611900,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Leah",
+        "author_photo": "/images/reviews/mooswey-gartenpflege-gmbh-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hat unseren Garten perfekt aufgefrischt. Wir sind begeistert. Freundlich und unkompliziert - kann ich wärmstens empfehlen!",
+        "time": 1712734632,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jasmin Appert-Moos",
+        "author_photo": "/images/reviews/mooswey-gartenpflege-gmbh-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super eingespieltes Team, welches professionele Arbeit liefert. Wir sind sehr mit dem Ergebnis unseres Garten und des Sichtschutzes zufrieden. Vielen Dank!",
+        "time": 1594205963,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

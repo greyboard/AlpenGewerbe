@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3-Sz8sZrjkcRMvTTFalf67Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "alexander aeby",
+        "author_photo": "/images/reviews/jendly-ag-duedingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden, das Resultat ist top",
+        "time": 1688018051,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Indiana Jones",
+        "author_photo": "/images/reviews/jendly-ag-duedingen/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Leider nur wenig professioneller Service",
+        "time": 1642486801,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Raphael Knecht",
+        "author_photo": "/images/reviews/jendly-ag-duedingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765802046,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Sam Rey",
+        "author_photo": "/images/reviews/jendly-ag-duedingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1746640238,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Philippe Zesiger",
+        "author_photo": "/images/reviews/jendly-ag-duedingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622561345,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

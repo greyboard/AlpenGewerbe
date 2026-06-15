@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkZbQZpu2mkcRX6daT7OIE64",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "D. Cuccaro",
+        "author_photo": "/images/reviews/keller-malergeschaeft-gmbh-altendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Offerte bis zu den perfekt ausgeführten Malerarbeiten ist alles reibungslos verlaufen. Sehr freundliche Mitarbeiter mit einer auffallend sauberen Arbeitsweise. Danke",
+        "time": 1705914632,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nerea Perez",
+        "author_photo": "/images/reviews/keller-malergeschaeft-gmbh-altendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit, immer gerne wieder. Kann ich nur empfehlen",
+        "time": 1764458137,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Roman Marty",
+        "author_photo": "/images/reviews/keller-malergeschaeft-gmbh-altendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswerte Malerfirma.\nPünktliche sowie sehr freundliche Mitarbeiter und absolut saubere Arbeit. Ich kann diese Firma nur weiterempfehlen.",
+        "time": 1719421395,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Atelier Tessa Goldschmiede",
+        "author_photo": "/images/reviews/keller-malergeschaeft-gmbh-altendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "1. Klassige Adresse für Spritzarbeiten aller Art. Unser neues Sideboard in Schwarz Glanz ist makellos und erfreut uns jeden Tag. Respekt vor dieser tollen Handwerkskunst! Wir können diese solide Firma nur empfehlen und freuen uns schon auf unser nächstes Projekt!",
+        "time": 1551335108,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Oliver Keel",
+        "author_photo": "/images/reviews/keller-malergeschaeft-gmbh-altendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir durften schon mehrmals auf die Dienste der Familie Keller zählen und waren immer mehr als zufrieden. Ob Spritzarbeiten an Möbeln oder Renovationsarbeiten in unseren vier Wänden - alles hat immer bestens geklappt. Top Service von A-Z. Vielen Dank! Ich kann Stefan Keller und sein Team nur weiterempfehlen.",
+        "time": 1562748881,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

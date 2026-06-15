@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJISFLhFAfm0cRgolYLQEb5_M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 10:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 10:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 10:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 10:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: 10:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 40,
+    "reviews": [
+      {
+        "author_name": "Urs Strässle",
+        "author_photo": "/images/reviews/anika-bruellmann-tapeten-traditionelles-tapezierhandwerk-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Danke Anika, du hast unser neues Gäste-Bad mit deiner Tapete neuen Glanz verliehen. Die Chemie hat vom ersten Besuch in eurem Showraum in Appenzell gepasst. Durch deine kompetente Beratung hast du uns auf neue Ideen gebracht. Deine\nKommunikation, Pünktlichkeit, Wissen über Tapeten sowie deine saubere Arbeitsweise und die perfekte Ausführung unserer neuen Tapete hat uns begeistert. Vielen Dank Anika, wir können dich nur bestens weiterempfehlen.",
+        "time": 1776246634,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "David",
+        "author_photo": "/images/reviews/anika-bruellmann-tapeten-traditionelles-tapezierhandwerk-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit den Tapezierarbeiten. Die Arbeit war sauber und ordentlich ausgeführt, jedes Detail wurde mit grosser Sorgfalt erledigt. Anika und Stefan waren kompetent und gut organisiert und die Vorgehensweise wurde transparent erklärt. Seriöses Auftreten und Termintreue zeigten sich von der ersten Besprechung bis zum Abschluss. Das Endergebnis ist perfekt: glatte Flächen, saubere Kanten und eine hochwertige Optik. Klare Empfehlung für alle, die Wert auf Qualität legen.",
+        "time": 1761033931,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Nicole Rütsche",
+        "author_photo": "/images/reviews/anika-bruellmann-tapeten-traditionelles-tapezierhandwerk-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fachkundige Beratung bei der Materialauswahl, geduldig bei Änderungswünschen, höchst professionell und sauber gearbeitet, pünktlich, immer Rückmeldungen zum Ablauf. Wir können Annika und Stefan in den höchsten Tönen loben und würden sie jederzeit wieder beauftragen. Tausend Dank für Euere Umsetzung unserer Wünsche!",
+        "time": 1763910708,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Christian Gisler",
+        "author_photo": "/images/reviews/anika-bruellmann-tapeten-traditionelles-tapezierhandwerk-appenzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Naturtapete bei Anika Brühlmann ausgewählt – und sind begeistert. Die Beratung war ruhig, präzise und sehr treffend. Sie hat sofort verstanden, welchen Look wir möchten, und uns perfekt passende Optionen gezeigt. Qualität, Material und Verarbeitung überzeugen.\nWir empfehlen sie klar weiter.",
+        "time": 1763928530,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Grrud Wrbclr",
+        "author_photo": "/images/reviews/anika-bruellmann-tapeten-traditionelles-tapezierhandwerk-appenzell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Anika ist nicht nur eine sehr gute Malerin und Tapeziererin, sondern sie hat vor allem auch sehr tolle Ideen zur Gestaltung. Sie hat uns ermutigt, Dinge zu wagen die heute unser Haus so speziell machen. Danke nochmals an dich und deinem Partner, für die tolle Arbeit.",
+        "time": 1698683797,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

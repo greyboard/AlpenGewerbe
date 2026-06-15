@@ -1,7 +1,7 @@
 {
   "id": "ch-9VsjrCTQUhlju2W3oWqK",
   "slug": "bourquin-les-electriciens-geneve",
-  "name": "bourquin les électriciens",
+  "name": "Mr. Jean-Yves Bourquin",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfS2J5zZljEcREXY9RXGNl_I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 155,
+    "reviews": [
+      {
+        "author_name": "Fatima Novais",
+        "author_photo": "/images/reviews/bourquin-les-electriciens-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe die Firma Bourquin Electrician schon mehrmals beauftragt und war jedes Mal rundum zufrieden. Das Unternehmen reagiert schnell, und die Mitarbeiter sind sehr professionell, zuvorkommend und respektvoll. Sie nehmen sich die Zeit, genau zu erklären, was sie gemacht und was sie ausgetauscht haben. Außerdem sind sie immer erreichbar, wenn man sie braucht. Ich kann diese Firma uneingeschränkt empfehlen.",
+        "time": 1768916859,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Ahya Taleb Elfeshawey",
+        "author_photo": "/images/reviews/bourquin-les-electriciens-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe Bourquin mit der Einrichtung meiner neuen Apotheke beauftragt; es war ein umfangreiches Projekt. Das Team ist professionell, hilfsbereit, freundlich und immer bereit, zuzuhören und Lösungen zu finden. Das Ergebnis ist fantastisch. Ich kann sie uneingeschränkt empfehlen!",
+        "time": 1763984744,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Sonia B.",
+        "author_photo": "/images/reviews/bourquin-les-electriciens-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein sehr zuverlässiges Unternehmen, das Anfragen schnell und effizient bearbeitet. Und dazu noch freundlich. Ich kann es uneingeschränkt empfehlen.",
+        "time": 1772699173,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Nicolas Mohr",
+        "author_photo": "/images/reviews/bourquin-les-electriciens-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Elektriker von Bourquin waren schnell und effizient im Einsatz. Herzlichen Dank für die Installation meiner Lampe, die nun stolz über meinem Wohnzimmertisch hängt!\n\nIch kann diesen Familienbetrieb wärmstens empfehlen, der Kundenservice wirklich versteht.",
+        "time": 1763716149,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Mauro Charlet",
+        "author_photo": "/images/reviews/bourquin-les-electriciens-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionnalisme, ponctualité et qualité du travail : Bourquin Électricité a réinstallé mes luminaires et refait des prises électriques dans ma maison. Très bonne communication, le travail est propre et durable. Je recommande vivement cette entreprise d’électricité !",
+        "time": 1764006496,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,31 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ19maXL_9jUcRnht5bTVaaTU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Filomène Filo",
+        "author_photo": "/images/reviews/signalisation-ch-ne-la-cibourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fantastisch! Endlich ein regionaler Service! Vielen Dank! Erstklassige Qualität und exzellenter Service!",
+        "time": 1764672062,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

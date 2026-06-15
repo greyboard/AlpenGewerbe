@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJHRJWmBQthUcRQ4sAzppEk0o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Sven Dojtschinov",
+        "author_photo": "/images/reviews/sauter-waermetechnik-gmbh-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser altes Haus wurde erfolgreich von einer Ölheizung auf eine Wärmepumpe umgerüstet. Der Terminplan wurde flexibel angepasst, damit unvorhergesehene Arbeiten sauber ausgeführt werden konnten. Die Heizung ist sehr leise und läuft seit Anfang Saison problemlos.\nDanke",
+        "time": 1765020586,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Manuel B",
+        "author_photo": "/images/reviews/sauter-waermetechnik-gmbh-netstal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits zwei Heizsysteme mit der Sauter Wärmetechnik GmbH installiert und sind jedes Mal aufs Neue begeistert.\n\nBesonders hervorzuheben ist die herausragende Organisation, die uns enorm entlastet hat. Bei beiden Projekten waren die Herren Rexhep und Daniele unsere Ansprechpersonen. Sie haben nicht nur die komplette Koordination übernommen, sondern standen uns auch immer mit ihrem professionellen Know-how zur Seite. Alles lief reibungslos und einwandfrei.\n\nDie Firma bietet sehr gute Lösungsvorschläge für jede Herausforderung und ist stets gut erreichbar. Das Team ist kompetent, zuverlässig und hat uns von der Beratung bis zur Umsetzung optimal betreut.\n\nWer auf der Suche nach einem professionellen und zuverlässigen Partner für Heiztechnik ist, liegt hier goldrichtig. Absolut empfehlenswert!",
+        "time": 1758726411,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jonas Micheroli",
+        "author_photo": "/images/reviews/sauter-waermetechnik-gmbh-netstal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein riesiges Dankeschön an Daniele Carrubba und sein Team! Sie haben bei uns die alte Ölheizung sauber entfernt und die Fernwärmeheizung perfekt installiert. Alles lief zuverlässig, schnell und absolut professionell.\n\nWir fühlen uns super beraten und bestens betreut.\n\nKlare Empfehlung – sowohl fachlich als auch menschlich top!",
+        "time": 1764619926,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Christian Lehmann",
+        "author_photo": "/images/reviews/sauter-waermetechnik-gmbh-netstal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Haben mit Sauter unser komplettes Heizungssystem im neuen EFH gemacht (inkl. Wärmepumpe mit Kühlfunktion).\nDas Team von Sauter Heizungen hat uns durch den gesamten Prozess top unterstützt. Würden uns jederzeit wieder für Sauter entscheiden.",
+        "time": 1762885182,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "mo",
+        "author_photo": "/images/reviews/sauter-waermetechnik-gmbh-netstal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben ein komplett neues Heizungssystem erstellen lassen. Die Kommunikation war jederzeit vorbildlich, das Team sehr freundlich und die Arbeiten wurden termingerecht ausgeführt. Sehr gerne wieder!",
+        "time": 1763238579,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

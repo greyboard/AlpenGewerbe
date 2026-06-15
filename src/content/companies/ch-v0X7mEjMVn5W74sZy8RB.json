@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJe6SaW6gWm0cRGxFYL2QfMrE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "GH",
+        "author_photo": "/images/reviews/gjura-gips-maler-gmbh-au/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und professionelle Arbeit! Gjura Gips hat alles termingerecht und genau nach Wunsch umgesetzt. Absolut empfehlenswert.",
+        "time": 1750282951,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "R I E S E R",
+        "author_photo": "/images/reviews/gjura-gips-maler-gmbh-au/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragend! Am 22. Dezember Abends noch angerufen weil dringend etwas vor Weihnachten erledigt sein musste. Wurde am 23. Dezember morgens mehr als perfekt ausgeführt! Spitzenleistung. Dies ist fortan mein Gipser Nummer 1. 🥇",
+        "time": 1675894418,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "fatih oral",
+        "author_photo": "/images/reviews/gjura-gips-maler-gmbh-au/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Die Firma Gjura wirkt im ersten Augenblick sympatisch und ihre Offerte interessant. Die Arbeit wurde jedoch von fragwürdigen Fachkräften ausgeführt und Fa. Gjura kaum am Arbeitsort vorhanden. Deshalb vermute ich, dass die Arbeit an ausländische Subunternehmer weiter vergeben wurde.\n\nAls es darum ging, diverse Mängel zu beheben, zeigte sich Fa. Gjura nicht kooperativ.\n\nDamit wir unseren Anspruch auch rechtlich nicht geltend machen können, hat Fa. Gjura, wie viele unseriöse Firmen,  die Umfirmierung seiner Firma angekündigt. (siehe Schreiben von Gjura im Anhang)\n\nFazit: Da die Fa. preislich attraktiv ist, kann man sie engagieren wenn man keine Qualitätsansprüche hat.",
+        "time": 1615595084,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Adrian Schmid",
+        "author_photo": "/images/reviews/gjura-gips-maler-gmbh-au/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Kontakt, professionelle Beratung und top Ausführung - besten Dank.",
+        "time": 1744260240,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Aleksandar Radisic",
+        "author_photo": "/images/reviews/gjura-gips-maler-gmbh-au/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr saubere Arbeit, top Qualität. Kann ich nur weiterempfehlen, vielen Dank!",
+        "time": 1655378734,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJB5EnNEGCmkcRsfY-IBe47Mw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Stefan Henzmann",
+        "author_photo": "/images/reviews/naegeli-holzbau-ag-benken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nägele Holzbau können wir bestens weiter empfehlen. Der Wohnkomfort in unserem Holzhaus ist sensationell und mit aussergewöhnlich tiefen Heizkosten zu erreichen. Die Holzkonstruktion überzeugt absolut und die Qualität die die Firma leistet muss weit gesucht werden.",
+        "time": 1643977723,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jeremy Menge",
+        "author_photo": "/images/reviews/naegeli-holzbau-ag-benken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professioneller Kontakt! Viel Erfolg weiterhin.",
+        "time": 1649150637,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fabio Da Silva",
+        "author_photo": "/images/reviews/naegeli-holzbau-ag-benken/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621626038,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dominik Nägeli",
+        "author_photo": "/images/reviews/naegeli-holzbau-ag-benken/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778316679,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Manu Haupt",
+        "author_photo": "/images/reviews/naegeli-holzbau-ag-benken/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1728839035,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

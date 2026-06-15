@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJtWvaI3_8jkcRXsN-u1zjehE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Stefan Sterchi",
+        "author_photo": "/images/reviews/saugy-schreinerteam-ag-lenk/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Umbau Ferienwohnung an der Lenk - Küche, Garderobe, Boden, Bad und Türen. Zeitraum Oktober - Dezember 2025. Beratung, Koordination, Durchführung und Abrechnung zu unserer vollsten Zufriedenheit. Herzlichen Dank an Urs Kühne für die hervorragende Projektplanung und Baukoordination und seinem Schreinerteam für die tadellose Umsetzung.",
+        "time": 1772782589,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Max Reinmann",
+        "author_photo": "/images/reviews/saugy-schreinerteam-ag-lenk/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Küchenumbau in Ferienwohnung an der Lenk im September/Oktober 2024. Kompetente Beratung von Urs Kühne, Geschäftsleiter. Sämtliche Kundenwünsche wurden umgesetzt. Besichtigung der Auswahl an Farben, Materialien, Küchengeräten usw. im Geschäft möglich. 3D-Visualisierung in der Offerte dabei. Zeitplan genau eingehalten. Zusammenarbeit mit anderen Handwerkern wie Elektriker, Sanitär und Maler problemlos. Kostenvoranschlag eingehalten. Die Saugy Schreinerei kann von uns zu 100 % weiterempfohlen werden. Jederzeit gerne wieder!",
+        "time": 1732821206,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eliane Reber",
+        "author_photo": "/images/reviews/saugy-schreinerteam-ag-lenk/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind total happy mit der neuen Küche in unserer Ferienwohnung! Die Zusammenarbeit mit Urs Kühne war sehr sympathisch und unkompliziert, Urs ist auf alle unsere Wünsche eingegangen!  Vielen Dank!",
+        "time": 1770623877,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Beat Stoller",
+        "author_photo": "/images/reviews/saugy-schreinerteam-ag-lenk/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Der Wohnungsumbau der Ferienwohnung an der Lenk (inkl. neuer Küche) hat perfekt geklappt. Dank hervorragender Projektkoordination und Projektvorbereitung durch Urs Kühne sowie der Zusammenarbeit aller Handwerkern (Saugy Schreinerteam, Sanitär, Elektriker, Baumeister, Maler, etc.) wurde das Projekt zeitgerecht durchgeführt. Auch der Kostenrahmen wurde gem. Budget eingehalten. Ebenfalls zu erwähnen ist die hohe qualitative Ausführung der Arbeiten. Gerne freuen wir uns wieder auf ein nächstes Projekt mit dem Saugy Schreinerteam!",
+        "time": 1755692373,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Simon Summermatter",
+        "author_photo": "/images/reviews/saugy-schreinerteam-ag-lenk/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Perfektes Resultat. Sehr effiziente Abwicklung - von Erstberatung bis Installation. Angenehmes und aufgestelltes Team. Langjährige Kunden. Zuletzt neue Fenster.",
+        "time": 1772618404,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,46 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ34T-EUEZjkcRDeiMOBDf-Pk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Léchot André",
+        "author_photo": "/images/reviews/stettler-bedachungen-nidau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden immer.",
+        "time": 1766403284,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Denise Wirth",
+        "author_photo": "/images/reviews/stettler-bedachungen-nidau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung!",
+        "time": 1498331368,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "t -",
+        "author_photo": "/images/reviews/stettler-bedachungen-nidau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service",
+        "time": 1681928260,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "--",
+        "author_photo": "/images/reviews/stettler-bedachungen-nidau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770894880,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1W3HWWr9mkcRciJdFU1E6fU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Sabrina Eggart",
+        "author_photo": "/images/reviews/malerei-mueggler-ag-romanshorn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent. Hat jeden Schritt vorher erklärt, was gemacht wird. Die Malerei Müggler AG empfehle ich sehr gerne weiter.",
+        "time": 1752084120,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Ramona",
+        "author_photo": "/images/reviews/malerei-mueggler-ag-romanshorn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Junges, freundliches Team. Habe sehr gute Erfahrung gemacht. Die Arbeit wurde zeitgemäss und sehr präzise erledigt. Werde mich wieder für dieses Malergeschäft entscheiden.\nTop👍",
+        "time": 1707573701,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Leandro",
+        "author_photo": "/images/reviews/malerei-mueggler-ag-romanshorn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben die Malerei Müggler AG als sehr gutes, zuvorkommendes und professionelles Malergeschäft kennengelernt. Die Zusammenarbeit verlief perfekt, kompetent und einwandfrei. Wir freuen uns auf die weitere Zusammenarbeit mit Herr Almeida und Herr Wagner! Wir können dieses Geschäft wärmstens weiterempfehlen.\n\nZu hervorhebende Punkte:\n- Pünktlichkeit\n- Seriös\n- Hohe Professionalität\n- Preis / Leistung --> perfekt!\n- Sehr gute Kommunikation\n- Man fühlt sich bei Ihnen ernst genommen und wohl\n- Junge und kompetente Unternehmer",
+        "time": 1698672606,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Heinz Schlegel",
+        "author_photo": "/images/reviews/malerei-mueggler-ag-romanshorn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Preis Leistung Perfekt!!! Die zwei Jungs sind schnell immer freundlich und Präzise. Es wurde die ganze 4 ½ Wohnung gestrichen inkl. Wintergarten (teilweise mit Schimmel Behandlung). Im Wohnzimmer musste sogar eine Wand Repariert (Loser Putz) das ganze dauerte 1.5 Wochen. Sehr zu empfehlen.",
+        "time": 1714637890,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ronzani Danilo",
+        "author_photo": "/images/reviews/malerei-mueggler-ag-romanshorn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Geschätztes Mügglerteam\nWir möchten uns für die hervorragende Malerarbeit bedanken! Ihr Engagement, Professionalität und Liebe zum Detail haben bei uns einen sehr guten Eindruck hinterlassen. Sehr gerne wieder einmal😊",
+        "time": 1714817935,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

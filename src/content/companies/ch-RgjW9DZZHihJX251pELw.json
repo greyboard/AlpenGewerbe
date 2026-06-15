@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJM5j8j0c3jkcRwDv8-a2i9ss",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Fitim Hyseni",
+        "author_photo": "/images/reviews/hauser-schreinerei-gmbh-ostermundigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hat bei meinem Vater die Küche neu gemacht, wir sind sehr zufrieden mit der Arbeit und mit dem Preis.",
+        "time": 1742666638,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Scherer Jeffrey",
+        "author_photo": "/images/reviews/hauser-schreinerei-gmbh-ostermundigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr saubere arbeit und top beratung\nWeiter so",
+        "time": 1726767956,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rudolf Fankhauser",
+        "author_photo": "/images/reviews/hauser-schreinerei-gmbh-ostermundigen/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Freundlich tip top service !!",
+        "time": 1593162907,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Magali Langenegger",
+        "author_photo": "/images/reviews/hauser-schreinerei-gmbh-ostermundigen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1726516055,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jonas Brunner",
+        "author_photo": "/images/reviews/hauser-schreinerei-gmbh-ostermundigen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1692116652,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

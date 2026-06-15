@@ -25,5 +25,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfWGTCgg0m0cRBM-fw6UYcfg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Martin Klossner",
+        "author_photo": "/images/reviews/gebrueder-beck-ag-triesenberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wo Familie gelebt wird. Neu mit Lukas der zweite Gipsermeister (sorry: Stuckateurmeister) neben Vater August. Kompetenz pur!",
+        "time": 1689188913,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Venzin Rudolf",
+        "author_photo": "/images/reviews/gebrueder-beck-ag-triesenberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1724392471,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

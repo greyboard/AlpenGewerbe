@@ -1,7 +1,7 @@
 {
   "id": "ch-FT21nZiGT8HYR4RwsBd4",
   "slug": "feritec-ag-erstfeld",
-  "name": "Feritec AG",
+  "name": "FERITEC AG",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJV0NLqWFDhUcRtT8gUb7572g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–16:30 Uhr",
+    "Donnerstag: 07:00–16:30 Uhr",
+    "Freitag: 07:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "D C",
+        "author_photo": "/images/reviews/feritec-ag-erstfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann Louis Zurfluh AG nur als Lieferant beurteilen, und ich habe sehr hohe Meinung über diese Firma, was die Kommunikation, Pünktlichkeit, Qualität und Zuverlässigkeit betrifft.\n\nDie Firma hat Ausrüstung und auch Handgeschick auch für feineren Toleranzen vor allem bei Dreh- und Fräseteilen aller Art. Für mich eindeutig ein sehr schätzenswerter Partner.",
+        "time": 1539941957,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Timo Graf",
+        "author_photo": "/images/reviews/feritec-ag-erstfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, familiär und mega kompetent. Vielen Dank Martin für die schöne Zusammenarbeit\nTimo Graf, Josef BINKERT AG",
+        "time": 1705519471,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "rici joao",
+        "author_photo": "/images/reviews/feritec-ag-erstfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mega Tolle Firma, Arbeitstechnisch auf höchsten Niveau, Mitarbeiter wie Firmenleitung freundlich und emphatisch, nur weiterempfehlbar.",
+        "time": 1660168994,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Anita Cathomen",
+        "author_photo": "/images/reviews/feritec-ag-erstfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundlich und kompetent",
+        "time": 1674977782,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Francesco De Pinto",
+        "author_photo": "/images/reviews/feritec-ag-erstfeld/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Super Service",
+        "time": 1624902951,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJQ5J1SmBDhUcRZuEZvGN1TQg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Katrin Tresch-Hess",
+        "author_photo": "/images/reviews/genossenschaft-fuer-laendliches-bauen-des-kantons-uri-glb-uri-seedorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Ihnen unseren Pool gebaut und sonst Maschinen ausgeliehen, hat immer super funktioniert 😊 immer wieder gerne",
+        "time": 1635249857,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Basecamp Andermatt",
+        "author_photo": "/images/reviews/genossenschaft-fuer-laendliches-bauen-des-kantons-uri-glb-uri-seedorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Beratung für Bauen in Bergen! Lokale Verhältnisse und Besonderheiten werden berücksichtigt und solide gebaut! Wer Material oder Geräte braucht ist hier Mitglied und baut mit Unterstützung und Rat auch vieles selber! Viele  Dank und gerne Wieder !!",
+        "time": 1686742080,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stef Loretz",
+        "author_photo": "/images/reviews/genossenschaft-fuer-laendliches-bauen-des-kantons-uri-glb-uri-seedorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, faire Preise und unkomplizierte, motivierte Mitarbeiter. Es macht immer wieder Spass mit euch!",
+        "time": 1724754482,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ER Bau",
+        "author_photo": "/images/reviews/genossenschaft-fuer-laendliches-bauen-des-kantons-uri-glb-uri-seedorf/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Sehr freundliche empfang Dame! Bei Namen mit Ausländische Hintergrund plötzlich alle Mietwerkzeuge ausgebucht. Es ist überhaupt nicht empfehlenswert.",
+        "time": 1647434903,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "T",
+        "author_photo": "/images/reviews/genossenschaft-fuer-laendliches-bauen-des-kantons-uri-glb-uri-seedorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kann ich jedem empfehlen. Das Team von GLB hat hervorragende Arbeit geleistet. Vielen Dank dass ihr mein Haus gebaut habt.",
+        "time": 1660658292,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

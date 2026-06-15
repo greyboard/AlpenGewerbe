@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZUjDAJQem0cRtkUMexQ4WzE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Daniel m. Frei",
+        "author_photo": "/images/reviews/gft-fassaden-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetenz in Fassaden.\nDa gibt es beinahe alle Wünsche die hier hierzu erfüllt werden können. Haben eine HPL Fassade von gft und sind sehr zufrieden damit. Auch mit der Beratung und der Freundlichkeit im gesamten gft Team-  das uns da sehr geholfen hat.",
+        "time": 1741854778,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ramin Rassai Far",
+        "author_photo": "/images/reviews/gft-fassaden-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Finde das Unternehmen Top ..\nTop Führung + langjährige Erfahrung ..\nWeiter sooo ..",
+        "time": 1603780446,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "C Schwendi",
+        "author_photo": "/images/reviews/gft-fassaden-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetente Firma mit einem tollen Team",
+        "time": 1624365284,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stefan Albinger",
+        "author_photo": "/images/reviews/gft-fassaden-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wahr sehr interessant.",
+        "time": 1653158962,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jürgen Mass",
+        "author_photo": "/images/reviews/gft-fassaden-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "tolle Firma",
+        "time": 1570983524,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

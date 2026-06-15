@@ -26,5 +26,55 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJP2q1Z5rhmkcR4XWIxyuqhNQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Antonio Ciervo",
+        "author_photo": "/images/reviews/keiser-frei-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin äusserst zufrieden mit der Arbeit der Keiser & Frei GmbH. Die Durchführung der Arbeiten erfolgte sauber, speditiv und sehr professionell. Vielen Dank für die ausgezeichnete Arbeit! 👍",
+        "time": 1746977373,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Frei Franziska",
+        "author_photo": "/images/reviews/keiser-frei-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1655822179,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Koni Zeller",
+        "author_photo": "/images/reviews/keiser-frei-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1591823485,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "S 1",
+        "author_photo": "/images/reviews/keiser-frei-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1583251913,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

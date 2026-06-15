@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJj-qSafC1hUcReNAosOqlU0g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Dienstag: 08:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 08:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: 08:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Freitag: 08:30–12:00 Uhr, 13:30–18:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Pia Stänz",
+        "author_photo": "/images/reviews/gamboni-sa-pavimenti-arredo-casa-gordola/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ja, kann ich empfehlen",
+        "time": 1741673938,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Flavio MB",
+        "author_photo": "/images/reviews/gamboni-sa-pavimenti-arredo-casa-gordola/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent.",
+        "time": 1730804562,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Barbara Haller",
+        "author_photo": "/images/reviews/gamboni-sa-pavimenti-arredo-casa-gordola/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für den neuen Belag mit diesem wunderschönen Parkett, ich bin sehr zufrieden und kann diese sehr professionelle Firma nur empfehlen ☺️",
+        "time": 1730227701,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Johnny Pedrazzi",
+        "author_photo": "/images/reviews/gamboni-sa-pavimenti-arredo-casa-gordola/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe mehrere Weihnachtsgeschenke gekauft. Alle waren liebevoll verpackt. Ich bin super zufrieden!",
+        "time": 1704037264,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sara Donati",
+        "author_photo": "/images/reviews/gamboni-sa-pavimenti-arredo-casa-gordola/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Immer sehr nett. Man findet immer etwas Originelles zum Verschenken...",
+        "time": 1563556048,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

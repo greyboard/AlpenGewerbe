@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8yCjQzkMkEcRmEk5AA4XEQ4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Valon Gjonaj",
+        "author_photo": "/images/reviews/blasi-plattenleger-urdorf/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Schlechte Beratung und schlechte Ausführung. Termine nicht eingehalten.",
+        "time": 1761612509,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Marieke Pelt",
+        "author_photo": "/images/reviews/blasi-plattenleger-urdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1665426452,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ali Afzali",
+        "author_photo": "/images/reviews/blasi-plattenleger-urdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1593531340,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ello Bagattini",
+        "author_photo": "/images/reviews/blasi-plattenleger-urdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1592427359,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ker 5001",
+        "author_photo": "/images/reviews/blasi-plattenleger-urdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1583222676,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

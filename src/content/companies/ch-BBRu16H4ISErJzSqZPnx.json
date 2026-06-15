@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJr1IkrBeSj0cR5TpucBp8wYk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Martin Mendel",
+        "author_photo": "/images/reviews/dominik-gasser-haustechnik-gmbh-lungern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dominik Gasser und sein Team kann ich jedem wärmstens weiterempfehlen. Als Ferienhausbesitzer bin ich sehr froh, seit vielen Jahren auf Dominik Gasser und Team zählen zu können - egal ob unter der Woche, am Wochenende, nach Feierabend, etc. Hilfe wird immer und sehr kompetent geboten.",
+        "time": 1713340200,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kirsten Aufreisen",
+        "author_photo": "/images/reviews/dominik-gasser-haustechnik-gmbh-lungern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mir wurde sofort kompetent und sehr freundlich geholfen. Danke",
+        "time": 1754084864,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Ming Beat",
+        "author_photo": "/images/reviews/dominik-gasser-haustechnik-gmbh-lungern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente, pragmatische Mitarbeiter.\nFreundlicher rascher Service.\nPreis/Leistung perfekt.",
+        "time": 1576075890,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michael Schäli",
+        "author_photo": "/images/reviews/dominik-gasser-haustechnik-gmbh-lungern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig und kompetent!",
+        "time": 1683180993,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Till Gasser",
+        "author_photo": "/images/reviews/dominik-gasser-haustechnik-gmbh-lungern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1650357360,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

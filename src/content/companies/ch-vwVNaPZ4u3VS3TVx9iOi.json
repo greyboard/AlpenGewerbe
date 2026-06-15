@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJXWe4ivvfjkcRfF2-NCrljxM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Mathieu Emery",
+        "author_photo": "/images/reviews/simos-toit-sarl-ayent/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein perfektes Team für die Reparatur eines großen Restaurantdachs. Die Arbeiten wurden fachgerecht, termingerecht und präzise ausgeführt. Motivierte und dynamische junge Leute, die auch große Projekte problemlos bewältigen. Ich kann sie wärmstens empfehlen.",
+        "time": 1644499592,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jérémy Venetz",
+        "author_photo": "/images/reviews/simos-toit-sarl-ayent/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein Unternehmen, gegründet und geführt von zwei hochqualifizierten jungen Handwerkern. Alles rund ums Dach (Blecharbeiten, Dacheindeckung, Wartung, Photovoltaik-Anlagen). Zuverlässig und professionell – die Zusammenarbeit ist ein Vergnügen.",
+        "time": 1644323924,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Laurence Jaquet",
+        "author_photo": "/images/reviews/simos-toit-sarl-ayent/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionalität und strikte Termintreue: die perfekte Kombination für erstklassige Arbeit. Hervorragendes Preis-Leistungs-Verhältnis! Und das alles mit einem Lächeln.",
+        "time": 1644228704,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Leonardo Amorim",
+        "author_photo": "/images/reviews/simos-toit-sarl-ayent/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Superbe équipe, professionnelle et à l’écoute du client. Je peux que recommander.",
+        "time": 1644232109,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Julian Morard",
+        "author_photo": "/images/reviews/simos-toit-sarl-ayent/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Klempnerarbeit. Sorgfältiger und persönlicher Service. Sehr empfehlenswert.",
+        "time": 1644230836,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

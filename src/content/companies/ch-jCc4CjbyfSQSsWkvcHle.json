@@ -25,5 +25,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6wFU0LjGhEcRqn0UP_V5Zu4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "fleur 74",
+        "author_photo": "/images/reviews/amato-maler-ag-domat-ems/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervoragende Arbeit!!! Endlich mal keinen Ärger mit Malerarbeiten!",
+        "time": 1516866607,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Lotti Rohr",
+        "author_photo": "/images/reviews/amato-maler-ag-domat-ems/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig  saubere  Arbeit",
+        "time": 1646514655,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Toni Sinatra",
+        "author_photo": "/images/reviews/amato-maler-ag-domat-ems/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von dieser Malerfirma! Die Arbeit wurde sehr sauber, präzise und termingerecht ausgeführt. Das Team war freundlich, professionell und hat grossen Wert auf Details gelegt. Auch Claudio hat die Beratung im Vorfeld war top – meine Wünsche wurden perfekt umgesetzt. Das Ergebnis hat meine Erwartungen sogar übertroffen. Ich kann diese Firma nur weiterempfehlen! Grazie!!!!",
+        "time": 1776583917,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Tiziana Philipp Michelotti",
+        "author_photo": "/images/reviews/amato-maler-ag-domat-ems/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Spitze!",
+        "time": 1601405832,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Baukultur Graubünden GmbH",
+        "author_photo": "/images/reviews/amato-maler-ag-domat-ems/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1779391262,
+        "relative_time_description": "vor 3 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

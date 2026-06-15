@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJaZRHN-8ZjkcRZ6JgHsCn3tk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Dominique Beutler",
+        "author_photo": "/images/reviews/schweizer-glaserei-gmbh-bruegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe von der Firma Schweizer Glaserei ein Katzentürchen einbauen lassen und war mit der Arbeit sehr zu frieden!\nSehr unkompliziert, schnell Offerte erhalten, ebenso kurzfrisitgen Termin für den Einbau der neuen Glasscheibe!\nPreis-Leistungsverhältnis super!",
+        "time": 1779817114,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Uwe Dohmen",
+        "author_photo": "/images/reviews/schweizer-glaserei-gmbh-bruegg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "gute Beratung/Planung; schnelle, effiziente Umsetzung, saubere Arbeit, Preis-Leistung ok, Tipptopp-Zufriedenheit",
+        "time": 1772013403,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Jacqueline Bleuer",
+        "author_photo": "/images/reviews/schweizer-glaserei-gmbh-bruegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Montage der Duschglaswand wurde zu meiner vollsten Zufriedenheit erledigt. Vielen Dank!",
+        "time": 1780236739,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Hansjörg Fahrni",
+        "author_photo": "/images/reviews/schweizer-glaserei-gmbh-bruegg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Glaserei Schweizer erstellte bei uns die Glasrückwand in unserer neuen Küche. Die Arbeiten wurden zu unserer vollsten Zufriedenheit ausgeführt. Die Mitarbeiter waren sehr freundlich und arbeiteten Sauber. Daumen hoch.",
+        "time": 1751614955,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Graziano Cristaldi",
+        "author_photo": "/images/reviews/schweizer-glaserei-gmbh-bruegg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich, kompetent und schnelle Abwicklung. Top!",
+        "time": 1778672557,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJW4e8y3THhEcRsCHnQXwUKNE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Vincenz Venanzi",
+        "author_photo": "/images/reviews/maler-walser-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super speditiv und einwandfreie Arbeit. Mitarbeiter sind höflich, freundlich und sehr zuvorkommend. Diese Firma ist ein ausgezeichneter Partner, welche ich nur empfehlen kann!",
+        "time": 1694680465,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kunstfabrik Chur Antonio Piccaluga",
+        "author_photo": "/images/reviews/maler-walser-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Brauchte einen Farbton,\nwurde schnell, freundlich und kompetent bedient .\nDie Farbe wurde sogar vor Ort geliefert.\nDie Maler Walser AG ist zu empfehlen.\nHerzlichen Dank",
+        "time": 1557394700,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Jaffar Sabbah",
+        "author_photo": "/images/reviews/maler-walser-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "- Sehr freundliche und kompetente Leute\n- Sehr schnelle Erledigung der Arbeit mit super Ergebnis\n- Super einfache Abwicklung des Auftrags/ der Bezahlung\n- Rundum Top Service",
+        "time": 1721889343,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martha Temiz-Lipski",
+        "author_photo": "/images/reviews/maler-walser-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Platten verlegen, super pünktlich, speditiv saubere Arbeit geleistet.besten Dank und jederzeit wieder einmal, wenn Arbeiten anfallen, Gruss M.T",
+        "time": 1664834401,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Brigitte Labhart",
+        "author_photo": "/images/reviews/maler-walser-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung in Farben und Materialien. Werde Maler Walser immer wieder weiterempfehlen.",
+        "time": 1603225828,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

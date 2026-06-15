@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJc0fFtpBEhUcRvRNUm5uKoD0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Roger Arnold",
+        "author_photo": "/images/reviews/spenglerei-arnold-ag-flueelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir mussten unser Dachfenster ersetzen lassen und sind mit der Arbeit der Spenglerei sehr zufrieden. Von der Beratung bis zur Ausführung hat alles bestens funktioniert. Die Arbeiten wurden sauber, speditiv und professionell erledigt.\n\nEin grosses Lob auch an die sehr netten und freundlichen Mitarbeiter. Man merkt, dass hier mit Erfahrung und Freude gearbeitet wird.\n\nSuper Firma, absolut zuverlässig und nur weiterzuempfehlen. Vielen Dank nochmals!",
+        "time": 1778438864,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "sarah kempf",
+        "author_photo": "/images/reviews/spenglerei-arnold-ag-flueelen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1548877966,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rene Tresch",
+        "author_photo": "/images/reviews/spenglerei-arnold-ag-flueelen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1539888474,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

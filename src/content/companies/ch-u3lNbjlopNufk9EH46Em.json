@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-8ia-boBkEcRBHfGfvdaFoU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–16:30 Uhr",
+    "Donnerstag: 07:00–16:30 Uhr",
+    "Freitag: 07:00–16:30 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Leoreta Pervataj",
+        "author_photo": "/images/reviews/fugen-zug-steinhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und saubere Arbeit! Fugen Zug arbeitet zuverlässig, pünktlich und mit hoher Qualität. Der Kontakt war freundlich und unkompliziert. Bin mit dem Ergebnis mehr als zufrieden und kann die Firma nur weiterempfehlen!",
+        "time": 1778525161,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Leonard Shala",
+        "author_photo": "/images/reviews/fugen-zug-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "arbeitet wirklich schnell und sauber.",
+        "time": 1778528978,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "STEFAN TROST",
+        "author_photo": "/images/reviews/fugen-zug-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Küche 👍 Fugen würden wir geleckt Geschmiert. Beste Firma ever. Schnell und unkompliziert.",
+        "time": 1778331635,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Rob Mrijaj",
+        "author_photo": "/images/reviews/fugen-zug-steinhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778939151,
+        "relative_time_description": "vor 4 Wochen"
+      },
+      {
+        "author_name": "Labinot Krasniqi",
+        "author_photo": "/images/reviews/fugen-zug-steinhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778527902,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

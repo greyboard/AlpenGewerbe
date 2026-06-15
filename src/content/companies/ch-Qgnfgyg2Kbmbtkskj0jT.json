@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu63X7qL3j0cR2PcYcff_UdE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Dienstag: 09:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 09:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 09:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 09:00–11:30 Uhr, 14:00–17:00 Uhr",
+    "Samstag: 09:00–14:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "Roger Givel",
+        "author_photo": "/images/reviews/schnyder-parkett-gmbh-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Parkett Schyner in Stans eine absolut grossartige Erfahrung gemacht! Die Arbeit, die sie bei uns geleistet haben, war professionell, präzise und von höchster Qualität. Das Team war zuverlässig, freundlich und äußerst kompetent. Unser Boden sieht fantastisch aus, und wir sind sehr zufrieden mit dem Ergebnis. Ich kann Parkett Schyner jedem nur wärmstens empfehlen. Top-Service und exzellente Handwerkskunst! Vielen Dank!",
+        "time": 1729582544,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ingrid schneider",
+        "author_photo": "/images/reviews/schnyder-parkett-gmbh-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schöne und grosse Ausstellung. Wir waren mehrmals dort und auch noch bei 2 anderen Parkettbodenanbietern. Die Auswahl des Bodens war ein längerer Prozess von hell-weisslich bis dunkel-rustikal. Ausschlaggebend war der junge enthusiastische Herr Schnyder, der uns mit seiner Begeisterung für sehr lebhaftes Holz anzustecken vermochte. Wir haben unsere Wahl nicht bereut und erfreuen uns täglich an unserem Parkettboden. Klare Empfehlung!",
+        "time": 1667730326,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Franziska Bieri",
+        "author_photo": "/images/reviews/schnyder-parkett-gmbh-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wunderbare Arbeit, wir lieben unsere Holzwand sehr. Die Zusammenarbeit war sehr angenehm, unsere individuellen Wünsche wurden umgesetzt, das Material ist sehr sehr schön. Nur zu empfehlen!",
+        "time": 1663828606,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Domenico Monaco",
+        "author_photo": "/images/reviews/schnyder-parkett-gmbh-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Ausstellung, mit mehr als nur Parkett und Bodenbeläge und Top Beratung",
+        "time": 1494597918,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Andreas Jetzer",
+        "author_photo": "/images/reviews/schnyder-parkett-gmbh-stans/reviewer_5.jpg",
+        "rating": 5,
+        "text": "sehr schöne, grosse und helle Ausstellung mit einem beachtlichen Sortiment",
+        "time": 1567601023,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Fundamentbau",
     "Renovation"
   ],
-  "description": "So weist Ihr Webauftritt zwar ein sehr angenehmes Design mit grossen Bildern auf, lässt jedoch beim nDSG-Datenschutz eine akute rechtliche Flanke offen: Die Seite lädt im Hintergrund sofort Google Analytics (G-057022WW4T) sowie Google Fonts via Preconnect (fonts.gstatic.com), komplett ohne die geset"
+  "description": "So weist Ihr Webauftritt zwar ein sehr angenehmes Design mit grossen Bildern auf, lässt jedoch beim nDSG-Datenschutz eine akute rechtliche Flanke offen: Die Seite lädt im Hintergrund sofort Google Analytics (G-057022WW4T) sowie Google Fonts via Preconnect (fonts.gstatic.com), komplett ohne die geset",
+  "googlePlaceId": "ChIJv3SGRZ06m0cRl9J5R7m5ahs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Hardegger Peter",
+        "author_photo": "/images/reviews/wilhelm-buechel-ag-bendern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Lehrlingsbetreuung. Guter Arbetgeber",
+        "time": 1650810731,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "sasa kapelari",
+        "author_photo": "/images/reviews/wilhelm-buechel-ag-bendern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gutes Unternehmen, okay",
+        "time": 1633978483,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lalin1985ify",
+        "author_photo": "/images/reviews/wilhelm-buechel-ag-bendern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "👍👌",
+        "time": 1652130417,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "حكيم هواري",
+        "author_photo": "/images/reviews/wilhelm-buechel-ag-bendern/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Kranführer",
+        "time": 1623534877,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Leander Knoll",
+        "author_photo": "/images/reviews/wilhelm-buechel-ag-bendern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1657086641,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

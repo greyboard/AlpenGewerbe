@@ -25,5 +25,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJX9JGaV4LkEcRGDy6BMviLmI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:20–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:20–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:20–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:20–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:20–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marc Bucher",
+        "author_photo": "/images/reviews/schellenberg-schreinerei-ag-regensdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert von der Arbeit von Herrn Schellenberg. Unsere Küche wurde von ihm umgebaut – alles wurde perfekt und mit grosser Sorgfalt ausgeführt. Die Qualität, Sauberkeit und Genauigkeit sind einfach top.\nZusätzlich hat er noch einen massgefertigten Kasten unter der Treppe gemacht – ebenfalls super umgesetzt und genau nach unseren Vorstellungen.\nSehr zuverlässig, freundlich und kompetent – wir können Schreiner Schellenberg nur wärmstens weiterempfehlen.",
+        "time": 1760554630,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Bruno Schmidiger",
+        "author_photo": "/images/reviews/schellenberg-schreinerei-ag-regensdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wie immer waren wir auch bei diesem grösseren Umbau mehr als zufrieden mit der absolut perfekten Arbeit von Marcel Schellenberg und seiner Crew! Wir können sie nur in den höchsten Tönen loben und weiterempfehlen!",
+        "time": 1700745643,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Beat Briand",
+        "author_photo": "/images/reviews/schellenberg-schreinerei-ag-regensdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vor gut zwei Monaten haben der Vater und Sohn Schellenberg bei mir einen neuen \"Mass-Einbauschrank\" montiert.\n\nErstklassige und exakte Ausführung erfreuen mich heute noch.\nJeder Franken ist super investiert.\n\nVielen Dank für die Qualitätsarbeit.",
+        "time": 1656942752,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Portner Paraskeva",
+        "author_photo": "/images/reviews/schellenberg-schreinerei-ag-regensdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlesig , und wird die Arbeit am Ort prommt Erlediget ! Sehr zu Emfehlen die Firma schellenberg Schreinerei Ag",
+        "time": 1698248198,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ana Paragis",
+        "author_photo": "/images/reviews/schellenberg-schreinerei-ag-regensdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schön, funktional und solid gemacht! Danke!",
+        "time": 1570561297,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

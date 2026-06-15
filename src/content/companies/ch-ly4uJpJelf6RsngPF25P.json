@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJgSLi0oV_kEcRUAQcbXXiN8o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Thomas Koch",
+        "author_photo": "/images/reviews/schlatter-bau-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wer professionelles arbeiten schätzt, ist bei SchlatterBau am richtigen Ort. Arbeiten seit einem viertel Jahrhundert zusammen. Gerne und immer wieder.",
+        "time": 1670681601,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lenni Natter",
+        "author_photo": "/images/reviews/schlatter-bau-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Überaus netter Mitarbeiter im Büro",
+        "time": 1701938651,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patrick Mueller",
+        "author_photo": "/images/reviews/schlatter-bau-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1655903631,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Schlatter corporate",
+        "author_photo": "/images/reviews/schlatter-bau-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637305955,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ribeiro Jose",
+        "author_photo": "/images/reviews/schlatter-bau-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1635063184,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

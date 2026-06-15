@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJTYcZz8ORmkcRZyqK95hqPkg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Carlos Perez",
+        "author_photo": "/images/reviews/grob-schreinerei-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Thurgauer Schreinerei mit absoluter Top Einstellung. Bei einem gespräch mit der Leitung des Kantosspital Thurgau und Baumer AG kamen die besten Noten. Weiter so.",
+        "time": 1594540744,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "k o",
+        "author_photo": "/images/reviews/grob-schreinerei-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, schnell und freundlich. Danke gern wieder",
+        "time": 1648650891,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Albert Gehring",
+        "author_photo": "/images/reviews/grob-schreinerei-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1638265396,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Email von",
+        "author_photo": "/images/reviews/grob-schreinerei-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1488434271,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

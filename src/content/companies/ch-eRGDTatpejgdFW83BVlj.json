@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJsWqWlsHHhEcRj3ATfwItJcE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Benno Richner",
+        "author_photo": "/images/reviews/schreinerei-marx-ag-zizers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unsere Badezimmermöbel und Schiebetüren perfekt, zeitig und wie offeriert realisiert. Super Job, einen  grossen Dank an Herrn Casanova und Team.",
+        "time": 1754997206,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Inge und Andres Zaugg",
+        "author_photo": "/images/reviews/schreinerei-marx-ag-zizers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten der Fa. Marx waren wie jedesmal: top vorbereitet, pünktlicher Termin, einwandfrei und perfekt ausgeführt. Freundlicher Chef und motivierte Mitarbeiter! Die Rechnung entsprach der Offerte, alles bestens und wir danken herzlich.\nInge und Andres",
+        "time": 1764863700,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Yvonne Brigger",
+        "author_photo": "/images/reviews/schreinerei-marx-ag-zizers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unser neuer Wandschrank, einfach perfekt. Professionelle und kompetente Beratung, schnelle und unkomplizierte Montage. Vielen Dank. Die nächsten Projekte werden bald kommen.",
+        "time": 1763887824,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Günter Wildhaber",
+        "author_photo": "/images/reviews/schreinerei-marx-ag-zizers/reviewer_4.jpg",
+        "rating": 5,
+        "text": "⭐️⭐️⭐️⭐️⭐️ Hervorragende Arbeit – auch nach Jahren noch begeistert!\n\nVor sechs Jahren haben wir bei der Schreinerei Marx in Landquart eine individuell geplante Küche anfertigen lassen – und was sollen wir sagen: Die Ausführung war absolut perfekt! Hansjürg und sein Team haben unsere Wünsche nicht nur verstanden, sondern mit viel handwerklichem Können und Liebe zum Detail umgesetzt. Das Ergebnis war für uns ein echtes Highlight – sowohl optisch als auch funktional. Auch das Preis-Leistungs-Verhältnis war top.\n\nBesonders beeindruckt hat uns der Service über die Jahre hinweg: Nach sechs Jahren hatten wir zweimal eine kleine Reparatur (eine gelöste Kante), und beide Male wurde das Problem sofort und sogar kostenlos behoben. Dieser Einsatz und die Kundenfreundlichkeit verdienen ein grosses Dankeschön!\n\nWir sind begeistert und können die Schreinerei Marx uneingeschränkt weiterempfehlen – Qualität, Verlässlichkeit und Service auf höchstem Niveau.",
+        "time": 1757770393,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Giovanni Giannotti",
+        "author_photo": "/images/reviews/schreinerei-marx-ag-zizers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Seriöse, professionelle und pünktliche Firma, mit der die Zusammenarbeit eine echte Garantie ist. Absolut empfehlenswert.",
+        "time": 1776923542,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

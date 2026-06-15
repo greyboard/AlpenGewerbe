@@ -25,5 +25,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJubKvRo50kEcR_WSTQqqxiys",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Thomas von Arx",
+        "author_photo": "/images/reviews/buenter-schellenberg-ag-niederhasli/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sensationeller Kundendienst - 5 Vor-Ort-Reparaturen in einer Stunde … alles zur vollen Zufriedenheit ausgeführt von Hr. Beutler. Nicht zuletzt dank guter Vorbereitung; Herr Schellenberg hat die fünf Ersatzteile korrekt organisiert – toll! Solchen Kundenservice sieht man nicht mehr viel.",
+        "time": 1748428750,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel C.",
+        "author_photo": "/images/reviews/buenter-schellenberg-ag-niederhasli/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Mitarbeiter war sehr unhöflich, Anruf wurde nicht beantwortet und bei gelungener Kontaktufnahme war herzlich geringes Interesse vorhanden.\nDer Mitarbeiter hatte kein Verständnis für die aktuelle Situation und hat mich verbal angegriffen, was äusserst unprofessionell ist. Ich würde ein Fernbleiben von dieser Firma empfehlen, um in keinerlei Probleme verwickelt zu werden.",
+        "time": 1652963943,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "V B",
+        "author_photo": "/images/reviews/buenter-schellenberg-ag-niederhasli/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Service!\nKompetente, zuverlässige und sauber arbeitende Mitarbeiter. Jedes al wurden die Arbeiten zufriedenstellend ausgeführt. Sehr zu empfehlen.",
+        "time": 1630141565,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Selina Conde",
+        "author_photo": "/images/reviews/buenter-schellenberg-ag-niederhasli/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Telefon wird nicht beantwortet, Klärungsversuch per Mail bleibt ohne Entschuldigung. Sehr unprofessionell.",
+        "time": 1652963464,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Max Muster",
+        "author_photo": "/images/reviews/buenter-schellenberg-ag-niederhasli/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Merhmaliges Nachfragen nötig",
+        "time": 1652963569,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

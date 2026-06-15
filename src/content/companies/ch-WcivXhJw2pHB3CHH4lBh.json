@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ6NY_J0uhUcRvhjjEseMH6c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Cunga Lunga",
+        "author_photo": "/images/reviews/truempi-ag-bauunternehmung-mitloedi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Besten einfach",
+        "time": 1757777710,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "shala skender",
+        "author_photo": "/images/reviews/truempi-ag-bauunternehmung-mitloedi/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Starke Unternehmen 👍",
+        "time": 1733342713,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christoph Studer",
+        "author_photo": "/images/reviews/truempi-ag-bauunternehmung-mitloedi/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1726754311,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dave Heinzer",
+        "author_photo": "/images/reviews/truempi-ag-bauunternehmung-mitloedi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1723054708,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rafa Campaña",
+        "author_photo": "/images/reviews/truempi-ag-bauunternehmung-mitloedi/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1719484218,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

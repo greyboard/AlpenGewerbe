@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvaxVmRCSmkcRLq8SBJfMP9I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 13:30–17:15 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Kathrin Zimmermann",
+        "author_photo": "/images/reviews/albin-bardellini-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Bardellini hat bei uns den alten Parkettboden fachgerecht abgeschliffen und neuen Parkett verlegt – das Ergebnis sieht einfach top aus! Die Arbeiten wurden sauber und professionell ausgeführt. Kleine Korrekturen nach Beendigung der Baustelle wurden sofort und unkompliziert erledigt. Alles bestens – klare Weiterempfehlung!",
+        "time": 1771432527,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Manuela Kündig",
+        "author_photo": "/images/reviews/albin-bardellini-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir durften die Firma Bardellini durch einen Wasserschaden „kennenlernen“.\nTrotz Platzmangel und anderen kleinen Umständen hat der Mitarbeiter professionelle und äusserst saubere Arbeit geleistet.\nWir können diese Firma nur empfehlen.",
+        "time": 1765130380,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Andreas Weber",
+        "author_photo": "/images/reviews/albin-bardellini-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wunderschön ausgeführte Arbeit. Die antiken Böden erscheinen im neuen glanz. Fachlich und persönlich top. Einfach nur schön.",
+        "time": 1709068307,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Miriam Keller",
+        "author_photo": "/images/reviews/albin-bardellini-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Es wurde fast im kompletten Haus ein neuer Boden verlegt, wir sind begeistert!\nTolle Arbeit und die Bodenleger geben vollen Einsatz fürs gute Gelingen, obwohl es bei unserem Projekt einen straffen Zeitplan gab :-)",
+        "time": 1751562460,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Philippe A",
+        "author_photo": "/images/reviews/albin-bardellini-ag-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind mit unserem neuen Boden der Albin Bardellini AG vollends zufrieden und positiv überrascht wie auch die kleinen Details, Ränder und Abschlüsse sehr sauber verarbeitet wurden. Wir wurden sehr freundlich und kompetent beraten und durften uns ganz ohne Zeitdruck den gewünschten Boden aussuchen. Preis/Leistung top!",
+        "time": 1604089974,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

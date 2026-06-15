@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJezM3V4V0kEcRsQQ7zCg5G_k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 06:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 06:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 06:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 06:30–11:50 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Thomas Obrecht",
+        "author_photo": "/images/reviews/lignoflor-ag-niederhasli/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Definitiv 5 Sterne! Unser Parkettboden wurde grundlegend überarbeitet. Das Ergebnis ist fantastisch! Die Arbeit wurde sehr speditiv, pünktlich und zuverlässig durchgeführt. Besonders hervorzuheben ist die proaktive Kommunikation während des gesamten Prozesses. Top!",
+        "time": 1752728721,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Susanne Blatter",
+        "author_photo": "/images/reviews/lignoflor-ag-niederhasli/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der Arbeit von Lignofloor in Niederhasli!\nIn zwei renovierten Zimmern wurden von der Firma hochwertige Holzsockelleisten mit schmalen Fugen angebracht – das Ergebnis überzeugt in jeder Hinsicht. Besonders hervorheben möchten wir die freundliche und kompetente Beratung durch Herrn Schmid sowie die sorgfältige Ausführung durch Herrn Velija. Auch die Flexibilität bei der Terminplanung war für uns sehr hilfreich.\nEin grosses Dankeschön – gerne wieder!",
+        "time": 1744669394,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rafael Wiedenmeier",
+        "author_photo": "/images/reviews/lignoflor-ag-niederhasli/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eine Top Parkett - Firma im Zürcher Umland. Die Ausgeführten Arbeiten waren über Jahre hinweg immer zur vollsten Zufriedenheit ausgeführt. Die Mitarbeiter sind freundlich und zuverlässig!",
+        "time": 1615411897,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Matthias Obrist",
+        "author_photo": "/images/reviews/lignoflor-ag-niederhasli/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service und sehr gute Qualität!",
+        "time": 1761373094,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Oussama Zgheb",
+        "author_photo": "/images/reviews/lignoflor-ag-niederhasli/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Schmid hat uns sehr freundlich und kompetent beraten sowie in kürzester Zeit eine übersichtliche Offerte erstellt.",
+        "time": 1718907554,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJrytG-q81kEcRXNRcXEhjmaw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Pocas Marc",
+        "author_photo": "/images/reviews/kundenmaurer-weisskopf-ormalingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hat bei uns diverse Arbeiten durchgeführt. Sehr zufrieden. Top Chef.",
+        "time": 1688414836,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Alt",
+        "author_photo": "/images/reviews/kundenmaurer-weisskopf-ormalingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekt! Unser Entscheid Firma Weisskopf nach unserem Wasserschaden zu berücksichtigen war total richtig. Schnell vor Ort, die Offertenstellung haben wir innert Kürze erhalten, die Ausführung und Kommunikation waren super. Wir wussten immer was Sache und haben eine hohe Flexibilität erlebt. Der Baustellenbereich war auch immer aufgeräumt. Wir würden Firma Weisskopf sofort wieder berücksichtigen. Besten Dank",
+        "time": 1668261628,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rolf Steininger",
+        "author_photo": "/images/reviews/kundenmaurer-weisskopf-ormalingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher und kompetenter Chef und sehr gute, freundliche und hilfsbereite Mitarbeiter.\nGerne wieder.",
+        "time": 1739291191,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mike Hostettler",
+        "author_photo": "/images/reviews/kundenmaurer-weisskopf-ormalingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit. Pünktlich, gründlich und auch ein fairer Preis. Jederzeit wieder.",
+        "time": 1706644784,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Firma Heid",
+        "author_photo": "/images/reviews/kundenmaurer-weisskopf-ormalingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich, Schnell und Professionell  -  Wir sind sehr zufrieden!",
+        "time": 1659969114,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

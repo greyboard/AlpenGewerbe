@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5y0TRvIAkEcR_yEMFn_C9Y0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Claudia Merlotti",
+        "author_photo": "/images/reviews/ennetsee-schreinerei-ag-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe bereits mehrere Projekte mit der Ennetsee Schreinerei realisiert und bin jedes Mal mehr als zufrieden. Als Innenarchitektin schätze ich die hervorragende Kundenbetreuung und die kompetente Unterstützung in der Detailplanung individueller Lösungen. Die Planungsarbeiten werden mit grossem Fachwissen, Sorgfalt und Präzision ausgeführt. Von der ersten Idee bis zur pünktlichen und sehr sauberen Umsetzung. Auch meine Kundschaft zeigt sich stets begeistert von der hohen Qualität der Arbeit.\nIch kann die Ennetsee-Schreinerei wärmstens empfehlen und freue mich auf eine weitere gute Zusammenarbeit beim nächsten Projekt.",
+        "time": 1760558639,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Philipp Imholz",
+        "author_photo": "/images/reviews/ennetsee-schreinerei-ag-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige Schreinerei – auch wenn es mal spontan sein muss, passt es immer. Top Arbeit und sehr empfehlenswert.",
+        "time": 1758793757,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Elisabeth Leipold",
+        "author_photo": "/images/reviews/ennetsee-schreinerei-ag-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Auf Grund einer Empfehlung haben wir Fliegenschutzgitter bei der Schreinerei Ennetsee in Auftrag gegeben. Der Inhaber der Schreinerei kam persönlich vorbei und hat uns sehr kompetent beraten. Man merkt, dass er viel Erfahrung mitbringt. Wir sind sehr zufrieden, endlich keine lästigen Stechmücken in der Wohnung. Danke!",
+        "time": 1755715714,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Ceco Hurni",
+        "author_photo": "/images/reviews/ennetsee-schreinerei-ag-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausführung und Montage der Fliegengitter perfekt ausgeführt.Sind sehr zufrieden und können die Firma Ennetsee-Schreinerei AG mit gutem Gewissen weiter empfehlen.",
+        "time": 1747043057,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pfanner7 _",
+        "author_photo": "/images/reviews/ennetsee-schreinerei-ag-cham/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service",
+        "time": 1757425353,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

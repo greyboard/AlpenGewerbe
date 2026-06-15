@@ -25,5 +25,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7_IAJjYxm0cR62QuTHHauUc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Remo Pedrazzini",
+        "author_photo": "/images/reviews/marxer-ag-nendeln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "G.+H. Marxer AG ist sehr empfehlenswert. Die Termine werden verlässlich eingehalten, die Arbeiten sauber durchgeführt und zudem sind alle MA freundlich und zuvorkommend.",
+        "time": 1745686303,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matthias Gstöhl",
+        "author_photo": "/images/reviews/marxer-ag-nendeln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service: schnelle Reaktionszeit und gründliche Ausführung!",
+        "time": 1742492753,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ALPEN DESIGN",
+        "author_photo": "/images/reviews/marxer-ag-nendeln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein top Unternehmen. Können wir nur weiterempfehlen!",
+        "time": 1738664560,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Raphael Marxer",
+        "author_photo": "/images/reviews/marxer-ag-nendeln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Von Offertstellung bis Übergabe der kompletten Anlage top Service!",
+        "time": 1739785295,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Conradin Barblan",
+        "author_photo": "/images/reviews/marxer-ag-nendeln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat alles bestens geklappt👍",
+        "time": 1742639729,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

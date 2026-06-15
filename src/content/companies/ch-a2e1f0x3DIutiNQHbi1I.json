@@ -26,5 +26,38 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJx9mG6JG3kUcRDXKsKFf_zT0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Raphael Gasser",
+        "author_photo": "/images/reviews/schreinerei-d-monn-muttenz/reviewer_1.jpg",
+        "rating": 3,
+        "text": "Am Telefon erfragter Preis für zwei neue Schubladen war 2x150 Sfr.=300 Sfr.. Rechnung hingegen war doppelt so teuer, 625 Sfr.. 2.75 h um zwei Schubladen zu montieren ist meiner Meinung nach zu lange.",
+        "time": 1574973271,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Shenur Rashiti",
+        "author_photo": "/images/reviews/schreinerei-d-monn-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672670416,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Oliver Schaub",
+        "author_photo": "/images/reviews/schreinerei-d-monn-muttenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1482421381,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

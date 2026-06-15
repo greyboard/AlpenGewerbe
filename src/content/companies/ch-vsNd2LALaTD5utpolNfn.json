@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJnYeNgzS4kUcRor8mqCcQfXA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Pascal Heid",
+        "author_photo": "/images/reviews/straumann-hipp-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte hiermit meine positive Erfahrung mit dem Baugeschäft Straumann Hipp teilen.\nVon Anfang an hat mich die Professionalität und Zuverlässigkeit des gesamten Teams: René Scholz (Polier), Hasan, Ramon und David beeindruckt. Die Kommunikation war stets klar und transparent, was den gesamten Umbauprozess erheblich erleichtert hat. Jede Frage wurde umgehend von René Scholz beantwortet, und auf Wünsche und Bedenken eingegangen.\nDie Qualität der Arbeit war sehr gut. Alle Arbeiten wurden termingerecht und mit hoher Präzision ausgeführt. Es war deutlich zu sehen, dass hier echte Fachleute am Werk sind, die ihr Handwerk verstehen.\nAuch das Preis-Leistungs-Verhältnis war fair. Trotz hoher Qualität der Materialien und der ausgeführten Arbeiten blieben die Kosten im vorab festgelegten Rahmen, ohne unangenehme Überraschungen.\nZusammengefasst kann ich Straumann Hipp uneingeschränkt weiterempfehlen. Wenn Sie ein zuverlässiges, professionelles und kompetentes Bauunternehmen suchen, sind Sie hier genau richtig.\nVielen Dank an das gesamte Team für die hervorragende Arbeit!\nMit freundlichen Grüßen,\nPascal Heid",
+        "time": 1721125077,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc Bürgin",
+        "author_photo": "/images/reviews/straumann-hipp-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Muster hat mich sehr gut beraten. Die Mitarbeiter waren pünktlich bei mir, haben keinen Dreck gemacht und mit der Arbeit bin ich sehr zufrieden. Kann die Firma jedem weiterempfehlen.",
+        "time": 1717432300,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ni Bo",
+        "author_photo": "/images/reviews/straumann-hipp-ag-basel/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Offerte verlangt, beim ersten Besichtigungstermin ist man nicht erschienen. Musste mich selbst um neuen Termin bemühen. Dann trotz mehrmaligen Nachhaken nie eine Offerte erhalten. Schade..",
+        "time": 1684919309,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Vanessa Wegert",
+        "author_photo": "/images/reviews/straumann-hipp-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Es war eine Freude mit Benny und Frank von Straumann-Hipp zusammen zu arbeiten.\nDie Kommunikation und Organisation war sehr gut, die Sicherheitsvorschriften wurden stets beachtet und alles verlief genau nach Plan.\nGerne empfehlen wir die Straumann-Hipp AG weiter.",
+        "time": 1723028781,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luc Frederic Schaub",
+        "author_photo": "/images/reviews/straumann-hipp-ag-basel/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Ich bin für eine Termin gekommen und wurde dann mit sehr unfreundlichen Worten weggeschickt. Herr Muster und seine Mitarbeiter sind nichts als Schuften.",
+        "time": 1719309665,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

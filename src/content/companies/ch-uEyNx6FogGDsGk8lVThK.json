@@ -1,7 +1,7 @@
 {
   "id": "ch-uEyNx6FogGDsGk8lVThK",
   "slug": "glas-baer-gmbh-oeschgen",
-  "name": "Glas Bär GmbH",
+  "name": "Glas-Bär GmbH",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,55 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJpYjc69FHkEcRtHOR1QhCpgY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Martin Frei",
+        "author_photo": "/images/reviews/glas-baer-gmbh-oeschgen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Glaser Stephan Bärenwaldt hat seine Werkstatt nicht nur im selben Gebäude wie die Schreinerei, sondern auch direkt darüber. Stephan, ein sympathischer Kerl, hat für mich ein Glas in einem kleinen Bilderrahmen in Windeseile ersetzt - dazu hat er auch alles vorrätig, wodurch ich meinen Besuch nur anmelden musste, damit er sich auch in der Werkstatt befindet und nicht auf Montage ist. Er schnitt das Glas direkt vor meinen Augen zu und referierte dabei über verschiedene Bilderglasarten - leider ist der Bilderrahmen, welchen ich mitbrachte, so alt, das er nur dasselbe dünne Glas wieder einsetzen konnte.",
+        "time": 1760089641,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Mark Bean",
+        "author_photo": "/images/reviews/glas-baer-gmbh-oeschgen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eine richtige Glaserei wo man noch 3mm Glaszuschnitt für Reparaturen bekommt",
+        "time": 1756725651,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Roman Laimbacher",
+        "author_photo": "/images/reviews/glas-baer-gmbh-oeschgen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Absolute Top Arbeit von Herr Bärenwaldt bei uns mit der Küchenrückwand und Duschtür. Sehr zu empfehlen!",
+        "time": 1606125350,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tolga Han",
+        "author_photo": "/images/reviews/glas-baer-gmbh-oeschgen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Stephan ist heute gekommen, um mein Glas für die Katzenklappe auszutauschen. Die Kommunikation mit ihm und die Terminvereinbarung sind sehr einfach. Er ist sehr höflich und ein großartiger Mensch. Ich kann ihn jedem weiterempfehlen.",
+        "time": 1775579743,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

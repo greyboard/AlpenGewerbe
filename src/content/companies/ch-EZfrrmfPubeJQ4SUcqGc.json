@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJrxmQHhMthUcR8iTVirdG_N8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Tolga Taspinar",
+        "author_photo": "/images/reviews/maler-ruggeri-gmbh-naefels/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Transparentes Angebot, super Preis-/Leistungsverhältnis und geniale Arbeit! Vielen herzlichen Dank!",
+        "time": 1538140522,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Cesare Tondo",
+        "author_photo": "/images/reviews/maler-ruggeri-gmbh-naefels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service und Qualität💪",
+        "time": 1737720024,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mirjana Kasalo",
+        "author_photo": "/images/reviews/maler-ruggeri-gmbh-naefels/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1641923244,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Premtim Berisha",
+        "author_photo": "/images/reviews/maler-ruggeri-gmbh-naefels/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776025986,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Imre Gazdag (Imre)",
+        "author_photo": "/images/reviews/maler-ruggeri-gmbh-naefels/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1737809676,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

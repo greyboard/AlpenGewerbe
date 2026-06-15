@@ -26,5 +26,55 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJCY3rZcrQfWgRZc4qj7UkvEg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–18:00 Uhr",
+    "Dienstag: 09:00–18:00 Uhr",
+    "Mittwoch: 09:00–18:00 Uhr",
+    "Donnerstag: 09:00–18:00 Uhr",
+    "Freitag: 09:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Roby Arena",
+        "author_photo": "/images/reviews/edil-pronto-intervento-di-marchis-genestrerio/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Pietro, ein freundlicher und professioneller Mann, hat die Betonarbeiten ausgeführt, die Veranda meines Hauses in Arzo gepflastert und sie gesichert. Sollte ich weitere Arbeiten benötigen, komme ich auf jeden Fall wieder, und ich kann ihn wärmstens empfehlen. Vielen Dank, Pietro!",
+        "time": 1770060410,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Alessia Sartori",
+        "author_photo": "/images/reviews/edil-pronto-intervento-di-marchis-genestrerio/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe sie für eine Badsanierung beauftragt und war mit dem Ergebnis sehr zufrieden. Die Arbeiten wurden sorgfältig ausgeführt und sie waren stets erreichbar, um meine Wünsche zu erfüllen. Vielen Dank noch einmal.",
+        "time": 1761948664,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "nicoletta ceppi-bitti",
+        "author_photo": "/images/reviews/edil-pronto-intervento-di-marchis-genestrerio/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe sie wegen einer Kellerentrümpelung kontaktiert.\nSie waren hervorragend, sehr schnell und freundlich – wirklich tolle Arbeiter. Jetzt weiß ich, an wen ich mich wenden kann, falls ich sie nochmal brauche.\nVielen Dank!",
+        "time": 1762770189,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Carlotta Boselli",
+        "author_photo": "/images/reviews/edil-pronto-intervento-di-marchis-genestrerio/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777654141,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

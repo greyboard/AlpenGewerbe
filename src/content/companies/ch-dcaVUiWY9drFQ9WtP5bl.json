@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJmfsYJ1E0jkcR3_0ovkpHZ6U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Brigitte Scaglia",
+        "author_photo": "/images/reviews/stucki-schreinerei-gmbh-enggistein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr Kompetent, sauber gearbeitet, kann ich jedem Mann/Frau weiterempfehlen!",
+        "time": 1569519429,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Danielle Rist",
+        "author_photo": "/images/reviews/stucki-schreinerei-gmbh-enggistein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben alle Fenster (insgesamt 19 Fenster) unseres Hauses von der Stucki Schreinerei ersetzen lassen. Sowohl die Qualität der Holz/Alu-Fenster als auch die Ausführung der Arbeit ist höchst zufriedenstellend, wir können das Unternehmen sehr empfehlen!",
+        "time": 1774349592,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "André Remund",
+        "author_photo": "/images/reviews/stucki-schreinerei-gmbh-enggistein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mehrmals bei uns im Einsatz: Immer gute Arbeit! Eine absolute Empfehlung!",
+        "time": 1773847291,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

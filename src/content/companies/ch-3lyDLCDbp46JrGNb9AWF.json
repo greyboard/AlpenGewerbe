@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ856yuQZtkEcR99UmKxfvVaU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Andre Merz",
+        "author_photo": "/images/reviews/glas-frei-wintergarten-katzentueren-storen-ehrendingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super beraten und schnell erledigt. Vielen Dank für die Glasreparatur.",
+        "time": 1603375433,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daliborka Strbac",
+        "author_photo": "/images/reviews/glas-frei-wintergarten-katzentueren-storen-ehrendingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Arbeit (Service) 👍👌 Bis zum nächsten Mal!",
+        "time": 1562226788,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Rolf Wolfgang",
+        "author_photo": "/images/reviews/glas-frei-wintergarten-katzentueren-storen-ehrendingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Firma, nette Leute",
+        "time": 1650340363,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Kurt",
+        "author_photo": "/images/reviews/glas-frei-wintergarten-katzentueren-storen-ehrendingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gewissenhaft, Seriöse Arbeit 👍",
+        "time": 1550781853,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Pia Peter",
+        "author_photo": "/images/reviews/glas-frei-wintergarten-katzentueren-storen-ehrendingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1727522447,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

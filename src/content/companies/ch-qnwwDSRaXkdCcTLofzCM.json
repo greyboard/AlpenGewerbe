@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJrXBPpNiUmkcRlYZVKv9ciXk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Jasmin Gubler",
+        "author_photo": "/images/reviews/muenger-ralph-ag-balterswil-tg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe Herr Münger und sein Team für meinen Coiffeurladen beauftragt und bin äußerst zufrieden. Sie haben alle meine Wünsche perfekt umgesetzt.\n\nIch würde es sofort weiterempfehlen. Es handelt sich um ein herzliches Unternehmen, das sich viel Mühe mit ihrem Handwerk und den Kunden gibt. Vielen Dank.",
+        "time": 1713171512,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stephan Schiess",
+        "author_photo": "/images/reviews/muenger-ralph-ag-balterswil-tg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte einen Wasser-Notfall. Die Firma Münger AG hat sofort reagiert und schon am Tag darauf mit neuer Pumpe das Problem gelöst. Der Monteur Herr Appert, ist fachtechnisch sehr gut, kompetent und zudem noch hilfsbereit und freundlich. Auch eine kleine Nachfrage, die nicht einmal die Firma Münger betraf, wurde sofort von Herr Ralph Münger unbürokratisch erledigt.  Recht herzlichen Dank.",
+        "time": 1634217511,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Margrit Kärcher",
+        "author_photo": "/images/reviews/muenger-ralph-ag-balterswil-tg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Wasserschaden\nInnerhalb von 10 Minuten stand Ramon Erni da\nEr hat professionell und schnell gearbeitet, trotz der unschönen Arbeit immer freundlich geblieben\nHut ab, für diesen tollen Service\nNicht selbstverständlich\nDass jemand so schnell kommt\nWir sind sehr dankbar für diesen ganz tollen Service\nMacht weiter so\nHerzlichen Dank",
+        "time": 1729320132,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Beat Stalder",
+        "author_photo": "/images/reviews/muenger-ralph-ag-balterswil-tg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung!",
+        "time": 1610387242,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Carmen Zellweger",
+        "author_photo": "/images/reviews/muenger-ralph-ag-balterswil-tg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sanitäre Anlagen",
+        "time": 1672044354,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

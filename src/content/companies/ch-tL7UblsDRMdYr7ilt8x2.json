@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJmY-ssLi3kUcRFYCL7hL7v6g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:00 Uhr",
+    "Dienstag: 07:00–16:00 Uhr",
+    "Mittwoch: 07:00–16:00 Uhr",
+    "Donnerstag: 07:00–16:00 Uhr",
+    "Freitag: 07:00–14:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Anton Le Leuch",
+        "author_photo": "/images/reviews/rudolf-senn-ag-muttenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐ Hervorragende Professionalität und Präzision der Firma Rudolf Senn AG\nIch möchte mich auf diesem Wege ausdrücklich bei der Rudolf Senn AG aus Muttenz für die herausragende Arbeit an den neu aufgebauten Balkonen in der Überbauung der MBG an der Mülhauserstrasse 4056 Basel bedanken.\n\nEin besonderer Dank gilt dem Vorarbeiter, Herrn Bachran, und seiner rechten Hand, Herrn Lang. Die Montage der aufwändigen Stahlkonstruktionen über einen Zeitraum von acht Monaten hinweg war zweifellos eine große Herausforderung.\n\nHerr Bachran ist von Anfang an auf der Baustelle durch seine umsichtige Arbeitsweise und seine hohe Professionalität aufgefallen.\n\nSeine Führung war stets vorbildlich, sowohl in Bezug auf die technische Durchführung als auch im Umgang mit seinen Mitarbeitern. Das gesamte Team hat unter seiner umsichtigen Leitung eine präzise und konstante Arbeitsweise gezeigt.\nIch kenne nicht alle Namen der weiteren beteiligten Mitarbeiter, möchte aber betonen, dass ich über deren Einsatz und Qualität nur das Gleiche sagen kann wie über Herrn Bachran und Herrn Lang. Sie alle haben gezeigt, dass die Firma Rudolf Senn AG stolz auf solch engagierte und fähige Mitarbeiter sein kann.\n\nVielen Dank für diese hervorragende Leistung und weiterhin viel Erfolg!",
+        "time": 1767953000,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "MBG MBGV",
+        "author_photo": "/images/reviews/rudolf-senn-ag-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an die Rudolf Senn Metallbau AG für die hervorragende Arbeit an unserem Sanierungsprojekt in Basel. Die Zusammenarbeit war äusserst professionell, termingerecht und die Qualität der neuen Balkonanlagen ist sehr gut. Wir freuen uns über das gelungene Resultat.",
+        "time": 1776951171,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Strahm Glastech",
+        "author_photo": "/images/reviews/rudolf-senn-ag-muttenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Firma mit spannenden Projekten!",
+        "time": 1733493500,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Abt",
+        "author_photo": "/images/reviews/rudolf-senn-ag-muttenz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Diesen Betrieb kann ich nur empfehlen",
+        "time": 1644828972,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Meo Suter",
+        "author_photo": "/images/reviews/rudolf-senn-ag-muttenz/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Super gefällt mir",
+        "time": 1561441629,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

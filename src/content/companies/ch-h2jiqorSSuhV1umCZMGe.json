@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-a3mkkHcjkcRNu4_ITB1hUY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Rascov Nicu",
+        "author_photo": "/images/reviews/grichting-valterio-electro-sa-sion/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eines der besten Unternehmen für Elektrotechnik und Elektroinstallationen, 24/7-Notdienst in der ganzen Schweiz. Team Grichting Valterio Sion – das beste Unternehmen in der Schweiz.",
+        "time": 1658747228,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nubiri Alcana Tintorea",
+        "author_photo": "/images/reviews/grichting-valterio-electro-sa-sion/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Sie geben an, 24 Stunden geöffnet zu haben, aber ich bin während der Arbeitszeit hier und niemand hilft Ihnen.",
+        "time": 1738939377,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "yannick bisson",
+        "author_photo": "/images/reviews/grichting-valterio-electro-sa-sion/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unternehmen bietet alle Dienstleistungen rund um Strom, gute Leistung",
+        "time": 1600688371,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Cetrangolo Raffaele",
+        "author_photo": "/images/reviews/grichting-valterio-electro-sa-sion/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1583611804,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Rashedul Islam Munna",
+        "author_photo": "/images/reviews/grichting-valterio-electro-sa-sion/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Elektriker..",
+        "time": 1679003816,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

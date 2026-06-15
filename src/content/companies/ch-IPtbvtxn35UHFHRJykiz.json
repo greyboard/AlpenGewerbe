@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT5BYklpOhUcRLAGhwv0sVbQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Patrick Schön",
+        "author_photo": "/images/reviews/prachoinig-parkett-teppiche-bodenbelaege-ag-schwyz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Prachoinig hat während wir in den Ferien waren unser Parkett intensiv gereinigt und geölt, da es von unseren Vormietern in einem schlechten Zustand hinterlassen wurde (ausgetrocknet und mit vielen Wasserflecken usw). Im Anschluss sah das Parkett wunderbar wie neu aus. Zudem waren auch sämtliche organisatorischen Absprachen mit der Firma unkompliziert und schnell erledigt.",
+        "time": 1747851803,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "RSB-Haustechnik Heizung & Sanitär GmbH",
+        "author_photo": "/images/reviews/prachoinig-parkett-teppiche-bodenbelaege-ag-schwyz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Lieber Philipp. Besten Dank für eure Arbeiten. Wir sind sehr zufrieden mit der erbrachten Leistung und der fachgerechten, sauberen und speditiven Ausführung.",
+        "time": 1723045336,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Kessler",
+        "author_photo": "/images/reviews/prachoinig-parkett-teppiche-bodenbelaege-ag-schwyz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Beratung. Sauberer Austellungsraum mit guter Auswahl an Parkett.",
+        "time": 1711052818,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Albisser Richard",
+        "author_photo": "/images/reviews/prachoinig-parkett-teppiche-bodenbelaege-ag-schwyz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Parkettboden gereinigt und frisch geölt, sieht nach 10 Jahren wieder aus wie neu, top Arbeit",
+        "time": 1715365351,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dino Schär",
+        "author_photo": "/images/reviews/prachoinig-parkett-teppiche-bodenbelaege-ag-schwyz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1612694611,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

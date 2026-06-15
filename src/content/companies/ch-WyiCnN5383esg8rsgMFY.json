@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJRfTVgIXrmkcROQT-V27MxxY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Z H",
+        "author_photo": "/images/reviews/dkd-metallbau-waengi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Termingerechte Lieferung, saubere Arbeit und Preisleistungsverhältnis Top.",
+        "time": 1574619142,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Etienne Huber",
+        "author_photo": "/images/reviews/dkd-metallbau-waengi/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Firma",
+        "time": 1772187227,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sandro Floris",
+        "author_photo": "/images/reviews/dkd-metallbau-waengi/reviewer_3.jpg",
+        "rating": 5,
+        "text": "👍",
+        "time": 1726053935,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "WG Sirnacherstr 30",
+        "author_photo": "/images/reviews/dkd-metallbau-waengi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1593028636,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ninib Bulut",
+        "author_photo": "/images/reviews/dkd-metallbau-waengi/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1574273032,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

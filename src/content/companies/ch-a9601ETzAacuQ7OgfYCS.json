@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJAxL_lgyqmkcRXooGHizywUU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Bruno Torghele",
+        "author_photo": "/images/reviews/hengartner-jans-ag-steinhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Hengartner & Jans AG führt bei uns seit einigen Jahren diverse Arbeiten aus. Mit der ausgeführten Dienstleistungen sind wir sehr zufrieden. Hr. Gwerder berät uns immer sehr professionell, die Mitarbeiter sind sehr freundlich und das Ergebnis lässt sich sehen.\n\nAuf eine weitere schöne Zusammenarbeit und vielen Dank.",
+        "time": 1742814301,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Feer",
+        "author_photo": "/images/reviews/hengartner-jans-ag-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bereits das zweite Mal konnten wir mit Hengartner + Jans AG einen Garten gestalten. Diesmal auf der Terrasse einer Attika-Wohnung. Auch 2023 haben die Gartenbauer viele Ideen und eine geniale Kombination von Pflanzen und Material verbaut. Wir haben beim neuen Projekt wiederum fachliche Kompetenz, hohe Kundenorientierung sowie grosse Leistungsbereitschaft und Leidenschaft für den Beruf erlebt. Danke für die wunderschöne Gestaltung unserer Dach-Terrasse. Gerne empfehlen wir das Unternehmen weiter.",
+        "time": 1691677113,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Augustin Gisler",
+        "author_photo": "/images/reviews/hengartner-jans-ag-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Danke für die arbeit. 👍👍",
+        "time": 1704015205,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christopher Hackl",
+        "author_photo": "/images/reviews/hengartner-jans-ag-steinhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Guter Ort, um frische Weihnachtsbäume zu bekommen",
+        "time": 1512977182,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "RedBaron848",
+        "author_photo": "/images/reviews/hengartner-jans-ag-steinhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit geleistet.",
+        "time": 1598974658,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

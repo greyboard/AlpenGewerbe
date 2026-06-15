@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJR4mSK3ZKhEcRRZyU5YHMvaM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Davide Speziga",
+        "author_photo": "/images/reviews/pirmin-murer-falegnameria-sa-camorino/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Äußerst professionell, detailorientiert und kundenorientiert. Herzlichen Glückwunsch.",
+        "time": 1482813377,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Gila Freitas",
+        "author_photo": "/images/reviews/pirmin-murer-falegnameria-sa-camorino/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellent",
+        "time": 1648036302,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "F F",
+        "author_photo": "/images/reviews/pirmin-murer-falegnameria-sa-camorino/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643634656,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bruno Martinelli",
+        "author_photo": "/images/reviews/pirmin-murer-falegnameria-sa-camorino/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1632950738,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

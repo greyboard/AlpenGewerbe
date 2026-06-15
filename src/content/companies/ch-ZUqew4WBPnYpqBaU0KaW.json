@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_SL4s7XJjkcRmPbLb1M6zN8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Gionatan FAZIO",
+        "author_photo": "/images/reviews/glas-pro-tect-martigny/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte meine sehr positive Erfahrung mit Glas Pro'tect teilen. Ich war beeindruckt von ihrer außergewöhnlichen Professionalität und Freundlichkeit.\n\nIhre professionelle Vorgehensweise ist bemerkenswert. Die Arbeiten wurden sorgfältig geplant und exakt wie vereinbart ausgeführt. Ich habe ihr Engagement für die Einhaltung von Fristen und hohen Qualitätsstandards sehr geschätzt. Sie konnten meine Erwartungen präzise und effizient erfüllen.\n\nDarüber hinaus war das Team von Glas Pro'tect während des gesamten Prozesses sehr freundlich. Ihre offene und zugängliche Art sowie ihre Bereitschaft, meine Fragen zu beantworten und auf meine Anliegen einzugehen, trugen zu einer angenehmen und stressfreien Erfahrung bei.\n\nIch kann die Dienstleistungen von Glas Pro'tect uneingeschränkt empfehlen. Ihre Professionalität, Freundlichkeit und die Fähigkeit, geplante Arbeiten erfolgreich abzuschließen, machen sie zur idealen Wahl. Wenn Sie auf der Suche nach einem qualitativ hochwertigen Service für Ihre Glassicherheit sind, zögern Sie nicht, Kontakt aufzunehmen.",
+        "time": 1685701040,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Benoît Délèze",
+        "author_photo": "/images/reviews/glas-pro-tect-martigny/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin nicht nur mit der Freundlichkeit, sondern auch mit der Arbeit von Ludovic Bollin sehr zufrieden. Die Installation der Sonnenschutzfolie an den Fenstern meiner Wohnung wurde sorgfältig und professionell durchgeführt. Das Ergebnis war sauber und effizient. Ich empfehle ihn!",
+        "time": 1750238704,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Carruzzo „cris“ christophe",
+        "author_photo": "/images/reviews/glas-pro-tect-martigny/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Seit Jahren die Besten! Ich bin Kunde und für mich sind sie der Maßstab in der Region, immer erstklassige Arbeit.",
+        "time": 1744820270,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rami Raafat",
+        "author_photo": "/images/reviews/glas-pro-tect-martigny/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professionell und zuverlässig!",
+        "time": 1772016564,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sebastien Kiehl",
+        "author_photo": "/images/reviews/glas-pro-tect-martigny/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Seit mehreren Jahren leistet das Unternehmen hervorragende Arbeit, da ich Kunde bin.",
+        "time": 1593516785,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

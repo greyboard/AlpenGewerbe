@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP_siFbP3j0cRPJc3w9GhLyk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 33,
+    "reviews": [
+      {
+        "author_name": "Rainer Thomann",
+        "author_photo": "/images/reviews/kayser-holzbau-ag-oberdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Leute und klappt immer gut mit dem laden",
+        "time": 1555251722,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Gerhard Baumgartner",
+        "author_photo": "/images/reviews/kayser-holzbau-ag-oberdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Holzbau vom Feinsten und Paletten für alle Möglichkeiten.",
+        "time": 1574609247,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ruth von Arx",
+        "author_photo": "/images/reviews/kayser-holzbau-ag-oberdorf/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Katastrophe!!",
+        "time": 1771617851,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Luca Barmettler",
+        "author_photo": "/images/reviews/kayser-holzbau-ag-oberdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Firma",
+        "time": 1491468169,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Юрий Стецюк",
+        "author_photo": "/images/reviews/kayser-holzbau-ag-oberdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Organisation, das Entladen verlief reibungslos. Beide Seiten des Anhängers wurden geöffnet. Alle waren sehr höflich und freundlich. Dusche und Toilette sind ebenfalls sehr gut.",
+        "time": 1727101206,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

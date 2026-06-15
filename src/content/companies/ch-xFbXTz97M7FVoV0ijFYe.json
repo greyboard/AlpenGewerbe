@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJHwMvuRkZkEcRXSYT2nRBSW8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–11:45 Uhr, 14:00–17:15 Uhr",
+    "Dienstag: 08:30–11:45 Uhr, 14:00–17:15 Uhr",
+    "Mittwoch: 08:30–11:45 Uhr, 14:00–17:15 Uhr",
+    "Donnerstag: 08:30–11:45 Uhr, 14:00–17:15 Uhr",
+    "Freitag: 08:30–11:45 Uhr, 14:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 44,
+    "reviews": [
+      {
+        "author_name": "Daniel Wild",
+        "author_photo": "/images/reviews/kaspar-elektro-ag-reinach/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Zum vereinbarten Zeitpunkt ist niemand erschienen. Auf meine telefonische Nachfrage wurde nur lapidar gesagt es sei etwas dazwischengekommen und man müsse für nächste Woche einen neuen Termin vereinbaren. Das mal was dringendes dazwischen kommt, kanns ja geben, aber das man es nicht für nötig hält dies mitzuteilen und den Kunden einfach warten lässt und sich schlussendlich nicht einmal dafür entschuldigt, dies ist sehr enttäuschend.\n\nUpdate:\nAufgrund meiner Google-Bewertung hat man sich nun im Nachhinein bei mir für den Fehler entschuldigt. Daher eine Anpassung der Sterne",
+        "time": 1778663026,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Ch Hu",
+        "author_photo": "/images/reviews/kaspar-elektro-ag-reinach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nach dem Auslöser einer Hauptsicherung wurde zeitnah ein sehr kompetenter und überaus freundlicher Elektriker geschickt welcher alles überprüfte, mich kompetent beraten hat und wertvolle Tipps gegeben hat. Das nenne ich Kundenfreundlichkeit. Vielen Dank und weiterhin viel Erfolg und Herzblut bei der Ausübung der Tätigkeit.",
+        "time": 1772569644,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Armella Heller",
+        "author_photo": "/images/reviews/kaspar-elektro-ag-reinach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bester Elektriker ever!\nHerzlichen Dank ans ganze Team für die tolle Arbeit.\nSauber gearbeitet  - freundliche Mitarbeiter und bei auftretenden Problemen jederzeit zur Stelle.\nJederzeit gerne wieder  - einmal Elektro Kaspar - und es passt!\n\nArmella Heller und\nErwin Brunner",
+        "time": 1749209248,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "A2tech",
+        "author_photo": "/images/reviews/kaspar-elektro-ag-reinach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Firma! Nur zu empfehlen!!",
+        "time": 1777145624,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Jakob Eichholzer",
+        "author_photo": "/images/reviews/kaspar-elektro-ag-reinach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung und sehr freundlich",
+        "time": 1767786170,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

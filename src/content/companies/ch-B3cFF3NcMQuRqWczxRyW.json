@@ -26,5 +26,47 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJpyEApoVvj0cRyTnpkwvMGrs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Silvia Fux",
+        "author_photo": "/images/reviews/schwery-service-gmbh-moerel-filet/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlicher und effizienter Service! Die Lieferung und Installation meiner neuen Waschmaschine verliefen schnell und reibungslos. Die Qualität ist top. Bei einem kleinen Problem zeigte die Firma eine schnelle Reaktionszeit und löste es prompt. Uneingeschränkt zu empfehlen!",
+        "time": 1700721019,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Maria Schwery",
+        "author_photo": "/images/reviews/schwery-service-gmbh-moerel-filet/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schnelle Arbeit. 24h Service und auch am Wochenende erreichbar! Danke.",
+        "time": 1588679226,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Damian Seiler",
+        "author_photo": "/images/reviews/schwery-service-gmbh-moerel-filet/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Toller und zuverlässiger Service in Top Qualität. Sehr empfehlenswert.",
+        "time": 1675968686,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

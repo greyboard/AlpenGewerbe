@@ -1,7 +1,7 @@
 {
   "id": "ch-obhkpYYSnBT4dF6AVNUI",
   "slug": "peter-pichler-ag-stans",
-  "name": "Peter Pichler AG",
+  "name": "Pichler Peter AG",
   "branchen": [
     "dachdecker"
   ],
@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJA1p8FA33j0cRGQkm_qZjcOw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Mateusz Dunajski",
+        "author_photo": "/images/reviews/peter-pichler-ag-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolles Team",
+        "time": 1614601284,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gabriel Lopes Luiz",
+        "author_photo": "/images/reviews/peter-pichler-ag-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1773161885,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sayat Kaynak",
+        "author_photo": "/images/reviews/peter-pichler-ag-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1763810550,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Mateusz Dunajski",
+        "author_photo": "/images/reviews/peter-pichler-ag-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729490116,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dietmar Hoeppner",
+        "author_photo": "/images/reviews/peter-pichler-ag-stans/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1700731730,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

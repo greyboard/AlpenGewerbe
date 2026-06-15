@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJNStbc1Y8kEcRVGcdkkVV_9M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Geht Nicht",
+        "author_photo": "/images/reviews/elektro-lattmann-ag-graenichen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetent und klar, freue mich auf den Umbau!",
+        "time": 1617038331,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Pierre Oster (ROWILUX GMBH)",
+        "author_photo": "/images/reviews/elektro-lattmann-ag-graenichen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und schnell, gern wieder",
+        "time": 1648906885,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Margrit Rüegsegger",
+        "author_photo": "/images/reviews/elektro-lattmann-ag-graenichen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1687882672,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Birol Basdabak",
+        "author_photo": "/images/reviews/elektro-lattmann-ag-graenichen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637439491,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sven Schmid",
+        "author_photo": "/images/reviews/elektro-lattmann-ag-graenichen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1628003743,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

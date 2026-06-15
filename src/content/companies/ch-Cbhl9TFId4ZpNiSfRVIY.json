@@ -26,5 +26,63 @@
     "Fundamentbau",
     "Renovation"
   ],
-  "description": "So hinterlässt Ihr Webauftritt optisch einen hervorragenden und modernen Eindruck, öffnet jedoch im Hintergrund eine akute rechtliche und technische Flanke: Beim Cookie-Consent sind die Checkboxen für alle Einwilligungen bereits vorab ausgewählt – das ist nach dem aktuellen Schweizer Datenschutzgese"
+  "description": "So hinterlässt Ihr Webauftritt optisch einen hervorragenden und modernen Eindruck, öffnet jedoch im Hintergrund eine akute rechtliche und technische Flanke: Beim Cookie-Consent sind die Checkboxen für alle Einwilligungen bereits vorab ausgewählt – das ist nach dem aktuellen Schweizer Datenschutzgese",
+  "googlePlaceId": "ChIJ2UyaoiU7m0cRY263h1FtOHw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Fritz Meier",
+        "author_photo": "/images/reviews/marty-bauleistungen-ag-azmoos/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Marty hat bei uns im Furttal die Wasserleitung für das bewässern der landwirtschaftlichen Flächen gebaut. Sehr freundliche und fachlich gute Mitarbeiter. Immer wenn nötig können wir jederzeit mit Wasser aus der Limmat bewässern. Gute Arbeit",
+        "time": 1759581986,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Alexander Müller",
+        "author_photo": "/images/reviews/marty-bauleistungen-ag-azmoos/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Unseriös. Nachdem die Chefs von Marty Bauleistungen mit meiner Bewertung unzufrieden waren, die Gründe habe ich den Chefs genannt, haben führende Mitarbeiter von Marty meine Firma negativ bewertet obwohl ich privat Kunde war. Nicht empfehlenswert. Der Umgang mit Kunden ist unterirdisch.",
+        "time": 1743149019,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Koller",
+        "author_photo": "/images/reviews/marty-bauleistungen-ag-azmoos/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir durften mit unserer Gruppe die Baustelle in Lausen (BL) besuchen. Die Anfrage wurde spontan und wohlwollend zugestimmt. Projektleiter Erik Weirather hat uns sehr kompetent das gesteuerte Spühlbohrverfahren erklärt und anhand von Bauteilen visualisiert.\nZum Abschluss wurde uns ein Apero angeboten und ein Präsent überreicht.\nFür diesen gelungenen Anlass möchten wir uns herzlich bedanken.",
+        "time": 1725612845,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Foser",
+        "author_photo": "/images/reviews/marty-bauleistungen-ag-azmoos/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer perfekt und zuverlässig!\nNur zu empfehlen!",
+        "time": 1760526001,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "S G",
+        "author_photo": "/images/reviews/marty-bauleistungen-ag-azmoos/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig und speditiv. Elmar",
+        "time": 1754057547,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

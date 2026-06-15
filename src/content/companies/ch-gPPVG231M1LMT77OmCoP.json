@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJhfgfaJ77j0cRjcUj3LSRt9w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Reto Kollbrunner",
+        "author_photo": "/images/reviews/baumart-ag-luzern-baumpflege-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "baumart hat bei uns eine Ersatzpflanzung eines abgestorbenen Baumes vorgenommen. Die Arbeiten wurden hoch professionell, sauber und pünktlich durchgeführt. Vielen Dank an das sympathische Team, wir sind mit der Leistung höchst zufrieden.",
+        "time": 1650616497,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Rebecca G.",
+        "author_photo": "/images/reviews/baumart-ag-luzern-baumpflege-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "An unserem japanischen Zwergahorn befanden sich abgestorbene Äste und wir hatten Angst, dass es der gefährliche Pilz sein könnte. Ein kurzer Anruf bei der Firma Baumart genügte und schon einen Tag später kam pünktlich wie vereinbart ein Experte vorbei. Glücklicherweise ist es nicht der Pilz. Er hat uns aber professionell beraten, woran das liegen könnte und hat Massnahmen vorgeschlagen. Sollten wir in Zukunft einen weiteren Baum pflanzen, werden wir uns gerne wieder an die Firma Baumart wenden. Diese hat einen guten und professionellen Eindruck gemacht.",
+        "time": 1624353611,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Barbara Wicki",
+        "author_photo": "/images/reviews/baumart-ag-luzern-baumpflege-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "nachdem ich im letzten Jahr eine etwas unglückliche Betreuung meines Baumes hatte, schätzte ich ihre Dienstleistung und vor allem auch Beratung umso mehr. Herzlichen Dank!",
+        "time": 1646234130,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Elizabeth Guaricci",
+        "author_photo": "/images/reviews/baumart-ag-luzern-baumpflege-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1683026042,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andrea Michelon",
+        "author_photo": "/images/reviews/baumart-ag-luzern-baumpflege-luzern/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1652364002,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

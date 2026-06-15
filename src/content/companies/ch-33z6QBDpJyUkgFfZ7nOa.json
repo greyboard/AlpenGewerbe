@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJud7v43Ahm0cRjWEksTjhBkg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 84,
+    "reviews": [
+      {
+        "author_name": "Christian Kalberer",
+        "author_photo": "/images/reviews/th-inauen-ag-waldkirch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Heizung durch eine Wärmepumpe von Inauen Heizung ersetzen lassen und sind sehr zufrieden.\n\nAlles lief unkompliziert und professionell – von der Beratung bis zur Umsetzung. Das Team war freundlich, pünktlich und hat sauber gearbeitet.\n\nDie Anlage läuft einwandfrei. Klare Weiterempfehlung!\n\nVielen Dank 👍",
+        "time": 1776178594,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "eti ch",
+        "author_photo": "/images/reviews/th-inauen-ag-waldkirch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr glücklich, dass wir uns für die Firma Inauen entschieden haben. Unsere neue Erdsondenheizung wurde von Sandro installiert und von Stefan programmiert – beide waren äusserst kompetent, freundlich und engagiert. Von Anfang an lief alles total unkompliziert, alle unsere Fragen wurden immer geduldig beantwortet, vieles auch ganz spontan telefonisch.\nBesonders geschätzt haben wir, dass die komplette Organisation übernommen wurde – wir mussten uns um fast nichts kümmern. Die Arbeiten wurden zügig, sauber und sehr zuverlässig ausgeführt. Das Preis-Leistungs-Verhältnis stimmt absolut.\nMan spürt einfach, dass hier ehrliche, herzliche Menschen mit Freude an ihrer Arbeit tätig sind. Wir haben uns jederzeit gut aufgehoben gefühlt und können die Firma Inauen aus voller Überzeugung weiterempfehlen.",
+        "time": 1770750269,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Herbert",
+        "author_photo": "/images/reviews/th-inauen-ag-waldkirch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "- Sehr gute, geduldige und kompetente Beratung, bis zum Entscheid, welches Heizsystem verbaut werden soll\n- Sehr gute und genaue Planung des ganzen Bauablaufs mit allen Eingaben vom Baugesuch bis zu allen Formularen für die Energieförderung\n- Der Bauplan war sehr präzise und wurde von allen beteiligten Firmen (immerhin 8!) perfekt eingehalten\n- kompetente Ausführung aller Arbeiten inkl. guter Koordination aller Arbeiten\n- sauberes Erscheinungsbild der neuen Heizung",
+        "time": 1752161860,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Fredi Baerlocher",
+        "author_photo": "/images/reviews/th-inauen-ag-waldkirch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kürzlich haben wir eine neue Erdsondenheizung installiert. Die Planung und der Ablauf waren super und sehr professionell. Können die Firma Inauen AG jederzeit empfehlen",
+        "time": 1699525902,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Reto Näf",
+        "author_photo": "/images/reviews/th-inauen-ag-waldkirch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "rundum zufrieden, unvorhersehbare Probleme während dem Projekt wurden unkompliziert beseitigt, der Auftrag wurde entsprechend der Vereinbarung abgerechnet, alles funktioniert einwandfrei, ich wiederhole mich gern: rundum zufrieden",
+        "time": 1776921853,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

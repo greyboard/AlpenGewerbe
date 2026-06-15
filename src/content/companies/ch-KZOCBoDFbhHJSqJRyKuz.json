@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJUe66kCPehEcR86bBCmfbdqY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 13:30–18:00 Uhr",
+    "Dienstag: 09:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 09:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 09:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Heiko Maier",
+        "author_photo": "/images/reviews/elektro-cadruvi-ag-ilanz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Es gibt Sie noch, termintreue und zuverlässige Handwerker zumindest in der Schweiz.\n\nAus der Ferne einen Geräteaustausch vereinbart und die Techniker kamen auf die Minute und haben sehr sauber und zuverlässig gearbeitet. Alles lief problemlos ab...\n\nDanke für diesen tollen Service - macht bitte weiter so.",
+        "time": 1718295732,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rolf S.",
+        "author_photo": "/images/reviews/elektro-cadruvi-ag-ilanz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In unserer Ferienwohnung haben wir die Elektroinstallation auf den neusten Stand gebracht: Upgrade HVK, Steuerung über TeleButler und Ersatz der Zimmerheizungen.\n\nBeratung und Offerte top, unsere Fragen wurden umgehend beantwortet und Sonderwünsche kompetent und professionell ausgeführt. Die Endabrechnung ist übersichtlich und im Preis fair.\n\nNACHTRAG: In unserer Tiefgarage auf zwei Ebenen hat Elektro Cadurvi inzwischen 33 Parklätze für Ladestationen vorbereitet, 4 Wallboxen montiert, inkl. Lastmanagment, WLAN, 4G .... Arbeiten rasch und perfekt ausgeführt. Die Jungs verstehen wirklich was vom Fach!!\n\nWir können das kompetente Team nur empfehlen.",
+        "time": 1723746742,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "FluidicCrayon 71",
+        "author_photo": "/images/reviews/elektro-cadruvi-ag-ilanz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Absolute Fachleute. Ungeschlagene Kompetenz in der Region.",
+        "time": 1721479836,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Deny A",
+        "author_photo": "/images/reviews/elektro-cadruvi-ag-ilanz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "top Firma und top Arbeiter sehr zuverlässig",
+        "time": 1494997543,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Nicole Simonet",
+        "author_photo": "/images/reviews/elektro-cadruvi-ag-ilanz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Cooler junger Inhaber mit viel Fachwissen",
+        "time": 1688209589,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

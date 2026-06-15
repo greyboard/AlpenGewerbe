@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJX_Y-edw5jkcRDWd-h6QjrmI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "HolyBeear",
+        "author_photo": "/images/reviews/maechler-haustechnik-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freuntlich und zuverläsig.",
+        "time": 1586505647,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Christine Gerber",
+        "author_photo": "/images/reviews/maechler-haustechnik-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1719997517,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "tschilom tschilom",
+        "author_photo": "/images/reviews/maechler-haustechnik-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672531919,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Martin Stampfli",
+        "author_photo": "/images/reviews/maechler-haustechnik-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1654548119,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lars Lindgren",
+        "author_photo": "/images/reviews/maechler-haustechnik-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1563309851,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

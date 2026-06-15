@@ -26,5 +26,31 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJjYrBBsTyj0cRa1IBz5QbpOM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Markus Hoenig",
+        "author_photo": "/images/reviews/durrer-vogt-gartenbau-gmbh-sachseln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr sauber und Ordentlich gearbeitet!  Kann ich wärmstens Empfehlen",
+        "time": 1654519812,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

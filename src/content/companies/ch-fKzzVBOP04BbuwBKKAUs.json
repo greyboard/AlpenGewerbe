@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjaaA-LBCg0cRnhTpnUlu3bA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Gian Fadri Meng",
+        "author_photo": "/images/reviews/buehler-roman-gmbh-zernez/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit geleistet!",
+        "time": 1660379491,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stefan B",
+        "author_photo": "/images/reviews/buehler-roman-gmbh-zernez/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1704823800,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Zernez Tourismus",
+        "author_photo": "/images/reviews/buehler-roman-gmbh-zernez/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1703161065,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

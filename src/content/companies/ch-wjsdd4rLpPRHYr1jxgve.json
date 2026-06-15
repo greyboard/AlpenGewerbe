@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJnV_w6gf3j0cRgfB6whwpmFE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Ivo Barmettler",
+        "author_photo": "/images/reviews/leuthold-metallbau-ag-bueren/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Metallbau vom Feinsten. Ob Treppengeländer oder Alufenster oder Garagentore. Die richtig Adresse für alles rund um das Thema Metallbau.\nJunges dynamische Montageteam. Modern und immer auf dem neusten Stand. Sehr empfehlenswert.",
+        "time": 1639341054,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fabio Leuthold",
+        "author_photo": "/images/reviews/leuthold-metallbau-ag-bueren/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bildet auch Zeichner aus. Haben grosse Reichweite, bis Zürich und weiter. Top!",
+        "time": 1738852782,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rudolf Kindler",
+        "author_photo": "/images/reviews/leuthold-metallbau-ag-bueren/reviewer_3.jpg",
+        "rating": 5,
+        "text": "DIe Firma Leuthold ( Hr. Odermatt) hat mir bereits zum zweiten Mal mit einer kleinen Reparatur ( Rollen-rad bei Rollkoffer ersetzt) ausgeholfen. Unkompliziert und hilfsbereit!\nIm Vergleich mit den Reparaturdiensten der Fluggesellschaften ein absoluter TOP-Service !!\nNochmals besten Dank und weiter so.",
+        "time": 1774605218,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

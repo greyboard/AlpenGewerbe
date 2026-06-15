@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJyXBziQcem0cREcGaTfS77QA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "benny Von woanders",
+        "author_photo": "/images/reviews/hofstetter-ag-stahlbau-waldkirch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Stahlbau der besonderen Art, mehr now how gibt's nirgends!!!",
+        "time": 1707425082,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Baumgartner",
+        "author_photo": "/images/reviews/hofstetter-ag-stahlbau-waldkirch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Empfang.😎👍",
+        "time": 1643194883,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Weber Urs",
+        "author_photo": "/images/reviews/hofstetter-ag-stahlbau-waldkirch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623093744,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Zsolti Szilagyi",
+        "author_photo": "/images/reviews/hofstetter-ag-stahlbau-waldkirch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621441405,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Istvan Balla",
+        "author_photo": "/images/reviews/hofstetter-ag-stahlbau-waldkirch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1549011096,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

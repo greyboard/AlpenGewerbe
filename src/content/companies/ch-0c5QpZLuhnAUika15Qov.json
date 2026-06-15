@@ -26,5 +26,22 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRaLggZP8j0cRzbPknA1Bx_8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Marc Heyer",
+        "author_photo": "/images/reviews/buholzer-kurt-bedachungen-fassadenbekleidungen-bauspenglerei-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr sympathische und kompetente Mitarbeiter, Termine werden eingehalten, Verrechnung gemäss Offerte, Arbeiten werden sehr sorgfältig und professionell ausgeführt. Absolut empfehlenswert!!!",
+        "time": 1556870859,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq3u3uQnxj0cRZkOAx2-4s1s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Thierry Bam",
+        "author_photo": "/images/reviews/bodenlux-gmbh-alpnach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei der Wahl auf den Parkettboden für unser Haus wurden wir sehr freundlich beraten. Wichtiger ist jedoch, dass der Boden sehr sorgfältig gelegt wurde man auch bei genauem Hinschauen keinen Makel findet.",
+        "time": 1340741108,
+        "relative_time_description": "vor 13 Jahren"
+      },
+      {
+        "author_name": "Stini Kiser",
+        "author_photo": "/images/reviews/bodenlux-gmbh-alpnach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1574486100,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

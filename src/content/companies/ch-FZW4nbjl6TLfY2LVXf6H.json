@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqZdTdyRvjEcRsPBFPxlkuXI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Savit",
+        "author_photo": "/images/reviews/biedermann-sa-les-metiers-du-bois-chene-bougeries/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Erstklassige Arbeit und tadelloser Service! Das Team von Biedermann SA vereinte Professionalität, Fachkompetenz und Sorgfalt. Das Endergebnis hat meine Erwartungen weit übertroffen. Ich kann diese Firma jedem wärmstens empfehlen, der einen seriösen und passionierten Schreiner sucht.",
+        "time": 1752076305,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Heather Lohman",
+        "author_photo": "/images/reviews/biedermann-sa-les-metiers-du-bois-chene-bougeries/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Biedermann SA hat das gesamte Obergeschoss unseres Hauses, das aus dem späten 19. Jahrhundert stammt, saniert. Beim Abriss ging das Team mit großer Sorgfalt und Respekt vor der fragilen Bausubstanz vor. Der Abriss verlief sicher und problemlos. Beim Wiederaufbau bewiesen die Zimmerleute herausragendes Können und Kreativität, indem sie den gesamten Boden neu errichteten und verstärkten. Das Endergebnis übertrifft unsere Erwartungen bei Weitem. Alle Mitarbeiter von Biedermann, von den Zimmerleuten über die Techniker bis hin zum Geschäftsführer, waren außerordentlich professionell, kompetent und freundlich. Ich kann die Firma Biedermann SA uneingeschränkt empfehlen.",
+        "time": 1758478332,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Gail Messenger",
+        "author_photo": "/images/reviews/biedermann-sa-les-metiers-du-bois-chene-bougeries/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma Biedermann über die Jahre hinweg mehrfach beauftragt. Für unser Haus bauten und montierten sie eine wunderschöne, maßgefertigte Eichentreppe, Bücherregale und vor Kurzem auch Dreifachverglasung. Dank der extremen Hitze im Sommer 2022 blieb unsere Wohnung durch die Fenster angenehm kühl und ruhig. Wir sind begeistert, was für einen Unterschied sie machen! Wir brauchten unsere mobile Klimaanlage nicht mehr, wie wir es in den vergangenen Sommern getan hatten.\n\nDie Mitarbeiter im Büro und die Handwerker waren sehr professionell und auch bei kleineren Anpassungen nach der Installation äußerst hilfsbereit. Ich kann diese Firma uneingeschränkt empfehlen.",
+        "time": 1660892491,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Joseph Lebon",
+        "author_photo": "/images/reviews/biedermann-sa-les-metiers-du-bois-chene-bougeries/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein äußerst professionelles Team, das akribisch arbeitete und alle Fristen einhielt. Ich bin mit dem Ergebnis sehr zufrieden und kann sie uneingeschränkt empfehlen.",
+        "time": 1755522285,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Thomas Fleury",
+        "author_photo": "/images/reviews/biedermann-sa-les-metiers-du-bois-chene-bougeries/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tadelloser Service, präzise Arbeit und ein reaktionsschnelles Team. Ich kann sie wärmstens empfehlen.",
+        "time": 1755523397,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

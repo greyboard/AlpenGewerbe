@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJaYDAgwAWkEcRoD29NHR8POQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Manuel Leu",
+        "author_photo": "/images/reviews/elektro-bau-ag-rothrist-lenzburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma, guter Umgang mit Lernenden und Arbeitern, Schnell und Effizient",
+        "time": 1777293674,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Janis Kaeser",
+        "author_photo": "/images/reviews/elektro-bau-ag-rothrist-lenzburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Elektrobau AG bietet exzellenten Service und ist sehr Zuverlässigkeit. Das Unternehmen überzeugt mit qualifiziertem Personal und modernster Technik. Wir haben die fachgerechte Ausführung und termingerechte Fertigstellung unseres Projekts sehr geschätzt. Die Kommunikation ist klar und transparent, und individuelle Kundenwünsche werden stets berücksichtigt. Insgesamt hebt sich Elektrobau AG durch gute Qualität und einen kundenorientierten Ansatz hervor, was sie zu einem vertrauenswürdigen Partner für uns machte.\nAbsolut empfehlenswert!",
+        "time": 1728298665,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Silvan Zehnder",
+        "author_photo": "/images/reviews/elektro-bau-ag-rothrist-lenzburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sensationeller Service und sehr, sehr hilfsbereit und freundlich! Kann ich nur jedem weiterempfehlen!",
+        "time": 1651675000,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Dave M",
+        "author_photo": "/images/reviews/elektro-bau-ag-rothrist-lenzburg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Supper Firma, Punktlich Sauber und Schnell zu fären Preis",
+        "time": 1536699901,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Max Graf",
+        "author_photo": "/images/reviews/elektro-bau-ag-rothrist-lenzburg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute und saubere Arbeit",
+        "time": 1498135875,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

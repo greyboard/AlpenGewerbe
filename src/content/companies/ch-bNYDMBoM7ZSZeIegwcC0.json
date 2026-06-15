@@ -26,5 +26,55 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJsfL_qwjlj0cREd7wnyIl_Ps",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Philipp Müller",
+        "author_photo": "/images/reviews/gog-ag-gartenunterhalt-und-gartengestaltung-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine tolle Truppe die weiss was sie tut... Die Arbeiten werden sauber und schnell umgesetzt. Das ganze Team mit Chef sind sehr freundlich. Ich kann diese Firma absolut empfehlen.",
+        "time": 1742290872,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Udo",
+        "author_photo": "/images/reviews/gog-ag-gartenunterhalt-und-gartengestaltung-luzern/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Während der Heckenschnittarbeiten am Morgen durch den Gärtner kam es zu einer deutlich vernehmbaren Unterhaltung mit dem Arbeitskollegen.",
+        "time": 1758831340,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Petra Camenzind",
+        "author_photo": "/images/reviews/gog-ag-gartenunterhalt-und-gartengestaltung-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Perfekte Arbeit im Garten und persönliche Beratung. Rundum der perfekte Gärtner. Kann ich nur weiterempfehlen",
+        "time": 1611258764,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Matteo",
+        "author_photo": "/images/reviews/gog-ag-gartenunterhalt-und-gartengestaltung-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1742228183,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

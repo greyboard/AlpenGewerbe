@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJDZDNEWMKkEcR_pibuLW95ZU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Dominik Schlaepfer",
+        "author_photo": "/images/reviews/maler-beti-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service von Maler Beti! Meine ursprüngliche Anfrage für ein paar Ausbesserungen musste ich kurzfristig in das Streichen der kompletten 3.5-Zimmer-Wohnung ändern. Trotz voller Auslastung hat er noch am selben Tag flexibel umdisponiert, sehr sauber und professionell gearbeitet und alles in einem Tag erledigt – ich konnte noch am selben Abend einziehen. Ganz herzlichen Dank an das hilfsbereite und freundliche Team, das ich wärmstens empfehlen kann!",
+        "time": 1772468106,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "angelo cascione",
+        "author_photo": "/images/reviews/maler-beti-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service sehr gute Arbeit geleistet. Pünktlich und hoch professionell. Sehr empfehlenswert.",
+        "time": 1770408511,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Nero Gustavson",
+        "author_photo": "/images/reviews/maler-beti-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin äußerst zufrieden mit der Arbeit des Malers. Die Ausführung war professionell und sehr sauber, alle Aufgaben wurden zu meiner vollsten Zufriedenheit erledigt. Es handelte sich um größere Arbeiten in einem Restaurant, die er mit großem Engagement und Präzision umgesetzt hat. Beti war pünktlich, arbeitete effizient und zeigte dabei eine hohe Kompetenz. Ich kann diesen Maler uneingeschränkt weiterempfehlen!",
+        "time": 1739958979,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Phil Yo",
+        "author_photo": "/images/reviews/maler-beti-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service – absolut empfehlenswert!\n\nIch habe den Maler Beti mit umfangreichen Arbeiten in meiner Praxis beauftragt, darunter große Malerarbeiten sowie den Einbau einer neuen Decke. Von Anfang an hat alles perfekt funktioniert – die Planung war super zuverlässig, und die Durchführung verlief absolut reibungslos. Joel und sein Team haben extrem professionell gearbeitet: schnell, sauber und mit viel Liebe zum Detail. Das Ergebnis hat meine Erwartungen übertroffen. Wenn Sie in Zürich auf der Suche nach einem Top-Malerteam sind, dann ist Beti die beste Wahl! Vielen Dank für die fantastische Arbeit!",
+        "time": 1738083143,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marwan Eissa",
+        "author_photo": "/images/reviews/maler-beti-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Joel Beti war immer sehr freundlich und hilfsbereit. Die Malerarbeiten bei uns in der Wohnung haben sein Team und er zu unserer vollsten Zufriedenheit erledigt und das sogar einen Tag schneller als ursprünglich vereinbart. Netterweise hat er uns sogar noch auf ein paar Mängel hingewiesen da es sich um einen Erstbezug handelt und kleinere Gipsarbeiten vorgenommen. Vielen vielen Dank und gerne wieder!",
+        "time": 1730968905,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJm6h9UfMAkEcR_00ySTaaFwQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Thomas Leuthard",
+        "author_photo": "/images/reviews/hausheer-elektro-ag-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, flexibel, schnell und vor allem kompetent. Es war toll zu mitzuerleben, wie das Problem meiner ursprünglichen Idee verständlich erklärt und souverän mit einer anderen Variante gelöst wurde. Ich kann Hausheer Elektro mit gutem Gewissen weiterempfehlen. Ich habe nachher sogar noch überlegt, ob es noch andere Elektroarbeiten in der Wohnung zu erledigen gibt.  🙃",
+        "time": 1710300888,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Heimo Magg",
+        "author_photo": "/images/reviews/hausheer-elektro-ag-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben kürzlich unsere Küche ausgiebig umgebaut und im Zuge der Renovation, neben der De- und Neuinstallation aller Geräte, auch ein paar zusätzliche Installationen wie Montage von Lampen, Durchziehen einer Internetleitung in andere Zimmer, etc. durch das Team von Herrn Hausheer durchführen lassen. Die Kommunikation, der Service und die Qualität der durchgeführten Arbeiten waren ausgezeichnet, so dass ich mich an dieser Stelle mit einer guten Rezension ganz herzlich bedanken möchte!",
+        "time": 1631548047,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Olivia",
+        "author_photo": "/images/reviews/hausheer-elektro-ag-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche, kompetente Mitarbeitende - ein Kompliment für die rasche Erledigung unseres Auftrages.",
+        "time": 1736955950,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Artur Schnyder",
+        "author_photo": "/images/reviews/hausheer-elektro-ag-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit, proaktiv und reaktionsschnell. Kann mit besten Gewissen weiter empfohlen werden.",
+        "time": 1691863033,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "André Durrer",
+        "author_photo": "/images/reviews/hausheer-elektro-ag-cham/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Topleistung, gutes Preis/Leistungsverhältnis, zuverlässig, freundlich, ehrlich und kompetent",
+        "time": 1672948460,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

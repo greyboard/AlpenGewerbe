@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJOd3MwYLxj0cRZYjYaHdQ1LM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Sofie Bacher",
+        "author_photo": "/images/reviews/mathis-flachdach-ag-kaegiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und sympathisch",
+        "time": 1611600133,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Pascal Dino Schwyter",
+        "author_photo": "/images/reviews/mathis-flachdach-ag-kaegiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Superteam",
+        "time": 1765804616,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "fran ara",
+        "author_photo": "/images/reviews/mathis-flachdach-ag-kaegiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Am besten .....",
+        "time": 1557910510,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Idrizi Kemal",
+        "author_photo": "/images/reviews/mathis-flachdach-ag-kaegiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1694031513,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "S. E.",
+        "author_photo": "/images/reviews/mathis-flachdach-ag-kaegiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1589610833,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

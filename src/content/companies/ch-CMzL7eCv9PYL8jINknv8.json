@@ -1,7 +1,7 @@
 {
   "id": "ch-CMzL7eCv9PYL8jINknv8",
   "slug": "caporale-sa-magadino",
-  "name": "Caporale SA",
+  "name": "Caporale Antonio Sagl",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJCX0jGwzJhUcRdLv8SmTtVCY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "karl daeppen",
+        "author_photo": "/images/reviews/caporale-sa-magadino/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für mich ist es DIE Firma im Tessin, der ich vertrauen kann. Seit 2010 bin ich Kunde und es hat immer alles super geklappt: Neue Heizung, neue Radiatoren, neuer Wärmepumpenboiller, neue Filtrieranlage für Pool, Pool mit Folie auskleiden, aber auch kleines wie undichter Ablauf, zerbrochenes Lavabo, neue Steuerung nach Blitzschaden.... immer wurde alles zu meiner besten Zufriedenheit ausgeführt. Ich bin begeistert von der Firma Caporale. Karl Däppen",
+        "time": 1757943235,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Daniel R. Wellinger",
+        "author_photo": "/images/reviews/caporale-sa-magadino/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit Abstand das beste Sanitärgeschäft in Gambarogno. Super Service von Antonio.",
+        "time": 1727460896,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Emily Gumina",
+        "author_photo": "/images/reviews/caporale-sa-magadino/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir vertrauen dieser Firma seit Jahren unsere Sanitärarbeiten an und loben immer wieder ihre Professionalität und Freundlichkeit. Die Qualität ihrer Arbeit war stets einwandfrei: Jeder Auftrag wird präzise und fachmännisch ausgeführt, jedes Problem wird effizient und dauerhaft gelöst. Sie sind immer erreichbar, selbst in kritischen und unerwarteten Situationen, und gewährleisten so eine schnelle und zuverlässige Unterstützung. Neben ihrer fachlichen Kompetenz schätzen wir auch ihren Kundenservice: Sie sind stets höflich, freundlich und beantworten gerne alle unsere Fragen und Anliegen. Darüber hinaus achten sie während und nach den Arbeiten besonders auf Ordnung und Sauberkeit und hinterlassen die Räumlichkeiten makellos sauber. Abschließend können wir diese Firma jedem wärmstens empfehlen, der einen qualitativ hochwertigen Sanitärservice sucht, der professionell, pünktlich und zuvorkommend ausgeführt wird.",
+        "time": 1707337345,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Viviana Pura",
+        "author_photo": "/images/reviews/caporale-sa-magadino/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin froh, dass ich Caporale SA mit den Heizungsarbeiten in meinem Haus beauftragt habe.\nSehr professionell und hilfsbereit.",
+        "time": 1695677392,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Julio Cesar Gamboni",
+        "author_photo": "/images/reviews/caporale-sa-magadino/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tadelloser Service. Zuverlässige Profis, absolut empfehlenswert!",
+        "time": 1713806281,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

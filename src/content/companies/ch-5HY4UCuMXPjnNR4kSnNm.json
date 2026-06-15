@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJf5YxFdijmkcRS15QY_08QOQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Aris osmani (A.o)",
+        "author_photo": "/images/reviews/swiss-maler-gmbh-volketswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis zur Ausführung alles einwandfrei. Sehr zuverlässig, saubere Arbeit und ein perfektes Endergebnis. Man merkt sofort die Erfahrung und das Auge fürs Detail. Klare Empfehlung!",
+        "time": 1776954491,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Erion Aliji",
+        "author_photo": "/images/reviews/swiss-maler-gmbh-volketswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und zuverlässige Arbeit. Das Team der Swiss Maler GmbH überzeugt mit sauberer Ausführung und hoher Qualität. Kommunikation war unkompliziert und termingerecht. Sehr empfehlenswert!",
+        "time": 1777535532,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Velixar Team",
+        "author_photo": "/images/reviews/swiss-maler-gmbh-volketswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit den Malerarbeiten! Wünsche dem Team nur das Beste.",
+        "time": 1774433795,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Gjon Pali",
+        "author_photo": "/images/reviews/swiss-maler-gmbh-volketswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hans von der Swiss Maler GmbH war bei uns zuhause und hat die Wohnung gestrichen und Tapeziert. Das ist ein Arbeiter wo man sofort sieht dass er mit jahrelangen Erfahrung immer noch sehr leidenschaftlich arbeitet und er seine Arbeit liebt. Ich kann sie wärmsten empfehlen es war sehr schön ihn arbeiten zu sehen.",
+        "time": 1777182634,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "F.G",
+        "author_photo": "/images/reviews/swiss-maler-gmbh-volketswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Zusammenarbeit, zuverlässig und professionell. Empfehlenswert!",
+        "time": 1775147509,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

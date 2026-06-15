@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJvzAnFm2xkUcRpwZnYv1JbWE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–16:30 Uhr",
+    "Donnerstag: 07:00–16:30 Uhr",
+    "Freitag: 07:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "Flavia F.",
+        "author_photo": "/images/reviews/egli-schreinerservice-reinach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service!!\nWirklich eine super Arbeit von Joel Egli. Das Badmöbel wurde genau nach Wunsch gebaut und passt perfekt rein.\n\nBesonders gut fand ich die Beratung bezüglich Feuchtigkeit und Hinterlüftung.\n\nAlles wurde sauber verarbeitet und die Übergänge zur Wand sind wirklich top gemacht.\n\nIch bin sehr zufrieden und kann den Service von J. Egli mit bestem Gewissen weiterempfehlen!",
+        "time": 1777198052,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Berke Cavuldak",
+        "author_photo": "/images/reviews/egli-schreinerservice-reinach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe altes Holzmaterial bei einem Nachbarn gefunden, das eigentlich entsorgt werden sollte. Wir haben Joel beauftragt, damit etwas Schönes im Garten zu gestalten. Er kam vorbei und hatte sofort kreative Ideen! Schließlich haben wir unsere Wand mit dem Holz verkleiden lassen – und das Ergebnis hat unsere Erwartungen weit übertroffen. Der Garten wirkt jetzt viel wärmer und gemütlicher.\nVielen Dank, Joel, für die unkomplizierte und zugleich effiziente Arbeit – absolut empfehlenswert!",
+        "time": 1759906945,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jerome Egli",
+        "author_photo": "/images/reviews/egli-schreinerservice-reinach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle und professionelle Arbeit beim Bau unseres Gartenhauses von der Koordination einer Fremdfirma für Betonfundamente, Design und Herstellung der robusten Holzkonstruktion bis zum Aufbau des Gartenhauses.",
+        "time": 1777576595,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Boris Kocev",
+        "author_photo": "/images/reviews/egli-schreinerservice-reinach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Joel hat den Tisch mit grosser Sorgfalt und Präzision restauriert. Jetzt ist er so angepasst, dass er bequem von allen Seiten mit einem Rollstuhl genutzt werden kann. Das Ergebnis ist ein wunderschön gefertigter Tisch mit perfekt ausgearbeiteten Details.",
+        "time": 1760373820,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Eleni Ziakas",
+        "author_photo": "/images/reviews/egli-schreinerservice-reinach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Egli arbeitet mit höchster Präzision, Ästhetik und Liebe zum Detail. Unseren grossen Holz-Esstisch  hat er sorgfältig geschliffen, poliert und so aufgearbeitet, dass er nun besser aussieht als am ersten Tag. Zudem hat er für unsere Tochter einen einzigartigen Wickeltisch gebaut, kein Massenprodukt, sondern ein Unikat, das wir stolz weitergeben können.",
+        "time": 1759147571,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

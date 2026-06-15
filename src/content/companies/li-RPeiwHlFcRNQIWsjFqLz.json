@@ -26,5 +26,63 @@
     "Fundamentbau",
     "Renovation"
   ],
-  "description": "So verfügt Ihr Betrieb mit den fünf Kernbereichen von der Bauvisierung bis zum Gerüstbau über ein starkes Fundament, doch Ihr digitaler Auftritt gleicht aktuell noch einer reinen Baustelle: Die Webseite besteht lediglich aus einer statischen Grafik-Visitenkarte ohne suchmaschinenoptimierte Texte, mo"
+  "description": "So verfügt Ihr Betrieb mit den fünf Kernbereichen von der Bauvisierung bis zum Gerüstbau über ein starkes Fundament, doch Ihr digitaler Auftritt gleicht aktuell noch einer reinen Baustelle: Die Webseite besteht lediglich aus einer statischen Grafik-Visitenkarte ohne suchmaschinenoptimierte Texte, mo",
+  "googlePlaceId": "ChIJG0U4lEAxm0cRyMOq5FPTFEI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Hasan Keskin",
+        "author_photo": "/images/reviews/a-z-bau-gmbh-nendeln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Epoxidharz-Beschichtung: Die Oberfläche ist makellos, leicht zu reinigen und hält der täglichen Staplerbelastung problemlos stand. Erstklassige Qualität",
+        "time": 1773929760,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jovan Kozomora",
+        "author_photo": "/images/reviews/a-z-bau-gmbh-nendeln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert!\nDas Team hat bei uns Kernbohrungen durchgeführt und wir sind mehr als zufrieden. Die Arbeiten wurden extrem sauber und professionell ausgeführt. Die Qualität ist wirklich top und man merkt sofort, dass hier mit Erfahrung und Präzision gearbeitet wird.\n\nZusätzlich war das ganze Team sehr zuverlässig, pünktlich und freundlich. Termine wurden eingehalten und die Kommunikation war jederzeit unkompliziert. Man fühlt sich einfach gut aufgehoben.",
+        "time": 1778182224,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Andreas Wachter",
+        "author_photo": "/images/reviews/a-z-bau-gmbh-nendeln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Arbeit!\nDas Team war schnell, sauber und sehr zuverlässig. Die Qualität der Ausführung war top und alles wurde termingerecht erledigt.",
+        "time": 1773930245,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Mazllum Krasniqi",
+        "author_photo": "/images/reviews/a-z-bau-gmbh-nendeln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778250505,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Abdiji Ilsan",
+        "author_photo": "/images/reviews/a-z-bau-gmbh-nendeln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778157881,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

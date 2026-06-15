@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8SF4SmXHhEcRbUQChW3E7Go",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "M. Sira",
+        "author_photo": "/images/reviews/ramani-bodenbelaege-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ramani Bodenbeläge haben eine sehr gute Arbeit geleistet. Kundenfreundlich,  arbeiten qualitativ und ich bin begeistert. Termin sofort erhalten, zudem arbeiten sie sehr genau und hinterlassen den Arbeitsbereich auch wieder sauber.  Kann ich gerne weiterempfehlen. Danke",
+        "time": 1613728287,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marko Marojevic",
+        "author_photo": "/images/reviews/ramani-bodenbelaege-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service und fachmännische Beratung wie Ausführung.\nTermine wie auch unsere Wünsche wurden zeitgerecht erledigt.\nEmpfehelnswert!",
+        "time": 1637335758,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

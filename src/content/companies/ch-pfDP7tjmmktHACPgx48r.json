@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJy6ml7O85jkcRnM_N3HPFq_0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Jörg Baumgartner",
+        "author_photo": "/images/reviews/mordasini-maler-gipser-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben Mordasini Maler Gipser AG für eine Schimmelbehandlung in den Nassbereichen einer Wohnung engagiert. Die Arbeiten wurden prompt und sauber ausgeführt. Besten Dank hierfür.",
+        "time": 1768492868,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Boris Majinovic",
+        "author_photo": "/images/reviews/mordasini-maler-gipser-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnelle Kontaktaufnahme - wichtig wenn man sich ratlos fühlt (Schimmel), sehr gute Beratung, professionelle Sanierung, Trocknung und Überwachung. Sehr gut! Viele Dank für deinen Einsatz!",
+        "time": 1574445364,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Yvonne Kohler",
+        "author_photo": "/images/reviews/mordasini-maler-gipser-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, kundenorientiert, gute Vorschläge, pünktlich, saubere Arbeit - können wir nur weiter empfehlen.",
+        "time": 1694690024,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefan Schmidlin",
+        "author_photo": "/images/reviews/mordasini-maler-gipser-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundliches Personal, rasche Umsetzung der Gibserarbeiten und ein faires Preis-Leistungsverhältnis.",
+        "time": 1536675952,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "renate",
+        "author_photo": "/images/reviews/mordasini-maler-gipser-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetent und sehr kundenfreundlich. Perfekte Arbeit.",
+        "time": 1663052149,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

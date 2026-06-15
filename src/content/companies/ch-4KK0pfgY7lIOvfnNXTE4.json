@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAz3_gW1_kEcR_Ohz5UCXKDo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Dienstag: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Mittwoch: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Donnerstag: 07:45–11:45 Uhr, 13:15–16:45 Uhr",
+    "Freitag: 07:45–11:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Daniel Suter",
+        "author_photo": "/images/reviews/kurt-f-oetterli-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Unternehmen. Die Kurt F. Oetterli AG macht sämtliche Elektroarbeiten für uns. Sie sind immer sehr kompetent, freundlich und zuverlässig. Von der Projektplanung bis zur Ausführung klappt immer alles wunderbar.\nAbsolut zu empfehlen.\n\nSuter Fenster und Haustüren\nDaniel Suter",
+        "time": 1568109437,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Andreas Meyer",
+        "author_photo": "/images/reviews/kurt-f-oetterli-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Team, kann ich nur empfehlen",
+        "time": 1603231981,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gary Hümbeli",
+        "author_photo": "/images/reviews/kurt-f-oetterli-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Elektriker! Immer Lösungsorientiert zum fairen Preis.",
+        "time": 1602248697,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Apn6Driver",
+        "author_photo": "/images/reviews/kurt-f-oetterli-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "fobox.ch bedankt sich für die Zusammenarbeit :)",
+        "time": 1661427327,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nico Fehr",
+        "author_photo": "/images/reviews/kurt-f-oetterli-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetent Freundlich Originel",
+        "time": 1488950263,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

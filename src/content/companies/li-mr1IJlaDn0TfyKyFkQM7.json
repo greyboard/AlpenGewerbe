@@ -1,7 +1,7 @@
 {
   "id": "li-mr1IJlaDn0TfyKyFkQM7",
   "slug": "koelbener-holzmontagen-triesen",
-  "name": "Kölbener Holzmontagen",
+  "name": "Kölberner Holzmontagen",
   "branchen": [
     "schreiner"
   ],
@@ -25,5 +25,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJec0WPTUzm0cRxGAL7VSEvmQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "F W",
+        "author_photo": "/images/reviews/koelbener-holzmontagen-triesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super freundlich mit tollen Ideen, einwandfreie Montage. Sehr zufrieden, Danke!",
+        "time": 1772476868,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Daysiane Egger - Eberle",
+        "author_photo": "/images/reviews/koelbener-holzmontagen-triesen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden!!! Wir haben unser ganzes Haus mit neuen Fenstern bei Kölberner Holzmontagen montieren lassen.\nEin absolutes:\n⭐️ kompetentes Team\n⭐️ professionelle Arbeit\n⭐️ faire Preise\n⭐️ tolles Team\n⭐️  einfach zum weiterempfehlen!!\nVielen Dank, Pascal & Team für die tolle (zusammen)-Arbeit👍🏽",
+        "time": 1764168999,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Ramona Stöckl",
+        "author_photo": "/images/reviews/koelbener-holzmontagen-triesen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit! 100 % Weiterempfehlung! Verlässlich, pünktlich, saubere Arbeit!",
+        "time": 1726942581,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Wille",
+        "author_photo": "/images/reviews/koelbener-holzmontagen-triesen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679162696,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJEZ2gmg4KkEcRhcfJPqmH0HM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 40,
+    "reviews": [
+      {
+        "author_name": "Claudio McWidmer",
+        "author_photo": "/images/reviews/handwerkskollektiv-hk-schreinerei-zimmerei-maler-zuerich-zuerich/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Leider nur bedingt zu empfehlen. Kontakt mit Inhaber eher schroff und nicht lösungsorientiert. Auch etwas unzuverlässig - hat sich nicht mehr gemeldet, obwohl vereinbart.\nMaler ok, Schreiner würde ich künftig anderswo suchen.",
+        "time": 1770905277,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Martin Peyer",
+        "author_photo": "/images/reviews/handwerkskollektiv-hk-schreinerei-zimmerei-maler-zuerich-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, übersichtliche Offerte, zeitnahe Umsetzung, zuverlässige und äusserst sympathische Handwerker, die mitdenken und alle Wünsche erfüllen, detaillierte und korrekte Abrechnung: ich bin sehr zufrieden, gerne wieder.",
+        "time": 1720784265,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Frick",
+        "author_photo": "/images/reviews/handwerkskollektiv-hk-schreinerei-zimmerei-maler-zuerich-zuerich/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Handwerker erscheint nicht zum vereinbarten Termin. Als ich ihn angerufen habe, lacht dieser am Telefon und hat eine Ausrede parat. Extrem unprofessionell",
+        "time": 1760683068,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Stefan Schmid",
+        "author_photo": "/images/reviews/handwerkskollektiv-hk-schreinerei-zimmerei-maler-zuerich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Reutimann hat nach meinem Plan,  zwei Massivholzplatten für ein Hi-Fi Möbel angefertigt. Das Resultat war einfach super, genau nach meinem Geschmack. Freundliche und kompetente Beratung runden den positiven Gesamteindruck ab.",
+        "time": 1680863277,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "R L",
+        "author_photo": "/images/reviews/handwerkskollektiv-hk-schreinerei-zimmerei-maler-zuerich-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Installation der Insektenschutzgitter erfolgte durch einen sehr schnellen und professionellen Installateur. Das Ergebnis ist allgemein sehr gut – die Gitter passen perfekt und sehen gut aus. Ich bin rundum zufrieden mit dem Service und dem Produkt.",
+        "time": 1746081880,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

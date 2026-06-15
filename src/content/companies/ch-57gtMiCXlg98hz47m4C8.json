@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJt--7ExvYkUcRIJo0tIVFHPk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Nicole Wyss",
+        "author_photo": "/images/reviews/cadola-sanitaer-und-heizung-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr nette Beratung am Telefon, sehr kompetenter und aufgestellter Monteur! Ich kann die Firma nur weiterempfehlen",
+        "time": 1719500822,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nick Woodtli",
+        "author_photo": "/images/reviews/cadola-sanitaer-und-heizung-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundliches und kompetentes Team.\nArbeit war einwandfrei, kann ich nur weiter empfehlen.",
+        "time": 1711717193,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Wiget",
+        "author_photo": "/images/reviews/cadola-sanitaer-und-heizung-ag-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Guter service, motievertes team\nAnhänglicher Hund  im büro\nGerne wieder",
+        "time": 1598171351,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Brigitte Bähler",
+        "author_photo": "/images/reviews/cadola-sanitaer-und-heizung-ag-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1632804546,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Schneider Dominik",
+        "author_photo": "/images/reviews/cadola-sanitaer-und-heizung-ag-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1625079724,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

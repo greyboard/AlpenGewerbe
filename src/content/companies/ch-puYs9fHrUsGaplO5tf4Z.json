@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJtYsjwfjxmkcRo8J4Liq5GKM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Harald Beutler",
+        "author_photo": "/images/reviews/bachmann-metallverarbeitung-weinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Guter Kaffee nette Menschen.",
+        "time": 1596023633,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Rene Hälg",
+        "author_photo": "/images/reviews/bachmann-metallverarbeitung-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1616407760,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "F. Rexhepi (Jimmy)",
+        "author_photo": "/images/reviews/bachmann-metallverarbeitung-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1603370567,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gaetano Bivona",
+        "author_photo": "/images/reviews/bachmann-metallverarbeitung-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1509449769,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

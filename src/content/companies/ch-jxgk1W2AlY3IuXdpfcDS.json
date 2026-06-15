@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJqQ-vlpEfjkcR19Xfwg2oBjI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "maurus durband",
+        "author_photo": "/images/reviews/sf-sanitaer-gmbh-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mittags nach Hause gekommen, Wohnung 1,5 cm hoch geflutet - innert 30‘ war Herr Schwingruber vor Ort und kümmerte sich um alles. Professionell, unkompliziert & zuverlässig! Kompetenter Handwerkerservice, wie er sein sollte!",
+        "time": 1738878421,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "66pibo",
+        "author_photo": "/images/reviews/sf-sanitaer-gmbh-biel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekter Service und top Beratung gute Terminplanung und sehr angenehmer Umgang; einfach nur empfehlenswert!! 💯",
+        "time": 1698176656,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Simon Baumann",
+        "author_photo": "/images/reviews/sf-sanitaer-gmbh-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit SF-Sanitär. Freundliche Beratung, pünktliche Termine und schnelle, professionelle Arbeit. Die Mitarbeiter vor Ort waren top.",
+        "time": 1729861015,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "markus suter",
+        "author_photo": "/images/reviews/sf-sanitaer-gmbh-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir geniessen seit 2 Monaten unsere neue Badewanne, die super in unser Bad passt. SF Sanitär wählen und man hat Top Service, super freundliches und kompetentes Team. JA, jederzeit wieder und das ohne zögern!!!!! Markus",
+        "time": 1614427001,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "claude raschle",
+        "author_photo": "/images/reviews/sf-sanitaer-gmbh-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Unser Ablauf im Bad war sehr stark verstopft.\nSchneller, absolut professioneller Service von SF-Sanitär, sehr kompetent !\nSehr zu empfehlen...",
+        "time": 1692024562,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

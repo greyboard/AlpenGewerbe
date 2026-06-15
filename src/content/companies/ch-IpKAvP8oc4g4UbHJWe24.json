@@ -26,5 +26,31 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-ctrS2u3SQQRmHaMKPRSRfs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–19:00 Uhr",
+    "Dienstag: 08:30–19:00 Uhr",
+    "Mittwoch: 08:30–19:00 Uhr",
+    "Donnerstag: 08:30–19:00 Uhr",
+    "Freitag: 08:30–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Merita Meholli",
+        "author_photo": "/images/reviews/plattenleger-oberwallis-gampel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann Plattenleger Oberwallis nur empfehlen, mit seinen kompetenten Fachwissen,hat er mein Badezimmer nach meinen wünschen umgebaut. Vielen herzlichen Dank bis zum nächsten mal ☺️",
+        "time": 1770574703,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

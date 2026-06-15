@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJr-T19hJ_kEcRxtHnnwDFKuM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Brigitta Koch - Wehrli",
+        "author_photo": "/images/reviews/adrian-kuebler-gartengestaltung-neuhausen-am-rheinfall/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir liessen unseren Fischteich putzen: Sorgfältige Arbeit. Alle Goldfische, inklusive 4 Babyfische haben überlebt und der Teich sieht wieder schön aus! Wie die neuen Mittel wirken werden, dass es nicht mehr soviel Schlamm gibt, wird sich zeigen. Danke für die Tipps und die professionelle Arbeit.",
+        "time": 1599394134,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Partick Lelonde",
+        "author_photo": "/images/reviews/adrian-kuebler-gartengestaltung-neuhausen-am-rheinfall/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Unfreundlicher Gärtner. Fährt im super teuren Landrover vor und kassiert für schlechte Leistungen. Nicht zu empfehlen.",
+        "time": 1692514455,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gian",
+        "author_photo": "/images/reviews/adrian-kuebler-gartengestaltung-neuhausen-am-rheinfall/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781176307,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "R. E.",
+        "author_photo": "/images/reviews/adrian-kuebler-gartengestaltung-neuhausen-am-rheinfall/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778505856,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Sabine Rosenast-Leutwyler",
+        "author_photo": "/images/reviews/adrian-kuebler-gartengestaltung-neuhausen-am-rheinfall/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1688589978,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

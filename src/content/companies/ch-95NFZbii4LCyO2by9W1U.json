@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJH5Ks7xlvj0cR9aVUAYWvHYw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Viktor W. Summermatter",
+        "author_photo": "/images/reviews/eggel-artengarten-gmbh-bitsch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir suchten ein Gartenbau Unternehmen für die Neugestaltung und Pflege unseres Umschwunges und fanden in Adrian Eggel einen kompetenten und motivierten Gärtner der auf uns einging und unsere Wünsche sofort erkannte. Lösungen waren bereits nach kurzer Zeit vorhanden und wir sind gespannt wie das Resultat in den kommenden Wochen aussehen wird.",
+        "time": 1667749976,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Renate Madöry",
+        "author_photo": "/images/reviews/eggel-artengarten-gmbh-bitsch/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ein Chef, der sich nicht die Mühe macht, das Objekt selbst anzuschauen, Mitarbeiter, die sich nicht an Absprachen und Vorgaben des Auftraggebers halten und nach eigenem Gusto den Garten gestalten, das kann es echt nicht sein! Reklamationen werden ignoriert und eine Verbesserung vonseiten Artengarten wird nicht durchgeführt! So eine Firma ist auf keinen Fall zu empfehlen!",
+        "time": 1690480213,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "odette anthamatten",
+        "author_photo": "/images/reviews/eggel-artengarten-gmbh-bitsch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774621166,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Sylvia Anthamatten",
+        "author_photo": "/images/reviews/eggel-artengarten-gmbh-bitsch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1746174448,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Priska Krummenacher",
+        "author_photo": "/images/reviews/eggel-artengarten-gmbh-bitsch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1745925038,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

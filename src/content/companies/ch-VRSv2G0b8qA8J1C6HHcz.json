@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJE58qF7RDhUcRusZCIx-quFE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 43,
+    "reviews": [
+      {
+        "author_name": "Eduard",
+        "author_photo": "/images/reviews/farben-haus-uri-ag-schattdorf/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Genau der richtige Ort, wenn man Malerarbeiten plant, Farben werden nach Kundenwunsch frisch gemischt.\nViele Artikel auch im Bastelbereich. Kompetente Beratung und freundliche Bedienung.",
+        "time": 1704182811,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roman Zwyssig",
+        "author_photo": "/images/reviews/farben-haus-uri-ag-schattdorf/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Farben zu sehr teuren Preisen, mit Mengenangaben in der Beratung die zu hoch sind. Schade dass die nicht angefangenen Gebinde dann im Wert von beinahe 1000Franken nicht zurück genommen werden. Kulanz und Kundenfreundlich ist das nicht.",
+        "time": 1662043430,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beda Zgraggen",
+        "author_photo": "/images/reviews/farben-haus-uri-ag-schattdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Beratung super Qualität der Produkte",
+        "time": 1554249318,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Reto Indergand",
+        "author_photo": "/images/reviews/farben-haus-uri-ag-schattdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Auswahl und professionelle Beratung!",
+        "time": 1710667813,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Hans Pfaeffli",
+        "author_photo": "/images/reviews/farben-haus-uri-ag-schattdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr grosse Auswahl. Bietet alles für Profis und Hobby.",
+        "time": 1538382713,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

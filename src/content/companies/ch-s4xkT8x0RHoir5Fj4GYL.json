@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJD32QQTpZhUcRGTrZRSJ-bcQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "danubia traveline (Privat)",
+        "author_photo": "/images/reviews/elektro-furrer-ag-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, pünktlich und speditiv.\n\nHier wird tolle, saubere Arbeit geleistet. Monteur kommt auf Zeit, macht seine Arbeit exakt und räumt danach auf. So soll es sein.\nAlles funktioniert nun wie gewünscht und keiner sieht, dass da was gemacht wurde. Danke nochmals !",
+        "time": 1740384834,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adrian Murer",
+        "author_photo": "/images/reviews/elektro-furrer-ag-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nach einem Stromausfall in unserem Haus war Herr Murer ein sehr kompetenter Mitarbeiter der Elektro Furrer AG sehr schnell vor Ort. Der Fehler wurde sehr schnell lokalisiert und behoben. Wir können den Service und die hohe Fachkompetenz nur empfehlen. Elektro Furrer AG wird definitiv auch unseren nächsten Umbau ausführen.",
+        "time": 1605078930,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Philipp Andermatt",
+        "author_photo": "/images/reviews/elektro-furrer-ag-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Murer hat mich sehr kompetent beraten. Er ist auf meine Bedürfnisse und Ideen eingegangen und somit konnten wir eine optimale Lösung finden.\nElektro Furrer AG ist nur zu empfehlen und gerne arbeite ich wieder mit ihnen zusammen.",
+        "time": 1601469629,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Schiltrac Fahrzeugbau",
+        "author_photo": "/images/reviews/elektro-furrer-ag-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter und flexibler E-Partner, Installation von Kompensationsanlage einwandfrei umgesetzt.\nDanke dem Team aus Buochs (NW)",
+        "time": 1628753706,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "dani_ zwyssig",
+        "author_photo": "/images/reviews/elektro-furrer-ag-buochs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das sind Profis!\n- Schnelle und unkomplizierte Kommunikation\n- Saubere Arbeit\n- Freundlich und Rücksichtsvoll\nAbsolut Empfehlenswert und jederzeit gerne wieder!",
+        "time": 1745494618,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

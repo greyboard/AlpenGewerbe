@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJb8QmiD38j0cRTZWt1fmc-uM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Bruno Dahinden",
+        "author_photo": "/images/reviews/brun-arnold-ag-ebikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe schon mehrere Arbeiten ausführen lassen (Treppengeländer. Gartendach und Blechabdeckung zwischen den Fenstern). Arbeiten waren immer top und die Preise fair.",
+        "time": 1741001148,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kevin Müller",
+        "author_photo": "/images/reviews/brun-arnold-ag-ebikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit den ausgeführten Arbeiten bei meinem Neubau. Die Geländer wurden sehr exakt gefertigt und montiert.",
+        "time": 1688718710,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Elia Meyer",
+        "author_photo": "/images/reviews/brun-arnold-ag-ebikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Metallbauer",
+        "time": 1736872858,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kilian Bucher",
+        "author_photo": "/images/reviews/brun-arnold-ag-ebikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alles Super! Gerne wieder👍",
+        "time": 1682335586,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sandra Roos",
+        "author_photo": "/images/reviews/brun-arnold-ag-ebikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1736873799,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

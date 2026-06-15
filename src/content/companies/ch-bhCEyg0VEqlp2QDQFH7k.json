@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJT5ZgsjIem0cRSQfl_DgHVMw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "LC LC",
+        "author_photo": "/images/reviews/keller-cecchinato-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben i.R. einer Renovierung Bad, Toilette, Eingang und Küche neu fliesen lassen und sind voll zufrieden. Vielen Dank dafür",
+        "time": 1742937866,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ernst Wenger",
+        "author_photo": "/images/reviews/keller-cecchinato-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nette und unkomplizierte Beratung. Herr Cecchinato hört zu und geht auf die Wünsche der Kunden ein (teilrenovation eines Badezimmers und WC's, Wand- und Bodenbeläge mit Keramikplatten.) Die Arbeiten wurden sauber und speditiv erledigt. Wir können die Firma Keller&Cecchinato AG bestens empfehlen.",
+        "time": 1644538973,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Anja Brovelli",
+        "author_photo": "/images/reviews/keller-cecchinato-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die ausgezeichnete Arbeit bei der Renovation unseres neuen Zuhauses.",
+        "time": 1630488244,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michael Hof",
+        "author_photo": "/images/reviews/keller-cecchinato-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Netter Kontakt sehr saubere Arbeit👍",
+        "time": 1618660097,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dirk Reichmann",
+        "author_photo": "/images/reviews/keller-cecchinato-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1702321440,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

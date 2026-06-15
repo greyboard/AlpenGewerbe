@@ -26,5 +26,30 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJOayI_1wXjkcRtN7A8LwtYtI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Daniel Roth",
+        "author_photo": "/images/reviews/roth-maurer-ag-walperswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mach öppis",
+        "time": 1626550371,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "c migli",
+        "author_photo": "/images/reviews/roth-maurer-ag-walperswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1506000640,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

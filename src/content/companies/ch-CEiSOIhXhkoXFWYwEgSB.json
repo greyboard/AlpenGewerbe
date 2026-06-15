@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4_xPKfMAkEcRInjVzzI_lhY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Ahmet Sahin",
+        "author_photo": "/images/reviews/maechler-metallbau-ag-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Firma, sehr gute Leistung, super Preise.\n\nMFG   AS\n\nBauleiter Aula AG",
+        "time": 1548428888,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Martin Kündig",
+        "author_photo": "/images/reviews/maechler-metallbau-ag-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Toller Service vom Fachmann!!!\nBei meinem ca. 45 Jahre alten, per Fernbedienung bedienten Garagentor ist ein Gelenk aus Eisen gebrochen, womit ich das Tor der Doppelgarage nicht mehr schliessen konnte. Ich machte mich bereits mit dem Gedanken an einen Ersatz des ganzen Schliessmechanismus vertraut. Kurze Zeit nach meinem Anruf erschien ein Fachmann von Mächler Metallbau vor Ort. Er schaute sich den Schaden an und kam schnell zur Beurteilung, dass er ein neues Gelenk herstellen könnte (den ehemaligen Torhersteller gibt's nicht mehr). Als serviceorientierter Fachmann inspizierte er sämtliche Gelenke und stellte auf der linken Seite des Tors ebenfalls erhebliche Abnützungsspuren fest. Zwei Tage später wurden die Reparaturen vor Ort ausgeführt. Das Resultat ist ein wieder perfekt funktionierendes Garagentor.\nMächler Metallbau aus Cham ist eine hervorragende Anlaufstelle für Probleme mit Metallkonstruktionen.",
+        "time": 1773158987,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

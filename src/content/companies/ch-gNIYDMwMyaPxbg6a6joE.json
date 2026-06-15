@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJEZKPuawvhUcR4CfwPXLYI40",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Yves Kurt",
+        "author_photo": "/images/reviews/marthy-ag-leuggelbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma, gute Beratung, alles so ausgeführt wie vereinbart, zum fairen Preis! Bin sehr zufrieden.",
+        "time": 1745225521,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stephan Meier",
+        "author_photo": "/images/reviews/marthy-ag-leuggelbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung und Umsetzung unserer Wünsche bei Badumbau Ferienhaus Schlattberg.Alles Top. Wir können die Marthy AG mit gutem Gewissen weiterempfehlen.",
+        "time": 1669006163,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Peter Streiff",
+        "author_photo": "/images/reviews/marthy-ag-leuggelbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute, zuverlässige Firma aus Glarus Süd.❣️ Grüsse an den Firmengründer Hanspeter Marthy",
+        "time": 1727455243,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christoph Kundert",
+        "author_photo": "/images/reviews/marthy-ag-leuggelbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin mit allen ausgeführten Arbeiten von der Marthy AG sehr zufrieden!! Top weiter so!",
+        "time": 1724177381,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Charlotte Weibel",
+        "author_photo": "/images/reviews/marthy-ag-leuggelbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein Unternehmen, wo nicht nur sehr gute Arbeit leistet, sondern auch eine sehr gute Beratung",
+        "time": 1668893583,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

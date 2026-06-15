@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJe73c3C5OhUcRHTnl0HrdkcY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Christian Annen",
+        "author_photo": "/images/reviews/reichlin-bau-ag-ibach/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Über die ausgeführten Arbeiten der Firma Reichlin Bau AG bin ich sehr enttäuscht. Einerseits, weil bei den Arbeiten mehrfach gepfuscht wurde. Die Baumängel liessen sich leider bis heute nicht spurlos beseitigen. Und bei einem Baumangel, welches die Firma Reichlin Bau AG selbst hätte wieder instand stellen sollen, ist bei den Ausbesserungsarbeiten ein weiterer Schaden entstanden. Am meisten enttäuscht bin ich jedoch vom Management, welches sich nicht einmal bei mir gemeldet hat und/oder vor Ort selbst einen Augenschein genommen hätte.",
+        "time": 1764099975,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "848 Flo",
+        "author_photo": "/images/reviews/reichlin-bau-ag-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles top sehr zufrieden. 👍👍😃",
+        "time": 1765541887,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "R K",
+        "author_photo": "/images/reviews/reichlin-bau-ag-ibach/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Meiner Erfahrung nach eine der schlechtesten Baufirmen des Kantons, vielleicht sogar weiter. Nur Scherereien, Probleme, Abfall auf dem Grundstück, unfreundliche Mitarbeiter und keine Expertise.\nIch rate dringlich von einer Beauftragung der Reichlin Bau AG ab.",
+        "time": 1572331126,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marc Burkhalter",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjUHYlT2e0-BzVq_Cz7uOJ7JvrWXPjCiQfgQLxfkggF0WC65W7M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "Sehr Kundenorientiert und Kompetent in der Ausführung",
+        "time": 1706631041,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefan Betschart",
+        "author_photo": "/images/reviews/reichlin-bau-ag-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetent, schnell, preiswert",
+        "time": 1518892747,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

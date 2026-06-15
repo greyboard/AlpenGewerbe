@@ -1,7 +1,7 @@
 {
   "id": "ch-Erk5GZ2zBDoJ4p5S173H",
   "slug": "revaz-constructions-metalliques-sa-sion",
-  "name": "Revaz Constructions Métalliques SA",
+  "name": "Revaz, Constructions métalliques SA",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJD5v15ybcjkcRjHdptgxn0jk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–14:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "sunil kumar",
+        "author_photo": "/images/reviews/revaz-constructions-metalliques-sa-sion/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr nettes Unternehmen",
+        "time": 1762713690,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Jeremie Claden",
+        "author_photo": "/images/reviews/revaz-constructions-metalliques-sa-sion/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Pir-Kompanie des Kantons",
+        "time": 1758175296,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Di Biase André",
+        "author_photo": "/images/reviews/revaz-constructions-metalliques-sa-sion/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1591726785,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Vincent Paccolat",
+        "author_photo": "/images/reviews/revaz-constructions-metalliques-sa-sion/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1660233677,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Cloris Tapia",
+        "author_photo": "/images/reviews/revaz-constructions-metalliques-sa-sion/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1631901438,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

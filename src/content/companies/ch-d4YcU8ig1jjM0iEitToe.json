@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJG1du2jFOhUcRsgqszqGjyMk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 39,
+    "reviews": [
+      {
+        "author_name": "Rolf Nideröst",
+        "author_photo": "/images/reviews/gasser-heizung-sanitaer-ag-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekter Service !\n\nAm Morgen 7.30 Uhr habe ich den Ausfall meiner Heizung gemeldet, um 9.30 Uhr ist das defekte Teil ersetzt und die Wärme kommt zurück.\n\nVielen Dank Gasser-Team, jederzeit gerne wieder.\n\nRolf Nideröst",
+        "time": 1769425274,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Heinz Näf",
+        "author_photo": "/images/reviews/gasser-heizung-sanitaer-ag-ibach/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Mail gesendet um einen Badelüfter zu reparieren, es wurde mir versprochen, dass der Servicechef sich meldet. Nach drei Wochen wieder ein Mail geschickt, da sich niemand meldete, wieder wurde uns versprochen, dass sich der Servicechef meldet. Doch auch nach weiteren 3 Wochen meldete sich niemand. Muss wohl eine andere Firma finden, schade, denn bis anhin war ich zufrieden.",
+        "time": 1768856807,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Matthias Seyfang",
+        "author_photo": "/images/reviews/gasser-heizung-sanitaer-ag-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich suchte Gasser Heizung-Sanitär in Ibach für meine Duscholux-\nTüre auf. Sehr professioneller, persönlicher und rascher Service.\nIch kann Gasser Heizung-Sanitär wirklich jedem empfehlen, der Qualität und Service schätzt!",
+        "time": 1726763806,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Erich Kündig",
+        "author_photo": "/images/reviews/gasser-heizung-sanitaer-ag-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Richtige Fachleute auf ihrem Gebiet. Zuverlässig, kompetent und korrekt.\nSehr zu empfehlen für Sanitär und Heizungs Installationen.",
+        "time": 1700653275,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Barbara Eichhorn",
+        "author_photo": "/images/reviews/gasser-heizung-sanitaer-ag-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super schneller Service, sehr kompetent",
+        "time": 1582053547,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5-YWYjI7kEcR124UBdtxPOU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 07:30–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Patrick Basler",
+        "author_photo": "/images/reviews/cocci-garten-erlinsbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Auch dieses Jahr hat Luigi wieder einen super tollen Job gemacht. Wir sind sehr glücklich über unseren neu verlegten Rollrasen. Sieht einfach super aus.\nEs ist immer eine Freude mit Luigi zusammenarbeiten und zu sehen mit wie viel Herzblut und Begeisterung er die Arbeiten erledigt 😎",
+        "time": 1744815956,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ladina Bühler",
+        "author_photo": "/images/reviews/cocci-garten-erlinsbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Luigi liebt seine Arbeit, das merkt man! Er schneidet und pflegt unsere Büsche sehr sorgfältig, arbeitet sauber und speditiv. Es ist immer wieder eine Freude ihn zu sehen! Wir sind sehr zufrieden! Von jeder gestellten Rechnung fliessen je 2.- an das Frauenhaus Aarau - Solothurn sowie pro specie rara - was für eine schöne Idee!",
+        "time": 1719942466,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simona Mosimann",
+        "author_photo": "/images/reviews/cocci-garten-erlinsbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "In kürzester Zeit hat Luigi unsere Tujahecke durch eine naturnahe Hecke ersetzt. Ich freu mich auf die Farbenvielfalt dieses Jahr in meinem Garten!\nLuigi hat kompetent beraten, jederzeit gerne wieder!",
+        "time": 1742384614,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Esther Schweizer",
+        "author_photo": "/images/reviews/cocci-garten-erlinsbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Seit einigen Jahren dürfen mein Garten und ich von Luigis professioneller Arbeit profitieren. Er unterstützt uns mit tollen Ideen für die weitere Gestaltung, er pflegt die Hecke, macht den Unterhalt des Gartenteiches und kümmert sich um meine Reben und Rosen. Luigi arbeitet sorgfältig, speditiv, ist kommunikativ und bringt stets gute Laune mit.  Ich bin sehr froh auf seine Hilfe zählen zu dürfen und absolut zufrieden mit seiner Leistung.\nEsther S.",
+        "time": 1707570740,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Therese Gyger",
+        "author_photo": "/images/reviews/cocci-garten-erlinsbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit (Plattenlegen im Garten) von Luigi von Cocci Garten sehr zufrieden. Er hat sauber, schnell, genau  und unkompliziert unseren Gartenweg neu gestaltet. Wir werden auch in Zukunft bei schweren Gartenarbeiten gerne seine Dienste in Anspruch nehmen.\nHerzlichen Dank!\nFamilie Gerber Gyger , Aarau",
+        "time": 1687359794,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

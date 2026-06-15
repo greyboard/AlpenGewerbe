@@ -26,5 +26,38 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJy6CAwM2CjkcRP3r8KsuOZAg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Alina Buchhold",
+        "author_photo": "/images/reviews/susanne-zimmermann-corseaux/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1730911132,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Keno",
+        "author_photo": "/images/reviews/susanne-zimmermann-corseaux/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652084852,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Nicolas Portmann",
+        "author_photo": "/images/reviews/susanne-zimmermann-corseaux/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1596024432,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

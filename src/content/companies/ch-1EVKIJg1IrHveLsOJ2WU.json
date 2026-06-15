@@ -26,5 +26,55 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJVW7NaZIem0cRb9zjY6ozNiY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: 07:00–12:30 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Manuel Mäder",
+        "author_photo": "/images/reviews/mm-keramik-gmbh-goldach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Firma, kann ich nur weiterempfehlen.\n+ Saubere Arbeit\n+ Kommunikation\n+ Zuverlässigkeit",
+        "time": 1752063021,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Maja Ljevar-Lovris",
+        "author_photo": "/images/reviews/mm-keramik-gmbh-goldach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top! Sehr professionell! Dringend zum weiter empfehlen! Angenehmer und super Fachmann",
+        "time": 1617221654,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Lord Wiesel",
+        "author_photo": "/images/reviews/mm-keramik-gmbh-goldach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete, speditive Arbeit. Tipptopp- gerne wieder👍🏻",
+        "time": 1663394301,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ajrulai Muhamet",
+        "author_photo": "/images/reviews/mm-keramik-gmbh-goldach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top! Top! Top!",
+        "time": 1606131227,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

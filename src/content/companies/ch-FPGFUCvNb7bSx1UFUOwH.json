@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJOcNk4ulVhUcRYJO85WQpMqI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Stephan Koch",
+        "author_photo": "/images/reviews/mhs-haustechnik-gmbh-goldau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Im Juni 2023 planten wir für unser Doppel-Einfamilienhaus mit MHS Haustechnik GmbH die Installation einer Luft-Wasser-Wärmepumpe mit Durchfluss-Warmwasserspeicher, kombiniert mit der bestehenden Gasheizung. Im Oktober 2023 war die Anlage in Betrieb und funktioniert seither problemlos. Die Firma überzeugte mit einem fairen Angebot zum Pauschalpreis, mit guter und schneller Planung und zügiger Montage durch ihre versierten und freundlichen Mitarbeiter. Ich werde diese Firma auf jeden Fall wieder berücksichtigen und kann sie wärmstens empfehlen.",
+        "time": 1724741860,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sibylle Zuber",
+        "author_photo": "/images/reviews/mhs-haustechnik-gmbh-goldau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schon bei der ersten Begrüssung war mir Herr Beni Mulaj sehr sympatisch und kompetent entgegen getreten. Das hat sich dann auch bei der gesamten Abwicklung und Installation meiner neuen Gasheizung bestätigt. Er arbeitet wirklich sehr akribisch und äusserst gewissenhaft. Darüber hinaus stimmt einfach auch das Preis-Leistungsverhältnis. Unsere neue Heizung schnurrt jetzt wie ein Kätzchen, gerade rechtzeitig zum erneuten Wintereinbruch 😊 Also, ich kann das MHS Haustechnik Team mit gutem Gewissen weiterempfehlen. Vielen Dank!",
+        "time": 1739528077,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Katrin J.",
+        "author_photo": "/images/reviews/mhs-haustechnik-gmbh-goldau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "MHS Haustechnik GmbH hat bei uns letzte Woche den Boilerersatz durchgeführt. Wir sind sehr zufrieden!\nHerr Mulaj war im Vorfeld gut erreichbar und hat alle Fragen umgehend beantwortet. Wir konnten problemlos einen passenden, zeitnahen Termin abmachen.\nDie Installateure waren sehr freundlich und haben sauber gearbeitet. Wir bedanken uns für die sehr gute Arbeit!\nSehr zu empfehlen!",
+        "time": 1715283236,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lava",
+        "author_photo": "/images/reviews/mhs-haustechnik-gmbh-goldau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir empfehlen die Arbeit sehr mit Herrn Mulaj. Er kam persönlich vorbei und hat uns sehr gut beraten. Die offerte fanden wir sehr fair und am Schluss sehr gerecht für eine hervorragende Arbeit! Vielen Dank für eure Mühe und pünktliche Arbeit.",
+        "time": 1757102706,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Kqira Lili",
+        "author_photo": "/images/reviews/mhs-haustechnik-gmbh-goldau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Als Lieferant von Wärmepumpen arbeiten wir seit geraumer Zeit mit MHS Haustechnik GmbH zusammen.Die Zusammenarbeit war stets reibungslos und professionell. Die MHS Haustechnik legt großen Wert auf hochwertige Materialien und sorgt dafür, dass unsere Produkte effizient und fachgerecht verarbeitet werden. Die Kommunikation ist immer klar und zeitnah, was uns als Lieferant sehr wichtig ist. Wir schätzen die langjährige Partnerschaft und freuen uns auf viele weitere gemeinsame Projekte.",
+        "time": 1724773289,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

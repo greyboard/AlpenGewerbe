@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJDdMrvXi3kUcRC68SDzCF4ro",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–20:00 Uhr",
+    "Dienstag: 07:00–20:00 Uhr",
+    "Mittwoch: 07:00–20:00 Uhr",
+    "Donnerstag: 07:00–20:00 Uhr",
+    "Freitag: 07:00–20:00 Uhr",
+    "Samstag: 07:00–20:00 Uhr",
+    "Sonntag: 07:00–20:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Ugur Yildizdal",
+        "author_photo": "/images/reviews/rubil-pro-bau-muttenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Haben unser Haus renoviert. vom Anfang bis zum Ende sind wir vollkommen zufrieden. Danke für den Einsatz und die tolle Umsetzung!!!",
+        "time": 1759607830,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Slobodan Majstorovic",
+        "author_photo": "/images/reviews/rubil-pro-bau-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute und zuverlässige Baufirma! Tolle Beratung, saubere Arbeit und termingerechte Ausführung. Absolut empfehlenswert!",
+        "time": 1759589847,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

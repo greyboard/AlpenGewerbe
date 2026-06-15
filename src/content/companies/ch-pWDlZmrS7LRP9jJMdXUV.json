@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJm10wDeRqjkcRQPsWXNmyQiY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "a",
+        "author_photo": "/images/reviews/fehr-sanitaer-gmbh-boesingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe bereits mehrere Duschvorhänge dort gekauft. Sehr freundlicher Mitarbeiter, wenn es ein Problem gab, wurde es schnell und freundlich gelöst. Sehr zu empfehlen! Kundenservice und Freundlichkeit - Top.  Werde wieder dort bestellen.",
+        "time": 1758830931,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Sarah",
+        "author_photo": "/images/reviews/fehr-sanitaer-gmbh-boesingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service! Wir haben bei der Bestellung eine Notiz gemacht, dass wir wenn möglich Express bestellen möchten (Geburtstagsgeschenk). Wir wurden anschliessend umgehend telefonisch informiert, dass der Artikel an Lager ist und am nächsten Tag bei uns eintreffen werde, sodass Express nicht nötig ist. Vielen Dank! Wir werden wieder bestellen:-)",
+        "time": 1603881881,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Anonym",
+        "author_photo": "/images/reviews/fehr-sanitaer-gmbh-boesingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe mir einen WC-Sitz bestellt die leider zerkratzt ankam. Nach einem kurzen Gespräch mit dem netten Herrn am Telefon habe ich nach 2 Tagen mein Ersatz erhalten,was man nicht als selbstverständlich nehmen kann. Super Service, Top!Ich bin sehr zufrieden und empfehle es gerne weiter.",
+        "time": 1608292615,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roland Frey",
+        "author_photo": "/images/reviews/fehr-sanitaer-gmbh-boesingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Unserer Wc-Sitz war nach einem Jahr Gebrauch leider schon defekt (Sprung in der Brille). Firma Fehr hat ihn gratis ausgetauscht. Super, danke! Gute Fachgeschäfte sind eben langfristig die bessere Wahl! :-)",
+        "time": 1634810763,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stefan Heinze",
+        "author_photo": "/images/reviews/fehr-sanitaer-gmbh-boesingen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Vorauszahlung geleistet, passiert nichts. Bei Nachfrage wurde Liefertermin versprochen, nicht eingehalten! Im Kundekonto stand bei Status: versendet, aber das Paket war gar nicht unterwegs. Im nachhhinein habe ich erfahren dass ich den Artikel vom Hersteller erhalten werde. So kompliziert habe ich noch nie eine Bestellung erlebt und der Informationsaustausch war lausig! Hätte ich nicht immer nachgefragt hätte ich wohl nie eine Antwort erhalten.\nFür mich, nie wieder!",
+        "time": 1515384153,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

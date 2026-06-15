@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJY2v2qJy2mkcRy49RsLsvCRs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Sagittarius A*",
+        "author_photo": "/images/reviews/zimmermann-steiner-ag-altendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr hilfsbereit und äusserst flexibel! Kollegiales Umfeld mit kompetenter Beratung in diversen Handwerklichen Fragen.\n\nEmpfehlenswert 👍",
+        "time": 1769254639,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Marco Kaelin",
+        "author_photo": "/images/reviews/zimmermann-steiner-ag-altendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "DIE Adresse für Plomben jeglicher art",
+        "time": 1667926626,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nadine Seliner",
+        "author_photo": "/images/reviews/zimmermann-steiner-ag-altendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1567081794,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "digipol GmbH",
+        "author_photo": "/images/reviews/zimmermann-steiner-ag-altendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1512378956,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Erika Kistler",
+        "author_photo": "/images/reviews/zimmermann-steiner-ag-altendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1508604560,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

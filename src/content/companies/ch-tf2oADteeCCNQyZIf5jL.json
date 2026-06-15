@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZV2Cj2wthEcR5cmlNH9vDbA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 09:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 09:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 09:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Peter Macdonald",
+        "author_photo": "/images/reviews/d-i-m-color-sagl-muzzano/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine großartige Firma, mit der ich seit mindestens 25 Jahren zusammenarbeite. Gewissenhaft und zuverlässig. Zuletzt haben sie unsere Sauna renoviert (siehe Foto).",
+        "time": 1724071523,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Carmela Costa",
+        "author_photo": "/images/reviews/d-i-m-color-sagl-muzzano/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe die Firma D.I.M. Color mit Malerarbeiten in meiner Wohnung beauftragt und war sehr zufrieden. Sie waren sehr zuverlässig, hilfsbereit und haben alle Arbeiten äußerst professionell ausgeführt. Sie haben sehr gründlich und fleckenfrei gereinigt. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1738498411,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anna Valentino",
+        "author_photo": "/images/reviews/d-i-m-color-sagl-muzzano/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich empfand dieses Unternehmen als sehr professionell und zuvorkommend; das Preis-Leistungs-Verhältnis war gut.",
+        "time": 1624619747,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Umberto Castaniere",
+        "author_photo": "/images/reviews/d-i-m-color-sagl-muzzano/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600443640,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Angelo Piccolo",
+        "author_photo": "/images/reviews/d-i-m-color-sagl-muzzano/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600337021,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

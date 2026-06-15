@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1SyOdSDKhEcRXI9-KtNFH68",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Joe Probst",
+        "author_photo": "/images/reviews/luzi-baukeramik-ag-malans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Luzi Baukeramik AG - Die TOP Adresse in Graubünden für Plattenbeläge. Riesiges Angebot, persönliche und kompetente Beratung, schöne Ausstellung, erstklassige Lage, nette und freundliche Mitarbeiter.\nBeliefert Kunden (auf Wunsch) in der ganzen Welt.",
+        "time": 1538144400,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Silvio Cipriani",
+        "author_photo": "/images/reviews/luzi-baukeramik-ag-malans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Team, kompetente Beratung. Preis Leistung genial.\nNur empfehlenswert 👍👍",
+        "time": 1673634774,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ingo Schlösser",
+        "author_photo": "/images/reviews/luzi-baukeramik-ag-malans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top. Herr Luzi persönlich begrüsst seine Kunden und ist auch ausserhalb der Öffnungszeiten für Sie da. Äussert sympatisch und sehr zuvorkommend. Das Angebot ist riesig. Vielen herzlichen Dank.",
+        "time": 1536733264,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marco Kessler",
+        "author_photo": "/images/reviews/luzi-baukeramik-ag-malans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundlich, kompetent, super Produkte, gerne wieder.",
+        "time": 1612087482,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roman Ludwig",
+        "author_photo": "/images/reviews/luzi-baukeramik-ag-malans/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich empfangen und sehr gute Beratung",
+        "time": 1575025210,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJQ85NYhzxmkcRjD0qCLXlvcY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "rene rusch",
+        "author_photo": "/images/reviews/lang-werner-weinfelden/reviewer_1.jpg",
+        "rating": 1,
+        "text": "eine Fenster Reparatur wie sie keiner haben will… mega schlecht und weit weg von professionalität\nnach zwei Reparaturen wurde einfach der Fensterflügel verschraubt",
+        "time": 1761592490,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Denise Zimmerli",
+        "author_photo": "/images/reviews/lang-werner-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin rundum zufrieden! Der Techniker war top – professionell, freundlich, schnell und äußerst kompetent. Er hat sich zeitnah zurückgemeldet, die Reparatur zügig und sauber ausgeführt und dabei stets einen sehr angenehmen Eindruck hinterlassen.\n\nBesonders hervorzuheben ist die unkomplizierte und effiziente Abwicklung: Es war kein zusätzlicher Besichtigungstermin nötig, sondern die Reparatur wurde direkt beim ersten Termin fachgerecht erledigt ohne unnötige Verzögerungen oder versteckte Kosten. Genau so wünscht man sich einen Handwerker!\n\nAbsolut empfehlenswert – ein Techniker, wie man ihn sich nur wünschen kann. Vielen Dank!",
+        "time": 1751356324,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Renate Sutter",
+        "author_photo": "/images/reviews/lang-werner-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Katzentüre machen lassen. Super Service, kompetent, schnell und zuverlässig! Sehr fairer Preis👍🏽\nSehr zu empfehlen👍🏽",
+        "time": 1683820550,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Carmen Strobel",
+        "author_photo": "/images/reviews/lang-werner-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben Herr Lang als sehr zuverlässigen, flinken und professionellen Fensterbauer ( Ein/-Ausbau einer Katzenklappe)kennengelernt. Absolut zu empfehlen!",
+        "time": 1675530479,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simon Emmenegger",
+        "author_photo": "/images/reviews/lang-werner-weinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Katzentor machen lassen: einfache Abwicklung Auftrag, symphatisch, relativ schnell\nsogar freiwillig und ohne Aufpreis feinjustierung Schiebetüre",
+        "time": 1600250907,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

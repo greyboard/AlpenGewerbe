@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2cEzyuE4jkcRWnBtbBzbDE8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 44,
+    "reviews": [
+      {
+        "author_name": "Raphaël Karlen",
+        "author_photo": "/images/reviews/wirz-ag-bauunternehmung-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Berner Bauunternehmer 👌👍",
+        "time": 1756282103,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Markus Meyer",
+        "author_photo": "/images/reviews/wirz-ag-bauunternehmung-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von Reparaturen und kleinen Objekten bis zu prominenten Bauten (Bahnhof Bern, Nationalbank, Casino) und Spezialarbeiten erfüllt Wirz auch höchst anspruchsvolle Aufgaben mit grösstem Einsatz und höchster Motivation.",
+        "time": 1703573588,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Luc Krippendorf",
+        "author_photo": "/images/reviews/wirz-ag-bauunternehmung-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bestes Unternehmen in der Schweiz 🇨🇭\nTop Professionell\nSehr kompetent\nZuverlässig\nSchnell\nMitarbeiter supporten Dich mit vollem Einsatz\nSehr empfehlenswert!\nBRAVO\nWeiter so",
+        "time": 1676744278,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Eduard Schmid",
+        "author_photo": "/images/reviews/wirz-ag-bauunternehmung-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Moderne einfach zu bedienende Internetseite - man findet alles in kurzer Zeit",
+        "time": 1690539924,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Noel Leuenberger",
+        "author_photo": "/images/reviews/wirz-ag-bauunternehmung-bern/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Eine sehr inkompetente Firma!!!!!!\nKeine weiter Empfehlung!!!!",
+        "time": 1727788851,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

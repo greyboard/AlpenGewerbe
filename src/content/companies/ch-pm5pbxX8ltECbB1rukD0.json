@@ -26,5 +26,64 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJowaSUz4KkEcRWmg1JAqPLzo",
+  "google_fetched": true,
+  "description": "Lokal mit gutbürgerlicher Küche und Bar in einem urbanen Garten mit beheizten Zelten im Winter.",
+  "openingHours": [
+    "Montag: 11:00–23:00 Uhr",
+    "Dienstag: 11:00–23:00 Uhr",
+    "Mittwoch: 11:00–23:00 Uhr",
+    "Donnerstag: 11:00–23:45 Uhr",
+    "Freitag: 11:00–23:45 Uhr",
+    "Samstag: 11:00–23:45 Uhr",
+    "Sonntag: 12:00–22:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 6935,
+    "reviews": [
+      {
+        "author_name": "Denise Wagner",
+        "author_photo": "/images/reviews/frau-gerolds-garten-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Toller Ort um was zu trinken und auch was zu essen.\nDer grosse Aussenbereich ist absolut Mega. Besonders wenn man Fotos machen möchte.\n\nRaclette, Fondü, Kaiserschmarrn und vieles mehr kann man im Aussenbereich kaufen, sowie Cocktails, Bier und andere Sachen.\n\nKlasse Location",
+        "time": 1767189215,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Lara K",
+        "author_photo": "/images/reviews/frau-gerolds-garten-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Fantastisch! Super gemütliche Atmosphäre. Hatten das klassische Käsefondue und es war mega lecker, ausreichend große Portion, Preis-Leistungs-Verhältnis super. Reservierung auch spontan noch möglich. Sehr netter und schneller Service, mussten gar nicht lange warten.",
+        "time": 1766421717,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Kevin Michel Kayser",
+        "author_photo": "/images/reviews/frau-gerolds-garten-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen gelungenen Abend: Das Essen, ein traditionelles Käsefondue, war ausgezeichnet. Das außergewöhnliche Ambiente und der zuvorkommende Service haben den Abend abgerundet. Nur zu empfehlen.",
+        "time": 1766995171,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Jan-Sven Berse",
+        "author_photo": "/images/reviews/frau-gerolds-garten-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgefallene und sehr angenehme Outdoor & überdachte Location in der Züricher City . Viele Sitzecken auf verschiedenen Ebenen und Räumen.",
+        "time": 1763233803,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "S. Sell",
+        "author_photo": "/images/reviews/frau-gerolds-garten-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super tolles Ambiente ein wahres Highlight in Zürich von außen nicht zu erkennen. Mein neuer Lieblingsplatz. Freue mich schon das nächste Mal wenn ich in Zürich bin wieder hierher zu kommen. Eine grüne Oase im Herzen der Stadt.",
+        "time": 1746169509,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

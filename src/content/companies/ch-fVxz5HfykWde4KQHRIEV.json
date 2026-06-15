@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ90C4qEBvkEcRqFkDDOlPB1Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "t schaerff",
+        "author_photo": "/images/reviews/lnpe-elektro-gmbh-elektroinstallationsgeschaeft-rekingen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Leider wurden bei unserem Neubauprojekt keine Thermostate in den Nasszellen installiert, welches gemäss des Elektrokontrolleurs gegen die gesetzliche Vorgabe der Einzelraumregelung verstößt. LNPE hat erst nach einer Kommunikationskette von 35 E Mails der Behebung des Mangels zugestimmt. Als dann der Termin zur Mangelbehebung nach 8 Wochen nicht zustande gekommen ist, habe ich nach erneute Nachfrage erfahren, dass der Mitarbeiter gekündigt hat und dass die schriftliche Absprache zur Mangelbehebung ungültig ist.\nSo ist leider keine Zusammenarbeit möglich.",
+        "time": 1732031632,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "A.J",
+        "author_photo": "/images/reviews/lnpe-elektro-gmbh-elektroinstallationsgeschaeft-rekingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Für unser Eigenheim haben wir LNPE für die Elektroinstallation beauftragt. Es ist unglaublich heutzutage noch eine Firma zu finden die mit so viel Engagement und Zuverlässigkeit Ihren Job erledigt. Wir waren super zufrieden und können LNPE nur wärmstens weiterempfehlen!",
+        "time": 1645117073,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Arne Hellerung",
+        "author_photo": "/images/reviews/lnpe-elektro-gmbh-elektroinstallationsgeschaeft-rekingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service! War mit den Arbeiten von LNPE sehr zufrieden. Alle Montagen wurden wie vereinbart umgesetzt. Ich kann die Firma somit nur weiterempfehlen!!",
+        "time": 1614845902,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Pascal Prezzo",
+        "author_photo": "/images/reviews/lnpe-elektro-gmbh-elektroinstallationsgeschaeft-rekingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Habe die Firma lnpe angestellt für eine komplette Gebäude kern Sanierung.\n\nDie Arbeiten wurden perfekt ausgeführt Probleme wurden sauber gelöst und gemeldet die Kommunikation war sehr gut mit den Monteuren und dem Chef saubere Firma so muss es sein",
+        "time": 1645609303,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Muharemi Ridvan",
+        "author_photo": "/images/reviews/lnpe-elektro-gmbh-elektroinstallationsgeschaeft-rekingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "sehr saubere und präzise Arbeit",
+        "time": 1763855650,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

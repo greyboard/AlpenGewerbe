@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGdx8m6O5kUcRt7DzXBu8RMg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Véronique Specht",
+        "author_photo": "/images/reviews/glaserei-regio-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit der erbrachten Leistung bin ich sehr zufrieden.\nDas Team war gut eingespielt und arbeitete äußerst zuverlässig. Die Bearbeitung meines Auftrags erfolgte rasch und wurde prompt sowie professionell ausgeführt.\nBesonders hervorzuheben sind auch die fairen Preise, die in einem sehr guten Verhältnis zur gebotenen Qualität stehen. Diese Firma werde ich bei Bedarf jederzeit wieder beauftragen und kann sie uneingeschränkt weiterempfehlen!",
+        "time": 1753449547,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Tefik Dermaku",
+        "author_photo": "/images/reviews/glaserei-regio-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr Gute Arbeit und sehr zuverlässig.",
+        "time": 1723813014,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "claudius röthlisberger",
+        "author_photo": "/images/reviews/glaserei-regio-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "schnell und freundlich. spart euch obi und jumbo...",
+        "time": 1610569546,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Besnik Pajaziti",
+        "author_photo": "/images/reviews/glaserei-regio-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1645514699,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Matrix Marketing",
+        "author_photo": "/images/reviews/glaserei-regio-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1758896383,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

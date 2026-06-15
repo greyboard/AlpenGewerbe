@@ -26,5 +26,54 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJLapBXVr7j0cRFs-ukXPbMzc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Werner Schaefer",
+        "author_photo": "/images/reviews/zimmermann-lang-arthur-luzern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Hat keinen Kostenvoranschlag erstellt.\nReagiert auf Rückfragen unwirsch.\nStundensatz für Reparaturen = CHF 120.- / Std.",
+        "time": 1507200991,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Stephan zemp",
+        "author_photo": "/images/reviews/zimmermann-lang-arthur-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778688819,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Markus Z.",
+        "author_photo": "/images/reviews/zimmermann-lang-arthur-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1734771016,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Josefina Huser",
+        "author_photo": "/images/reviews/zimmermann-lang-arthur-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1644495913,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Kathrin Antifakos",
+        "author_photo": "/images/reviews/zimmermann-lang-arthur-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1578998017,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

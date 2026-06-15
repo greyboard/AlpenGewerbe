@@ -25,5 +25,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT1W1poI6m0cRFwh13efgxRE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Martin Nipp",
+        "author_photo": "/images/reviews/franz-hasler-ag-bendern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Betrieb, Fach- und Termingerecht",
+        "time": 1739800442,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Renatus Kühne",
+        "author_photo": "/images/reviews/franz-hasler-ag-bendern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Qualitätsfirma mit Fachlich Top Mitarbeitern",
+        "time": 1739801829,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriel Iovan",
+        "author_photo": "/images/reviews/franz-hasler-ag-bendern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super",
+        "time": 1777483175,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "S M",
+        "author_photo": "/images/reviews/franz-hasler-ag-bendern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1779973249,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Jack Sparrow",
+        "author_photo": "/images/reviews/franz-hasler-ag-bendern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778522440,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

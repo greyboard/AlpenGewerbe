@@ -26,5 +26,30 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2xIbZpI5jkcRFJU_7nKjs-Q",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 1,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Edwin Harison",
+        "author_photo": "/images/reviews/jost-stettler-metallbau-ag-bern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1653922406,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Swiss Bianco",
+        "author_photo": "/images/reviews/jost-stettler-metallbau-ag-bern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1539580867,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

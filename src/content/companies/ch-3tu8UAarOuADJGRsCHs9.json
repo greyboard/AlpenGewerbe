@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJQcVH4A1YhUcRDntDeU6k9_8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Dieter „DL“ Lang",
+        "author_photo": "/images/reviews/krea-connect-gmbh-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein grosser Rollanden mit gebrochenem Getriebe wurde perfekt repariert. Es war keine einfache Arbeit und erforderte handwerkliches Können. Tip top 👍",
+        "time": 1769332111,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Verena Murer-Waser",
+        "author_photo": "/images/reviews/krea-connect-gmbh-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Y-Connect hat unser Anliegen, montieren von Zip Markisen outdoor und Plisse indoor kompetent, unkompliziert, zuverlässig offeriert und umgesetzt. Ausführende Mitarbeiter sehr kompetent, ruhige Arbeitsweise und sehr sympathisch. Preis Leistung ist top. Wir sind total begeistert. Gerne wieder bei Bedarf. Wir können Y-Connect mit absolut ruhigem Gewissen weiteremphelen.",
+        "time": 1711567776,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Bruno Pfyl",
+        "author_photo": "/images/reviews/krea-connect-gmbh-dallenwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "**Hervorragender Service und erstklassige Qualität!**\nDie Wintergarten-Verglasungsfirma Y-connect bietet professionellen Service von Anfang bis Ende. Die Beratung war exzellent, die Installation reibungslos und das Endergebnis übertrifft alle Erwartungen. Absolut empfehlenswert!\n\nBruno Pfyl\nPfyl Immobilien AG",
+        "time": 1709904483,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Atko Softic",
+        "author_photo": "/images/reviews/krea-connect-gmbh-dallenwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Es wird sehr präzise auf den Kundenwunsch eingegangen. Die Arbeiten werden mit Herzblut und höchster Sorgfalt ausgeführt.\nIch bin mit der Arbeit nicht nur zufrieden, sondern meine Erwartungen wurden übertroffen.\nWärmstens zu empfehlen.\n\nVielen Dank an Y-Connect",
+        "time": 1647883894,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "hansueli lehmann",
+        "author_photo": "/images/reviews/krea-connect-gmbh-dallenwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einfach nur Bravo für die geleistete Arbeit. Gerne immer wieder.\nH.Lehmann\nKriens",
+        "time": 1741855192,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

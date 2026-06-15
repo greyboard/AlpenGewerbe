@@ -1,7 +1,7 @@
 {
   "id": "ch-EiOh4iAZRI4PYpswgHfl",
   "slug": "installer-michel-weber-solothurn",
-  "name": "Installer Michel & Weber",
+  "name": "Michel & Weber AG",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJBfjknR0ojkcRFRwDe2s86A4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "La Palombara Michele",
+        "author_photo": "/images/reviews/installer-michel-weber-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir konnten unsere Elektrospicher durch eine wärmepumpe ersetzen! Ganz freundliches Mitarbeiter! Der Samuel war der Maximum mit seinem genau  und sauber arbeit ich bin sehr zufrieden! Ich empfehlen diese seriösen Firma Michel und Weber .👍 Viele Danke.",
+        "time": 1763904895,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Marco Hirter",
+        "author_photo": "/images/reviews/installer-michel-weber-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben eine komplette Haussanierung mit dieser Firma ausgeführt. Wir waren sehr zufrieden. Weber Philipp als Ansprechpartner war stets bemüht, dass alles schnell vorankommt und sauber durchdacht ist. Er war telefonisch stets für Rückfrageb verfügbar. Super Mitarbeiter, welche über tiefes Fachwissen verfügen. Vielen Dank für die tolle Ausführung unseres Traumprojektes!",
+        "time": 1615299027,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gabriela Sachs",
+        "author_photo": "/images/reviews/installer-michel-weber-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eine wirklich sympathische Firma mit tollen Mitarbeitern. Sie machen saubere Arbeit und sind sehr flexibel und immer zur Stelle wenn man sie braucht. Wir waren schon verzweifelt, da wir bisher nur schlechte Erfahrungen mit Sanitär/Heizungsfirmen gemacht haben und sind nun sehr glücklich, an Michel & Weber geraten zu sein. Unser ansprechpartner Michael Rauber, sowie auch der Servicemonteur William Emms und alle Mitarbeiter welche an unserem Badumbau beteiligt waren, waren immer sehr Lösungsorientiert unterwegs und haben einfach eine tolle Arbeit abgeliefert.",
+        "time": 1754636185,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "White Stone Design",
+        "author_photo": "/images/reviews/installer-michel-weber-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir konnten unsere Ölheizung durch eine Wärmepumpe austauschen und im Keller den alten Boiler durch einen Ökoboiler erstetzen! Top Beratung und freundliches Personal! Profis durch und durch! Wir empfehlen Michel und Weber sehr!",
+        "time": 1757499751,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Manny K",
+        "author_photo": "/images/reviews/installer-michel-weber-solothurn/reviewer_5.jpg",
+        "rating": 2,
+        "text": "Saubere und rasche Arbeit - leider viel zu teuer. Für die Revision des Küchenmischer (Brause und Schlauch) erhielten wir eine Rechnung von CHF 367.75. Gem. Rapport 1.5h Arbeitszeit und Weg (wir wohnen praktisch am selben Ort). Der Mitarbeiter war insgesammt ca. 15min bei uns.",
+        "time": 1510570172,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

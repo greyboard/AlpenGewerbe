@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ81kOQctqjkcRpp7-HfyFtFQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "John",
+        "author_photo": "/images/reviews/fritz-zimmermann-ag-laupen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Überhaupt nicht kompetent.",
+        "time": 1771764063,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Boris Adam",
+        "author_photo": "/images/reviews/fritz-zimmermann-ag-laupen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein ganz grosses Lob an Herr Krasniqi, sehr Höflich, Freundlich, Professionell und ein Vorzeigebild der Firma",
+        "time": 1605475273,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gertrud Stoller",
+        "author_photo": "/images/reviews/fritz-zimmermann-ag-laupen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1592917101,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Eduardo Eberle",
+        "author_photo": "/images/reviews/fritz-zimmermann-ag-laupen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709216457,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandra Raemy",
+        "author_photo": "/images/reviews/fritz-zimmermann-ag-laupen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1633596183,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,22 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0RIxBmB_kEcRHnblD-5GhDA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Monika Zioui",
+        "author_photo": "/images/reviews/grossmann-brauchli-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine super Firma",
+        "time": 1564146635,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

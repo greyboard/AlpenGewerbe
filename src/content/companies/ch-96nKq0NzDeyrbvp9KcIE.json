@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJheikQixKhUcRkcQ0yOjR43g",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Philipp Holdener",
+        "author_photo": "/images/reviews/elektro-reichmuth-ag-oberiberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein kompetenter Partner für alle Elektroarbeiten! Wir können Elektro Reichmuth nur weiter empfehlen.",
+        "time": 1687597764,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Faessler Dani",
+        "author_photo": "/images/reviews/elektro-reichmuth-ag-oberiberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service, schnell und zuverlässig",
+        "time": 1548408584,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marco Iten",
+        "author_photo": "/images/reviews/elektro-reichmuth-ag-oberiberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1644820265,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lydia Ott",
+        "author_photo": "/images/reviews/elektro-reichmuth-ag-oberiberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642777167,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Severin Fässler",
+        "author_photo": "/images/reviews/elektro-reichmuth-ag-oberiberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1554362033,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

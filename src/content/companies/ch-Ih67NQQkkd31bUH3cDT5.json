@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2cEzyuE4jkcRwm7aePy24CE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "j gg",
+        "author_photo": "/images/reviews/wirz-holzbau-ag-bern/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Planung und Organisation der Wirz Schreinerei haben mich enttäuscht.",
+        "time": 1768393066,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Mario Folly",
+        "author_photo": "/images/reviews/wirz-holzbau-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Adresse für Qualität, Leistung und professionelle Ausführungen!\nKann man nur weiiter Empfehlen.",
+        "time": 1690532367,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Cornelia Aebischer",
+        "author_photo": "/images/reviews/wirz-holzbau-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, zuverlässig, hoher Qualitätsstandart, termingerechte Ausführung, hohe Flexibilität der Mitarbeiter auf der Baustelle",
+        "time": 1690541801,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patric klaas",
+        "author_photo": "/images/reviews/wirz-holzbau-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Firma. Kann man nur empfehlen.",
+        "time": 1667069385,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Iwan Schertenleib",
+        "author_photo": "/images/reviews/wirz-holzbau-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gutes Team...saubere Arbeit",
+        "time": 1711122802,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

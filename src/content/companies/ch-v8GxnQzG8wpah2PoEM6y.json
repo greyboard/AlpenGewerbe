@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJMRMQjIPchEcRqC5_gfSGrL8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Ulisses Spescha",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjX09KRgWq3nUomnz2fMMwRq9XpGGeZid4RxxStBTDeXAGeJAW2tWg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "text": "Sehr nett und hilfsbereit, auch für kleinere Arbeiten!",
+        "time": 1552906546,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Alex Scheidegger",
+        "author_photo": "/images/reviews/ragettli-metallbau-ag-flims/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775572532,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Mario Ackermann",
+        "author_photo": "/images/reviews/ragettli-metallbau-ag-flims/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1660733053,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ivo Caduff",
+        "author_photo": "/images/reviews/ragettli-metallbau-ag-flims/reviewer_4.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1495558336,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Ursina Chistell-Christoffel",
+        "author_photo": "/images/reviews/ragettli-metallbau-ag-flims/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1484497834,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

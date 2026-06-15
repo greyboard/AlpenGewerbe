@@ -1,7 +1,7 @@
 {
   "id": "ch-KuvYvaUcQ5u4oLpkHGOk",
   "slug": "sanigas-sarl-satigny",
-  "name": "SANIGAS SARL",
+  "name": "Sanigas Sarl",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,30 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJeW3R9il9jEcRQVa0dCYKURY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Marco Roberto",
+        "author_photo": "/images/reviews/sanigas-sarl-satigny/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionell.",
+        "time": 1520083841,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Laetitia Bocion",
+        "author_photo": "/images/reviews/sanigas-sarl-satigny/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich arbeite regelmäßig mit diesem Unternehmen zusammen und möchte die hohe Qualität ihrer Dienstleistungen hervorheben.\n\nIhre Reaktionsschnelligkeit und die Qualität ihrer Arbeit sind exzellent. Auch ihre zwischenmenschlichen Fähigkeiten schätze ich sehr. Die Kommunikation ist stets klar und konstruktiv, was die reibungslose Projektabwicklung erheblich erleichtert.\n\nInsgesamt sind sie ein zuverlässiger und angenehmer Partner, den ich uneingeschränkt empfehlen kann.",
+        "time": 1773910742,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

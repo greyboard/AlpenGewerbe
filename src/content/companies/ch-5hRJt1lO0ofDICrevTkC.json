@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJrW4fq10em0cR5WofLlFaYwU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Edith Brüesch",
+        "author_photo": "/images/reviews/martin-hanimann-ag-st-gallen/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Malerin hat Farben sehr gut gemischt. Richtiger Farbton. Ausbesserungen auf farbiger Wand sind nicht mehr sichtbar. Danke liebe Malerin",
+        "time": 1777967675,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Doris Frei Koller",
+        "author_photo": "/images/reviews/martin-hanimann-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekte Ausführung der Auftragsarbeiten. Zuverlässig, termingerecht, professionell, sauber, freundlich und angenehm. Martin Hanimann AG - jederzeit gerne wieder.",
+        "time": 1760602536,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Mario Bischofberger",
+        "author_photo": "/images/reviews/martin-hanimann-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Grösse = 7.5Zi-Wohnung (rund 210m2)\nAuftrag = alle Wände mit Lehmputz verputzen, Decken streichen, Naturofloor in Nasszellen\nBauherrschaft = Architekt\nZufriedenheit = 100%\nTermintreue = Perfekt. Ausführung wie besprochen.\nWir sind rundum sehr zufrieden und wir fühlten uns zu jeder Zeit sehr gut beraten und unterstützt. Immer wieder gerne!",
+        "time": 1752667183,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "rainer zander",
+        "author_photo": "/images/reviews/martin-hanimann-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden zu unserer vollen Zufriedenheit ausgeführt.\nVielen Dank!",
+        "time": 1768840060,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Roland Welte",
+        "author_photo": "/images/reviews/martin-hanimann-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einfache Auftragserteilung und kompetente Ausführung",
+        "time": 1761063163,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

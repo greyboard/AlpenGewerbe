@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF66ckVbaj0cRH6BIoVZ0wbY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Cornelia Cavegn",
+        "author_photo": "/images/reviews/christen-ag-spenglerei-bedachungen-holzbau-hofstatt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr sehr gut, super geleistete Arbeit, in der Region das billigste Geschäft. ♥️",
+        "time": 1528370917,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Toni Portmann",
+        "author_photo": "/images/reviews/christen-ag-spenglerei-bedachungen-holzbau-hofstatt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles Supper gut.",
+        "time": 1698867124,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ivan Imbach",
+        "author_photo": "/images/reviews/christen-ag-spenglerei-bedachungen-holzbau-hofstatt/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1747072311,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Franz Wechsler",
+        "author_photo": "/images/reviews/christen-ag-spenglerei-bedachungen-holzbau-hofstatt/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699471671,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nabi Azizi",
+        "author_photo": "/images/reviews/christen-ag-spenglerei-bedachungen-holzbau-hofstatt/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1668103449,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJAyAe7MHHkUcRfZ9E-N1G_CA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "antonio capilla",
+        "author_photo": "/images/reviews/schreinerei-wenger-ag-moebel-innenausbau-fenster-tueren-kueche-bad-fuer-basel-baselland-reinach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr prompte kompetente, vor Ort ausgeführte Arbeit.\nPünktlich, freundlich und  symphatische Person.\nHerr Sp. ist sehr zum weiterempfehlen.\nHerzlichen Dank  Jeannette C",
+        "time": 1650530737,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Barbara Meier",
+        "author_photo": "/images/reviews/schreinerei-wenger-ag-moebel-innenausbau-fenster-tueren-kueche-bad-fuer-basel-baselland-reinach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kreative Schreinerei die qualitativ hochstehende Arbeit leistet! Unkompliziert und persönlich: MERCI",
+        "time": 1516896695,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "marianna probst",
+        "author_photo": "/images/reviews/schreinerei-wenger-ag-moebel-innenausbau-fenster-tueren-kueche-bad-fuer-basel-baselland-reinach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "War guter Service.",
+        "time": 1645042077,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Brigitte Valente",
+        "author_photo": "/images/reviews/schreinerei-wenger-ag-moebel-innenausbau-fenster-tueren-kueche-bad-fuer-basel-baselland-reinach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alles tiptop",
+        "time": 1698335524,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Caspar Bader",
+        "author_photo": "/images/reviews/schreinerei-wenger-ag-moebel-innenausbau-fenster-tueren-kueche-bad-fuer-basel-baselland-reinach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1633427696,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

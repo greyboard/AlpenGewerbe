@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCx2uoOnHkUcRSiGamZ2y5y8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "P. Blattner",
+        "author_photo": "/images/reviews/rooftech-ag-reinach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nachdem wir vor vielen Jahren ein neues Flachdach erhiehlten, musste jetzt unser Firmenlogo montiert werden. Kundenorientiert und professionell ausgeführt. Jederzeit wieder.",
+        "time": 1664786162,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ante Sam",
+        "author_photo": "/images/reviews/rooftech-ag-reinach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sanierung 60-jähriges Flachdach mit Top Resulat. Grandiose Dämmleistung!",
+        "time": 1643901515,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "E E (E.E)",
+        "author_photo": "/images/reviews/rooftech-ag-reinach/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Der Fahrer von BL137187 war sehr frech und unanständig. Er hat offenbar noch nie etwas von Respekt gehört.\nIch frage mich, wie die Firma mit solchen Mitarbeitern umgeht.",
+        "time": 1776924141,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Stefan Meili",
+        "author_photo": "/images/reviews/rooftech-ag-reinach/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1707428266,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Didier Bran",
+        "author_photo": "/images/reviews/rooftech-ag-reinach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1702749995,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

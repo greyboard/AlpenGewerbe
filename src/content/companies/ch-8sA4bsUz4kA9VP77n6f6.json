@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBapu12DgmkcRRDhD_C6eESs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "23 BnZ1291",
+        "author_photo": "/images/reviews/k-k-fassaden-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung Lösungen für jedes projekt",
+        "time": 1613023272,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Zoran Smiljkovic",
+        "author_photo": "/images/reviews/k-k-fassaden-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664629604,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Celine Balis",
+        "author_photo": "/images/reviews/k-k-fassaden-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656157006,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Joachim Merkel",
+        "author_photo": "/images/reviews/k-k-fassaden-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1574331486,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "space jam91",
+        "author_photo": "/images/reviews/k-k-fassaden-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1562750917,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

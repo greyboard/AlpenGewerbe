@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJn3DPlAA5jkcRCHnT1zB7NFQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 09:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 09:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Robert Strotz",
+        "author_photo": "/images/reviews/maurer-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind von der Beratung und den kompetenten Auskünften, immer wieder begeistert.\nWenn man aus dem Ausland schreibt,wird wenn immer Möglich geholfen.\nDie Hotels und Reiseziele kennen sie Beide und so sind die Auskünfte immer gut und stimmen auch.\nWir können dieses Reisebüro nur empfehlen.",
+        "time": 1743092163,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manuela Iacobacci",
+        "author_photo": "/images/reviews/maurer-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich und meine Mam,  haben eine Reise nach Tansania und Sansibar gebucht.Gabi und Marco haben  uns die  Reise zusammengestellt. Es war einfach ein Traum. Die Tierwelt der Wahnsinn atemberaubend, dass muss man erleben. Lodges, Hotel, Driver Guide Alles perfekt. Ein herzliches Dankeschön den Beiden. Wir kommen wieder .....",
+        "time": 1742995347,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jacqueline Berger",
+        "author_photo": "/images/reviews/maurer-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Nach langer Zeit sind wir wieder mal mit dem Flieger in die Ferien, Reisen ab Belp ist einfach einmalig und es hat alles wunderbar geklappt. Die Beratung vor der Reise war perfekt und wir buchen gerne immer wieder bei Maurer Travel. Jacqueline & Ueli",
+        "time": 1758891934,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Beat Basler",
+        "author_photo": "/images/reviews/maurer-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank, es hat alles geklappt, der Flug, die Hotels, wir haben Thailand sehr genossen.",
+        "time": 1746102173,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Graf",
+        "author_photo": "/images/reviews/maurer-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir buchen unserer Ferien schon seit vielen Jahren beim Team von Maurer Travel.\nDas Team ist immer sehr freundlich, kundenorientiert und kompetent.\nDie Umsetzung lässt keine Wünsche übrig, und sollte es mal Probleme geben, werden sie umgehend gelöst. Immer wieder gerne !",
+        "time": 1745519718,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

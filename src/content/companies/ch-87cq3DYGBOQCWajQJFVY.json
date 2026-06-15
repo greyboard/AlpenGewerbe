@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP8h6zntDhUcRg2U3G5KY_gc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jan Hinterschuster",
+        "author_photo": "/images/reviews/triulzi-natursteine-gmbh-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575481487,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Nadja Kessler",
+        "author_photo": "/images/reviews/triulzi-natursteine-gmbh-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1564166958,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tino Lindauer",
+        "author_photo": "/images/reviews/triulzi-natursteine-gmbh-altdorf/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1552927854,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Bruno Ribeiro",
+        "author_photo": "/images/reviews/triulzi-natursteine-gmbh-altdorf/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1551112879,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

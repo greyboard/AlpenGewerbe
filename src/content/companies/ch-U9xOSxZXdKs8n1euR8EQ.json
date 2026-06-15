@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJFT17adKjmkcRpSPnt_qN0NE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Max Hu",
+        "author_photo": "/images/reviews/set-glasbau-ag-volketswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tip Top Service, Glas auf Mass bestellt hat auch auf den mm gepasst , abholen konnte ich das Glas bereits 2 Tage vor den angegebenen Termin, Mitarbeiter sehr nett und hilfsbereit 👍🏼 gerne wieder",
+        "time": 1771421635,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Fredy Christen",
+        "author_photo": "/images/reviews/set-glasbau-ag-volketswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schneller unkomplizierter und kompetenter Wartungsservice meiner 20 jährigen Duschkabine. Der Servicemonteur hat perfekte Arbeit geleistet. Danke.",
+        "time": 1728114520,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc Schindler",
+        "author_photo": "/images/reviews/set-glasbau-ag-volketswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die freundliche und schnelle Dienstleistung!!\nIch kann SET Glasbau AG jederzeit weiterempfehlen.\nSonnige Grüsse\nM. Schindler",
+        "time": 1720533575,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andi Gäfi",
+        "author_photo": "/images/reviews/set-glasbau-ag-volketswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service, saubere Arbeit, faire Preise.\nDie Mitarbeiter helfen auch wenn nötig bei einem Express-\nauftrag.",
+        "time": 1720642079,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "peter niederbacher",
+        "author_photo": "/images/reviews/set-glasbau-ag-volketswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top! Sehr hilfsbereite,  motivierte und kundenorientierte Mitarbeitende,  prompter Service und sehr faire Preise aussergewöhnlich gute Kommunikation!",
+        "time": 1624523302,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

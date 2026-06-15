@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpWSoCdISkEcRC-w7h5JM7B0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Martin Streicher-Porte",
+        "author_photo": "/images/reviews/wagner-bedachungen-und-fassadenbau-ag-wettingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Lieber Stephan, lieber Driton, liebes Wagner Team\n\nIhr und Eure Mitarbeiter und haben ganze Arbeit geleistet. Es war sehr angenehm mit Euch das Projekt energetische Dachsanierung durchzuführen und in sehr kurzer Periode abzuschliessen. Auch die Zuarbeiten von Sanitär Huser waren ideal.\n\nDer Dachstock ist super geworden, wir schlafen dort schon und es ist warm genug, auch die letzten Tage kein Problem (-12 Grad draussen), trotz der grösseren Fläche.\n\nDank Euer Arbeiten konnten wir das Innenleben deutlich aufwerten, und haben nun wieder alle Platz!!\n\nVielen Dank! Wir empfehlen Euch weiter!\nMartin, Rieden AG",
+        "time": 1701671305,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Hans Keller",
+        "author_photo": "/images/reviews/wagner-bedachungen-und-fassadenbau-ag-wettingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Wagner wurde uns sehr empfohlen. Wir sind sehr froh, haben wir uns für diesen Betrieb entschieden. Schon der erste Kontakt mit Herrn Guggerli hat uns überzeugt. Die Kompetenz und Freundlichkeit und auch die Pünktlichkeit waren vorbildlich. Die Ausführung der Arbeiten zusammen mit dem Team von Herrn Guggerli waren sehr professionell. Auf alle Fragen hat uns Herr Guggerli eine klare und kompetente Antwort gegeben. Das schafft Vertrauen und wir werden diese Firma sehr gerne auch weiter empfehlen.",
+        "time": 1679566749,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Berty Gloor",
+        "author_photo": "/images/reviews/wagner-bedachungen-und-fassadenbau-ag-wettingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden mit den gemachten Arbeiten und den freundlichen, hilfsbereiten Handwerker!\nIch kann die Wagner Bedachungen wärmstens empfehlen!",
+        "time": 1772964961,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Walter Wuethrich",
+        "author_photo": "/images/reviews/wagner-bedachungen-und-fassadenbau-ag-wettingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das Team von Wagner hat auf unserem Dach die Photovoltaik Module für eine neue PV-Anlage (E3/DC S10E Hauskraftwerk) montiert. Ausserdem haben sie die bestehende Solarthermie-Anlage (Kollektor) erneuert. Sie haben einfach nur tolle Arbeit geleistet und ausserdem für uns sogar auch andere Unternehmer organisiert, deren Lieferungen im Gesamtprojekt ausstehend waren. Super Leistung!",
+        "time": 1657633877,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Erika Murmann",
+        "author_photo": "/images/reviews/wagner-bedachungen-und-fassadenbau-ag-wettingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Wagner Bedachungen, Wettingen nur empfehlen. Sie ist unkompliziert, speditiv, schnell, kompetent und die Mitarbeitenden sehr freundlich.👍",
+        "time": 1779086755,
+        "relative_time_description": "vor 4 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

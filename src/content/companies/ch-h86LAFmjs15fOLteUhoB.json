@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJDf4LCtIem0cRS1pJjYeRizc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Severin Amrein",
+        "author_photo": "/images/reviews/goldinger-ag-wittenbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit der Firma Goldinger in Wittenbach arbeite ich nun schon seit vielen Jahren zusammen und bin nach wie vor rundum zufrieden. Die Zusammenarbeit ist stets professionell, zuverlässig, menschlich und von gegenseitigem Vertrauen geprägt. Absolut empfehlenswert!",
+        "time": 1762317932,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Rolf Markus Baumann",
+        "author_photo": "/images/reviews/goldinger-ag-wittenbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wenn Herr H.S. schon nicht antwortet helfe ich Ihnen wieder den Schnitt zu heben. Denn mir macht die Firma keinen negativen Eindruck. im Gegenteil.\n\nMfg RMB",
+        "time": 1612947935,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Astrid Fohler",
+        "author_photo": "/images/reviews/goldinger-ag-wittenbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Qualität und ein kompetentes Team. Herzlichen DANK",
+        "time": 1697639679,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Willi",
+        "author_photo": "/images/reviews/goldinger-ag-wittenbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung, wunderschöne Wohnraumlösungen.",
+        "time": 1679716955,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Cristian Spedicato",
+        "author_photo": "/images/reviews/goldinger-ag-wittenbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragend bei der Arbeit",
+        "time": 1509601755,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

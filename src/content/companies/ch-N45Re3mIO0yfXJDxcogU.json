@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJLdYUNl83jkcRtT4MVzHuv1c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Wüthrich Metzg",
+        "author_photo": "/images/reviews/tuescher-glas-metallbau-gmbh-ostermundigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir durften unseren Küchenrauch und die Wandverkleidung aus Chromstahl mit der Firma Tüscher erneuern. Von A bis Z einfach super, top Beratung, zuvorkommendes und kompetentes Team und natürlich top Ausführung. Wir können Patrick und sein Team wärmstens weiterempfehlen.",
+        "time": 1748622395,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Taras",
+        "author_photo": "/images/reviews/tuescher-glas-metallbau-gmbh-ostermundigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Planung bis zur Fertigstellung absolute Top-Arbeit! Die Firma beratet einem professionell, die Ideen sind sehr innovativ und gleichzeitig wird auf die Kundenwünsche eingegangen. Die Arbeiten werden speditiv erledigt und die Mitarbeitenden sind sehr freundlich und ordentlich! Auch Nacharbeiten werden seriös und innert kurzer Zeit erledigt. Preis/Leistung ist absolut in Ordnung! Wir können diese Firma nur weiter empfehlen. Wir haben riesig Freude an unserem verglasten Sitzplatz!",
+        "time": 1468152404,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Patrick Walther",
+        "author_photo": "/images/reviews/tuescher-glas-metallbau-gmbh-ostermundigen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Erfahrungen mit Tüscher Glas + Metallbau sind durchwegs positiv. Die gute und ehrliche Beratung wie auch das pragmatische Vorgehen sind weitere Pluspunkte. Ich kann diese Firma nur weiter empfehlen.",
+        "time": 1549872584,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marcel Huber",
+        "author_photo": "/images/reviews/tuescher-glas-metallbau-gmbh-ostermundigen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen. Top Kundenbetreuung durch Patrick Tüscher. Professionele Arbeiten, von der Planung bis zur Fertigstellung. Sehr kompetentes und freundliches Team.",
+        "time": 1613125483,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christoph Schaer",
+        "author_photo": "/images/reviews/tuescher-glas-metallbau-gmbh-ostermundigen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr sympathische und freundliche Beratung durch Patrick Tüscher. Einwandfreie Arbeitsausführung. Kann ich absolut weiterempfehlen.",
+        "time": 1528381302,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

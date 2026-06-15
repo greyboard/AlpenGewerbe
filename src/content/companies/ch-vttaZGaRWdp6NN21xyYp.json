@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJS-czP9oBhUcR1jZor_Ipqio",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Aaron Sciaroni",
+        "author_photo": "/images/reviews/sciaroni-carpenteria-sagl-torre-ti/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehen heißt glauben 😄😎",
+        "time": 1667307795,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gruppo Marconi MRC",
+        "author_photo": "/images/reviews/sciaroni-carpenteria-sagl-torre-ti/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert",
+        "time": 1655824215,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sacha Geninasca",
+        "author_photo": "/images/reviews/sciaroni-carpenteria-sagl-torre-ti/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1674472681,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mirco Ferrari",
+        "author_photo": "/images/reviews/sciaroni-carpenteria-sagl-torre-ti/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656343922,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

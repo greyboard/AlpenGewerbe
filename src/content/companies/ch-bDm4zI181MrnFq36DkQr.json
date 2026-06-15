@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTc9ap_3XkUcRAP7XPDO2lTU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Dominik Roth",
+        "author_photo": "/images/reviews/elektro-meyer-gmbh-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das erste Mal hatte ich 2021 Kontakt mit der Elektro Meyer GmbH. Das enorme Fachwissen im Bereich des Elektronik faszinierte mich von Beginn weg. Sowohl SPS als auch einfache Elektrikerarbeiten haben mich mit positiver Bewunderung zurückgelassen. Alles in allem nur zu empfehlen.",
+        "time": 1663273155,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manny K",
+        "author_photo": "/images/reviews/elektro-meyer-gmbh-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "professionelle Arbeit zu einem fairen Preis.",
+        "time": 1550439084,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Liam Carisch",
+        "author_photo": "/images/reviews/elektro-meyer-gmbh-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeiten wurden gemacht, ich bin sehr zufrieden👍",
+        "time": 1772746078,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sara Molfese",
+        "author_photo": "/images/reviews/elektro-meyer-gmbh-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1658939841,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "dario molfese",
+        "author_photo": "/images/reviews/elektro-meyer-gmbh-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597530459,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

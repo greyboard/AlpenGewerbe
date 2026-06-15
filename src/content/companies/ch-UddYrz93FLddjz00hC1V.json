@@ -26,5 +26,30 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJCQvQrIB8kEcRWqgjE4gg7JQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Fabienne Schuerch",
+        "author_photo": "/images/reviews/david-leu-baukeramik-neunkirch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "David und Jens haben uns 3 wunderschöne Badezimmer gezaubert. Sie haben stets mitgedacht und uns sehr gut beraten. Auch auf Spezialwünsche wurde eingegangen. Wir sind mit der Ausführung sehr zufrieden und empfehlen Leu Baukeramik gerne weiter.",
+        "time": 1737623727,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Koch",
+        "author_photo": "/images/reviews/david-leu-baukeramik-neunkirch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kleines Team , welches Ihr Handwerk versteht. Immer wieder gerne",
+        "time": 1710868906,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,46 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2WYDVVb7j0cRXGPWHM5npQs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Semira Brun",
+        "author_photo": "/images/reviews/eleganti-bauunternehmung-ag-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Jedem weiterzuempfehlen!",
+        "time": 1659168369,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Saymen Weber",
+        "author_photo": "/images/reviews/eleganti-bauunternehmung-ag-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1659135610,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Chris Herzog",
+        "author_photo": "/images/reviews/eleganti-bauunternehmung-ag-emmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1731930323,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nico Suter",
+        "author_photo": "/images/reviews/eleganti-bauunternehmung-ag-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675247953,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

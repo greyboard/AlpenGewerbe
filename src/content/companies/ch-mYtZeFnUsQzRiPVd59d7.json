@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJSzJ2biyAmkcRRa3ou96uELQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "MrsMarylong",
+        "author_photo": "/images/reviews/hesi-sanitaer-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Retter in der Not. Danke Fritz. Ich kann HESI sehr empfehlen.\nSchnell, freundlich und kompetent. TOP!",
+        "time": 1759206744,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Peter Werner",
+        "author_photo": "/images/reviews/hesi-sanitaer-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Im Notfall sofort Termin bekommen. Fachlich guter Sanitär, pünktlich, zuverlässig und freundlich 😉👍👍👍👍",
+        "time": 1756901171,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Klaus Burger",
+        "author_photo": "/images/reviews/hesi-sanitaer-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 2,
+        "text": "War mit dem Umbau meines Bades nicht zufrieden. Umbauzeit von zwei Wochen wurde bei Weitem nicht eingehalten.\nIm separaten innenliegenden WC, das wegen Schimmel neu gestrichen wurde, nach Aussage Fa HESI, wäre das Problem damit behoben, musste nach zwei Jahre eine neue Sanierung durchgeführt werden",
+        "time": 1696780255,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mel Halbauer",
+        "author_photo": "/images/reviews/hesi-sanitaer-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Trotz viel Arbeit sofort vorbei gekommen und Problem behoben 😌😌 Servicetechniker sehr freundlich 👍",
+        "time": 1671467073,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kris Apple",
+        "author_photo": "/images/reviews/hesi-sanitaer-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Einige Heizungsmonteure  verhalten sich so als wären sie gerade auf Knasturlaub.",
+        "time": 1674660116,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

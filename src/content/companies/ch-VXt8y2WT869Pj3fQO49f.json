@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJs0AmsS-AmkcRUjlPHXZBurw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "A. M. Shariff",
+        "author_photo": "/images/reviews/a-schneider-bedachungen-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Meine Meinung:\nNach einem Sturmschaden wurde die Firma von der Gebäudeversicherung empfohlen. Vor Ort bestätigten die Mitarbeitenden, dass der Schaden sturmbedingt sei. Die Reparatur wurde mit Kran durchgeführt, die Rechnung habe ich sofort bezahlt.\n\nTrotz mehrfacher Nachfrage erhielt ich bis heute keine schriftliche Bestätigung des Schadens – notwendig für die Versicherung. Stattdessen wurde nach Monaten plötzlich behauptet, der Schaden sei altersbedingt. Kommunikation und Kundenservice sind enttäuschend. Als erstes sollte man eine neue Sachberarbeiterin einstellen Frau M. E. kann auch nach 20 Telefonaten nicht ihre Aufgabe bzw. eine Anfrage erfülle.\nNicht empfehlenswert.",
+        "time": 1746474578,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Samoth Newcome",
+        "author_photo": "/images/reviews/a-schneider-bedachungen-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Nach Augenschein eines Wasserschadens in Gaube 3 Wochen nicht mehr gemeldet. Keine Rückmeldung nach auf Band gesprochene Nachricht! Bei erneutem Anruf kommt nur Band.",
+        "time": 1719906723,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marco Sterchi",
+        "author_photo": "/images/reviews/a-schneider-bedachungen-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Arbeite öfters mit der Firma zusammen, stets lösungsorientiert und kompetent sowie freundliche Abwicklung aller Anliegen kann ich empfehlen.",
+        "time": 1740646649,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lilian S",
+        "author_photo": "/images/reviews/a-schneider-bedachungen-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Nach Erhalt der Offerte Auftrag erteilt per E Mail und gefragt, wann Arbeiten etwa ausgeführt werden? - Aber einfach nichts mehr gehört.....merkwürdig...",
+        "time": 1727714692,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Karl Müller",
+        "author_photo": "/images/reviews/a-schneider-bedachungen-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schneller und gute Arbeit. Beste Beratung.",
+        "time": 1748934157,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

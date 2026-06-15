@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8zLSpgfHhEcRPQtN--kjETE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Marc Berger",
+        "author_photo": "/images/reviews/sanitaer-pluess-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolute Fachleute auf diesem Gebiet. Zuverlässig und speditiv. Für jedes Problem die richtige Lösung. Wir arbeiten schon viele Jahre zusammen und das kann gerne so weitergehen...",
+        "time": 1562610955,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marc Skywalker",
+        "author_photo": "/images/reviews/sanitaer-pluess-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schnelle Problemlösung und Umsetzung. Sehr Freundlich von A bis Z Herzlichen Dank!",
+        "time": 1699785990,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marion Plaz",
+        "author_photo": "/images/reviews/sanitaer-pluess-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hr.Michel ist ein sehr Freundlicher Arbeiter Gruss M. Plaz",
+        "time": 1618690050,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Oliver Hohl",
+        "author_photo": "/images/reviews/sanitaer-pluess-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762853160,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Mauros gratistaxi",
+        "author_photo": "/images/reviews/sanitaer-pluess-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679241508,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

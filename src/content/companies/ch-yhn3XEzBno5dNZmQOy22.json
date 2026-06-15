@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJgd2ha4r8j0cREHNkHcf998o",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Rene Stähli",
+        "author_photo": "/images/reviews/amrein-bau-ag-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für mich eines der besten Firma in der Schweiz .\n\nSehr gute mitarbeiter Top Chef Top Büro\n\nDanke für alles 🙏🏿",
+        "time": 1752692694,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Hannes Wettach",
+        "author_photo": "/images/reviews/amrein-bau-ag-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Crew, super Arbeit, immer turboturbo!",
+        "time": 1681047095,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Delfim Morim Neves",
+        "author_photo": "/images/reviews/amrein-bau-ag-emmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Amrein Sehr gut Firma  Personal ist gut 👍",
+        "time": 1703360689,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tim Bissig",
+        "author_photo": "/images/reviews/amrein-bau-ag-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Coole Firma",
+        "time": 1702999649,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Vasile Florian Mihes",
+        "author_photo": "/images/reviews/amrein-bau-ag-emmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine komplexe und flexibel Firma.Fhürung Personal sher amiabile.Tip top !",
+        "time": 1777954361,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

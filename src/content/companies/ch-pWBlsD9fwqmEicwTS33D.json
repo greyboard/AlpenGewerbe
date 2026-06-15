@@ -26,5 +26,39 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJn8KlSvpUhUcRcyMhKO-ZHhk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Gianna Garofalo",
+        "author_photo": "/images/reviews/andre-huerlimann-gmbh-oberwil-bei-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1646119120,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sarhere",
+        "author_photo": "/images/reviews/andre-huerlimann-gmbh-oberwil-bei-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1583513160,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJNSSvvuUVjkcR-3cotiuM8jM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Simon Schild",
+        "author_photo": "/images/reviews/fluehmann-bodenbelaege-gmbh-kerzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe Bereits mehrere Aufträge machen lassen. Preisleistung so wie auch die Arbeitsqualität ist TOP! Danke und kann ich gerne weiter Empfehlen.",
+        "time": 1676534623,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Maria Kipfer",
+        "author_photo": "/images/reviews/fluehmann-bodenbelaege-gmbh-kerzers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zeitnahe, einfühlsame, kreative und professionelle Ausführung! Herr Nyffeler hat uns in einer Notsituation geholfen: unser NEUER Parkettboden hätte kühl eingefärbt werden sollen - leider wurde aber eine falsche, warme Farbe verwendet, die Ränder an den Wänden waren dunkler und insgesamt die Böden mit zu speckig und ungleich. All dies wurde beseitigt! Uns wurde angeboten mit auswaschen (obwohl man dies offenbar i.d.R. bei alten Böden macht) und neu einfärben Möglichkeiten auszuprobieren. Die Zeit drängte (da das Öl trocknet) - so mussten entsprechende Muster nach Feierabend hergestellt werden. Weil unser Parkett eine handgehobelte Struktur hat, war die Herausforderung besonders: Herr Nyffeler fand die Lösung - wir erhielten ein farblich sehr schönes Ergebnis (ohne die Oberflächenstruktur zu verlieren), da von Hand mit einem Schleifeffekt-Pad die Rotpigmente in den Vertiefungen entfernt wurden. Vielen lieben Dank!🍀",
+        "time": 1658330815,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alex van de Veer",
+        "author_photo": "/images/reviews/fluehmann-bodenbelaege-gmbh-kerzers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exzellente arbeit, sehr empfehlenswert",
+        "time": 1717952818,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

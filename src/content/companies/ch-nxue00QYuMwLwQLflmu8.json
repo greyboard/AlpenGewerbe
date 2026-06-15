@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ88pmd7NxjkcR5Q0ByjG13dU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Arben Zenuni",
+        "author_photo": "/images/reviews/maintenance-zenuni-lechelles/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1740865185,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "lutt lorlin",
+        "author_photo": "/images/reviews/maintenance-zenuni-lechelles/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739305234,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lutfi zenuni",
+        "author_photo": "/images/reviews/maintenance-zenuni-lechelles/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739305201,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "saranda sokoli",
+        "author_photo": "/images/reviews/maintenance-zenuni-lechelles/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739269203,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mergim Koqinaj",
+        "author_photo": "/images/reviews/maintenance-zenuni-lechelles/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739268935,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

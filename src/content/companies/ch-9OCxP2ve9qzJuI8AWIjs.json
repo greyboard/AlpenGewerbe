@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ83WzMNs4jkcR6brbfgXtzDA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Heinrich Huber",
+        "author_photo": "/images/reviews/peter-serini-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetente Firma für Wärmepumpen. Sehr gute Beratung, Offertstellung und Abwicklung des Auftrages vom Bewilligungsverfahren über die Montage zur Abrechnung und Anträge für Förderbeiträge sowie Unterstützung nach Inbetriebnahme.\nDie Partnerfirma Energyfriends GmbH für Solaranlagen kann ebenfalls bestens empfohlen werden. Sehr Innovative Vorschläge . Unsere PV - Anlage wurde innert fünf Arbeitstagen montiert und in Betrieb genommen. Danke dem ganzen Team. Super Leistung!!",
+        "time": 1743921641,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kris G",
+        "author_photo": "/images/reviews/peter-serini-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Instalation der PV-Anlage sowie Wärmepumpe. Funktioniert einwandfrei und der Einbau ist höchst professionel gemacht worden.",
+        "time": 1778251168,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Jana Begert",
+        "author_photo": "/images/reviews/peter-serini-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und zuverlässige Zusammenarbeit mit der Serini AG. Kompetentes Team, schnelle Kommunikation und hervorragender Service. Absolut empfehlenswert, top!",
+        "time": 1778703289,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Stephan Scheidegger",
+        "author_photo": "/images/reviews/peter-serini-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Stehts angenehm mit dieser Firma zu arbeiten! Sehr Empfehlenswert!\nDie absoluten Profis auf Wärmepumpen!",
+        "time": 1695480481,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Erich Rain",
+        "author_photo": "/images/reviews/peter-serini-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sie machen top Wärmepumpen Sanierungen.\nArbeit ist von guter Qualität. Preis sind sehr gut.",
+        "time": 1689618714,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

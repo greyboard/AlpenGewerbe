@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJXaWCRaY3jkcReU1cd-F33-s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 42,
+    "reviews": [
+      {
+        "author_name": "Alain Rossier",
+        "author_photo": "/images/reviews/rs-keramik-gmbh-quality-design-muri-bei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professionelle Bauplanung und qualitativ hochwertige Ausführung.\nUnser Badezimmer wurde vom Team von RS-Keramik zu unserer vollsten Zufriedenheit saniert. Die Arbeiten wurden professionell, präzise und zuverlässig geplant und ausgeführt. Unvorhergesehene Situationen wurden stets transparent mit uns besprochen und termingerecht umgesetzt. Besonders geschätzt haben wir den freundlichen Umgang aller Mitarbeitenden sowie die tägliche Reinigung der Baustelle am Abend. Wir können RS-Keramik jederzeit weiterempfehlen",
+        "time": 1779789466,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Martin Tschumi",
+        "author_photo": "/images/reviews/rs-keramik-gmbh-quality-design-muri-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma RS Keramik hat bei unserem Badezimmerumbau eine top Leistung erbracht. Die Mitarbeitenden überzeugten mit Genauigkeit, Detailpräzision, Pünktlichkeit, Freundlichkeit und Qualität. Das ganze Team verfügt über einen gesunden Berufsstolz was sich in der Ausführung der Arbeiten sehr positiv wieder gibt.\nWir können RS Keramik nur bestens weiter empfehlen.",
+        "time": 1602097083,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Misou Chili",
+        "author_photo": "/images/reviews/rs-keramik-gmbh-quality-design-muri-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bereits unser drittes Projekt mit RS Keramik, zu unserer vollsten Zufriedenheit umgesetzt. Bezüglich Zeitplan, Präzision und Ausführung schlicht perfekt. Bravo und jederzeit gerne wieder.\nPB, Bangerten",
+        "time": 1777020860,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Lars Deutschlaender",
+        "author_photo": "/images/reviews/rs-keramik-gmbh-quality-design-muri-bei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und gute Beratung.\nToller Einsatz des ganzen Teams, sehr sorgfältige Arbeit und trotz aller widrigen Umstände (Corona-Zeiten) immer aufgestellt und freundlich!\nWunderschöne Arbeit bei der Teilsanierung des Badezimmers mit einer Walk-In Dusche mit Flussstein-Boden.\nWir können die Firma jederzeit weiterempfehlen.",
+        "time": 1587567578,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Peter Gerber",
+        "author_photo": "/images/reviews/rs-keramik-gmbh-quality-design-muri-bei-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionelle kurzfristige Planung mit kompetenter Beratung sowie termingerechte, qualitativ einwandfreie Ausführung der Nasszonen-Sanierung (Dusche, WC und Waschtisch) einer Wohnung in einem 36jährigen Wohnhaus mit vernünftigem Preis/Leistungs-Verhältnis. Das Team von RS Keramik überzeugt in allen Bereichen.",
+        "time": 1600439122,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

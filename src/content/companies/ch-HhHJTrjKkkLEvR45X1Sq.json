@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJcWrmHpIuhUcRBC0YCxFhScM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Walter Fischer",
+        "author_photo": "/images/reviews/wirth-heizungs-service-gmbh-schwanden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die prompte und fachlich kompetente Arbeit.\nEinen speziellen Dank an Patrik Lendi, er hat uns sehr geholfen.",
+        "time": 1771516356,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Rene Landis",
+        "author_photo": "/images/reviews/wirth-heizungs-service-gmbh-schwanden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Oertli OSCR 18 LS\nHr. Patrick Lendi ist ein super guter Servicetechniker, Fehler rasch\neruiert. Vielen Dank ich kann Euch wircklich guten Gewissens weiter empfehlen. Ersatzteile alle im Fahrzeug mitgeführt.\nRené Landis Schützenhausstrasse 18 8750 Glarus",
+        "time": 1758702326,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Elena",
+        "author_photo": "/images/reviews/wirth-heizungs-service-gmbh-schwanden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundlich, kompetent und schnell. Top Service! Kann man nur empfehlen.",
+        "time": 1747325431,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mi Hu",
+        "author_photo": "/images/reviews/wirth-heizungs-service-gmbh-schwanden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr schnell, kompetent und zuverlässig",
+        "time": 1669151201,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roland Goethe",
+        "author_photo": "/images/reviews/wirth-heizungs-service-gmbh-schwanden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schnell und Kompetent",
+        "time": 1637649753,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

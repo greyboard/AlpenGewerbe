@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJxzrOxS06kEcRGbi02-S7Reo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 38,
+    "reviews": [
+      {
+        "author_name": "Mirco Bortot",
+        "author_photo": "/images/reviews/schmid-haustechnik-sht-ag-erlinsbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Fa. Schmid Haustechnik sehr zufrieden . Unsere Ölheizung wurde durch eine Wärmepumpe ersetzt – alles lief reibungslos, professionell und termingerecht. Freundlicher Service, saubere Arbeit und kompetente Beratung. Klare Weiterempfehlung!",
+        "time": 1771071994,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Karin Blattner",
+        "author_photo": "/images/reviews/schmid-haustechnik-sht-ag-erlinsbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Fachpersonen in den Bereicen Sanitär und Heizung für die Sanierung eines älteren Landhauses. Ausführliche Beratung und sorgfältiges Arbeiten inkl. Führung der Lernenden. Wir fühlten uns mit unseren Wünschen stets aufgehoben und verstanden - immer ein offenes Ohr, auch bei kurzfristigen Anpassungen.\nBesten Dank und auf ein nächstes Bauprojekt.",
+        "time": 1762353110,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Salvatore Sferrazza",
+        "author_photo": "/images/reviews/schmid-haustechnik-sht-ag-erlinsbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir waren sehr zufrieden mit den Dienstleistungen von der Fa. Schmid Haustechnik SHT AG. Der Einbau der neuen Wärmepumpe lief schnell und reibungslos.",
+        "time": 1771513315,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Jack Djafar",
+        "author_photo": "/images/reviews/schmid-haustechnik-sht-ag-erlinsbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die beste Entscheidung war, mit dem Team von Schmid Haustechnik zusammenzuarbeiten.\nDer Sanitärbereich mit Roli und seinen Monteuren, der Heizungsbereich mit Erdem und seinem Team, die Planung mit Yannick – und alles wurde von Memeti koordiniert.\n\nEin grosses Dankeschön an euch alle für unsere Renovation!",
+        "time": 1772444714,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Seraina Hemmi",
+        "author_photo": "/images/reviews/schmid-haustechnik-sht-ag-erlinsbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Empfehlung für Schmid Haustechnik\n\nIch kann Schmid Haustechnik sehr empfehlen.\nHerr Ickin und sein kompetentes, sympathisches Team haben uns mit grossem Einsatz und ausgezeichneter Beratung zu unserer neuen Heizanlage geführt.\n\nHerr Ickin hatte die Zügel stets in der Hand, koordinierte den Ablauf souverän und organisierte einen hervorragenden Plan auch mit den anderen Dienstleistern an unserer Heizung. So war ein reibungsloser Ablauf jederzeit garantiert.\n\nIch bin mit der Arbeit von Schmid Haustechnik rundum zufrieden und kann das Unternehmen aus voller Überzeugung weiterempfehlen.",
+        "time": 1757083759,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

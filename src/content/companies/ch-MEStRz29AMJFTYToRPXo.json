@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJKVZW0xxPhUcRVMZb16asbs8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 09:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: 09:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Freitag: 09:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Samstag: 09:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Christine Thaddey",
+        "author_photo": "/images/reviews/reichmuth-wohn-ag-moebelcenter-schreinerei-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Beratung, Anlieferung und Produkt sind top. Eben Fachhandel - bei REICHMUTH Wohn AG trifft es voll ins Schwarze. Sehr empfehlenswert!",
+        "time": 1705934953,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Irene Gwerder",
+        "author_photo": "/images/reviews/reichmuth-wohn-ag-moebelcenter-schreinerei-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr engagierte und kompetente Beratung. Unsere Bedürfnisse wurden schnell erfasst. Die Massanfertigung wurde zeitlich und qualitativ zu unserer vollsten Zufriedenheit ausgeführt.\nDie Lieferung wurde mit grösster Sorgfallt erledigt.\nAlles perfekt: von der ersten Beratung bis zur Lieferung darf ich Reichmuth Wohn AG uneingeschränkt weiterempfehlen.",
+        "time": 1718368907,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Hohl",
+        "author_photo": "/images/reviews/reichmuth-wohn-ag-moebelcenter-schreinerei-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Habe Polstergruppe und Fernsehsessel von der Reichmuth Wohn AG geliefert bekommen. Die beiden Monteure waren sehr freundlich. Sie haben schnell und sauber gearbeitet. Diese Firma kann man nur empfehlen",
+        "time": 1706615359,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Franziska Rickenbacher",
+        "author_photo": "/images/reviews/reichmuth-wohn-ag-moebelcenter-schreinerei-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Möbel Reichmuth hat uns eine wunderschöne und vor allem praktische Küche in unserer Ferienwohnung eingebaut. Herzlichen Dank für die ausgezeichnete Arbeit!",
+        "time": 1708459039,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rene P",
+        "author_photo": "/images/reviews/reichmuth-wohn-ag-moebelcenter-schreinerei-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum zufrieden von der Netten und kompetenten Beratung bis hin zur Lieferung.",
+        "time": 1738775537,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

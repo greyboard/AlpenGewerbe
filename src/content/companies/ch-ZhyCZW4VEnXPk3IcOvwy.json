@@ -26,5 +26,22 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJK_4MZUngmkcRgL4UE27cVIA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Roger Bischof (Secli-Weinwelt)",
+        "author_photo": "/images/reviews/marcel-bischof-schreinermontagen-gmbh-abtwil-sg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Grossartige Arbeit und Dienstleistung, es gibt aus meiner Sicht nichts besseres: Absolut empfehlenswert",
+        "time": 1694026888,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfSDl92cxjEcReaQdObP6J5Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "L Mrg",
+        "author_photo": "/images/reviews/ad-peinture-renovation-a-lausanne-region-vaud-adin-duric-lausanne/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben Ad Peinture auf Empfehlung für die Renovierung unserer Wohnung und einige Jahre später erneut für die Sanierung der Dachkonstruktion beauftragt. Sie arbeiten sehr schnell, organisiert und effizient. Verdiente 5 Sterne – ich kann sie wärmstens empfehlen!",
+        "time": 1757673768,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Katalin",
+        "author_photo": "/images/reviews/ad-peinture-renovation-a-lausanne-region-vaud-adin-duric-lausanne/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Arbeit ist hervorragend, der Service tadellos. Ich kann es wärmstens empfehlen.",
+        "time": 1757607541,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Stéphanie Rosalie",
+        "author_photo": "/images/reviews/ad-peinture-renovation-a-lausanne-region-vaud-adin-duric-lausanne/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Rapide, gentil, service après-vente nickel. ne pas hésiter à appeler pour avoir une réponse plus rapide.",
+        "time": 1741700537,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

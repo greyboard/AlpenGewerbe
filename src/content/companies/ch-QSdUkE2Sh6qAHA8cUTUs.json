@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6f3bTjythUcRV8ZUDxpKEk0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Chiara Ghisletta",
+        "author_photo": "/images/reviews/vetrimarghi-sa-biasca/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Unternehmen. Wir haben Spiegel für unseren Veranstaltungsraum anfertigen lassen. Sehr effizient und hilfsbereit.",
+        "time": 1741955796,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vasco Cattaneo",
+        "author_photo": "/images/reviews/vetrimarghi-sa-biasca/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Die Arbeit wurde gut ausgeführt.",
+        "time": 1488574352,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "fritzarken74",
+        "author_photo": "/images/reviews/vetrimarghi-sa-biasca/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundlich und professionell",
+        "time": 1590825003,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Racing Team Simano",
+        "author_photo": "/images/reviews/vetrimarghi-sa-biasca/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professional",
+        "time": 1647431668,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrick Fonio OCST",
+        "author_photo": "/images/reviews/vetrimarghi-sa-biasca/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679431659,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

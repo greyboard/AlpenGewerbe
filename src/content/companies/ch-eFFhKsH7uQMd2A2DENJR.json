@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCSbWeyCBmkcRr-w7TGpF35A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Simon Stör",
+        "author_photo": "/images/reviews/vito-serratore-ag-doerflingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich durfte mit Vito und seinem Team eine grosse Überbauung umsetzen. Die Zusammenarbeit war sehr angenehm, gerne wieder.",
+        "time": 1732705093,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Franziska Surbeck",
+        "author_photo": "/images/reviews/vito-serratore-ag-doerflingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Serratore Team hat bei uns sämtliche Gipser- und Malerarbeiten sehr professionell und kompetent durchgeführt. Jederzeit empfehlenswert und gerne wieder bei uns. Zudem sind Alle sehr freundlich....Bravo👍👏 ein herzliches Dankeschön",
+        "time": 1710172018,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Turtle",
+        "author_photo": "/images/reviews/vito-serratore-ag-doerflingen/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Einer dieser Firmen mit mehreren Kalendern mit nackten Frauen an den Wänden. Dies im Anlieferungsbereich. Das im Jahr 2025. Grandios.",
+        "time": 1743767538,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Meister Elektro",
+        "author_photo": "/images/reviews/vito-serratore-ag-doerflingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Firma, sauber und zuverlässig",
+        "time": 1678046196,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Anna Meier",
+        "author_photo": "/images/reviews/vito-serratore-ag-doerflingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einwandfreie Arbeit abgeliefert.  Besten Dank.",
+        "time": 1672324792,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

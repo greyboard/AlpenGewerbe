@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ21htZOtxLoIRrlXG6wYufpA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Arne Bindert",
+        "author_photo": "/images/reviews/din-bodeleger-gmbh-boettstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert!\nHerr Keller arbeitet äußerst zuverlässig, sauber und professionell. Alle Wünsche wurden berücksichtigt und durch seine lösungsorientierte Herangehensweise verlief alles reibungslos. Die Ausführung war qualitativ hochwertig und termingerecht. Man merkt sofort, dass hier mit Erfahrung und Engagement gearbeitet wird. Jederzeit gerne wieder.",
+        "time": 1767717655,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Lena Keller",
+        "author_photo": "/images/reviews/din-bodeleger-gmbh-boettstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Raphael hat unseren fast 50 jährigen Ahorn Parkett neu versiegelt. Er sieht wieder aus wie neu! 😃 Bis der Maler gekommen ist und seine Klebestreifen-Resten nicht entfernt hat.. aber auch hier hat Raphael souverän reagiert und unseren Parkett (erneut) gerettet! Wir danken dir für deine tolle Arbeit! 🙏😃",
+        "time": 1764434763,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Iris Bächli",
+        "author_photo": "/images/reviews/din-bodeleger-gmbh-boettstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Raphael ist sehr freundlich, extrem hilfsbereit und wir sind absolut zufrieden mit seiner Arbeit. Wir können ihn wärmstens empfehlen 😊",
+        "time": 1741157945,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Melanie Martel",
+        "author_photo": "/images/reviews/din-bodeleger-gmbh-boettstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Habe super freude am neuen Laminat. Die Arbeit wurde sorgfältig und schnell erledigt. Kann es nur weiter empfehlen",
+        "time": 1733404700,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maria Ryf",
+        "author_photo": "/images/reviews/din-bodeleger-gmbh-boettstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Raphael ist sehr freundlich und sehr genau.\nWir sind sehr zufrieden mit seiner Arbeit die sehr sauber und exakt ist.\nRaphael ging auf unsere Wünsche ein und hat sie nach unserer Zufriedenheit ln einer sehr guten Zeit umgesetzt .\nRaphael ist sehr empfehlenswert 👍👍",
+        "time": 1780942176,
+        "relative_time_description": "in der letzten Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

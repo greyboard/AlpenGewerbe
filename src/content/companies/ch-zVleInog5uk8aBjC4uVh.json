@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJLTsemGUfm0cReTwXDreWmUk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Samira",
+        "author_photo": "/images/reviews/f-s-bedachungen-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team war sehr freundlich und professionell. Die Arbeit bei meinem Dach wurde rasch und zu meiner vollsten Zufriedenheit erledigt. Super Preis- Leistungsverhältnis.",
+        "time": 1708628388,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandra Wohlgensinger",
+        "author_photo": "/images/reviews/f-s-bedachungen-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolles Team! Weiter zu empfehlen! Ich bin sehr zufrieden mit der Arbeit an meinen Dachfenstern!",
+        "time": 1626198135,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Denny Geering",
+        "author_photo": "/images/reviews/f-s-bedachungen-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sogar am Wochenende einsatzbereit! top Leistung.",
+        "time": 1662240122,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sebastian Thoma",
+        "author_photo": "/images/reviews/f-s-bedachungen-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Service und perfekte Dachreparatur.",
+        "time": 1633339045,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "David Boscanin",
+        "author_photo": "/images/reviews/f-s-bedachungen-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super arbeit geleistet.",
+        "time": 1662239574,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

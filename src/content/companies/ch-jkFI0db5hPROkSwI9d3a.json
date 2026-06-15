@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ04BRLFQ8kEcRS1ccqo5RwEI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Michelle von Arx",
+        "author_photo": "/images/reviews/widmer-haustechnik-ag-graenichen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich wurde sehr kompetent und freundlich in Bezug auf eine Erdsondenwärmepumpe beraten. Man spürte sofort, dass hier viel Fachwissen vorhanden ist. Auch wenn wir uns aus regionalen Gründen für einen anderen Heizungsinstallateur entschieden, hinterliess die Widmer Haustechnik AG einen äusserst guten Eindruck bei mir. Besten Dank!",
+        "time": 1767860263,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Marcel Boxler",
+        "author_photo": "/images/reviews/widmer-haustechnik-ag-graenichen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Nicht zufriden mein bad sihet schlimmer aus als es war mit den fugen und den plattenboden haben sie auch kaput gemacht",
+        "time": 1774264392,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Plüss Joël",
+        "author_photo": "/images/reviews/widmer-haustechnik-ag-graenichen/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Ich bin enttäuscht vom Service dieses Heizungsunternehmens. Während alle anderen Radiatoren in Haus problemlos funktionieren, hatte ich Schwierigkeiten mit einem Heizkörper. Ich wies den Monteur darauf hin, dass die Ausrichtung des Ventils in diesem Fall relevant sein könnte. Leider wurde meine Anmerkung ignoriert, und der Monteur schlug vor, stattdessen die Pumpe zu ersetzen. – eine Maßnahme, die in diesem Kontext wenig sinnvoll erscheint.\n\nDas darauf folgende Gespräch mit dem Firmeninhaber war ebenfalls unbefriedigend. Obwohl er die Relevanz der Ventilausrichtung bestätigte, konnte er nicht konstruktiv mit Kritik umgehen. Statt das Feedback anzunehmen und zuzusichern, dass er das Problem mit dem Monteur klären würde, hinterfragte er meine Qualifikationen. Dieser Punkt ist jedoch irrelevant.\n\nAuf dem Foto ist der Pfeil klar erkenntlich, wäre es unrelevant wäre der wohl nicht drauf!",
+        "time": 1698845130,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Carmen K.",
+        "author_photo": "/images/reviews/widmer-haustechnik-ag-graenichen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "sehr zuverlässig, zudem freundliche Mitarbeitende und saubere Arbeit während der ganzen Bauzeit sowohl bei den Heizungs- als auch den Sanitärarbeiten. Auch die Beratung war top, immer wieder gerne!",
+        "time": 1706952489,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Annelies Lehner",
+        "author_photo": "/images/reviews/widmer-haustechnik-ag-graenichen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der defekte Boiler wurde gleich am nächsten Tag ersetzt. Superleistung, vielen Dank.",
+        "time": 1743880545,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

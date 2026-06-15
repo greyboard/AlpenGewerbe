@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJO1k4sB97jEcRRj-CHfaWNq0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 39,
+    "reviews": [
+      {
+        "author_name": "Elyozan",
+        "author_photo": "/images/reviews/schneider-sanitaires-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professioneller und freundlicher Service. Ob telefonisch oder persönlich, die Mitarbeiter sind erstklassig. Ich kann diese Firma uneingeschränkt empfehlen! Der Klempner, der zu mir kam, gab nicht auf, bis das Problem vollständig behoben war! Nochmals vielen Dank für die hervorragende Arbeit!",
+        "time": 1768214886,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Christophe M.",
+        "author_photo": "/images/reviews/schneider-sanitaires-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Positive Erfahrung, vielen Dank an Kevin, dieser Klempner war sehr freundlich und professionell.",
+        "time": 1775146135,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Sejla Maksuti",
+        "author_photo": "/images/reviews/schneider-sanitaires-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein wirklich erstklassiges Unternehmen. Sie reagierten innerhalb einer Stunde auf einen Notfall. Sie hören ihren Kunden zu. Ich kann sie wärmstens empfehlen!",
+        "time": 1601806033,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Yo SOLA",
+        "author_photo": "/images/reviews/schneider-sanitaires-carouge/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Ich warte immer noch auf die Behebung eines technischen Problems. Scheint mit dem Kundendienst nicht vertraut zu sein...",
+        "time": 1562698707,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Lina",
+        "author_photo": "/images/reviews/schneider-sanitaires-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Service ist sehr gut und prompt.",
+        "time": 1630825628,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

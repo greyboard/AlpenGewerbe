@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJA0j1oHSrmkcRMC-lCRkG470",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Simon Huwyler",
+        "author_photo": "/images/reviews/huerlimann-holzbau-ag-unteraegeri/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Arbeit, Probleme, wie sie auf jeder Baustelle entstehen, wurden umgehend, gut und pragmatisch gelöst. Man merkt, dass die Angestellten ihrem Beruf mit Stolz nachgehen und aus eigenem Antrieb sehr gute Resultate liefern wollen.\n\nBauleitung und Elementbau.",
+        "time": 1543241729,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Lukas Birchler",
+        "author_photo": "/images/reviews/huerlimann-holzbau-ag-unteraegeri/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit. Die Bauleitung, würden wir genau gleich wieder an diese Firma vergeben. Hier werden Probleme noch pragmatisch gelöst und absolut Kundenorientiert. Diese Firma ist für uns der Inbegriff von Kompetenz und Qualität. Ganz ehrlich, diese Firma spielt in einer eigenen Liga. Ich könnte hier noch ein Roman schreiben, wie gut die waren. Vielen Dank für alles, mit besten Grüssen",
+        "time": 1678385750,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Karin Neuhaus",
+        "author_photo": "/images/reviews/huerlimann-holzbau-ag-unteraegeri/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, zuvorkommender Mitarbeiter, unkomplizierte Organisation.\n\nSehr gerne wieder!",
+        "time": 1743083580,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christoph Landolt",
+        "author_photo": "/images/reviews/huerlimann-holzbau-ag-unteraegeri/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit, gute Handwerker motiviert und freundlich.",
+        "time": 1594286369,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "tiziano walker",
+        "author_photo": "/images/reviews/huerlimann-holzbau-ag-unteraegeri/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Firma :)",
+        "time": 1503775453,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

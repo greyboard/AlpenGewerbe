@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSVgoLntjjEcRBEzKZupT7RM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 40,
+    "reviews": [
+      {
+        "author_name": "Thomas C",
+        "author_photo": "/images/reviews/lumi-elec-sa-thonex/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein kompetentes Elektrounternehmen, das auf die Bedürfnisse seiner Kunden eingeht und stets proaktiv die besten Lösungen findet. Das Team ist reaktionsschnell und zuverlässig und zeichnet sich durch echtes Engagement für exzellenten Service aus. Die Zusammenarbeit mit ihnen ist immer ein Vergnügen, und ich kann sie uneingeschränkt empfehlen!",
+        "time": 1756741401,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Aramas Yarijanian",
+        "author_photo": "/images/reviews/lumi-elec-sa-thonex/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Glück, diese Firma zu finden, die in weniger als einer Stunde ein Kochfeld und einen Backofen in meinem Geschäft installiert hat! Die Arbeit war sorgfältig und professionell. Ich kann sie wärmstens empfehlen!",
+        "time": 1763369494,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "L DG",
+        "author_photo": "/images/reviews/lumi-elec-sa-thonex/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Nachdem ich mehrere Elektrofirmen kontaktiert hatte, reagierte Lumielec am schnellsten.\nDer Projektleiter Fatlum war sehr aufmerksam und ging umgehend auf meine Wünsche ein.\nDie Arbeiten wurden schnell, sorgfältig und professionell ausgeführt.\nDas Team konnte sich flexibel an meine Bedürfnisse anpassen.\nIch kann Lumielec uneingeschränkt empfehlen.",
+        "time": 1755071765,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Minh Luyen HONG",
+        "author_photo": "/images/reviews/lumi-elec-sa-thonex/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Im Zuge der Renovierung meiner Wohnung hat die Firma Lumi'Elec den Sicherungskasten sowie alle Kabel und Steckdosen erneuert. Außerdem haben sie vor Kurzem die Verkabelung für meine Jalousien installiert. Die Arbeit ist einwandfrei und ich bin sehr zufrieden; darüber hinaus ist ihr Kundenservice hervorragend! Ich kann sie uneingeschränkt empfehlen!",
+        "time": 1750437825,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Michelle T.",
+        "author_photo": "/images/reviews/lumi-elec-sa-thonex/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Lumielec hat bei meiner Komplettrenovierung hervorragende Elektroarbeiten ausgeführt. Ich kann die Firma jedem wärmstens empfehlen, der elektrische Dienstleistungen benötigt. Ich habe das Unternehmen als sehr professionell und reaktionsschnell erlebt und war stets bemüht, Empfehlungen auszusprechen und innovative Lösungen anzubieten.",
+        "time": 1743360895,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

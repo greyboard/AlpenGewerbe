@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ9e8MOPJmkcRPj2D8_Z2AIg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Atelier Tessa Goldschmiede",
+        "author_photo": "/images/reviews/keller-metallbautechnik-ag-wangen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser spezieller Auftrag, eine Sitzbank mit Holzlager, wurde von Rolf Keller und seinem Team perfekt umgesetzt und angefertigt. Wir freuen uns täglich über die schöne Arbeit und können die Firma Kemetech nur weiter empfehlen.",
+        "time": 1562662019,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "eugen beeler",
+        "author_photo": "/images/reviews/keller-metallbautechnik-ag-wangen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "perfekter service.\nsehr freundliche mitarbeiter, und beste arbeitsleistung.",
+        "time": 1724512346,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rolf Kohler",
+        "author_photo": "/images/reviews/keller-metallbautechnik-ag-wangen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776544790,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Dominique Lendi",
+        "author_photo": "/images/reviews/keller-metallbautechnik-ag-wangen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1663579569,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Reto Steiner",
+        "author_photo": "/images/reviews/keller-metallbautechnik-ag-wangen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1614815008,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

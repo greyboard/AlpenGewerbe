@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJcb2xmrM5jkcRdA48JDL2NoM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Luca Hofer",
+        "author_photo": "/images/reviews/roth-urs-co-ag-bern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Das Heizkörper, resp. die neue Anlage nicht Geräuschlos eingebaut werden kann schien von vornherein klar zu sein, das aber Ruhezeiten am morgen und über Mittag nicht eingehalten werden werden war dann doch etwas zu viel. Darauf aufmerksam gemacht reagierten die Arbeiter frech, arrogant und begannen mitunter zu drohen. Ihr Auftritten allgemein, ihre Arbeitsmoral und was Sie als Visitenkarte der Firma ausstrahlen sollten, liess auch nichts anderes erwarten als das eines Haufen minderbemittelter Clowns.",
+        "time": 1754122998,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "-",
+        "author_photo": "/images/reviews/roth-urs-co-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super freundliche Mitarbeiter, die Ihrer Arbeit kompetent und zuverlässig nachgehen.",
+        "time": 1770628515,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Adrian Gygax",
+        "author_photo": "/images/reviews/roth-urs-co-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Handwerker waren pünktlich, freundlich und speditiv. Der neue Heizkörper funktioniert super.",
+        "time": 1711268756,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mahmoud Haji",
+        "author_photo": "/images/reviews/roth-urs-co-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1738257578,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Urs Spielmann",
+        "author_photo": "/images/reviews/roth-urs-co-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1648721042,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

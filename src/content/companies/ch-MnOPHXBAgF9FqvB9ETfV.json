@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJQfslQ_YZm0cROxh5U-b9XWw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–09:00 Uhr, 09:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–09:00 Uhr, 09:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–09:00 Uhr, 09:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–09:00 Uhr, 09:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–09:00 Uhr, 09:30–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Andreas Daniel Bösch",
+        "author_photo": "/images/reviews/a-elektro-ag-heiden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer erreichbar. Top zuverlässig. Top Preis/ Leistung",
+        "time": 1767778801,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Isabel Lasse",
+        "author_photo": "/images/reviews/a-elektro-ag-heiden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schneller, kompetenter Service zu zivilen Preisen. Sie haben super schnell reagiert, als mein Kühlschrank kaputt ging und ich hatte sofort einen neuen. Und- alles blitzsauber hinterlassen…",
+        "time": 1688463828,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrea",
+        "author_photo": "/images/reviews/a-elektro-ag-heiden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert, schnelle, kompetente und freundliche Hilfe, faire Preise👍",
+        "time": 1701711955,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Paul Urs Egger",
+        "author_photo": "/images/reviews/a-elektro-ag-heiden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Services von allen. Sehr kompetentes Personal.\nDanke",
+        "time": 1701944947,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roland G.",
+        "author_photo": "/images/reviews/a-elektro-ag-heiden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr guter und kompetenter Service.",
+        "time": 1624660203,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

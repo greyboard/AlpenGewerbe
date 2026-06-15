@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJEUAeILDHhEcRXxOMon212Fg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 10:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 10:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 10:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 10:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 10:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "sandra bauert",
+        "author_photo": "/images/reviews/bad-und-wohnen-maurer-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr schönes Geschäft, sehr freundliche Mitarbeiterin. Ich habe mich in die Hoptimist Lampen verliebt, ich komme wieder. Sehr schönes Sortiment und gepflegte Atmosphäre",
+        "time": 1760799569,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "pa so",
+        "author_photo": "/images/reviews/bad-und-wohnen-maurer-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kann ich mir nur anschliessen - sehr freundliche Mitarbeiterinnen und eine Wohfühl-Shopping-Athmosphäre und Skandi-Einrichtungshaus zmitzt in Chur :) ..danke Sarah!",
+        "time": 1771352706,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Hansueli Schatzmann",
+        "author_photo": "/images/reviews/bad-und-wohnen-maurer-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super schönes Geschäft. Top Mitarbeiterinnen. Man wird immer super gut bedient und sehr freundlich dazu. Bravo",
+        "time": 1722085295,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Frau Pane",
+        "author_photo": "/images/reviews/bad-und-wohnen-maurer-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr schönes Geschäft, die Inhaberin ist sehr freundlich und zuvorkomend",
+        "time": 1700308794,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Vera Hasler",
+        "author_photo": "/images/reviews/bad-und-wohnen-maurer-chur/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Nette Bedienung und Bestellung und Abholung tiptop geklappt",
+        "time": 1699780824,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

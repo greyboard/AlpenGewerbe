@@ -26,5 +26,38 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkRTPbUYojkcRDhNYSSXfvw4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Luca Spiller",
+        "author_photo": "/images/reviews/schaad-partner-biberist/reviewer_1.jpg",
+        "rating": 5,
+        "text": "👍👍👍👍",
+        "time": 1699954108,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "PLG Media",
+        "author_photo": "/images/reviews/schaad-partner-biberist/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642111985,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Livio Malagoli",
+        "author_photo": "/images/reviews/schaad-partner-biberist/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1543503285,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

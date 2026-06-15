@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJd9URdMo5jkcRzaNljXlNWGo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Richard",
+        "author_photo": "/images/reviews/friedli-elektro-bern-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente sowie freundliche telefonische Beratung. Gestern angerufen und morgen schon die Deckenlampe perfekt montiert und den Arbeitsort sauber verlassen! Herzlichen Dank und sehr gerne wieder!",
+        "time": 1650399782,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "CMS Liegenschaftsdienst GmbH",
+        "author_photo": "/images/reviews/friedli-elektro-bern-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir als CMS Liegenschaftsdienst zählen seit mehreren Jahren auf die zuverlässige und kompetente Beratung der Friedli Elektro AG. Die Arbeiten werden immer zeitnah, sauber und fachmännisch ausgeführt. Wir können das Team der Friedli Elektro AG nur weiterempfehlen und freuen uns auf die weitere Zusammenarbeit in der Zukunft.",
+        "time": 1723190555,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Georgia Daskalopoulou",
+        "author_photo": "/images/reviews/friedli-elektro-bern-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "perdix kooperiert mit der Friedli Elektro Bern AG seit 2018 und als Hersteller von Qualitäts-Beleuchtung legen wir grossen Wert auf qualifizierte Elektroinstallateure, welche zum Schluss das Ergebnis erlangen, was den Kunden zufriedenstellt und die Erwartungen erfüllt. Eine schnelle Lieferung unsererseits ermöglicht die Service-Bereitschaft eines guten Elektrikers und gewährleistet die Kundenzufriedenheit! Wir danken der Friedli Elektro Bern AG für die gute Zusammenarbeit und freuen uns, dass diese Firma ebenfalls auf Nachhaltigkeit setzt!\n\nFreundliche Grüesse aus Luzern\nFrau Perdix",
+        "time": 1724070229,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tarzan Spargel",
+        "author_photo": "/images/reviews/friedli-elektro-bern-ag-bern/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Die Arbeit wurde zufriedenstellend ausgeführt. Die Verwaltung bezahlt die Rechnung, das war so abgemacht. Jedoch nötigte Elektro Friedli den Mieter geradezu die Rechnung zu bezahlen. Anders als zu versuchen Garantieleistungen zu entgehen kann ich mir dieses Verhalten nicht erklären. Sehr schade...",
+        "time": 1572333013,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ruth Finger",
+        "author_photo": "/images/reviews/friedli-elektro-bern-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zuverlässige und saubere Arbeit, freundliche Beratung 👍\nFriedli Elektro Bern AG, immer wieder gern!",
+        "time": 1738859611,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

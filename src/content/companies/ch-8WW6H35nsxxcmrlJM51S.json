@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJIYIWNADFkUcRvBqMIk2tPh0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Yannick Sarasin",
+        "author_photo": "/images/reviews/kuebler-haustechnik-ag-buesserach/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Montage der Leitungen/Anlagen/Abläufe nicht nach Vorgaben, alte Bauteile wurden verwendet, Leitungen schräg montiert und leider kein einziges Gespräch mit dem Geschäftsführer, der sich den Problemen nicht persönlich annehmen wollte. Bei Bedarf können sehr gerne Bilder von mir angefordert werden, um meine Behauptungen zu untermauern.\nDas Unternehmen war mit dem Auftrag masslos überfordert - leider.\nFehler passieren und machen ein Unternehmen deshalb nicht schlechter - doch der Umgang mit eben diesen Fehlern nagen an der Reputation.\nResümierend: Könnte ich den Auftrag rückgängig machen, würde ich dies tun.",
+        "time": 1602482472,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Beat Schaffer",
+        "author_photo": "/images/reviews/kuebler-haustechnik-ag-buesserach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Kübler Haustechnik AG sehr empfehlen. Sie zeichnet sich durch einen professionellen Support aus und durch einen freundlichen Fachmann/Monteur. Der schnell und kompetent den Sanitären Defekt zu unserer vollsten Zufriedenheit behoben hat.",
+        "time": 1655380895,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roman Küttel",
+        "author_photo": "/images/reviews/kuebler-haustechnik-ag-buesserach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Kübler Haustechnik AG haben unsere Badezimmer-Sanierung mittels 3-D-Übersichtsmodell am Computer geplant.\nSie hatten die Leitung bei der Sanierung. Sie übernahmen auch die Koordination mit den anderen Handwerkern. Die Arbeit wurde mit hoher Qualität durchgeführt.\nTolle Arbeit.",
+        "time": 1639047336,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "El Presidente",
+        "author_photo": "/images/reviews/kuebler-haustechnik-ag-buesserach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Mitarbeiter.\nDie Arbeiten (Austausch einer Sumpfpumpe) wurden zur vollen Zufriedenheit ausgeführt. Ebenso wurde die Koordination mit dem Elektriker übernommen, was für einen tollen Service spricht. Gerne wieder.",
+        "time": 1638861908,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Daniel Agustoni",
+        "author_photo": "/images/reviews/kuebler-haustechnik-ag-buesserach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von der ersten Kontaktaufnahme, der Offerte für ein neues WC bis zur Montage ging es nur 48 Stunden. Alles tip-top, eine Glanzleistung noch kurz vor Weihnachten, super Service von A-Z!",
+        "time": 1641300725,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

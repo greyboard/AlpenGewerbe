@@ -1,7 +1,7 @@
 {
   "id": "ch-ZAcZ0xEf6LGmxUabtZ5Y",
   "slug": "renova-dl-sarl-bassecourt",
-  "name": "Renova DL Sàrl",
+  "name": "Renova Gipser GmbH",
   "branchen": [
     "gipser"
   ],
@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBdbUcBPEkUcRxJ0c49-l0H4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–18:00 Uhr",
+    "Dienstag: 06:45–18:00 Uhr",
+    "Mittwoch: 06:45–18:00 Uhr",
+    "Donnerstag: 06:45–18:00 Uhr",
+    "Freitag: 06:45–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Asmije Limani",
+        "author_photo": "/images/reviews/renova-dl-sarl-bassecourt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seriöses Unternehmen, qualitativ hochwertige Arbeit",
+        "time": 1777835675,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Kejtabije Jashari",
+        "author_photo": "/images/reviews/renova-dl-sarl-bassecourt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1682262114,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "G.&D. N.",
+        "author_photo": "/images/reviews/renova-dl-sarl-bassecourt/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1592828331,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Moi Même",
+        "author_photo": "/images/reviews/renova-dl-sarl-bassecourt/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1780901979,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Gwenaelle Le Borgne",
+        "author_photo": "/images/reviews/renova-dl-sarl-bassecourt/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1776114928,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

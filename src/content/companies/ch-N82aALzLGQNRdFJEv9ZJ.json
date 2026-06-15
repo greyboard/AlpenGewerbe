@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJh22cx0HkmkcR4xGAjsWd148",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Eveline Rohner",
+        "author_photo": "/images/reviews/hug-garden-ag-gartenbau-wil-braunau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr schöne Gestaltung",
+        "time": 1648474749,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Mächler",
+        "author_photo": "/images/reviews/hug-garden-ag-gartenbau-wil-braunau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente beratung",
+        "time": 1601792486,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Adrian Bauer",
+        "author_photo": "/images/reviews/hug-garden-ag-gartenbau-wil-braunau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1646818884,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "N2 office",
+        "author_photo": "/images/reviews/hug-garden-ag-gartenbau-wil-braunau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1780245871,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Marco Berchtold",
+        "author_photo": "/images/reviews/hug-garden-ag-gartenbau-wil-braunau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1640555093,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

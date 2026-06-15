@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJV29qSNcfm0cRK-vOV57No6E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "John D.",
+        "author_photo": "/images/reviews/schuster-ag-hauptsitz-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolles Team das die Arbeiten vor Ort ausgeführt hat.\nAufmerksam, Pünktlich und sie verlassen den Arbeitsplatz gut aufgeräumt und gereinigt. Der Chef schaut persönlich vorbei ob alles klappt - so schätz ich es und bin auch bereit den Preis zu zahlen, der es allemal wert ist. Das Wichtigste - keine Subunternehmer, alle sind Angestellte der Firma.",
+        "time": 1656791947,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alexander Kümin",
+        "author_photo": "/images/reviews/schuster-ag-hauptsitz-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super freundliches und zuvorkommendes Team. Vielen Dank und weiter so👍",
+        "time": 1591719032,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michelle Eberle",
+        "author_photo": "/images/reviews/schuster-ag-hauptsitz-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697638084,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "janine wachsmann",
+        "author_photo": "/images/reviews/schuster-ag-hauptsitz-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1670335910,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ursula Reinhardt",
+        "author_photo": "/images/reviews/schuster-ag-hauptsitz-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1655747635,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

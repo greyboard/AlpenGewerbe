@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJf2LQdkMUj0cRIKufUNOTrz8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "SEVERA PRO (CREATIVE & MODULAR)",
+        "author_photo": "/images/reviews/wilo-schmid-ag-raron/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein großes Dankeschön an Wilo Schmid AG für die ausgezeichnete Unterstützung mit dem Kranservice beim Bau der Severa Residence in Gampel! Die Firma hat mit hoher Fachkompetenz und beeindruckender Flexibilität überzeugt – das Team passt sich immer optimal den Projektanforderungen an und arbeitet effizient. Besonders hervorzuheben ist das Know-how und die Sorgfalt des gesamten Personals, das stets mit viel Engagement dabei ist. Ein verlässlicher Partner, den wir wärmstens empfehlen können!",
+        "time": 1730279997,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "beppe Bosio",
+        "author_photo": "/images/reviews/wilo-schmid-ag-raron/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1628004684,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Cédric Wyer",
+        "author_photo": "/images/reviews/wilo-schmid-ag-raron/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1594132990,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Patrick Donato",
+        "author_photo": "/images/reviews/wilo-schmid-ag-raron/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1486552128,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

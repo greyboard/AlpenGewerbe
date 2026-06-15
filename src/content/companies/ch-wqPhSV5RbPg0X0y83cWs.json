@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJbb05B8DYkUcR3BtLYSCINWk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Thomas Aebi",
+        "author_photo": "/images/reviews/von-burg-gartenbau-gmbh-lommiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere ganze Umgebung von unserem EFH neu gestalten lassen. Vom Sitzplatz, über Rasenfläche, Hecken als Sichtschutz, Hochbeete für Nutzgarten, Fruchtbäume und Beerensträucher. Alles was wir uns gewünscht haben wurde Berücksichtigt und fachmännisch umgesetzt. Auch ein Regenwassertank wurde eingebaut und sämtliche Regenwasserleitungen neu gezogen. Bei der Planung wurden unsere Wünsche berücksichtig und mit fachmännischen Inputs ergänzt. Das Team rund um Kilian von Burg war immer super freundlich und kompetent. Wir können Sie nur wärmstens weiter empfehlen. Auch nach einem Jahr steht man uns noch mit Rat und Tat zur Seite, wenn wir etwas mal nicht wissen. Top, weiter so!",
+        "time": 1689860892,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Helena Kissling",
+        "author_photo": "/images/reviews/von-burg-gartenbau-gmbh-lommiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Empfehlenswerte Gartenbaufirma: Gute Beratung, freundliches Personal, Arbeiten werden angekündigt und man wird auf dem Laufenden gehalten, Offerte deckte sich fast genau mit den Kosten.\nSchönes Resultat, würden wir wieder engagieren. Vielen Dank!",
+        "time": 1718786836,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marco Angelico",
+        "author_photo": "/images/reviews/von-burg-gartenbau-gmbh-lommiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1687632058,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Philipp Dornbierer",
+        "author_photo": "/images/reviews/von-burg-gartenbau-gmbh-lommiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774154146,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Dirk-Eberhard Weyel",
+        "author_photo": "/images/reviews/von-burg-gartenbau-gmbh-lommiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1658837126,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

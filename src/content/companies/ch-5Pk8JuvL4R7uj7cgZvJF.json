@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJg6BCYhLHhEcR5dck84ZtN1Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Ozana Peric",
+        "author_photo": "/images/reviews/malergeschaeft-r-scharegg-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Bedingung alles Tip top. Ich empfehlen gerne",
+        "time": 1586234303,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Yasemin Walli",
+        "author_photo": "/images/reviews/malergeschaeft-r-scharegg-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1631797550,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrick Spadin",
+        "author_photo": "/images/reviews/malergeschaeft-r-scharegg-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1582047979,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

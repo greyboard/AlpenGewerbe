@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJG1BJNt_JjkcRD2VVzTUJpDg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Andréas Bruhin",
+        "author_photo": "/images/reviews/a-varone-vitrerie-sa-vitrier-en-valais-martigny/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekte, akribische und sehr präzise Arbeit.\n\nAuch die Verpackung wurde mit größter Sorgfalt ausgeführt, und bei Unklarheiten wurde der Kunde kontaktiert, um diese zu klären oder die Zustimmung einzuholen.\nIch kann sie wärmstens empfehlen! Andreas B./Martigny",
+        "time": 1732613601,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Philippe LAFFAIRE",
+        "author_photo": "/images/reviews/a-varone-vitrerie-sa-vitrier-en-valais-martigny/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Für mich die ideale Wahl zum Glasschneiden. Hilfsbereit, sehr professionell und ein ausgezeichnetes Preis-Leistungs-Verhältnis. Die Erklärungen sind sehr verständlich. Besonders hervorzuheben ist ihr 24-Stunden-Notdienst. Ich kann sie uneingeschränkt für alle Arbeiten rund ums Glas empfehlen.",
+        "time": 1640780644,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Crans Ambassador",
+        "author_photo": "/images/reviews/a-varone-vitrerie-sa-vitrier-en-valais-martigny/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir riefen A. Varone Vitrerie SA an einem Sonntagmorgen an, nachdem ein Unfall die Schaufensterscheibe unseres Sportgeschäfts komplett zerstört hatte. Ihre Reaktionszeit und die schnelle Hilfeleistung waren hervorragend; sie entfernten die Glassplitter, reinigten den Bereich und brachten Schutzabdeckungen an. Später ersetzten sie auch die Scheibe. Wir sind mit ihrer Arbeit und insbesondere mit ihrer schnellen Reaktion sehr zufrieden.",
+        "time": 1662652088,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "R. Far",
+        "author_photo": "/images/reviews/a-varone-vitrerie-sa-vitrier-en-valais-martigny/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Erstklassiger Kundendienst. Ich habe mich beim Messen vertan und sie haben den Schnitt schnell und kostenlos für mich neu gemacht. Danke.",
+        "time": 1727714647,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "jasonlajoie",
+        "author_photo": "/images/reviews/a-varone-vitrerie-sa-vitrier-en-valais-martigny/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Sie haben meine einfache Bestellung von zwei Spiegeln vermasselt. Als ich sie bat, die Bestellung zu korrigieren oder mir einen Preisnachlass zu gewähren, weigerten sie sich. Mir wurde gesagt, sie hätten einen großen Auftrag abzuwickeln und meine Bestellung sei ihnen egal.",
+        "time": 1512896330,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

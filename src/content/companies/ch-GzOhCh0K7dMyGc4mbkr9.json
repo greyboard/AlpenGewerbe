@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJCQOCG6dLkEcReIojcoDJQPA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Cedric Rieder",
+        "author_photo": "/images/reviews/schmid-metallbau-ag-zeiningen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professionelle Zusammenarbeit und Ausführung nach den neusten Möglichkeiten, sowie einwandfreie Endprodukte!\nTop!",
+        "time": 1719844435,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Suxesiv AG",
+        "author_photo": "/images/reviews/schmid-metallbau-ag-zeiningen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Grosse Auswahl an Konstruktionen von Fassaden bis Treppen, angefertigt von einem fachkundigen Team. Wirklich weiterzuempfehlen!",
+        "time": 1515058100,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Marco Gehr",
+        "author_photo": "/images/reviews/schmid-metallbau-ag-zeiningen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer eine freundliche und professionelle Zusammenarbeit!",
+        "time": 1717054133,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

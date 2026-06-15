@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO8mfgg2SmkcR-EbDERAOW2c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–16:30 Uhr",
+    "Dienstag: 07:30–16:30 Uhr",
+    "Mittwoch: 07:30–16:30 Uhr",
+    "Donnerstag: 07:30–16:30 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "monika schuppli",
+        "author_photo": "/images/reviews/altorfer-elektro-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Beratung und Begleitung durch Herr Portner und sein Team war hervorragend. Sämtliche elektrischen Leitungen mussten im Einfamilienhaus erneuert werden. Auf unsere Wünsche wurde sehr gut eingegangen und der Umbau verlief reibungslos. Kompetenz, Professionalität, Flexibilität, Fairness und Freundlichkeit dürft ihr Euch auf die Fahne schreiben. Wir können diese Firma in jeder Hinsicht weiterempfehlen. Vielen Dank an das gesamte Team welches ausgeszeichnete Arbeit leistete.",
+        "time": 1766925628,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Bernhard Renner",
+        "author_photo": "/images/reviews/altorfer-elektro-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe eine Steckdose installieren lassen.\nDie Beratung war kompetent und unkompliziert.\nDie Ausführungen wurden von einem freundlichen und kompetenten Mitarbeiter exakt ausgeführt.",
+        "time": 1760734800,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Martin Bettoni",
+        "author_photo": "/images/reviews/altorfer-elektro-frauenfeld/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Wir können leider die Firma Altorfer-Elektro nicht annähernd weiter Empfehlen. Es ist schon sehr grenzwertig wenn ein zusätzlicher Verteilkasten und daneben noch der Hauptschaler von unser neuen Heizung auf Kleinkinder-Höhe montiert wurde. (Siehe Foto) Auch die Verkabelung in die bestehenden (viel zu kleinen) Kabelkanalkanal wurde einfach reingewürgt, sodass es die Abdeckung immer wieder rausdrückt. (Siehe Foto) Und zu guter Letzt sassen wir gestern Abend voller Freude über unsere neuen Wärmepumpe auf unserem Sitzplatz, da fällt plötzlich die Abdeckung vom Aussenfühler runter. Nach genauer Betrachtung der Abdeckung, stellte sich heraus, dass offensichtlich die Abdeckung so falsch reingedrückt wurde, und dabei die Klemmen abgedrückt wurden. Es gibt noch viel weitere Detail, die hier aber den Rahmen sprengen würden. Nun hoffen wir auf Besserung und stehen Ihnen gerne vor Ort zur  Verfügung. MfG M. Bettoni",
+        "time": 1656139576,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marc Beck",
+        "author_photo": "/images/reviews/altorfer-elektro-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolles Team! Sie haben bei unserem Umbauprojekt die elektrischen Arbeiten übernommen und uns mit ihrer Kompetenz und Professionalität restlos überzeugt. Die Beratung war hervorragend, und die Umsetzung lief reibungslos und genau nach unseren Vorstellungen. Besonders beeindruckt hat uns die kundenorientierte Arbeitsweise – hier steht der Kunde wirklich im Mittelpunkt. Vielen Dank an das ganze Team für die grossartige Arbeit.",
+        "time": 1734505630,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Barbara Springer",
+        "author_photo": "/images/reviews/altorfer-elektro-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, effiziente saubere Arbeitsweise, sehr freundlich und hinterlassen ihren Arbeitsort sauber. Immer wieder gerne",
+        "time": 1754898913,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJeXortWothUcRQNKlQpIZLZ0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Huruglica Flurim",
+        "author_photo": "/images/reviews/stoeckli-metall-ag-blechbearbeitungszentrum-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1624567287,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "George Hawk",
+        "author_photo": "/images/reviews/stoeckli-metall-ag-blechbearbeitungszentrum-netstal/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1616579294,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Rossi Mauro",
+        "author_photo": "/images/reviews/stoeckli-metall-ag-blechbearbeitungszentrum-netstal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597853719,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "DALI DALI",
+        "author_photo": "/images/reviews/stoeckli-metall-ag-blechbearbeitungszentrum-netstal/reviewer_4.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1568089934,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Andrea Veneri",
+        "author_photo": "/images/reviews/stoeckli-metall-ag-blechbearbeitungszentrum-netstal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1542313103,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,31 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJr01QgG0ZkEcRM1SfHAV6j1g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Samuel Hunziker",
+        "author_photo": "/images/reviews/meitom-metallbau-gmbh-oberkulm/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service!\nAls wir in den Ferien waren wurde ganz unkompliziert unser Garagentor perfekt repariert!\nHerzlichen Dank 🙏\nSamuel Hunziker Gontenschwil",
+        "time": 1707581694,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

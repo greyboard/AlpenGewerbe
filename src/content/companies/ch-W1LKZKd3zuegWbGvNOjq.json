@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2X96gmDfhEcRyjoDMmPueCM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Franziska Muff",
+        "author_photo": "/images/reviews/maler-en-colur-danis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seine kompetente und höffliche Beratung  waren aufschlussreich und verhalfen dem persönlichen Styl angepasst, die passende Auswahl der Farbkombination. Seine Arbeit ist präzise, sorgfältige und geprägt von seiner Leidenschaft als Maler. Den Arbeitsplatz hinterlässt er sauber und ordentlich. Ich war stehts gut informiert über sein kommen und gehen, was Vertrauen weckt.",
+        "time": 1769079839,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Pieder Blumenthal",
+        "author_photo": "/images/reviews/maler-en-colur-danis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Arbeit\nWir haben schon 3 Aufträger erteilt und waren immer sehr zufrieden.",
+        "time": 1771147692,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Maik Salvator",
+        "author_photo": "/images/reviews/maler-en-colur-danis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Guter Mann😀Immer freundlich , aufgestellt ,saubere Arbeit , schnell rasch und unkompliziert , Danke Sascha gerne wieder.Gruss Maik",
+        "time": 1769967763,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Anja Gähwiler",
+        "author_photo": "/images/reviews/maler-en-colur-danis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit.\nSehr gute Beratung was Farbe angeht.\nSehr Freundlich und hinterläst alles sauber.",
+        "time": 1769967815,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Ursina Caduff",
+        "author_photo": "/images/reviews/maler-en-colur-danis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute und saubere Arbeit.\nSehr zu empfehlen!",
+        "time": 1771143477,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

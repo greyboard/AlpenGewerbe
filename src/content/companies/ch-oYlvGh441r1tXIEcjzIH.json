@@ -26,5 +26,39 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJWXVXacdmRWcRVnhZoqxmS38",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Gerhard Hillebrand",
+        "author_photo": "/images/reviews/viamala-gartenbau-thusis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich kompetent und hilfsbereit !!!",
+        "time": 1740585580,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "lel dilol lel",
+        "author_photo": "/images/reviews/viamala-gartenbau-thusis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top 👍",
+        "time": 1729255193,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

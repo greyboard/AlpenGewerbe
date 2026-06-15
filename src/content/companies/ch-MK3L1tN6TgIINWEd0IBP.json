@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJx6JUTzATkEcRXWK0HxI3FG8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "H G",
+        "author_photo": "/images/reviews/metallbau-ag-neuenhof/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit den Leistungen der Metallbau AG rundum zufrieden. Von der ersten Beratung über die Planung und Herstellung bis hin zur Montage lief alles professionell, zuverlässig und sehr kundenorientiert. Besonders beeindruckt hat mich die Sorgfalt und die Liebe zum Detail, mit der gearbeitet wird, Handwerk auf höchstem Niveau.",
+        "time": 1764486521,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Giuse Borri",
+        "author_photo": "/images/reviews/metallbau-ag-neuenhof/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sorgfältig entwickelte Details, termingerechte Lieferung und Einbau, zuverlässige Mängelbehebung, stimmiges Preis-Leistungsverhältnis.",
+        "time": 1481272426,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Alexis Pérez",
+        "author_photo": "/images/reviews/metallbau-ag-neuenhof/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1747683420,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Darwin Hansen",
+        "author_photo": "/images/reviews/metallbau-ag-neuenhof/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1608730552,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Suresh Navaratnam",
+        "author_photo": "/images/reviews/metallbau-ag-neuenhof/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1608100155,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

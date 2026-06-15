@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5Wehh0oshUcRdpLDtfc8csc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Armando Sbordone",
+        "author_photo": "/images/reviews/faeh-maschinen-und-anlagenbau-ag-glarus/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Sehr gute Firma😄👍",
+        "time": 1620888314,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Thomas Eberle",
+        "author_photo": "/images/reviews/faeh-maschinen-und-anlagenbau-ag-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Firma",
+        "time": 1746424140,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Noa Lütschg",
+        "author_photo": "/images/reviews/faeh-maschinen-und-anlagenbau-ag-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Firma",
+        "time": 1628969337,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Kalassa Musasha",
+        "author_photo": "/images/reviews/faeh-maschinen-und-anlagenbau-ag-glarus/reviewer_4.jpg",
+        "rating": 2,
+        "text": "Sie haben keine Ahnung, was sich in ihrem eigenen Lagerbestand befindet!",
+        "time": 1720800437,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thierry Geiser",
+        "author_photo": "/images/reviews/faeh-maschinen-und-anlagenbau-ag-glarus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein äußerst kompetentes und sehr gastfreundliches Unternehmen.",
+        "time": 1649779432,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

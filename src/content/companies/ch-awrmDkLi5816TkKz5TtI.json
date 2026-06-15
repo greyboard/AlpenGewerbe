@@ -26,5 +26,31 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJM8vMQwBvjEcR2EIRipFfOzQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: 08:00–18:00 Uhr",
+    "Sonntag: 08:00–18:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Antoine Morel",
+        "author_photo": "/images/reviews/sos-toitures-collonge-bellerive-collonge-bellerive/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma SOS Toitures Collonge-Bellerive wurde für die Dachsanierung und Abdichtung beauftragt und lieferte professionelle und langlebige Ergebnisse. Das Team war zuverlässig und kompetent, die Ausführung makellos und alle Fristen wurden eingehalten. Ich bin sehr zufrieden und kann die Firma uneingeschränkt empfehlen.",
+        "time": 1771181119,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

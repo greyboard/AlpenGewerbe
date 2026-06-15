@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJDffeynAhm0cRNJo0dtnMQ3A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Ronny Heeb",
+        "author_photo": "/images/reviews/kunstschmiede-appenzell-ag-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher, zuvorkommender Kontakt! Die bisher für uns angefertigten Produkte (Feuersäule mit Alpaufzug, Rosenbogen, Tische und Bänke) sind nicht nur wunderschön anzusehen, sondern zeugen von absoluter top Qualität! Man spürt die Liebe, welche in der Arbeit steckt.",
+        "time": 1617514865,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stephan Saner",
+        "author_photo": "/images/reviews/kunstschmiede-appenzell-ag-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte lediglich eine kleine Reparatur an einem Kunstgegenstand (in Augen eines Kenners ist es wohl eher ein Gimmick), also nichts wirklich Grosses. Trotzdem wurde ich ernst genommen, sehr schnell, freundlich und professionell betreut. Für mich Grund genug, die Kunstschmiede Appenzell AG vorbehaltlos zu empfehlen. Es war mir eine Freude, Herrn Aurel Wyser begegnen zu dürfen - ein toller und sehr empathischer Unternehmer.",
+        "time": 1616689821,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christian Manser",
+        "author_photo": "/images/reviews/kunstschmiede-appenzell-ag-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Handwerk, exakt, zuverlässig und pünktlich!",
+        "time": 1704464351,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "huso 123",
+        "author_photo": "/images/reviews/kunstschmiede-appenzell-ag-appenzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "War echt super was man da machen kann",
+        "time": 1625597780,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Maria Schoenenberger",
+        "author_photo": "/images/reviews/kunstschmiede-appenzell-ag-appenzell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wunderschöne geschmiedete Artikel",
+        "time": 1557908209,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

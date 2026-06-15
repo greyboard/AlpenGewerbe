@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKXJY5q3HhEcRUWpu0Ro6atQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Kevin Caluori",
+        "author_photo": "/images/reviews/swisspro-ag-domat-ems/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Marco und sein Team sind unsere verlässlichen Hauselektriker. Sobald wir ein elektrisches Problem haben, wenden wir uns an sie – und wurden noch nie enttäuscht. Ob beim Abbau der Gasheizung und der Installation der Wärmepumpe, bei der Badsanierung im Obergeschoss oder beim Austausch der Deckenspots – sie haben stets sehr gute Arbeit geleistet. Ihre professionelle und zuverlässige Arbeitsweise schätzen wir sehr!",
+        "time": 1743105949,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Armin Schneller",
+        "author_photo": "/images/reviews/swisspro-ag-domat-ems/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698769314,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Crash Taroja",
+        "author_photo": "/images/reviews/swisspro-ag-domat-ems/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1694100424,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marc Pernollet",
+        "author_photo": "/images/reviews/swisspro-ag-domat-ems/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1686481554,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

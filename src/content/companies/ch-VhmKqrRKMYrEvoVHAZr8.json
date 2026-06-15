@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJMwKPyMophUcRQ2XMQUOSfuc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Ruedi Seelhofer",
+        "author_photo": "/images/reviews/marti-ag-bauunternehmung-buero-matt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die richtige Adresse für kompetente und freundliche Bauausführungen aller Art.",
+        "time": 1644342809,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ghost",
+        "author_photo": "/images/reviews/marti-ag-bauunternehmung-buero-matt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und hilfsbereite Mitarbeiter. Kann man nur empfehlen 💪",
+        "time": 1690440274,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daftrucker",
+        "author_photo": "/images/reviews/marti-ag-bauunternehmung-buero-matt/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ein Stern ist noch Zuviel",
+        "time": 1713525814,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mario Bento",
+        "author_photo": "/images/reviews/marti-ag-bauunternehmung-buero-matt/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1653115780,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jacob Marti",
+        "author_photo": "/images/reviews/marti-ag-bauunternehmung-buero-matt/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1728818948,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

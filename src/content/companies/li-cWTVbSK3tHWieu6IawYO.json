@@ -25,5 +25,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJJVgOlm06m0cRIUrQVeqmayA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Claudio Vincenz",
+        "author_photo": "/images/reviews/service-urs-li-urs-marxer-mauren/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Beste Sanitär den es gibt… in jeder Beziehung: Arbeit, Planung, Service , Menschlichkeit… grossartig, lieber Urs",
+        "time": 1743741259,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nenad Djuric",
+        "author_photo": "/images/reviews/service-urs-li-urs-marxer-mauren/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr netter und professioneller Service. Kann ich nur absolut weiterempfehlen!",
+        "time": 1739348313,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Cornel Berger",
+        "author_photo": "/images/reviews/service-urs-li-urs-marxer-mauren/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hat alles tip top geklappt. Gerne wieder.",
+        "time": 1733653553,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Julia Marxer",
+        "author_photo": "/images/reviews/service-urs-li-urs-marxer-mauren/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service. Sehr zuverlässig.",
+        "time": 1733393838,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Elke Öhri Öhri",
+        "author_photo": "/images/reviews/service-urs-li-urs-marxer-mauren/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1620239479,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

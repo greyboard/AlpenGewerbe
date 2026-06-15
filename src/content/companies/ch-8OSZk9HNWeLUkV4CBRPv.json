@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ26BlO73XkUcR-Yrzk3DIzpo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 07:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Dome Werd",
+        "author_photo": "/images/reviews/porta-schreinerei-kuechenbau-riedholz/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Die Küche war mir besonders wichtig bei meinem neugebauten Haus. Bei diesem Geschäft wurden mir praktische Möglichkeiten aufgezeigt welche die Küche wesentlich effizienter machen. Mit dem Personal und der Dienstleistung bin ich zufrieden.",
+        "time": 1374225673,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Juan Carlos Rodriguez",
+        "author_photo": "/images/reviews/porta-schreinerei-kuechenbau-riedholz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "ich bin sehr zufrieden, Ich kann Herr Porta nur empfehlen.",
+        "time": 1592317080,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Michael Rueetschli",
+        "author_photo": "/images/reviews/porta-schreinerei-kuechenbau-riedholz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Prima Schreinerei",
+        "time": 1502622987,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Susanne Lüthi",
+        "author_photo": "/images/reviews/porta-schreinerei-kuechenbau-riedholz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605795796,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

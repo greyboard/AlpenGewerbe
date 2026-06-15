@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJKZKHm1tK_aMRzc0wmWx5edw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 08:30–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Sophie Revil",
+        "author_photo": "/images/reviews/jeannintopgreen-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Jean-Baptiste ist ein Landschaftsarchitekt mit vielfältigen Fähigkeiten: Von Pflanzen bis hin zum Landschaftsbau – er deckt alles ab! Und ihm gehen die Ideen nie aus! Er erstellt sogar Modelle, sodass wir uns seinen Entwurf für unseren eigenen Garten ganz einfach vorstellen können!",
+        "time": 1712163960,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sabine Boehm",
+        "author_photo": "/images/reviews/jeannintopgreen-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, zuverlässig, aufmerksam, vertrauenswürdig und kümmert sich sehr gut um unseren Garten. Kann TopGreen wärmstens empfehlen.",
+        "time": 1681990941,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Elena de Weck",
+        "author_photo": "/images/reviews/jeannintopgreen-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sorgfältig und zuverlässig. TopGreen ist absolut empfehlenswert, wenn Sie Ihren Garten in Topform halten möchten!",
+        "time": 1681713787,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Julien Mangue",
+        "author_photo": "/images/reviews/jeannintopgreen-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein sehr renommiertes Unternehmen, sowohl was die Qualität der Beratung als auch die Ausführung der Arbeiten betrifft.\nIch kann es wärmstens empfehlen!",
+        "time": 1647092926,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sabine Charrier",
+        "author_photo": "/images/reviews/jeannintopgreen-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hochwertige und kreative Arbeit\nFreundlicher Inhaber\nSehr empfehlenswert",
+        "time": 1647003661,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

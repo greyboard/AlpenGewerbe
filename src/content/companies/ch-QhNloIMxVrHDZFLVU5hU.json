@@ -26,5 +26,22 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7_SriE5jjEcRsdPfncSfA-8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Xavier Ferrero",
+        "author_photo": "/images/reviews/boss-metal-satigny/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1649455573,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

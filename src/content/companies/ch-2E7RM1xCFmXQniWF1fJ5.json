@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJby17Wk6qmkcRpqvqzg7Oh7U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Marion Ackermann",
+        "author_photo": "/images/reviews/a-s-weiss-schreinerei-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Leidenschaft und Innovation treffen auf Präzision und Qualität - als Ergebnis darf man sich an zeitloser Schönheit freuen!",
+        "time": 1709043793,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicole Weiss",
+        "author_photo": "/images/reviews/a-s-weiss-schreinerei-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Innovativer, qualitätsbewusster und lösungsorientierter Schreiner, welcher sein Handwerk versteht! Sehr zu empfehlen!",
+        "time": 1671690040,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Camilla Zenoni",
+        "author_photo": "/images/reviews/a-s-weiss-schreinerei-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Anfertigung nach Wunsch. Perfekt ausgeführt. Sehr zufrieden.",
+        "time": 1679664309,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabio Zulauf",
+        "author_photo": "/images/reviews/a-s-weiss-schreinerei-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Stilvolle Design Möbel, exzellente Beratung!",
+        "time": 1671690170,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Markus Sandhofer",
+        "author_photo": "/images/reviews/a-s-weiss-schreinerei-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "sehr schöne und innovative Produkte",
+        "time": 1670413632,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJMz1HOK6PmkcRGHF418AoIUk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Marcus Poisson",
+        "author_photo": "/images/reviews/maurerarbeiten-mesquita-gmbh-mammern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Mesquita und sein Team, kamen aufgrund eines Notfalls (Wassereinbruch im Keller). Es wurde nicht lange nach einem Termin gesucht, sondern sie haben unkompliziert, freundlich und sehr professionell Hilfe angeboten. Die Arbeit war rasch, äusserst fachmännisch und vor allem nachhaltig erledigt. Selten sieht man Handwerker, welche einfach \"e gueti Büez\" machen, Probleme erkennen und diese dann langfristig lösen. Ich bin sehr dankbar, dass Alles so gut geklappt hat und kann Herrn Mesquita bestens weiterempfehlen, auch ich werde ihn für kommende Projekte berücksichtigen. Vielen Dank, auch an das ganze Team für diese hervorragende Leistung.",
+        "time": 1758888726,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Abisanth Ravendiran",
+        "author_photo": "/images/reviews/maurerarbeiten-mesquita-gmbh-mammern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ernesto, bester Mann! Sehr gute Qualität zu fairen Preisen. Hält sein Wort. Bringt viel Erfahrung  in verschiedenen Bereichen im Bau mit.\n\nDankeschön",
+        "time": 1691144731,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stephan Schmid",
+        "author_photo": "/images/reviews/maurerarbeiten-mesquita-gmbh-mammern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Aufträge wurden von Maurerarbeiten Mesquita GmbH schnell und qualitativ hochwertig durchgeführt. Vielen Dank.",
+        "time": 1669126308,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Norbert M.",
+        "author_photo": "/images/reviews/maurerarbeiten-mesquita-gmbh-mammern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit, faire Preise. Werde das Unternehmen allenfalls gerne wieder beauftragen.",
+        "time": 1669099477,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Raphael Zehnder",
+        "author_photo": "/images/reviews/maurerarbeiten-mesquita-gmbh-mammern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr angenehmer Kontakt. Einwandfreie Arbeit und faire Preise",
+        "time": 1669131353,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

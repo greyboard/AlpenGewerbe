@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0wRNhHosjkcRKz4ciVs7x2g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Brigitte Ramos",
+        "author_photo": "/images/reviews/holzart-schreinerei-rumendingen-gmbh-rumendingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Leidenschaftlich, kreativ, individuell.\nSuper Beratung. Präzise Ausführung.",
+        "time": 1657188791,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "muhi ljimani",
+        "author_photo": "/images/reviews/holzart-schreinerei-rumendingen-gmbh-rumendingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bester Schreiner. Top Qualität.",
+        "time": 1709914050,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jack BigTree",
+        "author_photo": "/images/reviews/holzart-schreinerei-rumendingen-gmbh-rumendingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein fantastischer Schreiner, der unsere Küche komplett neu gestaltet hat. Ein wahrer Künstler im Umgang mit Holz. Absolut empfehlenswert, wenn Sie etwas Maßgefertigtes wünschen.",
+        "time": 1556483701,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Brigitte Ramos",
+        "author_photo": "/images/reviews/holzart-schreinerei-rumendingen-gmbh-rumendingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656179380,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pascal Rothermann",
+        "author_photo": "/images/reviews/holzart-schreinerei-rumendingen-gmbh-rumendingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1653331043,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

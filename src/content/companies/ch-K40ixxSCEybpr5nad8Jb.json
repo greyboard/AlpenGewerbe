@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJK9qtuH4GkEcR6nE7EPCuU7g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 50,
+    "reviews": [
+      {
+        "author_name": "Tomi",
+        "author_photo": "/images/reviews/glaserei-piccini-gmbh-obfelden/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ich verstehe die vielen positiven Bewertungen wirklich nicht. Bei uns war nur der Austausch der Gummilippen an der Dusche geplant, eigentlich eine einfache Arbeit. Daraus wurde ein komplettes Durcheinander, angeblich falsche Lieferung, dann Lieferverzögerung und schlussendlich wieder falsche Teile. Nach mehreren Besuchen war das Problem immer noch nicht gelöst. Schlussendlich mussten wir einen anderen Unternehmer beauftragen, der es in kurzer Zeit richtig gemacht hat. Die Glaserei Piccini werden wir in Zukunft nicht mehr aufbieten.",
+        "time": 1760447255,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Sarina Bauer",
+        "author_photo": "/images/reviews/glaserei-piccini-gmbh-obfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir möchten uns bedanken für den tollen Service, die kompetente Beratung und die Tipps! Ist nicht selbstverständlich. Gerne jederzeit wieder, wir können sie nur weiterempfehlen.",
+        "time": 1759147844,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Info@Nitrilhandschuhe BRUN",
+        "author_photo": "/images/reviews/glaserei-piccini-gmbh-obfelden/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Ich bin erstaunt, dass die anderen Reviews durchgehend positiv sind. Wir waren überhaupt nicht happy mit der Art und Weise, wie die Arbeiten bei uns erledigt wurden. Für eine einfache Arbeit, verschieben einer Glastrennwand, brauchte es mindestens sechs Termine. Kleinteile gingen verloren, es wurde gebastelt und die Türe quietscht bis heute extrem unangenehmem. Wenn ich nochmals wählen könnte, würde ich sicher einen anderen Anbieter wählen.\n\nNachtrag 6.02.24: Positiv festzuhalten, dass Piccini GmbH x-mal vor Ort gekommen ist, bis alle Mängel und Probleme behoben wurden.",
+        "time": 1707223244,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "M. Werder",
+        "author_photo": "/images/reviews/glaserei-piccini-gmbh-obfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Auch ich möchte mich mit einer positiven Rezension herzlich für die perfekte Ausführung meines Auftrages bedanken. Ein grosser Spiegel nach Mass zuschneiden lassen - mit speziellen Ecken. Es hat alles auf den Millimeter gepasst. Super, und es war mir ein grosses Anliegen, dass das so realisiert werden konnte.",
+        "time": 1688638898,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Martin Roth",
+        "author_photo": "/images/reviews/glaserei-piccini-gmbh-obfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe aus einem Nachlass einen alten Stereoskop-Betrachter bekommen, dessen Spiegel blind war. Der Spiegel mass nur 8,6x 2,8x0,2 cm und musste sehr genau sein. Das alles für einen kleinen Beitrag in die Kaffeekasse. \"Super\"",
+        "time": 1695831906,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

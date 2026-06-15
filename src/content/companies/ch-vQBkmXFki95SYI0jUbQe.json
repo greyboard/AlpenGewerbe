@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJH9rm4x_ZkUcRBhYRbcYdQ7o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "HJ Flury",
+        "author_photo": "/images/reviews/rohn-elektro-unternehmen-ag-bellach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Rohn arbeitet effizient und kundenorientiert an den besten Lösungen. Man fühlt sich als Kunde sehr gut aufgehoben. Die Angestellten sind sehr zuverlässig. Einfach ein sympathisches eigenständiges Unternehmen. Man hört auch von den Arbeitnehmern, dass es eine sehr gut geführte Firma ist, in der man gut und fair behandelt wird. Solche Unternehmen unterstütze ich gerne.",
+        "time": 1718044055,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Imagemedia GmbH",
+        "author_photo": "/images/reviews/rohn-elektro-unternehmen-ag-bellach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Rohn Elektro-Unternehmen AG hat für unsere Firma, die Imagemedia GmbH, bereits mehrere Installationen erfolgreich umgesetzt, und wir sind durchweg begeistert! Das Team ist sehr sympatisch, professionell und verfügt über ein hohes Mass an Fachwissen. Die Zusammenarbeit mit Rohn Elektro-Unternehmen AG war immer reibungslos und angenehm. Wir können dieses Unternehmen uneingeschränkt weiterempfehlen und freuen uns auf weitere gemeinsame Projekte!",
+        "time": 1718013394,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sharp Mouse",
+        "author_photo": "/images/reviews/rohn-elektro-unternehmen-ag-bellach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Als wir das Haus meiner Mutter übernommen haben, mussten wir alle Installationen neu machen. Von der Planung bis zur Installation hat alles einwandfrei geklappt! Sehr freundliches und motiviertes Team! Und danke auch für die Idee für die Beleuchtung der Treppe, ist sicherer geworden! Weiter so!",
+        "time": 1718010814,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kay Keleman",
+        "author_photo": "/images/reviews/rohn-elektro-unternehmen-ag-bellach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Rohn Elektro-Unternehmen AG ist ein sehr kompetentes Unternehmen.\nAbsolut professionell und hilfsbereit.\nFreundliche Mitarbeiter und immer in der Lage die perfekte Lösung zu bieten.\nSehr empfehlenswert.",
+        "time": 1719893345,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Käser",
+        "author_photo": "/images/reviews/rohn-elektro-unternehmen-ag-bellach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben alle unsere Elektroinstallationen durch Rohn machen lassen bei uns, inkl neues Stromtableau, die neue PV-Anlage und die Verkabelung der neuen Wärmepumpe und Anbau. Sind mit dem Service der Rohn bietet von der Offerte bis zur Durchführung und Abschluss sehr zufrieden und können sie sehr gerne weiterempfehlen",
+        "time": 1718009640,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

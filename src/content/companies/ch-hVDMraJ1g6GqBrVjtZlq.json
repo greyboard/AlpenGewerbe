@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8eqX6CKqmkcRkVMKL07z-r8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Adriana Carrano",
+        "author_photo": "/images/reviews/compagnoni-ag-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe eine ausgezeichnete Erfahrung mit Gipserei Compagnoni gemacht: Die Arbeit wurde einwandfrei, schnell und mit großer Sorgfalt für Qualität ausgeführt. Professionell und zuverlässig – ich werde mich in Zukunft auf jeden Fall wieder an sie wenden. Sehr zu empfehlen!",
+        "time": 1757095551,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Petrachi Fabio",
+        "author_photo": "/images/reviews/compagnoni-ag-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Compagnoni AG nur weiterempfehlen!\nAbsolut nichts zu bemängeln.\nHerr G. Compagnoni hat mich mit seiner Fachkompetenz sehr überzeugt und die Arbeiten wurden einwandfrei ausgeführt in exzellenter Qualität.\nAusserdem war die Baustelle immer aufgeräumt sowie sauber gehalten. Die Arbeiter waren stets immer freundlich und die Termine wurden eingehalten.\nIch bedanke mich beim ganzen Compagnoni AG Team!",
+        "time": 1733303024,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Zorica Saljo",
+        "author_photo": "/images/reviews/compagnoni-ag-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit der Compagnoni AG. Giuseppe ist äußerst freundlich, sehr erfahren und hat die Leitung meines Projekts – der neuen Praxis – hervorragend übernommen. Ich bin ihm dafür sehr dankbar. Alles wurde wie versprochen termingerecht und in höchster Qualität umgesetzt. Ich kann die Firma nur wärmstens weiterempfehlen! Sehr professionell, zuverlässig und freundlich. Top Service mit exzellentem Fachwissen.",
+        "time": 1734698060,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dominik",
+        "author_photo": "/images/reviews/compagnoni-ag-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wie haben mit der Firma Compagnoni AG bei einem großen Projekt in Zug zusammengearbeitet. Die Trockenbau- und Deckenarbeiten wurden komplett nach unseren Vorstellungen und Wünschen umgesetzt. Alle Mitarbeiter waren sehr freundlich und kompetent! Der Chef war auch jederzeit erreichbar und hat alles super organisiert! Bei weiteren Projekten würden wir die Firma immer wieder einsetzen!",
+        "time": 1719575119,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Guido Abaecherli",
+        "author_photo": "/images/reviews/compagnoni-ag-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit der Compagnoni AG sehr zufrieden. Der Juniorchef, G. Compagnoni, war mehrmals bei uns auf der Baustelle und hat die Arbeiten umsichtig und präzis geplant. Das Team der Compagnoni AG hat dann die Arbeiten sehr kompetent und sehr sorgfältig ausgeführt. Die Arbeiter waren sehr freundlich. Die Qualität der Arbeit ist top! Vielen Dank! 100%ige Weiterempfehlung.",
+        "time": 1750084783,
+        "relative_time_description": "vor 12 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

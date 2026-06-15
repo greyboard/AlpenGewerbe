@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJY5Rkei-4kUcRQLOqe0jdlJ0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Theodor Weber",
+        "author_photo": "/images/reviews/duerrenberger-maler-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung durch Herr Schneider.  Er hat mir für eine kleine Ausbesserung sehr kompetent\nfreundlich und zuvotkommend geholfen. Ich kann dieses Geschäft sehr empfehlen.",
+        "time": 1682354219,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Claude Messerli",
+        "author_photo": "/images/reviews/duerrenberger-maler-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Grosser Malerbetrieb auf dem Dreispitzareal.",
+        "time": 1596992304,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Peter Bürgin",
+        "author_photo": "/images/reviews/duerrenberger-maler-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1761586120,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "kläntschi Daniel",
+        "author_photo": "/images/reviews/duerrenberger-maler-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756155586,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Nils Pueschner",
+        "author_photo": "/images/reviews/duerrenberger-maler-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1734347880,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

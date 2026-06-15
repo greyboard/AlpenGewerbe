@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO37gPVwem0cRzyHAeQgMQs8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "nicole ineichen",
+        "author_photo": "/images/reviews/elektro-akermann-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute elektro firma bim immer zufrieden machen saubere und schnelle Montage halt profis darüber hinaus sehr höflich und beratend 👌in sachen strom unverzichtbar 💁🏻‍♀️",
+        "time": 1740641622,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Knuth Randow",
+        "author_photo": "/images/reviews/elektro-akermann-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Immer wieder (schon lange unser Elektriker) begeistert: schnell, sauber, zuverlässig, auch ohne vorheriges Angebot gutes Preisniveau! Empfehlenswert! K. Randow",
+        "time": 1631681421,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Susanna Affentranger",
+        "author_photo": "/images/reviews/elektro-akermann-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kamen innert kurzer Zeit vorbei, um das Internet zu überführen. Danach haben sie sogar angerufen, um sicher zu gehen, dass der Provider alles richtig aufgegleist hat. Das nennt man noch Service! Ausserdem sehr freundlich, professionell und äusserst zuverlässig. Ohne deren Hilfe hätte ich bis heute noch keinen Zugang zum Netz. Vielen Dank!",
+        "time": 1583948536,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Unnamed",
+        "author_photo": "/images/reviews/elektro-akermann-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bester Installateur den ich kenne",
+        "time": 1765053084,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Heinz Wappler",
+        "author_photo": "/images/reviews/elektro-akermann-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit und dem Kontakt der Firma Elektro Akermann immer sehr zufrieden,seit vielen Jahren!",
+        "time": 1687273715,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

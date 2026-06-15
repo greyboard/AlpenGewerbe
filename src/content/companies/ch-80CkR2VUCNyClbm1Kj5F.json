@@ -26,5 +26,54 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJkaCSnTYohUcRdgB8_2ebM_4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Isabella S.",
+        "author_photo": "/images/reviews/schuler-heizungen-matt-matt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte mich auf diesem Wege nochmals bei Herrn Schuler und vor allem bei seinen Mitarbeitern aus tiefstem Herzen bedanken.\nEgal zu welcher Tageszeit, ob während der Woche oder am Wochenende, alle sind immer erreichbar, melden sich sofort zurück, kommen noch am selben Tag und sind zu 100% bemüht das Problem zu beheben.\nIch kann diese Firma wärmstens weiter empfehlen.\nVielen lieben Dank nochmals für all Ihre Mühe.",
+        "time": 1737040116,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Silko Keiner",
+        "author_photo": "/images/reviews/schuler-heizungen-matt-matt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nett und freundlich, ein Spezialist auf seinem Gebiet",
+        "time": 1610376836,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefan „Stefan“ Androschin",
+        "author_photo": "/images/reviews/schuler-heizungen-matt-matt/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705748485,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tobias Marti",
+        "author_photo": "/images/reviews/schuler-heizungen-matt-matt/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1670382774,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "alleSGeh",
+        "author_photo": "/images/reviews/schuler-heizungen-matt-matt/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1659819782,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPZu7ORDHhEcRe3K8XfYPGXA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Rossboden-Garage Chur AG",
+        "author_photo": "/images/reviews/gipser-kobelt-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Leistung und professionelle Arbeit!\n\nIch habe mein Zuhause umbauen lassen, und die Firma Gipser Kobelt hat dabei hervorragende Arbeit geleistet. Von der ersten Beratung bis zur Fertigstellung verlief alles reibungslos.\n\nZudem wurde die Baustelle stets sauber hinterlassen, was den gesamten Ablauf sehr angenehm gemacht hat.\n\nIch kann diese Firma uneingeschränkt weiterempfehlen.\n\nVielen Dank für die tolle Arbeit!",
+        "time": 1740754023,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Italyshooterxp EgoKing",
+        "author_photo": "/images/reviews/gipser-kobelt-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eine tolle Firma welche eine sehr gute Fachkenntnis hat, sowohl die Chefs als auch die Mitarbeiter sind stehts bemüht Ideen miteinzubringen und bei möglichen problemen sind sie bereit lösungen zu finden. Sie sind sehr Freundlich wie auch sehr sauber bei Ihrer Arbeit. Ich kann Gipser Kobelt nur weiterempfehelen und wünsche der Firma Kobelt nur das beste! :)",
+        "time": 1723986087,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luca Perazzelli",
+        "author_photo": "/images/reviews/gipser-kobelt-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Meine Erfahrung mit der Firma?\n- höchst kompetent\n- total kundenorientiert\n- absolut fair\n- überaus professionell\n- aussergewöhnlich termintreu\n- völlig empfehlenswert\nJederzeit gerne wieder!",
+        "time": 1714417264,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Beni Fuchs",
+        "author_photo": "/images/reviews/gipser-kobelt-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Innovativ, kompetent und freundlich. Tolle Firma und Mitarbeiter. Geht auf Kundenwünsche ein, berät kompetent und fair.",
+        "time": 1706952121,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marvin Karst",
+        "author_photo": "/images/reviews/gipser-kobelt-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hochwertige Arbeit, professionelle Planung und Ausführung. Sehr empfehlenswert!",
+        "time": 1715698491,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

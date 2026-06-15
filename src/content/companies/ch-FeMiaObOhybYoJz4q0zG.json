@@ -26,5 +26,22 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJBZ07R-tVhUcRA0fswuoJDco",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Robert Roost",
+        "author_photo": "/images/reviews/arth-keramik-gmbh-oberarth/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In meiner Notlage hat die Firma Arth Keramik GmbH ausgeholfen, mit Exakter, sauberer und zuverlässiger Arbeit.",
+        "time": 1586369114,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

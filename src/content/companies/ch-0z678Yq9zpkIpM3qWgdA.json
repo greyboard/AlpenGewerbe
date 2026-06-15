@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJQTdKs7zwj0cRLJ0N2l01UAU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:00–12:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Edith Fluegel",
+        "author_photo": "/images/reviews/werner-keller-metallbau-ag-hergiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Wintergarten ist nach 15 Jahren immer noch top. Nochmals herzlichen Dank für Ihre ausgezeichnete Arbeit.",
+        "time": 1675266101,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Diamond Kosmetik Pinzette",
+        "author_photo": "/images/reviews/werner-keller-metallbau-ag-hergiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ungemein freundliche und hilfsbereite Mitarbeiter. Wir hatten eine Panne und uns wurde wie selbstverständlich geholfen. Dafür bedanken wir uns herzlich und wünschen alles Gute.",
+        "time": 1528311833,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Reto Lichtsteiner",
+        "author_photo": "/images/reviews/werner-keller-metallbau-ag-hergiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnell, kompetent, zuvorkommend\nKUNDENORIENTIERUNG AAA",
+        "time": 1662551393,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "M K",
+        "author_photo": "/images/reviews/werner-keller-metallbau-ag-hergiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1671092257,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roger",
+        "author_photo": "/images/reviews/werner-keller-metallbau-ag-hergiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1641287757,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

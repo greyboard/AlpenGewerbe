@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJy625QPermkcRPMtq3RmuKA0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Stefan Schmid",
+        "author_photo": "/images/reviews/mc-maler-mehr-als-nur-farbe-neuheim/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe das ganze Haus machen lassen! Holz + Fassade. Wirklich tolle Arbeit, bin voll auf zufrieden.",
+        "time": 1779120738,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Renata Golubovic",
+        "author_photo": "/images/reviews/mc-maler-mehr-als-nur-farbe-neuheim/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Ergebnis war hervorragend, und die Arbeit wurde schnell erledigt.",
+        "time": 1778665282,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Jovan Vukovic",
+        "author_photo": "/images/reviews/mc-maler-mehr-als-nur-farbe-neuheim/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Perfektes Ergebnis – die Fassade ist top sauber. Kann ich wirklich nur weiterempfehlen!",
+        "time": 1778612137,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Zora Vukovic",
+        "author_photo": "/images/reviews/mc-maler-mehr-als-nur-farbe-neuheim/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden! Unsere Fassade sieht wieder aus wie neu. Schnelle, saubere und unkomplizierte Arbeit.",
+        "time": 1778612114,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "aleks vukovic",
+        "author_photo": "/images/reviews/mc-maler-mehr-als-nur-farbe-neuheim/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Arbeit! Die Fassade ist wieder richtig sauber geworden. Einfach, unkompliziert und absolut empfehlenswert.",
+        "time": 1778612082,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJXWy8Cu_yj0cRQMQzVAE8DuI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Graziella Canonico",
+        "author_photo": "/images/reviews/hinter-maler-ag-sachseln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Beratung und tolle Arbeit",
+        "time": 1716632643,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Urs Von Atzigen",
+        "author_photo": "/images/reviews/hinter-maler-ag-sachseln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697710818,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Sigrist",
+        "author_photo": "/images/reviews/hinter-maler-ag-sachseln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1618848670,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "jens uhlmann",
+        "author_photo": "/images/reviews/hinter-maler-ag-sachseln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1570885070,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tobi omlin",
+        "author_photo": "/images/reviews/hinter-maler-ag-sachseln/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1539461146,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

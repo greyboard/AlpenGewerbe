@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJl84WBXI5jkcRhbXonr-E9A8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Suvi Suvendran",
+        "author_photo": "/images/reviews/eautherm-gebaeudetechnik-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem Service der Eautherm GmbH sehr zufrieden. Vom ersten Kontakt bis zur Fertigstellung hat alles reibungslos und professionell funktioniert. Der Mitarbeiter war pünktlich, freundlich und hat sauber gearbeitet. Besonders geschätzt habe ich, dass alles verständlich erklärt wurde und man sich auch nach Abschluss des Auftrags nochmals erkundigt hat, ob alles einwandfrei läuft.\nIch kann die Firma Eautherm GmbH mit bestem Gewissen weiterempfehlen – zuverlässig, kompetent und kundenorientiert",
+        "time": 1761987258,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Nedzad Avdic",
+        "author_photo": "/images/reviews/eautherm-gebaeudetechnik-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hat für uns in der Vergangenheit diverse Aufträge ausgeführt, überzeugt nebst der fachgerechten Ausführung durch gute Planung, Kommunikation und Zuverlässigkeit",
+        "time": 1761985011,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Caroline Reber",
+        "author_photo": "/images/reviews/eautherm-gebaeudetechnik-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fründläch, suberi Büetz, zueverlässig und pflichtbewusst..\nWiter so👍",
+        "time": 1730914341,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "P. R.",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjVnBtRcPnOdGZdo5JVWlrVpTss9CeZX4uWfDxPJrk5HQx2jWC2c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "",
+        "time": 1645700906,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

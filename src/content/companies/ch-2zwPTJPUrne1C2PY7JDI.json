@@ -1,7 +1,7 @@
 {
   "id": "ch-2zwPTJPUrne1C2PY7JDI",
   "slug": "mkj-metall-sarl-gurwolf",
-  "name": "MKJ Metall Sàrl",
+  "name": "MKJ Metall GmbH",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,31 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJczt_WQZljkcRI3HJDjmddPc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Anita Jetzer",
+        "author_photo": "/images/reviews/mkj-metall-sarl-gurwolf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hochprofessionell",
+        "time": 1515514417,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

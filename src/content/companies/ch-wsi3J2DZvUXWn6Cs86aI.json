@@ -26,5 +26,46 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJYzyN8O05jkcRhOIoje4vfJY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Carsten Beier",
+        "author_photo": "/images/reviews/pfister-andreas-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unserem Tisch eine neue Platte verpassen lassen. Schichtholz mit Linoleum.\nFantastische Arbeit. Wir sind mega happy.",
+        "time": 1745350731,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Moritz Schneider",
+        "author_photo": "/images/reviews/pfister-andreas-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und super Qualität!",
+        "time": 1625733462,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Anja Schori",
+        "author_photo": "/images/reviews/pfister-andreas-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit!",
+        "time": 1621886293,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Timo Schüpbach",
+        "author_photo": "/images/reviews/pfister-andreas-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1641574733,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

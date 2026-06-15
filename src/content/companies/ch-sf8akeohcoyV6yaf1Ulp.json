@@ -26,5 +26,55 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKdr2JQ78j0cRSQqixQslLYk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Martin Küng",
+        "author_photo": "/images/reviews/circelli-ag-ebikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Voll und ganz zufrieden.\n- Beratung vor Ort\n- mit der Arbeit am abgemachten Tag gestartet\n- Zeitplan eingehalten\n- saubere Ausführung der Arbeit\n- Baustelle perfekt hinterlassen\nVielen Dank",
+        "time": 1523390718,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Pascal Arnet",
+        "author_photo": "/images/reviews/circelli-ag-ebikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Speditiv und kompetent",
+        "time": 1704138960,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "ICE_ Elmedin",
+        "author_photo": "/images/reviews/circelli-ag-ebikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1616619695,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "adam ivankovic",
+        "author_photo": "/images/reviews/circelli-ag-ebikon/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1563093010,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

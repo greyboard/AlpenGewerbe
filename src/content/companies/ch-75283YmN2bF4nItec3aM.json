@@ -26,5 +26,54 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJN5g5qGIhm0cRl5BIrJxA3qM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "René Burri",
+        "author_photo": "/images/reviews/zimmermann-ag-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Firma vom Chef , Büro bis Mitarbeiter haben alle professionellen Einsatz gezeigt. Offerte und Rechnung haben voll gepasst. Firma sehr weiterzuempfehlen . Koordination und Einsatz vom ganzen anwesenden Personal zu meiner vollsten Zufriedenheit. Immer gerne wieder. Wohnwagenabbruch ,Muldenstellung alles sofort und professionell.",
+        "time": 1638179030,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ruedi Emil Schneider",
+        "author_photo": "/images/reviews/zimmermann-ag-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Prompter Service, nettes Personal. Immer wieder.",
+        "time": 1693844737,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Oskar Doerig",
+        "author_photo": "/images/reviews/zimmermann-ag-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1766431340,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Lubuki 42",
+        "author_photo": "/images/reviews/zimmermann-ag-appenzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753968615,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "oskar doerig",
+        "author_photo": "/images/reviews/zimmermann-ag-appenzell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1749849086,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

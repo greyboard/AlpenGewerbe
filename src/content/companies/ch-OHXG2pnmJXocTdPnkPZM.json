@@ -26,5 +26,55 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5dpVV7GgmkcRVcu6KfXxE4Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "S. Gippner",
+        "author_photo": "/images/reviews/fritz-looser-soehne-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Endlich qualität und Kompetenz. Bis anhin sind wir immer falsch Beraten worden und die Qualität war miserable was dazu führte das immer Mal wieder jemand kommen musste um das Dach zu reparieren. Wir sind von der Firma Fritz Looser Söhne kompetent beraten worden und es wurde sich Zeit für uns genommen. Da es dringend war, hofften wir auf einen schnellen Termin, den konnten sie aufgrund der Corona- Krise zum Glück nachgehen. Es ist es ein familiäres, junges und dynamisches Team, welches wir gerne um uns hatten. Vielen Dank an die Arbeiter und vor allem Herrn Gippner.\n\nBis zum nächsten Termin\nLiebe Grüsse\nFamilie Gehrke",
+        "time": 1595520449,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ian (Local_Guide_Zürich)",
+        "author_photo": "/images/reviews/fritz-looser-soehne-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich war bei dieser Firma schnuppern und es hat mir sehr gefallen nur zum weiterempfehlen",
+        "time": 1583621813,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Nemanja SrpskaCast Svajcarska",
+        "author_photo": "/images/reviews/fritz-looser-soehne-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1541696375,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "M H",
+        "author_photo": "/images/reviews/fritz-looser-soehne-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1536247315,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

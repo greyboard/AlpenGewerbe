@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJj_AlqYphhUcR634m6aWCIZk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Michal",
+        "author_photo": "/images/reviews/sascha-sanitaer-gmbh-engelberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Unternehmen macht einen professionellen Eindruck. Arbeit in hoher Qualität und pünktlich erledigt. Immer freundlich und flexibel Mitarbeiter.",
+        "time": 1670592956,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Meier",
+        "author_photo": "/images/reviews/sascha-sanitaer-gmbh-engelberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für den top Service & dies am 01.01.25 früh morgens!",
+        "time": 1735751337,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martina Borovska",
+        "author_photo": "/images/reviews/sascha-sanitaer-gmbh-engelberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionell, schnell, unkompliziert und sehr gute Leistung.",
+        "time": 1685429979,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "René Fallet",
+        "author_photo": "/images/reviews/sascha-sanitaer-gmbh-engelberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710686741,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lazar Vukotic",
+        "author_photo": "/images/reviews/sascha-sanitaer-gmbh-engelberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1671453178,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

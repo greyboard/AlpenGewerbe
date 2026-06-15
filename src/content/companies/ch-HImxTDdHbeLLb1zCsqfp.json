@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJefX056q5kUcROKIHtPVSsyU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "CaBu",
+        "author_photo": "/images/reviews/malergenossenschaft-basel-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits mehrfach mit der Malergenossenschaft Basel zusammengearbeitet und wurden jedes Mal aufs Neue überzeugt. Die Qualität der Arbeit ist stets hervorragend, und die Ergebnisse erfüllen höchste Ansprüche.\n\nBereits von der ersten Beratung an fühlten wir uns bestens aufgehoben. Die Mitarbeitenden sind äusserst zuvorkommend, kompetent und denken jederzeit vorausschauend mit. Besonders beeindruckt hat uns erneut die ausgezeichnete Zusammenarbeit und Koordination mit anderen Handwerkern und beteiligten Firmen. Alles verlief reibungslos, professionell und termingerecht.\n\nVom ersten Gespräch bis zur Fertigstellung wurden wir hervorragend begleitet. Man spürt die grosse Leidenschaft, das Engagement und die Liebe zum Detail in jedem einzelnen Arbeitsschritt. Das Endergebnis hat unsere Erwartungen einmal mehr übertroffen – wir sind begeistert und überdurchschnittlich zufrieden.\n\nFür uns steht fest: Die Malergenossenschaft Basel steht für höchste Qualität, Verlässlichkeit und exzellenten Service. Ein herzliches Dankeschön an das gesamte Team für die erneut herausragende Arbeit. Wir können die Malergenossenschaft Basel uneingeschränkt und mit voller Überzeugung weiterempfehlen. S&E, Schönenbuch",
+        "time": 1780142727,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Sal C",
+        "author_photo": "/images/reviews/malergenossenschaft-basel-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben die Wohnung streichen lassen. Gute und saubere Arbeit.\nSehr hilfsbereites Team. Danke und gerne wieder.",
+        "time": 1754988836,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Tjefa Wegener",
+        "author_photo": "/images/reviews/malergenossenschaft-basel-basel/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Malerarbeiten an mittelalterlicher, denkmalgeschützter Hausfassade schlecht ausgeführt.\nSchlechte Kommunikation: haben wiederholt nicht gemacht was ihnen der Steinmetz gesagt hat, unsorgfältig mit der alten Materie umgegangen, zu spät angefangen.",
+        "time": 1598628227,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniel von Sivers",
+        "author_photo": "/images/reviews/malergenossenschaft-basel-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, faire Preise und Verständnis für teilweise Eigenleistungen. Vielen Dank - insbesondere auch für die zugrunde liegende Gipser-Arbeit von den Herren Cairone.",
+        "time": 1503037951,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Markus Kaiser",
+        "author_photo": "/images/reviews/malergenossenschaft-basel-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "unglaublich hilfsbereit",
+        "time": 1590403987,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

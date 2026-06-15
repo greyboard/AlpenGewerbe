@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJs6dNKaI-kEcRwaQ-vftBEXY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Daniel Rohrer",
+        "author_photo": "/images/reviews/schumacher-andi-gartenbau-gmbh-rohr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten mit der Firma schon jahrelang  zusammen und waren immer bestens zufrieden. Wir können diese Frma allerbestens weiterempfehlen. Vor allem schätzen wir die hohe Fachkompetenz und die Freundlichkeit der Mitarbeiter. Das Preis Leistungsverhältnis ist ebenfalls sehr gut.",
+        "time": 1684742020,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Claudio Haller",
+        "author_photo": "/images/reviews/schumacher-andi-gartenbau-gmbh-rohr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr Flexibel und Unkompliziertes Transportunternehmen! Spezialisiert für Krantransporte, Schwertransporte, Spezialtransporte, aber auch Stückgut wird pünktlich geliefert!\nIm In und Ausland!",
+        "time": 1663973268,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gutzwiller Kommunikation und Design AG",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjXncmzA-ISwPBZ9_l8NcP8N7FPUp1R7uKcDfueNy5xJQDZKDXPh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "Wir wurden von Anfang an freundlich und unkompliziert beraten. Die Offerte kam sehr schnell und auch die Ausführung der Arbeiten erfolgte zügig, sauber und absolut zuverlässig. Mit dem Ergebnis sind wir rundum zufrieden – unsere Erwartungen wurden sogar übertroffen. Wir können Andi Schumacher Gartenbau mit bestem Gewissen weiterempfehlen",
+        "time": 1751898680,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Nicole Bauer",
+        "author_photo": "/images/reviews/schumacher-andi-gartenbau-gmbh-rohr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service,  extrem professionell und zuverlässig. Herr Leon Wahl hat bei uns eine Lieferung abgeladen und der Kontakt war sehr freundlich und zuvorkommend. Hier habt ihr einen super Mitarbeiter (fachlich wie auch menschlich)! Vielen Dank!",
+        "time": 1679307579,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Provimmo",
+        "author_photo": "/images/reviews/schumacher-andi-gartenbau-gmbh-rohr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir als lokaler Immobilienvermittler ziehen die Andi Schumacher Gartenbau GmbH jeweils gerne hinzu, wenn unsere Kunden Umgebungsarbeiten planen oder benötigen. Die Zusammenarbeit verläuft stets reibungslos und die offerierten Preise empfinden wir im Quervergleich als fair.\n\nWir können die Firma aus eigener Erfahrung vorbehaltlos weiterempfehlen. Weiter so!",
+        "time": 1705045870,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

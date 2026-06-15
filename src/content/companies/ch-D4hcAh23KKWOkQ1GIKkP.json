@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJYQ7l1VnVkUcRH03UQ_uKqW8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Jane Doe",
+        "author_photo": "/images/reviews/schreinerei-glutz-ag-herzogenbuchsee/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und freundliche Beratung. Wir sind happy mit unserem massgefertigtem Hühnerstall!",
+        "time": 1758389041,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Michael Affolter",
+        "author_photo": "/images/reviews/schreinerei-glutz-ag-herzogenbuchsee/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe mich bei der Firma Glutz gemeldet, da ich in meinem Schrank neue Schubladen benötigte. Herr Berteotti hat mich vor Ort sehr kompetent beraten und schnell bekam ich die Offerte. Das Preis-Leistungs-Verhältnis war top und der Arbeiter hat die Arbeiten sehr sauber und genau ausgeführt. Kann die Firma nur weiterempfehlen.",
+        "time": 1711485712,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Adil Kirmizitas",
+        "author_photo": "/images/reviews/schreinerei-glutz-ag-herzogenbuchsee/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis zur Ausführung aller arbeiten im Geschäft, wie auch im Privaten Haushalt wurden alle unsere Wünsche mit perfektion und freundlichkeit erfüllt. Wir danken dem ganzen Team und wünschen weiterhin viel Erfolg. Liebe Grüsse A.K.",
+        "time": 1714330731,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marc Burkhalter",
+        "author_photo": "/images/reviews/schreinerei-glutz-ag-herzogenbuchsee/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke für die kompetente Beratung bei uns vor Ort. Wir fühlen uns gut aufgehoben, wir können die Glutz AG nur weiterempfehlen. Danke",
+        "time": 1711132890,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jan Schaerer",
+        "author_photo": "/images/reviews/schreinerei-glutz-ag-herzogenbuchsee/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Firma. Top Arbeit. Super Team\nVielen Dank",
+        "time": 1758389157,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

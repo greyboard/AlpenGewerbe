@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRUatFvNRJGQRFs5Bc8OZQ1Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Marija Fröhlich",
+        "author_photo": "/images/reviews/samsom-malergeschaeft-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Komperent,freundlich,sauber,fleissig, die beste Arbeit geleistet, kann ich weiter empfhelen",
+        "time": 1719412766,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Abdinasir Nuur",
+        "author_photo": "/images/reviews/samsom-malergeschaeft-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service und professionelle Arbeit hat er mein Zimmer gestrichen.\nIch bin zufrieden",
+        "time": 1697216587,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Silvia Knüsel",
+        "author_photo": "/images/reviews/samsom-malergeschaeft-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, zuverlässig und freundlich, gerne wieder",
+        "time": 1717920452,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rhea Bruegger",
+        "author_photo": "/images/reviews/samsom-malergeschaeft-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert von der Arbeit. Jederzeit gerne wieder!",
+        "time": 1729508487,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Laurin Teufen",
+        "author_photo": "/images/reviews/samsom-malergeschaeft-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, sauber und preislich fair!",
+        "time": 1716045571,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

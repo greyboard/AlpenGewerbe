@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ51lmdHfDB0ERvJjjixDASw8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Dani",
+        "author_photo": "/images/reviews/alpha-glas-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Firma Alpha Glas rundum zufrieden. Schneller und freundlicher Service, faire Preise, termingerechte, saubere und korrekte Ausführung des Auftrags, alles perfekt von A-Z. Kompliment an die sehr kompetenten Herren Fehr und Fingerhut, ihr habt sehr gute Arbeit geleistet! Ich kann diese Firma bestens weiterempfehlen.",
+        "time": 1766051343,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Gaby Leu",
+        "author_photo": "/images/reviews/alpha-glas-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super freundliche und zuverlässige Mitarbeiter. Vielen Dank für den top Service an Sascha Issa und Pascual Zazo. Wir sind sehr zufrieden und werden die Firma Alpha Glas jeder Zeit weiter empfehlen. Gaby & Roland Leu, Wil",
+        "time": 1582532077,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sylvia Melano",
+        "author_photo": "/images/reviews/alpha-glas-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service! Freundlicher Mitarbeiter, schneller Service. Vielen Dank Herr Fehr!",
+        "time": 1604489698,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ste Se",
+        "author_photo": "/images/reviews/alpha-glas-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnelle lieferung guter preis alles unkompliziert",
+        "time": 1663056752,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Caín Román Cattalini",
+        "author_photo": "/images/reviews/alpha-glas-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sie sind alle ausgezeichnet, sehr professionell",
+        "time": 1577434318,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

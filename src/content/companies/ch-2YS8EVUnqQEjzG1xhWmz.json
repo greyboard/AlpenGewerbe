@@ -1,7 +1,7 @@
 {
   "id": "ch-2YS8EVUnqQEjzG1xhWmz",
   "slug": "pignolo-peinture-sa-geneve",
-  "name": "Pignolo Peinture SA",
+  "name": "Pignolo Sa",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnUGAcdVkjEcRtqZeXS1fgVw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "gilles aubry",
+        "author_photo": "/images/reviews/pignolo-peinture-sa-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Haus (Erdgeschoss + Treppe) wurde komplett gestrichen. Die Arbeiten wurden mit größter Sorgfalt ausgeführt und der Kundenservice war exzellent: Vom ersten Angebot bis zum Projektabschluss verlief alles transparent und professionell, mit regelmäßiger Nachbetreuung. Der Preis war fair und entsprach dem Angebot, ohne unangenehme Überraschungen. Es war wirklich angenehm, die Arbeiten unter diesen Bedingungen durchführen zu lassen, zumal wir während der Bauzeit im Haus wohnten. Ich kann die Firma uneingeschränkt empfehlen.",
+        "time": 1768569165,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Michael",
+        "author_photo": "/images/reviews/pignolo-peinture-sa-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten im Erdgeschoss (Eingangsbereich und Küche) sowie im Treppenhaus zum ersten Stock wurden sehr sorgfältig und in kürzester Zeit abgeschlossen. Ich kann Pignolo wärmstens empfehlen!",
+        "time": 1780644452,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Catherine Equey",
+        "author_photo": "/images/reviews/pignolo-peinture-sa-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für Ihre äußerst professionelle Arbeit. Wir sind sehr zufrieden. Die Arbeiten wurden hervorragend ausgeführt, und Ihr Maler war sehr diskret und freundlich. Wir werden Ihre Dienste bei zukünftigen Malerprojekten definitiv wieder in Anspruch nehmen.",
+        "time": 1750691915,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Marco Franchino",
+        "author_photo": "/images/reviews/pignolo-peinture-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma Pignolo Peinture hat mein gesamtes Haus gestrichen. Die Arbeit war von hervorragender Qualität. Der Geschäftsführer hat mich sehr gut beraten, hatte ein gutes Auge fürs Detail und war stets erreichbar und hilfsbereit. Ich kann diese Firma uneingeschränkt empfehlen. Ich bin rundum zufrieden!",
+        "time": 1693023740,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Amandine Cochat - Degenève",
+        "author_photo": "/images/reviews/pignolo-peinture-sa-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein verlässlicher Partner! Hochwertige Leistungen von einem hochprofessionellen und erfahrenen Team.\nDie Projekte werden makellos ausgeführt, stets unter Berücksichtigung von Objekt, Budget und Terminen. Wir empfehlen sie uneingeschränkt für Malerarbeiten, Renovierungen, Bauprojekte, Home Staging und andere Vorhaben in Genf – für einen reibungslosen und planbaren Ablauf.",
+        "time": 1631716079,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

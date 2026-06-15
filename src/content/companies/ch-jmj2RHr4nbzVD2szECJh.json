@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRTqlqpLHkUcRr3ONgdD_aE4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Ariane Falconnier",
+        "author_photo": "/images/reviews/elektro-frey-gmbh-therwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert von der Kompetenz von Elektro Frey und Herrn Yildirim. Nachdem ein anderes Elektrounternehmen aus der Region den Fehler während 2 Tagen nicht gefunden hatte, kam Elektro Frey zu uns. Innerhalb 1 Stunde waren der Schaden gefunden und behoben. Ausgezeichnet und dazu noch sehr freundlich!",
+        "time": 1768341986,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Mahmut Sazpinar",
+        "author_photo": "/images/reviews/elektro-frey-gmbh-therwil/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Gemäß der Anweisung von Primeo haben wir dieses Unternehmen mit der Überprüfung der elektrischen Anlage beauftragt. Der Austausch eines Schalters hat uns jedoch etwa 1.300 Franken gekostet. Für insgesamt nur eine Stunde Arbeit wurden uns vier Stunden in Rechnung gestellt, und selbst die verwendeten Messgeräte wurden berechnet. Wir werden definitiv nicht mehr mit dieser Firma zusammenarbeiten. Ich empfehle Ihnen, gut zu überlegen, bevor Sie diese Firma kontaktieren",
+        "time": 1759753611,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jürg streiff",
+        "author_photo": "/images/reviews/elektro-frey-gmbh-therwil/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ich ging davon aus, dass es sich um eine Schweizer Firma mit einem Schweizer Chef handelt. Leider hat sich herausgestellt, dass der Geschäftsführer kein Schweizer ist. Für mich ist es wichtig, lokale Unternehmen zu unterstützen, weshalb das Geschäft meine Erwartungen in diesem Punkt nicht erfüllt hat.",
+        "time": 1768898148,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "alex weber",
+        "author_photo": "/images/reviews/elektro-frey-gmbh-therwil/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Das Team von Herrn Yildirim hat bei uns die Elektroarbeiten bei der Installation der Wärmepumpe übernommen. Die Arbeiten wurden sauber und termingerecht ausgeführt, die Inbetriebnahme klappte auf Anhieb. Die Integration mit der bestehenden Photovoltaik-Anlage war anspruchsvoll. Dank dem fachkompetenten und beherzten Einsatz von Herr Yildirim konnte auch diese Herausforderung mit einem einmaligen Samstagseinsatz erfolgreich bewältigt werden. Der Umgang war jederzeit freundlich. Die Mitarbeitenden haben einen hohen Anspruch an sich, um den Kunden zufrieden zu stellen. Da wird auch über den wohlverdienten Feierabend hinausgearbeitet, bis alles funktioniert. Vielen Dank und weiter so!",
+        "time": 1762020641,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Linda Jelk",
+        "author_photo": "/images/reviews/elektro-frey-gmbh-therwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Meine Familie und ich sind begeistert von der Elektro Frey GmbH! Herr Yildirim war nicht nur äusserst freundlich, sondern auch unglaublich kompetent. Er hat uns geduldig beraten, alle Fragen verständlich beantwortet und uns mit seiner Expertise weitergeholfen. Ein herzlicher Dank für die tolle Unterstützung – dieses Unternehmen können wir wärmstens empfehlen!",
+        "time": 1736275959,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJdQ9RLkgshUcRvLLu180kfDw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:50 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Christian Forderer",
+        "author_photo": "/images/reviews/tschudi-holz-ag-ennenda/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausserordentlich kompetent, fair und ehrlich. Hier steht der Kunde wirklich im Mittelpunkt und es wird dem Kunden ruhig, sachlich und ehrlich erklärt, was zu machen ist und die wünsche des Kunden werden respektiert und umgesetzt. Die Arbeiten zeigen von äusserst hoher Qualität, es wird speditiv und genau gearbeitet, informiert und immer sauber hinterlassen. Einfach toll. Kann sie von Herzen nur wärmstens empfehlen.",
+        "time": 1677176460,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marc Elsener",
+        "author_photo": "/images/reviews/tschudi-holz-ag-ennenda/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässiger Schreiner!",
+        "time": 1632205783,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Künzli",
+        "author_photo": "/images/reviews/tschudi-holz-ag-ennenda/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623059874,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nöggi Arnold",
+        "author_photo": "/images/reviews/tschudi-holz-ag-ennenda/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1567520092,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJT3yZDvr3j0cRG6spZvAic9g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "J W",
+        "author_photo": "/images/reviews/oz-metallbau-ag-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Profesionell, sehr gute Verarbeitung und ein angemessener Preis.\nSehr empfehlenswert.",
+        "time": 1601056342,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Martin Baumgartner",
+        "author_photo": "/images/reviews/oz-metallbau-ag-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis zur Montage absolut top!",
+        "time": 1587997507,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marcel Mattli",
+        "author_photo": "/images/reviews/oz-metallbau-ag-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gehören zu den Besten in der Region.",
+        "time": 1574009516,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Philipp Rohrer",
+        "author_photo": "/images/reviews/oz-metallbau-ag-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576594258,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Lukas Bättig",
+        "author_photo": "/images/reviews/oz-metallbau-ag-buochs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1617722118,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

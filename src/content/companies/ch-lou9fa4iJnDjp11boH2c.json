@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJLyrYFyKSmkcR3JvszU5iKjE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Oha 24",
+        "author_photo": "/images/reviews/haefelin-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Jederzeit schnelle und kompetente Hilfe.\nUnsere ungeschlagene Nummer 1!",
+        "time": 1762990722,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Raffael Greminger",
+        "author_photo": "/images/reviews/haefelin-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir waren auf der Suche nach einem Unternehmen, welches unsere über 25 jährige Wärmepumpe ersetzten kann. Aufgrund von Empfehlungen haben wir eine Offerte von Häfelin angefragt. Die Beratung fanden wir sehr gut. Da es ein grösseres Auftragsvolumen war, haben wir zwei Offerten eingeholt. Ein anderes Unternehmen war leicht günstiger. Da wir beide Unternehmen gut fanden, haben wir uns dann nur aufgrund des Preises entschieden. Das kann aber je nach Konstellation und Produkt auch anders aussehen.",
+        "time": 1738314553,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc Beck",
+        "author_photo": "/images/reviews/haefelin-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässigkeit, Kompetenz und eine höchst professionelle Ausführung – genau das haben wir bei unserem Umbau-Projekt erfahren dürfen. Ob Heizung, Lüftung oder die Inbetriebnahme der Regenwassernutzungsanlage: Das Team hat uns in allen Bereichen hervorragend unterstützt. Eine Firma, auf die man sich jederzeit verlassen kann. Uneingeschränkte Weiterempfehlung!",
+        "time": 1747145591,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maya Hagedorn",
+        "author_photo": "/images/reviews/haefelin-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Service.\nUnkompliziert - 2neue Lavabos .\nWir schätzten auch den Umgang- alle Fragen wurden von Herrn Utzinger beantwortet.\nWir sind sehr zufrieden\nMaya und Bruno Hagedorn-Lüber in Winterthur",
+        "time": 1753952895,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Roland Koller",
+        "author_photo": "/images/reviews/haefelin-ag-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Superschneller Termin, unsere Sorgen in Bad und Küche perfekt und mit maximaler Freundlichkeit gelöst. Im Haus tut wieder alles, danke Herr Utzinger!",
+        "time": 1717768207,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

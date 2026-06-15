@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJj96_wX3SmkcRLgn7wBGZHHU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–18:30 Uhr",
+    "Dienstag: 08:30–18:30 Uhr",
+    "Mittwoch: 08:30–18:30 Uhr",
+    "Donnerstag: 08:30–18:30 Uhr",
+    "Freitag: 08:30–18:30 Uhr",
+    "Samstag: 08:30–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 141,
+    "reviews": [
+      {
+        "author_name": "marco crameri",
+        "author_photo": "/images/reviews/h-gruenenfelder-ag-ziegelbruecke/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr guter, proaktiver Service der Pool Manschaft. Hat mich sehr gefreut, dass bei Kälteeinbruch, die Pool Mitarbeiter reagierten und die Filtration von sich aus aktiviert haben, damit keine Schäden entstehen konnten.",
+        "time": 1769340507,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Urs Schweizer",
+        "author_photo": "/images/reviews/h-gruenenfelder-ag-ziegelbruecke/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Produkt, welches wir seit mehr als 20 Jahren sicher mehrmals pro Woche benützen. Für unseren Körper und unsere Seele immer wieder ein Höhepunkt! Solange wie das Produkt, werden wir auch von Herrn Hasler betreut, wahrscheinlich einzigartig!",
+        "time": 1675607461,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Monique Aebersold",
+        "author_photo": "/images/reviews/h-gruenenfelder-ag-ziegelbruecke/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr schönes Geschäft. Die Blumen riechen frisch  Das Personal ist sehr freundlich und hilfsbereit.",
+        "time": 1727713120,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Danielle Enz",
+        "author_photo": "/images/reviews/h-gruenenfelder-ag-ziegelbruecke/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Riesige Auswahl an Pflanzen. Auch Schnittblumen und Sträusse erhältlich. Gute und kompetente Beratung. Genügend Parkplätze vorhanden.  Preislich im höheren Bereich  gerechtfertigt durch gute Qualität und Beratung.",
+        "time": 1651865571,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Miriam Bartolotta",
+        "author_photo": "/images/reviews/h-gruenenfelder-ag-ziegelbruecke/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mein lieblings-Gartencenter mit Design und grosse Auswahl an Pflanzen und Interieur. Gute Beratung und freundliche Angestellte.",
+        "time": 1772633025,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

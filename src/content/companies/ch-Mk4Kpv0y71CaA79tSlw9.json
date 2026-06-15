@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJA5TleR52B0ERQLDauTfzD28",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "yanis nouri",
+        "author_photo": "/images/reviews/ps-metall-ag-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuverlässig und freundlich! Herr Schnyder war lösungsorientiert und hat in unserem Fall sehr gute Vorschläge gebracht:)",
+        "time": 1751751330,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "silvia khamis",
+        "author_photo": "/images/reviews/ps-metall-ag-netstal/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Musste zweimal vorbei kommen, um Mass zu nehmen, weil angeblich der sachbearbeiter die Masse verlegt hat 🤨 Offerte kam, nach 2maligem nachfragen nie an!! 🤨\nAlso haben wir ausserkantonal jemanden genommen, vermessen, Offerte - OK gegeben-Treppe fabriziert und eingebaut und dass alles innert 2 Wochen.",
+        "time": 1688992517,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alex Popovic",
+        "author_photo": "/images/reviews/ps-metall-ag-netstal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super service. Kommunikation lief problemlos. Kann es jedem weiter empfehlen!",
+        "time": 1751751578,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "László Panyik",
+        "author_photo": "/images/reviews/ps-metall-ag-netstal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729691551,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Wigger",
+        "author_photo": "/images/reviews/ps-metall-ag-netstal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629891277,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

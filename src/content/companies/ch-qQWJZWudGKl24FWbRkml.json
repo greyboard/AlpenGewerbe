@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJBXd_XHmhmkcRevG7wBxFYgo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 61,
+    "reviews": [
+      {
+        "author_name": "Florian Rößner",
+        "author_photo": "/images/reviews/welt-aus-glas-gmbh-opfikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super guter und fairer Handwerker.\nMarco ist ein Mann,  der zu seinem Wort steht. Wir möchten nicht auf die gute Zusammenarbeit verzichten. Danke lieber Marco & Team",
+        "time": 1774122138,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Anika Schmied",
+        "author_photo": "/images/reviews/welt-aus-glas-gmbh-opfikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In kurzer Zeit, brauchte ich ihren Service 2 mal. Beim zweiten Mal war es eine WhatsApp am Wochenende und es wurde trotzdem reagiert. Schneller, guter und sehr sympathischer Service. Danke",
+        "time": 1765641773,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "lalagatasiz",
+        "author_photo": "/images/reviews/welt-aus-glas-gmbh-opfikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits zum zweiten Mal einen Auftrag über die Welt aus Glas GmbH abgewickelt und sind erneut sehr zufrieden. Die Rückmeldung kam sehr schnell und der Auftrag wurde zeitnah und zuverlässig ausgeführt. Das defekte Glas (inklusive der Metallstruktur im Inneren) wurde exakt durch das gleiche Modell ersetzt. Optisch sieht es aus, als wäre nie etwas kaputt gewesen.\n\nWir sind wieder rundum zufrieden und werden auch in Zukunft gerne erneut auf euch zukommen. Vielen Dank für den hervorragenden Service!",
+        "time": 1764013169,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Aynur Bozkurt",
+        "author_photo": "/images/reviews/welt-aus-glas-gmbh-opfikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin mit deren Arbeit sowie Kommunikation und Ausführung sehr zufrieden. Zeiten wurden eingehalten und er passte sich meinen Schichtdienst an, so dass keine länge Wartezeit entstand die Katzenklappe anzubringen. Was man wissen sollte ist, dass man innert 7 Tage die Rechnung begleichen muss. Ich würde jederzeit wieder die beauftragen und kann sie mit gutem Gewissen weiter empfehlen.\nVielen Dank nochmal auf diesem Wege.",
+        "time": 1746460317,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Johann F.",
+        "author_photo": "/images/reviews/welt-aus-glas-gmbh-opfikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Hartlehnert ist ein super Handwerker. schnell, zuverlässig und sehr saubere arbeit. wir sind sehr zufrieden mit den ausgeführten arbeiten! bei uns hat er eine katzentür eingebaut sowie auf einige lampengläser repariert.",
+        "time": 1731359060,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

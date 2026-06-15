@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJBd-q6IxIhUcRFq4Emfa7IaU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Relish Bros",
+        "author_photo": "/images/reviews/vonrickenbach-swiss-ag-muotathal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bester Holzverarbeitungspartner in der Schweiz ! Top Qualität, qualifizierte und motivierte Mitarbeiter,  zukunftsorientierter Chef.",
+        "time": 1565773163,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Betschart Hugo",
+        "author_photo": "/images/reviews/vonrickenbach-swiss-ag-muotathal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dieses Geschäft ist eine vorzeige Firma Sie sind sehr innovativ",
+        "time": 1568660654,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Florian Immoos",
+        "author_photo": "/images/reviews/vonrickenbach-swiss-ag-muotathal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiges und innovatives Unternehmen!",
+        "time": 1568040303,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Петро Бучій",
+        "author_photo": "/images/reviews/vonrickenbach-swiss-ag-muotathal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1740639167,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nico Betschart",
+        "author_photo": "/images/reviews/vonrickenbach-swiss-ag-muotathal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einige großartige Innovationen.",
+        "time": 1533370263,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

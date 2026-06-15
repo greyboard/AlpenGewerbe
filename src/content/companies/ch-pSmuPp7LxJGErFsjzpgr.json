@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7Q3GKhvIhEcR2hE8XN2z4pc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:15–11:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "Gustavo",
+        "author_photo": "/images/reviews/xglas-ag-trimmis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden.\nBeraten und Preise sind Top.\nSehr freundliche und kompetente Beratung.\nWir kommen sehr gerne wieder mit neuen Kleinen Bestellung.\nVielen Dank.",
+        "time": 1741946782,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rose911",
+        "author_photo": "/images/reviews/xglas-ag-trimmis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Firma mit tollen, freundlichen und professionellen Mitarbeitenden. Heute wurde in der Küche das Glas montiert. Es hat alles wunderbar geklappt und der Monteur ist nochmals zurück gekommen und hat die Steckdose montiert. Hammer Dienstleistung, obwohl man eigentlich immer unter Zeitdruck steht. Wir können Xglas bestens empfehlen!",
+        "time": 1635236334,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Philipp Gruber",
+        "author_photo": "/images/reviews/xglas-ag-trimmis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wer wo anders kauft ist selber schuld. Top Beratung, top Produkt, top Preis. Danke an Philipp im FL, für den tollen Support.",
+        "time": 1620047806,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christoph Perret",
+        "author_photo": "/images/reviews/xglas-ag-trimmis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "X-Glas hat bei uns sehr sauber und speditiv gearbeitet. Wir sind sehr zufrieden. Danke",
+        "time": 1676707641,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sylvie Schumacher",
+        "author_photo": "/images/reviews/xglas-ag-trimmis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Firma, freundlich kompetentes Team, zuverlässig und freundlich. 1x  xglas , immer xglas.",
+        "time": 1697815034,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

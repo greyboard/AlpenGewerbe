@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTfOmeYk5jkcR_hWG5UQTd_Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Ursula Roth",
+        "author_photo": "/images/reviews/etter-bedachungen-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir mussten nach einem Hagelschaden das Dach reparieren und den Kamin erneuern lassen. Die Arbeiten wurden professionell durch die Dachdecker ausgeführt und entspricht der vorausgegangenen Offerte. Wir würden dieses Unternehmen weiter empfehlen.\nGute Qualität\nGute Leistung\nPünktlich und Professionell\nFreundliche Dachdecker",
+        "time": 1696831381,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Judith Diener",
+        "author_photo": "/images/reviews/etter-bedachungen-bern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Nach einem Jahr hat sich die Firma endlich bequemt, eine Rechnung auszustellen und die Arbeiten genauer aufzuschlüsseln. Der Preis ist überrissen. Ich empfehle dieses Unternehmen nicht weiter. 3 ausgelernte Dachdecker, insgesamt 8 Stunden verrechnet.",
+        "time": 1666799818,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "tobias beeler",
+        "author_photo": "/images/reviews/etter-bedachungen-bern/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Für die abgemachte und gut erbrachte Leistung (mit abgesprochenem Preis) kam mehr als ein Jahr später eine viel zu hohe Rechnung. Nach kurzer Rücksprache wird nun die Rechnung neu gemacht. Für den Schock der zu hohen Rechnung und die späte Rechnungsstellung gibts 2 Sterne Abzug...",
+        "time": 1663054732,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stacher Immobilien AG",
+        "author_photo": "/images/reviews/etter-bedachungen-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma Etter Bedachungen haben wir schon etliche Male an zufriedene Kunden empfehlen können. Gute und seriöse Arbeit in allen Belangen.",
+        "time": 1696323036,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Giuliano Märki",
+        "author_photo": "/images/reviews/etter-bedachungen-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top sache",
+        "time": 1730542263,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

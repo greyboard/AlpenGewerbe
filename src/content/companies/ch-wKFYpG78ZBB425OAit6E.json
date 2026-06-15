@@ -26,5 +26,46 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJW_GuklD7j0cRmOQvCN0U5bI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Tim Unternährer",
+        "author_photo": "/images/reviews/matter-metallbau-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715155463,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Läuchli Thomas",
+        "author_photo": "/images/reviews/matter-metallbau-ag-luzern/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1666599670,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Zaher Panahi",
+        "author_photo": "/images/reviews/matter-metallbau-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1627921187,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ralf Stadelmann",
+        "author_photo": "/images/reviews/matter-metallbau-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1506056143,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

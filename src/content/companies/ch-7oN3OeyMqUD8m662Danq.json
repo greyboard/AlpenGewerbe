@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5QDuvU9jjEcR-eCPs4Fs27w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Jean Jojo",
+        "author_photo": "/images/reviews/swissbat-sa-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes, zuverlässiges Unternehmen. Der Inhaber besucht die Kunden persönlich, was ich sehr geschätzt habe, da ich in der Vergangenheit oft mit unzuverlässigen Subunternehmern zu tun hatte. Die Qualität ihrer Arbeit ist tadellos, und sie reagieren schnell. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1751913440,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "beauty SPA",
+        "author_photo": "/images/reviews/swissbat-sa-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tadelloser Service! Ich habe Swiss Bat SA mit dem Fensteraustausch beauftragt und bin sehr zufrieden. Das Team ist professionell, zuverlässig und pünktlich. Die Arbeiten wurden sorgfältig und innerhalb des vereinbarten Zeitraums ausgeführt. Das Ergebnis ist perfekt, und die Preise sind sehr fair. Ich kann diese Firma jedem wärmstens empfehlen, der hochwertige Verglasungsarbeiten benötigt. Vielen Dank an das gesamte Team!",
+        "time": 1751321529,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Yvana M.",
+        "author_photo": "/images/reviews/swissbat-sa-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schneller und professioneller Service!\nIch habe diese Firma eines Abends dringend kontaktiert, nachdem ein Fenster zerbrochen war, und war von ihrer Reaktionsschnelligkeit positiv überrascht. Der Glaser kam schnell, sehr freundlich und effizient. Er sicherte die Räumlichkeiten und bot eine vorübergehende Lösung an, während wir auf den endgültigen Ersatz warteten. Die Arbeit war sauber, sorgfältig und beruhigend in einer stressigen Situation. Ich kann sie wärmstens empfehlen!",
+        "time": 1754388156,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Nathalie Rochat",
+        "author_photo": "/images/reviews/swissbat-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ils devaient remplacer une vitrine qui n'était pas facilement accessible. Ils l'ont fait en 2 heures. Du vrai travail de pro. Je recommande.",
+        "time": 1571646493,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Lolo Lo (Lo)",
+        "author_photo": "/images/reviews/swissbat-sa-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Extrêmement serviables et à l'écoute. Prix défiant toute concurrence. Travail d'excellente facture.",
+        "time": 1751881219,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

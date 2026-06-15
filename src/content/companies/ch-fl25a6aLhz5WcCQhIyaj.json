@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ99Nt03k3jkcRKqMiqM5ZZio",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Roland Schneider",
+        "author_photo": "/images/reviews/scheuner-gartenbau-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit & unkomplizierte Abwicklung. Herzlichen Dank!!",
+        "time": 1719213862,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Beatrice Liechti",
+        "author_photo": "/images/reviews/scheuner-gartenbau-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Arbeiten zuverlässig und sehr gut!",
+        "time": 1723712664,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Reto Stalder",
+        "author_photo": "/images/reviews/scheuner-gartenbau-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Preis/Leistung stimmt zu 100%. Immer wieder gerne...",
+        "time": 1490625851,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Zeeny _",
+        "author_photo": "/images/reviews/scheuner-gartenbau-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alle sind nett",
+        "time": 1705325371,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Livia Gosteli",
+        "author_photo": "/images/reviews/scheuner-gartenbau-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1702067800,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

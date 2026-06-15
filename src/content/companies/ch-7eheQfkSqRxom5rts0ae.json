@@ -26,5 +26,54 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6ZJCCj7gmkcROzReIeeH7kY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 2,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Mind Heat",
+        "author_photo": "/images/reviews/gzimi-gipsergeschaeft-ag-st-gallen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Arbeit nicht wie abgemacht schlechte Qualität. Nicht zu empfehlen.",
+        "time": 1708196308,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sebastian Zahnd",
+        "author_photo": "/images/reviews/gzimi-gipsergeschaeft-ag-st-gallen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Viel zu teuer für die schlechte Arbeit. Nicht zu empfehlen!",
+        "time": 1708196301,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jimmy F.",
+        "author_photo": "/images/reviews/gzimi-gipsergeschaeft-ag-st-gallen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Sehr sehr schlecht!",
+        "time": 1708196325,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Wenger",
+        "author_photo": "/images/reviews/gzimi-gipsergeschaeft-ag-st-gallen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1708196260,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alessio Casadio",
+        "author_photo": "/images/reviews/gzimi-gipsergeschaeft-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684680638,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

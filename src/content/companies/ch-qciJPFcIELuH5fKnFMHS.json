@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJi0eEsMx7jEcR9-5veJZmOQE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "kumar an",
+        "author_photo": "/images/reviews/elektrik-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Reaktionszeiten und ein sehr gutes Verständnis für die Bedürfnisse des Kunden. Besonders geschätzt habe ich die Flexibilität des Unternehmens. Ich kann es uneingeschränkt empfehlen!",
+        "time": 1606904439,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniel Benito Natal",
+        "author_photo": "/images/reviews/elektrik-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionell, schnell und preiswert … ein vorbildlicher Service. Sehr empfehlenswert!",
+        "time": 1603789503,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alphonse Ague",
+        "author_photo": "/images/reviews/elektrik-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1603453334,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alejandro Gabriel",
+        "author_photo": "/images/reviews/elektrik-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1603630403,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Julien Pasche",
+        "author_photo": "/images/reviews/elektrik-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1603450670,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

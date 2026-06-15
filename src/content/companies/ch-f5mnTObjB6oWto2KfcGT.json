@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5wrE-RXIhUcRU2w9Qf0w9xI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Saskia SSk Zeli",
+        "author_photo": "/images/reviews/pido-idrotermica-sa-losone/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Freundlich und professionell",
+        "time": 1680543271,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Taty Benazzi",
+        "author_photo": "/images/reviews/pido-idrotermica-sa-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778222034,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Giuliano Patritti",
+        "author_photo": "/images/reviews/pido-idrotermica-sa-losone/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1703486716,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Giuseppe capriello",
+        "author_photo": "/images/reviews/pido-idrotermica-sa-losone/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622028322,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Simona PELLONI",
+        "author_photo": "/images/reviews/pido-idrotermica-sa-losone/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1609829160,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

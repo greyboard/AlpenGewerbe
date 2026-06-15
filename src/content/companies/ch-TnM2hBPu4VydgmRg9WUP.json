@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJB8vu77L8mkcR_ICWbUrLdns",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Leandro Trianni",
+        "author_photo": "/images/reviews/kather-sanitaer-heizung-gmbh-amriswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin rundum begeistert vom Service! Die Mitarbeiter waren pünktlich, freundlich und haben super sauber gearbeitet. Das Problem wurde schnell und professionell behoben - man merkt, dass hier echte Profis am Werk sind. Absolut empfehlenswert, ich würde jederzeit wieder die Kather Sanitär Heizung GmbH beauftragen!",
+        "time": 1761556511,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Verena Ehrbar",
+        "author_photo": "/images/reviews/kather-sanitaer-heizung-gmbh-amriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nur positive Erfahrungen und dies seit Jahren. Keine langen Wartezeiten, stets freundlich und kompetent. Eine Firma meines Vertrauens.",
+        "time": 1770710688,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Javier Rueda",
+        "author_photo": "/images/reviews/kather-sanitaer-heizung-gmbh-amriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein Handwerksunternehmen von beeindruckender Exzellenz. Die Kombination aus präziser Facharbeit, erstklassiger Beratung und vorbildlicher Zuverlässigkeit ist in dieser Branche selten geworden. Jeder Schritt zeugt von Professionalität, Sorgfalt und einem bemerkenswert hohen Qualitätsanspruch. Ein wahrhaft herausragender Sanitär- und Heizungsbetrieb – verdient ohne jeden Zweifel fünf Sterne.",
+        "time": 1765485361,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Teodora Ilic",
+        "author_photo": "/images/reviews/kather-sanitaer-heizung-gmbh-amriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Leistung!\nSehr freundlich und professionell, kann ich nur weiterempfehlen! :)",
+        "time": 1765376461,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Mia Neuffer",
+        "author_photo": "/images/reviews/kather-sanitaer-heizung-gmbh-amriswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches Team, zuverlässig und sehr sozial. Nur zum weiterempfehlen!",
+        "time": 1758564301,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

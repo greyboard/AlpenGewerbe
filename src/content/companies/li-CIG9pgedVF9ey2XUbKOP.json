@@ -25,5 +25,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzzg8SA00m0cRDoIhyzoQXqY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Patric Risch",
+        "author_photo": "/images/reviews/beck-elektro-ag-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, schnell, freundlich. Gerne wieder.👍",
+        "time": 1710398754,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tomasz Najberg",
+        "author_photo": "/images/reviews/beck-elektro-ag-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Immer gute Kommunikation, sehr nette Leute.",
+        "time": 1713075718,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Susanne Hilti",
+        "author_photo": "/images/reviews/beck-elektro-ag-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr schnell und sehr freundlich wurde ich bedient 👌👌",
+        "time": 1639224715,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jan Mol",
+        "author_photo": "/images/reviews/beck-elektro-ag-schaan/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1756117380,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Sandra Stoeckl",
+        "author_photo": "/images/reviews/beck-elektro-ag-schaan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729276316,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

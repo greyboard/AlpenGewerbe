@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJDRnojf-jhEcRReyyVW1DCoA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Tomas Horban",
+        "author_photo": "/images/reviews/elektro-christoffel-znl-der-caviezel-ag-davos/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alles tiptop. Sehr kompetent und zuvorkommend.",
+        "time": 1638125885,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ambühl Malergeschäft AG",
+        "author_photo": "/images/reviews/elektro-christoffel-znl-der-caviezel-ag-davos/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756989945,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "David Henderson",
+        "author_photo": "/images/reviews/elektro-christoffel-znl-der-caviezel-ag-davos/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715800395,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christian Haghofer",
+        "author_photo": "/images/reviews/elektro-christoffel-znl-der-caviezel-ag-davos/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698563143,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "David Beck",
+        "author_photo": "/images/reviews/elektro-christoffel-znl-der-caviezel-ag-davos/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1571724038,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

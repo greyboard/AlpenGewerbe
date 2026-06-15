@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0_yuOyBAkEcRQt6PfgkTWaY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Isabel",
+        "author_photo": "/images/reviews/mueller-metallbau-ag-riniken-riniken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Müller Metallbau hat den alten, modrigen Holzhandlauf unserer Terrasse durch einen hochwertigen Chromstahlhandlauf ersetzt. Die Arbeiten wurden äußerst sorgfältig und zu unserer vollsten Zufriedenheit ausgeführt. Wir sind mit dem Ergebnis sehr zufrieden und können die Firma uneingeschränkt weiterempfehlen!\nVielen Dank für die tolle Arbeit - wir erfreuen uns täglich daran.",
+        "time": 1751835693,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Marie-Louise Rüetschi",
+        "author_photo": "/images/reviews/mueller-metallbau-ag-riniken-riniken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Haben mir in einem Notfall superschnell und unkompliziert geholfen. Fachlich top und auch sehr freundlich. Besser geht's nicht. Sehr empfehlenswerte Firma! Herzlichen Dank.",
+        "time": 1721208729,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "mapaly04",
+        "author_photo": "/images/reviews/mueller-metallbau-ag-riniken-riniken/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einfach Top, hilfsbereit und freundlich.",
+        "time": 1515576521,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Jürg Siegenthaler",
+        "author_photo": "/images/reviews/mueller-metallbau-ag-riniken-riniken/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Flexibler und Zuverlässiger Betrieb. Danke Lukas für deine Flexibilität",
+        "time": 1781167765,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Michael Urech",
+        "author_photo": "/images/reviews/mueller-metallbau-ag-riniken-riniken/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1604074219,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

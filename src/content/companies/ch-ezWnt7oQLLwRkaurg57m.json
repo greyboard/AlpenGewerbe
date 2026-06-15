@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJi_iYIoea5CQRuFHUn4R39UA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Noa Obrinja",
+        "author_photo": "/images/reviews/sanitaer-heizung-haile-mihr-koelliken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mihr hat unser Problem mit der Dusche super gelöst und alles wieder zum Laufen gebracht. Er hat sehr sauber, schnell und zu einem fairen Preis gearbeitet. Außerdem war er sehr freundlich und korrekt. Wir werden uns sicher jederzeit wieder bei ihm melden. Absolut empfehlenswert!🌟",
+        "time": 1762947732,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Giuseppe Maria",
+        "author_photo": "/images/reviews/sanitaer-heizung-haile-mihr-koelliken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert!\nDer Sanitärservice hat meine Lüftung schnell und zuverlässig repariert. Die Kommunikation war freundlich, der Termin wurde pünktlich eingehalten und die Arbeit sauber ausgeführt. Ich bin mit dem Ergebnis sehr zufrieden und würde den Service jederzeit weiterempfehlen!",
+        "time": 1765204460,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "BOARDLOCAL BIKELOCAL",
+        "author_photo": "/images/reviews/sanitaer-heizung-haile-mihr-koelliken/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert! Wir hatten ein akutes Heizungsproblem und die Wohnung war eiskalt. Haile Mihr kam schnell, arbeitete äusserst präzise, professionell und effizient. Zudem war er sehr freundlich und lösungsorientiert. Ein absolut kompetenter Sanitär aus Kölliken, wir würden ihn jederzeit wieder beauftragen und können ihn nur weiterempfehlen!",
+        "time": 1764180975,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "I. H.",
+        "author_photo": "/images/reviews/sanitaer-heizung-haile-mihr-koelliken/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Haile Mihr macht sehr gute arbeit!  Er hat das Café\nin Kölliken komplett eingerichtet und alle Herausforderungen wie ein Profi gemeistert. Er konnte sogar schwere Sachen wie die fie Maschinen anschliessen.  Wir werden weiter mit ihm zusammen Arbeiten.",
+        "time": 1766243136,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Alexandra Tatzreiter",
+        "author_photo": "/images/reviews/sanitaer-heizung-haile-mihr-koelliken/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mein Expansionsgefäss musste ersetzt werden. Dies hat Herr Haile rasch, kompetent und sehr freundlich  umgesetzt. Besten Dank und gerne wieder.",
+        "time": 1768303344,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

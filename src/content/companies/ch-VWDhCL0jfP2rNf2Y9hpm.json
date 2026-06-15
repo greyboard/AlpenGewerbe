@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJc2PAtm37j0cRUERFoGrlplQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 09:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: Geschlossen",
+    "Freitag: 09:00–12:00 Uhr, 13:30–18:30 Uhr",
+    "Samstag: 09:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Frank Waibel",
+        "author_photo": "/images/reviews/gaertnerei-homatt-ag-bio-gartenshop-und-blumenladen-luzern-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kleines Gartenfachgeschäft mitten in Luzern mit einem ausgewählten Sortiment in Bio Qualität. Hier findet man auch ausgefallene Sachen und es gibt eine hervorragende Beratung. Stets freundliches Personal. Hier kauft man gerne ein.",
+        "time": 1629739837,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alexander Weisskopf",
+        "author_photo": "/images/reviews/gaertnerei-homatt-ag-bio-gartenshop-und-blumenladen-luzern-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schöner Laden mit einer tollen Auswahl und guten Preisen, dann noch sehr freundliches Personal.",
+        "time": 1778404025,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Maria Hassler",
+        "author_photo": "/images/reviews/gaertnerei-homatt-ag-bio-gartenshop-und-blumenladen-luzern-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung und vielfältige Auswahl an Setzlingen",
+        "time": 1716105343,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sarah Mühlebach",
+        "author_photo": "/images/reviews/gaertnerei-homatt-ag-bio-gartenshop-und-blumenladen-luzern-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolle Auswahl an Sämlingen und Zubehör. Freundliche und gute Beratung. Werde sicher wiederkommen wenn ich zukünftig etwas brauche 🌱",
+        "time": 1719408067,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Brigitta Zumbrunn",
+        "author_photo": "/images/reviews/gaertnerei-homatt-ag-bio-gartenshop-und-blumenladen-luzern-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle Auswahl und gute Qualität an Bio und Pro Spezie Rara Setzlinge und Samen.",
+        "time": 1747281712,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

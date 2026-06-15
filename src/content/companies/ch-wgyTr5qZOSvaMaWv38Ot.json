@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJocjhkn8fm0cRlTmYokLWSow",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Joana Lüchinger",
+        "author_photo": "/images/reviews/neff-electro-by-techcom-ch-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der beste Elektriker in St.Gallen.\nVielen Dank lieber Christian und Team für eure tolle Arbeit!",
+        "time": 1679212462,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dario Mauchle",
+        "author_photo": "/images/reviews/neff-electro-by-techcom-ch-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775501103,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Milos Nedeljkovic",
+        "author_photo": "/images/reviews/neff-electro-by-techcom-ch-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711559671,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabian Pfenninger",
+        "author_photo": "/images/reviews/neff-electro-by-techcom-ch-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1647932193,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

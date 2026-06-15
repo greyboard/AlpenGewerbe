@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjfurMxUJkEcRln25_4DOHtE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Maja Girsberger",
+        "author_photo": "/images/reviews/keller-dach-solar-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Rundum zufrieden! Von der ersten Beratung bis zur Fertigstellung: zuverlässig, termingerecht und sauber gearbeitet. Das Team ist stets freundlich, gut organisiert und kommuniziert transparent.",
+        "time": 1751448609,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Joevanni Maranzki",
+        "author_photo": "/images/reviews/keller-dach-solar-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung! Sehr freundlich. Preis Leistung Überragend. Die neue Solar Anlage und die Reparatur des marroden Daches wurden zu unserer vollsten Zufriedenheit erledigt. Jederzeit wieder. Momentan sind noch die Spenglerarbeiten offen, aber diese werden so wie ich die Firma einschätze auch bald erledigt! Besten Dank",
+        "time": 1725877531,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Davide Palazzo",
+        "author_photo": "/images/reviews/keller-dach-solar-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Guten Tag Herr Keller\nVielen Dank für die sauber Ausführung Abdichtung und Dachspengler arbeiten.\nTermingerecht und Einwandfreie Ausführung.\nFreundliche Grüsse\nDavide Palazzo",
+        "time": 1745904517,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Engler",
+        "author_photo": "/images/reviews/keller-dach-solar-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin seit vielen Jahren Kunde der Firma Keller Dach Solar. Seit Anfang an bekomme ich immer einen stetigen hervorragenden, zuvorkommenden und sehr professionellen Service. Auch bei Notfällen steht die Familie Keller und das Team einem zur Seite und lässt den Kunden nicht im Regen stehen.\nVon gestern auf heute wurde bei uns in der Liegenschaft ein Wasserleck im Dach entdeckt und Herr Th. Keller hat alles in Bewegung gesetzt um das Problem sofort anzugehen. In den nächsten 24h sollte der Schaden bereits behoben sein. Top top. Es könnten heutzutage viele Betriebe bei Keller Dach Solar in die Schulung gehen, um zu lernen, wie man Kunden zufrieden stellt, korrekt betreut, richtig priorisiert und diese über Jahre zufriedenstellt. Herzlichen Dank an das Team und ich freue mich auf weitere 10 Jahre :-) Liebe Grüsse von einem sehr sehr zufriedener Kunde",
+        "time": 1718716644,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "by GmbH",
+        "author_photo": "/images/reviews/keller-dach-solar-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wenn jemand einen super Service erwartet dann seit ihr hier bei Keller Dach Solar genau richtig! Effizient kundenfreundlich und zuverlässig. Schnell einfach und unkompliziert. Kann die Firma nur wärmstens empfehlen.",
+        "time": 1716036882,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,30 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJAzZ5LAf2j0cRtMoYSZfU-Vo",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Jakob Zemp",
+        "author_photo": "/images/reviews/mathis-haustechnik-ag-wolfenschiessen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "War ünermütlich das der Wasserabfluss richtig sauber war 👍",
+        "time": 1691512427,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rosmarie Schaller",
+        "author_photo": "/images/reviews/mathis-haustechnik-ag-wolfenschiessen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden",
+        "time": 1636548206,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

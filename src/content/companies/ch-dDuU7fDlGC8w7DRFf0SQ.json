@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJS06d50DgmkcRgMUTlufNThA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 90,
+    "reviews": [
+      {
+        "author_name": "Steffen Becker",
+        "author_photo": "/images/reviews/desa-autoglass-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte mich ausdrücklich für den perfekten Service bedanken. Wie besprochen stand ein Ersatzwagen für mich bereit. Ausserdem war mein Fahrzeug bei der Abholung perfekt gereinigt.\n\nIch kann die Firma Desa sehr empfehlen – perfekter Service in allen Belangen.\n\nVielen Dank 👌👍",
+        "time": 1779287302,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Luciano Di Stefano",
+        "author_photo": "/images/reviews/desa-autoglass-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit dem Service von DESA Autoglas in St. Gallen. Die Abwicklung war schnell, unkompliziert und absolut professionell. Das Team kam zu mir, holte das Auto ab und brachte es nach der Reparatur wieder zurück – besser geht es nicht. Freundlicher Kontakt, zuverlässige Arbeit und keinerlei Aufwand für mich. Klare Weiterempfehlung.",
+        "time": 1769434711,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "melinda damm",
+        "author_photo": "/images/reviews/desa-autoglass-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super unkompliziert Termin online abgemacht und Bestätigung wie auch Erinnering per SMS erhalten. Die Mitarbeiter waren sehr freundlich und der gesamte Service inklusive Reparatur war 1a. Ich würde mein Auto sofort wieder bei DESA Autoglass in St.Gallen reparieren lassen und diese auch jederzeit weitermpfehlen.\nDie Reparatur wurde schnell und sehr sauber erledigt.",
+        "time": 1770033044,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Peter Pfister",
+        "author_photo": "/images/reviews/desa-autoglass-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Arbeit bei uns zuhause.\nDie Scheibe konnte Repariert werden und dies wurde zu meiner vollsten Zufriedenheit von einem sehr Kompetenten Mitarbeiter in kurzer Zeit an meinem Kia Sorento durchgeführt.\nVielen Dank für alles und bei Bedarf, sehr gerne wieder.",
+        "time": 1772035957,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "PETER UEBERSAX",
+        "author_photo": "/images/reviews/desa-autoglass-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für den Super Service. Paco war pünktlich, freundlich und hat den Auftrag perfekt erledigt. Die Zusammenarbeit mit der Zürich Versicherung funktioniert bestens. Wird sicher weiter empfohlen.",
+        "time": 1742392078,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

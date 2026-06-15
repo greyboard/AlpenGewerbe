@@ -26,5 +26,38 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJHYE4Ff7XkUcRVabqgm3lhFE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Erol Buharali",
+        "author_photo": "/images/reviews/schmid-elektro-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer wieder",
+        "time": 1634656548,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simone Barbosa",
+        "author_photo": "/images/reviews/schmid-elektro-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1650512807,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michelle Barbosa",
+        "author_photo": "/images/reviews/schmid-elektro-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1599581640,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

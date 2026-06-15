@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJcc2ZUMo4jkcRZJBaPBgjL2I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 72,
+    "reviews": [
+      {
+        "author_name": "Stoyan Stoyanov",
+        "author_photo": "/images/reviews/auto-garage-zimmermann-ag-niederwangen-be/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Schlechte Kommunikation. Sie wollten nicht das Auto für einen Tag reservieren, obwohl ich eine Anzahlung vorgeschlagen habe. Wir haben den übernächsten Tag als Abholtermin vereinbart aber das Auto wurde 12 Stunden vor dem Abholtermin verkauft. Nicht zu empfehlen!",
+        "time": 1767981832,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Thisi Thiru",
+        "author_photo": "/images/reviews/auto-garage-zimmermann-ag-niederwangen-be/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super sympathisch und äusserst guter Service für einen fairen Preis.",
+        "time": 1752609741,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Dichali Cats",
+        "author_photo": "/images/reviews/auto-garage-zimmermann-ag-niederwangen-be/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und kundenfreundliche Garage. Habe im 2021 dort mein neues Auto gekauft. Alle Wünsche und Ansprüche bezüglich dem Auto voll und ganz erfüllt. Preis / Leistung Top / Service und Unterhalt ebenfalls immer Top ausgeführt. Super Beratung.  Noch ein richtiger Familenbetrieb. Ihr liebt was ihr tut 😃. Lg Céline",
+        "time": 1697542174,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Scheidegger Bernhard",
+        "author_photo": "/images/reviews/auto-garage-zimmermann-ag-niederwangen-be/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Autogarage, der ich vertraue - auch für ältere Fahrzeuge!\nAls Kunde wird man ernst genommen, saubere und ehrliche Arbeit sowie auch das Preis-/Leistungsverhältnis stimmt. Abgemachte Termine werden eingehalten.\nWeiter so, herzlichen Dank!",
+        "time": 1604764171,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "dude7799 Online",
+        "author_photo": "/images/reviews/auto-garage-zimmermann-ag-niederwangen-be/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sie bieten ein super Service. Sind freundlich und zuvorkommend. Sehr zu Empfehlen. Liebe Grüsse Brocki Vogt",
+        "time": 1677935054,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

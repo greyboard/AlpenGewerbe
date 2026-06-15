@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJQ0qL5Eq5kUcRWl3vXSrbOCU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–16:30 Uhr",
+    "Dienstag: 07:30–16:30 Uhr",
+    "Mittwoch: 07:30–16:30 Uhr",
+    "Donnerstag: 07:30–16:30 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Andy W",
+        "author_photo": "/images/reviews/elektro-due-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Electro Due im Rahmen unseres Hausbaus zusammengearbeitet und könnten nicht zufriedener sein. Von Anfang an hat uns Carlo Gambone sehr kompetent und sympathisch beraten. Die gesamte Elektroinstallation wurde professionell und zuverlässig von ihm und seinem Team ausgeführt.\n\nBesonders hervorzuheben sind die saubere Verkabelung und die klare Beschriftung, die sogar bei der Stichprobe des EW ausdrücklich gelobt wurden – alles war tadellos.\n\nEine Firma, die man mit gutem Gewissen weiterempfehlen kann.",
+        "time": 1757420920,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Joel Kuder",
+        "author_photo": "/images/reviews/elektro-due-ag-basel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Meldet sich inmitten des Projekts / Umbau nicht mehr, beendet seine Arbeit nicht und ruft weder zurück noch meldet er sich irgendwie.\nMan ist notgedrungen inmitten der Haussanierung dazu gezwungen sich einen anderen Elektriker zu suchen, und nachfolgen wie entfernte Plomben an Zählern zu lösen.\n\nDies trotz schriftlichem Vertrag und Abmachung.\n\nAbmachung und Vertrag mit Inhaber Hr. Sindaco",
+        "time": 1737974100,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "simon müller",
+        "author_photo": "/images/reviews/elektro-due-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Planung  und noch bessere Ausführung (Neubauprojekt).",
+        "time": 1767965787,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Aline Stamm",
+        "author_photo": "/images/reviews/elektro-due-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit dem Service von Elektro Due AG. Man erhält schnelle und professionelle Hilfe. Die Zusammenarbeit ist reibungslos und das Team ist äusserst hilfsbereit. Sehr zu empfehlen!",
+        "time": 1722352431,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "seraphinmo",
+        "author_photo": "/images/reviews/elektro-due-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Elektro Due AG hat schon mehrmals bei uns gearbeitet!\nHerr Gambone ist sehr Fachkompetent und lösungsorientiert. Die freundliche Art und die effiziente, gut durchgeführte und saubere Arbeit weiss ich sehr zu Schätzen! Und zudem sehr pünktlich!\n\nVielen Dank und ich kann die Firma nur weiterempfehlen!",
+        "time": 1650880277,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJxfSr2F43jkcRdCaOQIv-028",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Nadine Meer",
+        "author_photo": "/images/reviews/zuercher-holzbau-bern-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis Ausführung eine top Leistung - wir sind sehr zufrieden mit unserem neuen Holzdeck. Der Sommer kann kommen.",
+        "time": 1743351813,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Kölliker",
+        "author_photo": "/images/reviews/zuercher-holzbau-bern-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der neue Terrassenboden ist fantastisch! Die Firma hat wirklich eine super präzise Arbeit geleistet. Ich bin äusserst glücklich mit der Arbeit! Grosses Kompliment! :-)",
+        "time": 1746451930,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Silvia Frey",
+        "author_photo": "/images/reviews/zuercher-holzbau-bern-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zürcher Holzbau kann ich zu 100% weiter empfehlen.\nTolles Team! Hilfsbereit und sehr zuvorkommend.\nBei mir haben Sie das Gartenhaus (8-eckig) und die Veranda totalsaniert. Sehr schöne Arbeit, ganz ganz herzlichen Dank!\nImmer gerne wieder:)",
+        "time": 1730198926,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Corinne Schmid",
+        "author_photo": "/images/reviews/zuercher-holzbau-bern-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kürzlich haben wir unseren Terrassenboden mit Accoya ersetzen lassen. Die vorausgehende Beratung sowie die Umsetzung haben unsere Erwartungen übertroffen. Herr Spack und Herr Klingbiel waren äussert freundlich und haben sehr speditiv und handwerklich hervorragend gearbeitet.\nWir können die Firma Zürcher Holzbau sehr empfehlen!",
+        "time": 1741941517,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maria Jendly",
+        "author_photo": "/images/reviews/zuercher-holzbau-bern-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der freestyle Weihnachtsdekorationskurs war genial.\nDurch das vielfältige und animierende Material, welches zur Verfügung stand, konnte man seiner Kreativität freien Lauf lassen. Die Beispiele und Tipps der Kursleiterin waren sehr hilfreich.\nAuch Personen ohne Vorkenntnisse kann ich den Kurs nur weiterempfehlen. Danke für den tollen Abend.",
+        "time": 1700754858,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

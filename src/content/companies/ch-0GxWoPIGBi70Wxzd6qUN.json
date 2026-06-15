@@ -1,7 +1,7 @@
 {
   "id": "ch-0GxWoPIGBi70Wxzd6qUN",
   "slug": "deco-coppolino-sa-minusio",
-  "name": "Deco Coppolino SA",
+  "name": "Deco Coppolino Sa",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJzwCyQh-2hUcRSzeqHdYReQw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Michael Zimmermann",
+        "author_photo": "/images/reviews/deco-coppolino-sa-minusio/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hatten einen Wasserschaden von der Decke aus zu beklagen. Der Boiler, der leckte war dafür verantwortlich. Der Schaden wurde extrem schnell und äusserst professionell behoben. Die Techniker waren sehr pünktlich und äusserst freundlich und sehr kompetent. Einfach grossartig eine solch grandiose Firma zu erleben. Kann diese Firma allen sehr empfehlen. Später habe ich auch von anderen Personen erfahren, dass die Firma Deco Coppolino Sa einen sehr guten Ruf habe. Ja, wir fühlten uns in sehr guten Händen. Herzlichen Dank für alles!",
+        "time": 1701077610,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Philipp Fallscheer",
+        "author_photo": "/images/reviews/deco-coppolino-sa-minusio/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Allein die Tatsache, dass mir bei der Suche nach Coppolino auf meinem Handy gesponserte Anzeigen von Mitbewerbern angezeigt werden, zeigt, dass deren Konkurrenz sie respektiert ;-), wenn sie Deco Coppolino als Suchbegriff verwenden, hahaha.\nAbgesehen davon habe ich sie für Renovierungen und auch für kleinere Arbeiten beauftragt und war immer zufrieden. Sie wurden stets ehrlich und kompetent behandelt! Vielen Dank!",
+        "time": 1773141892,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Peter giardino",
+        "author_photo": "/images/reviews/deco-coppolino-sa-minusio/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Wasserschaden. Da meine 86-jährige Mutter Gefahr lief, dass die Gemeinde das Haus für unbewohnbar erklären und sie in ein Pflegeheim umziehen müsste, baten wir um dringende Hilfe. Die Handwerker kamen unglaublich schnell und reparierten alles. Ich bin überwältigt von ihrer professionellen und kundenorientierten Art. Großartig!",
+        "time": 1603383626,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Romino Tafaro",
+        "author_photo": "/images/reviews/deco-coppolino-sa-minusio/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eines der besten Unternehmen der Branche, freundliches Personal und immer sehr hilfsbereit.",
+        "time": 1524599290,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Benjamin",
+        "author_photo": "/images/reviews/deco-coppolino-sa-minusio/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein unkompliziertes und professionelles Unternehmen mit fairen Preisen. Vielen Dank für Ihre Hilfe!",
+        "time": 1686576250,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

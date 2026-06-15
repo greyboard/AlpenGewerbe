@@ -26,5 +26,38 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGTD6dE-qmkcRNA54PzraZdQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Marcel Staub",
+        "author_photo": "/images/reviews/c-abicht-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vor 2 Tagen habe ich mich wegen dem defekten Dachwasserablauf bei Fa. Abicht gemeldet. Heute kann Jan und hat alles perfekt repariert. Auch die Absprache mit seinem Chef war super.\nDas war Organisation und Ausführung vom feinsten. Kann die Fa. Abicht bestens weiterempfehlen. Herzlichen Dank.",
+        "time": 1726062291,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "BullTerrier",
+        "author_photo": "/images/reviews/c-abicht-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der beste Ort überhaupt!!!",
+        "time": 1547809766,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Cornel Halter",
+        "author_photo": "/images/reviews/c-abicht-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1531462080,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

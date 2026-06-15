@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3eE7SJIXjkcRt8v5F4SXM9k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Metallbau X-Met AG",
+        "author_photo": "/images/reviews/metallbau-x-met-ag-lyss/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Willkommen bei Metallbau  X-Met AG Aarberg in der Region Lyss\n\nDie Xmet AG, Metallbau und Behälterbau ist ein Fertigungs- und Engineeringbetrieb mit heute 11 Mitarbeitern. Unsere Kernkompetenz sehen wir in kundenorientierten Problemlösungen. Dank hoher Fachkompetenz realisieren wir kreative und praxisnahe Lösungen.",
+        "time": 1389039697,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Eisbis Malerei, Stefan Eisbacher",
+        "author_photo": "/images/reviews/metallbau-x-met-ag-lyss/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Meine Metall Treppe ist sehr gut geworden. Das Team von X-MET AG Metallbau hat sehr gute Arbeit geleistet zu einem sehr guten Preis. Kann sie mit gutem Gewissen weiterempfehlen. Macht weiter so.",
+        "time": 1386868298,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Markus Sahli",
+        "author_photo": "/images/reviews/metallbau-x-met-ag-lyss/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr spannende Firma mit Produktion von grossen Metall-Konstruktionen.\nSehr beeindruckend, dass ein solcher Betrieb CO2 neutral ist.\nKompliment für ein so visionäres Denken.",
+        "time": 1656647462,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alexander Wieland",
+        "author_photo": "/images/reviews/metallbau-x-met-ag-lyss/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundlicher Kundenservice, haben mir geholfen, die optimale Lösung für mein Problem zu finden. Kann ich nur weiterempfehlen",
+        "time": 1530258604,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Oliver Müller",
+        "author_photo": "/images/reviews/metallbau-x-met-ag-lyss/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623155055,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

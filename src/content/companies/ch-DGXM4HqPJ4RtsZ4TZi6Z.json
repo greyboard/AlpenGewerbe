@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8XdBVQo5jkcRdYCt_n66CIY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Bruno Brenner",
+        "author_photo": "/images/reviews/haas-gartenbau-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetent, freundlich, zuverlässig und perfekte, saubere Arbeit. Kann ich weiterempfehlen! Merci",
+        "time": 1759999070,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Monique D",
+        "author_photo": "/images/reviews/haas-gartenbau-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Faire Preise, saubere Arbeiten. Immer wieder ob in der Pflege oder im Gartenbau. Merci viumau.",
+        "time": 1757678304,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Andrea Muster",
+        "author_photo": "/images/reviews/haas-gartenbau-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der gepflanzte Feigenbaum wächst prächtig, vielen Dank! In Zukunft wieder Haas Gartenbau",
+        "time": 1763752682,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Perrier Marc",
+        "author_photo": "/images/reviews/haas-gartenbau-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell, effizient und seriös. Top Firma. Gerne wieder!",
+        "time": 1732720483,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "tanja winkler",
+        "author_photo": "/images/reviews/haas-gartenbau-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1763752687,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

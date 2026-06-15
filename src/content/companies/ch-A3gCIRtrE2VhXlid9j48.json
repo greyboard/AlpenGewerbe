@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_Wj7XBJChUcR_vWQnaKs8mE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Katrin Tresch",
+        "author_photo": "/images/reviews/puentener-fenster-gmbh-erstfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben uns bekommen stets tolle und individuelle Fenster/ Türen. Speditiv und freundlich .. einfach Top 🔝",
+        "time": 1699441783,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Edi Gisler",
+        "author_photo": "/images/reviews/puentener-fenster-gmbh-erstfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nettes team gute arbeitsqualität",
+        "time": 1569685719,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hans Arnold",
+        "author_photo": "/images/reviews/puentener-fenster-gmbh-erstfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "sehr gute Fensterfabrik",
+        "time": 1652766509,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Daniel Gisler",
+        "author_photo": "/images/reviews/puentener-fenster-gmbh-erstfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "👍👍😀",
+        "time": 1645069089,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Philipp",
+        "author_photo": "/images/reviews/puentener-fenster-gmbh-erstfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1761680234,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF4RnzFlZhUcRvAycpSRY0Wg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Daniel Anders",
+        "author_photo": "/images/reviews/demontagen-plus-ag-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super schnelle, zuverlässige und sauber Arbeit. Kann ich nur empfehlen!!",
+        "time": 1764249137,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Alex",
+        "author_photo": "/images/reviews/demontagen-plus-ag-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann in jeglicher Hinsicht nur positives berichten. Es wurde sauber und kompetent gearbeitet, der vorgegebene Zeitrahmen unterschritten und der Kontakt war jederzeit freundlich und zuvorkommend. Ein klares PLUS !",
+        "time": 1768476240,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Markus Studhalter",
+        "author_photo": "/images/reviews/demontagen-plus-ag-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle, saubere und professionelle Abhandlung der Aufträge. Gerne für weitere Aufträge.",
+        "time": 1682430104,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roman Achermann",
+        "author_photo": "/images/reviews/demontagen-plus-ag-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Team Gute Arbeit und Sehr Saubere Arbeit.  Macht weiter so",
+        "time": 1683624584,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Lüönd",
+        "author_photo": "/images/reviews/demontagen-plus-ag-buochs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Rückbau Lüftung/ Monoblock Kirche Stans\nTolle Arbeit. Sehr angenehmes Team, sehr empfehlenswert 👍🏻\nVielen Dank",
+        "time": 1774534141,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

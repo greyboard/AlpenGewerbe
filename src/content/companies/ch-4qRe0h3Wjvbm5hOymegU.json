@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJHxikNURKhUcRtXbFyCMyffo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: 09:30–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Pascal Betschart",
+        "author_photo": "/images/reviews/faessler-malergeschaeft-unteriberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit von Fässler Malergeschäft. Vom ersten Kontakt bis zur Fertigstellung lief alles professionell und zuferlässig. Die Maler/-innen waren pünktlich, freundlich und haben sehr sauber gearbeitet. Besonders beeindruckt hat mich die Sorgfalt und Genauigkeit bei den Details- das Ergebnis ist wirklich top!\nAuch die Beratung im Vorfeld war kompetent und hilfreich. Meine Wünsche wurden umgesetzt und sogar übertroffen.\nDas Preis-Leistungs-Verhätnis ist absolut fair.\nIch kann das Fässler Malergeschäft nur weiterempfehlen und werde bei zukünftigen Projekten definitiv wieder auf sie zurückkommen.",
+        "time": 1775142961,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Samuel Reichmuth",
+        "author_photo": "/images/reviews/faessler-malergeschaeft-unteriberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit. Kann ich nur weiterempfehlen.",
+        "time": 1775250100,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Gabriela Fleischmann",
+        "author_photo": "/images/reviews/faessler-malergeschaeft-unteriberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir würden Christian Fässler’s Malergeschäft jedem weiterempfehlen. Wir sind sehr zufrieden. Super Arbeit. Einhalten von Zeit und Offerte. Danke!",
+        "time": 1779273941,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Remo Staub",
+        "author_photo": "/images/reviews/faessler-malergeschaeft-unteriberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert, leistet äusserst genaue Arbeiten.",
+        "time": 1778844859,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "848 Flo",
+        "author_photo": "/images/reviews/faessler-malergeschaeft-unteriberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top beratung, schnell unkompliziert und top zufrieden gerne wider👍danke",
+        "time": 1775327186,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

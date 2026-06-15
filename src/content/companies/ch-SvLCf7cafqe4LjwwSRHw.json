@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJr7NntOcYm0cRUFLTyj9_w5w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Clara Hollweg",
+        "author_photo": "/images/reviews/welz-ag-trogen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Küche von der Welz AG fertigen lassen und sind sehr zufrieden. Es wurde auf alle Wünsche eingegangen, die Beratung war super – Probleme wurden ernst genommen und es wurde sich gekümmert. Wir erfreuen uns jeden Tag aufs Neue an unserer Küche und danken von Herzen für die tolle Arbeit!",
+        "time": 1699521481,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Guido Marsch",
+        "author_photo": "/images/reviews/welz-ag-trogen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren vierten Stock in einem traditionellen Appenzeller Haus ausbauen lassen. Die Arbeiten wurden schnell und unkompliziert abgeschlossen. Die Erfahrung der Welz AG zeigt sich besonders in der Umsetzung von liebevollen Details und in der Planung der Möblierung. Von ihrer Seite wurden sogar Aspekte berücksichtigt, die in den ersten Besprechungen noch gar nicht zur Sprache kamen – vieles war für sie einfach selbstverständlich. Wir freuen uns über jeden Zentimeter unseres massgefertigten Wohnraums.\n\nEin Folgeauftrag ist bereits in Planung.\n\nVielen Dank an euch!",
+        "time": 1731515260,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gerhard Moser",
+        "author_photo": "/images/reviews/welz-ag-trogen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Gestaltung und Visualisierung der geschmackvollen Innenarchitekten über die Baubegleitung der kompetenten Projektleiter bis hin zum Umsetzung durch die motivierten und begabten Schreiner (in der modernen Manufaktur in Trogen, aber auch bei der Montage durch das freundliche Serviceteam) - die Welz AG ist eine Firma, wie man sie sich wünscht, doch heute nur noch sehr selten findet. Ein innovativer, familiengeführter Betrieb, der einem seine Wohnträume (und Arbeitsräume) erfüllt!",
+        "time": 1571840779,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sven Altorfer",
+        "author_photo": "/images/reviews/welz-ag-trogen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir hatten das Vergnügen, mit den hochqualifizierten Mitarbeitern der Firma Welz sowohl kleine als auch grosse Projekte umzusetzen. Besonders beeindruckt waren wir von der herausragenden Kompetenz, die sie in ihre Arbeit einbrachten. Die Schreinerarbeiten, die wir für unser Privathaus und unser Geschäft in St. Gallen durchführen liessen, zeugen von höchster handwerklicher Präzision und Qualität.\n\nDie Zusammenarbeit mit Welz war stets professionell und angenehm. Die Mitarbeiter zeichnen sich nicht nur durch ihre fachliche Expertise aus, sondern auch durch ihre Zuverlässigkeit und ihr Engagement. Wir fühlten uns während der gesamten Prozesse gut betreut und konnten uns darauf verlassen, dass die Projekte termingerecht und zur vollsten Zufriedenheit abgeschlossen wurden.\n\nDie Firma Welz hat sich als vertrauenswürdiger Partner erwiesen, dem wir gerne weitere Projekte anvertrauen. Wir empfehlen Welz uneingeschränkt für ihre exzellenten Schreinerarbeiten und ihre professionelle Herangehensweise. Vielen Dank für die hervorragende Zusammenarbeit!\n\nSven Altorfer CEO Swiss Health & Nutrition AG, St. Gallen",
+        "time": 1705066386,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Halll Topkiran",
+        "author_photo": "/images/reviews/welz-ag-trogen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kleinauftrag Bilderrahmen Glas ersetzen\n\nFreundliches Personal / Gute Arbeitsqualität – bin sehr zufrieden. Alles reibungslos abgelaufen. Vielen Dank",
+        "time": 1706294995,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJgRV6PnWSmkcRnPzX9k3u3VE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:15 Uhr",
+    "Dienstag: 07:30–17:15 Uhr",
+    "Mittwoch: 07:30–17:15 Uhr",
+    "Donnerstag: 07:30–17:15 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Simon Gilbert",
+        "author_photo": "/images/reviews/maler-haas-ag-felben-wellhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr nettes Team. Tolle Arbeit und immer freundlich und professionell.",
+        "time": 1633898269,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Adi Egloff",
+        "author_photo": "/images/reviews/maler-haas-ag-felben-wellhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent, freundlich, gut geschultes Personal. Der Maler in der Region",
+        "time": 1590502425,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michaela Rückert - Michel",
+        "author_photo": "/images/reviews/maler-haas-ag-felben-wellhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einfach fantastisch. Danke vielmals",
+        "time": 1653466878,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Erika Zimmerli",
+        "author_photo": "/images/reviews/maler-haas-ag-felben-wellhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1570112749,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Lubos Polc (sorac)",
+        "author_photo": "/images/reviews/maler-haas-ag-felben-wellhausen/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1512816791,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

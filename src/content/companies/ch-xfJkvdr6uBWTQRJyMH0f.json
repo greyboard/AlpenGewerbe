@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJC59ipjdljEcRkJX-ZMiJhqQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Maria De Oliveira",
+        "author_photo": "/images/reviews/pirker-electricite-sa-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich war von der äußerst professionellen Arbeit von Herrn da Silva und seinem Auszubildenden sehr beeindruckt. Die Ausführung ist makellos, und ich bin sehr zufrieden.\n\nIch kann ihre Dienste uneingeschränkt empfehlen.",
+        "time": 1729157359,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vincent Eggs",
+        "author_photo": "/images/reviews/pirker-electricite-sa-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Leistung von Pirker Electricité. Das Angebot wurde schnell erstellt, die Rechnung entsprach genau dem Angebot und die Arbeiten wurden wie vereinbart ausgeführt (Installation einer Steckdose und eines Lichtpunkts in einem Schlafzimmer). Der Techniker war sehr diskret, sorgfältig und pünktlich und hat sehr gute Arbeit geleistet. Wir sind mit dem Endergebnis sehr zufrieden und werden Pirker jederzeit wieder beauftragen.",
+        "time": 1745868038,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Delach' Anais",
+        "author_photo": "/images/reviews/pirker-electricite-sa-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem Service von Pirker und insbesondere mit dem Team von Damien äußerst zufrieden. Schon beim ersten Kontakt war ich von ihrer Professionalität und Reaktionsschnelligkeit beeindruckt. Sie nahmen sich die Zeit, unsere Bedürfnisse zu verstehen und boten maßgeschneiderte Lösungen an.\n\nSie sind pünktlich und finden bei Bedarf Alternativen. Die Arbeiten wurden mit großer Präzision ausgeführt und alle Sicherheitsstandards eingehalten. Neben ihrer fachlichen Kompetenz zeichneten sie sich durch große Höflichkeit aus und hinterließen die Räumlichkeiten nach Abschluss der Arbeiten blitzsauber.\n\nIch kann diese Firma jedem wärmstens empfehlen, der hochwertige Elektroarbeiten benötigt. Sie sind zuverlässig und kompetent. Ich werde sie bei zukünftigen Elektroarbeiten ohne Zögern wieder beauftragen!",
+        "time": 1719586453,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bergoën Anaëlle",
+        "author_photo": "/images/reviews/pirker-electricite-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tadelloser Service, ein effizientes und schnelles Unternehmen. Ruben war heute Morgen in einem unserer Apartments in der Altstadt sehr effizient. Das gesamte Team ist sehr professionell, und ich kann sie in Genf wärmstens empfehlen.\n\nEine Nachricht vom gesamten Team von The Hamlet! :)",
+        "time": 1716463873,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Angel Miguel",
+        "author_photo": "/images/reviews/pirker-electricite-sa-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Dringendes elektrisches Problem zu Hause. Sie reagierten schnell, erkannten und reparierten den Fehler effizient. Vielen Dank an den Techniker, Herrn Da Silva, der sehr professionell war.\nIch empfehle diese Firma!",
+        "time": 1719821708,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

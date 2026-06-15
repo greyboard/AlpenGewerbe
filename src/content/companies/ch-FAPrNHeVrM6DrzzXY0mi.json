@@ -26,5 +26,31 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJX3xpfJZxjEcRH8wCDqKrx5g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Nicolas Richard",
+        "author_photo": "/images/reviews/maison-des-toits-veyrier-veyrier/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe die Firma Maison des Toits Veyrier mit der Reparatur und Dämmung meines Daches beauftragt, und sie haben die Arbeiten sorgfältig und effizient ausgeführt. Die Dämmung war hervorragend, das Team kompetent und pünktlich, die Arbeiten wurden sauber ausgeführt, und die Kommunikation verlief reibungslos. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1771181039,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

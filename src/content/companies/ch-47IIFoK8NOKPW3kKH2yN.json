@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-xlEBcTzj0cR-0pX4HqFYLc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 14:00–18:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 14:00–18:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 14:00–18:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 14:00–18:30 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Res Fürling",
+        "author_photo": "/images/reviews/bucher-ag-innendekorationen-kerns/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Beratung! Die Buchers kennen ihr Handwerk.",
+        "time": 1488497945,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Patrick Müller",
+        "author_photo": "/images/reviews/bucher-ag-innendekorationen-kerns/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schöne Produkte von Kadeco!",
+        "time": 1520712087,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Sarah Huwyler",
+        "author_photo": "/images/reviews/bucher-ag-innendekorationen-kerns/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575575545,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hansrudi Schläppi",
+        "author_photo": "/images/reviews/bucher-ag-innendekorationen-kerns/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1565031106,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Bruno Liechti",
+        "author_photo": "/images/reviews/bucher-ag-innendekorationen-kerns/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1431159606,
+        "relative_time_description": "vor 11 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,31 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ45mPIrAhm0cRVtqE9lyw1-Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Bettina Schwarz",
+        "author_photo": "/images/reviews/konzeptgarten-gmbh-schlatt-haslen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir können diesen Gartenbauer uneingeschränkt empfehlen.\n\nVon der ersten Beratung bis zur Umsetzung haben wir uns jederzeit bestens aufgehoben gefühlt. Besonders beeindruckt hat uns seine hohe Fachkompetenz, sein ausgeprägtes ästhetisches Gespür und seine Liebe zum Detail. Er arbeitet äusserst präzise, sorgfältig und mit einem Qualitätsanspruch, den man heute nur noch selten findet.\nWas wir besonders schätzen: Man kann ihm seine Wünsche schildern oder sogar sagen: «Lassen Sie sich etwas einfallen» – und er kommt mit durchdachten, kreativen und wunderschönen Lösungen. Seine Vorschläge haben unseren Garten wesentlich bereichert.\nDie Arbeiten wurden zuverlässig, zügig und sehr sauber ausgeführt. Termine wurden eingehalten, die Abrechnung war jederzeit transparent und nachvollziehbar. Gleichzeitig ging er stets auf unsere Vorstellungen ein und fand die richtige Balance zwischen unseren Wünschen und seiner fachlichen Erfahrung.\nDank seiner Arbeit haben wir heute unseren Traumgarten. Es gibt nur sehr wenige Handwerker, bei denen man sagen kann: «Entscheiden Sie selbst, ich vertraue Ihnen.» Bei ihm konnten wir das jederzeit – und wurden nie enttäuscht.",
+        "time": 1780378456,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

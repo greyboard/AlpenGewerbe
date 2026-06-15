@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJMd980_BBjkcRMiGepYa56Fs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Roby Gasser",
+        "author_photo": "/images/reviews/maeder-metallbau-gmbh-neuenegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mäder Metallbau ist eine top-Firma, die ihre Arbeiten sehr speditiv, profesionell, sauber, unkompliziert und preislich sehr fair ausführt.\nFür die Erweiterung im BEO-Funpark wurden neue Geländer für die Galerie und die Treppen angefertigt und montiert. Auch wurde eine zusätzliche Metallkonstruktion für die zusätzlichen Hängebrücken montiet, damit die Kids absolut sicher vom Kletterfelsen zum Vulkan rüberklettern können.\nÜbers Jahr hindurch sind auch immer wieder Reparaturarbeiten durch Abnützung fällig, die die Firma Mäder stehts sehr promt erledigt.\nEine Firma die man immer wieder gerne weiter empfehlen kann. Weiter so!",
+        "time": 1716281488,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Eva Sobieszek",
+        "author_photo": "/images/reviews/maeder-metallbau-gmbh-neuenegg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top!\nBeratung und Umsetzung waren perfekt.",
+        "time": 1671611793,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nina Romang",
+        "author_photo": "/images/reviews/maeder-metallbau-gmbh-neuenegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und immer freundlich!",
+        "time": 1627065665,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrick Hirter",
+        "author_photo": "/images/reviews/maeder-metallbau-gmbh-neuenegg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600872023,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ra",
+        "author_photo": "/images/reviews/maeder-metallbau-gmbh-neuenegg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1655233891,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJRRmmTVwpjkcRrlRhqMfG-zo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:15–16:45 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:15–16:45 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:15–16:45 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:15–16:45 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:15–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Philippe Zürcher",
+        "author_photo": "/images/reviews/affolter-metall-gerlafingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Affolter Metall hat bei uns mehrere Projekte realisiert, darunter eine Innentreppe aus Rohstahl, ein Balkongeländer (siehe Foto), ein Hochbeet als Abtrennung (siehe Foto), ein Schraubenfundament für den Sonnenschirmsockel (siehe Foto), Glas als Absturzsicherung und eine Sichtschutzwand. Alle Arbeiten wurden sehr sauber und pünktlich ausgeführt. Wir sind äusserst zufrieden und können Herrn Affolter und sein Team wärmstens und mit gutem Gewissen weiterempfehlen. Hier ist der Berufsstolz noch spürbar und präsent! Herzlichen Dank für die hervorragende Arbeit!",
+        "time": 1716985098,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Gabriel",
+        "author_photo": "/images/reviews/affolter-metall-gerlafingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Preisleistungsverhältnis und das auch noch bei Expressbestellung. Auch die Erreichbarkeit und die zuvorkommende Bedienung ist einfach Spitzenklasse.\nVielen Dank an das ganze Team.",
+        "time": 1756101772,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Hans-Jörg Christ (hjc)",
+        "author_photo": "/images/reviews/affolter-metall-gerlafingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Planung und Installation unserer Handläufe im Treppenhaus und beim Hauseingang wurden professionell und perfekt ausgeführt. Mit dem Ergebnis sind wir super zufrieden und freuen uns täglich daran. Absolut zu empfehlen!",
+        "time": 1679387788,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Marchetti",
+        "author_photo": "/images/reviews/affolter-metall-gerlafingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Zusammenarbeit und Ausführung der Arbeiten",
+        "time": 1763550477,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Boris Brügger",
+        "author_photo": "/images/reviews/affolter-metall-gerlafingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von dem ersten Kontakt bis hin zur Planung und Ausführung alles TOP!!!!!!\nIch bin ein Perfektionist und unsere Vorstellungen wurden bei weitem übertroffen.\nVielen Dank Mätthu und Team.\n\nKönnen wir nur weiterempfehlen.",
+        "time": 1678440004,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

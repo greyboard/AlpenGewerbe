@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJo8WcC1oqkEcRHIm2Lyfums4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 42,
+    "reviews": [
+      {
+        "author_name": "Roland Imhof",
+        "author_photo": "/images/reviews/a-meyer-bedachungen-fassaden-nachfolger-thomas-kropf-langenthal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Rasch, kompetent, engagiert und unbürokratisch. Termintreu. Ich kann A. Meyer Bedachungen sehr empfehlen. Gerne wieder ein anderes Mal.",
+        "time": 1779966096,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Niklaus Burkhalter",
+        "author_photo": "/images/reviews/a-meyer-bedachungen-fassaden-nachfolger-thomas-kropf-langenthal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wunderbare Zusammenarbeit | Stets erreichbar | Pünktlich und Freundlich | Tolle Umsetzung der Ideen | Flexibel | Top Qualität | Niklaus Burkhalter, Architekt",
+        "time": 1604559985,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alejuve",
+        "author_photo": "/images/reviews/a-meyer-bedachungen-fassaden-nachfolger-thomas-kropf-langenthal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Äusserst kompetent und zuvorkommend kann Herrn Kropf und sein Team nur wärmsten weiterempfehlen",
+        "time": 1769507166,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "micha streit",
+        "author_photo": "/images/reviews/a-meyer-bedachungen-fassaden-nachfolger-thomas-kropf-langenthal/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Diese Firma hat unser frisch saniertes Haus durch eine unsachgemässe Dachsanierung ruiniert. In jedem Zimmer haben wir starke Wasserschäden.",
+        "time": 1603911266,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefan Fiechter",
+        "author_photo": "/images/reviews/a-meyer-bedachungen-fassaden-nachfolger-thomas-kropf-langenthal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das unmögliche wurde durch diese Firma möglich.\nWir mussten innert 3 Tagen den Stirnladen am Dach\nersetzen da gerade bei uns ein Gerüst stand bevor eine PV Anlage auf das Dach Montiert wurde.\nDer Einsatz vom ganzen Team hat dies möglich gemacht.\nGrosses Kompliment an alle.\nBeim nächsten Problem weiss ich, wo ich mich melden werde.\nDie Firma kann ich mit gutem Gewissen weiter empfehlen.",
+        "time": 1679049733,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

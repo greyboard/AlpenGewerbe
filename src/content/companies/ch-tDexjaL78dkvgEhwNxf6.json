@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJQy3MC1nVkUcR2EJhnBeWNS8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Chris Gurtner",
+        "author_photo": "/images/reviews/liechti-rentsch-elektro-telematik-gmbh-herzogenbuchsee/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit Jahren unser Lieblings-Elektriker!\nKompetent - schnell - zuverlässig!\nTolles Team, das unkomliziert nach Lösungen sucht! 👍👍",
+        "time": 1746105594,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rose - Marie Gross",
+        "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocLDRui2MzZxJ8bH1rm7VS8Y-okfY53Mt9823SQp7t4XTe8R8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "Super Service, pünktlich und tolle Beratung! Unser Umbau hat super geklappt und sind top zufrieden.",
+        "time": 1631078787,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Buetler",
+        "author_photo": "/images/reviews/liechti-rentsch-elektro-telematik-gmbh-herzogenbuchsee/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hat bei mir einiges gemacht. Super Job! Immer wieder.",
+        "time": 1493759015,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "R. K.",
+        "author_photo": "/images/reviews/liechti-rentsch-elektro-telematik-gmbh-herzogenbuchsee/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig und freundlich.",
+        "time": 1658170013,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Bigolin",
+        "author_photo": "/images/reviews/liechti-rentsch-elektro-telematik-gmbh-herzogenbuchsee/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Immer freundlich",
+        "time": 1571593587,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

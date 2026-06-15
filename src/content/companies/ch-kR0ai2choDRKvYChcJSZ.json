@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF_MNkFagmkcR7w-xbIT_Gj8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Thomas Kallmyr",
+        "author_photo": "/images/reviews/gipser-maler-schweiz-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "ESCARGENCY RESEARCH TEMPUS OMNIUS REVELATHE",
+        "time": 1747291377,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "CECEN DIL",
+        "author_photo": "/images/reviews/gipser-maler-schweiz-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1780871739,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

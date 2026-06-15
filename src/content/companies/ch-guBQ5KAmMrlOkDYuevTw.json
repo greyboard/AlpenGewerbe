@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBfs_0sq5kUcRATOVnstp-f8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 12:45–18:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 12:45–18:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 12:45–18:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 12:45–18:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 12:45–18:30 Uhr",
+    "Samstag: 07:00–12:00 Uhr, 12:45–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "scheibentönen Basel",
+        "author_photo": "/images/reviews/ucak-malerei-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert die Ucak Maler Team, kann es nur empfehlen.",
+        "time": 1761756835,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Severin Seidler",
+        "author_photo": "/images/reviews/ucak-malerei-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma Ucak Malerei für diverse Malerarbeiten im Haus beauftragt. Alles wurde Fachmännisch und zu unserer vollsten zufriedenheit erledigt.",
+        "time": 1735605658,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nikolas Mühlethaler",
+        "author_photo": "/images/reviews/ucak-malerei-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Im Vorfeld waren wir riesig gespannt wie das mit der Foto-Tapete klappen wird. Der Service von Uçak Malerei war super, die Arbeit sauber und voll zufriedenstellend. Das Resultat finden wir genial. Dazu neu gestrichene Wände lässt das ganze wie neu wirken. Wir sind super gluecklich diesen Auftrag an Uçak Malerei gegeben zu haben. Gerne wieder",
+        "time": 1686580386,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Leo Bausch",
+        "author_photo": "/images/reviews/ucak-malerei-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Malerarbeit. Pünktlich, sauber und sehr freundlich.\nUnsere Vereinslokalküche erstrahlt wieder in neuem Glanz.\nDer Familiengartenverein Rodersdorf",
+        "time": 1741967638,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "veysel top",
+        "author_photo": "/images/reviews/ucak-malerei-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Malerei Ucak ist sehr empfehlenswert und flexibel. Der Maler ging allen meinen Wünschen nach und ich konnte überhaupt nichts bemängeln. Werde Ihn weiterhin Anrufen wenn Ich brauche. Danke Malerei Ucak",
+        "time": 1536225243,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

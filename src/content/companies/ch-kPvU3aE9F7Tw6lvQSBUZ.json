@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF7yg5mcXm0cRU-f_8GLHqjw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:15–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Bischofberger Urs (s'UBALI)",
+        "author_photo": "/images/reviews/buerki-boden-ag-oberegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sind seit Jahrzehnten Kunden, bereits meine Eltern. Letztes Jahr liessen wir Parkett schleifen und versiegeln, alles zu unserer besten Zufriedenheit. Und das während der traurigen Übergangszeit nach dem plötzlichen Ableben des Firmeninhabers. Kürzlich liess ich eine kleine Reparatur am Parkett erledigen. Auch unter neuer Führung Top-Service und ausserdem noch sehr kulant.. Vielen Dank!",
+        "time": 1760952318,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Michael Näf",
+        "author_photo": "/images/reviews/buerki-boden-ag-oberegg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Faire Preise, Top-Beratung, professionelle Ausführung, gute Kommunikation und superfreundliche Handwerker. Was will man mehr :D Freuen uns, in Zukunft irgendwann mal noch die Böden in den restlichen Zimmern mit Euch zu machen. Danke für Euren Einsatz!",
+        "time": 1761722788,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Roland Forster",
+        "author_photo": "/images/reviews/buerki-boden-ag-oberegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Beratung zu fairen Preisen",
+        "time": 1600939671,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Milan Korčuška",
+        "author_photo": "/images/reviews/buerki-boden-ag-oberegg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781268711,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Josip Lovrić",
+        "author_photo": "/images/reviews/buerki-boden-ag-oberegg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1749206122,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

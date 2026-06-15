@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJY0ira2H5j0cRQIdH-jpZkvg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 10:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Claudio pellizzoni",
+        "author_photo": "/images/reviews/green-gartenunternehmen-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für mich einer der besten im Umkreis von Luzern. Saubere Arbeit und das ganze Personal ist freundlich und hilfsbereit. Der Chef berät einem kompetent und hat immer gute Ideen bereit. Die Firma ist nur zu empfehlen.",
+        "time": 1736168672,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andrea",
+        "author_photo": "/images/reviews/green-gartenunternehmen-gmbh-luzern/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1650199916,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Anna Fischer",
+        "author_photo": "/images/reviews/green-gartenunternehmen-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1700292702,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

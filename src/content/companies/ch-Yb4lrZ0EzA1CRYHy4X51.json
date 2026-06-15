@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJRT1BPkcUkEcR-OLLErVNp-E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Shiny Star",
+        "author_photo": "/images/reviews/borner-gartengestaltung-gmbh-maegenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Topp Service, unkompliziert und fachmännische Beratung. Wir sind sehr glücklich mit unserem neuen Garten. Der Rollrasen wurde fachgerecht verlegt, ein Kiesplatz für eine Feuerstelle wurde gemacht und wir haben jetzt eine tolle neue Hecke als Sichtschutz. Ebenfalls wurden Gartenplatten fachgerecht verlegt. Nun haben wir einen sauberen Sitzplatz und noch die Möglichkeit um ein Gartenhaus auf zu stellen. Wir sind sehr zufrieden mit der arbeit von Borner Gartengestaltung. Vielen Dank.",
+        "time": 1750967908,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Michael Mäder",
+        "author_photo": "/images/reviews/borner-gartengestaltung-gmbh-maegenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die äusserst zuverlässige und positive Art der ganzen Firma können wir wärmstens weiterempfehlen. Das engagierte Team setzte sich optimal für unser Gartenprojekt ein und das Ergebnis der Gartenumgestaltung hat unsere Vorstellungen letzendlich übertroffen. Herzlichen Dank nochmals an das ganze Team! :-)",
+        "time": 1663759407,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Renate Indermaur",
+        "author_photo": "/images/reviews/borner-gartengestaltung-gmbh-maegenwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir können die äusserst zuverlässige Borner Gartenbau GmbH nur weiterempfehlen. Wir erfuhren eine kompetente und freundliche Beratung und Umsetzung unserer Wünsche, sowie ein motiviertes und engagiertes Team. Ein herzliches Danke Euch allen. Immer wieder gerne.",
+        "time": 1604253917,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "SpeedmakerOne Benz",
+        "author_photo": "/images/reviews/borner-gartengestaltung-gmbh-maegenwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Sitzplatz erneuert und vergrössert sowie den Vorplatz erweitert. Wir waren mehr als zufrieden mit Borner Gartengestaltung. Sehr motivierte und freundliche Mitarbeiter, super Arbeit und kompetente Beratung von Patrik Strebel. Auch Termine wurde immer eingehalten wie vereinbart. Wir haben riesig Freude an unserem Garten und würden Euch jederzeit wieder engagieren. Sehr zu empfehlen.",
+        "time": 1627452387,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Maria Spieler",
+        "author_photo": "/images/reviews/borner-gartengestaltung-gmbh-maegenwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute, sympathische Beratung. Super Qualität zu sehr fairem Preis. Herzlichen Dank. Ich komme wieder. Peter Schmid",
+        "time": 1742111015,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

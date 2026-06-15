@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0dNBa28JjkcREXL4ZDmQ4Rw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.6,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "some one",
+        "author_photo": "/images/reviews/flueckiger-electricite-s-a-st-blaise/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ein Renovierungsprojekt, das unverschämt teuer war und weit hinter unseren Erwartungen zurückblieb. Ein anderes Projekt mit einer anderen Firma verlief deutlich professioneller und kostete bei gleichem Umfang 30 % weniger. Flückiger stellte uns inkompetente Mitarbeiter zur Verfügung, die keinerlei Vorschläge machen konnten und denen wir teilweise jedes Detail erklären und die Arbeit praktisch selbst erledigen mussten. Und wenn es dreimal so lange dauerte wie geplant, weil der Mitarbeiter eine einfache Aufgabe nicht schnell genug erledigen konnte – kein Problem, wir berechnen es trotzdem! Wir mussten jeden einzelnen Posten der Endrechnung neu verhandeln und nicht akzeptable Positionen streichen. Man fragt sich, wie so eine Firma überhaupt noch existieren kann… Hut ab! Für mich ist das inakzeptabel. 👎🏻",
+        "time": 1746557033,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "The Telletubies 78",
+        "author_photo": "/images/reviews/flueckiger-electricite-s-a-st-blaise/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Diese Firma ist eine Schande. Sie sind unprofessionell und ihre Schränke sind von minderer Qualität. Die Angestellten sind herablassend und unfreundlich. Mein Rat: Gehen Sie bloß keine Geschäfte mit denen ein.",
+        "time": 1756135032,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Utilisateur Google",
+        "author_photo": "/images/reviews/flueckiger-electricite-s-a-st-blaise/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Die Sekretärin war sehr kühl und unfreundlich. Ich hatte die Firma vor zwei Wochen wegen eines Elektrikproblems kontaktiert und warte immer noch auf einen Rückruf zur Terminvereinbarung… Ich habe mich deshalb für eine andere Firma entschieden.",
+        "time": 1734111036,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mickaël R",
+        "author_photo": "/images/reviews/flueckiger-electricite-s-a-st-blaise/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein Team von Profis und erstklassige Reaktionsfähigkeit – das ist Fluckiger!",
+        "time": 1760599232,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Joël Jean Claude Joray",
+        "author_photo": "/images/reviews/flueckiger-electricite-s-a-st-blaise/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein erstklassiges Unternehmen.\n\nIch kann es wärmstens empfehlen.\n\nMit freundlichen Grüßen.\nJoël JCL Joray",
+        "time": 1638539516,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

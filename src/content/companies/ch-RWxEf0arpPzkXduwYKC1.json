@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRQ9imUBljEcRblG-XGvMzfI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Lucas Viciot",
+        "author_photo": "/images/reviews/zingueurs-du-batiment-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für den Service!\nErstklassig!!!",
+        "time": 1754946719,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Samba Sacko",
+        "author_photo": "/images/reviews/zingueurs-du-batiment-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank",
+        "time": 1754949161,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Samy Sfihi",
+        "author_photo": "/images/reviews/zingueurs-du-batiment-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1754949567,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Juliette Hott Mbock",
+        "author_photo": "/images/reviews/zingueurs-du-batiment-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1754946910,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Ibrahim kalilou Soumahoro",
+        "author_photo": "/images/reviews/zingueurs-du-batiment-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1754589277,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

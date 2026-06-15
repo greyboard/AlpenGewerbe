@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJNY8R-H4jjkcRiUgEMalO2-w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 65,
+    "reviews": [
+      {
+        "author_name": "Rolf Gerber",
+        "author_photo": "/images/reviews/natura-gartenbau-ag-seeland-busswil-bei-bueren/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alle Mitarbeiter sind sehr freundlich und motiviert und haben gute Arbeit geleistet. Besonders imponiert hat mir Noah beim Fällen der Tanne und Schneiden der Buche.\nDas Preis-Leistungsverhältnis stimmt.\nIch bin sehr zufrieden.",
+        "time": 1773585109,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Fritz Stauffer",
+        "author_photo": "/images/reviews/natura-gartenbau-ag-seeland-busswil-bei-bueren/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Altersbedingte Sanierung eines holzverlegten Hausvorplatzes mit Verbundsteinen. Alle Arbeiten inkl. Schachterhöhung wurden zu unserer vollen Zufriedenheit ausgeführt. Das freundliche und zuvorkommende Team arbeitete speditiv und präzis.\nIm Frühling steht eine weitere Gartenarbeit mit Natura an.",
+        "time": 1766405439,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Stephanie Kunz",
+        "author_photo": "/images/reviews/natura-gartenbau-ag-seeland-busswil-bei-bueren/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Natura Gartenbau hat uns sehr gut beraten, die Preise und Optionen wurden klar kommuniziert und die beste Entscheidung mit uns gemeinsam getroffen. Auch standen die Gärtner für Fragen und Tipps bereitwillig zur Verfügung. Wir waren sehr zufrieden und werden die Firma für weitere Aufträge gerne wieder kontaktieren.\nAusgeführter Auftrag war die sanierung und trockenlegung einer Aussenmauer mit anschliessendem Austausch des Bodens, damit dort ein Beet angelegt werden konnte.",
+        "time": 1769174869,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Stefanie Wagner",
+        "author_photo": "/images/reviews/natura-gartenbau-ag-seeland-busswil-bei-bueren/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das Team von Natura Gartenbau ist zuverlässig, denkt mit, geht auf die Kundenwünsche ein, arbeitet sorgfältig und das Ergebnis ist einfach toll ! Für uns ist klar, dass wir immer wieder diesen Gartenbauer beauftragen werden. Danke vielmals ! Sehr empfehlenswert!",
+        "time": 1746296129,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Weber",
+        "author_photo": "/images/reviews/natura-gartenbau-ag-seeland-busswil-bei-bueren/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Pünktlich, sehr gute Ausführung der Arbeit. Und auch sehr freundlich. Gutes Preis Leistung Verhältnis. Kann die Firma  Natura Gartenbau weiter empfehlen.",
+        "time": 1772737458,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

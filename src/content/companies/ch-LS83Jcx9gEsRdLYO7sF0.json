@@ -1,7 +1,7 @@
 {
   "id": "ch-LS83Jcx9gEsRdLYO7sF0",
   "slug": "sergio-alberti-arredo-sa-canobbio",
-  "name": "Sergio Alberti & Arredo SA",
+  "name": "Alberti Sergio & Arredo SA",
   "branchen": [
     "bodenleger"
   ],
@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnyqPfUEyhEcRxd-pEB-4nFg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–12:00 Uhr, 14:00–17:00 Uhr",
+    "Dienstag: 08:30–12:00 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 08:30–12:00 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 08:30–12:00 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 08:30–12:00 Uhr, 14:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 37,
+    "reviews": [
+      {
+        "author_name": "Klaus Beeler",
+        "author_photo": "/images/reviews/sergio-alberti-arredo-sa-canobbio/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe Parkett von dieser Firma bezogen. Hat schnell und termingerecht funktioniert.",
+        "time": 1623323271,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nixi Hess",
+        "author_photo": "/images/reviews/sergio-alberti-arredo-sa-canobbio/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben die Böden in unserem gesamten Haus erneuern lassen und die Firma Massimo Alberti damit beauftragt. Nach einer ersten Besichtigung wurde uns sehr schnell ein Angebot erstellt, und die Installationstermine wurden eingehalten. Lorenzo, der Verleger, hat hervorragende Arbeit geleistet. Wir sind mit dem neuen Parkettboden und der Professionalität dieser Firma überaus zufrieden! Herzlichen Glückwunsch und vielen Dank. Absolut empfehlenswert!",
+        "time": 1628442096,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Andrea Chiappella",
+        "author_photo": "/images/reviews/sergio-alberti-arredo-sa-canobbio/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service, das neue Parkett wurde pünktlich und präzise verlegt, perfektes Ergebnis.",
+        "time": 1759938286,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Nixi Hess",
+        "author_photo": "/images/reviews/sergio-alberti-arredo-sa-canobbio/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben Massimo Alberti beauftragt, die Böden in unserem gesamten Haus zu erneuern, und schon wenige Tage nach der Besichtigung erhielten wir ein Angebot. Pünktlichkeit und Präzision zeichneten die gesamte Arbeit aus. Die Böden (Eichenparkett) sind wunderschön. Ein herzliches Dankeschön an Lorenzo, der mit seinem Können und seiner Erfahrung unser Zuhause in ein wahres Schmuckstück verwandelt hat.",
+        "time": 1633410089,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "MrLuke !",
+        "author_photo": "/images/reviews/sergio-alberti-arredo-sa-canobbio/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Francesco hat hervorragende Arbeit geleistet. Er hat die Rollladenmechanik ausgetauscht. Er war sehr gründlich und professionell. Bei seiner ersten Kontrolle hat er das Problem sofort erkannt. Vielen Dank für die hervorragende Arbeit.\n\nMit freundlichen Grüßen, Giovanna",
+        "time": 1746703263,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

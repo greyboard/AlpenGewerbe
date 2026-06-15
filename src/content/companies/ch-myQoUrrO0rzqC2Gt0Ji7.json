@@ -26,5 +26,38 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJucF_iN4JkEcRLrtKVFHIekU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Benno Weber",
+        "author_photo": "/images/reviews/pcp-metal-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich, interessante & sympathische  Person, gute Arbeit gemacht, fairer Preis & schnell.",
+        "time": 1601719441,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "pally online",
+        "author_photo": "/images/reviews/pcp-metal-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Erstklassiger Service!",
+        "time": 1661789914,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nathan Yansen",
+        "author_photo": "/images/reviews/pcp-metal-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1367918709,
+        "relative_time_description": "vor 13 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

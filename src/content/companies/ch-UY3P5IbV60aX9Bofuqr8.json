@@ -26,5 +26,46 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7x2lqpYjm0cR9O1n6CoKmcw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Adrian Fässler",
+        "author_photo": "/images/reviews/markus-manser-holzbau-ag-weissbad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756193775,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Daniel Signer",
+        "author_photo": "/images/reviews/markus-manser-holzbau-ag-weissbad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1673637898,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mauro",
+        "author_photo": "/images/reviews/markus-manser-holzbau-ag-weissbad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667905268,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Holger Platzdasch",
+        "author_photo": "/images/reviews/markus-manser-holzbau-ag-weissbad/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1645829567,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

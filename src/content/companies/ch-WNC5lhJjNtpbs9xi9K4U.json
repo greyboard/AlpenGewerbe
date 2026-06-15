@@ -26,5 +26,31 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJdTh2E85ThUcRmtDYVH7mZj4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Aritz Gomez",
+        "author_photo": "/images/reviews/kreatrend-ag-naturstein-plattenbelaege-sattel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann die Plattenleger Firma nur wärmstens empfehlen! Von Anfang bis Ende war die Zusammenarbeit einfach fantastisch. Das Team war äußerst professionell, pünktlich und hat hervorragende Arbeit geleistet. Die Qualität der Plattenverlegung ist einfach top – alles wurde präzise und mit viel Liebe zum Detail ausgeführt.\n\nBesonders beeindruckt hat mich die Beratung im Vorfeld. Sie haben sich Zeit genommen, um meine Wünsche zu verstehen und mir wertvolle Tipps gegeben. Auch die Sauberkeit während und nach der Arbeit war vorbildlich.\n\nIch bin mit dem Ergebnis mehr als zufrieden und werde die Firma definitiv für zukünftige Projekte wieder in Anspruch nehmen. Vielen Dank für die tolle Arbeit!",
+        "time": 1743530250,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

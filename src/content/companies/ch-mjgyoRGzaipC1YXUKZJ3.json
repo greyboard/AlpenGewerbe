@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJHS87kLoZj0cRnG-dlpjCLPQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 3,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Debora Kägi",
+        "author_photo": "/images/reviews/metallbau-noll-susten/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Anfang März musste unser Schloss ausgewechselt werden. Mitte Juni wurde das endlich erledigt. Wir wurden mehrmals vergessen und versprechen wurden nicht eingehalten. Miserabler Service und eine Entschuldigung haben wir auch nie erhalten. Die Abdeckung für das Schloss kam auch nie an.",
+        "time": 1754647992,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Beatrice Abegg",
+        "author_photo": "/images/reviews/metallbau-noll-susten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1554709356,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

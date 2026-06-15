@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAQAwOUaqmkcRYjetlfePkrk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: 09:00–12:30 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 61,
+    "reviews": [
+      {
+        "author_name": "Noelia Alina",
+        "author_photo": "/images/reviews/malergeschaeft-nieli-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Maler war in kürzester Zeit verfügbar und schickte uns eine Top-Offerte. Wir konnten ihn immer gut erreichen und der Auftrag wurde äusserst schnell erfüllt.\nBesten Dank!",
+        "time": 1773479502,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Deepta Sridhar",
+        "author_photo": "/images/reviews/malergeschaeft-nieli-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionell. Tapete Installation war schnell und einwandfrei. Sehr zu empfehlen",
+        "time": 1772979964,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Priska Lüthi",
+        "author_photo": "/images/reviews/malergeschaeft-nieli-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin höchst zufrieden mit der Arbeit dieser Firma\nHerrn Nieli und sein Team sind sehr freundlich, pünktlich und zuverlässig.\nDiese Firma ist sehr empfehlenswert.\nVielen Dank 🙏",
+        "time": 1760354796,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Simon Smykalla",
+        "author_photo": "/images/reviews/malergeschaeft-nieli-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hatte gestern eine sehr positive Erfahrung mit Herr Nieli. Herr Nieli kam, um in meiner Wohnung Dübellöcher auszubessern, die von der Vormieterin hinterlassen wurden. Ich war mir sicher, dass die einzige Lösung ein komplettes Streichen der Wände sei. Herr Nieli konnte jedoch die Wandfarbe nachmischen und die Dübellöcher sind nun nicht mehr sichtbar.\nAusserdem war es sehr einfach, zeitnah einen Termin mit Herr Nieli zu vereinbaren, wenn ein weiteres streichen oder ausbessern der Wände bei mir ansteht werde ich mich wieder an ihn wenden.",
+        "time": 1744354400,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "MC L",
+        "author_photo": "/images/reviews/malergeschaeft-nieli-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit den Malerarbeiten. Über diese hinaus hat Herr Nieli auch sehr gut hinsichtlich Farbwahl und weiteren gestalterischen Elementen beraten. Ich kann das Malergeschäft Nieli uneingeschränkt weiterempfehlen.",
+        "time": 1760542261,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

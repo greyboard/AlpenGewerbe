@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJZc8r1_1vjEcRpcDZ0R-mQGk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:00 Uhr",
+    "Dienstag: 07:00–16:00 Uhr",
+    "Mittwoch: 07:00–16:00 Uhr",
+    "Donnerstag: 07:00–16:00 Uhr",
+    "Freitag: 07:00–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Realis Bon",
+        "author_photo": "/images/reviews/baciu-sa-constructions-metalliques-veyrier/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeitsqualität und ein hochprofessionelles Team. Ich kann sie wärmstens empfehlen.",
+        "time": 1743677426,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Carpa Victor",
+        "author_photo": "/images/reviews/baciu-sa-constructions-metalliques-veyrier/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732178083,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexandru Ambrosie",
+        "author_photo": "/images/reviews/baciu-sa-constructions-metalliques-veyrier/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1721990804,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Laurentiu Balcan",
+        "author_photo": "/images/reviews/baciu-sa-constructions-metalliques-veyrier/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1544163407,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

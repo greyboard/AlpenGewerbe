@@ -26,5 +26,31 @@
     "Fundamentbau",
     "Renovation"
   ],
-  "description": "So präsentiert Ihr Webauftritt Ihre Dienstleistungen zwar übersichtlich, lässt jedoch im Hintergrund massives Potenzial ungenutzt: Die wichtigen SEO-Metadaten fehlen vollständig, wodurch Sie bei Google wertvolle Sichtbarkeit in der Region verschenken. Zudem erschwert das Fehlen eines Kontaktformular"
+  "description": "So präsentiert Ihr Webauftritt Ihre Dienstleistungen zwar übersichtlich, lässt jedoch im Hintergrund massives Potenzial ungenutzt: Die wichtigen SEO-Metadaten fehlen vollständig, wodurch Sie bei Google wertvolle Sichtbarkeit in der Region verschenken. Zudem erschwert das Fehlen eines Kontaktformular",
+  "googlePlaceId": "ChIJrWp2toczm0cRFnOMR65vCac",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr",
+    "Dienstag: 08:00–11:30 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr",
+    "Freitag: 08:00–11:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Annett Müller - Gantner",
+        "author_photo": "/images/reviews/baumontagen-willi-buechel-anstalt-balzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605772262,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

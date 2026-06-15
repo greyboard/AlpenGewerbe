@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJPWXOYEgshUcRRc5lvECt3lM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Markus Bolt",
+        "author_photo": "/images/reviews/juraubek-naturgartenpflege-ennenda/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Boris und sein Team machen uns seit längerem den Garten und Umschwung in Haslen! Sind immer sehr zufrieden! Vielen Dank und weiter so! 👍\nLieber Gruss Markus Bolt und Familie",
+        "time": 1761483963,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "yasemin schnyder",
+        "author_photo": "/images/reviews/juraubek-naturgartenpflege-ennenda/reviewer_2.jpg",
+        "rating": 5,
+        "text": "auch beim entsorgen sehr freundlich und arbeitswillig 😎",
+        "time": 1656747695,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Heidi Gmür",
+        "author_photo": "/images/reviews/juraubek-naturgartenpflege-ennenda/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1648065058,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

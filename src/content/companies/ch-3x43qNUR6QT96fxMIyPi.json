@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJEW63fUYGkEcRelMr75QwhbE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Pietro Lanzisera",
+        "author_photo": "/images/reviews/hlks-haustechnik-gmbh-steinhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte heute ein Problem und brauchte dringend diverses Heizungsmaterial! Ich war überrascht und sehr dankbar dass mir innerhalb von 15 min Hilfe angeboten wurde und ich die Ersatzteile bekommen habe!\nHerzlichen Dank nochmal! Top Kundenservice!",
+        "time": 1760978543,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Till Neinhaus",
+        "author_photo": "/images/reviews/hlks-haustechnik-gmbh-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin dem Einsatz der Firma  HLKS Haustechnik sehr zufrieden. Von der Beratung bis zur Ausführung haben Sie einen sehr kompetenten und vertauensvollen Eindruck hinterlassen. Die Arbeiten wurden termingerecht, sauber und fachlich korrekt ausgefürth. Ich kann die HLKS weiterempfehlen bei jeglichen Heizungs-, Sanitär- und Lüftungsarbeiten.",
+        "time": 1737024034,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hanna Streiff",
+        "author_photo": "/images/reviews/hlks-haustechnik-gmbh-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "HLKS ist ein sympathisches junges Team, das sehr gute, fachgerechte und saubere Arbeit bei mir im Badezimmer geleistet hat. (Montage eines Dusch-WC-Aufsatzes). Ich werde diese Firma in meinem Freundeskreis gerne weiter empfehlen.",
+        "time": 1737994416,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Silvia Haas",
+        "author_photo": "/images/reviews/hlks-haustechnik-gmbh-steinhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Notfall bei der Montage eines neuen Heizungszählers. Die Firma HLKS Haustechnik GmbH lieferte das fehlende Teil umgehend dem Monteur. Danke.",
+        "time": 1761024737,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Mario",
+        "author_photo": "/images/reviews/hlks-haustechnik-gmbh-steinhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service, die Arbeiten wurden zu unserer vollsten Zufriedenheit ausgeführt und zudem pünktlich wie vereinbart. Kann ich 100% weiterempfehlen!",
+        "time": 1631976892,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

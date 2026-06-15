@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJBULmOSuAmkcRS2Izg2P9Jrk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "PeAllee",
+        "author_photo": "/images/reviews/eco-waermetechnik-gmbh-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Öl-Heizung durch eine Wärmepumpe ersetzen lassen. Der Handwerker vor Ort nahm sich auch Zeit für technische Fragen, der Chef überaus freundlich. Preis/Leistung stimmte. Die neue Heizung funktioniert einwandfrei (seit März 2023).",
+        "time": 1723554264,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vullnet Neziri",
+        "author_photo": "/images/reviews/eco-waermetechnik-gmbh-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die professionelle Beratung und Einsatz.",
+        "time": 1741193147,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fab",
+        "author_photo": "/images/reviews/eco-waermetechnik-gmbh-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer sehr freundlich und kompetent.",
+        "time": 1701534088,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Visar Shala",
+        "author_photo": "/images/reviews/eco-waermetechnik-gmbh-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent!",
+        "time": 1725889384,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alfons",
+        "author_photo": "/images/reviews/eco-waermetechnik-gmbh-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1519435107,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

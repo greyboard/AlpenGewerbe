@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPzxDlSQBkEcRzXP3MSarnQk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 14:00–18:00 Uhr",
+    "Dienstag: 14:00–18:00 Uhr",
+    "Mittwoch: Geschlossen",
+    "Donnerstag: 14:00–18:00 Uhr",
+    "Freitag: 14:00–18:00 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Helmi Enzler",
+        "author_photo": "/images/reviews/teppich-parkett-cc-ag-zug-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "zuverlässig, pünktlich.\nseriös und saubere Arbeiten.\nguten und freundlichen Service.\nBin zufrieden, professionelle Bodenlegerin...weiss was,wie,wo!\nEmpfehlung insbesondere kompetente Arbeit.",
+        "time": 1757754602,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Harald Steger",
+        "author_photo": "/images/reviews/teppich-parkett-cc-ag-zug-cham/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich würde mir nie wieder ein Angebot von dieser Firma unterbreiten lassen und würde die Firma Teppich & Parkett CC-AG niemandem weiterempfehlen. Die Offerte war viel zu teuer und anschliessend hatte ich nur Ärger mit dieser Firma.",
+        "time": 1746035285,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "John Philip Stalder",
+        "author_photo": "/images/reviews/teppich-parkett-cc-ag-zug-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alle Arbeiten wurden immer zu unserer vollsten Zufriedenheit ausgeführt und bei Bedarf auch nachgebessert. Die CC-AG ist seit langem ein verlässlicher Partner von uns.",
+        "time": 1580640922,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tobias Loetscher",
+        "author_photo": "/images/reviews/teppich-parkett-cc-ag-zug-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Qualität der Arbeiten und Beratung war 1A.",
+        "time": 1556391446,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Philippe Philippe",
+        "author_photo": "/images/reviews/teppich-parkett-cc-ag-zug-cham/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Alles io",
+        "time": 1567690536,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

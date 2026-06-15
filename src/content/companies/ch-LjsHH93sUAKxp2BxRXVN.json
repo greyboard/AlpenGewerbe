@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJr6pDAqkthUcR452fwP5rHsA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Masha Synowicz",
+        "author_photo": "/images/reviews/karl-stuessi-sanitaer-ag-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mein Problem konnte den Umständen entsprechend schnell und kompetent gelöst werden. Der Installateur war sehr freundlich und angenehm",
+        "time": 1704450765,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tatjana Mika",
+        "author_photo": "/images/reviews/karl-stuessi-sanitaer-ag-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und schnell. Gute Beratung und Organisation.",
+        "time": 1559130156,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Andy B.",
+        "author_photo": "/images/reviews/karl-stuessi-sanitaer-ag-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung und schnell ausgeführte Arbeiten.",
+        "time": 1554993024,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rita Stüssi",
+        "author_photo": "/images/reviews/karl-stuessi-sanitaer-ag-glarus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "immer sehr nett der empfang...",
+        "time": 1604568445,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Twitch_DJ7STARS",
+        "author_photo": "/images/reviews/karl-stuessi-sanitaer-ag-glarus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundliches Unternehmen mit höchstem Qualitätsstandart",
+        "time": 1595855485,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

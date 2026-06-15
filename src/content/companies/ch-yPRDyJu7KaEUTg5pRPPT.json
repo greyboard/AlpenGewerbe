@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO-qZZ8zfmkcR6FTLkWhflLs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Daniela Mares",
+        "author_photo": "/images/reviews/boesch-elektro-ag-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin super zufrieden. Kompetent, freundlich und speditiv. Ich habe schon lange nach einem solchen Betrieb gesucht. Danke dem tollen Team!",
+        "time": 1772203573,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Gerig Andreas",
+        "author_photo": "/images/reviews/boesch-elektro-ag-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Haben uns bei einem dringenden Fall in unserer Physiopraxis schnell und kompetent geholfen. Jetzt können unsere Kunden wieder wie gewohnt trainieren. Herzlichen Dank!",
+        "time": 1700029808,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Valentina Markaj",
+        "author_photo": "/images/reviews/boesch-elektro-ag-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für den tollen, schnellen und absolut kompetenten Service! Gerne wieder!",
+        "time": 1746814280,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vreni Signer",
+        "author_photo": "/images/reviews/boesch-elektro-ag-herisau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und gute Beratung. Herr Höhener hat einen Superjob gemacht! Wir können Elektro Bösch nur weiterempfehlen.",
+        "time": 1626343257,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Rene Städler",
+        "author_photo": "/images/reviews/boesch-elektro-ag-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Geschäft tolle Leute",
+        "time": 1758192434,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

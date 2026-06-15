@@ -1,7 +1,7 @@
 {
   "id": "ch-XSRJObXoJBLdpOqdKxML",
   "slug": "mcm-mondada-costruzioni-metalliche-losone",
-  "name": "MCM Mondada Costruzioni Metalliche",
+  "name": "MCM Mondada costruzioni metalliche",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJvy-aAPTHhUcRD5-6L7ChnVQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Ernst Kunz",
+        "author_photo": "/images/reviews/mcm-mondada-costruzioni-metalliche-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die professionelle Arbeit. Diese Firma ist nur zum empfehlen.\nMille grazie",
+        "time": 1781355188,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Fabiano Montini",
+        "author_photo": "/images/reviews/mcm-mondada-costruzioni-metalliche-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hier fand ich Professionalität, Hilfsbereitschaft und absolut wettbewerbsfähige Preise vor. Herr Mondada wartete eines Abends bis 19:00 Uhr auf mich, als ich die Garagentür bestellen wollte.",
+        "time": 1514273494,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Gianluca Tomasetti",
+        "author_photo": "/images/reviews/mcm-mondada-costruzioni-metalliche-losone/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ottima impresa, non posso che consigliare!",
+        "time": 1709758759,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Salvatore D'antoni",
+        "author_photo": "/images/reviews/mcm-mondada-costruzioni-metalliche-losone/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622045290,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marina Bucci",
+        "author_photo": "/images/reviews/mcm-mondada-costruzioni-metalliche-losone/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1581583450,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

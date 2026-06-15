@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT127h8o5jkcRKQkPvfGfPCk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marco Binggeli",
+        "author_photo": "/images/reviews/elektro-haldemann-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Elektro Haldemann AG ist die zuverlässigste & traditionelle Elektro-Installations Firma in Bern, mit tollen und sehr freundlichen Mitarbeitenden. Ausserdem ist Elektro Haldemann AG der perfekte Partner, wenn es um das Thema Ladestation -  Infrastruktur für dein Elektroauto geht. 🔌🔋",
+        "time": 1754666034,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Andreas Leißner",
+        "author_photo": "/images/reviews/elektro-haldemann-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Elektro Haldemann hat in unserer Wohnung die komplette Elektrik modernisiert. Dabei wurden alle alten Kabel ersetzt und unter den Putz verlegt, Steckdosen und Lichtschalter ausgetauscht sowie der  Sicherungskasten auf neuen Stand gebracht. Die Zusammenarbeit lief sehr gut und speditiv. Ich fühlte mich stets gut beraten und über die Fortschritte informiert. Ich freue mich \"meinen Elektriker in Bern\" gefunden zu haben und empfehle Elektro Haldemann gerne weiter.",
+        "time": 1734603757,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nicole Mathys",
+        "author_photo": "/images/reviews/elektro-haldemann-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Liebes Elektro Haldeman Team, ich danke Ihnen für Ihre perfekte und  fachgerechte Montage unserer   Designleuchten und die Supereinstellungen der diversen Leitungen. Ich empfehle Ihre Firma sehr gerne weiter\nNicole Mathys, Muri",
+        "time": 1720071783,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tobias Bürki",
+        "author_photo": "/images/reviews/elektro-haldemann-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetenter und hilfsbereiter Partner. Ich empfehle gerne eine Zusammenarbeit.\nBeste Grüsse\nTobias Bürki",
+        "time": 1569509732,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Rene Haussener",
+        "author_photo": "/images/reviews/elektro-haldemann-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service Autoladestation Kompetenze Mitarbeiter schnell und zuverlässig",
+        "time": 1732452887,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

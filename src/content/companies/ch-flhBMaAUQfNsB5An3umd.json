@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJm0ekiqj-j0cRCmALP3kNS2E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–12:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Lou Kälin",
+        "author_photo": "/images/reviews/metallbau-bucher-ag-adligenswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetentes Team Und Angenehme und schnelle ausführung.",
+        "time": 1744032441,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Schindler",
+        "author_photo": "/images/reviews/metallbau-bucher-ag-adligenswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir bedanken uns recht herzlich für die immer hervorragende Zusammenarbeit! Qualität, Termintreue und eine individuelle Beratung werden bei Metallbau Bucher AG aktiv gelebt! Besten Dank und auf viele weitere gemeinsam erfolgreiche Jahre.\nBeste Grüsse\nSchindler Gärten GmbH",
+        "time": 1657638022,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Luca Bossart",
+        "author_photo": "/images/reviews/metallbau-bucher-ag-adligenswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super arbeit und tolles Team.\nAufträge werden schnell abgewickelt.\nNur zu empfehlen!",
+        "time": 1654110020,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marcel Baumgartner",
+        "author_photo": "/images/reviews/metallbau-bucher-ag-adligenswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr guter Metallbau. Sehr Empfehlenswert.",
+        "time": 1651129348,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Martin Müller",
+        "author_photo": "/images/reviews/metallbau-bucher-ag-adligenswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Unkompliziert, die machen einen super Job",
+        "time": 1650351045,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

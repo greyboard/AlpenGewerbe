@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJe5jRX347kEcRGzNzNdaMFcM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 36,
+    "reviews": [
+      {
+        "author_name": "Robi S",
+        "author_photo": "/images/reviews/dg-haustechnik-gmbh-unterentfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein professioneller Handwerker wie man sich wünscht!\nWir hatten eine defekte Solaranlage für Warmwasser. Diese hat DG Haustechnik preiswert ersetzt durch einen Wärmetauscher Boiler. Trotz des aufwendigen Umbaus konnten alle Arbeiten in einem Tag abschlossen werden.\nZudem wurde die Gasheizung an die Zentalheizung angeschlossen.\nAlle Abmachungen wurden mehr als erfüllt und der Zeitplan perfekt erfüllt.\nImmer gerne wieder!\nBild 1: der defekte Tank\nBild 2: der ausgebaute Tank mit Material bereit zum Entsorgen\nBild 3: die neue Wärmetauscheranlage\nDG Haustechnik kann ich bestens empfehlen! 😍",
+        "time": 1758879273,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Danut Istrate",
+        "author_photo": "/images/reviews/dg-haustechnik-gmbh-unterentfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit von DG Haustechnik GmbH. Die Ausführung war professionell, sauber und gut organisiert. Kommunikation und Terminabstimmung liefen reibungslos, und man merkt, dass hier mit Erfahrung und Sorgfalt gearbeitet wird.\nDer Preis ist absolut gerechtfertigt – die Qualität und Professionalität der Arbeit sprechen für sich. Ich kann DG Haustechnik GmbH uneingeschränkt weiterempfehlen.",
+        "time": 1770395813,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Simon",
+        "author_photo": "/images/reviews/dg-haustechnik-gmbh-unterentfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der Austausch von 3 Elektroboilern wurde zu unserer vollsten Zufriedenheit erledigt. Herr Gashi war vom ersten Kontakt bis zur Umsetzung immer erreichbar und professionell. Die Arbeiten wurden sehr sauber und zuverlässig ausgeführt, so dass wir innerhalb weniger Stunden wieder warmes Wasser hatten. Wir können die Firma DG Haustechnik GmbH auf jeden Fall weiterempfehlen. Vielen Dank!",
+        "time": 1769764266,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "SofiMuffinGashi SofiMuffinGashi",
+        "author_photo": "/images/reviews/dg-haustechnik-gmbh-unterentfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem Service rundum zufrieden. Von der ersten Beratung bis zur finalen Umsetzung verlief alles professionell und zuverlässig. Die Mitarbeiter waren pünktlich, freundlich und haben sauber gearbeitet. Besonders positiv hervorzuheben ist die kompetente Beratung alle Fragen wurden verständlich erklärt und es wurden passende, nachhaltige Lösungen angeboten.\n\nIm Notfall sind die Mitarbeiter rasch gekommen!",
+        "time": 1770981620,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Arber Gashi",
+        "author_photo": "/images/reviews/dg-haustechnik-gmbh-unterentfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Auf DG Haustechnik kann man sich wirklich verlassen. Ich habe bereits mit verschiedenen Unternehmen zusammengearbeitet, doch hier wird Service noch grossgeschrieben. Die Beratung ist äusserst fachkundig, die Umsetzung erfolgt effizient und das Resultat überzeugt auf ganzer Linie. Solch ausgeprägten Berufsstolz findet man heute nur noch selten – jederzeit gerne wieder.",
+        "time": 1771790576,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

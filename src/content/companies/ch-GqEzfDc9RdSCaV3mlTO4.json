@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJoVihmQU5jkcRUFbAUxTHpk0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 48,
+    "reviews": [
+      {
+        "author_name": "Yvonne",
+        "author_photo": "/images/reviews/b-r-glas-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mega tolle Arbeit und sehr freundliche Mitarbeiter. Ich bin maßlos zufrieden und kann dieses Geschäft nur weiterempfehlen. Top Service!",
+        "time": 1771435192,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "janosch burren",
+        "author_photo": "/images/reviews/b-r-glas-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Laden, super Personal. Sehr empfehlenswert.",
+        "time": 1773132648,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Thierry Aeschlimann",
+        "author_photo": "/images/reviews/b-r-glas-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alles perfekt!\nSehr freundlich!\nSchnell, spontan und flexibel!\nTop Preis Leistung!!!",
+        "time": 1768381271,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Simon April-Monn",
+        "author_photo": "/images/reviews/b-r-glas-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Beratung, Top Service, und Saubere Ausführung. Jederzeit wieder! Merci Räphu, Tinu und Team🙏",
+        "time": 1763475383,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "sandro käser",
+        "author_photo": "/images/reviews/b-r-glas-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir bedanken uns für die tolle Zusammenarbeit und die freundlichen Mitarbeiter.\nJede Auskunft wurde sehr kompetent beantwortet durch die Mitarbeiter und den Inhaber.\nVielen Dank an das B&R Glas Team",
+        "time": 1761210836,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

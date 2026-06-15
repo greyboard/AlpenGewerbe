@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJwR8-6Pjyj0cRT-aprAF__1I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Ruedy Geissmann",
+        "author_photo": "/images/reviews/rohrer-gartenbau-und-hauswartungen-gmbh-sachseln/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Unkorrekte Abrechnungen, und noch viel, viel  mehr Unannehmlichkeiten, ich werde ihn NIE WEITER Empfehlen",
+        "time": 1755643555,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Simon Kaserer",
+        "author_photo": "/images/reviews/rohrer-gartenbau-und-hauswartungen-gmbh-sachseln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Preis-Leistung. Zuvorkommend und unkompliziert. Schon mehrere Projekte erfolgreich umgesetzt. Jederzeit wieder!",
+        "time": 1550013076,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "LOMA",
+        "author_photo": "/images/reviews/rohrer-gartenbau-und-hauswartungen-gmbh-sachseln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tip Top sehr nette Mitarbeiter, unterstützen auch gerne mal Lokale Vereine",
+        "time": 1544041866,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Anna Rohrer",
+        "author_photo": "/images/reviews/rohrer-gartenbau-und-hauswartungen-gmbh-sachseln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1606137574,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Andy Von Flüe",
+        "author_photo": "/images/reviews/rohrer-gartenbau-und-hauswartungen-gmbh-sachseln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1602448158,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

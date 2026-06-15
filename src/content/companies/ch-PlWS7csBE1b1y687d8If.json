@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7yYektv9j0cR5MWO0jYuCHM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "rahel scheidegger",
+        "author_photo": "/images/reviews/use-metalltechnik-ag-ebikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Danke für die kompetente Beratung und die zuverlässig Ausführung der Arbeit. Meine Kunden bei Edelrost-Sujet freuen sich immer wieder über die wunderschöne Rost- & Metalldeko, die ich Dank der Hilfe von USE Metalltechnik, kreieren kann.",
+        "time": 1743513044,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Nocke",
+        "author_photo": "/images/reviews/use-metalltechnik-ag-ebikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann das Unternehmen sehr empfehlen. Ich habe verschiedene Kleinserien und Einzelteile die immer wieder zu fertigen sind und egal mit welchen Herausforderungen ich zu USE gekommen bin, ich bin immer mit einem \"grinsen\" und einem fertigen Produkt gegangen. Die Betreuung ist freundlich und trotz stressiger Zeiten entgegenkommend und hilfreich. Mein Fazit: egal ob Einzelteil oder Gross-Serie USE ist immer dabei.",
+        "time": 1650139452,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Irene F",
+        "author_photo": "/images/reviews/use-metalltechnik-ag-ebikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kam mit einem Anliegen zur USE und bin begeistert. Sie waren alle sehr freundlich, zuvorkommend, ich habe mich verstanden gefühlt. Das Resultat war super umgesetzt, toll verarbeitet, sehr empfehlenswert. Herzlich Dank nochmals.",
+        "time": 1714193595,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Huber",
+        "author_photo": "/images/reviews/use-metalltechnik-ag-ebikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Zusammenarbeit möglich - wenn einmal etwas nicht wie gewünscht klappt, wird man informiert. Wenn man Extrawünsche benötigt ist das machbar.\nQualität nicht immer highend, aber so wie gefordert und Preis dafür auch entsprechend angepasst.",
+        "time": 1669114768,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "daniel dyntar",
+        "author_photo": "/images/reviews/use-metalltechnik-ag-ebikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlicher und Kompetenter Fertigungspartner mit top Unterstützung bei komplexeren Blechbauteilen. Fragen werden rasch beantwortet inkl. entsprechenden Lösungsvorschlägen.\n\nFür uns liegt der grosse Vorteil auch in der Fertigungstiefe, also alles aus einem Haus:\n- Lasern\n- Abkanten\n- Rohrlaser\n- Schweissen\n- Pulverbeschichten\n\nFür die Bestellung von Blechteilen genügt ein STEP File mit Angabe von Material und Oberflächenbehandlung - für uns eine grosse Zeitersparnis.",
+        "time": 1549527819,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

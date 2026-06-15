@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJl-mR-lS5kUcRtetp3jXjyyQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Miles Fisher-Pollard (AUSinCH)",
+        "author_photo": "/images/reviews/slo-fix-haustechnik-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Abdul von Slofix Haustechnik hat die Rohrleitungen angepasst und in meinem renovierten Gästebad ein neues Waschbecken, neue Wasserhähne und eine neue Toilette installiert. Er war immer gut gelaunt und pünktlich, hat mir kluge Ratschläge gegeben, die Arbeit schnell und sehr effizient erledigt und einen fairen Preis berechnet. Ausserdem spricht er gut Englisch!\n\nIch bin sehr zufrieden mit seiner Arbeit und kann ihn wärmstens empfehlen.",
+        "time": 1771891319,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Roj Ali",
+        "author_photo": "/images/reviews/slo-fix-haustechnik-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Sanitäter hat seine Aufgaben äußerst gewissenhaft und engagiert erfüllt. Er war stets fleißig, zuverlässig und besonders pünktlich. Seine Pünktlichkeit war für uns von großer Bedeutung.",
+        "time": 1771778926,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "bahoz ossi",
+        "author_photo": "/images/reviews/slo-fix-haustechnik-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Silo Sanitär Firma überzeugt durch zuverlässige Arbeit, hohe Qualität und freundlichen Service. Termine werden eingehalten und die Ausführung ist sauber und professionell. Insgesamt ein empfehlenswertes und kundenorientiertes Unternehmen.",
+        "time": 1775051433,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Servet Topcu",
+        "author_photo": "/images/reviews/slo-fix-haustechnik-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit dem Service von Slofix Haustechnik! Vom ersten Kontakt bis zur Fertigstellung der Arbeiten war alles professionell, freundlich und zuverlässig. Die Mitarbeitenden waren pünktlich, kompetent und haben sauber gearbeitet. Besonders hervorzuheben ist die schnelle Reaktionszeit und die faire Preisgestaltung.\nIch kann Slofix Haustechnik auf jeden Fall weiterempfehlen und werde bei zukünftigen Arbeiten gerne wieder auf sie zurückkommen!",
+        "time": 1751394652,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "sinem demir",
+        "author_photo": "/images/reviews/slo-fix-haustechnik-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe Slofix für eine Sanitärreparatur im Bad beauftragt (undichte Armatur + WC-Spülung). Der Termin wurde zeitnah vergeben, der Mitarbeiter war pünktlich und hat zügig gearbeitet. Die Arbeiten wurden fachgerecht erledigt, alles funktioniert wieder ohne Probleme. Preis-Leistung stimmt – keine versteckten Kosten. Klare Empfehlung für Sanitärarbeiten.",
+        "time": 1751804822,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

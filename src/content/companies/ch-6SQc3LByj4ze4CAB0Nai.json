@@ -26,5 +26,55 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJy6_7G6n-j0cRwle-mr3IQ8g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Roger Badertscher",
+        "author_photo": "/images/reviews/cerretti-kundenmaurer-ebikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Im letzten Jahr habe ich mich entschieden meine Wohnung zu renovieren. Neue Küche neues Bad und einen neuen Boden. Während diesen Arbeiten bin ich mit vielen versch. Handwerkern in Kontakt gekommen (Bodenleger, Schreiner, Sanitär,etc.). Einer von Ihnen, Claudio Cerretti (Cerretti Kundenmaurer) hat sich mit seiner herausrageden Professionalität, seiner hohen Flexibilität und der gewinnenden Persönlichkeit diese Empfehlung verdient. Ich habe Ihn für den gesamten Rückbau der Küche und Boden engagiert welche sehr effizient, sauber und ohne Zwischenfälle ausgeführt wurde. Ich habe mich spontan entschieden noch die ganze Wohnung neu zu verputzen, obwohl asugebucht war es Hr. Cerretti möglich andere Termine zu schieben, um mir auch diesen Wunsch noch bevor der Deadline zu erfühlen.\nSummup: Sehr gewissenhafter, effizienter Arbeiter mit welchem man gerne Zusammenarbeited.",
+        "time": 1552187174,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "tobi Schmid",
+        "author_photo": "/images/reviews/cerretti-kundenmaurer-ebikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Maurer Team, Claudio macht die Arbeiten sehr gewissenhaft und speditiv. Danke für Euren super Einsatz beim Keller Umbau, kann ich nur empfehlen.",
+        "time": 1569184505,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Moritz Meier",
+        "author_photo": "/images/reviews/cerretti-kundenmaurer-ebikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774006785,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Maurizio Monopoli",
+        "author_photo": "/images/reviews/cerretti-kundenmaurer-ebikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1661364856,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

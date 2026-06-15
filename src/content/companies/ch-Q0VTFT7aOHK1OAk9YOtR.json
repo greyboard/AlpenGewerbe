@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJFwqY1bMSnGMRwUv2DSvqHEM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Ervin Hysaj",
+        "author_photo": "/images/reviews/greenzuerich-gartenbau-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die gute Arbeit, Sie haben meinen Garten sehr schön gestaltet, kompetentes Personal und sehr vernünftige Preise, ich kann Sie auf jeden Fall weiterempfehlen🇨🇭🍀🍀",
+        "time": 1742071408,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Suvin Suvin",
+        "author_photo": "/images/reviews/greenzuerich-gartenbau-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Beratung und top Service! Das Team von Green Zürich Gartenbau AG ist kompetent, freundlich und arbeitet mit viel Fachwissen. Sehr empfehlenswert!",
+        "time": 1741560498,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Medina Ramadani",
+        "author_photo": "/images/reviews/greenzuerich-gartenbau-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbait Top Qualitet🥇\nDanke fur Schone Arbait in Maine Garten🍀🌲🌳",
+        "time": 1742886497,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marjana Olıveıra Neves",
+        "author_photo": "/images/reviews/greenzuerich-gartenbau-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbait 🇨🇭Qualität\n100% zum Empfehlen 🥇",
+        "time": 1741286929,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Graf Domenik",
+        "author_photo": "/images/reviews/greenzuerich-gartenbau-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super gute Arbeit danke sicher wieder!",
+        "time": 1741625539,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

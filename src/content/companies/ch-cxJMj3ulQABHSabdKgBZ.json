@@ -26,5 +26,39 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJbyVW_aUhm0cRXnmYzL8Lxtk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Christine Bauer",
+        "author_photo": "/images/reviews/js-dachbau-gmbh-stein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Terrassenplatten verlegen: Sehr angenehme, unkomplizierte und schnelle Kommunikation! Es hat alles bestens geklappt. Die Handwerker vor Ort haben eine gute Arbeit gemacht! Wir würden die Fa JS Dachbau GmbH jederzeit wieder beauftragen!",
+        "time": 1781028693,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Faton Rama",
+        "author_photo": "/images/reviews/js-dachbau-gmbh-stein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Jonathan und Ali konnten endlich unser Problem mit dem undichten Flachdach lösen. Sie haben starke Ideen eingebracht und mir die wirtschaftlich sinnvollste Lösung angeboten. Top Arbeit – nochmals danke euch beiden, ich bin wirklich zufrieden.",
+        "time": 1778534775,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

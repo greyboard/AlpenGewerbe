@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJH7gPpLS5kUcRYguExhYnQMU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Jacqui",
+        "author_photo": "/images/reviews/geba-service-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Geba-Service, ist seit 2009 unser Heizungsinstallateur. Wir sind sehr zufrieden, prompter Service und Top-Arbeit. Wir empfehlen Geba-Service.",
+        "time": 1643205799,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jitka Steuer",
+        "author_photo": "/images/reviews/geba-service-ag-basel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Weder zuverlässiger Service noch Kundenorientierung, technisch unzumutbar, unprofessionell und absolut nicht empfehlenswert.",
+        "time": 1711714711,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Odontuya Mungunhuyag",
+        "author_photo": "/images/reviews/geba-service-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nett… Top Arbeit!",
+        "time": 1725727024,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lorand Kovacs",
+        "author_photo": "/images/reviews/geba-service-ag-basel/reviewer_4.jpg",
+        "rating": 4,
+        "text": "👍👏",
+        "time": 1678810917,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Francisco Gavidia",
+        "author_photo": "/images/reviews/geba-service-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine außergewöhnliche Erfahrung. Das Team war professionell und effizient. Klare Kommunikation und großes Engagement.",
+        "time": 1721546792,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

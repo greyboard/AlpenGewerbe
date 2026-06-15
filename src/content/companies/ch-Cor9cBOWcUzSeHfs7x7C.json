@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJE430tSI5jkcRdr2eMwZkHuE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "sabrina fetoshi",
+        "author_photo": "/images/reviews/walther-mueller-glasbau-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super freundlich und kompetent von der ersten Anfrage bis zur Lieferung.",
+        "time": 1698404496,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Hans Langenegger",
+        "author_photo": "/images/reviews/walther-mueller-glasbau-ag-bern/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Nach zwei Jahren Pause, wieder mal ganz anders und interessant.",
+        "time": 1651240041,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Khebat Khoder",
+        "author_photo": "/images/reviews/walther-mueller-glasbau-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nett\nsehr gut Produkte",
+        "time": 1553161821,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Ro Ku",
+        "author_photo": "/images/reviews/walther-mueller-glasbau-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundliche und kompetente Beratung.",
+        "time": 1623932379,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Laenggu",
+        "author_photo": "/images/reviews/walther-mueller-glasbau-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Immer freundliche Leute",
+        "time": 1571646127,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,22 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsSEy6XGLmkcRoKkBgw-sdyE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Patrick Klier",
+        "author_photo": "/images/reviews/tp-holzbau-gmbh-steckborn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1768845454,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ92jAqvJtjkcR4vzHg6MSbfA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: 10:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Zubler Judith",
+        "author_photo": "/images/reviews/lautrejardin-cormerod/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Total in der Natur,ganz nette Beratung.alle geben so Mühe deutsch zu sprechen.bravo!",
+        "time": 1620022631,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Valérie Imfeld",
+        "author_photo": "/images/reviews/lautrejardin-cormerod/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein herrlicher Ort! Lassen Sie sich einfach treiben und entdecken Sie die Schönheit der Stauden. Ausgezeichnete Tipps und wunderschöne Pflanzen.",
+        "time": 1718966886,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adrienne Actis-Datta",
+        "author_photo": "/images/reviews/lautrejardin-cormerod/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert, diesen Ort entdeckt zu haben. Charmante Lage, herzlicher Empfang, gute Tipps. Ich freue mich schon auf meinen nächsten Besuch.",
+        "time": 1553846688,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Fritz Siegenthaler",
+        "author_photo": "/images/reviews/lautrejardin-cormerod/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Beratung und hilfsbereites Personal, riesiger Kohl",
+        "time": 1746075202,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sebastien Tissot",
+        "author_photo": "/images/reviews/lautrejardin-cormerod/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein magischer Ort, an dem ich ganze Tage verbringen könnte. Kräftige, hochwertige Pflanzen mit erstklassiger Beratung!",
+        "time": 1649841375,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,38 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJk2kf_n4JkEcRkNIvWsiWlJs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Mario Masiello",
+        "author_photo": "/images/reviews/longa-sohn-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1633675932,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Francesco Laudadio",
+        "author_photo": "/images/reviews/longa-sohn-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1578898102,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Frank Hauenstein",
+        "author_photo": "/images/reviews/longa-sohn-ag-zuerich/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1546024137,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

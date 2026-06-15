@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJteJbCjn2j0cROkWqV2wmf9w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Gabrielle Aschwanden",
+        "author_photo": "/images/reviews/elektro-fries-gmbh-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Zeitfenster war unglaublich knapp. Dank Hugo Fries und seinem Team konnten wir unser Projekt in der Alp Stätz pünktlich eröffnen! Herzlichen Dank, gerne empfehle ich euch weiter.",
+        "time": 1703284375,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sven Abächerli",
+        "author_photo": "/images/reviews/elektro-fries-gmbh-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service und Top Beratung.",
+        "time": 1711609547,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Regula Wegmann",
+        "author_photo": "/images/reviews/elektro-fries-gmbh-dallenwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einfach Top-Service und beste Arbeit!",
+        "time": 1499772877,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "René Wiedemeier",
+        "author_photo": "/images/reviews/elektro-fries-gmbh-dallenwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Beratung\nSchnell und zuverlässig.",
+        "time": 1635510230,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "CPMG",
+        "author_photo": "/images/reviews/elektro-fries-gmbh-dallenwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1707131920,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

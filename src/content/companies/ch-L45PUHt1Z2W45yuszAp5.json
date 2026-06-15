@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ858ipwP8j0cRgk4FNvt78Yw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "R. D.",
+        "author_photo": "/images/reviews/electra-ag-luzern-adligenswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Erstklassige Arbeiten für gehobene Ansprüche. Super Service. Vielen Dank für die Projektbegleitung",
+        "time": 1760788537,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Markus Gabriel",
+        "author_photo": "/images/reviews/electra-ag-luzern-adligenswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dank der professionellen Beratung, der speditiven Arbeitsausführung und dem äusserst fairen Preis-Leistungsverhältnis können wir unsere Ofenausstellung (siehe Bild) unseren Kunden neu präsentieren.\nHerzlichen Dank dem gesamten Electra-Team",
+        "time": 1541773056,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Tom Stocker",
+        "author_photo": "/images/reviews/electra-ag-luzern-adligenswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "\"Für ALLES mit Strom\" ist genau der richtige Slogan. Auch kleinere Arbeiten werden gerne angenommen und kompetent und schnell erledigt.\nDas freundliche Team erfahre ich immer engagiert und zuverlässig. Ich empfehle diesen Betriebe sehr gerne!",
+        "time": 1550238815,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Francis Pockay",
+        "author_photo": "/images/reviews/electra-ag-luzern-adligenswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Seit Jahren beauftrage ich diese Firma (Freddy Meister /Pascal Odermatt) kleine und grosse Reparaturen an diverse Liegenschaften vorzunehmen. Die Mitarbeiter sind sehr freundlich, kompetent und anständig!! Mit dieser Firma hat man keine Probleme nur fachmännische Lösungen!",
+        "time": 1511512191,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Pascal Bucher",
+        "author_photo": "/images/reviews/electra-ag-luzern-adligenswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei unserem Büro-Umbau hatten wir die Electra AG aus Adligenswil. Top Arbeit. Sehr zuverlässig und kompetent. Und immer eine Lösung bereit: von Elektro, über Internet bis hin zur Telefonanlage in der Cloud. Danke für die tolle Zusammenarbeit. Wir können die Electra AG nur wärmstens empfehlen.",
+        "time": 1549629804,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

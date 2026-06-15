@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsWTiQZ01hEcRfrtsWvCsKQY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Yarinia Maryam",
+        "author_photo": "/images/reviews/armandesign-ch-cadenazzo/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe vor ein paar Jahren mit dieser Schreinerei zusammengearbeitet und die Arbeit wurde sehr professionell ausgeführt. Ich empfehle sie wärmstens für jegliche Schreinerarbeiten!”",
+        "time": 1737889204,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Aylin Shaqiri",
+        "author_photo": "/images/reviews/armandesign-ch-cadenazzo/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe mit Seyed beim Einbau meiner Küche in unserer neuen Mietwohnung in Deutschland (bei Basel) sehr gute Erfahrungen gemacht. Er ist ein äußerst professioneller, präziser und zuverlässiger Schreiner. Er arbeitete mit viel Liebe zum Detail, und seine langjährige Erfahrung war deutlich spürbar.\n\nDie Küche wurde makellos montiert: Alles war perfekt ausgerichtet, stabil und sorgfältig verarbeitet. Darüber hinaus war Seyed während des gesamten Projekts pünktlich, ordentlich und sehr hilfsbereit. Er fand stets praktische und intelligente Lösungen, wenn nötig.\n\nIch bin mit dem Ergebnis sehr zufrieden und kann ihn jedem wärmstens empfehlen, der einen zuverlässigen und kompetenten Schreiner sucht!",
+        "time": 1769623949,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Farzad Ahmadyar",
+        "author_photo": "/images/reviews/armandesign-ch-cadenazzo/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete, zuverlässige und professionelle Schreinerarbeit. Die Arbeiten wurden mit großer Präzision, hochwertigen Materialien und viel Liebe zum Detail ausgeführt. Die vereinbarten Termine wurden eingehalten, und das Endergebnis ist makellos. Empfehlenswert für alle, die Wert auf Zuverlässigkeit und erstklassige Handwerkskunst legen.",
+        "time": 1769792175,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Mojtaba Hosseini",
+        "author_photo": "/images/reviews/armandesign-ch-cadenazzo/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits mehrfach mit diesem Unternehmen zusammengearbeitet und können bestätigen, dass es äußerst professionell und zuverlässig ist. Es ist spezialisiert auf Tischlerei, Küchen-, Kleiderschrank-, Parkett- und Bodenbelagsarbeiten.\n\nÜbersetzung: „Wir haben bereits mehrfach mit diesem Unternehmen zusammengearbeitet und können bestätigen, dass es sehr professionell und zuverlässig ist. Es ist spezialisiert auf Tischlerei, Küchen-, Kleiderschrank-, Parkett- und Bodenbelagsarbeiten. Ein starkes und umfassendes Unternehmen in seinem Bereich.“\n\nFalls Sie eine formellere oder werblichere Formulierung wünschen, lassen Sie es mich wissen, damit ich eine andere Version verfassen kann.",
+        "time": 1744749579,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jose´ Azzolino",
+        "author_photo": "/images/reviews/armandesign-ch-cadenazzo/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit. Ausgezeichneter Handwerker.",
+        "time": 1745499445,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

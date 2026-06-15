@@ -26,5 +26,47 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJS6RvMB4LkEcRT5dehmBIgWI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–18:00 Uhr",
+    "Sonntag: 07:00–18:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Roger Eberle",
+        "author_photo": "/images/reviews/lm-bau-und-renovationen-gmbh-thalwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unsere Fassadenrenovation wurde zu unseren vollsten Zufriedenheit ausgeführt. Der gesamte Ablauf und laufende Koordination war unkompliziert und lösungsorientiert. Die Qualität top. Ich kann LM Bau und Renovationen sehr empfehlen",
+        "time": 1731055865,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jamie Eichenberger",
+        "author_photo": "/images/reviews/lm-bau-und-renovationen-gmbh-thalwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden. Herr Martins hat das versprochene gehalten und wurde schneller fertig als erwartet.",
+        "time": 1776420073,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "N/A N/A",
+        "author_photo": "/images/reviews/lm-bau-und-renovationen-gmbh-thalwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776421327,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

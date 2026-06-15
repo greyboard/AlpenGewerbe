@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJsxWldJgsm0cRl5kItgZlNs0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Diego S.",
+        "author_photo": "/images/reviews/glasex-gmbh-mels/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Nachdem sämtliche Fenster gründlich gereinigt wurden, sieht man deutliche Kratzer von den Schleifpads bzw. einen leichten Film bei den bearbeiteten Stellen, Kratzer hat es dennoch.",
+        "time": 1708074310,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ann",
+        "author_photo": "/images/reviews/glasex-gmbh-mels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut professionelle Beratung, die einem nicht nur etwas verkaufen wollen, sondern auch auf Sicherheit bedacht sind und beraten. Kann ich nur weiterempfehlen. Auch das Team vor Ort hat super schnell, professionell und freundlich gearbeitet. Ich freue mich jeden Tag über das hochwertige Ergebnis.",
+        "time": 1733427237,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matthias Thoma",
+        "author_photo": "/images/reviews/glasex-gmbh-mels/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir bedanken uns herzlich bei Ihnen für die gute Beratung, die schnelle Umsetzung und die überaus professionelle Montage. Wir würden Sie jederzeit weiter empfehlen und werden mit Sicherheit, beim nächsten Glasschaden wieder Ihre Dienstleistung in Anspruch nehmen. Die zusätzlich montierte Sonnenschutzfolie im Dachgeschoss wurde professionell montiert und mit der Hitzeabsorbierung wurde uns nicht zu viel versprochen. Danke, es ist Schluss mit Schwitzen :-)\nauf bald...",
+        "time": 1566401849,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Gabi Studer",
+        "author_photo": "/images/reviews/glasex-gmbh-mels/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die kompetente Beratung und die professionelle Entfernung der vielen Kratzer in unseren Fensterscheiben. Die Mitarbeiter war uns gegenüber sehr freundlich und die Arbeit wurde zu unserer vollsten Zufriedenheit ausgeführt.",
+        "time": 1649939551,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Zdravko Stefan Guye",
+        "author_photo": "/images/reviews/glasex-gmbh-mels/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent! Top Arbeit und freundliches Team.",
+        "time": 1730218541,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

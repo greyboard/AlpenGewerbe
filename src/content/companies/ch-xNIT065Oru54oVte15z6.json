@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ554HcD_3j0cRP4zUDNtYIxE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Si Ma",
+        "author_photo": "/images/reviews/keiser-metall-stahlbau-ag-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "kompetent und effizient. gerne wieder :)",
+        "time": 1655454251,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "J_M_M_123",
+        "author_photo": "/images/reviews/keiser-metall-stahlbau-ag-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667595915,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Martin Christen",
+        "author_photo": "/images/reviews/keiser-metall-stahlbau-ag-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1565028002,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

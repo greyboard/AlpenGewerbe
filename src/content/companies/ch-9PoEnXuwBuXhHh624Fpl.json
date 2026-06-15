@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJN742R2zLkUcRhALFjhShcxQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Amir Sadiku",
+        "author_photo": "/images/reviews/pbs-zimmerei-schreinerei-ag-seltisberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma PBS Zimmerei Schreinerei AG hat bei unserem Neubau das Dach und diverse Schreinerarbeit durchgeführt.\nTrotz Hitzewelle mit über +36 Grad wurde alles Fristgerecht und in sehr guter Qualität ausgeführt. Jederzeit wieder!",
+        "time": 1772038324,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Robin Messmer",
+        "author_photo": "/images/reviews/pbs-zimmerei-schreinerei-ag-seltisberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die PBS Zimmerei Schreinerei AG hat bei unserem Dachumbau einen super Job gemacht. Alles wurde wie geplant umgesetzt und flexibel ans Wetter angepasst. Besonders positiv war die angenehme, freundliche Art des Teams – man merkt, dass hier mit echter Sorgfalt und Leidenschaft gearbeitet wird. Zuverlässig, professionell und menschlich top. Klare Empfehlung!",
+        "time": 1765267562,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Angela Thalmann",
+        "author_photo": "/images/reviews/pbs-zimmerei-schreinerei-ag-seltisberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Betreuung und zuverlässige  Arbeit , kann weiter empfohlen werden !!\nMan kann sich auf die Firma PBS und Patrick Gerber voll und ganz verlassen weiter so !\nNächster Auftrag ist bereits in Arbeit . Danke !",
+        "time": 1737651824,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Theodor Weber",
+        "author_photo": "/images/reviews/pbs-zimmerei-schreinerei-ag-seltisberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tischblatt demontieren, abschleifen, lackieren, wieder montieren:\nOffertangaben bez. Frist und Preis eingehalten, Sehr saubere Arbeit. Sehr freundlich und professionell. Ich kann PBS, Seltisberg sehr empfehlen!🏆👌",
+        "time": 1734869104,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Remo Signorini",
+        "author_photo": "/images/reviews/pbs-zimmerei-schreinerei-ag-seltisberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mit der Firma PBS ist die Zusammenarbeit immer sehr Professionell und menschlich sehr angenehm!",
+        "time": 1711441610,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

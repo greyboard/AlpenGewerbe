@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT90n9m7YkUcRz0AQXVprWXg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Martin Betschart",
+        "author_photo": "/images/reviews/henzi-elektro-ag-bellach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Prompte Erledigung und gute Arbeit mit freundlichem Personal. Kann man nur empfehlen.",
+        "time": 1769586282,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Claudia Möckel",
+        "author_photo": "/images/reviews/henzi-elektro-ag-bellach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen herzlichen Dank für die Nothilfe und Verlässlichkeit. War sofort da und hat mir geholfen.",
+        "time": 1764273047,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "K A",
+        "author_photo": "/images/reviews/henzi-elektro-ag-bellach/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ich habe angerufen und wollte fragen, ob sie ein bestimmtes Kabel haben. Der Mann am Telefon war so etwas von unfreundlich und unprofessionell! Er hat einfach das Telefon aufgehängt - mitten im Gespräch! Wie frech ist denn das!!! Er hat gemeint, er habe keine Zeit und sei in einer Besprechung! Ja dann nimm halt das Telefon nicht ab!! Also so etwas unfreundliches habe ich noch selten erlebt!! Ich werde nie mehr etwas von dort in Anspruch nehmen.",
+        "time": 1701849833,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Momar Sow",
+        "author_photo": "/images/reviews/henzi-elektro-ag-bellach/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Der Chef Thomas Henzi, ist sehr unfreundlich und die Arbeit die er & sein Team ausführt ist inaktzeptabel.",
+        "time": 1724835143,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jan Braun",
+        "author_photo": "/images/reviews/henzi-elektro-ag-bellach/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Leider kein Rückruf innerhalb von 2 Wochen, nachdem mir mitgeteilt wurde, dass sie sich wieder melden.",
+        "time": 1643290591,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

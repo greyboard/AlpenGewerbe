@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJV5-5h163kUcR99UWUYeOF20",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Vorname Nachname",
+        "author_photo": "/images/reviews/alfred-broennimann-ag-dachdeckergeschaeft-riehen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hab gerade frisch als Temporär bei Brönnimann angefangen, nach einer Woche ist mein Eindruck äußerst positiv.\nDie Atmosphäre ist super, die Arbeit  und die Angestellten sind durchweg kompetent und zuverlässig.\nIch kann Brönnimann sowohl für Arbeitnehmer als auch für Kunden empfehlen!!! 😉",
+        "time": 1764946748,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "M B",
+        "author_photo": "/images/reviews/alfred-broennimann-ag-dachdeckergeschaeft-riehen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionelle Beratung, Service und ein kompetentes Team. Wir haben eine komplette Dachsanierung inkl Dachfenster und eingebauter Photovoltaik durchgeführt und können die Firma Brönnimann nur empfehlen.",
+        "time": 1758132268,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Peter Schachner",
+        "author_photo": "/images/reviews/alfred-broennimann-ag-dachdeckergeschaeft-riehen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer wieder gerne. Bin sehr glücklich, dass es doch noch ehrliche Handwerker gibt mit Top Preis-Leistungs Level.\n\nDer Fredi KANNS!",
+        "time": 1726146144,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andreas Herzog",
+        "author_photo": "/images/reviews/alfred-broennimann-ag-dachdeckergeschaeft-riehen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Arbeit... Sauber, Fachmännisch , wissen, wass Sie tun.\n\nSehr zu empfehlen. So macht ein Umbau Spass. Danke Fredi für deine tolle Arbeit.",
+        "time": 1726146028,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ursula Meier",
+        "author_photo": "/images/reviews/alfred-broennimann-ag-dachdeckergeschaeft-riehen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Handwerk. Da ist der Kunde noch König. Vielen Dank für die schnelle Offerte und das Super Dach. Dankend Familie Meier.",
+        "time": 1726146224,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJdz01QII8kEcRzijBrGAsU0U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Mathias",
+        "author_photo": "/images/reviews/wyder-gartenbau-ag-oberentfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei unserem Gartenumbau (vorallem Sichtschutzwände) hat von der Planung bis zur Fertigstellung alles geklappt. Kurzfristige zusätzliche Ideen von uns wurden immer ohne Probleme umgesetzt.",
+        "time": 1636290778,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Rebecca Gerritsen",
+        "author_photo": "/images/reviews/wyder-gartenbau-ag-oberentfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Team rund um M. Mosimann, R. Herzog, S. Spreng und den Auszubildenden F. Zach hat in den letzten Wochen bei uns wirklich Grossartiges geleistet. Mit viel Fachwissen, Leidenschaft und einem Auge fürs Detail wurde unser Projekt perfekt umgesetzt. Besonders beeindruckt hat uns die freundliche und offene Art des Teams sowie die kompetente Beratung. Zudem wurde die Baustelle jeden Abend sauber und ordentlich hinterlassen –  das schätzten wir sehr! Wir würden Wyder Gartenbau jederzeit wieder für ein Projekt engagieren. Ein grosses «Merci» an das tolle Team!",
+        "time": 1741936933,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yuri Forster",
+        "author_photo": "/images/reviews/wyder-gartenbau-ag-oberentfelden/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Prinzipiell eine gute Firma. Jedoch hapert es ein wenig an der Kommunikation. Mehrmals bekam ich keine Antwort auf eine Auftragsanfrage. Damit kein Missverständnis aufkommt, mein Google Account weist ein andere Name auf als mein tatsächlicher. Somit finden Sie mich unter oben genannten Namen nicht in Ihrer Kundenkartei. Mit Freundlichen Grüsse Nicola B.",
+        "time": 1726328690,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Harriet Moser",
+        "author_photo": "/images/reviews/wyder-gartenbau-ag-oberentfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben Wyder Gartenbau 2019 mit einem Gartenkonzept beauftragt und sind mit dem Resultat überglücklich. Der Garten und das Biotop entwickeln sich prächtig und es sind inzwischen einige Tier- und Insektenarten eingezogen. Wir haben Wert auf einen naturnahen Garten mit einheimischen Pflanzen gelegt, und unsere Wünsche wurden mit grosser Professionalität und Kreativität umgesetzt. Auch das Holzdeck mit Blick auf das Biotop ist perfekt ausgelegt, so dass wir im Sommer draussen sitzen und die Frösche, Ringelnattern, Libellen usw. beobachten können. Es war ein teurer Spass, bringt aber bis heute grosse Freude.",
+        "time": 1681636199,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fatlind Ajeti",
+        "author_photo": "/images/reviews/wyder-gartenbau-ag-oberentfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Habe dringend Hilfe gebraucht, schnell unkompliziert und ohne wenn und aber wurde eine Lösung angeboten!\nDanke Herr Steiner für Ihre Hilfe!",
+        "time": 1708506401,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJOdVf9pfxmkcRjDWS-uUae7s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Brigitta Wyss",
+        "author_photo": "/images/reviews/artundcolour-malergeschaeft-fugenlose-belaege-lengwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr Professionelle Beratung. Ausgezeichnete und wunderschöne Ergebnisse. Meine Stuco Wände werden von allen Besuchern bewundert und bestaunt. Die Firma artundcolour, ein Unternehmen mit Herz, Respekt und Feingefühl für das was der Kunde sich wünscht und sich vorstellt. Ich kann diese Firma mit sehr gutem Gewissen von ganzem Herzen weiter empfehlen.",
+        "time": 1642758546,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michelle Serrano Cordero",
+        "author_photo": "/images/reviews/artundcolour-malergeschaeft-fugenlose-belaege-lengwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann artundcolor voll und ganz empfehlen. Oliver Tursellino macht eine professionelle, saubere und qualitativ hohe Arbeit. Bei uns hat er wunderschöne fugenlose Böden und Wände gemacht. Die sehen nicht nur toll aus, sondern sind dazu auch noch einfach zu reinigen. Auch die Hausfassade hat er bei uns einwandfrei gestrichen.\nDazu ist Oliver auch noch sehr kreativ - Möbel restaurieren oder beschichten, tapezieren, Wandbild malen, gehört alles zu seinem Repertoire. Einfach Top!!",
+        "time": 1642770211,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "iris Ulrich",
+        "author_photo": "/images/reviews/artundcolour-malergeschaeft-fugenlose-belaege-lengwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super freundliche Beratung mit sehr guten Ideen. Arbeitet exakt und sauber. Ist sehr unkompliziert und flexibel. Ihn kann man nur weiterempfehlen!",
+        "time": 1642763511,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Roman Himmelberger",
+        "author_photo": "/images/reviews/artundcolour-malergeschaeft-fugenlose-belaege-lengwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professionelle, saubere Arbeit in guter Qualität. Jederzeit gerne wieder!",
+        "time": 1662105949,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Tina Lutz-Froehlich",
+        "author_photo": "/images/reviews/artundcolour-malergeschaeft-fugenlose-belaege-lengwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die erste Adresse wenn's um Malerarbeiten und fugenlose Böden geht! Super gute Arbeit!",
+        "time": 1582752336,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

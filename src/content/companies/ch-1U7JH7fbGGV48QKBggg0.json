@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRSlV3TP7j0cR8tPFtbHRgC0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Markus Nogara",
+        "author_photo": "/images/reviews/haldi-bedachungen-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die zwei Brüder schmeissen den Laden hervorragend!  Ein zeitgemässes auftreten inkl. einheitlicher arbeitskleidung und cooler website fallen auf und runden den Auftritt ab. Was vorher schon top war ist jetzt exzellent. Individuell,  flexibel, schnell und unkompliziert werden Lösungen angeboten und realisiert. Top. Wer Qualität, swissness und Know How schätzt, findet bei Haldi Bedachungen den richtigen Partner für sein Projekt.",
+        "time": 1619334944,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jacqueline Hoppler-Estermann",
+        "author_photo": "/images/reviews/haldi-bedachungen-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung (auch für Laien bestens verständlich), sehr kompetentes, seriöses und sympathisches Auftreten - weiter so und nur zu empfehlen!",
+        "time": 1691394780,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pepe",
+        "author_photo": "/images/reviews/haldi-bedachungen-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exelente Kundenfreundlichkeit\nSaubere Arbeit",
+        "time": 1506600918,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Maurin Binggeli",
+        "author_photo": "/images/reviews/haldi-bedachungen-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super seriöse und qualitative arbeit",
+        "time": 1673872267,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manuela Merz",
+        "author_photo": "/images/reviews/haldi-bedachungen-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Kundenfreundlich!🙂",
+        "time": 1566980545,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

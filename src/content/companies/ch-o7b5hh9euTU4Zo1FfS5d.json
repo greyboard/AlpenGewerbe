@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT5J5XDkxjEcRoRya_Fn2jPs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Thomas Theys",
+        "author_photo": "/images/reviews/effitec-sa-echandens/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe sehr gute Erfahrungen mit Effitec gemacht.\n\nSie kamen zu mir nach Hause, um meine Elektroinstallation zu überprüfen. Die Terminvereinbarung war schnell und unkompliziert, auch kurzfristig. Der Techniker war sehr freundlich, professionell und gründlich. Ich kann Effitec uneingeschränkt empfehlen.",
+        "time": 1771491597,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Romane",
+        "author_photo": "/images/reviews/effitec-sa-echandens/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Am 18. Oktober 2024 fuhr Ihr VW ID3 mit dem Kennzeichen VS 543 625 gegen 18:40 Uhr auf der Autobahn zwischen Genf und Lausanne wie ein Verrückter und gefährdete mehrere Verkehrsteilnehmer. Eine solche Fahrweise ist inakzeptabel und schadet dem Image des Unternehmens. Eine Gefahr für die Öffentlichkeit.",
+        "time": 1729269942,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claude Guerne",
+        "author_photo": "/images/reviews/effitec-sa-echandens/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes, OIBT-zertifiziertes Prüfbüro und Schulungen in verschiedenen Bereichen der Elektroinstallation.",
+        "time": 1747509979,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dury Jérémy",
+        "author_photo": "/images/reviews/effitec-sa-echandens/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Schulungen sind hervorragend und interessant, und die Unterlagen sind sehr hilfreich. Der Empfang ist freundlich, und die Mitarbeiter sind kompetent und stellen alle notwendigen Informationen bereit.",
+        "time": 1583920452,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sabine",
+        "author_photo": "/images/reviews/effitec-sa-echandens/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit… Außerdem hatte ich persönlich mit einer sehr freundlichen Person zu tun. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1703549621,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

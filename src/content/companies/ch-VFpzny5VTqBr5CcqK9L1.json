@@ -26,5 +26,55 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_czRWYFDhUcRIhzLyu0O7wE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Chris Marogg",
+        "author_photo": "/images/reviews/malergeschaeft-schillig-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnell offeriert, schnell und top ausgeführt.",
+        "time": 1731443631,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "fila k",
+        "author_photo": "/images/reviews/malergeschaeft-schillig-altdorf/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Gut",
+        "time": 1636447553,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "heinz furger",
+        "author_photo": "/images/reviews/malergeschaeft-schillig-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1680188221,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Karin Fuchs",
+        "author_photo": "/images/reviews/malergeschaeft-schillig-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1497706096,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

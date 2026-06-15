@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJex8wwlnjj0cRwvoCcbPPdkE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Manuela Zwahlen",
+        "author_photo": "/images/reviews/bensar-gmbh-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Benjamin und sein Team haben bei uns exzellenten Trockenbau geleistet! Wir sind äusserst zufrieden mit seiner Arbeit und empfehlen ihn wärmstens weiter. Die Qualität, Zuverlässigkeit und Professionalität haben uns überzeugt.\n\nLiebe Grüsse\nPraxis NATÜRLICHWEISS",
+        "time": 1705958739,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Saba Velic",
+        "author_photo": "/images/reviews/bensar-gmbh-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden durch die Firma Bensar GmbH professionell und sauber ausgeübt. Preisleistung top. Empfehle ich gerne weiter.",
+        "time": 1706010977,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dr. Heiko Bailer",
+        "author_photo": "/images/reviews/bensar-gmbh-emmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bensae GmbH hat eine umfangreiche und schwierige Renovierung (1 Woche) super und schnell durchgeführt. Das.wae.auch schon der zweite Auftrag bei uns.  Ich kann diese Firma ohne Einschränkung voll empfehlen.\nVielen Dank!",
+        "time": 1727339879,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Schenker",
+        "author_photo": "/images/reviews/bensar-gmbh-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit von Benjamin sehr zufrieden: er hat die Aufgabe speditiv und sauber durchgeführt.",
+        "time": 1719035707,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bianca Gerber",
+        "author_photo": "/images/reviews/bensar-gmbh-emmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "note 6! speditiv und professionell! sehr zu empfehlen!",
+        "time": 1707568337,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

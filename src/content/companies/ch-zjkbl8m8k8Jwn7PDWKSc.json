@@ -1,7 +1,7 @@
 {
   "id": "ch-zjkbl8m8k8Jwn7PDWKSc",
   "slug": "emelec-sa-givisiez",
-  "name": "EMELEC SA",
+  "name": "Emelec Sa",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ2iSwetujkcRTVyrcB9xaiM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Nedjmeddin Boudrama",
+        "author_photo": "/images/reviews/emelec-sa-givisiez/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Das Management bat um Intervention. Das Unternehmen sollte am Freitag, den 30. Januar 2026, um 9:00 Uhr eingreifen. Bis 11:00 Uhr gab es keine Rückmeldung. Grund für die Abwesenheit nach einem Telefonat mit einem Vorgesetzten um 11:30 Uhr: Der Mitarbeiter war aufgrund einer internen Auseinandersetzung nach Hause gegangen und hatte daher seinen Dienstplan nicht eingehalten.\n\nWurde der Kunde über dieses unvorhergesehene Ereignis informiert? Fehlanzeige. Ein ganzer Vormittag Abwesenheit, obwohl die Abwesenheit nur 60 Minuten dauern sollte.",
+        "time": 1770890458,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jean Dubois",
+        "author_photo": "/images/reviews/emelec-sa-givisiez/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Der erste Techniker, der eine Brille trug, kam, um mein Problem zu beheben. Er war großartig; ein sehr höflicher Mann, der seine Arbeit gut erledigte und mir das Problem verständlich erklärte. Ein zweiter Termin wurde vereinbart, aber diesmal kam nicht derselbe Herr, sondern ein völlig unfreundlicher Mann. Er brach ein Stück der Wand in der Nähe einer Steckdose ab und hinterließ einen großen Fleck an der Decke! Und dabei gab es gar nicht viel zu tun! Der erste Techniker hatte den Großteil der Arbeit bereits erledigt... Ich bin völlig fassungslos. Ich rate dringend davon ab, diese Firma zu beauftragen. Gehen Sie vorsichtig mit Ihren Wänden um!",
+        "time": 1772101668,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Jean-Jacques",
+        "author_photo": "/images/reviews/emelec-sa-givisiez/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe diese Firma bereits mehrfach für Neuinstallationen oder Reparaturen beauftragt. Ich war stets rundum zufrieden mit der Qualität der Arbeit und der Freundlichkeit der Mitarbeiter.",
+        "time": 1775653438,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Joséphine",
+        "author_photo": "/images/reviews/emelec-sa-givisiez/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles und kundenorientiertes Unternehmen. Die Arbeiten wurden einwandfrei ausgeführt, die Installationen entsprachen exakt unseren Wünschen. Ausgezeichnetes Preis-Leistungs-Verhältnis. Absolut keine Beanstandungen. Wir können sie uneingeschränkt empfehlen.",
+        "time": 1600287400,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gour C",
+        "author_photo": "/images/reviews/emelec-sa-givisiez/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hochkompetent",
+        "time": 1513449064,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

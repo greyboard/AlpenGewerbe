@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJo0gpqZE7kEcRi1RxxR03ArM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 10:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Lawrence",
+        "author_photo": "/images/reviews/haefliger-gartenbau-dein-landschaftsgaertner-in-der-region-aarau-oberentfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert von Brian und seinem Team! Von der ersten Beratung bis zur finalen Umsetzung war alles absolut professionell, zuverlässig und mit viel Fachwissen umgesetzt.\n\nBei uns wurden mehrere Arbeiten ausgeführt, darunter das Erstellen eines Sichtschutzes, das Pflanzen mehrerer Bäume sowie diverse Plattenarbeiten.\n\nBesonders geschätzt haben wir die gute Kommunikation, die kreativen Vorschläge sowie die ordentliche Arbeitsweise.\n\nWir können Brian und sein Team uneingeschränkt weiterempfehlen. Vielen Dank für die tolle Arbeit!",
+        "time": 1767126667,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Morris Saladin",
+        "author_photo": "/images/reviews/haefliger-gartenbau-dein-landschaftsgaertner-in-der-region-aarau-oberentfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, sehr zuverlässig und sauber ausgeführt. Wir arbeiten immer wieder zusammen und ich bin von der Qualität wirklich überzeugt. Klare Empfehlung.",
+        "time": 1775148627,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Vogt Walter",
+        "author_photo": "/images/reviews/haefliger-gartenbau-dein-landschaftsgaertner-in-der-region-aarau-oberentfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Brian und sein Mitarbeiter haben unseren Garten toll hergerichtet. Sie sind sehr freundlich und stehen einem mit Rat und Tat zur Seite. Wir werden Häfliger Gartenbau wieder buchen, wenn wir ein Gartenanliegen haben.",
+        "time": 1744528214,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "oeschger patrik",
+        "author_photo": "/images/reviews/haefliger-gartenbau-dein-landschaftsgaertner-in-der-region-aarau-oberentfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "top handwerksbetrieb!saubere arbeit,kompetente beratung,faire preise.",
+        "time": 1768755254,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Ahmet yildirim",
+        "author_photo": "/images/reviews/haefliger-gartenbau-dein-landschaftsgaertner-in-der-region-aarau-oberentfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "War sehr zufrieden mit der Arbeit in meinem Garten und meinem Teich",
+        "time": 1770138703,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

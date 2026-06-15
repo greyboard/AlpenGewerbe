@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJi1Uiq7f8mkcRdEhwGD2I2Wk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 09:00–17:30 Uhr",
+    "Freitag: 09:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Celia Alves",
+        "author_photo": "/images/reviews/goette-malt-gmbh-amriswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von Götte malt! 🎨 Von der ersten Beratung bis zum fertigen Ergebnis war alles professionell, freundlich und zuverlässig 👍. Er legt viel Wert auf Details, ging auf meine Wünsche ein und hat meine Wohnung einfach fantastisch gestaltet 🏡✨. Die Zusammenarbeit war von Anfang bis Ende herzlich und angenehm 😊. Ich kann Roli wärmstens weiterempfehlen – hier stimmt Qualität, Service und Menschlichkeit voll und ganz! 💯💛\"",
+        "time": 1759100452,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "C. S.",
+        "author_photo": "/images/reviews/goette-malt-gmbh-amriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige, professionelle Firma mit angenehmer Kommunikation. Das Angebot war das günstigste in der Region. Unsere Erwartungen wurden übertroffen. Jederzeit gerne wieder!",
+        "time": 1763914295,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Monika Ribi",
+        "author_photo": "/images/reviews/goette-malt-gmbh-amriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuvorkommender Dienstleister und rascher Service! Sehr zufrieden und zuverlässig. Freute mich über die rasche Ausführung und die genaue Arbeit. Komme gerne wieder auf Sie zurück! Danke für Ihre wertgeschätzten Dienste🙏🏻",
+        "time": 1765211097,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Mevmedoski Suat",
+        "author_photo": "/images/reviews/goette-malt-gmbh-amriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut professionelle Arbeit und ein herausragender Service – hier steckt wirklich Herzblut in jeder Kleinigkeit! Man fühlt sich von Anfang an gut aufgehoben, kompetent beraten und bestens betreut. Klare Empfehlung – so einen Einsatz findet man selten!",
+        "time": 1746723437,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Carola Duncan",
+        "author_photo": "/images/reviews/goette-malt-gmbh-amriswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bin absolut happy mit der ganzen Dienstleistung. Bereits zweimal habe ich mir farbige Wände von Götte malt! streichen lassen. Jedes mal eine top Beratung und eine saubere Arbeit. Die Absprachen wurden immer eingehalten. Diesen Maler kann ich mit gutem Gewissen gerne weiterempfehlen!\nVielen Dank und gerne wieder",
+        "time": 1721217679,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

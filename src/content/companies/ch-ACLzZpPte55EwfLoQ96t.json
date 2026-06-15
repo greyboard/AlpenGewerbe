@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_VYtk4O1hUcRVIGbviw-RKw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Andreas",
+        "author_photo": "/images/reviews/elettro-mastai-sa-lavertezzo/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service, angerufen und Tags darauf wurde das Problem sofort behoben.\nBesten Dank",
+        "time": 1747863484,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Carlos Rohner",
+        "author_photo": "/images/reviews/elettro-mastai-sa-lavertezzo/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässigkeit, Pünktlichkeit und professionelle Arbeit",
+        "time": 1628931089,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Gianluca Tomasetti",
+        "author_photo": "/images/reviews/elettro-mastai-sa-lavertezzo/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mastai hat die neue Außenbeleuchtung für mein Restaurant makellos installiert: pünktlich, präzise und sauber.\nDas Endergebnis war elegant und passte perfekt zur Atmosphäre, die ich im Isolino schaffen wollte.\n\nEchte Profis. Absolut empfehlenswert.",
+        "time": 1762462946,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Riccardo Gregorini",
+        "author_photo": "/images/reviews/elettro-mastai-sa-lavertezzo/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tessins führendes Unternehmen für die Planung und den Bau von Industrieanlagen, Schaltschränken, Tiefbauanlagen, Hausautomation, Photovoltaikanlagen, Telematiksystemen und Sicherheitssystemen.",
+        "time": 1578921736,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ivan Della Pietra",
+        "author_photo": "/images/reviews/elettro-mastai-sa-lavertezzo/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein Name, eine Garantie. *TOP*",
+        "time": 1636527864,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,30 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJwT20UC_dmkcR1aJ1jts-b-E",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Andreas Gyr",
+        "author_photo": "/images/reviews/linder-plattenbelaege-gmbh-st-peterzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden, reibungsloser Ablauf und super Arbeit. Sehr zu empfehlen.",
+        "time": 1759427089,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Susan Kaeser",
+        "author_photo": "/images/reviews/linder-plattenbelaege-gmbh-st-peterzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit . Sehr empfehlenswerte Firma .",
+        "time": 1714541213,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

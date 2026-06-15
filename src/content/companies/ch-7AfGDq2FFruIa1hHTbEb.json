@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ00NeXH_LkUcRIx-1tNWH_TQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 07:00–17:00 Uhr",
+    "Sonntag: 07:00–17:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Pascal Thommen",
+        "author_photo": "/images/reviews/gartenbau-hoch3-liestal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert von Gartenbau Hoch3! 🌿\nDas Team hat bei uns die Böschung mit Mulch und einer professionellen Terrassierung wunderschön angelegt. Die Arbeit wurde sauber, zuverlässig und mit viel Liebe zum Detail ausgeführt. Besonders schätze ich, dass sie auch regelmässig zur Gartenpflege vorbeikommen und so alles das ganze Jahr über gepflegt und schön bleibt. Ich kann Gartenbau Hoch3 jedem nur wärmstens empfehlen! 🌼💪",
+        "time": 1760608239,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Romy Frederiks",
+        "author_photo": "/images/reviews/gartenbau-hoch3-liestal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann Florian und sein Team wärmstens empfehlen. Ich wurde persönlich beraten und das ganze Team leistet saubere Arbeit in Top Qualität! Auch absolut verlässlich was die Terminierung angeht und effizient bei der Arbeit. Ich bin mehr als zufrieden, vielen Dank! 😃",
+        "time": 1760873289,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Reto Hubli",
+        "author_photo": "/images/reviews/gartenbau-hoch3-liestal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eigentlich sind 5 Sterne zu wenig, aber mehr bietet Google halt nicht an.\nDie Zusammenarbeit mit euch ist einfach jedesmal angenehm, unkompliziert und hochprofessionell.\nMittlerweile haben es auch die Nachbarn gemerkt.\nNach eurer Pflege sieht unser Garten einfach wieder grossartig aus - bei euch, eurem Team, merkt man einfach die Leidenschaft und die Erfahrung, die in eurer Arbeit steckt.",
+        "time": 1760701546,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jessica Rodrigues",
+        "author_photo": "/images/reviews/gartenbau-hoch3-liestal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolle Erfahrung mit gartenbau hoch 3 !! Sie haben unseren Garten perfekt gepflegt – alles wurde termingerecht, professionell und sauber erledigt. Kommunikation war super, Preis-Leistung top. 5 Sterne ⭐⭐⭐⭐⭐",
+        "time": 1760722966,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Aljoscha Oesch",
+        "author_photo": "/images/reviews/gartenbau-hoch3-liestal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Florian und sein Team leisten eine grandiose Arbeit. Ich habe sie über die Hochbeete kennen gelernt, welche noch immer in meinem Garten stehen. Dieser Garten lasse ich jetzt seit diesem Jahr auch vom Hoch3 Team pflegen und bin super Happy mit dem Preis- / Leistung. Macht weiter so!",
+        "time": 1760963578,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

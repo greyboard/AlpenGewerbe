@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnQl9DspGjkcRu6LUmToWspA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Alfred Leitgeb",
+        "author_photo": "/images/reviews/huwiler-ag-bedachungen-spenglerei-geruestbau-lanzenhaeusern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die **Huwiler AG** ist ein Familienbetrieb, der seit 1994 in den Bereichen Bedachungen, Spenglerei, Fassaden und Gerüstbau tätig ist. Das Unternehmen bietet qualitativ hochwertige und überzeugende Lösungen rund um die gesamte Gebäudehülle an.\n\nSie sind spezialisiert auf verschiedene Dachtypen, einschließlich Steildächer und Flachdächer. Steildächer sind besonders in Regionen mit hohem Niederschlag oder Schnee beliebt, da sie das Ablaufen von Regenwasser erleichtern und die Ansammlung von Schnee verhindern. Flachdächer hingegen sind in modernen Bauwerken und städtischen Gebieten weit verbreitet und bieten zusätzliche Nutzfläche wie Dachterrassen oder Gärten.",
+        "time": 1734055056,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simon Deckart",
+        "author_photo": "/images/reviews/huwiler-ag-bedachungen-spenglerei-geruestbau-lanzenhaeusern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekter Service und ebenso gute Arbeit. Gut, freundlich und unkompliziert.",
+        "time": 1605261121,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christoph Hauser",
+        "author_photo": "/images/reviews/huwiler-ag-bedachungen-spenglerei-geruestbau-lanzenhaeusern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundlich u d zuvorkommend",
+        "time": 1624273760,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sascha Birkenmeier",
+        "author_photo": "/images/reviews/huwiler-ag-bedachungen-spenglerei-geruestbau-lanzenhaeusern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675157434,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jakob Zimmermann",
+        "author_photo": "/images/reviews/huwiler-ag-bedachungen-spenglerei-geruestbau-lanzenhaeusern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672029588,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

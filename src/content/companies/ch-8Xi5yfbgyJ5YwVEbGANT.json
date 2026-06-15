@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJFzirJ1rSmkcRLk1UdEAW22E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Dome Werd",
+        "author_photo": "/images/reviews/fuellemann-schreinerei-ag-weesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Diese Schreinerei ist meine Nummer eins in Sachen Holzarbeiten. Sie haben uns eine wunderschöne Küche eingebaut. Unsere Wünsche wurden exakt umgesetzt und alles wurde sorgfältig aber schnell erledigt.",
+        "time": 1340742790,
+        "relative_time_description": "vor 13 Jahren"
+      },
+      {
+        "author_name": "Marcela Da Silva",
+        "author_photo": "/images/reviews/fuellemann-schreinerei-ag-weesen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service! Sehr freundlich und prompte Erledigung.\nVielen Dank!",
+        "time": 1745612504,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yoga-Insel Thalwil",
+        "author_photo": "/images/reviews/fuellemann-schreinerei-ag-weesen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, jederzeit gerne wieder!!",
+        "time": 1689684874,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gerhard Lämmler",
+        "author_photo": "/images/reviews/fuellemann-schreinerei-ag-weesen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676815677,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dragan Vidakovic",
+        "author_photo": "/images/reviews/fuellemann-schreinerei-ag-weesen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1682588060,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

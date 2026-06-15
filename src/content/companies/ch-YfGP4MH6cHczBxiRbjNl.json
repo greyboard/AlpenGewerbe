@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJG5dbRUkKkEcRkDT3I_luNik",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Tratson Kundendienst",
+        "author_photo": "/images/reviews/wanner-sanitaer-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben wiederholt mit Wanner Sanitär GmbH zusammengearbeitet und sind äusserst zufrieden mit ihrem zuverlässigen und professionellen Service. Die Qualität ihrer Arbeit ist aussergewöhnlich und wir empfehlen sie jedem, der nach einem erfahrenen Sanitärdienstleister sucht.",
+        "time": 1676634389,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ante Bozic",
+        "author_photo": "/images/reviews/wanner-sanitaer-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben ein Bad umgebaut und sind mit dem Service und den Dienstleistungen der Firma Wanner Sanitär GmbH sehr zufrieden. Wir können die Firma nur weiterempfehlen. Tolle Arbeit!",
+        "time": 1691600457,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lukas",
+        "author_photo": "/images/reviews/wanner-sanitaer-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank Marin! Zu später Stunde noch geholfen!  Ich bin Dir sehr dankbar!",
+        "time": 1724162398,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gian Vanetta",
+        "author_photo": "/images/reviews/wanner-sanitaer-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Der wahre Charakter eines Menschen zeigt sich nicht bei der ersten Begegnung sondern bei der Letzten.",
+        "time": 1702738998,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Evgenia Kalugina",
+        "author_photo": "/images/reviews/wanner-sanitaer-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr schnelle und effiziente Hilfe auch kurzfristig",
+        "time": 1739876961,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ43edLnb6mkcRQEn12rjrXYs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Pascal Müller",
+        "author_photo": "/images/reviews/brechbuehl-sanitaer-ag-illighausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben schon einige Male Arbeiten ausführen lassen. Zuletzt wurde unser Bad saniert und wir sind auch jetzt wieder total zufrieden. Von der Planung, der Sanierung selbst bis zur Abnahme der Bauarbeiten hat alles einzigartig gut geklappt. David, der Inhaber, und seine Frau Liliia waren immer für uns da. Es war sehr angenehm mit ihnen dieses Projekt anzugehen und zu verwirklichen. Wir können sie zu 100% weiterempfehlen. Schön, dass es noch solche Betriebe gibt.",
+        "time": 1765381545,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Brigitte Stravaux",
+        "author_photo": "/images/reviews/brechbuehl-sanitaer-ag-illighausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Ölheizung mit einer Wärmepumpe von der Firma Brechbühl ersetzten lassen.Die Beratung,Planung und Durchführung war einfach perfekt ,professionell mit hoher Fachkompetenz und Qualität.Das Team war offen ,freundlich und sehr angenehm im Kontakt.Vielen Dank! Kann diese Firma einfach nur weiterempfehlen .",
+        "time": 1750576778,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Tanja Nicholson",
+        "author_photo": "/images/reviews/brechbuehl-sanitaer-ag-illighausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Seit 2007 bin ich Kundin bei Sanitär Brechbühl AG.\nDie Firma hatte damals unsere ganzen Sanitären Anlagen/ Heizung in unserem Neubau gemacht. Der Chef Fritz Brechbühl steht uns immer mit Rat und Tat zur Seite bei Fragen / Problemen. Er und seine Mitarbeiter sind zuverlässig, kompetent und hinterlassen den Arbeitsplatz jeweils sauber. Ich kann diese Firma wärmsten empfehlen!",
+        "time": 1598450916,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Lukas Stöckli",
+        "author_photo": "/images/reviews/brechbuehl-sanitaer-ag-illighausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine sehr professionelle Firma mit sehr angenehmen Mitarbeiter/Mitarbeiterinnen.\nEinwandfreie und sehr professionelle Diagnostik meiner Heizungsanlage. Was andere Firmen nicht geschafft haben,  hat die Firma Brechbühl mit einer sehr guten Professionalität hinbekommen. Hut ab Jungs 😀. Kann diese Firma nur weiterempfehlen. Der Monteur war sehr angenehm und hat auch sehr professionell alle offenen Fragen beantwortet. Fehler ist behoben.",
+        "time": 1632481076,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Katharina C.",
+        "author_photo": "/images/reviews/brechbuehl-sanitaer-ag-illighausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hier wird an Professionalität und Kundenorientierung nicht gespart. Wir hatten die letzten Wochen im Zuge von Sanierungsarbeiten einige Male mit der Brechbühl AG zu tun....und der Kampf gegen austretendes Wasser wurde immer speditiv und unkompliziert gewonnen. Ein Anruf und man weiss, dass man im Akutfall umgehend auf einen Fachmann zählen kann. So auch heute Freitag....innert Minuten war ein Team vor Ort, Problem wurde analysiert und eine Stunde später konnten wir dem Wochenende doch entspannt entgegensehen. Hier ist ein Top Team am Start...ein Merci von der K`lingerstrasse für die prompte Hilfe.",
+        "time": 1619791873,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

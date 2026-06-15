@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnYl7l5MKkEcRknV2E8DtCx8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "roman basler",
+        "author_photo": "/images/reviews/elektro-zuerich-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Lichtschalter defekt Sicherung fliegt raus, wir haben Elektro DP Swiss Telefoniert das Team nimmt Telefon persönlich ab keine Callcenter keine Telefonbeantworter und auch nicht Grenzgänger oder Ausländische Firma. Der Elektriker war so schnell vor Ort wie versprochenen innerhalb von 30 Minuten bei uns angekommen und konnte das Problem sofort lösen.\nGuter Service, zu fairen Preisen, keine versteckte gebühren Sehr zufrieden. ich kann Elektro DP Swiss Notfall Elektriker mit gutem Gewissen weiterempfehlen.",
+        "time": 1689005574,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dogan CEM",
+        "author_photo": "/images/reviews/elektro-zuerich-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schnell Notfall Service.",
+        "time": 1690034306,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rudolf Kienle",
+        "author_photo": "/images/reviews/elektro-zuerich-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super und sehr schneller Service",
+        "time": 1569524873,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Alex Thwaites",
+        "author_photo": "/images/reviews/elektro-zuerich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragender und preiswerter Service. Sie kamen sehr kurzfristig vorbei und waren sehr hilfsbereit! Ich kann sie uneingeschränkt empfehlen!",
+        "time": 1778932295,
+        "relative_time_description": "vor 4 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

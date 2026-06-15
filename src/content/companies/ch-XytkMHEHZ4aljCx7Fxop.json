@@ -1,7 +1,7 @@
 {
   "id": "ch-XytkMHEHZ4aljCx7Fxop",
   "slug": "schiess-peter-herisau",
-  "name": "Schiess Peter",
+  "name": "Peter Schiess",
   "branchen": [
     "dachdecker"
   ],
@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJmyXgQi_emkcREHTlZ8aW6kE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Christoph Grontzki",
+        "author_photo": "/images/reviews/schiess-peter-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einfach super in allen Belangen! Wir haben die Fassade und Terrasse sowie Dacharbeiten von Herr Schiess & seinem Team machen lassen - zu unserer vollsten Zufriedenheit! Chef ist äusserst kreativ & kompetent bei Problemen (bestehendes Haus). Jederzeit gerne wieder, können diese Firma wärmstens weiterempfehlen!\nChristoph & Cristina",
+        "time": 1575663946,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "othmar dudli",
+        "author_photo": "/images/reviews/schiess-peter-herisau/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Nicht zu empfehlen...hat es scheinbar nicht nötig zurückzurufen, geschweige denn die Arbeit innert nützlicher (und abgemachter) Frist auszuführen...wenn ich mal ein neues Dach brauche, dann ganz sicher nicht von Dachdecker Schiess...",
+        "time": 1524481084,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Bruno",
+        "author_photo": "/images/reviews/schiess-peter-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle, sympathische und kompetente Beratung, gerne wieder",
+        "time": 1682416779,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Markus Gätzi",
+        "author_photo": "/images/reviews/schiess-peter-herisau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alles super geklappt!",
+        "time": 1542254908,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rolf Meckl",
+        "author_photo": "/images/reviews/schiess-peter-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1646472500,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJDZvwwTXfmkcRtwZ73pGAWLs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Timon Wanner",
+        "author_photo": "/images/reviews/perlgruen-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr angenehme Zusammenarbeit auf Augenhöhe. Der Umgang war unkompliziert und professionell, so wie man es sich als Handwerker wünscht. Auf jeden Fall empfehlenswert.",
+        "time": 1769799180,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Christoph Grontzki",
+        "author_photo": "/images/reviews/perlgruen-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top-Beratung, perfekte Umsetzung und faire Preise. Sehr sympathischer und authentischer Geschäftsführer – jederzeit wieder mit Perlgrün!",
+        "time": 1762890125,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Astrid Willborn",
+        "author_photo": "/images/reviews/perlgruen-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professioneller und schneller Service! Diese jungen Männer sind fix, hochanständig und arbeiten sehr sauber! Gerne wieder :-)",
+        "time": 1762966653,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "andy egloff",
+        "author_photo": "/images/reviews/perlgruen-herisau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Mit Perlgün zusammen zu arbeiten ist eine Freude. Klare Kommunikation und profesionelle Umsetzung ist was sie auszeichnet. Wir können sie nur weiter empfehlen.",
+        "time": 1755965841,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "André Aubert",
+        "author_photo": "/images/reviews/perlgruen-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zusammenarbeit wunderbar, super Team, sehr saubere Arbeiten, zügige Ausführung, sehr kompetent",
+        "time": 1751982607,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

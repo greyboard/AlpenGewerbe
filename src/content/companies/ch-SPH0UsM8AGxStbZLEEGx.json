@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ464ZQ6O5kUcRVQrIpgH53bM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Görkem Koc",
+        "author_photo": "/images/reviews/glanz-dach-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut zufrieden mit der Arbeit der Glanzdach. Von der ersten Beratung bis zur Fertigstellung lief alles reibungslos und professionell vielen dank für eure tolle arbeit.",
+        "time": 1744926696,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Natasa Og",
+        "author_photo": "/images/reviews/glanz-dach-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit der Glanz Dach GmbH! Vom ersten Kontakt bis zur Fertigstellung lief alles professionell, transparent und zuverlässig. Herr Parlak und sein Team haben mein Flachdach nicht nur termingerecht, sondern auch mit höchster Sorgfalt und Qualität saniert. Besonders beeindruckt hat mich die ehrliche Beratung und die schnelle Reaktionszeit, sogar bei kurzfristigen Fragen oder Anliegen. Man merkt sofort, dass hier echte Profis mit langjähriger Erfahrung am Werk sind. Klare Weiterempfehlung!",
+        "time": 1746913887,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eyyüp Akkus",
+        "author_photo": "/images/reviews/glanz-dach-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis zur Ausführung alles perfekt. Freundliches Team, pünktlich und sehr gute Qualität. Gerne wieder!",
+        "time": 1778767287,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "özgür başaran",
+        "author_photo": "/images/reviews/glanz-dach-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind mit den Abdichtungsarbeiten von GlanzDach an unserem Dach und unserer Terrasse sehr zufrieden. Alles verlief von Anfang bis Ende reibungslos. Das Team war professionell und effizient, und das Ergebnis ist makellos. Wir können ihre Dienste uneingeschränkt empfehlen!",
+        "time": 1745955625,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kubra Yagci",
+        "author_photo": "/images/reviews/glanz-dach-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1745792680,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

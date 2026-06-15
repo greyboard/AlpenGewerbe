@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJBe85JCsem0cR_VsoDZ3hpYs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–09:00 Uhr, 09:15–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–09:00 Uhr, 09:15–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–09:00 Uhr, 09:15–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–09:00 Uhr, 09:15–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–09:00 Uhr, 09:15–12:00 Uhr, 13:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Erich Gmünder",
+        "author_photo": "/images/reviews/stoeckle-metallbau-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der intensiven Beratung über die Projekterfassung bis zur umsichtigen Ausführung waren wir rundum zufrieden mit den Mitarbeitenden der Firma Stöckle Metallbau. Unsere neue Glasüberdachung auf dem Sitzplatz macht uns täglich Freude und ist ein Gewinn an Lebensqualität, und das bei jeder Wetterlage: So geschützt, können wir selbst Gewitter mit Hagel und Starkregen oder starken Schneefall sorglos geniessen. DANKE!",
+        "time": 1701954356,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicole Hänni",
+        "author_photo": "/images/reviews/stoeckle-metallbau-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Gartenhag ist wunderschön geworden und auch das neue Schloss funktioniert einwandfrei! Die Vorgaben betr. Heimatschutz wurden erstklassig eingehalten.\n100% Zufriedenheit betr. Qualität, Freundlichkeit, Schnelligkeit und Preis (es war die günstigste der eingeholten Offerten).\nAuch die Zusammenarbeit mit den anderen Firmen (Sandsteinhauer und Maurer) hat optimal geklappt.\nEin Riesenkompliment und vielen Dank.",
+        "time": 1613320466,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "damian bänziger",
+        "author_photo": "/images/reviews/stoeckle-metallbau-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Stöckle AG überzeugt durch einen unkomplizierten, schnellen und professionellen Service. Das Unternehmen ist absolut Empfehlenswert.",
+        "time": 1774078559,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "N. Seitz",
+        "author_photo": "/images/reviews/stoeckle-metallbau-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben für unseren Garten ein Glasgeländer von Stöckle Metallbau AG anfertigen lassen und sind äusserst zufrieden mit der Arbeit. Die Qualität des Geländers ist hervorragend und der Preis war unschlagbar. Besonders hervorheben möchten wir die freundlichen und schnellen Mitarbeiter, die den gesamten Prozess reibungslos gestaltet haben. Wir können Stöckle Metallbau AG wärmstens empfehlen!",
+        "time": 1727084598,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Paul Kobler",
+        "author_photo": "/images/reviews/stoeckle-metallbau-ag-st-gallen/reviewer_5.jpg",
+        "rating": 2,
+        "text": "Ich habe zwei Metallringe (D=145mm) herstellen lassen. Material (Flachstahl 20/4mm) wurde von mir angeliefert.\nDer Rechnungsbetrag war viel zu hoch. Die Arbeitszeit viel zu lange. Nach Intervention und Gespräch mit dem Geschäftsführer konnte ich die überteuren Ringe wenigstens zurückgeben und die Rechnung wurde annuliert.",
+        "time": 1675080591,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

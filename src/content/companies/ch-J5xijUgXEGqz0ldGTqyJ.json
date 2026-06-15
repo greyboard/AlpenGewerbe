@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJm5IRyZQLkEcRKFlGVPqehpM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Susanne Jaberg Tchatchou",
+        "author_photo": "/images/reviews/staempfli-gartenbau-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die saubere, professionelle und termingerechte Arbeit auf der Terrasse meines Vaters :-) alle Bäume und Sträucher wurden perfekt zurückgeschnitten und gepflegt und wir freuen uns auf den nächsten sonnigen  Herbstnachmittag, an dem wir einen Kaffee mit Kuchen mit unserem Vater dort geniessen können!\nHerzlichen Dank auch für die tolle Beratung betreffend Neupflanzung - wir werden sehr gerne im Frühling darauf zurükkommen.",
+        "time": 1728332385,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mischa Gubser",
+        "author_photo": "/images/reviews/staempfli-gartenbau-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mega menschlich im Umgang, super Beratung! Danke vielmal für die liebevolle Arbeit, mein Garten ist dank euch ein echtes Highlight im Quartier.",
+        "time": 1731099618,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Grischa Rittinghaus-Seidt",
+        "author_photo": "/images/reviews/staempfli-gartenbau-zuerich/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Freundlicher Chef, der einem gern alle Fragen beantwortet",
+        "time": 1698845128,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pip Apoo",
+        "author_photo": "/images/reviews/staempfli-gartenbau-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein sehr Fachkompetentes Team mit einer sauberen und Qualitativer Arbeit.",
+        "time": 1669363475,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "urs brodbeck",
+        "author_photo": "/images/reviews/staempfli-gartenbau-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "TipTop von A-Z",
+        "time": 1750420384,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

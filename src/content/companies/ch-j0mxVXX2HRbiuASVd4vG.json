@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3-Bj7GHfmkcRDnqV8LFmHQs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:15 Uhr",
+    "Dienstag: 07:30–17:15 Uhr",
+    "Mittwoch: 07:30–17:15 Uhr",
+    "Donnerstag: 07:30–17:15 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Maik Schiess",
+        "author_photo": "/images/reviews/ar-elektro-gmbh-schwellbrunn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zum Weiterempfehlen! Herr Roland Gantenbein hat unsere ganze Praxis verkabelt und die Leuchten montiert. Er hat den ganzen Umbau sehr sauber, schnell und unkompliziert fertig gestellt. Wir sind froh einen so kompetenten Stromer zu haben!",
+        "time": 1657893197,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nicoleta Georgiana Schiess",
+        "author_photo": "/images/reviews/ar-elektro-gmbh-schwellbrunn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zum Weiterempfehlen, klappt immer alles wunderbar, haltet die Termine ein und arbeitet schnell uns sauber!!",
+        "time": 1677614231,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Miriam Zehr",
+        "author_photo": "/images/reviews/ar-elektro-gmbh-schwellbrunn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und schnell, danke",
+        "time": 1753187786,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Gary Honegger",
+        "author_photo": "/images/reviews/ar-elektro-gmbh-schwellbrunn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein einzigartiges Angebot für Unternehmen, die sichergehen wollen, für einen Stromausfall gerüstet zu sein.",
+        "time": 1740426619,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

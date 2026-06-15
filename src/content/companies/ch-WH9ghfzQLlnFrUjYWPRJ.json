@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJjdeCs2j8mkcRKYcunjcNE6Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 49,
+    "reviews": [
+      {
+        "author_name": "Sebastian Steuber",
+        "author_photo": "/images/reviews/straessle-installationen-ag-amriswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von diesem Sanitärbetrieb! Von der ersten Kontaktaufnahme bis zur finalen Umsetzung lief alles reibungslos, professionell und zuverlässig. Besonders hervorheben möchte ich den Mitarbeiter Raphael Hürzeler: extrem kompetent, freundlich und mit einem beeindruckenden Fachwissen. Er hat sauber, effizient und mit viel Engagement gearbeitet und sich Zeit genommen, alles verständlich zu erklären. Ein Betrieb, bei dem Qualität, Service und Kundenfreundlichkeit wirklich gelebt werden – absolut empfehlenswert!",
+        "time": 1770508826,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "René Stierli",
+        "author_photo": "/images/reviews/straessle-installationen-ag-amriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bei der Sanierung unserer Heizung sowie der Warmwasser Aufbereitung im Werkhof hat das Team mit Valentino Mijatovic und den Monteuren eine super Arbeit geleistet. Sämtliche Arbeiten wurden zur vollsten Zufriedenheit, speditiv und fachlich Kompetent erledigt. Ebenso wurden wir immer auf dem laufenden gehalten was als nächstes erledigt wird und alle unsere Fragen wurden kompetent beantwortet.\nNochmals Danke an Alle und macht weiter so!\nGruss das Team des Werkhof Bischofszell",
+        "time": 1764929078,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Esther",
+        "author_photo": "/images/reviews/straessle-installationen-ag-amriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Auf die Firma Strässle mit ihren kompetenten und freundlichen Mitarbeitenden ist in jeder Situation Verlass! Die Reparaturen werden stets schnell und sehr sorgfältig ausgeführt. Als Kundin werde ich ausgezeichnet beraten. Gern auch in Zukunft wieder!\nHerzlichen Dank, Esther Brunner",
+        "time": 1761899939,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Guido Häni",
+        "author_photo": "/images/reviews/straessle-installationen-ag-amriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Da wir in unserem Bauernhaus die Fenster vergrössern, musste aussen der Fensterbank, Wandanschlüsse und die gesamten Spenglerarbeiten neu gemacht werden. Sehr sauber ausgeführt. Das hält wieder 100 Jahre!\nVielen Dank für die fachgerechte saubere Arbeit.\nGruss Guido Häni",
+        "time": 1775802817,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Raffy1993",
+        "author_photo": "/images/reviews/straessle-installationen-ag-amriswil/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Ich habe wegen fehlendem konstantem Warmwasser angerufen. Leider wurde ich auf nächste Woche vertröstet, mit der Aussage: „Er ist kein Sanitär, nur ein Heiziger.“\nFür mich als Mieter mit akutem Problem ist das nicht hilfreich. Warmwasser gehört zur Grundversorgung, unabhängig davon, wie intern die Zuständigkeiten geregelt sind.\nInsgesamt enttäuschende Reaktion und keine zeitnahe Lösung angeboten.",
+        "time": 1767016408,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

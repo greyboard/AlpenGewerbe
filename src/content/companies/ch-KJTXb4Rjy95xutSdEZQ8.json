@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJI0nlV0H3j0cRzResLzbwIFU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Josef Blättler",
+        "author_photo": "/images/reviews/elektro-schuler-ag-stansstad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schuler ist der beste Elektriker im Kanton und Umgebung. Siehe Fotos. Cool.",
+        "time": 1545500961,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Ro Ma",
+        "author_photo": "/images/reviews/elektro-schuler-ag-stansstad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "sehr schöne Beleuchtung!!!",
+        "time": 1764960532,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Ruedi Z'Rotz",
+        "author_photo": "/images/reviews/elektro-schuler-ag-stansstad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Meine Elektroheizung wurde in nützlicher Frist Instandgesetzt zu einem vernünftigen Preis",
+        "time": 1544279234,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "707ways",
+        "author_photo": "/images/reviews/elektro-schuler-ag-stansstad/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Respektieren!",
+        "time": 1765544413,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Lexy",
+        "author_photo": "/images/reviews/elektro-schuler-ag-stansstad/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1764055777,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

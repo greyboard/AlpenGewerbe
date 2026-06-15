@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJPYV4L9Lzj0cRsrggTxQCmSY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Ueli Fischer",
+        "author_photo": "/images/reviews/einfach-garten-gmbh-kaegiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich durfte zusammen mit Christof Müller von Einfach Garten bei mir zuhause einen 4800 Liter Regenwassertank im Garten einbauen. Zusammen mit  dem Brunnen im Garten der aus diesem Wassertank gespiesen wird wurde mein Garten sehr schön aufgewertet. Künftig kann ich meinen Garten auch mit Regenwasser statt mit Trinkwasser Giessen, was sicher einen ökologischen Gewinn gebracht hat. Zudem haben wir im Haus die Toilettenspühlung sowie die Waschmaschine nun an das Regenwasser System angeschlossen. Wir sparen damit rund 200m3 Trinkwasser jedes Jahr. Rundum ein erfolgreiches Projekt. Gerne wieder. kann ich nur empfehlen!",
+        "time": 1521125953,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Otto Ettlin Erben",
+        "author_photo": "/images/reviews/einfach-garten-gmbh-kaegiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr tolle, faire und transparente Zusammenarbeit - können wir mit grösstem Vertrauen weiterempfehlen.",
+        "time": 1775057310,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Tobias Stafflage",
+        "author_photo": "/images/reviews/einfach-garten-gmbh-kaegiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1686638742,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

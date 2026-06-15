@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJxx5xR-2_B0ER3xQhQ4rguIY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 06:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 06:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 06:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 06:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 54,
+    "reviews": [
+      {
+        "author_name": "MITAC Handels AG",
+        "author_photo": "/images/reviews/a-meier-gartenbau-ag-hirschthal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gemeinsam mit der A.Meier Gartenbau AG durften wir bereits einige spannende Projekte für gemeinsame Kunden verwirklichen. Ob ein Whirlpool oder Schwimm-Spa in eine Gartenanlage integriert werden soll, die A.Meier Gartenbau AG ist kommunikativ, professionell und beweist sich durch Know-How, Design und wunderbare Ideen auf Kunden zugeschnitten. Wir freuen uns weitere Projekte mit dem Team der A.Meier Gartenbau AG zu verwirklichen. Herzlichst aus der Welt der Whirlpools und Schwimm-Spas in Lenzburg, Euer Team von der MITAC Handels AG",
+        "time": 1765985988,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "T",
+        "author_photo": "/images/reviews/a-meier-gartenbau-ag-hirschthal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super service! Immer da wenn man sie braucht!\nJeder kann Deutsch.",
+        "time": 1663767722,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "B K",
+        "author_photo": "/images/reviews/a-meier-gartenbau-ag-hirschthal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung 👍 Die Arbeiten wurden wie immer schnell und effizient ausgeführt! Danke, wir sind begeistert 🤩",
+        "time": 1756723858,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Michael Muntwyler (Monti)",
+        "author_photo": "/images/reviews/a-meier-gartenbau-ag-hirschthal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, hilfsbereit, freundlicher und kompetenter austausch ob mit Mitarbeiter oder Vorarbeiter, immer eine Empfehlung wert.. 👍",
+        "time": 1743152636,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mathias",
+        "author_photo": "/images/reviews/a-meier-gartenbau-ag-hirschthal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schnelle Offerte, sehr gute Arbeit. Preis/Leistung stimmt.\nGing länger als erwartet bis zum Baustart.",
+        "time": 1557853103,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

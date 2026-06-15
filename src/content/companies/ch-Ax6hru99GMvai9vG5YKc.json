@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFd4FWx77j0cR1UUXJl9_gZE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marcel Käppeli",
+        "author_photo": "/images/reviews/mettler-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wenn ihr einen braucht, der nach Schulbuch arbeitet, die Grundierungen auch aufträgt, die er offeriert, dann müsst ihr Rony Mettler nehmen. Gruss Malermeister Käppeli GmbH.",
+        "time": 1529940680,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Daniel Mota Pereira",
+        "author_photo": "/images/reviews/mettler-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eine sehr kompetente Beratung und schnelle Ausführung, vielen Dank nochmal!",
+        "time": 1745479261,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Memo",
+        "author_photo": "/images/reviews/mettler-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Guten Team, Guten Chef, Profi Trockebauer",
+        "time": 1719690176,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ioannis Delianidis",
+        "author_photo": "/images/reviews/mettler-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709190425,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kai Schäfer",
+        "author_photo": "/images/reviews/mettler-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705583034,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

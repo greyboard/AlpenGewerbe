@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3yn80Sb7j0cRWbz9kqtGB2Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 54,
+    "reviews": [
+      {
+        "author_name": "Natalie Aneas",
+        "author_photo": "/images/reviews/sts-elektro-ag-kriens/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Unternehmen der STS Elektro AG führte in meinem Büro ein Projekt im Bereich Lichtkonzept durch. Von der Planung über die Durchführung war alles perfekt. Die Mitarbeitenden der STS Elektro AG sind sehr freundlich, sehr sympathisch und überzeugten mit ihrem Ideenreichtum, der Flexibilität und Fachkompetenz. Nicht nur die Arbeiten übertrafen meine Erwartungen, auch die Sauberkeit während und nach der Ausführung beeindruckten mich vollumfänglich. Ich kann STS Elektro AG auf jeden Fall weiterempfehlen und bedanke mich auf diesem Weg für die reibungslose und geniale Zusammenarbeit.",
+        "time": 1559811181,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Tobias Bachmann",
+        "author_photo": "/images/reviews/sts-elektro-ag-kriens/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die STS Elektro AG ist die klare Nummer Eins auf diesem Gebiet!\nDer Kundenservice ist schlicht sensationell, die Qualität der Arbeit einwandfrei.\nPatrick Vüllers und sein Team sind äusserst freundlich, zuvorkommend, kompetent und flexibel.\nAuch in meinem Bekanntenkreis höre ich nur Gutes.\nIch kann diese Unternehmung uneingeschränkt weiterempfehlen, die Bewertungen hier sprechen Bände.\nMacht weiter so.",
+        "time": 1592573229,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roland Suter",
+        "author_photo": "/images/reviews/sts-elektro-ag-kriens/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Geschätztes STS Team\nUnsere gemeinsamen Projekt sind ein Erfolg. Kompetenz, Flexibilität, Nähe und Geschwindigkeit sind nur ein paar Punkte in einer langen Liste, welche ich der Arbeit von STS sehr schätze.\nDanke für die langjährige Partnerschaft und ich freue mich auf weiter, spannende Projekte.",
+        "time": 1557384005,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Pinky",
+        "author_photo": "/images/reviews/sts-elektro-ag-kriens/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Traurig, dass man mit fake-Rezensionen arbeitet - das zeigt ja die wahre Qualität dieser Firma. Denn in Wahrheit ist die Abarbeitung der Aufträge schlecht. Sehr lange wartezeiten (2 Monate) um einen bereits montierten Autoladestation in Betrieb zu nehmen.",
+        "time": 1701460834,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Reto Kaufmann",
+        "author_photo": "/images/reviews/sts-elektro-ag-kriens/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Liebes STS Team.\nIch möchte mich für die immer sauber ausgeführte und gute Arbeit bei euch bedanken. Es fängt am Telefon an und hört bei der Verabschiedung des Monteurs auf. Eine sehr kompetente Firma von A-Z.\nMacht weiter so. Freue mich auf die weitere Zusammenarbeit.",
+        "time": 1554704456,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

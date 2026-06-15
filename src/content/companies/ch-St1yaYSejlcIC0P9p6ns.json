@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJtzHzLkE7kEcRNy3J5907aG8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Georg Wiesenzarter",
+        "author_photo": "/images/reviews/a-friedli-ag-schreinerei-fuer-kuechen-und-innenausbau-koelliken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Liebes Friedli AG Team\nVielen Dank für die sehr professionelle Arbeit, die tolle Beratung und den termingerechten und sehr sauberen Einbau der neuen Küche! Es hat alles wunderbar geklappt und das Ergebnis kann sich sehen lassen. Wir kommen gerne wieder zu Euch.",
+        "time": 1773261967,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "simone catherine balmer",
+        "author_photo": "/images/reviews/a-friedli-ag-schreinerei-fuer-kuechen-und-innenausbau-koelliken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert! Top Offerte, schnelle Bearbeitung, sehr freundlicher und kompetenter Kontakt.\nSuper Adresse für top Qualität & Preis/ Leistung!",
+        "time": 1774644758,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Manuela Zimmermann",
+        "author_photo": "/images/reviews/a-friedli-ag-schreinerei-fuer-kuechen-und-innenausbau-koelliken/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kurz vor Weihnachten wurde unser wunderschöner Esstisch geliefert. Wir sind begeistert von dem Resultat! Wir erlebten die Zusammenarbeit mit Friedli-Ausbau als sehr freundlich und kompetent. Sie setzten unsere Wünsche exzellent um. Wir können Friedli-Ausbau nur weiterempfehlen und freuen uns auf die Umsetzung von weiteren Projekten.",
+        "time": 1704385632,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lea Baldinger",
+        "author_photo": "/images/reviews/a-friedli-ag-schreinerei-fuer-kuechen-und-innenausbau-koelliken/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die schönen Schreinerarbeiten in unserem Mehrgenerationenhaus! Von Küche, Reduit, über Garderobe, Ankleide und Badmöbel – und das gleich für 3 Wohneinheiten. In unterschiedlichen Ausführungen, aber alles aus einer Hand. Wir wurden sehr gut und umfassend beraten und konnten so all unsere Wünsche ganz nach unseren Vorstellungen umsetzen lassen. Ob integriertes Sitzbänkli im Badzimmermöbel oder magnetische Wand in der Küche, alles ist möglich. Wir sind extrem zufrieden und erfreuen uns hoffentlich noch lange an unserem neuen Heim und den qualitativ hochwertigen Schreinerarbeiten. Absolute Empfehlung!",
+        "time": 1686829378,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Regina Rengli",
+        "author_photo": "/images/reviews/a-friedli-ag-schreinerei-fuer-kuechen-und-innenausbau-koelliken/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von A wie Anfrage bis Z wie „Zusammenräumen“😉 einfach top. Kompetente Mitarbeiter in jedem Bereich. Koordination mit den beteiligten Handwerker (alle aus Kölliken) perfekt organisiert. Das neue Bad erfreut uns täglich! Können Friedli AG wärmstens empfehlen!",
+        "time": 1679734910,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

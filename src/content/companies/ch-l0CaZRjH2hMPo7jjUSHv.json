@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsRyjQzT7j0cRrm-jXsRFwQ4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Philipp Krähenbühl",
+        "author_photo": "/images/reviews/maler-zumbuehl-tarantino-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Insgesamt wurden 9 Wände in diversen Farben gestrichen. Die Arbeit wurde von zwei Malern sehr effizient und professionell erledigt. Wir sind mit dem Ergebnis absolut zufrieden.\nDie Maler waren sehr nett und haben uns selbst für Fragen Auskunft gegeben, die nichts mit den eigentlichen Malerarbeiten zu tun hatten.\nImmer gerne wieder!",
+        "time": 1701698603,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michael Ziegler",
+        "author_photo": "/images/reviews/maler-zumbuehl-tarantino-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich war sehr zufrieden",
+        "time": 1766846239,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Ne ro",
+        "author_photo": "/images/reviews/maler-zumbuehl-tarantino-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit und super unkompliziert, darf gerne wieder mal bei uns streichen",
+        "time": 1637361981,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mario Cammarano",
+        "author_photo": "/images/reviews/maler-zumbuehl-tarantino-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725906752,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Favara Gianni",
+        "author_photo": "/images/reviews/maler-zumbuehl-tarantino-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1565030739,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

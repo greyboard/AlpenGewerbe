@@ -26,5 +26,47 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJx1Orup88kEcR_kjpT6BC3rY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Sandy B. Lang",
+        "author_photo": "/images/reviews/zimmerli-haustechnik-gmbh-muhen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann dieses Geschäft und Herrn Zimmerli nur empfehlen. Herr Zimmerli hat in meinem Haus eine neue Wärmepumpenheizung mit Boiler installiert, die Solaranlage koordiniert und kleinere Reparaturen ausgeführt. Dieses Jahr wird er zudem ein grosses Fensterprojekt begleiten. Sehr professionell, zuverlässig und auch menschlich sehr sympathisch. Vielen Dank, Herr Zimmerli — auf weitere gemeinsame Projekte!",
+        "time": 1769855575,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Vanessa Zimmerli",
+        "author_photo": "/images/reviews/zimmerli-haustechnik-gmbh-muhen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1548182702,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Tom Hönig",
+        "author_photo": "/images/reviews/zimmerli-haustechnik-gmbh-muhen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1539868770,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

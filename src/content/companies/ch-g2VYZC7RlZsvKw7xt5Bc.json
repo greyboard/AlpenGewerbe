@@ -26,5 +26,47 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJd2AUQUZrjkcRWpgQSFZOAGw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Nicole Fuhrer",
+        "author_photo": "/images/reviews/cp-padula-ag-boesingen/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Sehr kompetent,freundlich und flexibel. Zu empfehlen.",
+        "time": 1599710975,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "René Jaggi",
+        "author_photo": "/images/reviews/cp-padula-ag-boesingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "👍👍",
+        "time": 1626383881,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Kira Irina",
+        "author_photo": "/images/reviews/cp-padula-ag-boesingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623878988,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

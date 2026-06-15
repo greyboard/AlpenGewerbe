@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJD4bodl8em0cRJI8psNYR_so",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Peter Truniger",
+        "author_photo": "/images/reviews/wirth-gebaeudetechnik-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben die Wirth AG bauleitend mit der Renovation und dem Umbau eines WCs in eine WC/Dusche-Einheit in einem Jugendstilhaus beauftragt. Sowohl die Sanitär-Arbeiten, als auch die Koordination weiterer Handwerker, wie Plattenleger, Gipser, Schreiner wurden – der alten Bausubstanz gerecht – sorgfältig und umsichtig ausgeführt. Entstanden ist ein Schmuckstück, das innerhalb der offerierten Kosten realisiert wurde. Wir können die Wirth AG und die beteiligten Firmen unbedingt empfehlen.",
+        "time": 1739283626,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yellow Inn Schaad",
+        "author_photo": "/images/reviews/wirth-gebaeudetechnik-ag-st-gallen/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Ich wollte eine Offerte für eine Gasleitung einholen. Mir wurde erklärt, dass die Haftung nur mit einer Heizung die man über Wirth AG bezieht gewährleistet werden kann... Ich verstehe ich bin auch Dienstleister biete aber meinen Service auch ohne Kaufzwang an. Zwei Sterne weil die Frau sehr freundlich war. Währe für eine konstruktive Kommunikation offen, und würde natürlich die Bewertung den gegebenen Umständen anpassen.\n\nEs ging nicht um eine Teilinstallation... Sondern um die Leitung vom Gaszähler, bis zur Heizung. ;)",
+        "time": 1556698651,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Pascal Stäheli",
+        "author_photo": "/images/reviews/wirth-gebaeudetechnik-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Heute mal wieder ein Serviceteam der Wirth Gebäudetechnik im Haus gehabt. Muss sagen der Service ist einfach Top. Nette Mitarbeiter schnelle Behebung des Schadens und unkomplizierte Abwicklung. Gerne wieder!",
+        "time": 1639856317,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Eric Knoll",
+        "author_photo": "/images/reviews/wirth-gebaeudetechnik-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Notfallhotline hat mir rasch weitergeholfen und konnte meinen verstopften Abfluss reparieren",
+        "time": 1729282786,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudio Camen",
+        "author_photo": "/images/reviews/wirth-gebaeudetechnik-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr zeitnahe und professionelle Beratung, Offertenstellung und Auftragsabwicklung. Kompetent bei Um- wie auch Neubauten.",
+        "time": 1583425599,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

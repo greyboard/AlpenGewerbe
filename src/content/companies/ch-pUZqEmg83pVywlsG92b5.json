@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJpVGahb-ohEcR_WJkh3unfeQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Lisa Zoja",
+        "author_photo": "/images/reviews/bauunternehmung-vetsch-klosters-ag-klosters-serneus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnelle und ausführliche Rückmeldung zu meiner Frage! Ich war sehr positiv überrascht",
+        "time": 1717088426,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Carlos Parente",
+        "author_photo": "/images/reviews/bauunternehmung-vetsch-klosters-ag-klosters-serneus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "👌👌😎😎",
+        "time": 1663771588,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sławek Supierz",
+        "author_photo": "/images/reviews/bauunternehmung-vetsch-klosters-ag-klosters-serneus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1749970122,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ricardo Saldanha",
+        "author_photo": "/images/reviews/bauunternehmung-vetsch-klosters-ag-klosters-serneus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1665866426,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Claudio Bregenzer",
+        "author_photo": "/images/reviews/bauunternehmung-vetsch-klosters-ag-klosters-serneus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643653187,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

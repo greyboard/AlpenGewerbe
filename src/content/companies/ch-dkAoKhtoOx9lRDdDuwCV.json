@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJoX-dg8x4kEcRiXrA-fYTCZw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.1,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Beat Achermann",
+        "author_photo": "/images/reviews/thalmann-schreinerei-ag-neuhausen-am-rheinfall/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir danken der Schreinerei Thalmann für die professionelle und sehr gut aussehende Ausführung in diversen Projekten rund um das Haus. Wir haben grosse Freude daran. Von der Beratung, Planung bis zur Ausführung fühlten wir uns sehr gut aufgehoben. Weiter so, sehr gerne wieder.",
+        "time": 1765006357,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Schori Cornelia",
+        "author_photo": "/images/reviews/thalmann-schreinerei-ag-neuhausen-am-rheinfall/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Beratung ist sehr gut, die ausgeführten Arbeiten ist sehr gut. Ist ein sehr gutes Team. Weiter so.",
+        "time": 1770502304,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "D S",
+        "author_photo": "/images/reviews/thalmann-schreinerei-ag-neuhausen-am-rheinfall/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Als Möbelschreiner passabel, als Bauschreiner nicht zu gebrauchen. Das bringe ich als Nichtfachmann selber besser und exakter hin. Und schone meine Nerven.",
+        "time": 1734329594,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rene Springmann",
+        "author_photo": "/images/reviews/thalmann-schreinerei-ag-neuhausen-am-rheinfall/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Besten. Wir lassen alles bei Thalmann machen. Sitzplatzüberdachung, Garderobenschrank, neue Küche. Alle Arbeiten wurden Zuverlässig, Pünktlich, zu unserer vollsten Zufriedenheit und nach unseren Wünschen ausgeführt. Thalmann Schreinerei und das Team kann ich bestens weiterempfehlen.",
+        "time": 1577683291,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michèle Spingler",
+        "author_photo": "/images/reviews/thalmann-schreinerei-ag-neuhausen-am-rheinfall/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten als Liegenschaftenverwaltung seit Jahren mit der Thalmann Schreinerei AG, Neuhausen, zusammen. Wir sind sehr zufrieden und können sie nur weiterempfehlen. Preis/Leistung/Qualität - top! Gloor Immo AG, Kreuzgutweg 22, 8207 SH",
+        "time": 1494513823,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

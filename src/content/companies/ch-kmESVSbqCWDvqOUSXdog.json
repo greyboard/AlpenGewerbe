@@ -26,5 +26,30 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJi-0gzdBuj0cRhfUXMg1vR8Q",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Savino Patruno",
+        "author_photo": "/images/reviews/mammone-ag-naters/reviewer_1.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1709625285,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "joao paulo",
+        "author_photo": "/images/reviews/mammone-ag-naters/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1661431000,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

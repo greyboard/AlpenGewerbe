@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJaUqOvurhnksRkUTdFBTilzA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Karin Uka",
+        "author_photo": "/images/reviews/del-grande-automation-monteggio/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der Arbeit von Herr del Grande.",
+        "time": 1679678453,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabio Zanella",
+        "author_photo": "/images/reviews/del-grande-automation-monteggio/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank, Matteo, für Ihre Beratung und Ihre Professionalität. Angebot, Installation und Anleitung entsprachen unseren Erwartungen. Ein interessantes, technologisch fortschrittliches und benutzerfreundliches Produkt. Ich empfehle Del Grande Automation uneingeschränkt.",
+        "time": 1778008865,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Salvatore Conte",
+        "author_photo": "/images/reviews/del-grande-automation-monteggio/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der mit großer Sorgfalt und großem Fachwissen ausgeführten Arbeit.\nSehr gut und ehrlich.",
+        "time": 1756197010,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Prisca Cattani",
+        "author_photo": "/images/reviews/del-grande-automation-monteggio/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich wurde hervorragend beraten; er fand die beste Lösung für meine Bedürfnisse, ohne viel Geld auszugeben. Die Arbeit war perfekt; ich bin sehr zufrieden. Alles war sehr professionell.",
+        "time": 1696363283,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Luana Pongelli",
+        "author_photo": "/images/reviews/del-grande-automation-monteggio/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an Del Grande Automation für die professionelle und termingerechte Entwicklung meiner Website, die meine Bedürfnisse berücksichtigt hat. Ich erhalte weiterhin hervorragenden Support.",
+        "time": 1725312231,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

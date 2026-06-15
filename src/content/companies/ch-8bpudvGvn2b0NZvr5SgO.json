@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAehzE4gLkEcRAGChUQKCtaI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Piero Luca Bertoli",
+        "author_photo": "/images/reviews/maler-r-toma-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Toma ist ein kleines, persönliches Unternehmen, welche die Arbeiten mit Leidenschaft und Freude ausführt. Wir sind mit dem Ergebnissen sehr zufrieden und können Ihn gerne weiter empfehlen!!",
+        "time": 1632222176,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "mary frei",
+        "author_photo": "/images/reviews/maler-r-toma-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "eine super arbeit kostenvoranschlag genau auf die ausführenden arbeiten berrechnet, saubere arbeit , alles tip top sauber hinterlassen, alle arbeiten im abgemachten zeitrahmen, freundlich , gute beratung , alles zu unserer vollsten zufriedenheit",
+        "time": 1615814640,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Schreinerei BleulerAG",
+        "author_photo": "/images/reviews/maler-r-toma-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hoches Qualitätsdenken, auch bei der Ausfürneden Arbeiten\nErgebnisse überzeugen jedesmal.\nImmer wieder...\nGruss vom Schreinerteam",
+        "time": 1618474595,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Podologie Egli",
+        "author_photo": "/images/reviews/maler-r-toma-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und sympathisch! Perfekte Arbeit! Sehr zu empfehlen.",
+        "time": 1615807526,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alias",
+        "author_photo": "/images/reviews/maler-r-toma-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "👍",
+        "time": 1618073712,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

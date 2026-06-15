@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJbdXGVf1rjkcRt9cHIKkF9KA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Julmy André",
+        "author_photo": "/images/reviews/baeriswyl-ag-effiziente-gebaeudehuellen-duedingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1668236821,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sabrina St",
+        "author_photo": "/images/reviews/baeriswyl-ag-effiziente-gebaeudehuellen-duedingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1606239631,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Rellik Sascha",
+        "author_photo": "/images/reviews/baeriswyl-ag-effiziente-gebaeudehuellen-duedingen/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1578768853,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Adrian Brünisholz",
+        "author_photo": "/images/reviews/baeriswyl-ag-effiziente-gebaeudehuellen-duedingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1571567648,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Perler Cédric",
+        "author_photo": "/images/reviews/baeriswyl-ag-effiziente-gebaeudehuellen-duedingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1521102779,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

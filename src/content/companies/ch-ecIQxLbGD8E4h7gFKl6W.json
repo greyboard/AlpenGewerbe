@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJEbvOucQVm0cRz0f9Eogc7c0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Shkelqim Avdili",
+        "author_photo": "/images/reviews/glasplan-gmbh-widnau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wurde sehr gut vor Ort professionell beraten. Die Ausführung/Umsetzung war reibungslos und entsprach genau meiner Vorstellungen. Zuverlässig und qualitatives Versprechen wurde sogar übertroffen - das zu einem anständigen Preis. Ich kann Glasplan nur weiterempfehlen! Nochmals Danke und liebe Grüsse, Jimmy",
+        "time": 1740741869,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudia Meier",
+        "author_photo": "/images/reviews/glasplan-gmbh-widnau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekter Service und hochwertige Arbeit!\nVom ersten Kontakt bis zur Montage unseres Duschglases verlief alles reibungslos. Die Kommunikation war freundlich und professionell, die Terminvereinbarung unkompliziert und pünktlich. Wir können Glasplan weiterempfehlen und bedanken uns für die tolle Arbeit.",
+        "time": 1740138401,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Donati",
+        "author_photo": "/images/reviews/glasplan-gmbh-widnau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir durften Herr Todorovic  kennen lernen und er hat uns das gesamtes Haus zu einem sehr attraktiven Angebot gereinigt.\nNicht zuletzt auch, seine Tipps für den Alltag hatten wir sehr wertvoll empfunden.\nWir können die Firma bestens empfehlen.",
+        "time": 1742816070,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "lars klotz",
+        "author_photo": "/images/reviews/glasplan-gmbh-widnau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Glasplan GmbH ist die Adresse bei allen Sachen wo es um Glas geht.... Ganz klar.\n\nTop Lieferzeiten, kurze Endscheidungswege, klare und präzise Rückfragen und man bekommt das wie man es möchte.\n\nIch hatte eine Glasplatte welche mir im handumdrehen 1 zu 1 kopiert wurde und meine Vitrine ist wieder vollzählig und einheitlich sowie einsatzbereit.\n\nDanke an euch, Glasplan GmbH, bin mehr als zufrieden.\n\nMacht weiter so.",
+        "time": 1741797697,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "I",
+        "author_photo": "/images/reviews/glasplan-gmbh-widnau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Firma Glasplan hat bei mir die Balkonverglasung erneuert. Von Kontaktaufnahme über Offerte, Arbeitsbeginn und Vollendung hat alles optimal funktioniert, ebenfalls sehr angenehme Kommunikation. Hoffentlich können wir bald wieder zusammenarbeiten.",
+        "time": 1738337443,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

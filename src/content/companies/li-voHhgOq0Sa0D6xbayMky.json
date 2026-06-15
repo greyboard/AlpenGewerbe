@@ -25,5 +25,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJObD39ic7m0cRV_GXC2cgUhY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Patrik Lech",
+        "author_photo": "/images/reviews/goetz-elektro-telecom-anstalt-schaanwald/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich und fachgerechte Beratung",
+        "time": 1633550483,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Rene Stock",
+        "author_photo": "/images/reviews/goetz-elektro-telecom-anstalt-schaanwald/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Jederzeit kompetent und hilfsbereit",
+        "time": 1598519651,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Thomas Meier",
+        "author_photo": "/images/reviews/goetz-elektro-telecom-anstalt-schaanwald/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragende und schnelle Installation des Tesla Wall Connectors. Sehr hilfsbereit. Fairer Preis.",
+        "time": 1697570724,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ich kann gerne Für dich Mod sein",
+        "author_photo": "/images/reviews/goetz-elektro-telecom-anstalt-schaanwald/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600286358,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "LA_ Zeyrox",
+        "author_photo": "/images/reviews/goetz-elektro-telecom-anstalt-schaanwald/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600286408,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

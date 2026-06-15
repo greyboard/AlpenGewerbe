@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9RpZjyWZmkcRxJfe0lGSQmg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:30 Uhr",
+    "Dienstag: 07:00–18:30 Uhr",
+    "Mittwoch: 07:00–18:30 Uhr",
+    "Donnerstag: 07:00–18:30 Uhr",
+    "Freitag: 07:00–18:30 Uhr",
+    "Samstag: 07:00–18:30 Uhr",
+    "Sonntag: 07:00–18:30 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Soumia Halhal",
+        "author_photo": "/images/reviews/dachdicht-gmbh-dachdecker-zuerich-winterthur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit den ausgeführten Arbeiten. Es wurde genau so ausgeführt wie besprochen und sehr sauber und sorgfältig gearbeitet! Top Preis-Leistung! Können wir nur weiter zu empfehlen. Vielen Dank DachDicht Team!!",
+        "time": 1738938847,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Soufian Yaacoubi",
+        "author_photo": "/images/reviews/dachdicht-gmbh-dachdecker-zuerich-winterthur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragende Handwerksarbeit und professionelle Abwicklung! Das Team zeigte eine hohe Fachkompetenz in der Dachsanierung und Neueindeckung. Besonders beeindruckend war die detaillierte Beratung zu Materialien und Energieeffizienz. Die Arbeiten wurden termingerecht, sauber und präzise ausgeführt. Auch die Abdichtungsarbeiten sowie die Dachentwässerung wurden fachmännisch umgesetzt. Klare Empfehlung für qualitativ hochwertige Dachdeckerarbeiten!\n\nFreut mich auf das nächste Projekt.",
+        "time": 1738872696,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yassin Benaaid",
+        "author_photo": "/images/reviews/dachdicht-gmbh-dachdecker-zuerich-winterthur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, schnell und auf den Punkt.\nVielen Dank an das Team DachDicht für tolle Beratung und Ausführung!",
+        "time": 1738870002,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "B Y",
+        "author_photo": "/images/reviews/dachdicht-gmbh-dachdecker-zuerich-winterthur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Arbeit am Dach! Schnell, zuverlässig und sauber ausgeführt. Top Qualität und freundliches Team – absolut empfehlenswert!",
+        "time": 1738865476,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Amine El Boussetaoui",
+        "author_photo": "/images/reviews/dachdicht-gmbh-dachdecker-zuerich-winterthur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr schöne arbeit und qualitative arbeit sehr zuverlàsssig",
+        "time": 1698827322,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

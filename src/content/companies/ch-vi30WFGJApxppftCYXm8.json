@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJhS7nl6MVm0cRUB6PnaVIANY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Sonja Blättler",
+        "author_photo": "/images/reviews/huag-ag-diepoldsau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dank der Firma Huag AG wurde unser Sitzplatz neu gestaltet und das Carport auf ein solides Betonfundament umgebaut. Die alten Untergründe wurden entfernt und durch eine stabile Betonplatte ersetzt, was nicht nur die Funktionalität, sondern auch die Ästhetik deutlich verbessert hat.\n\nWir möchten uns ganz herzlich bei Ramon Weder, dem Bauführer, bedanken. Er hat bei uns zu Hause einen hervorragenden Job gemacht und das Projekt von A bis Z geleitet.\n\nAuch möchten wir besonders die Mitarbeiter Monti und Noa hervorheben. Sie haben täglich, selbst bei schlechtem Wetter, vollen Einsatz gezeigt, waren stets motiviert und freundlich und haben ihre Arbeit fachgerecht ausgeführt. Wir wurden jederzeit über alle Schritte informiert, was die Kommunikation erstklassig machte.\n\nWir sind äusserst zufrieden mit den Dienstleistungen der Huag AG und können die Firma uneingeschränkt weiterempfehlen. Wir würden jederzeit wieder ihre Dienste in Anspruch nehmen.",
+        "time": 1727442007,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriella Pfeiffer",
+        "author_photo": "/images/reviews/huag-ag-diepoldsau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Team, freundlich und aufgestellt. Gute Arbeit und speditiv. Offenes Ohr für Kundenwünsche. Tolle Firma.  Wir sind sehr zufrieden und bedanken uns für die super Arbeit.",
+        "time": 1685605945,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Martin Eggenberger",
+        "author_photo": "/images/reviews/huag-ag-diepoldsau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Firma wo Qualität noch Wert hat. Immer wieder eine Freude die Tolle Zusammenarbeit.",
+        "time": 1766571845,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Andi Niederer",
+        "author_photo": "/images/reviews/huag-ag-diepoldsau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Firma!",
+        "time": 1666716547,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Hans Gähler",
+        "author_photo": "/images/reviews/huag-ag-diepoldsau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1647111720,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

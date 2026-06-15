@@ -1,7 +1,7 @@
 {
   "id": "ch-l0BXGt9DW4o5OFcPfd6H",
   "slug": "cloux-alain-sa-les-acacias",
-  "name": "Cloux Alain SA",
+  "name": "Alain Cloux SA",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJRzkdxS17jEcR20kN_umUOCc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Gilbert Bruant",
+        "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocKlI5FZakQ7SL6GPh51lA18Q3UjliKcuA-Vy4IuyzNy5eY0tA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "text": "Ich rief die Glaserei an und wurde professionell bedient, obwohl man mir nicht weiterhelfen konnte. Man hörte mir zu und gab mir gute Ratschläge. Ich kann die Firma weiterempfehlen.",
+        "time": 1657048305,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabienne Mégevand",
+        "author_photo": "/images/reviews/cloux-alain-sa-les-acacias/reviewer_2.jpg",
+        "rating": 5,
+        "text": "5-Sterne-Service, Pünktlichkeit, Freundlichkeit, Reaktionsschnelligkeit, Effizienz!",
+        "time": 1740066428,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jerome Grin",
+        "author_photo": "/images/reviews/cloux-alain-sa-les-acacias/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der beste Glaser in Genf, ich kann ihn wärmstens empfehlen.",
+        "time": 1624220253,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Franc. Ch",
+        "author_photo": "/images/reviews/cloux-alain-sa-les-acacias/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1737921787,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Charbel Feghali",
+        "author_photo": "/images/reviews/cloux-alain-sa-les-acacias/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1623477839,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

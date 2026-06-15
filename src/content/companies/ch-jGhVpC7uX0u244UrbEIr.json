@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJWy-BuP_6j0cR73kIpdP7wIc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Claudio Fenner",
+        "author_photo": "/images/reviews/baumann-metallbau-ag-kriens/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Heavy Metal vom Feinsten 👍",
+        "time": 1654166325,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marc Jöhl",
+        "author_photo": "/images/reviews/baumann-metallbau-ag-kriens/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1691303460,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Frank Ewalts",
+        "author_photo": "/images/reviews/baumann-metallbau-ag-kriens/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664973077,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Markus Marti",
+        "author_photo": "/images/reviews/baumann-metallbau-ag-kriens/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1545487169,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Florian Bissig-Waller",
+        "author_photo": "/images/reviews/baumann-metallbau-ag-kriens/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1537882662,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

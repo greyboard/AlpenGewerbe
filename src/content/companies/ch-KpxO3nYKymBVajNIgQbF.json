@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJvzn4GIQKkEcRneMSNEhL7Gs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Marco Strehler",
+        "author_photo": "/images/reviews/meyer-meyer-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer saubere und gute Arbeit.",
+        "time": 1776603707,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Andreas Loosli",
+        "author_photo": "/images/reviews/meyer-meyer-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service! Pünktlich, freundlich, kompetent, und ging auf meine Fragen ein👌🏻\nGut zu wissen für ein anderes Mal",
+        "time": 1706622255,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Hansjoerg Meier",
+        "author_photo": "/images/reviews/meyer-meyer-ag-zuerich/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Die Website verspricht Professionalität, Zuverlässigkeit und Qualität. Meine Erfahrungen sind weit entfernt von diesen, gut Schweizerischen, Attributen. Die Firma wurde vor drei Jahren von einem Architekten fuer umfangreiche Umbau Arbeiten meiner Liegenschaft empfohlen, in den Bereichen Sanitär und Heizung. Schon während den Umbau Arbeiten mussten Service Mängel festgestellt werden, als Tiefpunkt meinte einer der Mitarbeiter das der Heizkessel ersetzt werde muss. Die Firma HOVAL hat dann glücklicherweise interveniert und ein Ersatzteil ersetzt, zum Bruchteil eines neuen Heizkessels....\nDrei Jahre nach dem Umbau nun die ersten Probleme, mit undichten Leitungen, usw. aber was noch schlimmer ist, ist der Service Level dieser \"Firma\", inklusive der Geschäftsführung. Das Emails tagelang nicht beantwortet werden, das Telefon je nach Laune abgenommen wird, ist eine Sache, aber meine letzte Erfahrung bringt das Fass zum Überlaufen und wirft Fragen auf wie seriös diese \"Firma\" arbeitet:\nNach ein paar Wochen hat sich die Firma bemüht den Fall anzusehen, eine Offerte fuer die Reparaturen welche ich der Versicherung vorlegen muss ist bis heute (2 Monate nach dem Besuch) nicht eingetroffen. Telefon Anrufe werden teilweise beantwortet, schliesslich weisst mich die Sekretärin darauf hin \"das der Geschaeftsfuehrer mit mir etwas absprechen will\", keine Antwort, dann heisst es \"der Vater des Geschäftsführers\" wird ein Follow up machen und mit dem Geschaeftsfuehrer sprechen, passiert ist auf nichts. Nach weiteren 10 Tagen melde ich mich nochmals per Email und bitte um ein Update, schliesslich teilt mir der Geschaeftsfuehrer mit das jetzt Ferienzeit ist und das die Firma den Auftrag nicht ausführen kann....zwei Monate Zeitverschwendung, das Wort Entschuldigung kennt der Herr Geschaeftsfuehrer auch nicht.\n\nGanz schwach und wohl ein Hinweis das es gewissen Handwerkern einfach zu gut geht. Wenn die\nZeiten nicht gut sind wird gejammert, wenn die Geschäfte laufen werden die Kunden liegen gelassen.\n\nEs handelt sich hier um eine Dusche welche nicht benützten werden kann....",
+        "time": 1720059091,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ES-Holzhandwerk GmbH",
+        "author_photo": "/images/reviews/meyer-meyer-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super freundlich und top Service.\nVielen herzlichen Dank\nGerne wieder!",
+        "time": 1702996230,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "PixselCraft",
+        "author_photo": "/images/reviews/meyer-meyer-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches Personal, schnell und zuverlässig. Bin sehr zufrieden.",
+        "time": 1588265532,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJLbd5SzkojkcRcUdcxuMO3yE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 44,
+    "reviews": [
+      {
+        "author_name": "Railman One",
+        "author_photo": "/images/reviews/steiner-metallbau-biberist-ag-biberist/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma Steiner für den Bau unseres Sommergartens beauftragt. Von Anfang bis zum Schluss wurden wir immer sehr gut beraten. Die Ausführung durch die Mitarbeitenden wurde so angenehm wie möglich gestaltet. Das Resultat ist perfekt. Die Qualität ist sehr hochwertig. Wir würden die Firma auf jeden Fall empfehlen.",
+        "time": 1752052540,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Mariette Zuber",
+        "author_photo": "/images/reviews/steiner-metallbau-biberist-ag-biberist/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit der Glasüberdachung unserer Terrasse sind wir rundum zufrieden. Die Fa. Steiner Metallbau in Biberist hat uns bei der Planung von Anfang an professionell und kompetent beraten. Unsere Wünsche wurden vollumfänglich berücksichtigt und realisiert. Der Termin wurde eingehalten, die Montage der hochwertigen Freisitz-Glasüberdachung wurde sorgfältig und sauber durchgeführt. Sehr gutes Preis-Leistungsverhältnis bei hoher Materialqualität. Die Fa. Steiner Metallbau, Biberist, würden wir jederzeit wieder beauftragen.",
+        "time": 1650963518,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stephan Prebeck",
+        "author_photo": "/images/reviews/steiner-metallbau-biberist-ag-biberist/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Beratung (sehr kompetent mit guten Lösungsvorschlägen) über die Planung (professionell mit ausgefeilter digitaler Technik) und der Umsetzung (sehr professionelle und qualitätsbewusste Mitarbeiter) unserer Terrassenüberdachung sind wir mit der Firma Steiner sehr zufrieden und würden diesen Auftrag immer wieder durch Sie durchführen lassen.",
+        "time": 1684586519,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Bernhard F.",
+        "author_photo": "/images/reviews/steiner-metallbau-biberist-ag-biberist/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bei der Planung unserer Freisitzüberdachung wurden wir durch Herrn Sandro Steiner sehr kompetent beraten. Auch der Aufbau war in jeder Beziehung tadellos. Alle unsere Wünsche wurden beachtet und jedes Detail miteinbezogen. Herzlichen Dank auch an die Monteure. Wir können die Firma Steiner AG bestens empfehlen.",
+        "time": 1720435034,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Elisabeth Berger",
+        "author_photo": "/images/reviews/steiner-metallbau-biberist-ag-biberist/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Unsere neue Rolax-Rolladenstore wurde durch die Firma Steiner fachgerecht und effizient montiert. Nach Anschluss durch ein Elektrofachgeschäft funktioniert alles tadellos. Alle Mitarbeitenden mit denen wir Kontakt hatten waren überaus freundlich und hilfsbereit. Herzlichen Dank.",
+        "time": 1723561296,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

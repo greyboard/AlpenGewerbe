@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJVRFzI84em0cRK3icnxwfkGY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Thomas Flückiger",
+        "author_photo": "/images/reviews/rechsteiner-hans-ag-speicherschwendi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super schnell und unkompliziert einen Eilauftrag ausgeführt. Wir hatten ein Problem mit dem Siphon in der Küche. 5 Minuten (!) nach dem Anruf stand der Monteur vor der Türe. Nach einer Viertelstunde war das Problem behoben. Danke vielmals an die Firma Rechsteiner.",
+        "time": 1675074305,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "edme",
+        "author_photo": "/images/reviews/rechsteiner-hans-ag-speicherschwendi/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mehrere Aufträge ausgeführt, alle in bester Arbeit und Qualität. Empfehlenswert! 22.04.2022: Und wieder; super Arbeit, super Preis! Sehr zu empfehlen!",
+        "time": 1650721697,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Krizia Frei",
+        "author_photo": "/images/reviews/rechsteiner-hans-ag-speicherschwendi/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die super Arbeit, bin sehr zufrieden!",
+        "time": 1563816356,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Werner Limacher",
+        "author_photo": "/images/reviews/rechsteiner-hans-ag-speicherschwendi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hätte keinen anderen Lehrmeister gewollt 👍👍",
+        "time": 1708806544,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Steven Etter",
+        "author_photo": "/images/reviews/rechsteiner-hans-ag-speicherschwendi/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Nette Mitarbeiter die wissen was sie tun, und sauber",
+        "time": 1580607337,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

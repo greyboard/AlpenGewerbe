@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJsaTGgyyAmkcRJ1WwCCK2RgA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Anita Korn",
+        "author_photo": "/images/reviews/gartenpflege-und-gartenunterhalt-nest-gartengestaltung-gmbh-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit, junges, speditives Team. Sehr netter Kontakt, wir sind überglücklich, über unseren revidierten Garten. Tolle Leistung. Haben jetzt ein Jahresabo gemacht. Somit müssen wir uns um die schwierigen Arbeiten im Garten nicht mehr kümmern. Weiter so - sehr zu empfehlen.",
+        "time": 1657015543,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Peter Werner",
+        "author_photo": "/images/reviews/gartenpflege-und-gartenunterhalt-nest-gartengestaltung-gmbh-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Macht einen guten, dynamischen Eindruck",
+        "time": 1599379733,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stephen Kuelhorn",
+        "author_photo": "/images/reviews/gartenpflege-und-gartenunterhalt-nest-gartengestaltung-gmbh-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Firma👍💪",
+        "time": 1586856087,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJB_lnOaZNhEcRPpCc4IfFPmU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Tatiana Terrot",
+        "author_photo": "/images/reviews/ram-carpenteria-sagl-lodrino/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr effizient und zuverlässig. Der Inhaber ist kundenorientiert und bietet Lösungen, die optimale Ergebnisse erzielen und gleichzeitig die Kosten im Blick behalten. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1739903934,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "BigMich Gman",
+        "author_photo": "/images/reviews/ram-carpenteria-sagl-lodrino/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe das Dach meines Bauernhauses erneuern lassen. Die Arbeit war erstklassig, präzise und sauber ausgeführt. Die Handwerker waren kompetent, schnell und hilfsbereit, und die Preise waren ausgezeichnet.\n\nVielen Dank nochmal an Ram Carpenteria!\n\nNummer 1",
+        "time": 1729971280,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "facundo abrate",
+        "author_photo": "/images/reviews/ram-carpenteria-sagl-lodrino/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnell, effizient und engagiert. Ein tolles Unternehmen mit jungen, motivierten Mitarbeitern. Absolut empfehlenswert! 👏🏼👏🏼",
+        "time": 1720523198,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eric Jelmini",
+        "author_photo": "/images/reviews/ram-carpenteria-sagl-lodrino/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732824106,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

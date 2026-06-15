@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnyWneQFrjkcRsZ_slWlRT4A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Vanessa 2002",
+        "author_photo": "/images/reviews/costa-malergeschaeft-spiegel-be/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit!\nIch durfte seine Arbeit bereits in mehreren Kitas bewundern. Die Zusammenarbeit mit ihm macht Spass. Er antwortet schnell, geht individuell auf Wünsche ein und führt die Arbeiten sauber, sowie zuverlässig aus.\nIch würde ihn immer wider weiterempfehlen.",
+        "time": 1765385328,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Florence",
+        "author_photo": "/images/reviews/costa-malergeschaeft-spiegel-be/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Pedro Costa hat perfekte Arbeit geleistet. Auf Bedürfnisse ist er super eingegangen und hat über den Tellerrand hinaus gedacht. Super unkompliziert, sehr hilfsbereit und natürlich schöne und saubere Arbeit. MERCI",
+        "time": 1702965863,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lorenz L. Baerfuss",
+        "author_photo": "/images/reviews/costa-malergeschaeft-spiegel-be/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnelle Kontaktaufnahme. Junge aber kompetente Persönlichkeit, die mitdenkt und auch beraten kann. Mein Auftrag war sehr anspruchsvoll (sehr genaue Farbkanten)... die schwierigsten Stellen hat Herr Costa selbst gemacht (Ausführung: 10/10!). Freundlicher und unkomplizierter Umgang. Vielen Dank und gerne wieder!",
+        "time": 1703678956,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Joey",
+        "author_photo": "/images/reviews/costa-malergeschaeft-spiegel-be/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top. Super saubere Arbeit. Auch das Finish, alles perfekt aufgeräumt. Kompetent und sehr freundlich. Klnnen dich nur weiterempfehlen.\nmerci vieu mau Pedro.",
+        "time": 1761119768,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Patrick Rohrbach",
+        "author_photo": "/images/reviews/costa-malergeschaeft-spiegel-be/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolles Malergeschäft mit Superberatung!\nPedro Costa ist mit Leidenschaft Maler, arbeitet sehr exakt und versucht die Wünsche der Kunden zu verwirklichen.  Er hat ein Flair für Farben und es macht enorm Freude mit ihm eine Wohnung neu zu gestalten. Er ist sehr sympathisch und flexibel. Sehr empfehlenswert!",
+        "time": 1711832163,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

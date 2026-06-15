@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJOSi8I8NqjkcRTJpcsWbWfDE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Roby Gasser",
+        "author_photo": "/images/reviews/elektro-kaeser-ag-boesingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Elektro Käser AG können wir als sehr als sehr professionelle, lösungsorientierte, flexible, und faire Firma weiter empfehlen.\nSeit 2013 ist die die Elektro Käser AG für sämtliche Elektroinstallationen im BEO-Funpark Bösingen zuständig und freuen uns auf die nächsten 10 Jahre! Besten Dank ans ganze Team!",
+        "time": 1686905089,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Reinhard Michael",
+        "author_photo": "/images/reviews/elektro-kaeser-ag-boesingen/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Perfekter Service wahr innerhalb von 20 min bei mir vor Ort und konnte das Problem sofort lösen",
+        "time": 1692986776,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Ledermann",
+        "author_photo": "/images/reviews/elektro-kaeser-ag-boesingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetente Hilfsbereitschaft, immer bereit eine Lösung zu finden!\nDas ganze Team zuvorkommend und zuverlässig \"comme il faut\"!",
+        "time": 1592921792,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Thomas Perren",
+        "author_photo": "/images/reviews/elektro-kaeser-ag-boesingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert - kompetent und fair",
+        "time": 1547729811,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Corinne von Ballmoos",
+        "author_photo": "/images/reviews/elektro-kaeser-ag-boesingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Für das Elektrische eine top Adresse!",
+        "time": 1516134547,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

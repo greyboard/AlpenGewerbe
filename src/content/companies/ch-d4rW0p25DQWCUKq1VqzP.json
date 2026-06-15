@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJafVuetluj0cR89CE9oWtfUM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Web Master MM",
+        "author_photo": "/images/reviews/hans-imwinkelried-und-soehne-ag-bitsch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team von Imwinkeried ist zuverlässig, effizient und präzise. Vielen Dank für Ihre Hilfe, Sie haben einen großartigen Job gemacht !",
+        "time": 1715855423,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gerhard Imhof",
+        "author_photo": "/images/reviews/hans-imwinkelried-und-soehne-ag-bitsch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Fachmännische Beratung aus erster Hand. Der Spezialist in den Bereichen Sanitär, Heizung und Haustechnik.",
+        "time": 1604594263,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Schnidrig Dario",
+        "author_photo": "/images/reviews/hans-imwinkelried-und-soehne-ag-bitsch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Mitarbeiter.",
+        "time": 1665082101,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Restaurant La Tana",
+        "author_photo": "/images/reviews/hans-imwinkelried-und-soehne-ag-bitsch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das Team von Imwinkeried ist zuverlässig, effizient und präzise. Vielen Dank für Ihre Hilfe; Sie haben hervorragende Arbeit geleistet.",
+        "time": 1715855537,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stephan Nater",
+        "author_photo": "/images/reviews/hans-imwinkelried-und-soehne-ag-bitsch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Erstklassiger Service",
+        "time": 1670851749,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

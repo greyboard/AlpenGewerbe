@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJYSvMkExljEcRFvqkgz5XyRc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Ma Porte Sàrl",
+        "author_photo": "/images/reviews/eco-peinture-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind ein Unternehmen aus dem nördlichen Waadtland. Beim Einbau einer neuen Tür in Chambésy wurde eine Wand beschädigt.\n\nDa wir in Genf keinen Partner hatten, suchten wir über Google.\n\nWir beauftragten Eco Peinture mit der Reparatur. Die Firma reagierte schnell, arbeitete professionell, erledigte mehr als erwartet und berechnete uns sogar weniger als ursprünglich veranschlagt. Unser Kunde ist begeistert von der Arbeit. 👌 Ein neuer, zuverlässiger Partner für unser Unternehmen.",
+        "time": 1779198060,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Cyril Petitpierre",
+        "author_photo": "/images/reviews/eco-peinture-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eco Peinture hat an unseren Fassaden hervorragende Arbeit geleistet; die Arbeiten waren sehr sauber, präzise und wurden termingerecht abgeschlossen. Darüber hinaus waren die verwendeten Materialien hochwertig, farbecht und langlebig.",
+        "time": 1775554259,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Sue Mizera",
+        "author_photo": "/images/reviews/eco-peinture-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Robin Liengme von EcoPeinture ist ein echter Profi. Er kennt sich bestens aus, von der Auswahl der optimalen Farbsorten für jeden Anwendungsbereich über die perfekte Farbanpassung an alte oder verblasste Farbtöne bis hin zu den besten und effizientesten Lösungen für alle Arten von Malerarbeiten im Innen- und Außenbereich. Er und sein Team leisten hervorragende Arbeit. Sie sind sorgfältig, gewissenhaft, pünktlich und geben immer ihr Bestes, um exzellenten Kundenservice zu gewährleisten. Sie machen hilfreiche und proaktive Empfehlungen für Dinge, an die man vielleicht noch nicht gedacht hat, und liefern präzise Kosten- und Zeitangaben. Für all unsere zukünftigen Malerarbeiten sind sie unsere erste Wahl.",
+        "time": 1718904556,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Inside Tattoo Geneva",
+        "author_photo": "/images/reviews/eco-peinture-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, akribisch und professionell. Ich empfehle Robin uneingeschränkt.",
+        "time": 1774545472,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Alpha Bète",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjUIjnDcJLYN-MHiHuSZfpd621DcIkH3HZyB_-b7IPDm3i7yzVI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "text": "Super Team!\n\nIch habe sie wegen einer Lackausbesserung kontaktiert und sie konnten das noch am selben Tag erledigen – fantastisch!",
+        "time": 1696932089,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

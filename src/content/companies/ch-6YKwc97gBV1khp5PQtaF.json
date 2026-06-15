@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJHV8Kb0cyhEcRUi6Ps8y7N-Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 82,
+    "reviews": [
+      {
+        "author_name": "Anna Micossi",
+        "author_photo": "/images/reviews/dream-color-sagl-lugano/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Haus gerade streichen lassen. Dream Color hat hervorragende Arbeit geleistet; sie waren präzise, ​​pünktlich und haben sehr sorgfältig darauf geachtet, alles in seinen Originalzustand zurückzuversetzen. Vielen Dank an das gesamte Team! Wir können sie wärmstens empfehlen! 🥰 Anna & Matteo",
+        "time": 1780514472,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "luigi",
+        "author_photo": "/images/reviews/dream-color-sagl-lugano/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Qualität, Professionalität und Freundlichkeit – Dream Color garantiert! Ich suchte nach einem ganz besonderen Grünton für meinen Salon, und als ich das Vergnügen hatte, Dario kennenzulernen und mit ihm zu sprechen, verstand er mich sofort. Ich muss zugeben, dass ich sehr anspruchsvoll bin, und meine Erwartungen wurden weit übertroffen. 🙏 Nr. 1",
+        "time": 1756237359,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Selene Ravano",
+        "author_photo": "/images/reviews/dream-color-sagl-lugano/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und hilfsbereites Personal. Die Arbeiten wurden professionell, pünktlich, präzise und mit viel Liebe zum Detail ausgeführt. Wir sind mit dem Ergebnis sehr zufrieden und werden sie bei zukünftigen Arbeiten definitiv wieder beauftragen. Absolut empfehlenswert!",
+        "time": 1778527229,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Roberta Del Sorbo",
+        "author_photo": "/images/reviews/dream-color-sagl-lugano/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe die Badezimmerfliesen aus den 1970er-Jahren mit grauem Harz überzogen – ein großartiger Effekt; die Beschichtung ist kaum sichtbar. Die Arbeiten wurden präzise, ​​sorgfältig und termingerecht ausgeführt. Die verantwortungsbewussten und hilfsbereiten Handwerker waren professionell und effizient.",
+        "time": 1776777404,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Valentina Gandolla",
+        "author_photo": "/images/reviews/dream-color-sagl-lugano/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Absolut zufrieden. Pünktlich, präzise und sehr detailorientiert. Alles wurde sauber hinterlassen, und das Ergebnis ist makellos. Sehr empfehlenswert für alle, die Wert auf Zuverlässigkeit und Qualität legen!",
+        "time": 1763746911,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

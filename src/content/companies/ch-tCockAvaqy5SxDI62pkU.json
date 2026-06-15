@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJyzE7XzE4jkcR306ESXJPztM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "R. Zeugin",
+        "author_photo": "/images/reviews/simu-dr-maler-gmbh-wabern-bei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "EMPFEHLUNG ! Seit rund 20 Jahren Privatkunde beim Projektleiter Thomas Feller ausnahmslos bestens bedient: Bestens beraten stets zu Gunsten von uns Kunden - zuverlässig - Qualitätsarbeit - angenehmer Kontakt. Diplomierte Maler\"innen mit Erfahrung - öfters Schweizer\"innen. Das Resultat stimmt ! Preis/Leistung i.O.\n[ Autor ist zufriedener Privatkunde ohne Geschäftsbeziehung ]",
+        "time": 1769831378,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Dänu B",
+        "author_photo": "/images/reviews/simu-dr-maler-gmbh-wabern-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir durften zum zweiten Mal mit dem Team von Simu der Maler arbeiten. Vom ersten Kontakt bis zu der Auftragsausführung klappt es schlicht perfekt. Wir sind sehr zufrieden und empfehlen sie gerne weiter. Danke an das Team für die tolle Ausführung.",
+        "time": 1770984155,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Evelina Lüthi",
+        "author_photo": "/images/reviews/simu-dr-maler-gmbh-wabern-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Bauherrschaft : Riesen /Piechele und ich ( Architektur Büro Evelina Lüthi)\nsind sehr zufrieden mit den\nFassaden, Untersichten und Sockel Arbeiten Ihrer Firma.\nWir bedanken uns auch für Ihren Einsatz, da das Wetter nicht gerade\neinfach war und es von Ihnen Allen viel Geduld und mehrmaliges Kommen und Gehen verursacht hat.\nBauleitung und Mitarbeiter sind  kompetent , sehr freundlich und hilfsbereit.\nHerzlichen Dank",
+        "time": 1627311036,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "ruedi bösch",
+        "author_photo": "/images/reviews/simu-dr-maler-gmbh-wabern-bei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Während einer Woche hat Simus Team unserer Wohnung einen neuen Anstrich gegeben. Eine perfekte und sorgfältige Arbeit -- nicht nur auf den ersten Blick! Und dies unter erschwerten Bedingungen, da in der neuen Wohnung schon viele Möbel standen. Vielen Dank! Unsere fünf Punkte habt ihr und die vorbehaltlose Weiterempfehlung ebenfalls.",
+        "time": 1758614192,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Isabelle Steiner",
+        "author_photo": "/images/reviews/simu-dr-maler-gmbh-wabern-bei-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das mit Abstand beste Malergeschäft weit und breit. Wir sind mehr als nur zufrieden mit den getätigten Arbeiten. Herr Peluso ist extrem freundlichen, zuvorkommend und vor allem sehr sehr gut in seinem Handwerk",
+        "time": 1741716975,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

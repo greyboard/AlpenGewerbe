@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF5EahKE-kEcRJJnVRWfNwVM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Björn Sundin",
+        "author_photo": "/images/reviews/w-s-elektro-ag-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Im Zuge der Renovierung unserer Wohnung im Herbst 2025 beauftragten wir die Firma W + S Elektro AG mit verschiedenen Elektroarbeiten. Wir sind mit der Arbeit sehr zufrieden, die Firma arbeitet kompetent und termingerecht. Die Kommunikation war unkompliziert, freundlich und offen und wir wurden gut beraten. Wir werden die Firma W + S Elektro AG zukünftig definitiv wieder beauftragen.",
+        "time": 1768298907,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "atdammweg44",
+        "author_photo": "/images/reviews/w-s-elektro-ag-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Habe, ohne bereits Kundin der Firma zu sein, angerufen, und mein Problem geschildert, mit der Bitte, in der kommenden Woche mal jemanden vorbei zu schicken. An Telefon wurde mir genau und geduldig erklärt, was ich schon mal machen kann, so dass die negativen Auswirkungen für uns möglichst gering sind. Das hat prima geklappt. Herzlichen Dank!",
+        "time": 1772441711,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Raphi",
+        "author_photo": "/images/reviews/w-s-elektro-ag-aarau/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Die Arbeit wurde sauber gemacht, ansonsten sind wir leider unzufrieden. Geschätzter Preis lwar schlussendlich fast doppelt so hoch in der Endabrechnung. Für knapp 10min Arbeit wurden 30min verrechnet. Arbeiter war ziemlich das Gegenteil von freundlich. Würde aufgrund dieser Erfahrung keine Weiterempfehlung geben.",
+        "time": 1742904647,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "M",
+        "author_photo": "/images/reviews/w-s-elektro-ag-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professionell, hat uns aus der Klemme geholfen, indem er innerhalb von 2 Tagen nach Auftragsanfrage Schlitze und Kabel verlegt hat. Dadurch konnte die Küche im zeitlichen Rahmen fertig gestellt werden. Danke!\n\nAuch nach anbohren eines Kabels sehr schnelle und unkomplizerte Hilfe/Reparatur des entstandenen Schadens. einfach Top",
+        "time": 1665901495,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Josef Meyer",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjUd5iRs5AHUQ0HM292mVQGUIN6DDBsMhF1_T-YRU--Ogrlm--dE=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "text": "Gestern brauchte ich dringend sogenannte WAGO-Klemmen. Zufällig war ich in der Nähe vom W+S Elektro AG und fragte, ob sowas erhältlich wäre. Ganz unbürokratisch wurde ich gefragt, wieviele von welchem Typ ich brauche. Ich erhielt das Gewünschte in die Hand gedrückt, kostenlos!\nMein Tag war gerettet!",
+        "time": 1516197859,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

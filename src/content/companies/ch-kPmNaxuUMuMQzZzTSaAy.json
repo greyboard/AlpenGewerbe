@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJt4yRQgD1mkcRXogfzaSyUaM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 42,
+    "reviews": [
+      {
+        "author_name": "Gisela Isler",
+        "author_photo": "/images/reviews/electro-solution-gmbh-ermatingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "-Arbeiten wurden termingerecht und top ausgeführt\n- Saverio und Peter sind hilfsbereit, freundlich und sehr kompetent\n-gute Ideen für optimale Beleuchtung innen und aussen\n-werden sie zu 200% weiterempfehlen",
+        "time": 1759419645,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Maurizio Celi",
+        "author_photo": "/images/reviews/electro-solution-gmbh-ermatingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Electro Solution in Kreuzlingen hat mich absolut überzeugt!\nSehr freundlich und kompetenter Service, schnelle Terminvergabe und saubere Arbeit.\nAlle meine Wünsche wurden professionell umgesetzt und auch bei Rückfragen wurde sich Zeit genommen. Preis-Leistung top.\nIch kann Electro Solution nur weiterempfehlen!",
+        "time": 1756455994,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Edi Lazraj",
+        "author_photo": "/images/reviews/electro-solution-gmbh-ermatingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und zuverlässige Elektriker! Die Firma überzeugt mit fachlicher Kompetenz, einer hervorragenden Beratung und einer sauberen, sorgfältigen Ausführung der Arbeiten. Besonders schätze ich die gute Erreichbarkeit und den freundlichen Kundenservice. Hier wird Wert auf Qualität und Kundenzufriedenheit gelegt. Klare Empfehlung!",
+        "time": 1741343681,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Laurence Fischer",
+        "author_photo": "/images/reviews/electro-solution-gmbh-ermatingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma Electro Solution GmbH/Saverio hat großartige Arbeit geleistet. Er hat die ideale Lampe für mich gefunden und sie sehr sorgfältig installiert. Der ganze Prozess war effizient, professionell und sehr freundlich. Ich bin sehr zufrieden mit der Arbeit und würde ihn jedem empfehlen!",
+        "time": 1714045979,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Eti H.",
+        "author_photo": "/images/reviews/electro-solution-gmbh-ermatingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kann nur positives über diese Firma sagen, die Mitarbeiter sind sehr Kompetent und können über sämtliche Bereiche der Branche gut Beraten. Die Ladestationen fürs Auto wurden professionell installiert und in Betrieb genommen, funktioniert einwandfrei.\nAuf Anfragen wird sehr schnell reagiert, kann die Firma nur weiter empfehlen.",
+        "time": 1726408730,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

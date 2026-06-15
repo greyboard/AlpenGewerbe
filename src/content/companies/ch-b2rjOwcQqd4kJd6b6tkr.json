@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJY7VM_t5mrEcRKKEM57QXGnM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 09:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 09:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Alias",
+        "author_photo": "/images/reviews/sebastian-eppler-heizung-sanitaer-kundendienst-tessin/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Wartungsvertrag wird nicht umgesetzt. Es wurde nicht zurückgerufen für eine Terminvereinbarung. Anrufe werden nicht beantwortet. Nachrichten auf der Mailbox werden wohl auch nicht abgehört. Das geht jetzt seit über 4 Wochen. Werde mir eine andere Firma suchen.",
+        "time": 1764506990,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Franziska König-Möller",
+        "author_photo": "/images/reviews/sebastian-eppler-heizung-sanitaer-kundendienst-tessin/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Firma! Sie versuchen alle Wünsche zu erfüllen und sind stets super nett und kompetent. Die Mitarbeiter haben immer schnell und sauber gearbeitet und es wurde immer zeitnah ein Termin gefunden. Ganz toller Kundenservice! 😀",
+        "time": 1729339319,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "H. G.",
+        "author_photo": "/images/reviews/sebastian-eppler-heizung-sanitaer-kundendienst-tessin/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir möchten der Firma Eppler danke sagen. Nach Einbau der Heizung vor 4 Jahren hatten wir leider schon eine Reparatur zu beklagen. Der Wärmetauscher musste ersetzt werden. Da Garantie schon verstrichen und die Heizung auch noch nicht so alt hat die Firma Eppler keine Mühen gescheut, sich mit dem Hersteller in Verbindung gesetzt.\nDer Hersteller hat sich an die Kosten beteiligt was nicht zu erwarten war.\nDanke an die Firma Eppler hierfür.",
+        "time": 1689507371,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Anja Schmidt",
+        "author_photo": "/images/reviews/sebastian-eppler-heizung-sanitaer-kundendienst-tessin/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr nette Dame am Telefon und es wurde schnell ein Termin mit dem Einbau möglich gemacht. Ein ebenfalls netter Mitarbeiter kam dann auch super pünktlich. Alles bestens und ich kann mich nicht beschweren.",
+        "time": 1560235413,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "RE SI",
+        "author_photo": "/images/reviews/sebastian-eppler-heizung-sanitaer-kundendienst-tessin/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir brauchten Hilfe , bei  der Reparatur unserer Ölheizung . Die Firma  S. Eppler hat uns schnell und professionell geholfen. Wir sind mit der ausgeführten Arbeit sehr zufrieden.",
+        "time": 1699473342,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

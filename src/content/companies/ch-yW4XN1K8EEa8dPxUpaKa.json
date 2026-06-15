@@ -1,7 +1,7 @@
 {
   "id": "ch-yW4XN1K8EEa8dPxUpaKa",
   "slug": "gasser-electric-contractor-ltd-ibach",
-  "name": "Gasser Electric Contractor Ltd.",
+  "name": "Gasser Elektro-Unternehmung AG",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAcIKyy5OhUcRhG14hMvmfR0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Timotheus Abegg",
+        "author_photo": "/images/reviews/gasser-electric-contractor-ltd-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben uns eine neue Jura E8 gekauft. Die Beratung war sehr gut und zuvorkommend. Frau Ferrari überzeugte uns durch ihre Fachkompetenz und Freundlichkeit. Als wir die Kaffeemaschine abholten, wurde uns diese durch Frau Lussmann bis ins letzte Detail erklärt und wir konnten die Inbetriebnahme gleich vor Ort vornehmen.\n\nSo macht es Spass und deshalb kaufe ich gerne bei einem Fachhändler! Weiter so...",
+        "time": 1707307523,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Adi G.",
+        "author_photo": "/images/reviews/gasser-electric-contractor-ltd-ibach/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Eigentlich null Sterne. Sachen werden ersetzt, wo einwandfrei sind. Bei einer defekten Glühbirne kompletten Bewegungmelder tauschen ohne den Defekt zu suchen. Hier ist man richtig wenn man veräppelt werden will. Dazu kommt das der Thermin nicht eingehalten wird ohne sich zu melden.",
+        "time": 1730394785,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Harry Suter",
+        "author_photo": "/images/reviews/gasser-electric-contractor-ltd-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Suchte Hilfe und eine neue \"alte\" Birnenfassung für eine antike Aussenlampe. Sehr nette Werkstattmitarbeiter und - Lehrlinge suchten im Kellerlager nach einem solch alten Teil, warden fündig und verkauften es mir. - und das sogar und n der Mittagszeit!    Bravo und vielen Dank!",
+        "time": 1689369502,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Katharina Müller",
+        "author_photo": "/images/reviews/gasser-electric-contractor-ltd-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer wenn ich vor einem elektrischen oder sanitären Problem stehe, wird mir von den Mitarbeitern der Fa. Gasser schnell, sehr kompetent und freundlich geholfen 🫶. Danke vielmals da dafür",
+        "time": 1739822038,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Reto Schürpf",
+        "author_photo": "/images/reviews/gasser-electric-contractor-ltd-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gasser Elektro hat bei unserem Firmengebäude alles was mit Strom zu tun hat herrvorragend umgesetzt. Ob es die Planung ist, die Montage oder die Nachbetreuung, einfach sensationell.\nDie KNX-Steuerung, die Telefonanlage, unser Maschinenpark mit Starkstromanschlüssen wie auch den wichtigen Allstromsensitiven FI-Schaltern oder das nachhaltige und vorbildliche Beleuchtungskonzept wirklich alles echt super. Gerne gebe ich auch persönlich detailliert Auskunft.",
+        "time": 1687973573,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

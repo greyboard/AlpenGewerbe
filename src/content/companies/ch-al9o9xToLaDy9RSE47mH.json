@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpbSgetAfm0cRyZxdqEPpNX4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Lord Wiesel",
+        "author_photo": "/images/reviews/werner-eugster-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit- gerne wieder👍🏻 Saubere und spetitive Ausführung. Ein Lob an die Monteure 👍🏻.",
+        "time": 1691409020,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicholas Ojwang",
+        "author_photo": "/images/reviews/werner-eugster-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Guter Service, freundliche Leute",
+        "time": 1775109699,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Anita Krattinger",
+        "author_photo": "/images/reviews/werner-eugster-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1780997073,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Tino Di Florio",
+        "author_photo": "/images/reviews/werner-eugster-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1561960220,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Mirand Mazreku",
+        "author_photo": "/images/reviews/werner-eugster-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1554277021,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

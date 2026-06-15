@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2-Jf6WppkEcR-8jFftyypB0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marianne Sonderegger",
+        "author_photo": "/images/reviews/arena-keramik-boettstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Ausführung Sanierung Dusche - kompetente Beratung und super Job!",
+        "time": 1692697480,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Curò Vital",
+        "author_photo": "/images/reviews/arena-keramik-boettstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit mit excellentem Ergebnis. Ein super Vater-Sohn-Team. Sehr exakt und sehr gute Lösungen.\nRundum sehr zufrieden.",
+        "time": 1749640604,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Besim Sylejmani",
+        "author_photo": "/images/reviews/arena-keramik-boettstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann die Arenakeramik  Kleindöttingen weiter empfehlen. Preis Leistung und Qualität. Sehr Freundliche und perfekter Service unkompliziert, flexibel. Absolut empfehlenswert danke :-)",
+        "time": 1576181082,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "PCWIN KALLABA",
+        "author_photo": "/images/reviews/arena-keramik-boettstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma ARENA Keramik empfehle ich weiter! Alles Perfekt. Besten Dank und Beste Grüsse.",
+        "time": 1756234026,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Daniel Siegfried",
+        "author_photo": "/images/reviews/arena-keramik-boettstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Arbeit Qualität und sehr Pofessionell. Danke gerne wieder.",
+        "time": 1589712331,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-dM9hCWn11WPfNSyksnue",
   "slug": "pretot-sa-le-locle",
-  "name": "Prétôt SA",
+  "name": "Prétôt S.A.",
   "branchen": [
     "dachdecker"
   ],
@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnzBPSoTljUcRJkLrwYNqF0o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Sophie Fontana",
+        "author_photo": "/images/reviews/pretot-sa-le-locle/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr schnelles und effizientes Unternehmen, tadellose Arbeit, absolut empfehlenswert!",
+        "time": 1646166727,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lydia Favre",
+        "author_photo": "/images/reviews/pretot-sa-le-locle/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Dach meines Schuppens ist wunderschön. Saubere Arbeit, hochwertige Materialien. Ich bin sehr zufrieden.",
+        "time": 1650525579,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sylvain Baumgartner",
+        "author_photo": "/images/reviews/pretot-sa-le-locle/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter, familiengeführter Dachdecker- und Blechbearbeitungsbetrieb. Arbeiten nach höchsten Standards.",
+        "time": 1638875292,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Camille Guignard",
+        "author_photo": "/images/reviews/pretot-sa-le-locle/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell und zuverlässig nach dem Sturm",
+        "time": 1693669364,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Georges Amey",
+        "author_photo": "/images/reviews/pretot-sa-le-locle/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert",
+        "time": 1560015152,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

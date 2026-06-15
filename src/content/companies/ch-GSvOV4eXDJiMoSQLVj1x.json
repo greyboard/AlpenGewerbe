@@ -1,7 +1,7 @@
 {
   "id": "ch-GSvOV4eXDJiMoSQLVj1x",
   "slug": "menuiserie-de-la-vallee-sa-delemont",
-  "name": "Menuiserie de la Vallée SA",
+  "name": "Menuiserie de la Vallée J.-C. et M. Frésard SA",
   "branchen": [
     "zimmermann"
   ],
@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJL5HBRc7nkUcR_i088nC1Uig",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 06:45–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 06:45–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 06:45–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 06:45–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Delia G.",
+        "author_photo": "/images/reviews/menuiserie-de-la-vallee-sa-delemont/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, sehr freundliche und schnelle Mitarbeiter!",
+        "time": 1666104277,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Yan Zimmermann",
+        "author_photo": "/images/reviews/menuiserie-de-la-vallee-sa-delemont/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sorgfältige Arbeit... sauber und schnell",
+        "time": 1490593533,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Johan Keller",
+        "author_photo": "/images/reviews/menuiserie-de-la-vallee-sa-delemont/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1640037160,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

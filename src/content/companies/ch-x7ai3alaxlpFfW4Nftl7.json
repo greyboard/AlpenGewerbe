@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJVVVlYLVikEcR3CLVPgs31xQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "eurofit Schaffhausen",
+        "author_photo": "/images/reviews/pletscher-metallbau-ag-beringen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte mich herzlich bei Metallbau Pletscher bedanken. Vom ersten Telefonat bis zur Besichtigung vor Ort verging kaum eine Stunde – ein Service, den man in dieser Form selten erlebt. Der Umgang war sowohl am Telefon als auch persönlich sehr höflich und zuvorkommend.\nDie Arbeiten an unserem Trainingsgerät sowie am Handlauf wurden sehr sorgfältig, fachgerecht und zuverlässig ausgeführt.\nIch bin mit dem Ergebnis mega zufrieden und empfehle die Firma mit bestem Gewissen weiter.\nMonica Klingenfuss, Geschäftsführerin eurofit",
+        "time": 1763656066,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Pascal Freiburghaus",
+        "author_photo": "/images/reviews/pletscher-metallbau-ag-beringen/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Also en super Neubau hochsicherheitstrakt, aber wo mir Sich kann amelde zur Alieferig 🤷🏼‍♂️. Es Telefonnr wo keine abnimmt. Neu isch nöd immer besser",
+        "time": 1754565264,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Matthias Stöckli",
+        "author_photo": "/images/reviews/pletscher-metallbau-ag-beringen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der hohe Qualitätsanspruch erkennt man bei jedem Kontakt, der stets auch von respektvollem Umgang geprägt ist.",
+        "time": 1634793123,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Paul Strasser",
+        "author_photo": "/images/reviews/pletscher-metallbau-ag-beringen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Einer der wenigen Metallbauer, der unsere zum Teil komplexen Projekte sauber umsetzt und das erst noch zu fairen Preisen.",
+        "time": 1639153886,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJN_FQQhDHhEcRQ7U9krM_qbk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Martin Rusterholz",
+        "author_photo": "/images/reviews/schoenholzer-ag-chur/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Der detaillierte und schriftliche Kostenvoranschlag wurde schlussendlich um satte 19% überschritten! Ein Entgegenkommen wurde seitens Schönholzer locker vom Tisch gewischt. Ich würde einen anderen Elektriker beauftragen, der sich an seinen Kostenvoranschlag weitestgehend hält oder zumindest bereit ist, über einen Kompromiss zu verhandeln. Die Schönholzer AG werde ich auf jeden Fall nicht mehr berücksichtigen.",
+        "time": 1601115805,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Reto Schwarz",
+        "author_photo": "/images/reviews/schoenholzer-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Elektriker, der bei uns zuhause war.",
+        "time": 1533631378,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "sarah",
+        "author_photo": "/images/reviews/schoenholzer-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1633790341,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Andreas von Arx",
+        "author_photo": "/images/reviews/schoenholzer-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1634142722,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "J DS",
+        "author_photo": "/images/reviews/schoenholzer-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1751810275,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJKyp_QPkr3GMR5YdMETA3mnk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Daniele",
+        "author_photo": "/images/reviews/gartenbau-frauenfeld-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe innerhalb von 24H eine Offerte erhalten. Preis Leistung Top. Die Arbeit wurde perfekt gemäss Offerte umgesetzt. Zu empfehlen für alle die einen Gartenbauer in Frauenfeld suchen.",
+        "time": 1766817555,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Reto Müller",
+        "author_photo": "/images/reviews/gartenbau-frauenfeld-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich möchte Robi und dem Team danken da alle meine Wünsche für den Pool und dem Sitzplatz perfekt umgesetzt wurden.\nich bin mit Gartrnbau Frauenfeld sehr zufrieden und übergebe gerne auch gleich den Unterhalt für den rest des Gartens. Danke und bis bald.",
+        "time": 1776416194,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Fausto",
+        "author_photo": "/images/reviews/gartenbau-frauenfeld-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen dank mein Garten und meine Einfahrt sehen super aus. Die richtige Firma für jeden der einen Gartenbauer in Frauenfeld oder Umgebung sucht.",
+        "time": 1768841336,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Nadia Pasciullo",
+        "author_photo": "/images/reviews/gartenbau-frauenfeld-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hat alles super funktioniert von der Offerte bis zum Abschluss. Danke viel mal. Für alle zu empfehlen die einen Gartenbauer in Frauenfeld und Umgebung suchen.",
+        "time": 1767727143,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Martin Fifa Pro Club (Martin)",
+        "author_photo": "/images/reviews/gartenbau-frauenfeld-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Haben unseren Garten von Gartenbau Frauenfeld machen lassen und sind super zufrieden! Faire Preise, saubere Arbeit und das Team war echt sympathisch. Alles wurde pünktlich fertig und sieht top aus.",
+        "time": 1753013886,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

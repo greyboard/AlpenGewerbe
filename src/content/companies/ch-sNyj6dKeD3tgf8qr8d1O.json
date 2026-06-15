@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJxe0D7GH8j0cRbJRw-4sb4-M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Filip Tunjic",
+        "author_photo": "/images/reviews/mak-metall-und-blechbearbeitung-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top-Unternehmen – absolute Empfehlung!\nDie MAK GmbH überzeugt auf ganzer Linie! Von der ersten Anfrage mit Ivan Martinovic bis zur finalen Lieferung lief alles reibungslos und professionell ab. Das Team ist äußerst kompetent, freundlich und zuverlässig. Besonders beeindruckt hat mich die Präzision in der Metall- und Blechbearbeitung – jedes Teil passt perfekt und entspricht exakt den Vorgaben. Auch Sonderwünsche wurden ohne Probleme umgesetzt. Qualität, Termintreue und Kundenservice sind hier wirklich auf höchstem Niveau. Ich kann die MAK GmbH uneingeschränkt weiterempfehlen!",
+        "time": 1762442604,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Eduard Lazraj",
+        "author_photo": "/images/reviews/mak-metall-und-blechbearbeitung-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Unternehmen! Kompetent und zuvorkommend. Äusserst empfehlenswert.",
+        "time": 1740175113,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marin V.",
+        "author_photo": "/images/reviews/mak-metall-und-blechbearbeitung-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelle Beratung und saubere Arbeit. Wir freuen uns sehr über die einzigartige Geburtstafel. Besten Dank",
+        "time": 1661284311,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Benjamin Jazvic",
+        "author_photo": "/images/reviews/mak-metall-und-blechbearbeitung-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Firma. Immer kompetent!",
+        "time": 1709027231,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Arian Bislimi",
+        "author_photo": "/images/reviews/mak-metall-und-blechbearbeitung-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einfach & unkompliziert! Danke dafür.",
+        "time": 1569406461,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

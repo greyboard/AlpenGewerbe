@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJH8kfFU0em0cRT1esmOg1KPU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marion Merz",
+        "author_photo": "/images/reviews/stampfl-co-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuvorkommend, Freundlich, Kompetent ! Wenn was anfällt, immer wieder gerne ! Decke schräg Lampe hängt grade👏👏",
+        "time": 1636736525,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Peter (Peter)",
+        "author_photo": "/images/reviews/stampfl-co-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr seriöses Elektrofachgeschäft.\nTermine werden eingehalten.\nPreise sind transparent.",
+        "time": 1638378190,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Walter Stampfl",
+        "author_photo": "/images/reviews/stampfl-co-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gutes Fachgeschäft sehr kompetentes langjähriges  Personal ...super",
+        "time": 1545175397,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "zutru tv",
+        "author_photo": "/images/reviews/stampfl-co-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Rasch das Problem gelöst. Freundlicher Mitarbeiter.",
+        "time": 1728367402,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gökhan Polat",
+        "author_photo": "/images/reviews/stampfl-co-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetend. TOP!!!",
+        "time": 1662618287,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJmXsuI2ZDhUcRW4mgvxNtiiI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Andreas Riedi",
+        "author_photo": "/images/reviews/maleri-martina-riedi-seedorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert von unserer MaleRin! Sie hat unser ganzes Haus tapeziert und gestrichen – und das Ergebnis ist einfach perfekt. Sie arbeitet sehr präzise und mit viel Liebe zum Detail.",
+        "time": 1771269746,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Catherine Schuler",
+        "author_photo": "/images/reviews/maleri-martina-riedi-seedorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "War sehr zufrieden mit der ausgeführten Maler und Tapeten Arbeiten für die neuen Praxisräumlichkeiten. Martina hat einen guten Blick und Verständnis für Farben und das Raumkonzept. Geht auf individuelle Wünsche ein und setzt diese wunschgemäss einwandfrei um. Sehr zum empfehlen!",
+        "time": 1734864829,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mirjam Briker",
+        "author_photo": "/images/reviews/maleri-martina-riedi-seedorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit dem Ergebnis (Tapete) und können Martina von Herzen weiterempfehlen. Kompetent, freundlich & unkompliziert. Danke!",
+        "time": 1714543199,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrea Tresch",
+        "author_photo": "/images/reviews/maleri-martina-riedi-seedorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetent, Unkompliziert, Flexibel, Abmachungen werden eingehalten\nWir sind sehr zufrieden und können und werden die MalerRi weiterempfehlen.",
+        "time": 1654271883,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Natascha Haider",
+        "author_photo": "/images/reviews/maleri-martina-riedi-seedorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute und saubere Arbeit. Immer wieder gerne.",
+        "time": 1740346069,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

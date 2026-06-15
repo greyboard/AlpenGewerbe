@@ -1,7 +1,7 @@
 {
   "id": "ch-03tnpaPKbKe9MOfPNSmq",
   "slug": "marinaro-ag-luzern",
-  "name": "Marinaro AG",
+  "name": "Marinaro AG - Gipsergeschäft Luzern",
   "branchen": [
     "gipser"
   ],
@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAQDQVTf7j0cRuv7ruM2SOzA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Jens Oliver Baumann",
+        "author_photo": "/images/reviews/marinaro-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top, Unkompliziertes Fachpersonal.\nSchnell und Sauber.\nSehr Freundlich… gerne wieder!",
+        "time": 1676391006,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alessandro Friedheim",
+        "author_photo": "/images/reviews/marinaro-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bester Gipser.",
+        "time": 1665783956,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJM33O3l4thUcR9X3_oVjICes",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Ruedi Züger",
+        "author_photo": "/images/reviews/d-aurelio-gipsergeschaeft-gmbh-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Stefano hat die ganzen Gipserarbeiten mit seinem Team bei meinem Umbau übernommen. Zusätzlich hat er auch immer ausgeholfen bei allen Themen die spontan noch erledigt werden musste. Zuverlässig und zuvorkommen.",
+        "time": 1743583863,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "E. Bertalan",
+        "author_photo": "/images/reviews/d-aurelio-gipsergeschaeft-gmbh-netstal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1748359139,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

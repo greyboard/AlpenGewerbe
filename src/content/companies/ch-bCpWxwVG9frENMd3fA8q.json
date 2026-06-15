@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3wr1csy5kUcRJH_4QxY6qQE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Jean-Marc R.",
+        "author_photo": "/images/reviews/elektro-gebhardt-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Kontakt, sei es am Telefon oder die Mitarbeiter vor Ort. Die Arbeit wurde ausgezeichnet erledigt, ich kann diese Firma sehr empfehlen!",
+        "time": 1758284719,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "MrHzi",
+        "author_photo": "/images/reviews/elektro-gebhardt-ag-basel/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Ich brauchte eine neue Sicherung und holte sie mir dort weil im gleichen Quartier gelegen. Kosten: 2 Fr.\nErst hinterher bemerkt, dass man an anderen Orten für 2.50 eine 5er-Packung bekommt.\nNachtrag: Inzwischen hatte ich einen (nicht von mir bestellten) Handwerker der Firma im Haus, und der Einsatz lief einwandfrei ab. Durchschnittsnote steigt.",
+        "time": 1725900079,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Heide Decurtins",
+        "author_photo": "/images/reviews/elektro-gebhardt-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich war schon einige Male dort für Installation oder Reparaturen. Freundliche und speditive Bedienung - und auch bei einem Spezialwunsch wurde mir innert Kürze geholfen. Kann diese Firma wirklich empfehlen.",
+        "time": 1715507125,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Basel Ba",
+        "author_photo": "/images/reviews/elektro-gebhardt-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Zuverlässiger Service. Wir wurden vorerst zwecks eines Umbaus unseren Mehrfamilienhauses beraten und später wurde alles zuverlässig und kompetent umgesetzt. Die Eletriker haben sich sehr viel Mühe gegeben und haben sauber gearbeitet. Wir sind vollkommen zufrieden und können Gebhardt eleggtrisch weiterempfehlen.",
+        "time": 1615901910,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Shania",
+        "author_photo": "/images/reviews/elektro-gebhardt-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Firma Gebhardt eleggtrisch ist sehr zuverlässig, hat eine Top Qualität und guter Service. Die Mitarbeiter sind in den fachlichen Bereichen sehr kompetent. Ich kann diese Firma nur weiterempfehlen!",
+        "time": 1573908469,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

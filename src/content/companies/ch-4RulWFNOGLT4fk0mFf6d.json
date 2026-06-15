@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFTAmIr25kUcR59EwrUy9YSw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Jan Welker",
+        "author_photo": "/images/reviews/elektro-profis-gmbh-basel-elektroinstallationen-smarthome-alarmanlagen-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Elektro Profis haben die gesamten Elektroarbeiten während der Kernsanierung unseres Einfamilienhauses ausgeführt. Alle Mitarbeiter sind sehr nett, der Chef geht auf individuelle Wünsche ein und die Firma leistet ausgezeichnete Arbeit. Die Kosten hielten sich im vorher kommunizieren Rahmen.\n\nGerne wieder.",
+        "time": 1617177211,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Chris Wacker",
+        "author_photo": "/images/reviews/elektro-profis-gmbh-basel-elektroinstallationen-smarthome-alarmanlagen-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Pünktlich, freundlich und kompetent, so wie ich es von einem Handwerker erwarte. Kostenvoranschlag wurde nicht überschritten (auch keine Selbstverständlichkeit)\n\nIch werde diese Firma in meinem Handy speichern",
+        "time": 1429687692,
+        "relative_time_description": "vor 11 Jahren"
+      },
+      {
+        "author_name": "Angel Georgiev",
+        "author_photo": "/images/reviews/elektro-profis-gmbh-basel-elektroinstallationen-smarthome-alarmanlagen-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753970481,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Рома Сабада",
+        "author_photo": "/images/reviews/elektro-profis-gmbh-basel-elektroinstallationen-smarthome-alarmanlagen-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672168753,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Георги Георги",
+        "author_photo": "/images/reviews/elektro-profis-gmbh-basel-elektroinstallationen-smarthome-alarmanlagen-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637497461,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

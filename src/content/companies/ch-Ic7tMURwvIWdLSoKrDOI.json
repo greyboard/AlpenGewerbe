@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzTVUoKD7j0cRKO0-bqm5yMo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:45 Uhr",
+    "Dienstag: 07:00–16:45 Uhr",
+    "Mittwoch: 07:00–16:45 Uhr",
+    "Donnerstag: 07:00–16:45 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Astrid Emmenegger",
+        "author_photo": "/images/reviews/castelli-ag-luzern-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich wurde sehr professionell von Herr Rieder beraten. Auch die Ausführung der Malerarbeiten durch die Herren Stadler und Yuschin wurde sehr gut und professionell umgesetzt. Die Malerei kann ich allen nur wärmstens empfehlen! Ich möchte mich an dieser Stelle nochmals herzlich für die tolle Arbeit bedanken, es sieht wunderschön aus. Ihr seid die besten! Von 10 Punkten vergebe ich 12!!😍",
+        "time": 1770722769,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Valentina Wetter",
+        "author_photo": "/images/reviews/castelli-ag-luzern-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Maler-Team Castelli hat bei der WETTER Gruppe mehrere Wände in den Sitzungszimmer repariert und gestrichen. Von der Beratung bezüglich Farbkonzept, bis hin zur Ausführung war alles in super Qualität. Ein sympathisches Team mit einem professionellen Auftritt. Wir haben Freude an unseren farbigen Wänden - Danke!",
+        "time": 1696605331,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "K. S",
+        "author_photo": "/images/reviews/castelli-ag-luzern-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Castelli hat meine Erwartungen in jeder Hinsicht übertroffen. Von Anfang an war die Kommunikation mit dem Team äusserst professionell und prompt. Die Qualität ihrer Arbeit ist beeindruckend, und sie haben unsere Räume in kürzester Zeit in ein wahres Kunstwerk verwandelt. Die Mitarbeiter waren stets höflich und zuverlässig. Ich kann dieses Maler-Geschäft uneingeschränkt empfehlen und vergebe fünf von fünf Sternen.",
+        "time": 1698006146,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Enrico Aubry",
+        "author_photo": "/images/reviews/castelli-ag-luzern-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut begeistert von der Arbeit der Maler Castelli AG! Unter der Leitung eines äusserst kompetenten jungen Chefs und unterstützt von einem fantastischen Team haben sie unsere anspruchsvollen Malerarbeiten mit Bravour gemeistert. Die Qualität ihrer Arbeit ist herausragend und ihr Engagement für Kundenzufriedenheit ist spürbar. Wir können sie uneingeschränkt empfehlen und werden sicherlich bei zukünftigen Projekten wieder auf sie zurückkommen.",
+        "time": 1708640125,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Finn Altstetter",
+        "author_photo": "/images/reviews/castelli-ag-luzern-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben der Castelli AG bereits mehrfach Aufträge erteilt und waren jedes Mal von den Ergebnissen beeindruckt. Die Qualität ihrer Arbeit ist durchweg hervorragend und zeugt von grosser Professionalität. Es ist eine Freude, mit einem so zuverlässigen Partner zusammenzuarbeiten. Wir freuen uns auf weitere gemeinsame Projekte.",
+        "time": 1706806778,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

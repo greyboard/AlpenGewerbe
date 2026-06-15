@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ31adt-zMDoQRKTgePJvlLrI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Gabriel Dreier",
+        "author_photo": "/images/reviews/fliesen-exakt-hoechst/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sinan und seine Mitarbeiter haben bei uns das Bad und das Gäste WC neu verfliest und waren dabei immer verlässlich, pünktlich, freundlich und sehr gründlich. Sinan arbeitet wirklich mit Leidenschaft und Liebe zum Detail. Beinahe als würde er sein eigenes Bad renovieren. Wir können Fliesen Exakt wirklich nur wärmstes empfehlen.\n\nSie versprechen Präzision und liefern Perfektion.",
+        "time": 1772175439,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Nevzat",
+        "author_photo": "/images/reviews/fliesen-exakt-hoechst/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellente Arbeit auf höchstem Niveau!\nDie Ausführung der Fliesenarbeiten war absolut erstklassig. Von der Beratung über die Planung bis zur finalen Umsetzung wurde äußerst präzise, sauber und zuverlässig gearbeitet. Die Fliesen sind perfekt verlegt, Fugen exakt, Übergänge sauber und das Gesamtbild wirkt hochwertig und langlebig. Termine wurden eingehalten und auf Details wurde großer Wert gelegt. Qualität, Fachkompetenz und Professionalität auf höchstem Niveau – uneingeschränkt empfehlenswert.",
+        "time": 1770221969,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Mücahit Güner",
+        "author_photo": "/images/reviews/fliesen-exakt-hoechst/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und professionelle Arbeit. Extrem zuverlässig, pünktlich und mit umfassenden Kenntnissen auch in anderen Bereichen. Das Ergebnis ist perfekt – klare Weiterempfehlung!",
+        "time": 1766000318,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Margit B.",
+        "author_photo": "/images/reviews/fliesen-exakt-hoechst/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wirklich exakt gearbeitet.  Zur besten Zufriedenheit gearbeitet und kann nur weiter empfohlen werden.",
+        "time": 1768833794,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Sedat Güner",
+        "author_photo": "/images/reviews/fliesen-exakt-hoechst/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super flexibel und saubere Arbeit👍🏻💪🏻👏🏻👏🏻\nDanke Sinan",
+        "time": 1774020815,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

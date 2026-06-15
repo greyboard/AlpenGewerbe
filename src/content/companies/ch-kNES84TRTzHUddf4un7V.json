@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJHT4uqocnjkcRkNWNS38phhQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Thomas von Arx",
+        "author_photo": "/images/reviews/bartlome-gartenbau-und-unterhalt-luesslingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die einwandfreie Erneuerung unseres Vorplatzes. Termine und Preis wurden eingehalten. Ein freundliches und sympathisches Team.",
+        "time": 1770114597,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "markus mueller",
+        "author_photo": "/images/reviews/bartlome-gartenbau-und-unterhalt-luesslingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig und sauber gearbeitet. Baum top geschnitten, alles ordentlich hinterlassen. Empfehlenswert!",
+        "time": 1760952349,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Lorenz Käser",
+        "author_photo": "/images/reviews/bartlome-gartenbau-und-unterhalt-luesslingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von A-Z eine tolle Erfahrung. Der Preis für unser Projekt war fair und die Termine und Vereinbarungen wurden stets eingehalten. Die Arbeit wurde  sehr sorgfältig und professionell umgesetzt und die Baustelle sogar während den Mittagspausen stets aufgeräumt hinterlassen. Bei Stefan und seinem Team merkt man, dass die Stimmung toll ist und sie Freude an der Arbeit haben. Bodenständige, zuverlässige und freundliche Menschen...\nWenn alle Handwerker so arbeiten würden, dann wäre Bauen und Umbauen ein grosser Spass!",
+        "time": 1597428434,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Mathias Frick",
+        "author_photo": "/images/reviews/bartlome-gartenbau-und-unterhalt-luesslingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Unser Haus Gärtner seit Jahren der uns noch nie im Stich gelassen hat.\nDas ganze Team ist sehr freundlich und macht eine Top Arbeit.",
+        "time": 1679295048,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christoph Aeschbacher",
+        "author_photo": "/images/reviews/bartlome-gartenbau-und-unterhalt-luesslingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit. Faire Preise",
+        "time": 1743415309,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

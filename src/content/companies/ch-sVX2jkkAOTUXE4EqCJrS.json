@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMQgzPJMgjkcRliNtPZHKgGI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "A.C. A.C.",
+        "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocIi7wRM0_Yv1c9Kk1jOfh39SH95ExEhEq1iQ-dgDUrnyfrrjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\nSehr zuverlässiger und freundlicher Maler. Die Arbeit wurde sauber, professionell und termingerecht ausgeführt. Das Ergebnis ist hochwertig und genau nach meinen Vorstellungen. Klare Weiterempfehlung!",
+        "time": 1769589902,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Urs Aebi",
+        "author_photo": "/images/reviews/maler-gipser-beat-roth-grenchen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Firma mit langjähriger Erfahrung. Sehr gute Beratung und qualitativer Ausführung. Preis- Leistungsverhältnis stimmt!",
+        "time": 1765963288,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Beat Roth",
+        "author_photo": "/images/reviews/maler-gipser-beat-roth-grenchen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1745232605,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Grekpek Perepek",
+        "author_photo": "/images/reviews/maler-gipser-beat-roth-grenchen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1614769455,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Eugen Schmidt",
+        "author_photo": "/images/reviews/maler-gipser-beat-roth-grenchen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1727882496,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6-qm81dPhUcRE7cnMvTY_zg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Marianne",
+        "author_photo": "/images/reviews/walker-rimag-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für ein neues Möbelstück, montiert an der Wand, haben wir unsere Ideen und Bedürfnisse bei Walker RIMAG besprochen. Die Umsetzung mit den Vorschlägen hat uns sehr überzeugt. Deshalb gaben wir das Möbel in Auftrag. Das Resultat gefällt uns ausgezeichnet und wir sind vollends zufrieden. Auch die Montage vor Ort wurde professionell ausgeführt.\nWir können die Firma mit gutem Gewissen weiterempfehlen!",
+        "time": 1762617811,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Franz Trutmann",
+        "author_photo": "/images/reviews/walker-rimag-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Während wir im Wohnmobil in Sizilien den Winter verbrachten, wurde in unserm fixen Wohnwagen unter Leitung der Firma WalkerRimag eine neue, leistungsfähige und wunderschöne Dusche eingebaut.\nDieser sicher nicht alltägliche Auftrag wurde in jeder Beziehung grossartig ausgeführt.\nDie Begeisterung von Seiten dieser Firma für dieses etwas spezielle Projekt beeindruckte uns, sodass wir ohne Bedenken während des Umbaus fernbleiben konnten. Auch die Koordination mit den andern beteiligten Handwerkern wurde zuverlässig übernommen, ebenso die notwendige Kommunikation mit uns.\nSchlussendlich sind wir sowohl ästhetisch, wie auch funktionell sehr glücklich mit dem Resultat und sind froh, uns diesen Schreiner gegönnt zu haben.\nHerzlichen Dank.",
+        "time": 1746102421,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lukas Rickenbacher",
+        "author_photo": "/images/reviews/walker-rimag-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Als Bauleiter der Freitag Architektur GmbH durfte ich mit WalkerRimag schon bei mehreren Bauprojekten zusammenarbeiten. Das Team von WalkerRimag hat mit ihrem Fachwissen stets zuverlässig und termingetreu für eine fachgerechtet Umsetzung der Arbeiten gesorgt.\nIch kann WalkerRimag aufgrund ihrer Zuverlässigkeit, Fachkompetenz und der Qualität ihrer Arbeit jedem Bauherren empfehlen.",
+        "time": 1726470329,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alois J. Fischer",
+        "author_photo": "/images/reviews/walker-rimag-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Walker RIMAG, diesen Schreiner haben wir uns gegönnt und nicht bereut. Von der Planung zur Ausführung und Montage, einfach alles perfekt! Wir haben die Garderobe um einen Einbauschrank erweitert und das Ensemble sieht so aus, als wäre es schon immer so geplant gewesen! So geil! Das Badmöbel geriet so perfekt, dass letztlich sogar das Rechnung bezahlen Spass macht! Herzlichen Dank.",
+        "time": 1716494885,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jolanda Schelbert",
+        "author_photo": "/images/reviews/walker-rimag-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und qualitativ hochstehende Arbeit. Top Beratung und schnelle Ausführung.\nDer Preis ist entsprechend höher, dafür hat man was sehr schönes. Würde die Firma auf jeden Fall weiterempfehlen.",
+        "time": 1712775810,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5avx6UPHjkcRzDe8Kvelz_8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Jacqueline Margueron",
+        "author_photo": "/images/reviews/rca-vitrerie-veranda-antraygues-fabien-fully/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fantastische Arbeit! Und von sehr hoher Qualität. Ein zuverlässiges und freundliches Team. Stets aufmerksam. Ich kann sie wärmstens empfehlen! Vielen Dank für unsere wunderschöne Veranda.",
+        "time": 1756800418,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Aminoush World",
+        "author_photo": "/images/reviews/rca-vitrerie-veranda-antraygues-fabien-fully/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Für den Balkonabschluss mit Glas und Schiebewänden, einwandfreie Arbeit mit einem wirklich sehr edlen Ergebnis! Ein freundliches, professionelles und schnelles Team, tausend Dank, dank euch können wir unseren Balkon endlich ohne den Charrat-Wind genießen :-)",
+        "time": 1717360041,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alex Sandra",
+        "author_photo": "/images/reviews/rca-vitrerie-veranda-antraygues-fabien-fully/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben hervorragende Informationen zu unserem Projekt erhalten. Die Arbeiten wurden qualitativ hochwertig und sauber ausgeführt. Ein professionelles Team. Und das zu einem unschlagbaren Preis. Wir können diese Firma uneingeschränkt empfehlen.",
+        "time": 1639497058,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ardevic",
+        "author_photo": "/images/reviews/rca-vitrerie-veranda-antraygues-fabien-fully/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Äußerst professionell, mit mehr als fairen Preisen und akribischer Detailgenauigkeit. Zögern Sie nicht, sie für Ihre Projekte zu kontaktieren; Besseres werden Sie kaum finden.",
+        "time": 1612355366,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Patrice Stan",
+        "author_photo": "/images/reviews/rca-vitrerie-veranda-antraygues-fabien-fully/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, freundlich und aufmerksam gegenüber dem Kunden; schneller und sauberer Service.",
+        "time": 1533852143,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

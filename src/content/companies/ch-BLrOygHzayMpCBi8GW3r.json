@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJd5KhzxNvjkcRPlOyFPc4qNw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "M K",
+        "author_photo": "/images/reviews/chassot-fils-sa-posieux/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben diese Firma bereits mehrfach an verschiedenen Standorten beauftragt, unsere Aluminium-/Holz- und PVC-Fenster auszutauschen. Alles wurde stets zu unserer vollsten Zufriedenheit erledigt; wir können diese sehr zuverlässige Firma uneingeschränkt empfehlen!",
+        "time": 1673079053,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Hubert Bugnon",
+        "author_photo": "/images/reviews/chassot-fils-sa-posieux/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sorgfältige Arbeit, die nach fundierter Beratung und mit bemerkenswerter Verfügbarkeit, auch für Neukunden, bei Reparaturen und Wartungsarbeiten durchgeführt wird.",
+        "time": 1658832643,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Philippe Schaller",
+        "author_photo": "/images/reviews/chassot-fils-sa-posieux/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit und sehr gute Beratung.\nIch kann diese Firma wärmstens empfehlen.",
+        "time": 1598548465,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jo",
+        "author_photo": "/images/reviews/chassot-fils-sa-posieux/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597651137,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

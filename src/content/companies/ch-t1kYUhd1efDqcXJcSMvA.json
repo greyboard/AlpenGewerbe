@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0cvWc_36mkcREe3BhVsHf1E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:15 Uhr",
+    "Dienstag: 07:00–17:15 Uhr",
+    "Mittwoch: 07:00–17:15 Uhr",
+    "Donnerstag: 07:00–17:15 Uhr",
+    "Freitag: 07:00–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Chris Felten",
+        "author_photo": "/images/reviews/schreinerei-kuhn-ag-langrickenbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unerwartet auf der WEGA einen wunderschönen Esstisch ersteigert inkl. massgeschneidertem Gestell. Im Anschluss sehr professionelle Abwicklung inkl. Besichtigung vor Ort und Lieferung mit Montage! Besten Dank an Herrn Landolt und sein Team!",
+        "time": 1764763694,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Philipp Ackermann",
+        "author_photo": "/images/reviews/schreinerei-kuhn-ag-langrickenbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind von A bis Z zufrieden. Die Schreinerei Kuhn hält, was sie verspricht! Wir empfehlen die Schreinerei auf jeden Fall weiter.",
+        "time": 1619115312,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "R M",
+        "author_photo": "/images/reviews/schreinerei-kuhn-ag-langrickenbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Absolute Empfehlung! Einfach top, von A bis Z, in der aktuellen Zeit bisher keine vergleichbar gute Handwerker erlebt!",
+        "time": 1626101069,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Manuel Fischer",
+        "author_photo": "/images/reviews/schreinerei-kuhn-ag-langrickenbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden mit den Arbeiten von euch! Die Teeküche ist sehr schön geworden!",
+        "time": 1477724803,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Oliver Tursellino (artundcolour)",
+        "author_photo": "/images/reviews/schreinerei-kuhn-ag-langrickenbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle Firma mit tollen Arbeitern.",
+        "time": 1556465303,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

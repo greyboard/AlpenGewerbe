@@ -26,5 +26,38 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7zwaXOHzj0cRjdFmMwjZleM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Pascal Bucher",
+        "author_photo": "/images/reviews/sepp-wagner-gmbh-kerns/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580935425,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "David Keller",
+        "author_photo": "/images/reviews/sepp-wagner-gmbh-kerns/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643825967,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Andre Lang",
+        "author_photo": "/images/reviews/sepp-wagner-gmbh-kerns/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1568718291,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

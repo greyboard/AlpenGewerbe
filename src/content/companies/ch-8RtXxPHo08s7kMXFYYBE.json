@@ -26,5 +26,22 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJi8docuP3j0cR2ww5SiKBP7g",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Bruce Kessler",
+        "author_photo": "/images/reviews/barmettler-leo-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1573630490,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

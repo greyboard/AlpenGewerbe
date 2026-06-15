@@ -1,7 +1,7 @@
 {
   "id": "ch-Dz1HaZgLsix6mteHWyM1",
   "slug": "bullinger-sa-carouge",
-  "name": "Bullinger SA",
+  "name": "Stalder et Bullinger S.A.",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJWyEqASV7jEcR7u5A0lcJIy0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Emmanuel Chaze",
+        "author_photo": "/images/reviews/bullinger-sa-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich wurde vom Team sehr herzlich empfangen, als ich ein kleines Metallteil reparieren lassen wollte. Die Arbeit war hervorragend, wurde mit größter Sorgfalt ausgeführt und das Ergebnis ist fantastisch.\n\nVielen Dank!",
+        "time": 1691861657,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Heis",
+        "author_photo": "/images/reviews/bullinger-sa-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundliches Personal, sehr professionelle und sorgfältige Arbeit, günstiger Preis, schnelle und präzise Installation",
+        "time": 1547985702,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Alexandre Talon",
+        "author_photo": "/images/reviews/bullinger-sa-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Nicht ganz einfach zu finden, aber die Mitarbeiter waren freundlich und haben sehr gute Arbeit geleistet. Kann ich nur empfehlen.",
+        "time": 1600345575,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marga López",
+        "author_photo": "/images/reviews/bullinger-sa-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herzlicher Telefonempfang, professioneller und effizienter Schlüsseldienst!",
+        "time": 1629445685,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

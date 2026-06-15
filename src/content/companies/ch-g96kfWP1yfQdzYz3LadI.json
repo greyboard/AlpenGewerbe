@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFxVRihkLkEcRgOevM4QIukE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–19:00 Uhr",
+    "Dienstag: 08:00–19:00 Uhr",
+    "Mittwoch: 08:00–19:00 Uhr",
+    "Donnerstag: 08:00–19:00 Uhr",
+    "Freitag: 08:00–19:00 Uhr",
+    "Samstag: 08:00–14:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Christoph Staub",
+        "author_photo": "/images/reviews/vag-parkett-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "super Arbeitsqualität; tolle Mitarbeiter, fairer Preis, speditiv und sauber. Kann diese Firma nur wärmstens empfehlen.",
+        "time": 1596561638,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "monika schumacher-bauer",
+        "author_photo": "/images/reviews/vag-parkett-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ganz kurzfristig haben Herr Salihi und sein tolles Team meinen alten Eichenparkett aufgefrischt- schnell, professionell, sauber. Um den Boden frei zu machen, musste auch noch ein schweres Klavier transportiert werden. Auch das wurde mit Sorgfalt bewerkstelligt. Meine Stube sieht wundervoll aus. Besonders gefreut hat mich der freundliche Ton unter Chef und Arbeitern. Ich kann die Firma wärmstens empfehlen.",
+        "time": 1579593689,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Oecasa Verwaltung GmbH",
+        "author_photo": "/images/reviews/vag-parkett-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Vag Parkett GmbH, erledigt die Arbeit präzise, fachgerecht und einer sehr guten Qualität, auch wenn es mal brenzlig wird helfen Sie.\nFür die Verwaltungen und Liegenschaften, genau der richtige Partner.\nDie Preis-Leistung ist sehr gut, sowie die Kommunikation.\n\nDie Firma Vag Parkett GmbH, können wir von Oeconomic Service AG nur empfehlen!",
+        "time": 1579166048,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "markus ineichen",
+        "author_photo": "/images/reviews/vag-parkett-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "AG Parkett eine Top Firma mit besten Referenzen.\nValmir nimmt sich alle Zeit für seine Kunden ist sehr Kompetent\nund vorallem sehr verlässlich. Sollte ich einmal einen Boden brauchen dann nur mit  VAG Parkett! Gerne werde ich Dich weiter empfehlen.",
+        "time": 1578648502,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "L. M.",
+        "author_photo": "/images/reviews/vag-parkett-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Salihi ist Meister seines Handwerks. Er ist äußerst professionell, kundenorientiert und dabei sehr menschlich. Seine Arbeitsweise ist speditiv und perfektionistisch. Wir würden Herrn Salihi definitiv wieder engagieren und danken ihm für die tolle Zusammenarbeit.",
+        "time": 1645133307,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

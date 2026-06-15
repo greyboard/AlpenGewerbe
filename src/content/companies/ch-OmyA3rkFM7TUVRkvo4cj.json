@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ28beIYlRhUcRdG5661Do33I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Holz100 Bayern",
+        "author_photo": "/images/reviews/lindauer-ag-steinen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Lindauer Küchen sehr gute Erfahrungen gemacht. Die Qualität und Ausführung sprechen für sich – die Bilder zeigen das sehr eindrucksvoll.\n\nBesonders hervorzuheben ist die konsequent leimfreie Bauweise, die perfekt zu unserem Anspruch an gesundes und nachhaltiges Bauen passt.\n\nAuch in der Zusammenarbeit lief alles sehr professionell und zuverlässig.\n\nWir können Lindauer Küchen uneingeschränkt weiterempfehlen.",
+        "time": 1773992985,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Martina J.",
+        "author_photo": "/images/reviews/lindauer-ag-steinen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unsere Küche wurde absolut super geplant – durchdacht, funktional und genau nach unseren Wünschen. Die Qualität und Umsetzung sind top. Wir sind total zufrieden und würden es genauso wieder machen. Vielen Dank an Kai.",
+        "time": 1750689230,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Björn Mahnke",
+        "author_photo": "/images/reviews/lindauer-ag-steinen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir durften vor zwei Jahren in unserer Wohnung mit der Schreinerei Lindauer zusammen unsere Küche neu planen und  ausführen, sowie weitere Schreinerarbeiten in der Bibliothek und der Ankleide durchführen. Jetzt, gut zwei Jahre nach Abschluss der Arbeiten sind wir immer noch jeden Tag begeistert. Nicht knarzt, keine Schublade, kein Regalboden hat sich verzogen. Es ist wirklich perfekt geworden. Bei der Ausführung gab es einen kleinen Fehler seitens der Fronten der Küche, der uns alle ein wenig verwundert hat; Die Reaktion der Schreinerei: \"Wir kommen solange wieder bis sie zufrieden sind\". Und das sind wir immer noch.\nBesten Dank nochmal für die tolle Arbeit und die Geduld während der Planung.",
+        "time": 1720020407,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Steiner",
+        "author_photo": "/images/reviews/lindauer-ag-steinen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben für unsere Wohnung ein Küchenhochtisch anfertigen lassen.\nTop Beratung und Handwerkskunst. Schön das es Betriebe wie die Lindauer AG gibt, die Schweizer Handarbeit zu vernünftigen Preisen anbietet.",
+        "time": 1561318775,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Remo Tresch",
+        "author_photo": "/images/reviews/lindauer-ag-steinen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Da freut sich nicht nur das Schreiner Herz, qualitativ, optisch und im Preisleisungsverhältnis einfach der absolute Wahnsinn...!!!\nAngefangen von der Beratung , Ausführung usw. bis hin zur Montage, einfach oberklasse...\nWeiter so...!!!  👍👍👍👌👌",
+        "time": 1513253186,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

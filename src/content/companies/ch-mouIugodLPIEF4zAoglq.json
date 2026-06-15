@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGV-T4MmRhEcRV8KJagRC0qI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Markus Wilhelm",
+        "author_photo": "/images/reviews/schreiner-arpagaus-ag-surses/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Beratung und Arbeit.",
+        "time": 1678682275,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Tgeli Bellini",
+        "author_photo": "/images/reviews/schreiner-arpagaus-ag-surses/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770232204,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Roberto Guetg",
+        "author_photo": "/images/reviews/schreiner-arpagaus-ag-surses/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765822143,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Manu el",
+        "author_photo": "/images/reviews/schreiner-arpagaus-ag-surses/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715794526,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "spirit spirit",
+        "author_photo": "/images/reviews/schreiner-arpagaus-ag-surses/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576511530,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

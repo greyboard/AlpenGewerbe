@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJFQi87zgfm0cRmP8D2lzB8JA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Nicolai Esposito",
+        "author_photo": "/images/reviews/bewatec-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden schnell und professionell durchgeführt, und das Ergebnis hat meine Erwartungen übertroffen. Besonders hervorheben möchte ich die Sauberkeit am Arbeitsplatz – alles wurde ordentlich hinterlassen. Auch das Preis-Leistungs-Verhältnis stimmt absolut.",
+        "time": 1731057511,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Lehner",
+        "author_photo": "/images/reviews/bewatec-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden, sehr schnelle Reaktionszeit. Herr Fejzuli hat die Arbeit sehr effizient und kompetent ausgeführt.\nWürde Herr'n Fejzuli sofort wieder kontaktieren!",
+        "time": 1681206568,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "clirim mustafa",
+        "author_photo": "/images/reviews/bewatec-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service von Bewatec! Schnelle und saubere Installation, kompetente Beratung und sehr freundliches Team. Absolut empfehlenswert!",
+        "time": 1717186866,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dario Frick",
+        "author_photo": "/images/reviews/bewatec-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Punktlich war der handwerker vor ort war sehr freundlich und hatte all meine sanitär probleme in kürzister zeit gelöst einfach nur genial! Kan man nur empfehlen",
+        "time": 1689658098,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

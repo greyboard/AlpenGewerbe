@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6wrmIMYyjkcREpwHDyNxPU0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Andre Aeschbacher",
+        "author_photo": "/images/reviews/gehatec-ag-hasle-bei-burgdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionells und kundenorientiertes Unternehmen.\nKann die Firma gehatec gerne weiterempfehlen.",
+        "time": 1773037107,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Kathrin Bolzli",
+        "author_photo": "/images/reviews/gehatec-ag-hasle-bei-burgdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, kompetent und speditiv.\n100% Weiterempfehlung! Danke, Herr Wingeier.",
+        "time": 1768557373,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Edith Buri",
+        "author_photo": "/images/reviews/gehatec-ag-hasle-bei-burgdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Erfahrungen. Tolles Unternehmen, anfenehme Kommunikation und sehr kompetente Mitarbeiter, egal ob im Büro oder auf der Baustelle. Gehatec's empfehle ich gerne weiter ✨️",
+        "time": 1762804760,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Peter Gerber",
+        "author_photo": "/images/reviews/gehatec-ag-hasle-bei-burgdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnelle und gute Problembehebung.  Sehr netter und kompetenter Servicemann.\nR.B..",
+        "time": 1771231329,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Matthias Schinkelshoek",
+        "author_photo": "/images/reviews/gehatec-ag-hasle-bei-burgdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Firma hat bei uns in auranova.ch, Wohnüberbauung in Oberburg gute Arbeit geleistet. Freundliches Entgegenkommen erlebt bei einer Rechnung. Merci vill mol.",
+        "time": 1579108104,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9eT3UCppjkcRdpymqybaAFE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Simon Aebischer",
+        "author_photo": "/images/reviews/implenia-schweiz-ag-fribourg/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Passt",
+        "time": 1570802276,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Peter Verbruggen",
+        "author_photo": "/images/reviews/implenia-schweiz-ag-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715956869,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicolas Violi",
+        "author_photo": "/images/reviews/implenia-schweiz-ag-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1599569335,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Leonard Baumann",
+        "author_photo": "/images/reviews/implenia-schweiz-ag-fribourg/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1593677731,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Artan Ramaj",
+        "author_photo": "/images/reviews/implenia-schweiz-ag-fribourg/reviewer_5.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1557736742,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

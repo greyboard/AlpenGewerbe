@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJq6H_S5tEhUcREgGdjqfKGnE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Luk",
+        "author_photo": "/images/reviews/g-bosshard-ag-gebaeudehuelle-und-haustechnik-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein Junger gutausehender Herr hat bei uns hervorragende Arbeit geleistet. Er arbeitet sehr präzise, zuverlässig und zeigt ein hohes Maß an handwerklichem Können. Besonders positiv aufgefallen sind seine ruhige, freundliche Art und sein professioneller Umgang auf der Baustelle.\n\nEr war pünktlich, gut vorbereitet und hat auch bei komplexeren Aufgaben stets die Übersicht behalten. Man merkt sofort, dass er viel Erfahrung im Spenglerhandwerk mitbringt und großen Wert auf saubere, nachhaltige Ausführung legt.\n\nWir waren mit seiner Arbeit äußerst zufrieden und würden uns freuen, ihn bei zukünftigen Projekten wieder auf der Baustelle zu sehen.",
+        "time": 1750146321,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Michael Eilo",
+        "author_photo": "/images/reviews/g-bosshard-ag-gebaeudehuelle-und-haustechnik-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service!",
+        "time": 1566752232,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "fran ara",
+        "author_photo": "/images/reviews/g-bosshard-ag-gebaeudehuelle-und-haustechnik-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "⭐️⭐️⭐️⭐️⭐️",
+        "time": 1560027881,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Gary Melling",
+        "author_photo": "/images/reviews/g-bosshard-ag-gebaeudehuelle-und-haustechnik-altdorf/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Ich habe versucht, sie zu kontaktieren, aber ich bin sicher, sie sind beschäftigt.",
+        "time": 1661533154,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "René Grütter",
+        "author_photo": "/images/reviews/g-bosshard-ag-gebaeudehuelle-und-haustechnik-altdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699212911,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

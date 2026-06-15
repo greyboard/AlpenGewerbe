@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJfX24Jzccm0cRpYHH48NB3F8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Domenica",
+        "author_photo": "/images/reviews/gartengestaltung-andreas-jakob-gmbh-moerschwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir möchten uns herzlich für die sehr gute und professionelle Ausführung der Gartenarbeiten bedanken.\nDer Steingarten wurde fachgerecht erweitert und harmonisch in das bestehende Gesamtbild integriert. Auch die übrigen Verschönerungen im Garten wurden mit viel Sorgfalt und hoher handwerklicher Qualität umgesetzt.\nBesonders hervorheben möchten wir, dass auf unsere individuellen Wünsche jederzeit eingegangen wurde.\nEin großes Lob an Janis und Massimo, die die Arbeiten zuverlässig, engagiert und mit großem Einsatz durchgeführt haben. Herr Jakob war zudem regelmäßig persönlich vor Ort, um den Fortschritt zu begleiten und sicherzustellen, dass alles zu unserer Zufriedenheit verläuft, dieses Engagement wissen wir sehr zu schätzen.\nEnde August wird, sobald es die Temperaturen zulassen, die Bepflanzung abgeschlossen, wir freuen uns bereits auf das fertige Ergebnis.\n\nWir können das Team uneingeschränkt weiterempfehlen und danken nochmals für die hervorragende Zusammenarbeit",
+        "time": 1752730807,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Peter Hafner",
+        "author_photo": "/images/reviews/gartengestaltung-andreas-jakob-gmbh-moerschwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "gute geschäftliche Zusammenarbeit!",
+        "time": 1598693423,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Malake El-haj",
+        "author_photo": "/images/reviews/gartengestaltung-andreas-jakob-gmbh-moerschwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776552623,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Helena Baumgartner",
+        "author_photo": "/images/reviews/gartengestaltung-andreas-jakob-gmbh-moerschwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1631341669,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alexander Jaenke",
+        "author_photo": "/images/reviews/gartengestaltung-andreas-jakob-gmbh-moerschwil/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1606997811,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

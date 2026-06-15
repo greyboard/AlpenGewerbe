@@ -26,5 +26,54 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJyaUxWWY8kEcRVtiMObu7J6c",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "David Gil",
+        "author_photo": "/images/reviews/rdl-glas-suhr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Guten Tag. Die Firma RDL hat uns für die Glastischbestellung von der Beratung bis zur Ausführung begleitet.\nWir sind auch vom Mantage Personal sehr zufrieden. Wir danken die Firma RDL dafür.  David&Liora Gil, 5722 Gränichen",
+        "time": 1765191324,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Emilie und Simone Sekretariat",
+        "author_photo": "/images/reviews/rdl-glas-suhr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sind rundum zufrieden! Die Kommunikation war schnell und freundlich und die Arbeit wurde sehr sauber und professionell ausgeführt. Hervorragend.\nWürden jederzeit wieder auf dieses Unternehmen zurückkommen. Klare Empfehlung!",
+        "time": 1765275504,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Roland Spirgi",
+        "author_photo": "/images/reviews/rdl-glas-suhr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Firma RDL Glas war von A-Z sehr angenehm. Nach Erteilung des Reparaturauftrags, wurde dieser rasch und kompetent erledigt.",
+        "time": 1764876577,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Giuseppe Giorgio",
+        "author_photo": "/images/reviews/rdl-glas-suhr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir wurden von Herrn Boldrini Firma RDL AG beraten, um die Akustik in unserem Sitzungszimmer zu verbessern.\nUnser Eindruck war topp, angefangen von der Kontaktaufnahme, den schnellen Rückmeldungen, der Fachkompetenz und dem freundlichen und netten Kontakt.\nDer Ablauf war sehr gut strukturiert, mit Vorabübermittlung einer akustischen Raumberechnung, einem abschließenden konkreten Lösungsvorschlag.\nDas Preis-Leistungs-Verhältnis ist absolut Top.\nBei der Montage hat alles sehr gut geklappt.\nDie beiden Handwerker waren super pünktlich – haben sauber und schnell gearbeitet, waren sehr freundlich und haben ihr Handwerk sehr verstanden. So macht es Spass Handwerker im Haus zu haben\nHerzlichen Dank für die großartige Arbeit!",
+        "time": 1722323880,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christine Fankhauser",
+        "author_photo": "/images/reviews/rdl-glas-suhr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Erster Telefonkontakt enorm freundlich - Mailkontakt äusserst angenehm. Und: alles wie abgesprochen und zu unserer vollsten Zufriedenheit ausgeführt. Sofort und gerne wieder. Danke!",
+        "time": 1738443466,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

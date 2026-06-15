@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJN3BL70s4jkcRuAN_xIGpIIc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Daniel Schneider",
+        "author_photo": "/images/reviews/maurer-bauleitung-gmbh-spiegel-be/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Büroausbau in einem SNBS-zertifizierten Bürogebäude zusammen mit der Firma maurer mauleitung GmbH realisiert. Die Zusammenarbeit mit den Verantwortlichen war sehr angenehm. Die Mitarbeiter verfügen über ein überdurchschnittlich hohes Mass an Fachwissen und jahrelanger Berufserfahrung. Ich würde unser nächstes Bauvorhaben wieder mit der Firma durchführen wollen. Herzlichen Dank an das gesamte Team für die hervorragende Zusammenarbeit!",
+        "time": 1763377866,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Stephan Zahno",
+        "author_photo": "/images/reviews/maurer-bauleitung-gmbh-spiegel-be/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionelle und angenehme Zusammenarbeit. Als Architekt kann man sich auf das Team von Maurer Bauleitungen verlassen. Von Beginn an als Team unterwegs und die wichtigen Entscheide werden zusammen getroffen. Schlanke und bedarfsgerechte Strukturen, entstanden durch viel Erfahrung und Kompetenz am Bau. Immer wieder gerne!",
+        "time": 1685903601,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sebastian Riesen",
+        "author_photo": "/images/reviews/maurer-bauleitung-gmbh-spiegel-be/reviewer_3.jpg",
+        "rating": 5,
+        "text": "angenehme & kompetente Zusammenarbeit, besten Dank!\n\nRiemat-Riesen AG",
+        "time": 1673450711,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stephan Glaus Stämpfli",
+        "author_photo": "/images/reviews/maurer-bauleitung-gmbh-spiegel-be/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1683449675,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Niklaus Leuenberger",
+        "author_photo": "/images/reviews/maurer-bauleitung-gmbh-spiegel-be/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1672431682,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-YzocgAim0cRmaKKs0GQ4iA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:30–11:00 Uhr, 14:00–16:30 Uhr",
+    "Mittwoch: 09:00–11:00 Uhr",
+    "Donnerstag: 08:30–11:00 Uhr, 14:00–16:30 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Chantal Wüthrich",
+        "author_photo": "/images/reviews/atelier-k-kaethi-wuethrich-hoehener-buehler/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein kleiner herziger Bastelladen. Sie hat sich au das glasfusing speziaöisiert und hat viele tolle Glassachen zu verkaufen.",
+        "time": 1634459760,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ruth Meier",
+        "author_photo": "/images/reviews/atelier-k-kaethi-wuethrich-hoehener-buehler/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1624872507,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lukas Heeb",
+        "author_photo": "/images/reviews/atelier-k-kaethi-wuethrich-hoehener-buehler/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1599601847,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Luca Sonderegger",
+        "author_photo": "/images/reviews/atelier-k-kaethi-wuethrich-hoehener-buehler/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1572424003,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Cosimo Augustoni",
+        "author_photo": "/images/reviews/atelier-k-kaethi-wuethrich-hoehener-buehler/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1517953029,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

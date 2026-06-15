@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJwctjRHm4kUcREckb_NFTJkQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Diana Baur",
+        "author_photo": "/images/reviews/bertschi-ag-gartenbau-bottmingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Als Architektin kann ich die Fa. Bertschi uneingeschränkt weiter empfehlen. Die Mitarbeiter denken mit und sind lösungsorientiert, jeder Wunsch der Bauherrn wird berücksichtigt. Die Kosten stimmen und auch nach der Abnahme ist der Service perfekt. Danke für die tolle Zusammenarbeit!",
+        "time": 1763382133,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Beat Hügli",
+        "author_photo": "/images/reviews/bertschi-ag-gartenbau-bottmingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Garten wurde exakt nach meiner Idee bearbeitet👍\nDie beiden Gärtner waren sehr freundlich und haben sehr gute Arbeit verrichtet ‼️\nDer Projektleiter ist aufmerksam und hat beim Zuhören die Erfahrung und das „Gespür“ die Wünsche das Auftraggebers richtig umzusetzen.\nIn diesem Sinne kann ich die Firma BERTSCHI Gartenbau nur weiterempfehlen‼️",
+        "time": 1760698881,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Julia Hediger",
+        "author_photo": "/images/reviews/bertschi-ag-gartenbau-bottmingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alles wunderbar, schnell und professionell! Ich habe zum ersten Mal mit Bertschi in meinem Garten gehabt und bin sehr zufrieden. Nächste Frühling werde sicher wieder \"Bertschi\" einladen.",
+        "time": 1770834813,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Benno Mangold",
+        "author_photo": "/images/reviews/bertschi-ag-gartenbau-bottmingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Im Zusammenhang mit der Erneuerung des TV Netz Arlesheim, mussten TV Leitungen gelegt und ein TV Kasten gesetzt werden.\nDiese Arbeiten wurden sehr speditiv und mit einer erwähnenswert guten Qualität ausgeführt.\nAuch der Preis war in einem sehr vernüfrigem Rahmen.\nJederzeit gerne wieder 😀",
+        "time": 1765963432,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Michael Thomann",
+        "author_photo": "/images/reviews/bertschi-ag-gartenbau-bottmingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir waren sehr zufrieden mit der Bertschi Gartenbau AG. Die Offertstellung, die Ausführung, Fertigstellung, Kosten- und Terminkontrolle - alle Leistungen waren sehr professionell. Wir haben grosse Freude an unserem neuen Vorplatz aus Natursteinen, dem Gartensitzplatz und der neuen Gartengestaltung. Neben den tollen eingebrachten Ideen, der sehr speditiven und qualitativ einwandfreien Ausführung überzeugte uns die Flexibilität und Sorgfältigkeit in der Ausführung rsp. das Umgehen mit nicht einfachen Randbedingungen (z.B. verschiedene Gefälle beim Vorplatz, Einbinden und Schützen bestehender Gartenelemente etc.). Wir können die Bertschi AG sehr empfehlen. Vielen herzlichen Dank.",
+        "time": 1761996626,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

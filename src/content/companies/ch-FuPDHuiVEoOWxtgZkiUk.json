@@ -26,5 +26,47 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJgQQcl0Eem0cRMXy0tvaJtPs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "TATY SWISS MAU",
+        "author_photo": "/images/reviews/elektro-herzig-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gut...sehr schnell,Professionell ' Mega freundlich",
+        "time": 1501237194,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Ruth Frehner",
+        "author_photo": "/images/reviews/elektro-herzig-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässiges Elektrounternehmen. Gute Arbeitsqualität. Empfehlenswert.",
+        "time": 1604486866,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christina krähenbühl",
+        "author_photo": "/images/reviews/elektro-herzig-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich",
+        "time": 1620474242,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

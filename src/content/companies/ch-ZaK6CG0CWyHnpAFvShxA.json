@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJz2B73KS5kUcRG2qfvk0z7uI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Sylvia Kern",
+        "author_photo": "/images/reviews/sanitaer-ari-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bekam schnell Antwort und auch sofort einen Termin. Die Mitarbeiter die zu uns kamen waren sehr freundlich und haben sich wirklich bemüht den Schaden schnell und perfekt zu reparieren. Ich bin wirklich sehr dankbar, solche Hilfe wünscht man sich. Danke",
+        "time": 1719232623,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Fiechter",
+        "author_photo": "/images/reviews/sanitaer-ari-ag-basel/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Profis arbeiten anders. Einige Mitarbeiter scherzen rum und bekommen nichts auf die Reihe. Statt 2-3 Tag wie angekündigt sind die seit 2 Wochen dran und immer noch nicht fertig. Und seit die arbeiten braucht es 1 Min bis warm Wasser kommt.\nYallah Ari....",
+        "time": 1718283876,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Anne-Christine Krämer",
+        "author_photo": "/images/reviews/sanitaer-ari-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Ari wärmstens empfehlen. Sie sind schnell, sehr professionell, freundlich, effizient und finden intelligente, saubere Lösungen. Bravo und Danke!",
+        "time": 1727871487,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andreas E.",
+        "author_photo": "/images/reviews/sanitaer-ari-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe sie am Wochenende angerufen, weil meine Toilettenspülung defekt war. Einfache Terminvereinbarung, schnelles kommen,  kompetente und zügige Arbeit. Ich kann ihn nur weiter empfehlen.",
+        "time": 1512808033,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Nadia Adi",
+        "author_photo": "/images/reviews/sanitaer-ari-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kann ich nur empfehlen.Schneller Termin,professioneller und freundlicher Mitarbeiter.Vielen Dank",
+        "time": 1743667426,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

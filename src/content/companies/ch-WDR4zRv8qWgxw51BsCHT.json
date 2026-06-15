@@ -1,7 +1,7 @@
 {
   "id": "ch-WDR4zRv8qWgxw51BsCHT",
   "slug": "patrik-langenegger-baar",
-  "name": "Patrik Langenegger",
+  "name": "Patrik Langenegger AG",
   "branchen": [
     "fliesenleger"
   ],
@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9QvJ2UmqmkcRs1jXpsS7CuY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Remo Reichmuth",
+        "author_photo": "/images/reviews/patrik-langenegger-baar/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ewigs li Fahrer vermutlich am telefon am schreiben",
+        "time": 1754666205,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Peter Züllig",
+        "author_photo": "/images/reviews/patrik-langenegger-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das 25 jährige Firmenjubiläum mit Recht verdient!!! Gratuliere nachtäglich von Herzen dazu.",
+        "time": 1634445381,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Gian-Reto Peita",
+        "author_photo": "/images/reviews/patrik-langenegger-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent und freundlich. Kann ich nur empfehlen",
+        "time": 1623789057,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roland Sembol",
+        "author_photo": "/images/reviews/patrik-langenegger-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Leute",
+        "time": 1632405463,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Nicky Wahle",
+        "author_photo": "/images/reviews/patrik-langenegger-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756973760,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

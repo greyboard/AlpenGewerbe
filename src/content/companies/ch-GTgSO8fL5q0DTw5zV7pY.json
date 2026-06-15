@@ -26,5 +26,30 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0dJSYFa5jkcRecoctQMcfRY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Cherni Amira",
+        "author_photo": "/images/reviews/elite-carrelage-saint-maurice/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1730189588,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ameni Cherni",
+        "author_photo": "/images/reviews/elite-carrelage-saint-maurice/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1706802084,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

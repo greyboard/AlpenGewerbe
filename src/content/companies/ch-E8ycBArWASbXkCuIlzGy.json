@@ -26,5 +26,38 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJicemP18em0cRTdo-0sgXVVA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Odo Diels",
+        "author_photo": "/images/reviews/mathies-kunstglaserei-glasmalerei-und-kirchenfens-buehler/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Adresse für Glasarbeiten! Prompt, schnell, kompetent, sehr guter Service. Herzlichen Dank,  lieber Gruss Odo Diels GEMAG",
+        "time": 1573466424,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Otti Roos",
+        "author_photo": "/images/reviews/mathies-kunstglaserei-glasmalerei-und-kirchenfens-buehler/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekte Lösungen und Arbeit.\nGerne wieder",
+        "time": 1701890416,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Bruno Niedermann",
+        "author_photo": "/images/reviews/mathies-kunstglaserei-glasmalerei-und-kirchenfens-buehler/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1556867031,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

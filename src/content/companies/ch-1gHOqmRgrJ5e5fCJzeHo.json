@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTWD-n3gojkcRvJ4G7Wx_Gps",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 42,
+    "reviews": [
+      {
+        "author_name": "Liselotte Glutz",
+        "author_photo": "/images/reviews/rufer-malerei-gmbh-lohn-ammannsegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und freundliche Beratung durch Albin Rufer.\nProfessionelle, saubere und vor allem flexible Arbeit. Das Preis- Leistungsverhältnis stimmt.\nWir sind glücklich mit dem Resultat und können Albin Rufer und sein Team sehr gerne weiterempfehlen",
+        "time": 1769513341,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Melanie Riedi",
+        "author_photo": "/images/reviews/rufer-malerei-gmbh-lohn-ammannsegg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir würden Albin Rufer und sein Team ohne zu zögern allen weiterempfehlen. Die Gründe dafür sind u.a. ihre saubere und speditive Arbeit, die sehr kompetente Beratung, die unkomplizierte und flexible Zusammenarbeit sowie die Tatsache, dass das Rufer-Team sehr freundlich ist. Mit ihrer Maler- und Gipserarbeit sind wir vollends zufrieden. Herzlichen Dank für euren Einsatz!",
+        "time": 1745258503,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jürg Krämer",
+        "author_photo": "/images/reviews/rufer-malerei-gmbh-lohn-ammannsegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten ein Problem mit der Farbe an der Holzfassade. Herr Rufer und sein Team haben super gearbeitet, nun sieht es wieder sehr gut aus. Der Farbton stimmt perfekt.",
+        "time": 1646301096,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Cornelia Buri",
+        "author_photo": "/images/reviews/rufer-malerei-gmbh-lohn-ammannsegg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Rufer Malerei GmbH ist sehr zu empfehlen, von der Beratung bis zur Ausführung lief alles Perfekt und sehr Professionell. Die Offerte ist fair und genau identisch mit der Schlussrechnung!! Das Team ist absolut Kompetent und sehr nett.\nUnser Haus strahlt in neuem Glanz.",
+        "time": 1719656195,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anton Schucker",
+        "author_photo": "/images/reviews/rufer-malerei-gmbh-lohn-ammannsegg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, sehr gute und saubere Arbeit zu einem vernünftigen Preis. Wir können die Firma Rufer Malerei GmbH  jedenfalls weiterempfehlen und werden sie beim nächsten Malerauftrag wieder berücksichtigen.",
+        "time": 1750243998,
+        "relative_time_description": "vor 12 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

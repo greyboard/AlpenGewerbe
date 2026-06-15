@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJseljOXT9j0cRm0ciF_DXHxQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 09:00–14:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Thorin Hel",
+        "author_photo": "/images/reviews/balaj-parkett-gmbh-rothenburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In der gesamten Wohnung in Rothenburg Vinyl Boden verlegt inklusive ein Zimmer mit Teppich Boden. Preis Leistung Super.",
+        "time": 1660157994,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "T.L -",
+        "author_photo": "/images/reviews/balaj-parkett-gmbh-rothenburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit, wir sind als Kunde zufrieden.",
+        "time": 1644325293,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lulzim Lokaj",
+        "author_photo": "/images/reviews/balaj-parkett-gmbh-rothenburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, sehr professionell. Ich bin sehr zufrieden.",
+        "time": 1644325095,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Haron Samim",
+        "author_photo": "/images/reviews/balaj-parkett-gmbh-rothenburg/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1646118661,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Endrit Lokaj",
+        "author_photo": "/images/reviews/balaj-parkett-gmbh-rothenburg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1645222163,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

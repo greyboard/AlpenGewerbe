@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJKXN9-UjqhEcRxdPQ37wlHjg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "W. T.",
+        "author_photo": "/images/reviews/ughini-metallbau-ag-cazis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Stets zuvorkommend in Beratung und Service, gute Qualität - egal ob Auftrag für Tausende Franken oder für Kleinstbeträge. Die Lieferfristen sind angemessen bis sehr kurz (sofort). Gerne wieder.",
+        "time": 1765555766,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Marco Gehr",
+        "author_photo": "/images/reviews/ughini-metallbau-ag-cazis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten schon seit vielen Jahren mit der Firma Ughini Metallbau zusammen und sind immer top zufrieden mit der Zusammenarbeit, klare Empfehlung!",
+        "time": 1771421147,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Klaus-Peter Böhm",
+        "author_photo": "/images/reviews/ughini-metallbau-ag-cazis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super freundlich zuvorkommend und machen einen super job.",
+        "time": 1761821825,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Ivo",
+        "author_photo": "/images/reviews/ughini-metallbau-ag-cazis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, schnelle Lieferung und top Preis",
+        "time": 1603185998,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "simon zumbrunnen",
+        "author_photo": "/images/reviews/ughini-metallbau-ag-cazis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Toller Metallbaubetrieb den ich bestens empfehlen kann.",
+        "time": 1602770953,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

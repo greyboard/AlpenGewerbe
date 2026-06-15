@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJcfShkdprjkcReE9m7ZV_BMw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Casareo AG",
+        "author_photo": "/images/reviews/art-metallbau-ag-duedingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team von art Metallbau liefert stets super Qualität und zuverlässige Arbeit! Es macht Freude, mit so einem Unternehmen Arbeiten sowie Projekte zu realisieren.",
+        "time": 1761720423,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Daniel Ramseyer",
+        "author_photo": "/images/reviews/art-metallbau-ag-duedingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung. Herr Mario Zahno und sein Team ist kompetent und engagiert. Die Installation entspricht genau unseren Wünschen. Ich bin sehr zufrieden und kann Firma art Metallbau AG nur weiter empfehlen!",
+        "time": 1644310920,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "AP. KS.",
+        "author_photo": "/images/reviews/art-metallbau-ag-duedingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich benötige die Dienste von art Metallbau zwar nur selten. War aber bisher immer ein positives Erlebnis, so auch in dieser Woche.\nDienst am Kunden = Rückruf innerhalb weniger Stunden und Fachwissen gepaart mit Freundlichkeit. Immer gerne wieder. Danke",
+        "time": 1659705000,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Romano Schafer",
+        "author_photo": "/images/reviews/art-metallbau-ag-duedingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundliches Team und die erledigten Arbeiten wurden schnell und sehr schön Erledigt. Es sieht super aus . Sehr zu empfehlen !",
+        "time": 1597395204,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "GM Montagedienst GmbH",
+        "author_photo": "/images/reviews/art-metallbau-ag-duedingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1686320609,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSZ54PVn0mkcR02kUSgnhkUQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Urs Tobler",
+        "author_photo": "/images/reviews/ilg-holzbau-ermatingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vor 17 Jahren haben wir gemeinsam mit Holzbau Ilg unser Architektenhaus gebaut – und sind bis heute absolut begeistert! Die Zusammenarbeit war von Anfang an top, alle Details wurden hervorragend gelöst und meisterhaft umgesetzt.\n\nBesonders beeindruckt hat uns der Dachvorsprung: Durch den cleveren Dachaufbau wirkt er auch nach all den Jahren noch fliegend leicht – einfach genial!\n\nEin Handwerksbetrieb, der Qualität, Präzision und Ästhetik perfekt vereint. Danke für diese nachhaltige Freude an unserem Zuhause!",
+        "time": 1747816968,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniela Lüchinger",
+        "author_photo": "/images/reviews/ilg-holzbau-ermatingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die neue Haustüre ist ein Highlight - ganz herzlichen Dank für die super Arbeit. Die Zusammenarbeit war unkompliziert, zügig und sympathisch. Wir empfehlen Holzbau Ilg gerne weiter.",
+        "time": 1751614808,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Marcel Steinhagen",
+        "author_photo": "/images/reviews/ilg-holzbau-ermatingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die verstehen ihr Handwerk.\nTop Qualität auf höchstem Niveau 👍\n\nWeiter so",
+        "time": 1757750681,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Fabian Kapfhamer",
+        "author_photo": "/images/reviews/ilg-holzbau-ermatingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ilg Holzbau hat bei uns den Dachausbau im Trockenbau wirklich sehr professionell ausgeführt. Alle Arbeiten waren von hoher Qualität, zeitgerecht und im vereinbarten Kostenrahmen. Ich kann dieses Unternehmen wirklich sehr empfehlen.",
+        "time": 1617024864,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefan Müller",
+        "author_photo": "/images/reviews/ilg-holzbau-ermatingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "gute qualität, rasche reaktionszeiten, flexibel und kreativ. immer wieder gerne!",
+        "time": 1575299643,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJazaMQta3kUcRvL8MJ0A-Ep4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "V. P.",
+        "author_photo": "/images/reviews/plattenleger-schnellbau-av-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Alotto von der Firma Schnellbau-AV GmbH hat die Bodenbelagsarbeiten in unserem Aussenbereich äusserst professionell und zuverlässig ausgeführt. Die Arbeiten wurden schnell, effizient und in hervorragender Qualität erledigt.\nWir empfehlen Herrn Alotto uneingeschränkt weiter. Wer einen kompetenten und verlässlichen Plattenleger sucht, ist hier bestens aufgehoben. Wir bedanken uns sehr für die sehr gute Arbeit.",
+        "time": 1760737597,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Rosi Minerba",
+        "author_photo": "/images/reviews/plattenleger-schnellbau-av-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Vincenzo Alotto von der Firma Schnellbau-AV GmbH hat unsere Gartengestaltung und Bodenbeläge mit höchster Professionalität und Zuverlässigkeit durchgeführt. Die Arbeiten wurden in bester Qualität, schnell und effizient erledigt.  Wir sind besonders beeindruckt von dem hervorragenden Preis-Leistungs-Verhältnis.\n\nWir können Herrn Alotto und die Firma Schnellbau-AV GmbH nur bestens weiterempfehlen. Jeder, der nach einem zuverlässigen und professionellen Plattenleger sucht, ist hier genau richtig.\n\nVielen Dank für die großartige Arbeit👍👍👍",
+        "time": 1747130227,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maria-Lucia Iuni",
+        "author_photo": "/images/reviews/plattenleger-schnellbau-av-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig, schnell und gute Preis Leistung",
+        "time": 1747589515,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

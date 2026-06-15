@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-07U-9IvkEcRNek4SrW1lIs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–16:30 Uhr",
+    "Donnerstag: 07:00–16:30 Uhr",
+    "Freitag: 07:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "Maria Gmür",
+        "author_photo": "/images/reviews/jordi-schlosserei-metallbau-ag-aarburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vom ersten Kontakt bis zur Montage hat alles hervorragend geklappt. Der Handlauf an der Kellertreppe und beim Eingang wurde passgenau, sauber und hochwertig gefertigt. Er gibt Sicherheit und erleichtert den täglichen Gang in den Keller spürbar. Freundlicher Service und sorgfältige Arbeit – klare Empfehlung.",
+        "time": 1767006213,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Andreas Leppert",
+        "author_photo": "/images/reviews/jordi-schlosserei-metallbau-ag-aarburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Auftrag (Verglasung Balkon) wurde von Anfang bis Ende kompetent und zuverlässig ausgeführt. Bereits bei der Anfrage wurde schnell reagiert und eine Besichtigung vor Ort konnte gemacht werden. Das Angebot kam innert weniger Tage. Die Kommunikation war stets unkompliziert, effizient und vor allem hat immer jemand das Telefon abgenommen und gab Auskunft. Die Arbeiten wurden dann pünktlich und professionell ausgeführt, die Verglasung sieht super aus. Die Monteure waren auch sehr vorsichtig mit dem Material , welches durch die Wohnung getragen wurden und haben sich Mühe gegen, möglichst wenig Dreck zu hinterlassen und alles sauber aufgeräumt. Ich bin rundum zufrieden mit Service und Leistungen der Firma Jordi und empfehle das Unternehmen in jedem Fall weiter! Liebe Grüsse A. Leppert",
+        "time": 1757044785,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Sabina Nelson",
+        "author_photo": "/images/reviews/jordi-schlosserei-metallbau-ag-aarburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit von Jordi Schlosserei Metallbau AG. Top Beratung und fachmännische Ausführung. Das Team war immer sehr freundlich und kompetent. Nun können wir den Sommer auf dem neuen Balkon geniessen.",
+        "time": 1720721156,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Barbora Gerber",
+        "author_photo": "/images/reviews/jordi-schlosserei-metallbau-ag-aarburg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alles tip top. Sehr gute Beratung, nette  Mitarbeiter, Qualität... Unsere neue Treppe ist wirklich ein Schmuck in unserem Haus. Absolut empfehlenswert!",
+        "time": 1680114075,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beat Meier",
+        "author_photo": "/images/reviews/jordi-schlosserei-metallbau-ag-aarburg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einwandfreie Montage eines Sägezahns auf eine Metallplatte mit kompetenten, sehr freundlichen und hilfsbereiten Fachleuten",
+        "time": 1744208820,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

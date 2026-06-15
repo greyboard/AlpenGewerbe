@@ -26,5 +26,22 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_cHMkpXKhUcRG_7YywgQFqw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "hannes vurma",
+        "author_photo": "/images/reviews/gartenbau-tessin-lavertezzo/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1716395530,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

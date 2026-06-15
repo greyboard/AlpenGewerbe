@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMYeQIHFvjkcRurmZzmZqz5k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Mick M",
+        "author_photo": "/images/reviews/elvic-sarl-givisiez/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fantastische Lichtinstallation in einem renovierten Bauernhaus. Sauber und ordentlich. Sehr kompetentes, freundliches und angenehmes Personal. Absolut exzellent, ich kann sie wärmstens empfehlen!",
+        "time": 1779299298,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Victoria M",
+        "author_photo": "/images/reviews/elvic-sarl-givisiez/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein fantastisches Team: professionell, jederzeit erreichbar und stets freundlich.\nEin zuverlässiges Unternehmen mit fairen Preisen.\nVielen Dank für den hervorragenden Service!",
+        "time": 1751900495,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Sylvie Da Silva",
+        "author_photo": "/images/reviews/elvic-sarl-givisiez/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein sehr zuverlässiges Elektrounternehmen, das sich stets um seine Kunden kümmert.\nSehr faire Preise und prompter Service.\nVielen Dank, ELVIC-Team!",
+        "time": 1725957491,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "N Schen",
+        "author_photo": "/images/reviews/elvic-sarl-givisiez/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die beste Wahl für Ihre Elektroinstallation. Professionell und mit größter Sorgfalt bei der Arbeit.",
+        "time": 1682693578,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Meghan Devaud",
+        "author_photo": "/images/reviews/elvic-sarl-givisiez/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Toller Service! Super reaktionsschnell und effizient. Ein goldenes Team!",
+        "time": 1663656393,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

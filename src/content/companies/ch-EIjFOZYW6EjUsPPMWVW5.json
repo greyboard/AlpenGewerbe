@@ -26,5 +26,22 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJmywOwNoSjkcRU028cASeoKE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Bussara Blaser",
+        "author_photo": "/images/reviews/offner-bauunternehmung-ag-murten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein zuverlässiges und vertrauenswürdiges Bauunternehmen! Die Mitarbeiter sind sehr zuvorkommend, professionell und leisten hervorragende Arbeit. Ich kann sie für größere Bauprojekte wärmstens empfehlen!",
+        "time": 1499981294,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJJZOLTa6tj0cR8s3eyZ7KJ_c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 93,
+    "reviews": [
+      {
+        "author_name": "Physiotherapie MedElan Health GmbH",
+        "author_photo": "/images/reviews/schwarz-schreinerei-innenausbau-gmbh-wimmis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der angenehme Kontakt und professionelle Begleitung und Umsatz haben uns beeindruckt. (grundsätzlich sind wir nicht schnell zu beeindrucken) Schwarz Schreinerei & Innenausbau empfehlen wir dann auch sehr gerne weiter.",
+        "time": 1670410521,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "franziska b.",
+        "author_photo": "/images/reviews/schwarz-schreinerei-innenausbau-gmbh-wimmis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter und freundlicher Service, mein Schiebetürenschrank wurde zeitnah perfekt repariert. Herzlichen Dank, ich werde Sie gerne bei Bedarf wieder für Arbeiten anfragen.",
+        "time": 1770297639,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Andreas & Ursula Urech",
+        "author_photo": "/images/reviews/schwarz-schreinerei-innenausbau-gmbh-wimmis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben unser grosses Büropult kürzen lassen und sind sehr zufrieden. Nebst dem dass die Schreiner pünktlich gekommen sind und freundlich und höflich waren, wurde die Arbeit exakt und sehr sauber ausgeführt. Wir können die Schwarz Schreinerei & Innenausbau GmbH allen nur empfehlen. Vielen Dank für die super Büetz!",
+        "time": 1757335646,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Markus Bettschen",
+        "author_photo": "/images/reviews/schwarz-schreinerei-innenausbau-gmbh-wimmis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Service. Mein Insektenschutz wurde fachmännisch Montiert. Die Qualität ist hervorragend und die Mitarbeiter sehr freundlich. Werde dieser Firma noch öffters Aufträge vergeben. Freundlich Grüsse Markus Bettschen",
+        "time": 1756988763,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Madeleine Wehrmann",
+        "author_photo": "/images/reviews/schwarz-schreinerei-innenausbau-gmbh-wimmis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Äussert freundliche und kompetente Schreinerei!\nMeine Wünsche wurden speditiv und termingerecht zu meiner vollsten Zufriedenheit erfüllt.\nGerne immer wieder!",
+        "time": 1765991730,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

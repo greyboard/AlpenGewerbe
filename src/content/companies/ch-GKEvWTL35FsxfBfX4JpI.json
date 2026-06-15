@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJucxSpkIukEcR7glfzxAKJyU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:45–11:45 Uhr, 13:30–16:45 Uhr",
+    "Dienstag: 07:45–11:45 Uhr, 13:30–16:45 Uhr",
+    "Mittwoch: 07:45–11:45 Uhr, 13:30–16:45 Uhr",
+    "Donnerstag: 07:45–11:45 Uhr, 13:30–16:45 Uhr",
+    "Freitag: 07:45–11:45 Uhr, 13:30–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Klaus",
+        "author_photo": "/images/reviews/alteag-metallbausysteme-ag-duedingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Beratung und Ausführung unserer neuen Balkon-Verglasung waren absolut top, ich kann diese Firma sehr empfehlen. Herr Nussbaum nimmt sich viel Zeit für den Kunden, merci vielmals!",
+        "time": 1730974369,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stephan von Allmen",
+        "author_photo": "/images/reviews/alteag-metallbausysteme-ag-duedingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Kommunikation, auf alle Fragen sehr rasch geantwortet, Offerte klar verständlich.\nVelounterstand \"Piccolo 3\" deutlich früher als am ursprünglich zugesicherten Termin liefern und montieren können. Mit unserem Velounterstand sind wir ebenfalls sehr zufrieden.\nJederzeit wieder gerne, sehr empfehlenswert.",
+        "time": 1667989187,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pascal Fahrni",
+        "author_photo": "/images/reviews/alteag-metallbausysteme-ag-duedingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Danke für den perfekten Fahrrad unterstand.\nSehr kompetentes Personal, weiter so!",
+        "time": 1550783450,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Lucien Voyame",
+        "author_photo": "/images/reviews/alteag-metallbausysteme-ag-duedingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Leistung  und faire Preise 👍\nKann ich nur weiterempfehlen....\nVielen dank Alteag 👌",
+        "time": 1526489300,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Tim S",
+        "author_photo": "/images/reviews/alteag-metallbausysteme-ag-duedingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle Planung und Ausführung von unserem Carport. Auf den Millimeter genau aufgestellt.",
+        "time": 1780765795,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

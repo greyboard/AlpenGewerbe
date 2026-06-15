@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8WfTFJMthUcRpAWSMjND5-0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Ajredin Avdilji",
+        "author_photo": "/images/reviews/kleiner-bau-gmbh-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Michele Kleiner und sein Team haben diverse Arbeiten in meiner Liegenschaft durchgeführt. Die Arbeiten wurden zu unserer vollsten Zufriedenheit ausgeführt. Herr Kleiner und sein Team sind in allen Dingen die den Umbau und Renovationen betreffen, zu empfehlen.\nVielen Dank für die Super Arbeit!",
+        "time": 1732455421,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michael Landolt",
+        "author_photo": "/images/reviews/kleiner-bau-gmbh-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Beste firma ever",
+        "time": 1758321691,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

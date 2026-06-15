@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-3sfJ74uhUcRs_hWDAF3BM8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "a d",
+        "author_photo": "/images/reviews/hoesli-schwanden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nach vielen Telefonaten Suche nach Sanitär wurde ich schnell von Sanitär F.Hösli AG kontaktiert und der Abfluss in der Dusche wurde nächsten Tag rasch Eingebaut. Vielen Dank an Beat.",
+        "time": 1669393039,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Renato Figi",
+        "author_photo": "/images/reviews/hoesli-schwanden/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Termingerechte und gute Ausführung der Arbeiten in unserem Ferienhaus. Danke Beat. Auch die Rechnung stimmte genau mit der Offerte überein. Das Angebot war mit Abstand das preiswerteste im Kanton. Gerne wieder. Schön dass es euch gibt.",
+        "time": 1711637678,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Claudio Kägi",
+        "author_photo": "/images/reviews/hoesli-schwanden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit Stefan Hösli ist sehr angenehm und ich schätze den Austausch mit der Firma F. Hösli sehr. Ich kann diese nur weiter empfehlen.",
+        "time": 1742032586,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vanessa Malvido",
+        "author_photo": "/images/reviews/hoesli-schwanden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Kontakt.\nOfferte wurde schnell gestellt.\nUnsere Wünsche wurden umgesetzt.\nTolle Arbeit! Sehr gerne wieder!",
+        "time": 1589026960,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "László Panyik",
+        "author_photo": "/images/reviews/hoesli-schwanden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729691622,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

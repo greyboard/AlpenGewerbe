@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxc8lUELwmkcR8WodUrcJYto",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Mona Maker",
+        "author_photo": "/images/reviews/haeuptli-ag-berg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schneller, netter Service.... Sehr zu empfehlen",
+        "time": 1580632915,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Easy Company Vermiet-anhaenger TG „PKWs Anhaenger“ Bill ernst",
+        "author_photo": "/images/reviews/haeuptli-ag-berg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gut Elektro Firma",
+        "time": 1552915360,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "karin lang",
+        "author_photo": "/images/reviews/haeuptli-ag-berg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1552589984,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Doris Moga",
+        "author_photo": "/images/reviews/haeuptli-ag-berg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1528810479,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Werner häuptli",
+        "author_photo": "/images/reviews/haeuptli-ag-berg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1514531432,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

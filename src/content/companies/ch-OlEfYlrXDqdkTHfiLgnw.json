@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJhaVENkHzj0cRh7hYOOblj_4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Matthias von Rotz",
+        "author_photo": "/images/reviews/roman-colledani-der-gestalter-gmbh-sarnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich durfte bereits mehrere Projekte mit Roman Colledani und seinem Team realisieren und bin immer sehr zufrieden. Sie arbeitet professionell und gewissenhaft. Macht weiter so!!!",
+        "time": 1683631339,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alexandra Gisler",
+        "author_photo": "/images/reviews/roman-colledani-der-gestalter-gmbh-sarnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Roman Colledani hat uns mit grosser Kompetenz und Präzision bei unserem Umbau unterstützt. Besonders die Wohnzimmerwand im Stil Stucco Veneziano ist noch immer ein Gesprächsthema wenn wir Besuch erhalten. Wir können Roman und sein Team mit vollster Überzeugung weiterempfehlen.",
+        "time": 1683712282,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Raphael Riebli",
+        "author_photo": "/images/reviews/roman-colledani-der-gestalter-gmbh-sarnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Qualität! Auf unsere persönlichen Wünsche wurde zu 100% eingegangen und genau so umgesetzt. Mehr als \"nur\" ein Gipser.\nWürde ich jedem weiterempfehlen!",
+        "time": 1683875348,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mura Massimo",
+        "author_photo": "/images/reviews/roman-colledani-der-gestalter-gmbh-sarnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolle Firma, motivierte Mitarbeiter die Freude an der Arbeit haben. Aufgestelltes Team - weiter so 💪👍.",
+        "time": 1683661234,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dohtorum Civanım",
+        "author_photo": "/images/reviews/roman-colledani-der-gestalter-gmbh-sarnen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Gesichter von schlechter Qualität mit mürrischen Gesichtsausdrücken",
+        "time": 1762071705,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

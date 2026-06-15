@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8xegKvHdjkcRO1KPeM3H7iA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Mathieu Pythoud",
+        "author_photo": "/images/reviews/sherifi-electricite-sion/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Arbeit von Sherifi Électricité, Elektriker in Sitten, Wallis, sehr zufrieden.\n\nLED-Beleuchtungsinstallation, Elektroinstallation und makellose Ausführung. Saubere, schnelle und professionelle Arbeit mit exzellenter Beratung.\n\nEin zuverlässiger, pünktlicher und aufmerksamer Elektriker. Ich kann Sherifi Électricité jedem wärmstens empfehlen, der einen zuverlässigen Elektriker in Sitten, Wallis und Umgebung sucht.\n\n👍 Ich werde ihre Dienste definitiv wieder in Anspruch nehmen.",
+        "time": 1768758030,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Vait Kerimoski",
+        "author_photo": "/images/reviews/sherifi-electricite-sion/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem Service sehr zufrieden! Der Elektriker war schnell vor Ort und hat sauber und sorgfältig gearbeitet. Ich kann diese Firma aufgrund ihrer Professionalität und Zuverlässigkeit wärmstens empfehlen.",
+        "time": 1762801262,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Luc B",
+        "author_photo": "/images/reviews/sherifi-electricite-sion/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service! Herr Sherifi hat meine Ladestation installiert, und alles verlief reibungslos. Die Arbeit war sauber, schnell und sehr professionell. Er hat sich die Zeit genommen, mir alles zu erklären und vor seiner Abreise die korrekte Funktion der Installation zu überprüfen. Ich kann ihn aufgrund seiner Professionalität, Pünktlichkeit und der Qualität seiner Arbeit uneingeschränkt empfehlen!",
+        "time": 1764701551,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Alexandre M.",
+        "author_photo": "/images/reviews/sherifi-electricite-sion/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Es ist mir eine wahre Freude, mit Herrn Sherifi zusammenzuarbeiten! Er vereint Professionalität, Schnelligkeit und echtes Engagement in seiner Arbeit. Man merkt, dass er seine Tätigkeit liebt und sich für die Zufriedenheit seiner Kunden einsetzt. Es ist selten, ein Unternehmen zu finden, das so zuverlässig und gleichzeitig so sympathisch ist. Ich kann ihn uneingeschränkt empfehlen!",
+        "time": 1762728177,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Nawel",
+        "author_photo": "/images/reviews/sherifi-electricite-sion/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, schnell und professionell erledigt! Herr Sherifi ist aufmerksam, legt größten Wert auf Sicherheit und seine Preise sind wettbewerbsfähig. Ich kann ihn wärmstens empfehlen!",
+        "time": 1762726813,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

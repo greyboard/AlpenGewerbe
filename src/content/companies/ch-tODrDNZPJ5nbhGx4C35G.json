@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJf13bxSbKmkcRxgN5aGi4RgI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "R. Tschanz",
+        "author_photo": "/images/reviews/michael-friedlos-schreiner-gmbh-tuggen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben einen kleinen Wandschrank nach Mass anfertigen lassen, zu einem guten Preis/Leistungsverhältnis. Aufgrund der telefonischen Anfrage, wurde uns bereits am Telefon eine Offerte gemacht. Die Arbeit wurde zu unserer vollsten Zufriedenheit ausgeführt,  der Schrank ist eine schöne, saubere Arbeit. Wir können Herrn Friedlos wärmstens empfehlen und würden bei Bedarf, sofort wieder etwas bei ihm anfertigen lassen.",
+        "time": 1651216041,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Evelyn Rüegg",
+        "author_photo": "/images/reviews/michael-friedlos-schreiner-gmbh-tuggen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super tolle Arbeit. Schnell, unkompliziert und menschlich Top! Wir bekommen viele Komplimente für deine speziell angefertigte Kindergarderobe :)\nWir können Herr Friedlos nur wärmstens empfehlen!\nDanke vielmal für alles!",
+        "time": 1583739121,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jasmin Müller",
+        "author_photo": "/images/reviews/michael-friedlos-schreiner-gmbh-tuggen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Friedlos hat meine Erwartungen mit seiner Arbeit übertroffen. Mein Mann und ich sind äusserst zufrieden und können Herr Friedlos unbedingt weiter empfehlen. Sollte ich wieder einen Schreiner benötigen werde ich mich bestimmt wieder bei ihm melden.",
+        "time": 1582642950,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Severin Schefer",
+        "author_photo": "/images/reviews/michael-friedlos-schreiner-gmbh-tuggen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schreiner Friedlos hat bei uns super Arbeit geleistet. Wir können seine super professionelle Arbeit mit genialer Qualität zu fairen Preisen nur wärmstens weiterempfehlen.",
+        "time": 1582657671,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hans Schmidt",
+        "author_photo": "/images/reviews/michael-friedlos-schreiner-gmbh-tuggen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, super freundlich und einfach unkompliziert.\n\nHerr Friedlos hat bei einem, aus meiner Sicht, relativ komplizierten Projekt, eine einfache, schnelle und kostengünstige Lösung gefunden.\n\nSehr empfehlenswert.",
+        "time": 1582752644,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

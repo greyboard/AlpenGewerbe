@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1Y-koiMUm0cRIQ_Myc0wHoQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Gazmend Kerimi",
+        "author_photo": "/images/reviews/ar-metallwerk-gmbh-widnau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert!\nVom ersten Kontakt bis zur finalen Montage lief alles reibungslos. Die Beratung war kompetent, die Ausführung präzise und das Ergebnis einfach top. Sauber, termingerecht und mit einem Auge fürs Detail – genau so stellt man sich echte Handwerkskunst vor.",
+        "time": 1749842821,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Doris Plörer",
+        "author_photo": "/images/reviews/ar-metallwerk-gmbh-widnau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Waren sehr zufrieden mit der Arbeit unseres Wintergartens 👍.\nFür Metallarbeiter definitiv die richtige Firma!",
+        "time": 1759777888,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Alex",
+        "author_photo": "/images/reviews/ar-metallwerk-gmbh-widnau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden sehr sauber und wie geplant ausgeführt. Auch bei kurzfristigen Änderungen wird einem Hilfestellung geboten um die optimale Lösung zu finden. Kann die Firma mit gutem Gewissen weiterempfehlen.",
+        "time": 1575968557,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ernst Eggenberger",
+        "author_photo": "/images/reviews/ar-metallwerk-gmbh-widnau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr sympathische Firma. Es wird saubere Arbeit geliefert und das zu einem guten Preis. Ich zumindest bin sehr zufrieden.  Vielen Dank und gerne immer wieder.",
+        "time": 1601581463,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Kevin Plörer",
+        "author_photo": "/images/reviews/ar-metallwerk-gmbh-widnau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Es wurde alles nach meinen Wünschen zeitgerecht erfüllt. Preis - Leistungsverhältniss vom allerfeinsten. Sehr zum empfehlen 🙌",
+        "time": 1684481750,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

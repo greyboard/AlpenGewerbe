@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJNTmNIh65kUcRiHcLyf97w2U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Martin Fischer",
+        "author_photo": "/images/reviews/kera-one-gmbh-birsfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Obwohl die Verlegearbeit von Aussenplatten auf Kies im römischen Verband-Muster nicht zum Hauptbetätigungsfeld von Kera One gehört, wurde eine super Arbeit abgeliefert!\nGeht auf die Kundenwünsche ein und macht das unmögliche möglich.\nBin äusserst zufrieden und kann die noch junge Firma nur weiterempfehlen!",
+        "time": 1722871599,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simon Stäuble",
+        "author_photo": "/images/reviews/kera-one-gmbh-birsfelden/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich hoffe mal dass die Mitarbeiter dieser Firma nicht so arbeitet wie sie Auto fahren.\nHeute Morgen von Eiken nach Spreitenbach hatte ich ein Firmenwagen dieser Firma vor mir. Die anderen Verkehrsteilnehmer waren gezwungen rechts zu überholen da der Lenker des Firmenwagen angeblich nichts davon wusste dass links die Überholspur ist.\n\nSo macht man natürlich auch Werbung...",
+        "time": 1751345933,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Andrea Scholer",
+        "author_photo": "/images/reviews/kera-one-gmbh-birsfelden/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Herr Bessom ist zwar sympatisch, die abgelieferte Arbeit leider nicht. Pfusch ist noch nett ausgedruckt. Da hätte ich die Arbeit lieber selber gemacht und mir das Geld gespart. Nie wieder. Und als Krönung ist die soeben ausgesaugte Kanalisation wieder total verstopft mit Zementstaub und die Waschküche überflutet. Einfach nur ein ÄRGERNIS und eine lächerlich laienhaft ausgeführte Arbeit. FINGER WEG!!!!!!!!!!",
+        "time": 1711435010,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ajra Ardijan",
+        "author_photo": "/images/reviews/kera-one-gmbh-birsfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Der Bester und der Freundlichste Plattenleger der Region wir besanken uns für ihre Perfekte arbeit.",
+        "time": 1747140765,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniela Krasic",
+        "author_photo": "/images/reviews/kera-one-gmbh-birsfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kommt in die Pancake Lounge nach Winterthur und ihr werdet sein Werk sehen! Wunderschön!",
+        "time": 1697135170,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

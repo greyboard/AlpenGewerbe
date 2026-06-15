@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJX_ZxwK29hEcRxb-eFS7vetM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Luca",
+        "author_photo": "/images/reviews/kavi-schreinerei-ag-arosa/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit! Wir haben einen neuen Parkettboden, neue Fenster, einen massgefertigten Einbauschrank sowie eine neue Küche bekommen – alles perfekt umgesetzt. Die Kommunikation mit Nando war jederzeit klar, freundlich und zuverlässig, und die Vorgehensweise insgesamt sehr unkompliziert. Das Ergebnis ist einfach traumhaft! Wir würden jederzeit wieder mit KAVI Schreinerei arbeiten und können sie uneingeschränkt weiterempfehlen.\nBesten Dank nochmals Nando! Liebe Grüsse, Luca Q.",
+        "time": 1769935790,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "praxis. calmdown",
+        "author_photo": "/images/reviews/kavi-schreinerei-ag-arosa/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Kavi Schreinerei hat in meiner Praxis eine Dusche, eine grosse Türe, Yoga Halterungen und eine ayurvedische Schwitzbox hergestellt. Ich bin höchst zufrieden mit ihrer Arbeit - hohe Qualität und top Beratung von Kavi und seinen Söhnen, ich bin von ihrer Fachkompetenz und ihrer Sympathie überzeugt und danke euch herzlich.",
+        "time": 1764079986,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Casa Pardenn",
+        "author_photo": "/images/reviews/kavi-schreinerei-ag-arosa/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Kavi Schreinerei in Arosa hat fantastische Arbeit geleistet. Man spürt sofort, dass es ein Familienbetrieb ist – herzlich, zuverlässig und sehr sorgfältig. Ich bin mit dem Ergebnis total zufrieden und kann sie nur empfehlen.",
+        "time": 1764329624,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Andi Ulrich",
+        "author_photo": "/images/reviews/kavi-schreinerei-ag-arosa/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kann die Kavi Schreinerei uneingeschränkt weiterempfehlen. Kreativität bei der Umbauplanung, Genauigkeit bei der Umsetzung und Pünktlichkeit sind nur einige der sehr geschätzten Attribute. Vielen Dank für den Service!",
+        "time": 1511961980,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Ma Wi",
+        "author_photo": "/images/reviews/kavi-schreinerei-ag-arosa/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir durften Kavis Sohn Nando auf ganz sympathische Art und Weise kennenlernen. Ein toller junger Mann!! Wir sind überzeugt, dass er auch in der Firma zusammen mit seinem Vater zuverlässige und perfekte Arbeit leistet! Toll gibts diesen Betrieb in Peist!",
+        "time": 1568748817,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

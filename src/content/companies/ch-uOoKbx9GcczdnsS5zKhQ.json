@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-U1cFkHKhUcRXKb0AEwYoUo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Boris Sciaroni",
+        "author_photo": "/images/reviews/inelettra-sa-locarno/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ich hatte ein Angebot angefordert und die von der Società Elettrica Sopracenerina erstellte Leistungsliste beigefügt. Ich hatte meine Adresse, E-Mail-Adresse und Handynummer angegeben. Monate vergingen, ohne dass ich eine Antwort oder einen Anruf erhielt.",
+        "time": 1761237118,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Irene Aletto",
+        "author_photo": "/images/reviews/inelettra-sa-locarno/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Sie waren ziemlich unorganisiert; es war niemand da, der die Batterie der Fernbedienung hätte wechseln können, und man wusste auch nicht, wann jemand zu Hause sein würde. Sie rieten mir, woanders hinzugehen.",
+        "time": 1731925114,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nenad Radivojevic",
+        "author_photo": "/images/reviews/inelettra-sa-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetenz, Zuverlässigkeit, Pünktlichkeit\nAusgezeichnete Arbeit!!!",
+        "time": 1695524289,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patrick Poroli",
+        "author_photo": "/images/reviews/inelettra-sa-locarno/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729252487,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Romeo Ch",
+        "author_photo": "/images/reviews/inelettra-sa-locarno/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1703085689,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

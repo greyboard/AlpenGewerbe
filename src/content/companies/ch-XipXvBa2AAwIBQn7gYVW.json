@@ -26,5 +26,30 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJr2xH1hz4j0cR6pVs-0jJnA4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Wasserbike_ch_Murer_Reto",
+        "author_photo": "/images/reviews/baubuero-zimmermann-wuersch-ennetbuergen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekt für Planungen im Baugewerbe",
+        "time": 1547740167,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Daniela Dany Ambauen",
+        "author_photo": "/images/reviews/baubuero-zimmermann-wuersch-ennetbuergen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1560858420,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

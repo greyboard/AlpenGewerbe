@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRbLCN97xmkcRvjAREY0P19I",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Heck 66",
+        "author_photo": "/images/reviews/brenner-ag-weinfelden-weinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Da sind Profis am Werk. preiswert, Erfahrung, freundlich und kompetent! Super Arbeit gemacht!! Besten Dank.",
+        "time": 1592608704,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Renata Dattoli",
+        "author_photo": "/images/reviews/brenner-ag-weinfelden-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "super profis am Werk. freundliche Arbeiter.bin top zufrieden vielen Dank",
+        "time": 1563042323,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Drazen Mikolaj",
+        "author_photo": "/images/reviews/brenner-ag-weinfelden-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Beratung und ebenfalls die Hilfsbereitschaft von allen Mitarbeitern!\nMerci Brenner Team",
+        "time": 1635856004,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Raphael Sommer",
+        "author_photo": "/images/reviews/brenner-ag-weinfelden-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "super Bude, sehr freundliche Mitarbeiter",
+        "time": 1547723519,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Urs Anderes",
+        "author_photo": "/images/reviews/brenner-ag-weinfelden-weinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Firma mit kompetenten Mitarbeitern!",
+        "time": 1560492000,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

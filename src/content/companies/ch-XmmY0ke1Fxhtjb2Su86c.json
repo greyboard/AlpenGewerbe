@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJB-upBl8HkEcREP3laO3sLEg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Weisbrod Oliver",
+        "author_photo": "/images/reviews/trachsel-mtm-metallbau-ag-hauptikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Metallbau-Unternehmen! Sehr kundenorientiert und schnell. Hat immer eine Idee bereit, auch bei komplizierter Ausgangslage mit unklaren Schnittstellen. Wir arbeiten bei Weisbrod-Zürrer AG seit Jahren mit MTM zusammen und wurden noch nie enttäuscht.",
+        "time": 1610531367,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Hanspeter Abegg",
+        "author_photo": "/images/reviews/trachsel-mtm-metallbau-ag-hauptikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert",
+        "time": 1676016012,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jean-Pierre Deuber",
+        "author_photo": "/images/reviews/trachsel-mtm-metallbau-ag-hauptikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Junger, aufstrebender Betrieb mit kompetenter Beratung und Abwicklung.",
+        "time": 1630055817,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hüseyin Cengiz",
+        "author_photo": "/images/reviews/trachsel-mtm-metallbau-ag-hauptikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1766092593,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

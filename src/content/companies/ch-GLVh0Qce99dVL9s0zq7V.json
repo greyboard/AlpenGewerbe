@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvwJgPUXymkcRKpaZz94xvZk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Domi",
+        "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocJ5eKPHDI0qGRuyZPJDamePfIpUYZ2tGtjrz_0qgGKqTRJHaw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "text": "Die Firma R. Dähler AG hat bei mir zwei alte Dachfenster durch neue ersetzt. Die Arbeit verlief von Anfang bis Ende unkompliziert, zuverlässig und sehr professionell. Das Team arbeitete schnell und sauber.\n\nMeine Erfahrung mit der R. Dähler AG ist durchwegs positiv, und ich würde jederzeit wieder auf sie zurückkommen!",
+        "time": 1764259683,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Martin Polomsky",
+        "author_photo": "/images/reviews/r-daehler-ag-engwilen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Liebes Team der Dähler AG,\n\nvielen Dank für die exzellente Arbeit und den außergewöhnlichen Kundenservice bei unserem Projekt. Wir waren durchweg beeindruckt von Ihrer Professionalität, Freundlichkeit und der Qualität der Gerüstarbeiten.\n\nBeste Grüße,\nMartin",
+        "time": 1711392418,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Duc Atisti",
+        "author_photo": "/images/reviews/r-daehler-ag-engwilen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "In Tiktok kann man sich deren Pfusch ansehen. Die dürften bei mir nicht mal die Strasse fegen.",
+        "time": 1743324405,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luca Bitterlin",
+        "author_photo": "/images/reviews/r-daehler-ag-engwilen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr innovative und vorbildlicher Betrieb\nAbsolut genial , höchste Seriosität\nNur zu empfehlen",
+        "time": 1720720761,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thorsten Alex Hansinger",
+        "author_photo": "/images/reviews/r-daehler-ag-engwilen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Guter Betrieb.  Nette Angestellte  . Gute Preis . Saubere Arbeiten.",
+        "time": 1624817760,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

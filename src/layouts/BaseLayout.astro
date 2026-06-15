@@ -46,14 +46,182 @@ const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
         </a>
 
         <!-- Desktop-Navigation -->
-        <nav class="hidden lg:flex items-center gap-8" aria-label="Hauptnavigation">
-          <a href="/schreiner/" class="text-sm font-medium text-(--color-text-muted) hover:text-(--color-primary) transition-colors">
-            Branchen
-          </a>
-          <a href="/schreiner/vaduz/" class="text-sm font-medium text-(--color-text-muted) hover:text-(--color-primary) transition-colors">
-            Regionen
-          </a>
-          <a href="/betrieb/" class="text-sm font-medium text-(--color-text-muted) hover:text-(--color-primary) transition-colors">
+        <nav class="hidden lg:flex items-center gap-1" aria-label="Hauptnavigation">
+
+          <!-- MegaMenu: Branchen -->
+          <div class="relative group" id="menu-branchen">
+            <button
+              type="button"
+              aria-haspopup="true"
+              aria-expanded="false"
+              aria-controls="panel-branchen"
+              class="flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm font-medium
+                     text-(--color-text-muted) hover:text-(--color-primary) hover:bg-(--color-surface)
+                     transition-colors group-hover:text-(--color-primary)"
+            >
+              Branchen
+              <svg class="w-3.5 h-3.5 transition-transform duration-200 group-hover:rotate-180"
+                   viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="m6 9 6 6 6-6"/>
+              </svg>
+            </button>
+
+            <div
+              id="panel-branchen"
+              role="menu"
+              class="absolute left-1/2 -translate-x-1/2 top-full mt-1 w-72 rounded-xl border border-(--color-border)
+                     bg-white shadow-xl ring-1 ring-black/5
+                     opacity-0 invisible translate-y-1
+                     group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+                     transition-all duration-200 ease-out z-50"
+            >
+              <div class="p-3">
+                <p class="px-2 py-1 text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-1">
+                  14 Gewerke
+                </p>
+                <div class="grid grid-cols-2 gap-0.5">
+                  {[
+                    ['bodenleger',   'Bodenleger'],
+                    ['dachdecker',   'Dachdecker'],
+                    ['elektriker',   'Elektriker'],
+                    ['fliesenleger', 'Fliesenleger'],
+                    ['gartenbau',    'Gartenbau'],
+                    ['gipser',       'Gipser'],
+                    ['glaser',       'Glaser'],
+                    ['heizungsbauer','Heizungsbauer'],
+                    ['maler',        'Maler'],
+                    ['maurer',       'Maurer'],
+                    ['metallbau',    'Metallbau'],
+                    ['sanitaer',     'Sanitär'],
+                    ['schreiner',    'Schreiner'],
+                    ['zimmermann',   'Zimmermann'],
+                  ].map(([slug, label]) => (
+                    <a
+                      href={`/${slug}/`}
+                      role="menuitem"
+                      class="flex items-center gap-2 px-2.5 py-2 rounded-lg text-sm text-(--color-text)
+                             hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors"
+                    >
+                      <span class="w-1.5 h-1.5 rounded-full bg-(--color-primary)/40 flex-shrink-0"></span>
+                      {label}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- MegaMenu: Regionen -->
+          <div class="relative group" id="menu-regionen">
+            <button
+              type="button"
+              aria-haspopup="true"
+              aria-expanded="false"
+              aria-controls="panel-regionen"
+              class="flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm font-medium
+                     text-(--color-text-muted) hover:text-(--color-primary) hover:bg-(--color-surface)
+                     transition-colors group-hover:text-(--color-primary)"
+            >
+              Regionen
+              <svg class="w-3.5 h-3.5 transition-transform duration-200 group-hover:rotate-180"
+                   viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="m6 9 6 6 6-6"/>
+              </svg>
+            </button>
+
+            <div
+              id="panel-regionen"
+              role="menu"
+              class="absolute left-1/2 -translate-x-1/2 top-full mt-1 w-[600px] rounded-xl border border-(--color-border)
+                     bg-white shadow-xl ring-1 ring-black/5
+                     opacity-0 invisible translate-y-1
+                     group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+                     transition-all duration-200 ease-out z-50"
+            >
+              <div class="p-4 grid grid-cols-[1fr_180px] gap-4">
+                <!-- Schweiz -->
+                <div>
+                  <p class="px-1 py-1 text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2 flex items-center gap-1.5">
+                    <span>🇨🇭</span> Schweiz – 26 Kantone
+                  </p>
+                  <div class="grid grid-cols-3 gap-0.5">
+                    {[
+                      ['aargau',                     'Aargau',                  'AG'],
+                      ['appenzell-ausserrhoden',     'App. Ausserrhoden',       'AR'],
+                      ['appenzell-innerrhoden',      'App. Innerrhoden',        'AI'],
+                      ['basel-landschaft',           'Basel-Landschaft',        'BL'],
+                      ['basel-stadt',                'Basel-Stadt',             'BS'],
+                      ['bern',                       'Bern',                    'BE'],
+                      ['freiburg',                   'Freiburg',                'FR'],
+                      ['genf',                       'Genf',                    'GE'],
+                      ['glarus',                     'Glarus',                  'GL'],
+                      ['graubuenden',                'Graubünden',              'GR'],
+                      ['jura',                       'Jura',                    'JU'],
+                      ['luzern',                     'Luzern',                  'LU'],
+                      ['neuenburg',                  'Neuenburg',               'NE'],
+                      ['nidwalden',                  'Nidwalden',               'NW'],
+                      ['obwalden',                   'Obwalden',                'OW'],
+                      ['schaffhausen',               'Schaffhausen',            'SH'],
+                      ['schwyz',                     'Schwyz',                  'SZ'],
+                      ['solothurn',                  'Solothurn',               'SO'],
+                      ['st-gallen',                  'St. Gallen',              'SG'],
+                      ['tessin',                     'Tessin',                  'TI'],
+                      ['thurgau',                    'Thurgau',                 'TG'],
+                      ['uri',                        'Uri',                     'UR'],
+                      ['waadt',                      'Waadt',                   'VD'],
+                      ['wallis',                     'Wallis',                  'VS'],
+                      ['zug',                        'Zug',                     'ZG'],
+                      ['zuerich',                    'Zürich',                  'ZH'],
+                    ].map(([slug, name, kuerzel]) => (
+                      <a
+                        href={`/kanton/${slug}/`}
+                        role="menuitem"
+                        class="flex items-center gap-1.5 px-2 py-1.5 rounded-lg text-xs text-(--color-text)
+                               hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors"
+                      >
+                        <span class="text-[10px] font-bold text-(--color-text-muted) w-5 flex-shrink-0">{kuerzel}</span>
+                        <span class="truncate">{name}</span>
+                      </a>
+                    ))}
+                  </div>
+                </div>
+
+                <!-- Liechtenstein -->
+                <div class="border-l border-(--color-border) pl-4">
+                  <p class="px-1 py-1 text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2 flex items-center gap-1.5">
+                    <span>🇱🇮</span> Liechtenstein
+                  </p>
+                  <div class="flex flex-col gap-0.5">
+                    {[
+                      ['balzers',      'Balzers'],
+                      ['eschen',       'Eschen'],
+                      ['gamprin',      'Gamprin'],
+                      ['mauren',       'Mauren'],
+                      ['planken',      'Planken'],
+                      ['ruggell',      'Ruggell'],
+                      ['schaan',       'Schaan'],
+                      ['schellenberg', 'Schellenberg'],
+                      ['triesen',      'Triesen'],
+                      ['triesenberg',  'Triesenberg'],
+                      ['vaduz',        'Vaduz'],
+                    ].map(([slug, name]) => (
+                      <a
+                        href={`/region/${slug}/`}
+                        role="menuitem"
+                        class="flex items-center gap-2 px-2 py-1.5 rounded-lg text-xs text-(--color-text)
+                               hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors"
+                      >
+                        <span class="w-1.5 h-1.5 rounded-full bg-(--color-primary)/40 flex-shrink-0"></span>
+                        {name}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <a href="/betrieb/" class="px-3 py-2 rounded-lg text-sm font-medium text-(--color-text-muted) hover:text-(--color-primary) hover:bg-(--color-surface) transition-colors">
             Für Betriebe
           </a>
         </nav>
@@ -114,12 +282,108 @@ const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
     </div>
 
     <!-- Mobile-Menü -->
-    <div id="mobile-menu" class="hidden lg:hidden border-t border-(--color-border) bg-white">
-      <nav class="max-w-7xl mx-auto px-4 py-4 flex flex-col gap-1" aria-label="Mobile Navigation">
-        <a href="/schreiner/"       class="px-3 py-2.5 rounded-lg text-sm font-medium text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">Branchen</a>
-        <a href="/schreiner/vaduz/" class="px-3 py-2.5 rounded-lg text-sm font-medium text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">Regionen</a>
-        <a href="/betrieb/"         class="px-3 py-2.5 rounded-lg text-sm font-medium text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">Für Betriebe</a>
-        <div class="pt-2 pb-1 border-t border-(--color-border) mt-2">
+    <div id="mobile-menu" class="hidden lg:hidden border-t border-(--color-border) bg-white max-h-[80vh] overflow-y-auto">
+      <nav class="max-w-7xl mx-auto px-4 py-3 flex flex-col gap-0.5" aria-label="Mobile Navigation">
+
+        <!-- Branchen (Akkordeon) -->
+        <div>
+          <button
+            type="button"
+            id="mobile-branchen-btn"
+            aria-expanded="false"
+            class="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-medium
+                   text-(--color-text) hover:bg-(--color-surface) transition-colors"
+          >
+            Branchen
+            <svg id="mobile-branchen-arrow" class="w-4 h-4 text-(--color-text-muted) transition-transform duration-200"
+                 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <path d="m6 9 6 6 6-6"/>
+            </svg>
+          </button>
+          <div id="mobile-branchen-panel" class="hidden pl-4 pb-1">
+            <div class="grid grid-cols-2 gap-0.5 pt-1">
+              {[
+                ['bodenleger',   'Bodenleger'],
+                ['dachdecker',   'Dachdecker'],
+                ['elektriker',   'Elektriker'],
+                ['fliesenleger', 'Fliesenleger'],
+                ['gartenbau',    'Gartenbau'],
+                ['gipser',       'Gipser'],
+                ['glaser',       'Glaser'],
+                ['heizungsbauer','Heizungsbauer'],
+                ['maler',        'Maler'],
+                ['maurer',       'Maurer'],
+                ['metallbau',    'Metallbau'],
+                ['sanitaer',     'Sanitär'],
+                ['schreiner',    'Schreiner'],
+                ['zimmermann',   'Zimmermann'],
+              ].map(([slug, label]) => (
+                <a href={`/${slug}/`}
+                   class="px-2.5 py-2 rounded-lg text-sm text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">
+                  {label}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <!-- Regionen (Akkordeon) -->
+        <div>
+          <button
+            type="button"
+            id="mobile-regionen-btn"
+            aria-expanded="false"
+            class="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-medium
+                   text-(--color-text) hover:bg-(--color-surface) transition-colors"
+          >
+            Regionen
+            <svg id="mobile-regionen-arrow" class="w-4 h-4 text-(--color-text-muted) transition-transform duration-200"
+                 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <path d="m6 9 6 6 6-6"/>
+            </svg>
+          </button>
+          <div id="mobile-regionen-panel" class="hidden pl-4 pb-2">
+            <p class="px-2 pt-2 pb-1 text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider">🇨🇭 Kantone</p>
+            <div class="grid grid-cols-2 gap-0.5">
+              {[
+                ['aargau','Aargau'],['appenzell-ausserrhoden','App. Ausserrhoden'],
+                ['appenzell-innerrhoden','App. Innerrhoden'],['basel-landschaft','Basel-Landschaft'],
+                ['basel-stadt','Basel-Stadt'],['bern','Bern'],['freiburg','Freiburg'],
+                ['genf','Genf'],['glarus','Glarus'],['graubuenden','Graubünden'],
+                ['jura','Jura'],['luzern','Luzern'],['neuenburg','Neuenburg'],
+                ['nidwalden','Nidwalden'],['obwalden','Obwalden'],['schaffhausen','Schaffhausen'],
+                ['schwyz','Schwyz'],['solothurn','Solothurn'],['st-gallen','St. Gallen'],
+                ['tessin','Tessin'],['thurgau','Thurgau'],['uri','Uri'],
+                ['waadt','Waadt'],['wallis','Wallis'],['zug','Zug'],['zuerich','Zürich'],
+              ].map(([slug, name]) => (
+                <a href={`/kanton/${slug}/`}
+                   class="px-2.5 py-1.5 rounded-lg text-sm text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">
+                  {name}
+                </a>
+              ))}
+            </div>
+            <p class="px-2 pt-3 pb-1 text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider">🇱🇮 Liechtenstein</p>
+            <div class="grid grid-cols-2 gap-0.5">
+              {[
+                ['balzers','Balzers'],['eschen','Eschen'],['gamprin','Gamprin'],
+                ['mauren','Mauren'],['planken','Planken'],['ruggell','Ruggell'],
+                ['schaan','Schaan'],['schellenberg','Schellenberg'],['triesen','Triesen'],
+                ['triesenberg','Triesenberg'],['vaduz','Vaduz'],
+              ].map(([slug, name]) => (
+                <a href={`/region/${slug}/`}
+                   class="px-2.5 py-1.5 rounded-lg text-sm text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">
+                  {name}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <a href="/betrieb/" class="px-3 py-2.5 rounded-lg text-sm font-medium text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">
+          Für Betriebe
+        </a>
+
+        <div class="pt-2 pb-1 border-t border-(--color-border) mt-1">
           <a href="/betrieb/eintragen/"
              class="flex items-center justify-center gap-2 bg-(--color-accent) text-white px-4 py-2.5 rounded-lg text-sm font-semibold
                     hover:bg-(--color-accent-dark) transition-colors">
@@ -129,6 +393,7 @@ const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
             Betrieb eintragen
           </a>
         </div>
+
       </nav>
     </div>
   </header>
@@ -225,6 +490,44 @@ const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
       menu?.classList.toggle('hidden');
       iconOpen?.classList.toggle('hidden');
       iconClose?.classList.toggle('hidden');
+    });
+
+    // Mobile Akkordeons (Branchen / Regionen)
+    function setupAccordion(btnId, panelId, arrowId) {
+      const accBtn   = document.getElementById(btnId);
+      const accPanel = document.getElementById(panelId);
+      const accArrow = document.getElementById(arrowId);
+      accBtn?.addEventListener('click', () => {
+        const open = accPanel?.classList.toggle('hidden') === false;
+        accBtn.setAttribute('aria-expanded', String(open));
+        if (open) accArrow?.classList.add('rotate-180');
+        else       accArrow?.classList.remove('rotate-180');
+      });
+    }
+    setupAccordion('mobile-branchen-btn', 'mobile-branchen-panel', 'mobile-branchen-arrow');
+    setupAccordion('mobile-regionen-btn', 'mobile-regionen-panel', 'mobile-regionen-arrow');
+
+    // Desktop MegaMenu: Aria-expanded bei hover/focus
+    ['menu-branchen','menu-regionen'].forEach(id => {
+      const wrap = document.getElementById(id);
+      const triggerBtn = wrap?.querySelector('button');
+      const panel = wrap?.querySelector('[role="menu"]');
+      if (!wrap || !triggerBtn || !panel) return;
+      wrap.addEventListener('mouseenter', () => triggerBtn.setAttribute('aria-expanded', 'true'));
+      wrap.addEventListener('mouseleave', () => triggerBtn.setAttribute('aria-expanded', 'false'));
+      // Keyboard: Enter/Space öffnet, Escape schließt
+      triggerBtn.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          const isOpen = triggerBtn.getAttribute('aria-expanded') === 'true';
+          triggerBtn.setAttribute('aria-expanded', String(!isOpen));
+          panel.classList.toggle('opacity-0', isOpen);
+          panel.classList.toggle('invisible', isOpen);
+        }
+        if (e.key === 'Escape') {
+          triggerBtn.setAttribute('aria-expanded', 'false');
+        }
+      });
     });
 
     // IntersectionObserver für Scroll-Animationen

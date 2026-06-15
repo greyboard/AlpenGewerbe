@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJpxc26v8hm0cRlB9PRNsgCNw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Manuel Frueh",
+        "author_photo": "/images/reviews/schreinerei-widmer-buehler-ag-buehler/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1591118820,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "angela simoes",
+        "author_photo": "/images/reviews/schreinerei-widmer-buehler-ag-buehler/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1651262262,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

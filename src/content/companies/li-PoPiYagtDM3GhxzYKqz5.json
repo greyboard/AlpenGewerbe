@@ -25,5 +25,30 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0fHVzpEzm0cRKvPGb57w_XM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Schädler „Tosch“ Thomas",
+        "author_photo": "/images/reviews/thomas-schaedler-triesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Preise. Viel Auswahl. Hammer gut.",
+        "time": 1693477926,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Verena Arigoni",
+        "author_photo": "/images/reviews/thomas-schaedler-triesen/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Elektro Shop Chiang mai",
+        "time": 1621141146,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

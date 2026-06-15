@@ -26,5 +26,22 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ34MyrypOhUcRFEwhK_S_vfQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "M B",
+        "author_photo": "/images/reviews/l-f-edil-gmbh-ingenbohl/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753512295,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

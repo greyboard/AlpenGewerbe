@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ6mPfOwLkEcR6Gce9IwmelM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Arturik Martins",
+        "author_photo": "/images/reviews/berner-f-gartenbau-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1695411107,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christoph Studer",
+        "author_photo": "/images/reviews/berner-f-gartenbau-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1595616213,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jan Hiltebrand",
+        "author_photo": "/images/reviews/berner-f-gartenbau-ag-zuerich/reviewer_3.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1584887823,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Kateřina Zgraggen",
+        "author_photo": "/images/reviews/berner-f-gartenbau-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1572814448,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Verde Green",
+        "author_photo": "/images/reviews/berner-f-gartenbau-ag-zuerich/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1489495605,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

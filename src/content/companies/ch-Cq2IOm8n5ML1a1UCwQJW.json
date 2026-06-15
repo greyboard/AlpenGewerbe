@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5aZHkGsim0cR7Fsl71SUZK0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:15 Uhr",
+    "Dienstag: 07:00–17:15 Uhr",
+    "Mittwoch: 07:00–17:15 Uhr",
+    "Donnerstag: 07:00–17:15 Uhr",
+    "Freitag: 07:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Roman K",
+        "author_photo": "/images/reviews/willi-stahlteile-ag-gais/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Willi Stahlteile AG ist für uns ein sehr wichtiger Partner im Bereich Stahlteile, die kompetente und lösungsorientierte Herangehensweise ist herausragend. Wir zählen die Willi Stahlteile AG als wichtiger strategischer Partner.\n\n- schnell\n- unkompliziert\n- leistungsorientiert\n- höchster Qualitätsstandard",
+        "time": 1745383250,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Remo Stauffacher",
+        "author_photo": "/images/reviews/willi-stahlteile-ag-gais/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nette leute",
+        "time": 1670918336,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simon Zust",
+        "author_photo": "/images/reviews/willi-stahlteile-ag-gais/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service!",
+        "time": 1745462919,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Reto Müller",
+        "author_photo": "/images/reviews/willi-stahlteile-ag-gais/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1632933027,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

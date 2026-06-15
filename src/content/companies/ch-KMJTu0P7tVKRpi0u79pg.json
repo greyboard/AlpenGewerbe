@@ -25,5 +25,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJKYtYDeAym0cR_qsl2NjR200",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Roland Nussle",
+        "author_photo": "/images/reviews/feuz-gebaeudetechnik-gmbh-truebbach/reviewer_1.jpg",
+        "rating": 1,
+        "text": "… trotz fixem Termin .. keine Absage, keine Zeitänderung .. nichts .. eine halbe Stunde gewartet .. nichts , nicht zu empfehlen .. unzuverlässig !!",
+        "time": 1755905426,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Karin Schefer",
+        "author_photo": "/images/reviews/feuz-gebaeudetechnik-gmbh-truebbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sind Sie auf der Suche nach einer schlüsselfertigen Photovoltaikanlage mit hervorragenden Monteuren? Dann vergeben Sie den Auftrag an Feuz. Perfekte Dienstleistung. Sehr zu empfehlen.",
+        "time": 1707932740,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ing. Maximilian Rusch",
+        "author_photo": "/images/reviews/feuz-gebaeudetechnik-gmbh-truebbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Firma mit hervorragenden Mitarbeitern, kommen mit Drohne zum Dach ausmessen. Schnell, sauber und unkompliziert. Gute Arbeit André! Danke :)",
+        "time": 1675178143,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Maaariaa Liinda",
+        "author_photo": "/images/reviews/feuz-gebaeudetechnik-gmbh-truebbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Unternehmen, sehr freundlich und kompetent. Kann es nur weiterempfehlen.",
+        "time": 1727897070,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "bruno gruenenfelder",
+        "author_photo": "/images/reviews/feuz-gebaeudetechnik-gmbh-truebbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Arbeit. Wir sind sehr zufrieden. Würden wir wieder nehmen.",
+        "time": 1637048792,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

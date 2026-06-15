@@ -1,7 +1,7 @@
 {
   "id": "ch-gH8Ad6xOp214vOI96xXy",
   "slug": "leutwiler-sa-construction-metallique-st-blaise",
-  "name": "Leutwiler SA - Construction métallique",
+  "name": "JM Leutwiler Sàrl",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ85kQGW8JjkcRR59DjCLidEg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 12:45–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 12:45–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 12:45–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 12:45–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Diane Tripet",
+        "author_photo": "/images/reviews/leutwiler-sa-construction-metallique-st-blaise/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein seriöses, zuverlässiges und stets pünktliches Unternehmen. Neben der hohen Arbeitsqualität ist das Team freundlich und aufmerksam. Ich kann sie uneingeschränkt empfehlen! ✨",
+        "time": 1770745944,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Filipa Vieira",
+        "author_photo": "/images/reviews/leutwiler-sa-construction-metallique-st-blaise/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein fantastisches, engagiertes Team, das auf die Bedürfnisse der Kunden eingeht und tadellose Arbeit leistet! Ich kann Leutwiler SA wärmstens empfehlen.",
+        "time": 1770716612,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "David Frank",
+        "author_photo": "/images/reviews/leutwiler-sa-construction-metallique-st-blaise/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem gesamten Ablauf sehr zufrieden, von der Angebotsanfrage bis zur Installation meiner neuen Schranke!",
+        "time": 1770719475,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Géraldine Annoscia-Cattin",
+        "author_photo": "/images/reviews/leutwiler-sa-construction-metallique-st-blaise/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sie hören ihren Kunden zu, sind pünktlich, äußerst professionell, halten Termine ein und liefern erstklassige Arbeit.\n\nTrotz aller Widrigkeiten finden sie immer Lösungen für Probleme.\n\nVielen Dank noch einmal für die geleistete Arbeit!",
+        "time": 1749803521,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gaël Lanthemann",
+        "author_photo": "/images/reviews/leutwiler-sa-construction-metallique-st-blaise/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zuverlässigkeit, Schnelligkeit, Professionalität; es ist ein wahres Vergnügen, ihre Dienste in Anspruch zu nehmen.",
+        "time": 1525440003,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

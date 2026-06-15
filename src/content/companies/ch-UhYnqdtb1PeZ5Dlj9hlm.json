@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKyDvjLz3j0cRgWwNOtwUR9A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "O PTIMUM",
+        "author_photo": "/images/reviews/elektro-wild-barmettler-ag-oberdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich wurde vom ersten Kontakt bis zur Inbetriebnahme meiner Ladestation freundlich, kompetent und sehr speditiv durch Herr Mario Barmettler betreut. Vielen Dank, ich kann diesen tollen Betrieb wärmstens weiterempfehlen.",
+        "time": 1770305957,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Urner Maskenball Fasnacht",
+        "author_photo": "/images/reviews/elektro-wild-barmettler-ag-oberdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1758284826,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Alexandra Blaettler",
+        "author_photo": "/images/reviews/elektro-wild-barmettler-ag-oberdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1758284331,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Marc Ryser",
+        "author_photo": "/images/reviews/elektro-wild-barmettler-ag-oberdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1726559677,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "kilian erismann",
+        "author_photo": "/images/reviews/elektro-wild-barmettler-ag-oberdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699964228,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

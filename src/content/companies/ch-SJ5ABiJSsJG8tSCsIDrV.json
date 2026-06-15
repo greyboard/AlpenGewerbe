@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJd3vGYrcfj0cRxPH5c0h6sDk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Erika „Erika“ F.",
+        "author_photo": "/images/reviews/robyr-electricite-sarl-corin/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe diese Firma aus der Region schon mehrmals beauftragt und war immer zufrieden. Sie arbeiten sauber und gewissenhaft. Die Mitarbeiter sind freundlich und hilfsbereit und räumen alles beiseite, was im Weg ist. Sie finden sogar Lösungen, wenn ihre ursprüngliche Idee nicht umsetzbar war. Sie hinterlassen den Arbeitsplatz immer blitzsauber, was ich sehr schätze. Vielen Dank!",
+        "time": 1760011022,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Thibaut M",
+        "author_photo": "/images/reviews/robyr-electricite-sarl-corin/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Verfügbar, hilfsbereit, effizient. 5/5 👍",
+        "time": 1776674489,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Alberto Palumbo",
+        "author_photo": "/images/reviews/robyr-electricite-sarl-corin/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein junger und dynamischer Chef, der immer eine Idee oder einen hilfreichen Ratschlag parat hat. Die komplette Sanierung der Elektroinstallation, inklusive Verlegung des Verteilerkastens und Installation zusätzlicher Steckdosen, hat uns rundum zufrieden gestellt.",
+        "time": 1678656290,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nicolas Donzé",
+        "author_photo": "/images/reviews/robyr-electricite-sarl-corin/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Effizient, kompetent und hilfsbereit",
+        "time": 1660385501,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Victoria Rey",
+        "author_photo": "/images/reviews/robyr-electricite-sarl-corin/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676960725,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

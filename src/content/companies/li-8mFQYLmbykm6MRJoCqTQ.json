@@ -25,5 +25,39 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJE6eFXRgxm0cRy9LTeZfNa4s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:30 Uhr",
+    "Dienstag: 08:00–17:30 Uhr",
+    "Mittwoch: 08:00–17:30 Uhr",
+    "Donnerstag: 08:00–17:30 Uhr",
+    "Freitag: 08:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Patrik Jurkovic",
+        "author_photo": "/images/reviews/marmi-e-graniti-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vito hat seine Arbeit wie immer sehr gut gemacht!\nKann Ihn nur weiterempfehlen.",
+        "time": 1615908842,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "radu obrejan",
+        "author_photo": "/images/reviews/marmi-e-graniti-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1743697043,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

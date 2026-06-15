@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJA0PbdbBDhUcR56AmKxMlzRo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Adolf Hänni",
+        "author_photo": "/images/reviews/naepflin-gebaeudehuelle-ag-schattdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "2025\nHatten einen Ziegelschaden vom Föhnsturm. Auch hier angerufen und am nächsten Tag kamen die Arbeiter. Sehr freundlich und speditiv gearbeitet. Am Schluss noch sauber gemacht.\nDie Näpflin Gebäudehülle AG ist weiter zu empfehlen.\nHerzlichen Dank!!\n\n2014\nHatte einen Schaden am Velux Dachfenster! Angerufen und am gleichen Morgen ist noch ein Monteur erschienen! Sehr gute Dienstleistung und Beratung.\n\nMittlerweilen sind die beiden Velux Dachfenster ausgewechselt worden. Sehr kompentente und freundliche Mitarbeiter. Rasche und saubere Arbeit und am Schluss gesaugt und aufgeräumt.\n\nWir können die Näpflin Gebäudehülle AG nur weiter empfehlen.",
+        "time": 1740648251,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sven Fastabend",
+        "author_photo": "/images/reviews/naepflin-gebaeudehuelle-ag-schattdorf/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Sehr gutes Personal und brilliante Handwerker",
+        "time": 1535479132,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Daniel M.",
+        "author_photo": "/images/reviews/naepflin-gebaeudehuelle-ag-schattdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tip top Fachpersonal vom feinsten.",
+        "time": 1484844952,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Christian Furrer",
+        "author_photo": "/images/reviews/naepflin-gebaeudehuelle-ag-schattdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gutes Industrie Gebäude",
+        "time": 1764876828,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Delicious Joe",
+        "author_photo": "/images/reviews/naepflin-gebaeudehuelle-ag-schattdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Kundenservice...",
+        "time": 1601285799,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

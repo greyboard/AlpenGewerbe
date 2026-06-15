@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7yTViDn2j0cRDY4HFUrOAss",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–13:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Fam. Achermann",
+        "author_photo": "/images/reviews/kreative-metallgestaltung-christen-gmbh-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit der Kreative Metallgestaltung haben wir eine Firma gefunden, die zugehört und uns verstanden hat. Mit dem sensationellen Support ist unser Wunschgeländer entstanden. Unsere Spezialanfertigung wurde zur vollsten Zufriedenheit realisiert. Wir sind sehr glücklich und bekommen viele Komplimente. Danke dem ganzen Team für die tolle Arbeit.",
+        "time": 1726685840,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Raphael Bachmann",
+        "author_photo": "/images/reviews/kreative-metallgestaltung-christen-gmbh-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unser Balkonerweiterungsprojekt war ein voller Erfolg. Besonders gut gefällt uns das neue Geländer, in welches Elemente des bestehenden Geländers integriert wurden. Herzlichen Dank an Kreamet für die kreativen Lösungsvorschläge, durch welche der Charme des 100 jährigen Hauses erhalten blieb.",
+        "time": 1711089989,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ana Holenstein",
+        "author_photo": "/images/reviews/kreative-metallgestaltung-christen-gmbh-dallenwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Auch ich vergebe gerne fünf Sterne für die sorgfältige, kreative und pünktlich ausgeführte Renovation der Stele von Gertrud Guyer Wyrsch, welche nun wieder im Skulpturenpark zu bewundern ist - in neuem Glanz!",
+        "time": 1728231923,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "gina",
+        "author_photo": "/images/reviews/kreative-metallgestaltung-christen-gmbh-dallenwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine freundliche und rasche Antwort erhielt ich, als ich mit meiner Frage, für einen Schweisskurs an Herrn Christen trat. Prompt durfte ich in der Firma diesen Kurs machen. Schon beim ersten Schritt in die Firma fühlt man sich wohl und willkommen, alle Mitarbeiter/innen sind freundlich. Man merkt und sieht, dass eine gute Arbeitsatmosphäre herrscht. Für ein Bauprojekt, würde ich mir genau so eine Firma wünschen.",
+        "time": 1635246199,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Samira Amgarten",
+        "author_photo": "/images/reviews/kreative-metallgestaltung-christen-gmbh-dallenwil/reviewer_5.jpg",
+        "rating": 2,
+        "text": "Wir haben in unserer Stockwerkeigentümerschaft vor einiger Zeit einen grösseren Auftrag mit dieser Firma gemacht: Eine schlechte Erfahrung: schlecht organisiert, schlecht umgesetzt, Qualität mittelmässig. Bis die Fa Christen dann mal fertig war waren die restlichen Bauarbeiten etwa seit 3 Monaten beendet. Das ist jetzt eine Weile her und die ersten Arbeiten beginnen bereits zu lottern. Ich würde nicht mehr mit dieser Firma arbeiten.",
+        "time": 1687793226,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

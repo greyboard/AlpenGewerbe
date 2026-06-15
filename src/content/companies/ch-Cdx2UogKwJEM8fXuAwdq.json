@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJg5Jur_4YkEcRAaK-rWXm_5Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Mario Dätwyler",
+        "author_photo": "/images/reviews/h-r-maurer-werkzeugbau-ag-leimbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma!",
+        "time": 1731588081,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luis Longueira",
+        "author_photo": "/images/reviews/h-r-maurer-werkzeugbau-ag-leimbach/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Guter Ort",
+        "time": 1646797756,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Raphael Schmid",
+        "author_photo": "/images/reviews/h-r-maurer-werkzeugbau-ag-leimbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778765947,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Franz Burkhalter",
+        "author_photo": "/images/reviews/h-r-maurer-werkzeugbau-ag-leimbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622390663,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dan Numan",
+        "author_photo": "/images/reviews/h-r-maurer-werkzeugbau-ag-leimbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1578146442,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

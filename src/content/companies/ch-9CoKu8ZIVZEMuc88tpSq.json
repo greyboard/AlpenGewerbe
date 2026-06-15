@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJeUUkrFnLkUcRTmKbt2ii3w0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: 08:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 66,
+    "reviews": [
+      {
+        "author_name": "Wurm Box",
+        "author_photo": "/images/reviews/kurszentrum-der-kundenschlosserei-b-nagy-metallbau-schweisskurs-schmiedekurs-messerschmiedkurs-damast-messer-schmieden-hoelstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Was mit einer \"unkomplizierten\" Idee begonnen hat, wurde zu einer Reise zwischen Neues lernen, Produkteentwicklung, Know-how und Spass! Nach 1.5 Tagen konnten wir mit Benny ein Teleskopregal schweissen. Wir lassen das Regal \"nature\", damit wir auch noch in Jahren die Spuren der Arbeit sehen. Tolle Erfahrung!",
+        "time": 1771693720,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Patrik Brunner",
+        "author_photo": "/images/reviews/kurszentrum-der-kundenschlosserei-b-nagy-metallbau-schweisskurs-schmiedekurs-messerschmiedkurs-damast-messer-schmieden-hoelstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vom Rohling bis zum fertigen Küchenmesser. Es ist ein sehr spannendes Handwerk und das Resultat darf sich sehen lassen. Danke Benny für den genialen Workshop☺️",
+        "time": 1771686059,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "S K",
+        "author_photo": "/images/reviews/kurszentrum-der-kundenschlosserei-b-nagy-metallbau-schweisskurs-schmiedekurs-messerschmiedkurs-damast-messer-schmieden-hoelstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein richtig toller Kurs mit sehr schönen Resultaten. Danke Benni für das tolle Erlebnis und für deine Flexibilität, es hat sich gelohnt! Gerne wieder!",
+        "time": 1775374730,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Markus Hunziker",
+        "author_photo": "/images/reviews/kurszentrum-der-kundenschlosserei-b-nagy-metallbau-schweisskurs-schmiedekurs-messerschmiedkurs-damast-messer-schmieden-hoelstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich durfte heute den Einstiegskurs machen. Es hat grossen Spass gemacht und Benny hat alles sehr gut verständlich erklärt. Dank seinen hervorragenden Tipps kam ich voran und konnte sehr viel mitnehmen. Herzlichen DANK!",
+        "time": 1770397157,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Pia Peixeiro",
+        "author_photo": "/images/reviews/kurszentrum-der-kundenschlosserei-b-nagy-metallbau-schweisskurs-schmiedekurs-messerschmiedkurs-damast-messer-schmieden-hoelstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Candi bekam von uns zum 50. Geburtstag einen tägigen Messerschmiedekurs geschenkt. Benny und Candi haben zuerst alles genau besprochen, wie das Damastmesser aussehen soll. Danach ging es an die Arbeit. Benny erklärte die einzelnen Schritte sehr genau und Candi konnte dies Schritt für Schritt umsetzen. Selbst als Zuschauer war es sehr spannend. Man konnte den beiden gut ansehen, wie sie vom Ergebnis sehr Freude hatten.\nHerzlichen Dank Benny für den tollen und unterhaltsamen Tag.",
+        "time": 1690185128,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -25,5 +25,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJIR_WYW0xm0cREs-TVWZc4dQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Valentina Oehry (designbar.)",
+        "author_photo": "/images/reviews/atelier-allure-ag-vaduz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "sehr freundlich. setzten gewünschte wohn-inspirationen direkt um.",
+        "time": 1548150988,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Mark „Marki“",
+        "author_photo": "/images/reviews/atelier-allure-ag-vaduz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "TipTop sehr freundlich und unkompliziert",
+        "time": 1617369296,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Patrick Westerhof",
+        "author_photo": "/images/reviews/atelier-allure-ag-vaduz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Oben 👌💯",
+        "time": 1755007923,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "rosi winkler",
+        "author_photo": "/images/reviews/atelier-allure-ag-vaduz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1608562829,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Denis",
+        "author_photo": "/images/reviews/atelier-allure-ag-vaduz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1550175493,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

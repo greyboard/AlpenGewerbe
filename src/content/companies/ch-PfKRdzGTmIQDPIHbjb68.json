@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_1XH-NudB0ER6XQ0dqyz19g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 45,
+    "reviews": [
+      {
+        "author_name": "Lukas Gloggner",
+        "author_photo": "/images/reviews/glas-reinhard-ag-rothenburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine super Leistung von der Vermessug bis zur Montage! Sehr freundliches und kompetentes Montageteam! Vielen Dank, gerne wieder!",
+        "time": 1760683609,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Nando Oberli",
+        "author_photo": "/images/reviews/glas-reinhard-ag-rothenburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\n\nIch bin absolut begeistert von der Arbeit der Glas Reinhard AG! Vom ersten Kontakt bis zur Fertigstellung lief alles professionell, zuverlässig und effizient. Das Team arbeitet mit höchster Präzision und Fachkompetenz – die Qualität der ausgeführten Arbeiten ist hervorragend.\n\nBesonders beeindruckt hat mich die freundliche und kompetente Beratung sowie die lösungsorientierte Herangehensweise. Auch anspruchsvolle Arbeiten wurden einwandfrei umgesetzt. Man merkt sofort, dass hier echtes Handwerk mit Leidenschaft ausgeführt wird.\n\nIch kann die Glas Reinhard AG uneingeschränkt empfehlen und werde mich bei zukünftigen Projekten gerne wieder an sie wenden. Vielen Dank für die tolle Arbeit!",
+        "time": 1740045236,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hanspeter Herzog",
+        "author_photo": "/images/reviews/glas-reinhard-ag-rothenburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Musste Aufgrund einer sehr dringenden Wohnveränderung den Pikettdienst aufbieten. Trotz eines Sonntages wurde mein Anruf super freundlich entgegengenommen. Der Techniker stand pünktlich und mit tollen Elan vor der Haustüre. Dank seinen Fähigkeiten konnte der Auftrag zur vollsten Zufriedenheit erledigt werden. Ein ganz grosses Dankeschön. Ich werde die Firma weiter berücksichtigen und kann allen diese Leistungen empfehlen. Mit freundlichen Grüssen HP Herzog",
+        "time": 1715337143,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefan Waldis",
+        "author_photo": "/images/reviews/glas-reinhard-ag-rothenburg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind jahrelange Geschäftskunden von Glas Reinhard AG. Die Abwicklung der Aufträge und die Lieferung sind stets tadellos.\nAls Schreinerei haben wir die höchsten Qualitätsansprüche und sind auf verlässliche Liefertermine angewiesen. Diese Firma erfüllt seit Jahrzehnten alle unsere Wünsche und wir empfehlen sie allen Profi's für eine erfolgreiche Zusammenarbeit!",
+        "time": 1665567544,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Edith Wigger",
+        "author_photo": "/images/reviews/glas-reinhard-ag-rothenburg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Seit Jahren sind wir ein Geschäftskunde von Glas Reinhard. Die Lieferungen werden stets pünktlich ausgeführt und die Mitarbeiter sind sehr freundlich. Mit der Qualität der Materialien sind wir immer zufrieden.\nVielen Dank für die angenehme Zusammenarbeit.\nWigger AG Schreinerei und Küchenbau",
+        "time": 1666707591,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

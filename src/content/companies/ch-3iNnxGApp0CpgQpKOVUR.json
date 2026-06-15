@@ -26,5 +26,47 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJa8yGXBW1kUcRJubWiy_6Nls",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "A Br",
+        "author_photo": "/images/reviews/signorini-bodenbelaege-kaiseraugst/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter und freundlicher Erstkontakt. Herr Signorini hat dann auch eine saubere, gute und termingerechte Arbeit bei uns gemacht. Wir sind sehr zufrieden und werden beim nächsten Boden-Projekt sicher wieder gerne auf Herrn Signorini zurückgreifen. Vielen Dank",
+        "time": 1716233347,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patrick Gerber",
+        "author_photo": "/images/reviews/signorini-bodenbelaege-kaiseraugst/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Signorini ist ein unser Partner bei der PBS Zimmerei Schreinerei AG und verlegt für uns verschiedenste Bodenbeläge wie Parkett, Laminat und Vinyl. Das Preis Leistungsverhältniss ist super und die Arbeit sehr exakt. Ich kann Ihnen diese Firma wärmstens empfehlen!\nPatrick Gerber, Geschäftsführer PBS Zimmerei Schreinerei",
+        "time": 1711441675,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Boris Prpic",
+        "author_photo": "/images/reviews/signorini-bodenbelaege-kaiseraugst/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, saubere und exakte Arbeitsweise! Weiter zu empfehlen!",
+        "time": 1696966474,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

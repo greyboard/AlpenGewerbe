@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJoRTKxOfhjUcRKh9p5Suu-0M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:30–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "Teenservices Neuchâtel",
+        "author_photo": "/images/reviews/vitrerie-schleppy-neuchatel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und professionelles Personal. Man merkt, dass sie über Fachwissen und viel Erfahrung verfügen. Sehr saubere und sorgfältige Arbeit. Wir empfehlen diese Firma uneingeschränkt weiter!",
+        "time": 1760003733,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Thierry Jacquaz",
+        "author_photo": "/images/reviews/vitrerie-schleppy-neuchatel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin immer sehr zufrieden mit den Brillen, die ich dort bestellt habe.",
+        "time": 1776701394,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Not Goodyear",
+        "author_photo": "/images/reviews/vitrerie-schleppy-neuchatel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr angemessener Preis, hervorragende Arbeit, vorbildliche und professionelle Mitarbeiter. Ich bin mit der geleisteten Arbeit sehr zufrieden und kann sie uneingeschränkt empfehlen.",
+        "time": 1757747911,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Yves",
+        "author_photo": "/images/reviews/vitrerie-schleppy-neuchatel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herzlicher Empfang. Die neue Ausstellung wurde hervorragend präsentiert. Das Personal war sehr freundlich, hilfsbereit und hochprofessionell.",
+        "time": 1582708377,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Daniel Chernis",
+        "author_photo": "/images/reviews/vitrerie-schleppy-neuchatel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr hilfreich, gute Qualität und unschlagbarer Preis, absolut empfehlenswert!",
+        "time": 1624604857,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

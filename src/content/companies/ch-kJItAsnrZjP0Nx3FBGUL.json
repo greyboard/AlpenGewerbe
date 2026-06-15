@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJlRgy1XJPhUcRThH5VaqfQAM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Bürgler Fischer",
+        "author_photo": "/images/reviews/suter-metallbau-gmbh-seewen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir danken für die saubere Arbeit und sind mit dem Metallbau-Ergebnis sehr zu frieden.",
+        "time": 1751901168,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Josef Suter",
+        "author_photo": "/images/reviews/suter-metallbau-gmbh-seewen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zu empfehlen für saubere und preisewerte Arbeien !",
+        "time": 1751551764,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Adrian Gisler",
+        "author_photo": "/images/reviews/suter-metallbau-gmbh-seewen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit",
+        "time": 1682699839,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "hugo kaelin",
+        "author_photo": "/images/reviews/suter-metallbau-gmbh-seewen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Suter Metallbau GmbH hat die Hauswandbefestigung für unser Balkondach mit Solaranlage ausgezeichnet umgesetzt. Die Metallarbeiten wurden mit höchster Präzision, hervorragender Qualität und großer Fachkompetenz ausgeführt. Besonders überzeugt haben die robuste Konstruktion, die saubere Verarbeitung sowie das sehr faire und konkurrenzfähige Preis-Leistungs-Verhältnis. Wir sind rundum zufrieden und können die Suter Metallbau GmbH uneingeschränkt weiterempfehlen.",
+        "time": 1780516954,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Nadia Gisler-Stadler",
+        "author_photo": "/images/reviews/suter-metallbau-gmbh-seewen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1682699915,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

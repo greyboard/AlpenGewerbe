@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJW2VoP60lkEcRyK90cQ3g5Ek",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: Geschlossen",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Werner Fehlmann",
+        "author_photo": "/images/reviews/daetwyler-heizung-sanitaer-koelliken/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben das Badezimmer renoviert. Die sanitären Installationen hat Herr Seferi mit seinem Team zu unserer vollsten Zufriedenheit ausgeführt. Für jedes unvorhergesehene Problem wurde unkompliziert kurzfristig eine Lösung gefunden. Super kompetent und verlässlich! Die Firma ist ohne Vorbehalte zu empfehlen.",
+        "time": 1776970863,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "S A",
+        "author_photo": "/images/reviews/daetwyler-heizung-sanitaer-koelliken/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service von Dätwyler Heizung Sanitär!\nIch hatte einen Notfall in Solothurn und mir wurde sofort geholfen extrem schnell reagiert und direkt gehandelt. Sehr zuverlässig, professionell und kompetent gearbeitet. Genau so stellt man sich einen Service im Ernstfall vor. Klare Weiterempfehlung!",
+        "time": 1775493723,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Alexandra",
+        "author_photo": "/images/reviews/daetwyler-heizung-sanitaer-koelliken/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Neuinstallation Fussbodenheizung und Trinkwasserleitungen\n\nSehr kompetent, professionell, perfektionistisch und von sehr guter Qualität.\nSind sehr beeindruckt von der Ausführung der Arbeiten. Es war bei uns herrausfordernd da mein Mann spezielle Wünsche und Pläne für die Installationen hatte.\nDanke, das diese genau nach der Vorstellung meines Mannes erfüllt werden konnten, auch wenn es Zeitintensiver und kein Standartbau gewesen ist.",
+        "time": 1686069979,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sabine",
+        "author_photo": "/images/reviews/daetwyler-heizung-sanitaer-koelliken/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Austausch defekter Boiler\nHerr Seferi und sein Team haben die Arbeit zu unserer vollsten Zufriedenheit ausgeführt. Freundlich - Professionell - Schnell!\nAnrufe werden immer entgegengenommen und Anfragen beantwortet.\nVielen Dank",
+        "time": 1764409559,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Christian Bachmann",
+        "author_photo": "/images/reviews/daetwyler-heizung-sanitaer-koelliken/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Austausch meines Boilers wurde aufgrund seines sehr hohen Alters notwendig. Der neue Boiler tut artig, alles ist dicht & was den KV anbelangt: dieser wurde sogar unterschritten!\nHerzlichen Dank an das Team für die tolle Arbeit wie auch für die Beratung :-)",
+        "time": 1748626558,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

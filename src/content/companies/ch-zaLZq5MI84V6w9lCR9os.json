@@ -26,5 +26,30 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJtwJADEFNhUcRmMrbmdEfWaE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Sandro Herger",
+        "author_photo": "/images/reviews/gege-metallbau-gmbh-trachslau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere und speditive Arbeit. Patrick versteht sein Handwerk und sucht die geeignete Lösung. Top!",
+        "time": 1742077847,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lucca Marty",
+        "author_photo": "/images/reviews/gege-metallbau-gmbh-trachslau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unkompliziert und hat eine super Arbeit gemacht.",
+        "time": 1729010884,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

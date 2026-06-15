@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9UAaljMZjkcRbQGJpbQzyXg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Lea zeller",
+        "author_photo": "/images/reviews/glaserei-la-vie-en-verre-gmbh-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Qualität. Maximale Wartezeit betrug 2 Wochen. Preis -Leistungsverhältnis super!. Jeder Zeit nochmals liebend gerne !",
+        "time": 1591812993,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ulrich Hutmacher",
+        "author_photo": "/images/reviews/glaserei-la-vie-en-verre-gmbh-biel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hei Jungs, wieder Superjop geleistet .\nWie immer genial von der Bestellung bis zur Ausführung, war der Gipfel.\"Gipfeli zum Kaffee inklusive\"\nImmer wieder gerne danke.",
+        "time": 1625570600,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sam Adams",
+        "author_photo": "/images/reviews/glaserei-la-vie-en-verre-gmbh-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und zuverlässig.",
+        "time": 1652266430,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ulrich Sieber",
+        "author_photo": "/images/reviews/glaserei-la-vie-en-verre-gmbh-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit: Pünktlich, freundlich, effizient",
+        "time": 1519216986,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "tom gasser",
+        "author_photo": "/images/reviews/glaserei-la-vie-en-verre-gmbh-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service.",
+        "time": 1552160430,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

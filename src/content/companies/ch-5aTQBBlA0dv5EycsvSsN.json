@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJYWyCJr8LkEcRj-MP--7lcJs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:30 Uhr",
+    "Dienstag: 07:30–18:30 Uhr",
+    "Mittwoch: 07:30–18:30 Uhr",
+    "Donnerstag: 07:30–18:30 Uhr",
+    "Freitag: 07:30–18:30 Uhr",
+    "Samstag: 08:00–14:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Markus",
+        "author_photo": "/images/reviews/versal-gmbh-maler-gipsergeschaeft-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir suchten einen Maler und wählten den nächst gelegenen aus. Es war genau die richtige Wahl. Denn Salvatore Versal vermittelte uns im persönlichen Kontakt ein angenehmes südländisches Flair, in der Arbeitsaufsführung eine hohe schweizerische Qualität, bei der er sogar zum Perfektionismus neigte. Er wollte uns einfach ein perfektes Produkt abliefern. Auf diese Weise haben wir für die nächste Zeit unseren Maler gefunden. Wir werden sicher bei ihm bleiben und empfehlen ihn unbedingt weiter.",
+        "time": 1775332744,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Silvia Schmid",
+        "author_photo": "/images/reviews/versal-gmbh-maler-gipsergeschaeft-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Arbeit. Salvatore hat sich sehr Mühe gegeben. Er hat in unserem Barlokal Gipser- und Malerarbeiten gemacht. Kann ich weiter empfehlen. :)",
+        "time": 1732635892,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luisa Monte",
+        "author_photo": "/images/reviews/versal-gmbh-maler-gipsergeschaeft-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein spezialisiertes Unternehmen! Ausgezeichnetes Preis-Leistungs-Verhältnis! Makellose Ausführung und tadellose Sauberkeit! Produkte höchster Qualität. Wir sind äußerst zufrieden! Wir werden sie definitiv für zukünftige Projekte wieder beauftragen!",
+        "time": 1747514098,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gordon Freeman",
+        "author_photo": "/images/reviews/versal-gmbh-maler-gipsergeschaeft-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fantastische Arbeit von Salvatore, ich bin sehr zufrieden mit dem Ergebnis! Er ist ein Perfektionist – und das aus gutem Grund.",
+        "time": 1732171106,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "christian macrino",
+        "author_photo": "/images/reviews/versal-gmbh-maler-gipsergeschaeft-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit zu einem tollen Preis, pünktlich geliefert. Sehr empfehlenswert.",
+        "time": 1732266905,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

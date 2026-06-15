@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJBfQ67EM3jkcRN0IkPQSTR_w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 59,
+    "reviews": [
+      {
+        "author_name": "Christian Schmid",
+        "author_photo": "/images/reviews/waelti-ag-sanitaer-heizung-ostermundigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Wälti überzeugt durch Professionalität, Zuverlässigkeit und hohe Servicequalität. Die Abwicklung verlief reibungslos, Termine wurden eingehalten, und die Kommunikation war stets freundlich und transparent. Besonders hervorzuheben ist das Engagement von Herrn Ciaramella, der sich Zeit nahm, auf alle Fragen einzugehen und passende Lösungen vorzuschlagen.\n\nIch kann sowohl Herrn Ciaramella als auch die Firma Wälti uneingeschränkt weiterempfehlen. Vielen Dank für den ausgezeichneten Service!",
+        "time": 1763487363,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Sheila Mantle",
+        "author_photo": "/images/reviews/waelti-ag-sanitaer-heizung-ostermundigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden! Die Beratung wie auch die Installateure sind sehr zuvorkommend und freundlich. Der Auftrag wurde rasch und effizient erledigt. Die Wälti AG würde ich jederzeit empfehlen!",
+        "time": 1763470596,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Rudolf Egli-Baldauf",
+        "author_photo": "/images/reviews/waelti-ag-sanitaer-heizung-ostermundigen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Steiner mit Kollege der Firma Wälti hat bei uns MERA von Geberit montiert. Sie waren sehr freundlich und Kompetent.\nDie Montage wurde rasch und sauber ausgeführt.\nWir können die Firma Wälti nur wärmstens  weiter Empfehlen.",
+        "time": 1760879214,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "egger paul",
+        "author_photo": "/images/reviews/waelti-ag-sanitaer-heizung-ostermundigen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma Wälti AG hat bei uns im EFH 2 Geberit WC's installiert (Sela&Mera) Die Beratung wie die Installation waren professionell. Ich kann diese Firma nur bestens empfehlen.",
+        "time": 1748014475,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Barbara Schenk",
+        "author_photo": "/images/reviews/waelti-ag-sanitaer-heizung-ostermundigen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben bei der Wälti AG ein Dusch-WC bestellt und es letzte Woche anschliessen lassen.\nWir wurden vor dem Kauf umfassend und äusserst zuvorkommend beraten. Uns wurde auch nicht das teuerste Modell empfohlen, sondern jenes, das unseren Ansprüchen genügt.\nDas ist sehr sympathisch.\nDie Servicemonteure waren freundlich und kompetent.\nMeine telefonischen Nachfragen nach ein paar Tagen wurden geduldig und sachkundig beantwortet.\nWir sind sehr zufrieden!",
+        "time": 1761844563,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

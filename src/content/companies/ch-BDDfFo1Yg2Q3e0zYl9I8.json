@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0YDQkMu5kUcRmQZj7zfzR1c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Marco Gröflin",
+        "author_photo": "/images/reviews/malerei-dunkel-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alles perfekt! Von der Beratung, Angebotserstellung bis Ausführung und Abschluss. Wir haben unsere gesamte Fassade inkl. Holz (Unterdach) komplett renovieren lassen. Wir sind super zufrieden mit dem Ergebnis! Besonders erwähnen möchten wir das super Preis-Leistungsverhältnis und die Qualität der ausgeführten Arbeiten, sowie die freundliche und unkomplizierte Art. Wir empfehlen die Malerei Dunkel sehr gerne uneingeschränkt weiter.",
+        "time": 1722069167,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrick Grütter",
+        "author_photo": "/images/reviews/malerei-dunkel-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top! Wir haben die Fassade streichen lassen mit viel Arbeiten am Holz. Malerei Dunkel ist dabei auf alle unsere Wünsche eingegangen, hat uns super beraten und sehr saubere Arbeit geleistet. Wir sind rundum zufrieden und können die Firma uneingschränkt weiter empfehlen.",
+        "time": 1721313022,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martina merkle",
+        "author_photo": "/images/reviews/malerei-dunkel-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tolle saubere Arbeit. Pünktlich unglaublich verlässlich und super sauber detailliert gearbeitet. Es war eine riesen Freude mit Hr Tabakovic und Team zu planen. Sehr empfehlenswert und immer wieder gerne. Auch die Farbauswahl war der Hammer, innovativ und tolle Ideen.\nWar auch bei einem Notfall sofort erreichbar und hat schnell eine perfekte Lösung gefunden. Vielen Dank.",
+        "time": 1730377614,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dieter Zimmer",
+        "author_photo": "/images/reviews/malerei-dunkel-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Beratung, Freundlichkeit, Ausführung und Termintreue alles sehr gut. Wir würden jederzeit wieder mit Malerei Dunkel arbeiten und empfehlen sie gerne. Sehr gutes Preis/Leistungsverhältnis.",
+        "time": 1566310773,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Bernhard Schuler",
+        "author_photo": "/images/reviews/malerei-dunkel-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Malerei Dunkel hat bei uns die Zimmer gestrichen. Sehr professionell und exakt. Schön geworden. Die Termine wurden eingehalten. Hier ist auch der Chef selbst auf der Baustelle. Wir empfehlen diesen Betrieb gerne weiter.",
+        "time": 1692242502,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

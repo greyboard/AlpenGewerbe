@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJQ87v2CY3jkcRWLhmjLR0JiQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Adrian Wildermuth",
+        "author_photo": "/images/reviews/baer-schreinerei-ag-stettlen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Für den Einbau neuer Küchengeräte musste unsere Küche etwas angepasst werden. Mit dem Ergebnis das die Schreinerei Baer erstellt hat sind wir sehr zufrieden. Auch ein grosses Lob an den netten Monteur.",
+        "time": 1612545033,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "chris graf",
+        "author_photo": "/images/reviews/baer-schreinerei-ag-stettlen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Schreinerei. Flexibel und zuverlässig. Bin seit Jahren sehr  zufrieden mit den Arbeiten und den Mitarbeitern der Baer Schreinerei AG. Vielen Dank. Christoph Graf",
+        "time": 1727871932,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Annemarie Kwakernaak",
+        "author_photo": "/images/reviews/baer-schreinerei-ag-stettlen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Innenausbau. Perfekt bis zum letzten Detail und sehr symphatisch.",
+        "time": 1603960057,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Cumali Özdemir",
+        "author_photo": "/images/reviews/baer-schreinerei-ag-stettlen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1653950316,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Roger Flückiger",
+        "author_photo": "/images/reviews/baer-schreinerei-ag-stettlen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1628675553,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJi5i0DQ_xj0cRkUn7_S0PvvE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Oliver Halter",
+        "author_photo": "/images/reviews/kueng-holzbau-ag-alpnach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben damals den Umbau mit Küng Holzbau AG realisiert. Sind sehr zufrieden und happy mit der professionellen Arbeit. Sehr empfehlenswert!\n\nBeste Grüsse aus Alpnachstad,\nOliver, Christof & Angelina Halter - Stickerei Halter GmbH",
+        "time": 1606811227,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jasmine Meyer",
+        "author_photo": "/images/reviews/kueng-holzbau-ag-alpnach/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Sehr schlechte firma und sehr arrogant richtig schlechte firma",
+        "time": 1646852268,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Noé Spichtig",
+        "author_photo": "/images/reviews/kueng-holzbau-ag-alpnach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1577450252,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Nino Meyer",
+        "author_photo": "/images/reviews/kueng-holzbau-ag-alpnach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1760373162,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Käslin Niklas",
+        "author_photo": "/images/reviews/kueng-holzbau-ag-alpnach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1743452802,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

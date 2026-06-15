@@ -1,7 +1,7 @@
 {
   "id": "ch-efxkkUv6ktXR484BxigG",
   "slug": "falegnameria-svanotti-sagl-muzzano",
-  "name": "Falegnameria Svanotti Sagl",
+  "name": "Svanotti Falegnameria",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJt4Pg-IQthEcRAIHPHetGs14",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Rocco Perna",
+        "author_photo": "/images/reviews/falegnameria-svanotti-sagl-muzzano/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben maßgefertigte Möbel bestellt, und das Ergebnis hat alle Erwartungen übertroffen – vom Design über die Fertigung und Lieferung bis hin zur Montage. 🔝🔝🔝🍀🍀🍀",
+        "time": 1764063879,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Davide Crudo",
+        "author_photo": "/images/reviews/falegnameria-svanotti-sagl-muzzano/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service und Präzision! Wir haben für unsere Kunden Holzgeschenke zu den Feiertagen anfertigen lassen und alles wurde perfekt verpackt und pünktlich geliefert. Vielen Dank!",
+        "time": 1674666683,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pierre Lancianesi",
+        "author_photo": "/images/reviews/falegnameria-svanotti-sagl-muzzano/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Auch wenn es sich um einen kleinen Eingriff handelte, waren die Aufmerksamkeit und die Betreuung wirklich hervorragend. Herzlichen Glückwunsch!",
+        "time": 1759723961,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Daniela Monti",
+        "author_photo": "/images/reviews/falegnameria-svanotti-sagl-muzzano/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank, sie sind stets sehr professionell, kompetent und präzise und hinterlassen den Arbeitsplatz sauber.",
+        "time": 1751370940,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Ciro Steffen",
+        "author_photo": "/images/reviews/falegnameria-svanotti-sagl-muzzano/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionalität, die alle Erwartungen übertrifft.",
+        "time": 1765272848,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

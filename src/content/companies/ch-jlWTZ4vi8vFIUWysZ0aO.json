@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvc5rIqvkj0cRCR7hqGoCUg0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Edi Mueller",
+        "author_photo": "/images/reviews/gipsergeschaeft-devittori-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der geleisteten Arbeit.",
+        "time": 1710064469,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Othmar Loser-Kalbermatten",
+        "author_photo": "/images/reviews/gipsergeschaeft-devittori-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden gut und präzise ausgeführt.",
+        "time": 1710166018,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

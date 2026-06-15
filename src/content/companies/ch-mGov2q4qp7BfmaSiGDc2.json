@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJT8WpgGYam0cR2S6X39oy9sc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Henoch Steiner",
+        "author_photo": "/images/reviews/willi-bau-ag-staad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "GARAGE-SANIERUNG:\nWir sind mit der Willibau AG rundum sehr zufrieden. Warum?\n- Fachkundige Beratung bei baustatischen Herausforderungen\n- Verlässliche Einschätzung, Offerte ohne unnötigen Papierkrieg\n- Termintreue\n- Kostentransparenz\nWir würden jederzeit wieder die Willibau AG beauftragen.\n\nHier noch einige Details:\nAusgangslage: Unsere Garage musste saniert werden:\n- Tieferlegen des Bodens damit Platz gewonnen wurde\n- Aussenwand isolieren\n\nBeurteilung und Beratung: Die Beurteilung durch Herrn Willi erwies sich im Bauverlauf als absolut richtig und angemessen.\nDie Aussenmauer musste teilweise unterfangen werden, um die Statik des Gebäudes weiterhin zu gewährleisten.\nGemäss der Beratung haben wir den Garage-Boden nicht betoniert, sondern mit Sickersteinen belegt. Das erweist sich als optimal. Wenn wir heute mit einem nassen Fahrzeug in die Garage fahren, gibt es keine Pfützen.\n\nFlexibilität: Im Verlauf der Arbeit ist ein alter Wasserschaden zum Vorschein gekommen und eine tragende Holzkonstruktion musste repariert werden.\n\nOfferte, Rechnung: Durch die fehlerfreie Beurteilung entstand eine verlässliche Offerte. Die Rechnung wich nur in den Teilen ab, die wir im Verlauf der Arbeiten zusätzlich in Auftrag gegeben haben.",
+        "time": 1750063062,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Arno Oberthaler",
+        "author_photo": "/images/reviews/willi-bau-ag-staad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten sehr gerne mit Willi Bau AG auf dem Werkplatz Altenrhein zusammen. Die ausgeführten Arbeiten sind in einer top Qualität und der Service auch wenn es um Kleinaufträge und kleine Dienstleistungen geht ist sehr zuvorkommend.",
+        "time": 1709730194,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christian Schildknecht",
+        "author_photo": "/images/reviews/willi-bau-ag-staad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nettes Team und immer sehr hilfsbereit.",
+        "time": 1778707927,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Romualdo Trinidad",
+        "author_photo": "/images/reviews/willi-bau-ag-staad/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Gutes Baugeschäft, kann nur gutes sagen",
+        "time": 1559587569,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Ayhan Yasinoğlu",
+        "author_photo": "/images/reviews/willi-bau-ag-staad/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Thank you\nSehr freundlich",
+        "time": 1695556120,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

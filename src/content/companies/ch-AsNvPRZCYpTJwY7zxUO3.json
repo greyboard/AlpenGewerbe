@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ29zhTEr3j0cRjeQBVZouM1o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Andreas Felber",
+        "author_photo": "/images/reviews/plantech-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann nur gutes von Plantech aussprechen. Stets immer vorne mit dabei, mit den neusten technischen Möglichkeiten, was die Planung für Stahl und Betonfertigteil mit sich bringt. Sie verfeinern auch immer besser ihre Automatismen, um ihren Kunden schnell und exakt die Aufträge abwickeln zu können.\nWir unterstützen Plantech immer gerne und sind auch auf das Feedback von der Front steht`s erfreut.\n\nAuf eine weitere gute Zusammenarbeit\n\nFreundliche Grüsse\n\nAndreas Felber\nBuildingPoint Schweiz AG",
+        "time": 1716394152,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Morson",
+        "author_photo": "/images/reviews/plantech-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Plantech hat für uns die Planung eines kleinen Stahlbaus übernommen. Wir sind mit der Handhabung, Kommunikation, Umsetzung und den gelieferten Unterlagen mehr als zufrieden. Absolute Empfehlung! Danke für die Entlastung.",
+        "time": 1716403178,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "C Schwendi",
+        "author_photo": "/images/reviews/plantech-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetentes und lösungsorientiertes Planungsbüro mit einem hohen Grad an Know-how im Bereich der Stahl- und Metallbauplanung.",
+        "time": 1716390560,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Künzi",
+        "author_photo": "/images/reviews/plantech-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Planungsbüro mit masshaltigen Plänen. Gute Zusammenarbeit, promte Erledigung, zum weiterempfehlen.",
+        "time": 1716448901,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ralf Kaufman",
+        "author_photo": "/images/reviews/plantech-buochs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das Team von Plantech konnte uns innert kürzester Zeit professionell und mit tollen Lösungen in der Stahlbau-Planung unterstützten! 👍",
+        "time": 1639683328,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

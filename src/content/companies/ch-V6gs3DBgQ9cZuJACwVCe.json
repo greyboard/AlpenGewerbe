@@ -1,7 +1,7 @@
 {
   "id": "ch-V6gs3DBgQ9cZuJACwVCe",
   "slug": "seeland-color-meinisberg",
-  "name": "Seeland Color",
+  "name": "Seeland Color Maler- und Gipsergeschäft",
   "branchen": [
     "gipser"
   ],
@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ94_0vMchjkcRElFR7SnVyD8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Roland Hunziker",
+        "author_photo": "/images/reviews/seeland-color-meinisberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und gute Arbeit. Offerte eingehalten und rasche adminstrative Abwicklung.\nEmpfehlenswert.",
+        "time": 1771936258,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marianne",
+        "author_photo": "/images/reviews/seeland-color-meinisberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "wir hatten schimmel maler angerufen kam sofort vorbei,innert einer woche alles behoben super arbeit gerne wieder merci",
+        "time": 1772286862,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Herbert Zürcher",
+        "author_photo": "/images/reviews/seeland-color-meinisberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent zuverlässig und stets freundlich. Eine sehr angenehme Zusammenarbeit.",
+        "time": 1768989081,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "SchwarzTextil GMBH",
+        "author_photo": "/images/reviews/seeland-color-meinisberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Rasche Beratung und gute Ausführung, was will ich mehr. Vielen Dank!",
+        "time": 1770899476,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Barbara Cossai",
+        "author_photo": "/images/reviews/seeland-color-meinisberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Dank der Verbindung in der Familie kam Seeland Color bis zu uns in den Aargau. Wir waren sehr zufrieden, besonders die Farbberatung bezüglich Fassade, Dachuntersicht und Türrahmen hat uns überzeugt. Die Baustelle war immer sauber, das schätzten wir als anspruchsvolle Bauherren sehr.",
+        "time": 1715615214,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

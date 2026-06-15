@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMxTlQHMxjEcRybSxygWNDhI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Arthur (Pendragon)",
+        "author_photo": "/images/reviews/securelec-vaud-sa-ecublens/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein zuverlässiges und kundenorientiertes Unternehmen.\n\nSie haben mehrere Gebäude in meiner Nachbarschaft inspiziert, und alle waren mit ihrem Service (Terminvereinbarung, Pünktlichkeit, Professionalität) sehr zufrieden.\nIch kann sie wärmstens empfehlen!",
+        "time": 1661837854,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mia mesa duma",
+        "author_photo": "/images/reviews/securelec-vaud-sa-ecublens/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Sie kamen, um die Elektrik in unserem Gebäude zu überprüfen. Wir sagten dem Techniker, der zu uns kam, dass unsere Lampen flackerten, besonders nachts. Der Techniker überprüfte die Steckdosen in unserer Wohnung und ging, ohne den Sicherungskasten zu öffnen. Knapp zehn Tage später geriet unser Sicherungskasten beinahe in Brand, weil ein Kabel darin brannte.",
+        "time": 1647959766,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sarah Tavernier",
+        "author_photo": "/images/reviews/securelec-vaud-sa-ecublens/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Angenehme Zusammenarbeit mit dem Unternehmen. Lächelndes und aufmerksames Personal. Ich empfehle es ohne zu zögern!",
+        "time": 1654327403,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marcos Vicente",
+        "author_photo": "/images/reviews/securelec-vaud-sa-ecublens/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnetes Unternehmen mit professionellen und hilfsbereiten Mitarbeitern.\n\nIch kann sie wärmstens empfehlen.",
+        "time": 1649139226,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hervé Dénéréaz",
+        "author_photo": "/images/reviews/securelec-vaud-sa-ecublens/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein seriöses, schnelles und sehr professionelles Unternehmen.",
+        "time": 1710594560,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

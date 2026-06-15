@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJM-S34bE3jkcR47c5mvsLZfs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Christian de Meuron",
+        "author_photo": "/images/reviews/metallbau-stoller-belp-ag-belp/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tollen Kranaufträge, gerne stehen wir Euch mit unseren Dienstleistungen jederzeit zur Seite.\nMetallbau Stoller Belp AG ist ein Top-Auftraggeber, sehr gerne empfehlen wir Metallbau Stoller Belp AG als Geschäftspartner weiter.",
+        "time": 1767623163,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Christof Sutter",
+        "author_photo": "/images/reviews/metallbau-stoller-belp-ag-belp/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kundenfreundlich. vielen Dank für die Hilfe",
+        "time": 1774612801,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Ronny Frey",
+        "author_photo": "/images/reviews/metallbau-stoller-belp-ag-belp/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundliche und professionelle Beratung. Exakte Planung und Montage.",
+        "time": 1672867011,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "André Meier",
+        "author_photo": "/images/reviews/metallbau-stoller-belp-ag-belp/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Metallbau",
+        "time": 1662147303,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Samsare",
+        "author_photo": "/images/reviews/metallbau-stoller-belp-ag-belp/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit (insbesondere mit Hr. Schläppi) ist sehr angenehm und die Lösungsvorschläge passen gut auf die \"Problemstellungen\". Der erste Teil der Montage verlief bereits positiv und bin nun gespannt auf den letzten Teil.",
+        "time": 1778579890,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

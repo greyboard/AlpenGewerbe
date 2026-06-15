@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxSj7hMA5jkcReTT5v8d_nVA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Roland Ziegler",
+        "author_photo": "/images/reviews/ts-lightning-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit. Freundliche, kompetente Beratung und schnelle Montage in top Qualität. Haben zwei Deckenlampen montieren lassen.",
+        "time": 1678218590,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Tizian Winzenried",
+        "author_photo": "/images/reviews/ts-lightning-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super, freundlicher und schneller Service. Sehr kompetente Elektriker.",
+        "time": 1774625779,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "I. Shinoda",
+        "author_photo": "/images/reviews/ts-lightning-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundlich, schnell und kompetent. Haben zwei Lampen montieren lassen und sind mit dem Ergebnis mehr als zufrieden. Faire Konditionen.",
+        "time": 1557819989,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Ruedi Marti",
+        "author_photo": "/images/reviews/ts-lightning-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "SEHR! schnell, dazu zuverlässig und unkompliziert - DANKE!",
+        "time": 1553332764,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Didier Steiner",
+        "author_photo": "/images/reviews/ts-lightning-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super, kompetenter Service. immer wieder.",
+        "time": 1552993474,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

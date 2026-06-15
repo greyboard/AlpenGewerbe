@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0bj0fL2kmkcRVvj8-7Pb_5Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Mike Grätzer",
+        "author_photo": "/images/reviews/zind-holzbau-gmbh-haetzingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Pawel ist ein super Allrounder, Er arbeitet sehr effizient und unkompliziert. Man merkt sofort dass er das nötige Know-How besitzt und sich auch schulisch ständig weitergebildet hat in seinem Handwerk. Ich habe sellten etwas vergleichbares mit anderen Handwerkern erlebt. Auch als Person ist Er sehr sehr angenehm und Sein ehrliches kollegiales Verhalten fällt sofort beim ersten Kontakt auf.\n\nIch kann daher seine Dienstleistungen in jeder hinsicht weiterempfehlen!\n\nGerne wieder Pawel 🛠️",
+        "time": 1728897194,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bruno Küng",
+        "author_photo": "/images/reviews/zind-holzbau-gmbh-haetzingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Pawel Camenzind verwirklichte unser langjähriges Projekt Gartenhaus. Seine Genauigkeit, situationsangepasste Kompromisse und speditive Arbeitsweise zeichnen ihn aus.",
+        "time": 1730102579,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hermann Hase",
+        "author_photo": "/images/reviews/zind-holzbau-gmbh-haetzingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Ergebnis, bin mit der Leistung sehr zufrieden!",
+        "time": 1498204164,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Ryan Kälin",
+        "author_photo": "/images/reviews/zind-holzbau-gmbh-haetzingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter cheff !",
+        "time": 1728901414,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

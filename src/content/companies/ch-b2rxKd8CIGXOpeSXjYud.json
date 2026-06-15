@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKeKylt5-kEcRSQaCGjGXgFw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "silvio altmann",
+        "author_photo": "/images/reviews/schwaninger-ag-beringen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Guter Maler zu vernünftigen Preisen. Herr Kamel hat mich hervorragend beraten. Sehr freundlich und fachlich kompetent. Sehr zu empfehlen.",
+        "time": 1729346057,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexander Volck",
+        "author_photo": "/images/reviews/schwaninger-ag-beringen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Schwaninger AG Team um Herrn Brun und Herrn Krüger haben bei den Maler- und Sanierungsarbeiten an unserem Haus eine perfekte Arbeit abgeliefert. Von der Beratung bei der Farbwahl und der sehr pünktlichen und gewissenhaften Ausführung und dabei auch pünktlichen Einhaltung des Zeitplanes waren wir und sind wir jeden Tag sehr zufrieden mit der Leistung und dem Ergebnis. Ein herzliches Dankeschön nochmals für den super Job!",
+        "time": 1601152487,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roland Mueller",
+        "author_photo": "/images/reviews/schwaninger-ag-beringen/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Herr Brun und sein Team haben vor kurzem bei mir als Sub-Unternehmer einen Auftrag ausgeführt. Im grossen und ganzen war ich sehr zufrieden. Der Teamleiter und seine Crew waren sehr engagiert, hilfsbereit, immer freundlich, effizient und lieferten eine gute Arbeit ab.\n\nLeider wurde der Gesamteindruck von einem \"Hilfs- Maler\" getrübt, sonst hätte ich gerne 4 oder sogar 5 Sterne gegeben.",
+        "time": 1605811477,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Mathias Weber",
+        "author_photo": "/images/reviews/schwaninger-ag-beringen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eigentlich wollten wir lediglich unser Schlaf- und Wohnzimmer neu streichen (weiss), da sich über die Jahre die üblichen Abnutzungen abzeichneten. Selbstverständlich wäre die Schwaninger AG unserem Wunsch nachgekommen, machte uns allerdings darauf aufmerksam, dass weisse Wände eigentlich in Spitäler und Altersheime gehören und alles andere als modern sind. Zum Glück haben wir auf den Rat der Schwaninger AG gehört – die Wohnung sieht jetzt gleich deutlich moderner und frischer aus.\nVon der Beratung (zwei Termine: Erstbesichtigung, Farbberatung) bis zur Ausführung verlief alles überaus professionell und kundenorientiert. Mit Sicherheit ein Best Practice-Beispiel für viele Handwerksbetriebe.\nIch hätte früher auf meine Eltern hören sollen, die bereits seit Jahren mit der Schwaninger AG arbeiten. So wäre uns sehr viel Ärger mit anderen Betrieben erspart geblieben.",
+        "time": 1616820855,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Vladimir Glas",
+        "author_photo": "/images/reviews/schwaninger-ag-beringen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein top Unternehmen, dessen gute Qualität und Kundenservice uns schon mehrmals überzeugt hat. Zum grossen Teil ist das dem Projektleiter Herr Brun zu verdanken. Vielen Dank!",
+        "time": 1650968111,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

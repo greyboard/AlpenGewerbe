@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJfWPoYIBLhEcRMt6WUe1kbp8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "ivan noris",
+        "author_photo": "/images/reviews/vetro-design-sagl-bellinzona/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Endlich ein professionelles und kompetentes Unternehmen!!! VIELEN DANK VETRO DESIGN, VIELEN DANK DANIELE, Sie haben mir nicht einfach nur eine Dusche gebaut, sondern ein wahres Glaskunstwerk!",
+        "time": 1773677242,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Mirko Jeria",
+        "author_photo": "/images/reviews/vetro-design-sagl-bellinzona/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles war wirklich hervorragend. Der Inhaber war überaus freundlich und professionell. Die Produkte waren erstklassig, und die Arbeit wurde pünktlich und präzise ausgeführt. Mein großes Lob!",
+        "time": 1765987769,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Douglas Marinini",
+        "author_photo": "/images/reviews/vetro-design-sagl-bellinzona/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Seit ich Vetro Design und Inhaber Daniele Tortoriello kennengelernt habe, bin ich sofort von der Leidenschaft und dem Talent des Unternehmens beeindruckt.\n\nDie Qualität der Drucke ist wirklich außergewöhnlich, und die Liebe zum Detail zeigt sich in jedem einzelnen Produkt.\n\nDie angebotenen Glasdrucke sind absolut faszinierend und fangen die Essenz der Bilder auf eine spannende und ansprechende Weise ein.\n\nVetro Design bietet jedem, der individuelle Glasdrucke gestalten möchte, die perfekte Lösung.",
+        "time": 1692551625,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefano Esposito",
+        "author_photo": "/images/reviews/vetro-design-sagl-bellinzona/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe in Zusammenarbeit mit Vetro Design aus Bellinzona bereits mehrere Projekte in der Schweiz und in Italien realisiert. Trotz der Wünsche nach hochgradig individualisierten Produkten wurden die Erwartungen stets voll erfüllt.\n\nArchitekt Stefano Esposito",
+        "time": 1691921711,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Anna Maria Mauti",
+        "author_photo": "/images/reviews/vetro-design-sagl-bellinzona/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vetro Design macht Träume wahr 🥰 Ein super professionelles Team, das sein Geld wirklich wert ist!\nSie gestalten Ihren Wohnraum einzigartig 😊 Absolut empfehlenswert 👍🏻",
+        "time": 1696003552,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

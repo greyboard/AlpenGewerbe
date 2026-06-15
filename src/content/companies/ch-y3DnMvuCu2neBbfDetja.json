@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJdQqPmoP7j0cRbklrG-LLaFE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Julian J",
+        "author_photo": "/images/reviews/robert-widmer-ag-elektrische-anlagen-luzern/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Projektleiter ist kompetent, schnell, zuverlässig. Das kann man von den Elektriker selber nicht behaupten. Telefoniere den ganzen Tag durch bei der Arbeit privat, verschwinden einfach für mehrere Stunden mehrmals ohne etwas zu sagen, machen alle 10 Minuten eine Rauchpause und können anscheinend nicht auf die Toilette gehen ohne alles komplett zu versauen.\nNiemehr",
+        "time": 1732810395,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sven Kulmer",
+        "author_photo": "/images/reviews/robert-widmer-ag-elektrische-anlagen-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Pünktliche und saubere Arbeiten.\nSehr freundliche Mitarbeiter. Was\nhervorzuheben ist, das nach den\nArbeiten ein toller und schneller\nSupport vorhanden ist.  Top Beratung.\nSehr Empfehlenswert.",
+        "time": 1576082396,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Gregorio Polito",
+        "author_photo": "/images/reviews/robert-widmer-ag-elektrische-anlagen-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Robert Widmer AG hat alles was man braucht:\nFreundliche + Sympathischen und Professionelle Mitarbeiter/in = Quality\n👌👍",
+        "time": 1730968529,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Karl Gschwend",
+        "author_photo": "/images/reviews/robert-widmer-ag-elektrische-anlagen-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr positive Erfahrung mit einem äussrst pünktlichen und überdurchschnittlich engagierten Einsatz von Herrn Limacher.",
+        "time": 1707327548,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "raeed Khan",
+        "author_photo": "/images/reviews/robert-widmer-ag-elektrische-anlagen-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gutes Personal",
+        "time": 1673040588,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

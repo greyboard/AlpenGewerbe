@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ01D4_WAem0cRKPn4z-16PN4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Joshua Soppelsa",
+        "author_photo": "/images/reviews/steiner-malerei-gmbh-d-l-st-gallen/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Der Maler der Firma ist Top! Freundlich, exakt, schnell und sehr sauber bei der Arbeit. Seinen Vorgesetzten ich denke Herr St. persönlich ist das Gegenteil. Sehr unhöflich, fordernd und unfreundlich. Es tut mir leid für diese Bewertung aber die Art und Weise des sogenannten \"Chefs\" war unter aller Sau.. Nie wieder werde ich diese Person in meine Wohnung lassen. Kommunikation aus der untersten Schublade..",
+        "time": 1615548215,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Norbert Stadler",
+        "author_photo": "/images/reviews/steiner-malerei-gmbh-d-l-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gut Leistungen der Malerei Steiner. Sei es an einer Fassade oder im Innenbereich.\nmit freundlichen Grüssen  Norbert Stadler Stadler Schreinerei AG Rorschach",
+        "time": 1694747218,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Monika Rufer",
+        "author_photo": "/images/reviews/steiner-malerei-gmbh-d-l-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Steiner Malerei ist auch während den Sommerferien für kurzfristige Malerarbeiten verfügbar. Vielen Dank für die gute Arbeit und insbesondere die Flexibilität!",
+        "time": 1598610736,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniela Graf",
+        "author_photo": "/images/reviews/steiner-malerei-gmbh-d-l-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Farbberatung, super Service. Vielen Dank wir haben Freude an der neuen Fasade.",
+        "time": 1518295477,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Przemysław Włodarczyk",
+        "author_photo": "/images/reviews/steiner-malerei-gmbh-d-l-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sher schön gut firma",
+        "time": 1688291575,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

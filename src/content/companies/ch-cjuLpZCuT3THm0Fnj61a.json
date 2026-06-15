@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJV6RKgCanmkcRtTSvfON_AIo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 68,
+    "reviews": [
+      {
+        "author_name": "Beatrix",
+        "author_photo": "/images/reviews/gatto-maler-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ganz toller Service\nWurde gut beraten und die Arbeiten wurden mit grösster Sorgfalt und zu unserer vollsten Zufriedenheit ausgeführt.\nGanz tolle Firma und sehr netter kompetenter Angestellter.\nImmer wieder !",
+        "time": 1770909744,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Tim 998",
+        "author_photo": "/images/reviews/gatto-maler-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Gatto Maler AG hat eine hervorragende Arbeit geleistet! Die Mitarbeiter waren äußerst professionell, zuverlässig und freundlich. Sie haben uns bei der Farbauswahl und der Planung des Projekts ausgezeichnet beraten und uns mit ihrem Fachwissen beeindruckt. Die Arbeit wurde pünktlich und sauber ausgeführt und das Ergebnis hat unsere Erwartungen übertroffen. Wir sind begeistert von der Arbeit in unseren Räumen und würden das Malergeschäft jedem empfehlen, der eine qualitativ hochwertige Arbeit zu einem fairen Preis sucht. Vielen Dank für die tolle Zusammenarbeit!",
+        "time": 1683532002,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Enis Saydan",
+        "author_photo": "/images/reviews/gatto-maler-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Preis-Leistungverhältnis stimmt. Auch spontane, kurzfristige Aufträge werden, wenn irgendwie möglich, rasch und trotzdem zur vollen Zufriedenstellung erledigt. Wir können die Firma Gatto Maler AG somit sehr gerne weiterempfehlen.",
+        "time": 1683398254,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrick Glauser",
+        "author_photo": "/images/reviews/gatto-maler-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die professionelle Beratung, saubere und termingerechte Arbeit sowie die unkomplizierte Handhabung von kleineren Zusatzarbeiten. Ich kann die Gatto Maler AG wärmstens weiterempfehlen.",
+        "time": 1720504982,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Janina Schnieper",
+        "author_photo": "/images/reviews/gatto-maler-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und kompetente Beratung. Die Reaktion auf meine Anfrage wurde superschnell beantwortet und die Kommunikation grandios. Bin echt begeistert von der Freundlichkeit und Professionalität von Maler Locher GmbH. Vielen lieben Dank!",
+        "time": 1728573780,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

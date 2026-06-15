@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJs5w6n_f3j0cRTEJtOziuD_M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Albert Polat",
+        "author_photo": "/images/reviews/wallimann-ag-ennetbuergen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Nachdem sich bei einem Stum ein Firstziegel gelöst hatte habe ich die Firma beauftrag den Schaden zu beheben. Nach der ersten Meldung geschah nichts, dann eine zweite und anschliessend sogar eine dritte bis die Reparatur vorgenommen wurde - Die Rechung kam dann postwendent, über 500.- CHF für einen Ziegel einzusetzen. Nachdem ich mich erneut telefonisch gemeldet hatte wurde mir versporchen das die Abrechung überprüft wird - gehört habe ich nie wieder was. So stelle ich mir guten Kundenservice nicht vor.",
+        "time": 1552383152,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Sandra Keiser",
+        "author_photo": "/images/reviews/wallimann-ag-ennetbuergen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1740910187,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hodel Stephan",
+        "author_photo": "/images/reviews/wallimann-ag-ennetbuergen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1638996661,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Baumann Patrik",
+        "author_photo": "/images/reviews/wallimann-ag-ennetbuergen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1535435008,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marco Gabriel",
+        "author_photo": "/images/reviews/wallimann-ag-ennetbuergen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1505228886,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJbZRVk4rymkcR4KbS0a4p9sI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Thomas Bachmann",
+        "author_photo": "/images/reviews/holzbauzenter-k-nyfeler-wigoltingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir durften hier das Harte Häuschen kaufen. Superberatung und unkompliziertes aufstellen. Man kann auch viele andere Sachen beziehen wie Hochbeete",
+        "time": 1762886602,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Christian Eggenberger",
+        "author_photo": "/images/reviews/holzbauzenter-k-nyfeler-wigoltingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In unkomplizierter, speditiver Zusammenarbeit mit uns und mit Herr Stübi, Inhaber von Gartenbau Stübi Weinfelden hat das Holzbauzenter K. Nyfeler ein zu unserem Einfanmilienhaus passendes Gartenhaus mit Vordach an einem steilen Hang geplant und aufgebaut. Eine Installation, die uns gewiss, viele Jahre erfreuen wird.",
+        "time": 1751615391,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Bruno Schaller",
+        "author_photo": "/images/reviews/holzbauzenter-k-nyfeler-wigoltingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung und perfekte Ausführung. Wir können das Holzbauzenter sehr empfehlen, nachdem wir eine Terrasse saniert und zwei Gartenhäuser erneuert haben. Die Qualität, Ausführung und das Preis-/Leistungsverhältnis sind sehr gut.",
+        "time": 1564253546,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Monika H.",
+        "author_photo": "/images/reviews/holzbauzenter-k-nyfeler-wigoltingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Unkompliziert, gute Beratung und gutes Preis/Leistungsverhältnis. Besten Dank.",
+        "time": 1745056096,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Roland Morgenthaler",
+        "author_photo": "/images/reviews/holzbauzenter-k-nyfeler-wigoltingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Ausführung und Beratung, Qualität",
+        "time": 1744967695,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

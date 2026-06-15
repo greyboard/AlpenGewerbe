@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJebAiRwyPmkcRFgJV0U6OX38",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Mo Li",
+        "author_photo": "/images/reviews/schreiner-plus-jonathan-ruehli-nussbaumen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super kompetent, freundlich,  zuverlässig, und auch schnell. Gute Beratung. Stets saubere Arbeit. Sehr zu empfehlen! Für alle Arbeiten mit Holz aber auch das Einsetzen von zerbrochenem Glas in einer Schwedenofentür war kein Problem.",
+        "time": 1761052140,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "S M",
+        "author_photo": "/images/reviews/schreiner-plus-jonathan-ruehli-nussbaumen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben Insektenschutz für die Mietwohnung anbringen lassen. Top Qualität und Herr Rühli ist ein sehr guter und erfahrener Fachmann.\n\nAuch bei Problemen oder Fragen kann er sehr gut weiterhelfen und ist immer erreichbar.\n\nDurch die kompetente Art werden wir  ihn für sämtliche Arbeiten in Erwägung ziehen.",
+        "time": 1704711830,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ramona B",
+        "author_photo": "/images/reviews/schreiner-plus-jonathan-ruehli-nussbaumen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Rühli hat bei uns die Insektenschutzgitter im ganzen Haus installiert. Sowohl der vorgängige Kontakt (auch mit Frau Rühli) wie auch die ausgeführte Arbeit vor Ort war sehr gut. Auch das Preis-Leistungs-Verhältnis stimmt. Kann ich guten Gewissens weiterempfehlen!",
+        "time": 1661503399,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rahel H.",
+        "author_photo": "/images/reviews/schreiner-plus-jonathan-ruehli-nussbaumen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Insektenschutz und Lichtschachtabdeckung auf Mass anfertigen lassen. Super Beratung und Qualität. Der Auftrag wurde sehr schnell ausgeführt. Wir sind sehr zufrieden und können Herrn Rühli nur weiterempfehlen.",
+        "time": 1631908992,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "oliver arnet",
+        "author_photo": "/images/reviews/schreiner-plus-jonathan-ruehli-nussbaumen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fliegengitter im ganzen Haus machen lassen von Hr. Rühli. Kann ihn nur empfehlen! Sehr gute Arbeit zu fairen Preisen. Service ist auch sehr zuvorkommend.",
+        "time": 1711378017,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

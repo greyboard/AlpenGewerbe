@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJg298USb3mkcR55mho6hPPRM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Roger Fink",
+        "author_photo": "/images/reviews/cfi-bauabdichtungen-gmbh-kreuzlingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Flexible Mitarbeiter, sehr gute Beratung und eine saubere, lösungsorientierte Arbeitsausführung.\nDanke an Andy Hug und sein Team.\nGerne wieder!",
+        "time": 1771583370,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Salva C.",
+        "author_photo": "/images/reviews/cfi-bauabdichtungen-gmbh-kreuzlingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Firma, super Mitarbeiter, saubere Ausführung der Arbeit",
+        "time": 1525931731,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Seraina Joos",
+        "author_photo": "/images/reviews/cfi-bauabdichtungen-gmbh-kreuzlingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Firma,\nwaren sehr zufrieden !!!👍👍",
+        "time": 1658592123,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Celina Grünwald",
+        "author_photo": "/images/reviews/cfi-bauabdichtungen-gmbh-kreuzlingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1746528846,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daisy Kelly",
+        "author_photo": "/images/reviews/cfi-bauabdichtungen-gmbh-kreuzlingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697224570,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

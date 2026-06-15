@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP0KDvcSBmkcR8yQTXsusIbI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Beatrice Wegmüller",
+        "author_photo": "/images/reviews/bernath-elektro-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gerne empfehle ich die Firma Bernath Elektro AG weiter, bereits beim 1. telefonischen Kontakt hat eine sehr freundliche Dame geantwortet und mir einen zeitnahen Termin eines Mitarbeiters zugesichert. Tobias Klaus, ein äusserst ambitionierter und freundlicher Techniker hat das Problem umgehend erkannt und mittels eines speziellen Elektroteils, welches er direkt am Folgetag montiert hat, behoben. Ich bin begeistert von diesem herausragenden Unternehmen, wie auch von dessen Mitarbeiter und deren Freundlichkeit sowie Fachkompetenz, weshalb ich sogar 10 von 10 Sternen geben würde.",
+        "time": 1767995916,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Dominik Stärk",
+        "author_photo": "/images/reviews/bernath-elektro-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Arbeit! Vielen Dank an R. Hirt für die Top Ausführung… Gerne wieder",
+        "time": 1773397159,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Bernd Schumacher",
+        "author_photo": "/images/reviews/bernath-elektro-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "\"Gute Beratung, professionelle Arbeit und fairer Preis. Das Team von Bernarth Elektroinstallation ist kompetent und zuverlässig. Sehr empfehlenswert für alle Elektroarbeiten!\"",
+        "time": 1719942848,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gary Hümbeli",
+        "author_photo": "/images/reviews/bernath-elektro-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke an das Team Bernath Elektro AG für den Einsatz. Immer wieder gerne.",
+        "time": 1717052319,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Augsburger",
+        "author_photo": "/images/reviews/bernath-elektro-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Firma von A wie Administration bis Z wie Ziel erreicht ;)",
+        "time": 1639520139,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

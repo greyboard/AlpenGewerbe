@@ -26,5 +26,47 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJQx-2kxZChUcR6dFYTmf8SNE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Adrian Furrer",
+        "author_photo": "/images/reviews/kundenmaurer-epp-jauch-gmbh-erstfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Umgestaltung Gartenbereich, Ergänzungen Steinmauer, Betonarbeit und erstellen einer Blockstufentreppe.\nSaubere Arbeit, Sehr kompetentes Team.",
+        "time": 1743057280,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Klaus Beeler",
+        "author_photo": "/images/reviews/kundenmaurer-epp-jauch-gmbh-erstfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kleine Baufirma aber effizient und preiswert. Gute Fachkräfte.",
+        "time": 1676034382,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Felix Strüby",
+        "author_photo": "/images/reviews/kundenmaurer-epp-jauch-gmbh-erstfeld/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1694670877,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

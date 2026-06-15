@@ -26,5 +26,38 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJNUFRqcZrjkcRu3_nthKGPTE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Jacqueline Imhof",
+        "author_photo": "/images/reviews/manfred-zurkinden-kunstgewerbliches-atelier-metallbau-duedingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig, freundlich und kompetent ! Reibungsloser Ablauf. Perfekt geklappt.\nGerne wieder :-)",
+        "time": 1605517670,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Michael Zurkinden",
+        "author_photo": "/images/reviews/manfred-zurkinden-kunstgewerbliches-atelier-metallbau-duedingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Und es funktioniert, wie immer!",
+        "time": 1664446233,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Cornelie De Vries",
+        "author_photo": "/images/reviews/manfred-zurkinden-kunstgewerbliches-atelier-metallbau-duedingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1543664889,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

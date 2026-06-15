@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJf-qoVzw9m0cREMzgIT5_xno",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Klaus Appel",
+        "author_photo": "/images/reviews/brunner-gartengestaltung-ag-eichberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Früher schon den Vater für mein privates Garten-Projekt samt Stützmauer, Einfriedung und mehr und später in 2023 als Nachfolger den Sohn Ivo Brunner für eine Geschäftsprojekt (400m2 Biergarten) beauftragt. Die Firma macht eine perfekte Arbeit. Kostenvoranschläge werden im Detail ausgearbeitet und zum Ende der Projekte stimmte alles, wie geplant. Diese Firma ist bestens zu empfehlen.",
+        "time": 1774887655,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "D. W.",
+        "author_photo": "/images/reviews/brunner-gartengestaltung-ag-eichberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Was soll ich dazu sagen????\n\nTop Beratung vom Chef Ivo Brunner mit viel Geduld bei Materialauswahl, terminsicher, sehr freundliche Mitarbeiter, auch bei Regen tolle Arbeitsmoral, auch problemlos Sonderwünschen erfüllt und ein schönes Schlussbild zum fairen Preis. Für mich DER Gartenbauer unserer Bedürfnisse, auch weit über den Auftrag hinaus.",
+        "time": 1751471549,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Jan Keel",
+        "author_photo": "/images/reviews/brunner-gartengestaltung-ag-eichberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ivo Brunner und sein Team waren stets pünktlich, fleißig und hatten mehr Ideen im Gepäck, als ich Unkraut im Garten.\nPlanung und Umsetzung waren sehr professionell, kreativ und zeugten von einem feinen Gespür für Details.\nDas Preis-Leistungs-Verhältnis der Firma ist hervorragend.",
+        "time": 1747377559,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Lüttinger",
+        "author_photo": "/images/reviews/brunner-gartengestaltung-ag-eichberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Neugestaltung unseres Gartens hat Ivo und sein Team super gemacht. Sie arbeiten fleissig und mit Sorgfalt, denken mit und bringen auch gute Ideen ein. Ich empfehle die Firma gerne weiter.",
+        "time": 1746694437,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marco Ammann",
+        "author_photo": "/images/reviews/brunner-gartengestaltung-ag-eichberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von der Beratung über die Offerte bis hin zur Ausführung und Abrechnung alles top. Ivo Brunner nimmt sich gerne Zeit und sucht individuelle Lösungen zusammen mit der Kundschaft. Brunner Gartenbau - immer wieder gerne.",
+        "time": 1747471471,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

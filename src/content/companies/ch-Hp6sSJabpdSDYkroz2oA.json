@@ -1,7 +1,7 @@
 {
   "id": "ch-Hp6sSJabpdSDYkroz2oA",
   "slug": "azelec-sa-corminboeuf",
-  "name": "AZELEC SA",
+  "name": "Azelec Sàrl",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6xBd1MdujkcRWWbOdVnnQyM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–16:30 Uhr",
+    "Dienstag: 08:00–16:30 Uhr",
+    "Mittwoch: 08:00–16:30 Uhr",
+    "Donnerstag: 08:00–16:30 Uhr",
+    "Freitag: 08:00–11:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 33,
+    "reviews": [
+      {
+        "author_name": "Marie-Jeanne Zablonier",
+        "author_photo": "/images/reviews/azelec-sa-corminboeuf/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Nie wieder!!!! Viel zu teuer und doppelte Abrechnung. Sie berechnen 15 Minuten Arbeit (bei maximal 20 Minuten Anfahrt) und behaupten dann, das sei bei allen Firmen so. Zusätzlich kommen noch Bearbeitungsgebühren und eine weitere Servicegebühr hinzu.\n\nIch finde es schlichtweg unverschämt, 356,40 CHF für den Austausch eines einfachen Lichtdimmers (der 160,80 CHF kostet) im Badezimmer zu verlangen.",
+        "time": 1771581127,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Patrick Maillard",
+        "author_photo": "/images/reviews/azelec-sa-corminboeuf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "AZELEC hat die komplette Elektroinstallation in zwei meiner Gebäude durchgeführt: einem 1.000 m² großen Bürogebäude und einer 750 m² großen freistehenden Villa. Die Arbeiten wurden effizient und fachgerecht ausgeführt. Besonders hervorzuheben ist, dass sie während der gesamten Projektlaufzeit stets auf mein Feedback eingingen und dabei eine hervorragende Reaktionsfähigkeit bewiesen. Die offene Kommunikation war jederzeit gewährleistet, sodass beide Projekte reibungslos verliefen.",
+        "time": 1733405152,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Mulhauser",
+        "author_photo": "/images/reviews/azelec-sa-corminboeuf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben mit AZELEC renoviert und die Arbeiten sind nun abgeschlossen. Alles wurde perfekt und planmäßig ausgeführt. Die Mitarbeiter waren sehr freundlich und kompetent. Die Arbeit und die Beratung waren einfach perfekt! Vielen Dank, wir sind mit dem Ergebnis sehr zufrieden! Zögern Sie nicht!",
+        "time": 1693495692,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Trimor Drini",
+        "author_photo": "/images/reviews/azelec-sa-corminboeuf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Seriöses, effizientes und verfügbares Unternehmen. Ich empfehle es!",
+        "time": 1652819032,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Pascal Baechler",
+        "author_photo": "/images/reviews/azelec-sa-corminboeuf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fantastisch, ein zuverlässiges und schnelles Unternehmen! Vielen Dank!",
+        "time": 1598362598,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

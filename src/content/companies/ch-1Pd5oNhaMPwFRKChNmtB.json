@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJB_Wwp0ROhUcRwf3LKGB7sjU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Hanspeter Abegg",
+        "author_photo": "/images/reviews/bolfing-ag-ibach/reviewer_1.jpg",
+        "rating": 4,
+        "text": "sehr freundlich, und hilfsbereit",
+        "time": 1715508105,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Adrian Beeler",
+        "author_photo": "/images/reviews/bolfing-ag-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen",
+        "time": 1741233796,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Selim Nrd",
+        "author_photo": "/images/reviews/bolfing-ag-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1771831358,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Johann Richiger",
+        "author_photo": "/images/reviews/bolfing-ag-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1703626108,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "guglielmo zisa",
+        "author_photo": "/images/reviews/bolfing-ag-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1687689299,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

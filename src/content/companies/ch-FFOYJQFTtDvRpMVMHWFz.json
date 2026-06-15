@@ -26,5 +26,38 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3-Fb244jm0cRJMJfxHfaVfs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Paul Strobl",
+        "author_photo": "/images/reviews/alpstein-bau-ag-gartenbau-tiefbau-appenzell-weissbad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629807338,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrik Ulmann",
+        "author_photo": "/images/reviews/alpstein-bau-ag-gartenbau-tiefbau-appenzell-weissbad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1624014581,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sandy Matz",
+        "author_photo": "/images/reviews/alpstein-bau-ag-gartenbau-tiefbau-appenzell-weissbad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621535628,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

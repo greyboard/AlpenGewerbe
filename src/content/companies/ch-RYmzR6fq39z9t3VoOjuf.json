@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ12htAqPNkUcR0C9d01tUaQs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Pascal Wälchli",
+        "author_photo": "/images/reviews/hk-dach-gmbh-reigoldswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zwei sehr kompetente und freundliche Fachleute. Qualitativ hochwertige Arbeit und zuverlässige Ausführung. Definitiv eine Weiterempfehlung",
+        "time": 1745257815,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Loretan",
+        "author_photo": "/images/reviews/hk-dach-gmbh-reigoldswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionelle Auftragsabwicklung, fairer Preis, gute Qualität und speditives Arbeiten zeichnen dieses Unternehmen aus.",
+        "time": 1675759434,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sachunsky Michal",
+        "author_photo": "/images/reviews/hk-dach-gmbh-reigoldswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1776098553,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

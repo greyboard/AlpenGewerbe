@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJhdIX7_4cm0cRnZyrIm9EOkA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 39,
+    "reviews": [
+      {
+        "author_name": "Die Klimamacher AG „dieklimamacher.ch“",
+        "author_photo": "/images/reviews/bachofer-ag-gelaender-zaeune-metallbau-arbon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Bachofer hat bei uns Umbauarbeiten ausgeführt und wir sind rundum zufrieden. Von der kompetenten und lösungsorientierten Beratung bis hin zur sauberen, termingerechten und professionellen Ausführung lief alles sehr speditiv und strukturiert ab.\n\nEin besonderer Dank geht an Genc Iljazi und sein Team für die hervorragende Arbeit, die angenehme Zusammenarbeit und die hohe Qualität in der Umsetzung.\n\nWir können Bachofer uneingeschränkt weiterempfehlen und würden jederzeit wieder mit ihnen zusammenarbeiten.",
+        "time": 1772033690,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Julia Federer",
+        "author_photo": "/images/reviews/bachofer-ag-gelaender-zaeune-metallbau-arbon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der Arbeit.\nVon der Planung bis hin zur Montage lief alles super und einwandfrei.\nBei Fragen war auch Herr Ciaburri jederzeit erreichbar und kam auch vorbei, um vor Ort alles nochmal anzuschauen.\nDie Männer, die die Zäune montierten, waren auch sehr angenehm.\nGerne wieder. Vielen Dank",
+        "time": 1662147906,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Reto Brülisauer",
+        "author_photo": "/images/reviews/bachofer-ag-gelaender-zaeune-metallbau-arbon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben das Zaunmaterial bei Bachofer bezogen und montieren ihn selbst. Dabei hat uns Herr Ciaburri kompetent, zielgerichtet und unkompliziert mit seiner Beratung unterstützt.\n\nDie Angebotsbearbeitung dauerte nur kurze Zeit, auch Rückfragen wurden umgehend beantwortet.\n\nWir sind sehr zufrieden mit dem Service!\nGerne wieder. Vielen Dank",
+        "time": 1662702929,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Bruno Huber",
+        "author_photo": "/images/reviews/bachofer-ag-gelaender-zaeune-metallbau-arbon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service. Danke für die Lieferung.",
+        "time": 1771576933,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Xyz Xzy",
+        "author_photo": "/images/reviews/bachofer-ag-gelaender-zaeune-metallbau-arbon/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Der schlechteste Kundenservice, den ich je gesehen habe: unfreundlich, extrem langsam und inkompetent. Die eine Person am Empfang brauchte nur schon ewig, um meine Bestellung aufzunehmen. Ausserdem waren auf zahlreichen laminierten Informationsblättern Schreibfehler. Wirklich schlecht! Die Preise waren zudem völlig überrissen; dreimal so teuer wie an einem anderen Ort. Dann hatten sie auch noch die Frechheit, 25 Fr. für das Holen und Bringen der Ware an mein Auto zu verrechnen, was überdies auch wieder sehr viel Zeit in Anspruch nahm (keine Ahnung, was der noch tat).\nEinmal und nie wieder!",
+        "time": 1658485821,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-Fw3C979IBFzk0jf8e0aa",
   "slug": "maurer-treuhand-zuerich",
-  "name": "Maurer Treuhand",
+  "name": "Th. Maurer Treuhand AG",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,16 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
+  ],
+  "googlePlaceId": "ChIJf0ZGSFOnmkcRM8fdiuAgA3I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
   ]
 }

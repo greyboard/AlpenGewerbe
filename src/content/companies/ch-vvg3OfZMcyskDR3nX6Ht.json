@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTa1TCAa5kUcRz3saGSHwSlI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 36,
+    "reviews": [
+      {
+        "author_name": "Raphael Kym",
+        "author_photo": "/images/reviews/a-b-flachdach-ag-reinach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Einfamilienhaus in Basel umfassend saniert und wurden dabei von A+B begleitet. Bereits im Vorfeld hatten wir von mehreren Seiten Positives über das Unternehmen gehört. Während des Projekts hat sich dieser Eindruck bestätigt. Besonders hilfreich war die klare Kommunikation und die professionelle Begleitung während der gesamten Bauphase. Auch bei unerwarteten Herausforderungen wurden pragmatische Lösungen gefunden. Heute freuen wir uns über ein modernisiertes und dichtes Zuhause und würden die A+B Flachdach jederzeit weiterempfehlen.",
+        "time": 1780581883,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Alan Andre",
+        "author_photo": "/images/reviews/a-b-flachdach-ag-reinach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir durften gemeinsam mit der A+B Flachdach AG erfolgreich ein Bauobjekt realisieren und sind mit der Zusammenarbeit sehr zufrieden.\n\nSowohl die Terminplanung als auch die Kosten wurden zuverlässig eingehalten. Die Ausführung der Arbeiten verlief reibungslos und professionell, und die Baustelle wurde termingerecht und sauber abgeschlossen.\n\nWir schätzen die kompetente und angenehme Zusammenarbeit sehr und können die A+B Flachdach AG uneingeschränkt weiterempfehlen.",
+        "time": 1777289384,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Jeanine Kamber",
+        "author_photo": "/images/reviews/a-b-flachdach-ag-reinach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten ein Problem mit unserem Garagendach, das Team hat schnell reagiert und die Ursache direkt gefunden. Die Reparatur wurde zügig erledigt und seitdem ist alles dicht. Sehr angenehme Zusammenarbeit.",
+        "time": 1776932808,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Angelika Hauri",
+        "author_photo": "/images/reviews/a-b-flachdach-ag-reinach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bei der Erneuerung unseres Daches waren wir rundum zufrieden.\nSehr kompetente Beratung, saubere und pünktliche Ausführung der Arbeiten. Absolut empfehlenswert!",
+        "time": 1776937408,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Rafael Stahl",
+        "author_photo": "/images/reviews/a-b-flachdach-ag-reinach/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Die Bearbeitung meiner Anfrage war sehr unprofessionell. Es gab keine klare Auskunft und es wirkte, als bestünde kein Interesse, weiterzuhelfen.   Sekretariat Claudia Stehlin",
+        "time": 1757587751,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

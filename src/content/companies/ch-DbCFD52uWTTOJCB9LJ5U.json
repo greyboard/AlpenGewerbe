@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJJTKa22w7jkcR1VYG6hHQfQY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Yanick Smith",
+        "author_photo": "/images/reviews/proverit-ag-glas-metall-zollikofen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe bei Proverit Glas ein Katzenfenster einbauen lassen und bin rundum sehr zufrieden. Die Arbeit wurde sauber, präzise und professionell ausgeführt. Der Mitarbeiter, der den Einbau gemacht hat, war äußerst kompetent, freundlich und hat sehr sorgfältig gearbeitet. Man merkt sofort, dass hier echte Fachleute am Werk sind.\nIch kann Proverit Glas absolut weiterempfehlen und würde jederzeit wieder ihre Dienste in Anspruch nehmen.\n\nGruss\nYanick Schmid",
+        "time": 1768252731,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Anthony Castiglioni",
+        "author_photo": "/images/reviews/proverit-ag-glas-metall-zollikofen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert! Mein Duschglas mit individuellem Motiv ist einfach perfekt geworden – die Qualität, der Druck und die Verarbeitung sind auf höchstem Niveau. Von Anfang bis Ende lief alles professionell und reibungslos. Der Monteur war sehr freundlich, pünktlich und hat extrem sauber gearbeitet. So einen Service erlebt man selten – ganz klare Weiterempfehlung!",
+        "time": 1771336889,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "David Schäfli",
+        "author_photo": "/images/reviews/proverit-ag-glas-metall-zollikofen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Proverit hat bei unserem Neubau alle Glasarbeiten durchgeführt. Von der Planung, zur Durchführung und der Qualität der Arbeiten stimmte alles. Sehr kompetent und Lösungsorientiert.\nGerne wieder.",
+        "time": 1770021748,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "P",
+        "author_photo": "/images/reviews/proverit-ag-glas-metall-zollikofen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Proverit hat bei einem bestehenden Geländer die Absturzsicherung durch Glas ersetzt und für die erforderliche Höhe einen schönen Handlauf montiert. Sehr nette Mitarbeiter, flexibel und lösungsorientiert. Wir sind rundum zufrieden.",
+        "time": 1745436498,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peterpan (Peterpan13)",
+        "author_photo": "/images/reviews/proverit-ag-glas-metall-zollikofen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr präziser Sicherheitsglaszuschnitt. Bin zufrieden. Da wird die Wartezeit gerne in Kauf genommen. Danke Proverit! 🤗 Lg",
+        "time": 1770243080,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

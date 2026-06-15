@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ67aIncM5jkcRNVcJJ6Ji-lo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "N H",
+        "author_photo": "/images/reviews/mathys-goetschmann-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Anliegen wurde sehr ernst genommen und schnell bearbeitet. Die Kommunikation war jederzeit freundlich und unkompliziert. Der Ersatz des Waschschlüssels ging zügig und reibungslos. Danke ☺️",
+        "time": 1760695627,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Fluri W.",
+        "author_photo": "/images/reviews/mathys-goetschmann-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Und es werde Licht (-: Adi macht einen Top-Job.\nDenkt aktiv mit & schnell in der Ausführung.\n\nWeiter so.. (-:\n\nGruss\n\nWerner\nDie neue Küche",
+        "time": 1615976347,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christian Leu",
+        "author_photo": "/images/reviews/mathys-goetschmann-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich liess zwei kleine Aufträge von Adrian und seinen Leuten erledigen: zuverlässig, zur angegeben Zeit waren die Monteure da, sogar noch kompetente Beratung und Tipps vor Ort. Mathys + Götschmann kann ich uneingeschränkt weiter empfehlen, merci!",
+        "time": 1526471324,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Christoph Schaer",
+        "author_photo": "/images/reviews/mathys-goetschmann-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr sympathische und gute Beratung durch Adrian Götschmann. Auch die Ausführung durch die Mitarbeiter war einwandfrei!",
+        "time": 1524669032,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Peter Fuhrer",
+        "author_photo": "/images/reviews/mathys-goetschmann-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die beste Elekrofirma in Bern und Umgebung !!!",
+        "time": 1675961975,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

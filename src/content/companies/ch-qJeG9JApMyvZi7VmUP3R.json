@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJfZi_keL3j0cRrC8cJblFkWQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:15–12:00 Uhr, 13:30–18:30 Uhr",
+    "Dienstag: 08:15–12:00 Uhr, 13:30–18:30 Uhr",
+    "Mittwoch: 08:15–12:00 Uhr, 13:30–18:30 Uhr",
+    "Donnerstag: 08:15–12:00 Uhr, 13:30–18:30 Uhr",
+    "Freitag: 08:15–12:00 Uhr, 13:30–18:30 Uhr",
+    "Samstag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Sven Broger",
+        "author_photo": "/images/reviews/gaertnerei-petermann-buochs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich wollte schöne Blumen kaufen. Leider war niemand vor Ort im Laden anzutreffen. Anscheinend wurde ein Teil des Betriebs per März 2024 geschlossen.",
+        "time": 1731419061,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maggie Lachat",
+        "author_photo": "/images/reviews/gaertnerei-petermann-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In der Gärtnerei Petermann kaufe ich gerne ein. Das Personal ist super freundlich,  hilfsbereit und kompetent. Die Preise sind sehr fair!\nIch freue mich schon auf den nächsten Besuch und Einkauf.\nMaggie",
+        "time": 1586957745,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Werner Häfliger",
+        "author_photo": "/images/reviews/gaertnerei-petermann-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der Auftrag hat super geklappt. War ein ganz schöner Blumenstrauss !!👍 Preis Leistung überdurchschnitlich.",
+        "time": 1646390431,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Maya R",
+        "author_photo": "/images/reviews/gaertnerei-petermann-buochs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr schöne, grosse Gärtnerei mit freundlicher und sachkundiger Bedienung. Tolle Sträusse in allen Farben.",
+        "time": 1560541697,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Edith Mathis",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjWMuytyFQUDR_bql7UV_yNhdtDO0lVyTOkeIX_eu2UfFIJGPWe5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "text": "Grosse Vielfalt auf kleinem Raum. Können einfach alles bestellen! Sehr freundlich.",
+        "time": 1600369739,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

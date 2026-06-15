@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPQ7gliP7j0cRknIrhXgqxJY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Maria Fries",
+        "author_photo": "/images/reviews/hans-buehler-gmbh-renovationen-umbau-malerarbeiten-innen-aussen-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden mit dem Ergebnis! Hr. Bühler hat in der Beratung die richtigen Farbtöne herausgesucht, die genau meinem Wunsch entsprachen. Die Maler haben sauber und effizient gearbeitet. Die Firma würde ich jederzeit wieder beauftragen.",
+        "time": 1732456346,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Cap Cap",
+        "author_photo": "/images/reviews/hans-buehler-gmbh-renovationen-umbau-malerarbeiten-innen-aussen-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "160 Fensterläden gewaschen, ausgebessert, gestrichen und geölt. Mit den Mietern gut kommuniziert. Hat alles reibungslos geklappt. Termingerecht ausgeführt. Wir sind sehr zufrieden und können die Firma Bühler weiter empfehlen.",
+        "time": 1708874367,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicole Helfenstein",
+        "author_photo": "/images/reviews/hans-buehler-gmbh-renovationen-umbau-malerarbeiten-innen-aussen-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Leistung speditiv und sauber. Bewohnte Wohnung alle Wände und die Decke neu gestrichen. Alles sauber abgedeckt und toll gearbeitet. Sind sehr zufrieden.",
+        "time": 1697642081,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Bühlmann",
+        "author_photo": "/images/reviews/hans-buehler-gmbh-renovationen-umbau-malerarbeiten-innen-aussen-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nach einem Zügelschaden hat die Hans Bühler GmbH die beschädigte Decke professionell und sehr schnell ausgebessert. Vielen Dank!",
+        "time": 1652358164,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stephanie Schnyder",
+        "author_photo": "/images/reviews/hans-buehler-gmbh-renovationen-umbau-malerarbeiten-innen-aussen-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe in der Hans Bühler GmbH einen sehr kompetenten Ansprechpartner für die Malerarbeiten in meinem Wohnzimmer gefunden - danke für die super Beratung, gerne wieder!",
+        "time": 1652604451,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

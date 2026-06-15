@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJN-OIiDf2j0cROPQT0UkgPmk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "til odermatt",
+        "author_photo": "/images/reviews/odermatt-bedachungen-und-spenglerei-ag-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679255838,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rabea Odermatt",
+        "author_photo": "/images/reviews/odermatt-bedachungen-und-spenglerei-ag-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656859105,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Tats Gags",
+        "author_photo": "/images/reviews/odermatt-bedachungen-und-spenglerei-ag-dallenwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1658253155,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Aurel Odermatt",
+        "author_photo": "/images/reviews/odermatt-bedachungen-und-spenglerei-ag-dallenwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652953274,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Aurel Odermatt",
+        "author_photo": "/images/reviews/odermatt-bedachungen-und-spenglerei-ag-dallenwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1652953099,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

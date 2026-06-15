@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZTXBL-UOjkcRNo9_CERJVtk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Rcre Usserma",
+        "author_photo": "/images/reviews/maler-pfister-gals/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung und hochprofessionelle Ausführung der Arbeiten. Der Klosterputz und die Mineralfarbe sind Top! Hat während meiner Abwesenheit auch zur Baustelle geschaut und Arbeiten der anderen Handwerker koordiniert. Ich war extrem froh um die Unterstützung. Der Umbau konnte pünktlich abgeschlossen werden.",
+        "time": 1679653523,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "John Ben Doe",
+        "author_photo": "/images/reviews/maler-pfister-gals/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698477128,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Anita Pfister",
+        "author_photo": "/images/reviews/maler-pfister-gals/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1742484963,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

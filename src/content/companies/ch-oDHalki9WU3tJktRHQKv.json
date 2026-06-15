@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVcCWLKEXkEcRWeFSkoS2Now",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–16:30 Uhr",
+    "Donnerstag: 07:00–16:30 Uhr",
+    "Freitag: 07:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Fabian Hof",
+        "author_photo": "/images/reviews/morina-gipser-maler-gmbh-lenzburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Arbeit wurde sehr sauber und professionell ausgeführt. Die Offerte kam schnell und war klar verständlich, zudem wurde ich freundlich und kompetent beraten. Die Handwerker haben präzise gearbeitet und das Ergebnis ist wirklich hervorragend. Ich bin rundum zufrieden und kann diesen Service uneingeschränkt weiterempfehlen.\n\nVielen Dank für die tolle Zusammenarbeit!",
+        "time": 1771005595,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Lino Jäger",
+        "author_photo": "/images/reviews/morina-gipser-maler-gmbh-lenzburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769697291,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

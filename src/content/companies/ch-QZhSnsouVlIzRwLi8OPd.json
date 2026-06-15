@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJY2Ff0O-5kUcRFvyzvqeH-eM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "To Ca",
+        "author_photo": "/images/reviews/sanitaer-sam-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Altes WC durch neues ersetzt. Sauber und zuverlässig. Bestes Preis-Leistungs-Verhältnis. Empfehlung!",
+        "time": 1615230787,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Boris Stoll",
+        "author_photo": "/images/reviews/sanitaer-sam-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, kompeten, zuverlässig. Gerne wieder!",
+        "time": 1688533979,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Raoul Checcacci MP ok",
+        "author_photo": "/images/reviews/sanitaer-sam-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere arbeit zu einem top preis",
+        "time": 1663926858,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sandro Pollaci",
+        "author_photo": "/images/reviews/sanitaer-sam-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die stets freundliche und wertschätzende Zusammenarbeit. Weiterhin viel Erfolg und Freude am Handwerk.",
+        "time": 1774089882,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

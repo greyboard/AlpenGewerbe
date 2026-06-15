@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5WYSYi44jkcRggpIjYjRm-k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Jürg Buchser",
+        "author_photo": "/images/reviews/guggisberg-dachdecker-bern-wabern-bei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Haben unser Dach saniert und mit einer PV- Anlage versehen. Die Arbeiten wurden sauber geplant, fachmännisch und zeitgerecht erledigt. Die eingesetzten Mitarbeiter waren stets freundlich und zuvorkommend. Besten Dank speziell den Planern und bauverantwortlichen Herren Volz, Berisha und Zaugg.",
+        "time": 1743315186,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manuela Boss",
+        "author_photo": "/images/reviews/guggisberg-dachdecker-bern-wabern-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Haben eine PV Anlage machen lassen.Sind sehr zufrieden mit der Beratung, Offerte und der Anlage. Saubere ausführung, veeständlich erklärt und zuvorkommente Mitarbeiter.",
+        "time": 1765972214,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Tobias Bürki",
+        "author_photo": "/images/reviews/guggisberg-dachdecker-bern-wabern-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden. Gut ausgebildete und zufriedene Vorarbeiter und Arbeiter. Preislich stark und immer mal wieder eine Rechnung günstiger als die Offerte. Tiptop.",
+        "time": 1761039763,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Sandro von Gunten",
+        "author_photo": "/images/reviews/guggisberg-dachdecker-bern-wabern-bei-bern/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Eigentlich hat diese Firma keinen Stern verdient. Warten seit fast 2 Monaten auf eine Offerte. Beim Nachfassen wird man vertröstet und erhält ein neues Datum für die Offerte. Unglaublich. Entweder man will - oder man will nicht",
+        "time": 1724655039,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "M bwa",
+        "author_photo": "/images/reviews/guggisberg-dachdecker-bern-wabern-bei-bern/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Es wird bei NULL mitgedacht, für Barrierfreier Zugang zum eigenen Eingang (wenn Baustelle erstellt wird). Gemeingefährlich!\nHauptsache die Herren älterer Generation wüssten alles besser. Schade für kein \"weiter-mit\"denken und Sicherheit der Mitbewohner zu schauen (waren durch Schnee&Eis regelrecht eingesperrt).",
+        "time": 1707991331,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

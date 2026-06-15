@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJlUP7df8njkcR8JfzpScBQt0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:00–17:00 Uhr",
+    "Dienstag: 06:00–17:00 Uhr",
+    "Mittwoch: 06:00–17:00 Uhr",
+    "Donnerstag: 06:00–17:00 Uhr",
+    "Freitag: 06:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Manuela Diallo",
+        "author_photo": "/images/reviews/t-maccaferri-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alte kellertüre schlüssel verloren sehr schnell vor ort super freundlich und preisgünstig",
+        "time": 1753800998,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "RHINO - GYM Berisha",
+        "author_photo": "/images/reviews/t-maccaferri-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung. Die Arbeiten wurden alle pflichtgemäss und ordentlich ausgeführt.\nDanke!",
+        "time": 1749827918,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jo Bu",
+        "author_photo": "/images/reviews/t-maccaferri-ag-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnelle Hilfe mit freundlichem Service zu einem anständigen Preis. Kann ich empfehlen.",
+        "time": 1748108635,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bou Baka",
+        "author_photo": "/images/reviews/t-maccaferri-ag-solothurn/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Sehr unhöflich am Telefon, die können nicht mal guten tag sagen und sagen nicht mal tschüss",
+        "time": 1707812420,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Leandro",
+        "author_photo": "/images/reviews/t-maccaferri-ag-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Arbeit wurde schnell und präzise abgeschlossen.",
+        "time": 1727883701,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

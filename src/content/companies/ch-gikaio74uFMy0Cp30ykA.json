@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJN8J5g8L7j0cR3_r3WZbnxxQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Luz Palokaj",
+        "author_photo": "/images/reviews/schmid-amrhein-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Schmid Amrhein AG war für uns ein echtes Highlight! Vom ersten Moment an hatten wir ein gutes Gefühl – man spürt sofort: Da sind Menschen am Werk, die ihr Handwerk verstehen und gleichzeitig mit Herz bei der Sache sind.\n\nWas uns besonders beeindruckt hat: Das Team ist nicht nur fachlich top, sondern auch unglaublich offen, lösungsorientiert und menschlich. Jede Frage wurde mit viel Geduld und Know-how beantwortet – ohne Schnickschnack, einfach ehrlich und professionell.\n\nDie vorgeschlagenen Lösungen? Durchdacht, technisch auf höchstem Niveau und mit echter Leidenschaft umgesetzt. Man merkt: Hier wird nicht einfach ein Auftrag erledigt – hier wird mitgedacht, mitgearbeitet und mitgefühlt.\n\nEin grosses Merci für diese wertvolle Zusammenarbeit – wir können Schmid Amrhein aus tiefster Überzeugung weiterempfehlen!",
+        "time": 1766491967,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "AMERON Hotel Flora",
+        "author_photo": "/images/reviews/schmid-amrhein-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Schmid Amrhein AG während der Sanierung des AMERON Luzern war einfach grossartig! Der persönliche Kontakt und das herausragende Engagement des gesamten Teams haben uns beeindruckt. Jede Herausforderung wurde mit Professionalität und Lösungsorientierung gemeistert – ein echter Gewinn für unser Projekt.\n\nWir freuen uns schon auf die nächste Bauphase und sind sicher, dass auch diese wieder ein voller Erfolg wird. Vielen Dank für die exzellente Zusammenarbeit! 🙌\n\n– Team AMERON Luzern",
+        "time": 1747571313,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andrew S",
+        "author_photo": "/images/reviews/schmid-amrhein-ag-luzern/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ich würde definitiv von einer Zusammenarbeit abraten. Die Kommunikation und Arbeitsweise sind schlecht, was eher unseriös wirkt. Es ist zudem interessant, dass Angestellte Bewertungen posten. Wir hatten leider sehr viele Probleme mit dieser Firma.",
+        "time": 1709903334,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Erika Furrer-Reichlin",
+        "author_photo": "/images/reviews/schmid-amrhein-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fachgeschäft (Gebäudetechniker) in Heizung, Lüftung und Sanitär Fragen, auch für Neubauten, Umbauten und sehr kompetentes Fachpersonal.",
+        "time": 1635665739,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "hanshermanngaluba",
+        "author_photo": "/images/reviews/schmid-amrhein-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetente Firma, nette Mitarbeiter und ein toller moderner Bürokomplex.",
+        "time": 1591178410,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

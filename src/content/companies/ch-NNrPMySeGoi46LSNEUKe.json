@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzfPCEH5ljEcRE_TUJqmiYKg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Froe",
+        "author_photo": "/images/reviews/ecr360-sarl-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnell und sehr effizient!",
+        "time": 1772304723,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Joanne Degonda",
+        "author_photo": "/images/reviews/ecr360-sarl-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr reaktionsschnelles und professionelles Unternehmen. Der Mitarbeiter, der mir geantwortet hat, war sehr hilfsbereit, hat das Problem sofort verstanden und mir hervorragende Ratschläge gegeben. Vielen Dank!",
+        "time": 1779913581,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Mikael Da Silva",
+        "author_photo": "/images/reviews/ecr360-sarl-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, kompetente, freundliche und hilfsbereite Fachkräfte. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1779807462,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "leticia Casas",
+        "author_photo": "/images/reviews/ecr360-sarl-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kontaktierte die Firma dringend am Samstagabend um 21:00 Uhr. Das Unternehmen reagierte umgehend und reparierte den teilweisen Stromausfall, der die beiden angrenzenden Villen betraf, bis Mitternacht. Der Preis war mehr als angemessen, und die Mitarbeiter waren überaus freundlich und professionell! Ich kann diese Firma uneingeschränkt empfehlen. Besonders schätze ich, dass diese Profis die Notlage anderer nicht ausnutzen, um schnell Geld zu verdienen. Heutzutage sehr selten – wirklich hervorragende Arbeit!",
+        "time": 1775944585,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Giora Giladi",
+        "author_photo": "/images/reviews/ecr360-sarl-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, freundlich und höflich. Wenn ich das nächste Mal ein elektrisches Problem habe, rufe ich ihn an!",
+        "time": 1781284064,
+        "relative_time_description": "in der letzten Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

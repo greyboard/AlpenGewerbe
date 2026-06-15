@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ087iu7OwkUcRft7MQ1hQWiw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "Christine Dingnis",
+        "author_photo": "/images/reviews/lippuner-ag-gebaeudetechnik-riehen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Angefangen von der Impulsberatung für den Ersatz unserer Gasheizung bis 1 1/2 Jahre später bei der Ausführung unerer neuen Anlage sind wir begeistert von der Lippuner AG. Mit dem Einholen der diversen Bewilligungen und Kontrollen derselben,  Zeitplan, Auswahl der verschiedenen beteiligten Handwerksbetriebe sind wir mehr als zufrieden.  Alle haben sorgfältig gearbeitet, waren  kompetent, freundlich und wurden in der vorgegebenen Zeit fertig. Herr Lippuner ging auf unsere Bedürfnisse ein und suchte nach Lösungen, so dass das  Beste aus unserem kleinen Keller herausgeholt werden konnte. Wir können die Firma wärmstens empfehlen.\nFamilie Dingnis aus  Basel",
+        "time": 1768473274,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Cyrille",
+        "author_photo": "/images/reviews/lippuner-ag-gebaeudetechnik-riehen/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Im Rahmen einer umfassenden Renovation mit neuer Heizung und komplett neuem Bad wurden wir vom Sanitärbetrieb ausserordentlich gut unterstützt. Von der Planung bis zur Umsetzung war die Zusammenarbeit stets professionell, zuverlässig und lösungsorientiert.\nDas Ergebnis kann sich wirklich sehen lassen und entspricht in jeder Hinsicht unseren Erwartungen. Wir sind mit der Qualität der Arbeit und dem persönlichen Einsatz sehr zufrieden und können den Betrieb uneingeschränkt weiterempfehlen.",
+        "time": 1765818818,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Samuel Gscheidle",
+        "author_photo": "/images/reviews/lippuner-ag-gebaeudetechnik-riehen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe meine guten Erfahrungen mit der Firma Lippuner beim Ersatz der Heizungsanlage in separatem Referenzschreiben gewürdigt.  Es hat geklappt wie am Schnürchen und ich bin sehr zufrieden!",
+        "time": 1776115475,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Werner Bischoff",
+        "author_photo": "/images/reviews/lippuner-ag-gebaeudetechnik-riehen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Installation der Wärmepumpe. Die Handwerker war sehr gut. Die Zusammenarbeit auch. Die Rechnung entsprach der Offerte. Sehr gut alles. Besten Dank.",
+        "time": 1764246195,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Markus Soler",
+        "author_photo": "/images/reviews/lippuner-ag-gebaeudetechnik-riehen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professioneller und angenehmer Umgang in der Planungsphase. Vorbildlicher Anlagenbau und sehr gute Koordination der beteiligten Handwerker. Klare und verlässliche Ablaufplanung. Unbedingt empfehlenswert, Bravo!",
+        "time": 1761912522,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

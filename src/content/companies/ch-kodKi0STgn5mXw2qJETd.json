@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJgTP4lmwLkEcRBLLWo9a7CQQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Pascal Wasinger",
+        "author_photo": "/images/reviews/schreiner-bueschlen-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben in unseren Geschäft einige Schränke sowie eine Küche einbauen lassen. Die Arbeiten wurden sehr professionell durchgeführt sowie hat uns seine hilfsbereite und souveräne Art sehr gefallen. Von der Anfrage bis zur Ausführung des Auftrages verging nicht viel Zeit, was uns sehr geholfen hat. Wir werden bei zukünftigen Arbeiten gerne wieder zurückkommen, vielen Dank für die hervorragende Arbeit! Beste Grüsse",
+        "time": 1725381267,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Igor Vilotic",
+        "author_photo": "/images/reviews/schreiner-bueschlen-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich war begeistert von dem Typen. Ich brauchte seine Dienste für das Schneiden von HPC-Teilen. Er hat sehr schnell auf E-Mails geantwortet und die Terminvereinbarung war unkompliziert. Er hat die Arbeit blitzschnell erledigt und mir auch bei der Lieferung geholfen. Der Preis war mehr als fair. Ich werde seine Dienste gerne wieder in Anspruch nehmen und ihn weiterempfehlen.",
+        "time": 1753189974,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

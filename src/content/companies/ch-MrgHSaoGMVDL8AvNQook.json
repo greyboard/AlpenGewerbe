@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCxcsHjcZjkcRCkk3mH3UJAY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jean-Marc Sautebin",
+        "author_photo": "/images/reviews/kammermann-bodenbelaege-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tolle Arbeit und Service!\nGerne empfehle ich das Team von Kammermann Bodenbeläge mit gutem Gewissen weiter.",
+        "time": 1705771346,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yves Wyrsch",
+        "author_photo": "/images/reviews/kammermann-bodenbelaege-biel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr sympatisches Team mit top Qualität!",
+        "time": 1661511313,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jana Luna",
+        "author_photo": "/images/reviews/kammermann-bodenbelaege-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775047450,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Chantal C.",
+        "author_photo": "/images/reviews/kammermann-bodenbelaege-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684418336,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

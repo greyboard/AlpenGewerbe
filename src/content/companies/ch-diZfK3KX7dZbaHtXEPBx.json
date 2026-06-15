@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7XIXJw7YkUcRYij3H0BscQw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Philip Läuppi",
+        "author_photo": "/images/reviews/elektro-ferrari-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Also, wenn Sie mal einen Elektriker suchen, der mit Feingefühl, Freundlichkeit und Geduld auf Ihre Bedürfnisse eingehen kann, sind Sie hier definitiv an der richtigen Adresse !!!\nIch bin auf Empfehlung zu Elektro Ferrari gekommen und kann diese Empfehlung aufrichtig und wohlwollend weitergeben.\nHerzlichen Dank, liebes Ferrari Team. Bin mit Ihren Dienstleistungen und Ihrem Support rundum zufrieden. 😊",
+        "time": 1772249010,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Thomas Rohrbach",
+        "author_photo": "/images/reviews/elektro-ferrari-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein absolut tolles Team mit echtem Herzblut und spürbarem Berufsstolz! Bei der Elektro Ferrari AG merkt man sofort, dass hier nicht einfach Elektroinstallationen gemacht werden – hier wird mit Leidenschaft gearbeitet.\n\nVon der Planung über die Umsetzung bis zur Wartung läuft alles professionell, zuverlässig und mit höchster Qualität. Die langjährige Erfahrung und das breite Know-how im Bereich Elektrotechnik spiegeln sich in jedem Detail wider.\n\nBesonders beeindruckend ist die persönliche Art: nahbar, engagiert und immer lösungsorientiert. Ein Betrieb, der Tradition mit moderner Professionalität verbindet und bei dem man sich bestens aufgehoben fühlt.\n\nVon Herzen eine klare Empfehlung – macht weiter so! 💪",
+        "time": 1775072187,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "René Felder",
+        "author_photo": "/images/reviews/elektro-ferrari-ag-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben durch Maler Pfister eine Neue Decke,und das ganze zimmer Streichen lassen.Der Gipser sagte mach doch Spot Lampen an die Decke,Gipser organisierte und Cedric Kamm Tag darauf.\nKann die Firma Ferrari nur Allerbestens empfehlen immer gerne wieder",
+        "time": 1769615707,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Andre Veith",
+        "author_photo": "/images/reviews/elektro-ferrari-ag-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und vorbildliches Unternehmen. Zuverlässig, pünktlich und kompetent. Herzlichen Dank für die professionell ausgeführten Arbeiten bei uns privat wie auch im Atelier.",
+        "time": 1769841052,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "markus mueller",
+        "author_photo": "/images/reviews/elektro-ferrari-ag-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Team – zuverlässig, sauber und pünktlich. So wünscht man sich das Handwerk! Absolut zu empfehlen.",
+        "time": 1761282131,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

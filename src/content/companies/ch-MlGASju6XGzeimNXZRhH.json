@@ -26,5 +26,38 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJw2uZ8rIthUcRcZYuE5sXRmE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Philipp Ochsner",
+        "author_photo": "/images/reviews/glarhus-gmbh-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756126171,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Franz Haemmerli",
+        "author_photo": "/images/reviews/glarhus-gmbh-glarus/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1619627947,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Mario Bento",
+        "author_photo": "/images/reviews/glarhus-gmbh-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1488311098,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

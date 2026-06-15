@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJodbRLjprj0cRy3la2HrRxC0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 67,
+    "reviews": [
+      {
+        "author_name": "SEVERA PRO (CREATIVE & MODULAR)",
+        "author_photo": "/images/reviews/gattlen-gebaeudetechnik-visp/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein grosses Dankeschön an Gattlen Gebäudetechnik für die hervorragende Zusammenarbeit bei unserem Projekt Severa Residence Gampel.\nDie Montage der PV-Anlage sowie die komplette Installation im Technikraum wurden sehr professionell, sauber und mit viel Fachwissen ausgeführt.\n\nBesonders geschätzt haben wir die zuverlässige Kommunikation und die lösungsorientierte Art des Teams – unkompliziert, schnell und immer auf den Punkt.\n\nDie Anlage läuft einwandfrei und wir sind mit dem Ergebnis rundum zufrieden.\nWir empfehlen Gattlen Gebäudetechnik gerne weiter.\n\nTeam Severa Pro AG",
+        "time": 1764767105,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Caroline Reichen",
+        "author_photo": "/images/reviews/gattlen-gebaeudetechnik-visp/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bei meinem Heizungsnotfall wurde ich sehr zuvorkommend, freundlich und kompetent am Telefon beraten, der Serviceleiter informierte verständlich über die Reparatur-Möglichkeiten und die Monteure waren rasch auf Platz und führten die Reparatur tadellos aus. Rechnung gut aufgelistet und verständlich. Selten so gut informiert und nett betreut worden, ein grosses Merci an die Firma, Serviceleiter und Monteure.",
+        "time": 1767970640,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Anton Zimmermann",
+        "author_photo": "/images/reviews/gattlen-gebaeudetechnik-visp/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Unternehmung ist kompetent, informiert sachlich und fachlich. Der Service kkappt einwandfrei.\nIch kann die Gattlen AG bestens empfehlen.",
+        "time": 1768828671,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Samuel Heuer",
+        "author_photo": "/images/reviews/gattlen-gebaeudetechnik-visp/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Kunden Freundlichkeit vom Projektleiter  ist alles andere als freundlich.\nEs wurde Material verrechnet das gar nicht ersetzt wurde.",
+        "time": 1765046848,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "marc vogel",
+        "author_photo": "/images/reviews/gattlen-gebaeudetechnik-visp/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Super schnell und gute Hilfeleistung. Ein etwas schaler Geschmack hinterlässt die Deplacement und Spesenkosten von 75 Chf nebst der Anreisezeitverrechnung von 210 CHf auf die Riederalp für eine halbe Std Arbeit. Bin trotzdem zufrieden und habe Vertrauen und Verbundenheit mit der Firma Gattlen. M. Vogel",
+        "time": 1731753565,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

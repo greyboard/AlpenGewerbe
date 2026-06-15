@@ -26,5 +26,22 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJK9NK5yDzj0cR1p6GGS_uMPw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Michel Aufranc",
+        "author_photo": "/images/reviews/parkettplus-gmbh-kerns/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1626554749,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

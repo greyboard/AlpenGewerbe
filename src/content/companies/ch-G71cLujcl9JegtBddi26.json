@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJn5rz0AQKkEcRPTsQZoXxXDc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Patricia Hongler",
+        "author_photo": "/images/reviews/schreinerei-severin-meier-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der beste Schreiner von Zürich.",
+        "time": 1732047868,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Diego Caviglia",
+        "author_photo": "/images/reviews/schreinerei-severin-meier-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Kundenservice! Ausgezeichnete Arbeit zu einem sehr fairen Preis und freundliches Personal.\nIch kann diesen Laden uneingeschränkt empfehlen.",
+        "time": 1617261401,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Simon Oertle",
+        "author_photo": "/images/reviews/schreinerei-severin-meier-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1588326218,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "S Meier",
+        "author_photo": "/images/reviews/schreinerei-severin-meier-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575900996,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marc Fischer",
+        "author_photo": "/images/reviews/schreinerei-severin-meier-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1570470127,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

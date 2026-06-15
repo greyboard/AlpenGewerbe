@@ -1,7 +1,7 @@
 {
   "id": "ch-w6kb4KnndwtDAhiFKnqW",
   "slug": "les-metalliers-concept-sa-cressier",
-  "name": "Les Métalliers Concept SA",
+  "name": "Frei-les Metalliers Sa",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_VbX6j4PjkcRZQnUTqoiaYA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "patrick salvisberg",
+        "author_photo": "/images/reviews/les-metalliers-concept-sa-cressier/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professionalität und Reaktionsschnelligkeit waren hervorragend.\n\nIch bin sehr zufrieden mit dem abgeschlossenen Projekt und unseren Gesprächen. Ich werde Ihre Dienste in Zukunft definitiv wieder in Anspruch nehmen. 👍",
+        "time": 1644415929,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jean-Philippe Vermot",
+        "author_photo": "/images/reviews/les-metalliers-concept-sa-cressier/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der geleisteten Arbeit äußerst zufrieden. Wir werden auch weiterhin mit ihnen zusammenarbeiten. Sehr professionell. Hervorragend!",
+        "time": 1623948731,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alexi „Alex“ Besnard",
+        "author_photo": "/images/reviews/les-metalliers-concept-sa-cressier/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Respektlos!",
+        "time": 1727374489,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stan Hirschy",
+        "author_photo": "/images/reviews/les-metalliers-concept-sa-cressier/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1607445793,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Aleksandar Stevanovic",
+        "author_photo": "/images/reviews/les-metalliers-concept-sa-cressier/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1602176941,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

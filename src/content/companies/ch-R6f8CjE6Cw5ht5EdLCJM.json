@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSawlHcTzj0cRRDnQkd_XT5Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Thomas Ottinger",
+        "author_photo": "/images/reviews/malergeschaeft-durrer-gmbh-kerns/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Malergeschäft Durrer hat für uns eine Ausserrenovation des Einfamilienhauses durchgeführt. Das Resultat ist ausgezeichnet! Unser Haus erscheint in neuem Glanz. Das Kernmalerteam mit Jacqueline und Melanie haben eine ausgezeichnete Arbeitet geleistet. Wir sind begeistert!",
+        "time": 1756627755,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Ein K",
+        "author_photo": "/images/reviews/malergeschaeft-durrer-gmbh-kerns/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann das Maler-Geschäft Durrer wärmstens empfehlen. Von ihrem hervorragenden Kundenservice über ihre herausragende handwerkliche Qualität bis hin zu ihrer Freundlichkeit und Professionalität war meine Erfahrung einfach nur positiv. Wenn Sie einen professionellen Maler suchen, der Ihre Erwartungen übertrifft, dann ist Maler Durrer die richtige Wahl.",
+        "time": 1694281815,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Waldvogel",
+        "author_photo": "/images/reviews/malergeschaeft-durrer-gmbh-kerns/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Danke dem ganzen Team für die tolle Arbeit, schnell und unkompliziert.\nDie Überraschung mit dem mini Farbkessel ist euch gelungen.\nDani und Esther",
+        "time": 1739948124,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Armin Flück",
+        "author_photo": "/images/reviews/malergeschaeft-durrer-gmbh-kerns/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die super Arbeit. Tolles Team, sehr professionell und sympathisch.",
+        "time": 1741799137,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "M S",
+        "author_photo": "/images/reviews/malergeschaeft-durrer-gmbh-kerns/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Folgend auf eine sehr gute Beratung, wurde die Arbeiten sehr sauber und zur volle Zufriedenheit durchgeführt. Alles für ein ganz fairen Preis.\nNächstes Mal wieder hier!",
+        "time": 1607546188,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

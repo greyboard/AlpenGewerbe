@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPah9gb9DhUcR8JlC-DpERe0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Klaus Beeler",
+        "author_photo": "/images/reviews/sata-ag-schattdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gutes Preis Leistung Verhältnis.\nTop Profis",
+        "time": 1554924132,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Antonio Bernardo",
+        "author_photo": "/images/reviews/sata-ag-schattdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Uma empresa de aconselhar com muita quantidade no trabalho e muita esperencia",
+        "time": 1656917214,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simon Mamié",
+        "author_photo": "/images/reviews/sata-ag-schattdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1693513490,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Filipos Hagos",
+        "author_photo": "/images/reviews/sata-ag-schattdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1733771919,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mariusz Furtek",
+        "author_photo": "/images/reviews/sata-ag-schattdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697001068,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

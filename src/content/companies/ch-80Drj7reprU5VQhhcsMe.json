@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJuZDmTQvnkUcRhVPUq_VJ9Dg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Barbara Gallus",
+        "author_photo": "/images/reviews/helchit-paysage-delemont/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hallo, ich möchte mich beim gesamten Team von Helchit Paysage für die geleistete Arbeit in meinem Garten bedanken. Ein dynamisches, hochprofessionelles, aufmerksames und freundliches Team. Ich kann sie für Ihre Gartenprojekte wärmstens empfehlen; Sie werden nicht enttäuscht sein! 👌🏼🤩",
+        "time": 1726228691,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "# SCHALLER #",
+        "author_photo": "/images/reviews/helchit-paysage-delemont/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Helchit Paysage ist ein Unternehmen, das ich wärmstens empfehlen kann! Ihre Dynamik und Kreativität spiegeln sich in jedem Projekt wider. Ich habe die Professionalität und Freundlichkeit des Teams sehr geschätzt. Sie sind äußerst entgegenkommend. Die Schweizer Jura-Region kann sich glücklich schätzen, ein solches Unternehmen zu haben!\n\nDer Inhaber, Adrien, ist wirklich hervorragend.\n\nVielen Dank für Ihre Arbeit! 🙏🙏",
+        "time": 1752470548,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Bojana Pepic",
+        "author_photo": "/images/reviews/helchit-paysage-delemont/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die großartige Arbeit rund um mein Haus! Das Grundstück ist zu einer wahren Oase der Ruhe geworden, ein Ort, an dem ich mich rundum wohlfühle. Die Liebe zum Detail, die Kreativität und die Professionalität des Teams haben meine Erwartungen weit übertroffen. Jeden Tag genieße ich diese grüne Oase. Ich kann sie wärmstens empfehlen!",
+        "time": 1751970374,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Evan Willemin",
+        "author_photo": "/images/reviews/helchit-paysage-delemont/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an Adrien und sein gesamtes Team für ihre tadellose Arbeit!",
+        "time": 1766434157,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Quentin Maurer",
+        "author_photo": "/images/reviews/helchit-paysage-delemont/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein herzliches Dankeschön an Helchit Paysage für ihre Professionalität! Ein Team, das zuhört und schnell reagiert. Ich kann sie wärmstens empfehlen!",
+        "time": 1746776494,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

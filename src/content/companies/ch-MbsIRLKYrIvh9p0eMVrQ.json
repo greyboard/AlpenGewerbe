@@ -26,5 +26,22 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsYmSmFhZhUcRhXbHijS0iHc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "G Pat",
+        "author_photo": "/images/reviews/waser-bedachungen-gmbh-beckenried/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1507002564,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

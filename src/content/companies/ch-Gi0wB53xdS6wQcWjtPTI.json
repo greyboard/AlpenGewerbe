@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGf6fDL43g0cREOjTS_En0No",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Toni Andric",
+        "author_photo": "/images/reviews/schreiner-pua-gmbh-vna/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1677148719,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Bianca Edelmann",
+        "author_photo": "/images/reviews/schreiner-pua-gmbh-vna/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1507224875,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

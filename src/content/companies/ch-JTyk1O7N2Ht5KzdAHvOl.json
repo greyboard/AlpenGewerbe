@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJTywu7NL6mkcRZiRWrfiZgkg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Daniel „DaSa“ Saurer",
+        "author_photo": "/images/reviews/steiner-schreinerei-gmbh-erlen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben schon zwei Sachen machen lassen. Eine Garderobe und Schränke bei der Waschküche. Beides mal wurde höchst professionell gearbeitet. Das Ergebnis ist phänomenal. Wir können diese Firma absolut weiterempfehlen. Vielen Dank dafür und dem Team von Steiner Schreinerei.",
+        "time": 1600343954,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "G. Yildirim",
+        "author_photo": "/images/reviews/steiner-schreinerei-gmbh-erlen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr zuverlässiges Unternehmen. Die Einzelfertigung der Garderobe im Eingangsbereich wurde genau nach unseren Wünschen hergestellt. Herr Asipi ist ein sehr kompetenter Montageschreiner, wir sind rundum sehr zufrieden!",
+        "time": 1660946163,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Hotel Kreuzlingen am Hafen",
+        "author_photo": "/images/reviews/steiner-schreinerei-gmbh-erlen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir liessen eine unserer Rooftop Suiten durch die Steiner Schreiner ausbauen. ( Küche & Wohnraum )\n\nVon der Planung & Visualisierung durch Hr. Steiner und Fr. Müller, über die Montage-Leitung durch Nicolas und die Beihilfe\nder Lehrlinge Luca und Silas, wurden wir jederzeit top betreut und alle individuellen Wünsche wurden zur vollsten Zufriedenheit berücksichtigt.\nAnspruchsvolle Schreiner-Arbeiten wurden  absolut professionell ausgeführt.\n\nDas Gesamt-Ergebnis lässt sich sehen und bereitet uns sehr  grosse Freude.\n\nEine Top Adresse, die wir jederzeit zu 100% empfehlen werden.\n\nEin grosses Dankeschön an Hr. Steiner und sein Team.\n\nFamilie Raible",
+        "time": 1741681723,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "E S",
+        "author_photo": "/images/reviews/steiner-schreinerei-gmbh-erlen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die beste Schreinerei für alle Arten von Reparaturen, neue Küchen, Türen, Fenster, Schränke auf Mass, Wunderschöne Tische.",
+        "time": 1688119475,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "E S",
+        "author_photo": "/images/reviews/steiner-schreinerei-gmbh-erlen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Schreinerei. ZB: Küchen, Schränke,Tische, für Alles gibts eine persönliche Lösung. Sehr freundliches Personal",
+        "time": 1533573422,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

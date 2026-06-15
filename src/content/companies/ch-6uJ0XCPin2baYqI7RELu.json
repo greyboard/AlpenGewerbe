@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJKRcxZEW4kUcRFNYaZ66BNOY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Sven Hess",
+        "author_photo": "/images/reviews/m-s-metallbau-schlosserei-ag-muttenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma!\nSuper Planung von Stephan Schmid und makellose Ausführung der Mitarbeiter!!\nDas Chomstahlblech über dem Schwedenofen ein Traum, passt perfekt!!\nIch kann diese Firma nur weiter empfehlen!!\nVielen Dank an das ganze Team ich werde weitere Projekte zukommen lassen\n👍🏼👍🏼👍🏼",
+        "time": 1711563109,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Philipp Senn",
+        "author_photo": "/images/reviews/m-s-metallbau-schlosserei-ag-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "M&S - Empfehlenswert.\nGutes Team. Gute Arbeit. Sauber. Professionell. Ein Vorzeige-Handwerksbetrieb! Gratulation an Marco Morson und seine Mitarbeiter.",
+        "time": 1583402570,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Amar Dravid",
+        "author_photo": "/images/reviews/m-s-metallbau-schlosserei-ag-muttenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Absolut saubere und hochwertige Arbeit wurde bei mir geleistet. Hohes Berufsethos, nicht zuletzt dem Marco Morson zuzuschreiben.",
+        "time": 1539339257,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "K. G.",
+        "author_photo": "/images/reviews/m-s-metallbau-schlosserei-ag-muttenz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, toller & schneller Service und richtig freundliche Mitarbeiter/Chef",
+        "time": 1777891840,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "420",
+        "author_photo": "/images/reviews/m-s-metallbau-schlosserei-ag-muttenz/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Hält es nicht für nötig auch kleinere Arbeiten für Privatkunden auszuführen👎 Diese Rezession habe ich vor gut 2 Jahren geschrieben. Eine andere Firma hat meine Arbeit ausgeführt da ihr es nicht nötig hattet.\nIch lasse den 1 Stern hier.",
+        "time": 1762515012,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

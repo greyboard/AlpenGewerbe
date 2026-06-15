@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJae4z3iZShUcRDL9sPmHZ4D4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Alexis Zaverdinos",
+        "author_photo": "/images/reviews/schoenberger-baudienstleistungen-steinen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit 2005 haben Hansruedi und Manuel Schönberger mehrere Renovationen, Um- und Ausbauten für uns gemacht. Die Aufträge haben Sie steht's in hoher Qualität und Termingerecht ausgeführt. Einzig bei der Offertenstellung/Kommunikation  könnte es manchmal einwenig schneller gehen.",
+        "time": 1607492214,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Betschart Guido",
+        "author_photo": "/images/reviews/schoenberger-baudienstleistungen-steinen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich durfte Manuel bei mehrere Objekten, begleiten beistehen und mithelfen.\nDieser junger Unternehmer hat viele coole Ideen im Kopf, manchmal sagten wir dass es so nicht machbar ist! Aber nicht für Ihn, er hat alles daran gesetzt dies Umzusetzen. Er hat sehr viel erreicht, weil er, ehrgeizig alles anpackt. Zielstrebig wird alles umgesetzt. Mit seiner freundlichen Art ist eine Zusammenarbeit sehr angenehm.\n\nSchönberger Baudienstleistungen ist sehr zum empfehlen, wenn sie prommte, saubere, zeitgerechte und fachliche Arbeiten/Beratungen wollen. Danke für alles.\n\nWenn ich Bauen will, dann nur mit Schönberger Baudienstleistungen.",
+        "time": 1607574487,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Andi von Euw",
+        "author_photo": "/images/reviews/schoenberger-baudienstleistungen-steinen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einwamdfreie Abwicklung, Ergebnis TOP und ein sehr sympatischer Geschäftsführer. Haben mir bei meiner Renovation sehr viele Nerven erspart. Gerne wieder!",
+        "time": 1537048868,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rudolf Kircher",
+        "author_photo": "/images/reviews/schoenberger-baudienstleistungen-steinen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden! Klare Empfehlung! Kompetent, Zuverlässig, Sauber und Pünktlich! Vorschläge, Ideen bei Planung. Sehr sympathisches Team!",
+        "time": 1648818528,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marco Waldvogel",
+        "author_photo": "/images/reviews/schoenberger-baudienstleistungen-steinen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine freundliche junge bude mit einem symphatischen Chef. Sehr gute Erfahrungen im Umbau gemacht. Rasch-Sauber. Allezeit weiter zu Empfehlen.",
+        "time": 1537048650,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

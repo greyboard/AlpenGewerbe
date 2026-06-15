@@ -1,7 +1,7 @@
 {
   "id": "ch-bqXh1PkDadhzUbjjZcXl",
   "slug": "braendli-ag-i-sanitaer-i-heizung-i-service-i-energietechnik-i-umbauen-i-renovieren-i-notfalldienst-emmen",
-  "name": "Brändli AG I Sanitär I Heizung I Service I Energietechnik I Umbauen I Renovieren I Notfalldienst",
+  "name": "Ansemen AG I Sanitär I Heizung I Service I Energietechnik I Umbauen I Renovieren I Notfalldienst",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJp5AxmG77j0cRoITGs3Mok_0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Asli Moser",
+        "author_photo": "/images/reviews/braendli-ag-i-sanitaer-i-heizung-i-service-i-energietechnik-i-umbauen-i-renovieren-i-notfalldienst-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, freundlich, vertrauenswürdig, man wird sehr gut beraten und betreut. Unser Bad ist eine richtig schöne Wohlfühloase geworden. Danke für die tolle Arbeit. Kann ich nur weiter empfehlen.",
+        "time": 1674393096,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dan „Danièle Grüring“ G",
+        "author_photo": "/images/reviews/braendli-ag-i-sanitaer-i-heizung-i-service-i-energietechnik-i-umbauen-i-renovieren-i-notfalldienst-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent von A-Z. Schnelle, sorgfältige Arbeiten wurden bei uns erledigt. Jeweils sehr sauber gearbeitet. Jeder Zeit wieder. Danke für das tolle Ergebnis.",
+        "time": 1719212609,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Niederberger",
+        "author_photo": "/images/reviews/braendli-ag-i-sanitaer-i-heizung-i-service-i-energietechnik-i-umbauen-i-renovieren-i-notfalldienst-emmen/reviewer_3.jpg",
+        "rating": 2,
+        "text": "die Service-Preise sind sehr hoch, die Rechnungen werden erst nach über einem halben Jahr verschickt. War 2x nicht wirklich zufrieden.",
+        "time": 1719375297,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adrian Marocco",
+        "author_photo": "/images/reviews/braendli-ag-i-sanitaer-i-heizung-i-service-i-energietechnik-i-umbauen-i-renovieren-i-notfalldienst-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Mitarbeiter von Brändli AG Gebäudetechnik leisten super Arbeit, sind sehr kompetent und freundlich. Das Preis/Leistungsverhältnis passt auch. Kann ich nur weiterempfehlen.",
+        "time": 1527268666,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Luca Stocker",
+        "author_photo": "/images/reviews/braendli-ag-i-sanitaer-i-heizung-i-service-i-energietechnik-i-umbauen-i-renovieren-i-notfalldienst-emmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Preis und Leistung top. Sehr gute beratung. Kann ich nur weiter empfehlen.",
+        "time": 1539434583,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJveIu9wqRhEcRPN4H1tgfb60",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Andre Spooren",
+        "author_photo": "/images/reviews/stieger-bedachungen-spenglerei-gmbh-cunter/reviewer_1.jpg",
+        "rating": 5,
+        "text": "SEHR GUTER BETRIEB. KANN ICH NUR WEITEREMPFEHLEN",
+        "time": 1690841701,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gianna E",
+        "author_photo": "/images/reviews/stieger-bedachungen-spenglerei-gmbh-cunter/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1648156995,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

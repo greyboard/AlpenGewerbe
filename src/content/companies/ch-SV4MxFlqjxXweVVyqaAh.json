@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJFWaoWjy4kUcRtVoH6JwYFZs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Daniela Kordon",
+        "author_photo": "/images/reviews/hans-kohler-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Leistung!☺️\nSehr zu empfehlen !",
+        "time": 1769433906,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Akilan Aruna",
+        "author_photo": "/images/reviews/hans-kohler-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Laden!",
+        "time": 1744362585,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

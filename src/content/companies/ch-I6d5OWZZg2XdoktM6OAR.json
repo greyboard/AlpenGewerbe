@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJu94HbMOqmkcR72e6qkwAcGQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "M.W",
+        "author_photo": "/images/reviews/schoenenberger-soehne-ag-oberwil-bei-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut kompetente Firma. Höchst professionell, die Mitarbeiter kommen pünktlich, sehr vertrauensvoll, machen wirklich gute Arbeit und vor allem wird alles sauber hinterlassen.\nWenn Sie einen langfristigen guten Gärtner suchen, dann sind sie bei der Firma Schöneberger  gut aufgehoben. Für die gute Arbeit zahl ich gerne den Preis.",
+        "time": 1739978902,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bruno Jordão",
+        "author_photo": "/images/reviews/schoenenberger-soehne-ag-oberwil-bei-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "👍",
+        "time": 1665597577,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Jurkic Rodrigues",
+        "author_photo": "/images/reviews/schoenenberger-soehne-ag-oberwil-bei-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1644178060,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

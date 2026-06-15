@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_1q0Y-09kEcRK4LaZWn77Ig",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "André Felix Zöbel",
+        "author_photo": "/images/reviews/maler-wild-gmbh-schafisheim/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits mehrfach mit der Maler Wild GmbH zusammengearbeitet und sind jedes Mal rundum zufrieden. Die Beratung ist äußerst kompetent, alle Arbeiten werden schnell, zuverlässig und sehr sauber ausgeführt. Man merkt, dass hier mit viel Erfahrung und Sorgfalt gearbeitet wird. Wir empfehlen das Team von Maler Wild uneingeschränkt weiter!",
+        "time": 1746605059,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Giuseppe Vinci",
+        "author_photo": "/images/reviews/maler-wild-gmbh-schafisheim/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hatte kürzlich das Vergnügen, dieses Malergeschäft zu beauftragen. Ich bin wirklich sehr zufrieden mit den erbrachten Leistungen. Die Beratung war kompetent, das Team pünktlich und äusserst sorgfältig. Die Arbeit wurde sauber und termingerecht ausgeführt, mit einem beeindruckenden Ergebnis. Besonders hervorzuheben ist die klare Kommunikation und Transparenz bei den Kosten. Ich kann die Firma Maler Wild GmbH uneingeschränkt nur weiterempfehlen.",
+        "time": 1725289373,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Denise Zinniker",
+        "author_photo": "/images/reviews/maler-wild-gmbh-schafisheim/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben von Maler Wild im Büro und Schlafzimmer je eine Wand mit Farbe aufgewertet und sind sehr zufrieden mit dem Ergebnis. Sehr empfehlenswert! Kompetent und zuverlässig.",
+        "time": 1735231965,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "M G",
+        "author_photo": "/images/reviews/maler-wild-gmbh-schafisheim/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Wasserschaden, daher musste im Wohnzimmer eine Wand und der ganze Balkon gestrichen werden, Wir sind sehr zufrieden! Freundlich und sauber gearbeitet.\nVielen Dank",
+        "time": 1741158294,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tony Zürich",
+        "author_photo": "/images/reviews/maler-wild-gmbh-schafisheim/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat für mich die ganze Wohnung gestrichen und gewisse Stellen ausgebessert. Arbeit wurde speditiv umd sauber erledigt. Sehr gutes Preis/Leistungsverhältnis.",
+        "time": 1580337004,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

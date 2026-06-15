@@ -1,7 +1,7 @@
 {
   "id": "ch-3m8UWP0gyTpcgJP626vC",
   "slug": "doenni-ag-holzbau-schreinerei-garderoben-schaffhausen",
-  "name": "Dönni AG Holzbau Schreinerei Garderoben",
+  "name": "Schreinerei MAKK AG",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGzHRgH1_kEcR_4Q8aKD3OVA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Lukas Koch",
+        "author_photo": "/images/reviews/doenni-ag-holzbau-schreinerei-garderoben-schaffhausen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Gefährlich das Mitarbeiter mit solchem Fahrkönnen einen Führerschein besitzen.",
+        "time": 1734112028,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vitali Heimbuch",
+        "author_photo": "/images/reviews/doenni-ag-holzbau-schreinerei-garderoben-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Liegt bei uns über die Strasse. Wenn man etwas braucht, kann man kurz vorbei und wird grad bedient. Einfach Toppp!",
+        "time": 1603870460,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "ANNA LA",
+        "author_photo": "/images/reviews/doenni-ag-holzbau-schreinerei-garderoben-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739734715,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kim Lenherr",
+        "author_photo": "/images/reviews/doenni-ag-holzbau-schreinerei-garderoben-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739734528,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

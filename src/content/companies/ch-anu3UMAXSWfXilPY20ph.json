@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJdY0fIa25kUcREJoP6AgCnhY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Marko Markovic",
+        "author_photo": "/images/reviews/allset-electro-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetenter, fleissiger, speditiver und pflichtbewusster Elektrounternehmer.\nSehr empfehlenswert für Klein- und Mittelprojekte im Bereich Neu- und Umbauten in der Region BL/BS/AG/SO.",
+        "time": 1732819486,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michael Colussi",
+        "author_photo": "/images/reviews/allset-electro-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service. Sehr hilfsbereit und freundlich. Absolut empfehlenswert.",
+        "time": 1748950036,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "oriol polo",
+        "author_photo": "/images/reviews/allset-electro-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super schnelle und super nette Behandlung",
+        "time": 1780504297,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Benjamin Thoma",
+        "author_photo": "/images/reviews/allset-electro-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1717498572,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

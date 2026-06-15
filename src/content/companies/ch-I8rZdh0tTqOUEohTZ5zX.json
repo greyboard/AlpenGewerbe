@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqfl0vUALkEcRom_Mo32RHhM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Oliver Krstevski",
+        "author_photo": "/images/reviews/amos-ag-malermeister-gipser-zuerich-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Malerfirma überzeugt durch präzise und termingerechte Ausführung ebenso eine hohe qualität der arbeit.",
+        "time": 1731342603,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "alpha_MatrixHD",
+        "author_photo": "/images/reviews/amos-ag-malermeister-gipser-zuerich-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr Gute Arbeit. Ich bin sehr zufrieden mit dem Resultat. Sehr empfehlenswert wenn man von Zürich kommt.",
+        "time": 1729255128,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sophia",
+        "author_photo": "/images/reviews/amos-ag-malermeister-gipser-zuerich-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Maler Firma bin glücklich mit der Leistung und empfehle es an allen",
+        "time": 1733253748,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ando Gamer",
+        "author_photo": "/images/reviews/amos-ag-malermeister-gipser-zuerich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das Resultat sieht aussergewöhnlichst Ordentlich aus. Bester Maler und Gipser in Zürich.",
+        "time": 1731876838,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Angelo Müller",
+        "author_photo": "/images/reviews/amos-ag-malermeister-gipser-zuerich-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Maler Firma bin glücklich mit der Leistung und empfehle es an allen",
+        "time": 1732890015,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJc_ODzDLgmkcRtmtAJEunVvQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Christof Schlegel",
+        "author_photo": "/images/reviews/garten-design-ag-abtwil-sg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma und ausgezeichnete Arbeit! Vielen herzlichen Dank!",
+        "time": 1704455649,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sybil S.",
+        "author_photo": "/images/reviews/garten-design-ag-abtwil-sg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Junges Team - nette Leute - wissen was Sie tun !",
+        "time": 1619066347,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ernst Kunz",
+        "author_photo": "/images/reviews/garten-design-ag-abtwil-sg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top, sehr zum empfehlen.",
+        "time": 1690442323,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "G. P.",
+        "author_photo": "/images/reviews/garten-design-ag-abtwil-sg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hübsch...",
+        "time": 1569792635,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Senad",
+        "author_photo": "/images/reviews/garten-design-ag-abtwil-sg/reviewer_5.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1777488291,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

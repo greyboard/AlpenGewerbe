@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ15pd09IVkEcRsUw9Ge5H3u0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Peter Sutter",
+        "author_photo": "/images/reviews/bossert-maler-gipser-ag-othmarsingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit den Leistungen der Firma Bossert sehr zufrieden.\nBeratung, sehr saubere Ausführung und Termineinhaltung Top!",
+        "time": 1768498070,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Kunde",
+        "author_photo": "/images/reviews/bossert-maler-gipser-ag-othmarsingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Bossert hat bei uns diverse Maler- und Gipserarbeiten zur Zufriedenheit ausgeführt. Wir können die Firma empfehlen.",
+        "time": 1754744062,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Reto Egolf",
+        "author_photo": "/images/reviews/bossert-maler-gipser-ag-othmarsingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Frauen-Power auf der ganzen Linie!!!\nSuper professionelle Beratung durch Steffi und perfekte Ausführung durch Sandra.",
+        "time": 1755879121,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "E. J.",
+        "author_photo": "/images/reviews/bossert-maler-gipser-ag-othmarsingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Unser Haus - teilweise mit Holzdecken - musste innen komplett gestrichen werden. Zudem gab es diverse Setzrisse, die ausgebessert werden mussten. Sämtliche Arbeiten wurden professionell und wie vereinbart ausgeführt.",
+        "time": 1660459320,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Graziella Köpfli",
+        "author_photo": "/images/reviews/bossert-maler-gipser-ag-othmarsingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir könnnen die Firma Bossert nur weiter empfehlen. Von der Offerte bis zur Fertigstellung ist alles einwandfrei verlaufen. Wir sind sehr zufrieden.",
+        "time": 1661856017,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

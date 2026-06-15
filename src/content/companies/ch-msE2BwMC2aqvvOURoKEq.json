@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2Xbg4nSrmkcR7mlVNcCrTzM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Fra. Javier S.",
+        "author_photo": "/images/reviews/amstutz-haustechnik-ag-zug/reviewer_1.jpg",
+        "rating": 1,
+        "text": "ZG 66548 ist am Mittsg Mittwoch 5.11\n12.00 die ganze Autofahrt durch die Schochenmühle am eintippen bei. HANDY. Sorry geht gar Nicht. Schade für die Werbung",
+        "time": 1762341547,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Reto Schorta",
+        "author_photo": "/images/reviews/amstutz-haustechnik-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Toller Service von den Jungs! Schnell, sauber und günstig erledigt. Gerne wieder wenn es zum einem Notfall kommen sollte.",
+        "time": 1702389170,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Carsten Thurand",
+        "author_photo": "/images/reviews/amstutz-haustechnik-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Handwerk wie ich es mag.\nSchnell reagiert, korrekt und sauber gearbeitet. Preis-Leistungsverhältnis tiptop.\nImmer wieder gern.\nBeste Grüsse\nCarsten Thurand",
+        "time": 1692979864,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Manuel maestre",
+        "author_photo": "/images/reviews/amstutz-haustechnik-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Firma. Super Service waren schnell vor Ort danke viel mals.",
+        "time": 1673781520,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mancino Angelo",
+        "author_photo": "/images/reviews/amstutz-haustechnik-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service und Freundliche Mitarbeiter…gerne wieder!!!!",
+        "time": 1673781216,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

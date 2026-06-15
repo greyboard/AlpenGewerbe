@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJpdiCJwmxhEcRXb2Kwigx1-8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Becir Mesic",
+        "author_photo": "/images/reviews/bordoli-erben-ag-jenaz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Am besten",
+        "time": 1498311532,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Fabrizio Samì",
+        "author_photo": "/images/reviews/bordoli-erben-ag-jenaz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1677906770,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "dominik zueger",
+        "author_photo": "/images/reviews/bordoli-erben-ag-jenaz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667317514,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Abulfazel Zahid",
+        "author_photo": "/images/reviews/bordoli-erben-ag-jenaz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1668536406,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simi Sicherli",
+        "author_photo": "/images/reviews/bordoli-erben-ag-jenaz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1630252835,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

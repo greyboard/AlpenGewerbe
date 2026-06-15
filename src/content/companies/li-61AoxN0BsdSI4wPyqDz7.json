@@ -25,5 +25,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJU6TWiMs7m0cRu4l524fohqc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Michelle Fend",
+        "author_photo": "/images/reviews/hoop-holzbau-ag-ruggell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sensationeller Holzbaubetrieb! Unsere Dachsanierung ging enorm speditiv voran. Besonders hervorheben möchten wir die enorm engagierten und freundlichen Handwerker, die bei uns waren. Beim nächsten Projekt wissen wir an wen wir uns wieder wenden",
+        "time": 1695305511,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michael Mäder",
+        "author_photo": "/images/reviews/hoop-holzbau-ag-ruggell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Darf im Namen der Liechtensteinischen Post AG eine Bewertung abgeben. Wir durften am Hauptsitz in Schaan den Aussenbereich neu gestalten. Die Hoop Holzbau AG hat dies perfekt ausgeführt, die Begleitung von Lukas war stets freundlich und kompetent. Danke für das ausführen vom neuen Holzrost.",
+        "time": 1658740589,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gian-luca Bonderer",
+        "author_photo": "/images/reviews/hoop-holzbau-ag-ruggell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Holzbaubetrieb mit aufgestelltem und motiviertem Team. Sehr freundliches und koordiniertes Arbeitsklima. Arbeiten werden nach bestem Wissen und Können ausgeführt.",
+        "time": 1661896340,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Bianca Boss-Vai",
+        "author_photo": "/images/reviews/hoop-holzbau-ag-ruggell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke Rupert fürs schnelle kommen. Top Qualität, Preis-Leistungs-Verhältnis besser gehts nicht, Reaktionsschnelligkeit und Pünktlichkeit einfach super.",
+        "time": 1582907089,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Roman Gubser",
+        "author_photo": "/images/reviews/hoop-holzbau-ag-ruggell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1579050249,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

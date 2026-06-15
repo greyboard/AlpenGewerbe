@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpSG3EGG1kUcRXyMkEx8biyE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: 08:00–18:00 Uhr",
+    "Sonntag: 08:00–18:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Suat Özden",
+        "author_photo": "/images/reviews/dachweltbau-frenkendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und professionelle Arbeit.\n\nDie Montage der Dachlüftung mit Entlüftungsrohr wurde fachgerecht und mit viel Sorgfalt ausgeführt. Saubere Durchführung, exakt angepasste Dachpfanne und eine dichte, stabile Lösung auf dem Dach. Man merkt sofort: Hier arbeitet ein Profi mit Erfahrung. Ich bin sehr zufrieden und empfehle den Service gerne weiter.",
+        "time": 1768918247,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Kocsis Gábor",
+        "author_photo": "/images/reviews/dachweltbau-frenkendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit Ákos zu arbeiten war eine rundum positive Erfahrung! Von der ersten Besichtigung über die Angebotserstellung bis hin zur Umsetzung lief alles schnell, transparent und absolut professionell. Der Bau des Carports wurde zügig und sauber ausgeführt, jedes Detail hat gepasst. Man merkt sofort, dass Ákos mit Erfahrung, Präzision und echter Leidenschaft arbeitet. Solche zuverlässigen Handwerker sind selten! Klare Weiterempfehlung!",
+        "time": 1771708364,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "andrea romero",
+        "author_photo": "/images/reviews/dachweltbau-frenkendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann Ákos uneingeschränkt weiterempfehlen! Vom ersten Kontakt an habe ich eine absolut professionelle Arbeitsweise erlebt. Die Besichtigung verlief schnell und gründlich, das Angebot kam sehr zügig und war klar sowie fair formuliert. Der Austausch des Dachfensters wurde anschliessend schnell, präzise und sauber durchgeführt. So zuverlässige und kompetente Handwerker findet man selten.",
+        "time": 1773612399,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Katalin Martena",
+        "author_photo": "/images/reviews/dachweltbau-frenkendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nach einem Sturm haben abgebrochene Äste die Dachrinne sowie einige Dachziegel beschädigt, zudem kam es zu einem Wassereintritt. Ákos war extrem schnell zur Zustandsaufnahme vor Ort, hat das Problem sofort erkannt und die Schäden umgehend behoben. Es war fast unglaublich, endlich einmal nicht nur leere Versprechen oder monatelange Wartezeiten zu bekommen, sondern echte, sofortige Hilfe. Präzise, zuverlässig und absolut korrekt. Ein Handwerker, wie man ihn sich wünscht. Bei Problemen mit Dach oder Dachrinne würde ich jederzeit wieder Ákos kontaktieren!",
+        "time": 1770584018,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Dusan Gadzic",
+        "author_photo": "/images/reviews/dachweltbau-frenkendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "danke für Ihre Arbeit!",
+        "time": 1768918973,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

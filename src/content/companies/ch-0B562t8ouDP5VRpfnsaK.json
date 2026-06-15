@@ -1,7 +1,7 @@
 {
   "id": "ch-0B562t8ouDP5VRpfnsaK",
   "slug": "vitrerie-crettenand-sa-vetroz",
-  "name": "Vitrerie Crettenand SA",
+  "name": "Vitrerie Crettenand Dominique",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJsa60hqzEjkcRuj6woaXs7mo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Catalina Kunz",
+        "author_photo": "/images/reviews/vitrerie-crettenand-sa-vetroz/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Fährt schlecht auto.",
+        "time": 1753620924,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "cacahouete_ch",
+        "author_photo": "/images/reviews/vitrerie-crettenand-sa-vetroz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnell, präzise und ehrlich.\nIch bin mit dem Ergebnis zufrieden und froh, dass ich mich für sie entschieden habe!\nIch kann sie nur empfehlen.",
+        "time": 1713283768,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Julien Roux",
+        "author_photo": "/images/reviews/vitrerie-crettenand-sa-vetroz/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Herr Crettenand hat sein Wort gehalten, gute Gesellschaft, gutes Preis-Leistungs-Verhältnis",
+        "time": 1650892310,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jérôme Brinon",
+        "author_photo": "/images/reviews/vitrerie-crettenand-sa-vetroz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr hochwertige Arbeit. Vielen Dank.",
+        "time": 1650542059,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bochy Bernard",
+        "author_photo": "/images/reviews/vitrerie-crettenand-sa-vetroz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super nett und willkommen ok",
+        "time": 1678435247,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

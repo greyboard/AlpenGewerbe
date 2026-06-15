@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4x_i9Vgem0cRnvZX4uygXww",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Gloria Weiss",
+        "author_photo": "/images/reviews/kostgeld-malergeschaeft-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr Sympathisches Familiengeschäft! Kompetente Beratung und unglaubliches Wissen über das Handwerk der Malerei - man spürt tatsächlich die Leidenschaft für Farben. Ein Besuch im Farbraum ist immer mit interessanten Geschichten verbunden.",
+        "time": 1552981001,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Philipp Laemmlin",
+        "author_photo": "/images/reviews/kostgeld-malergeschaeft-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Lokal verankert, gleichbleibende Ansprechpartner, breite fachliche Kompetenz, zuverlässig - und einfach gute Leute...",
+        "time": 1553073053,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Yasmin Eggenberger",
+        "author_photo": "/images/reviews/kostgeld-malergeschaeft-ag-st-gallen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Angestellte völlig gestresst und aggressiv. Ohne jeglichen Respekt.",
+        "time": 1731669170,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manfred Nährer",
+        "author_photo": "/images/reviews/kostgeld-malergeschaeft-ag-st-gallen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Einer der ältesten und besten Betriebe in St. Gallen",
+        "time": 1698257861,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Paul Gruber",
+        "author_photo": "/images/reviews/kostgeld-malergeschaeft-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "sehr kompetent!",
+        "time": 1552982718,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

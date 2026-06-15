@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJDcGHtQX8j0cRD6Q-9-IdNNE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:30 Uhr",
+    "Dienstag: 08:00–18:30 Uhr",
+    "Mittwoch: 08:00–18:30 Uhr",
+    "Donnerstag: 08:00–18:30 Uhr",
+    "Freitag: 08:00–18:30 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 183,
+    "reviews": [
+      {
+        "author_name": "Joelle",
+        "author_photo": "/images/reviews/luzerner-garten-ag-ebikon/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Meine Grossmutter, seit vielen Jahren treue Kundin, hat kürzlich eine Pflanze gekauft, die sich zu Hause als stark von Tausendfüsslern befallen herausstellte (siehe Foto). Da sie die Pflanze in ihrem kleinen Garten eintopfen wollte, kam ein solcher Befall für sie nicht infrage. Sie fuhr deshalb zurück zum Laden, um das Problem zu melden. Leider wurde sie dort nicht ernst genommen: Die Mitarbeitenden belächelten ihre Beschwerde und meinten nur, die Tiere seien „gut für den Garten“. Eine Entschuldigung oder ein Entgegenkommen blieb völlig aus. Stattdessen wurde sie herablassend behandelt und als überempfindlich hingestellt. Sie ging sehr enttäuscht nach Hause – nicht nur wegen der unbrauchbaren Pflanze, sondern vor allem wegen des respektlosen Umgangs. Für eine langjährige Kundin ist das schlicht enttäuschend.",
+        "time": 1751477298,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Felix Messmer",
+        "author_photo": "/images/reviews/luzerner-garten-ag-ebikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Über den Luzerner Garten\n\nDieser Garten lässt Herzen höher schlagen.\nDas war bereits das Motto der Gärtnerei Jenny, die 1975 gegründet wurde.\nAus dieser entstand 1998 der heutige  Luzerner Garten, bekannt für seine Sonderausstellungen wie: Tulpenschau, Orchideenschau und die Adventsausstellung. Service, Fachberatung und Einzigartigkeit zeichnen ihn aus.",
+        "time": 1555343349,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Dieter Greber",
+        "author_photo": "/images/reviews/luzerner-garten-ag-ebikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bestes Gartencenter in der Region. Sehr gute Qualitätspflanzen und super Beratung.",
+        "time": 1763824036,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Johann Blättler",
+        "author_photo": "/images/reviews/luzerner-garten-ag-ebikon/reviewer_4.jpg",
+        "rating": 3,
+        "text": "Der Luzerner Garten bietet für Pflanzenliebhaber immer wieder Neues. Kräuter - Sukkulenten - Farne - Orchideen - Tulpen sowie Floristik ist Trumpf um nur die Wichtigsten zu benennen.",
+        "time": 1550574623,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Gianni Ineichen",
+        "author_photo": "/images/reviews/luzerner-garten-ag-ebikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Da hat sich was getan! Reichhaltiges Sortiment. Kompetente und freundliche Bedienung.",
+        "time": 1621697588,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

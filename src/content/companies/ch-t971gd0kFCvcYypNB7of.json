@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJTUH5OSryj0cRYkvxQUF1vI0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 33,
+    "reviews": [
+      {
+        "author_name": "Andy",
+        "author_photo": "/images/reviews/fanger-design-gmbh-kaegiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind auf Instagram auf Fanger Design aufmerksam geworden und haben uns kurzentschlossen bei Ihm in Kägiswil wegen einem neuen Tisch umgesehen. Mathias hat uns, auch ohne Voranmeldung, sofort und unkompliziert alles gezeigt und erklärt. Keine 24 Stunden später haben wir dann diesen wunderschönen Tisch direkt aus dem Ausstellungsraum  gekauft. Wir haben grosse Freude an unserem Tisch und bekommen viele Komplimente.\nEs ist schön, dass es immer noch so gute Handwerkerbetriebe bei uns in der Schweiz gibt, die kompetent und fachkundig super Arbeit leisten.\nBesten Dank Mathias.\nLiebe Grüsse Gabriela und Andy",
+        "time": 1778770305,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Zebierto",
+        "author_photo": "/images/reviews/fanger-design-gmbh-kaegiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mathias hat unseren Nussbaumtisch auf Vordermann gebracht und frisch geölt. Sieht nun besser aus, als damals, als wir ihn vor 13 Jahren kaufen haben!\nSuper freundliche und kompetente Bedienung, perfektes Ergebnis. Preis/Leistung wunderbar! Danke Fanger Design, gerne wieder!",
+        "time": 1776878153,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Conny Jauch",
+        "author_photo": "/images/reviews/fanger-design-gmbh-kaegiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Beratung über die Herstellung bis zur Endmontage top! Mathias und sein Team machen einen tollen Job. Wir freuen uns sehr über die schönen Möbelstücke.",
+        "time": 1765913088,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Frederik Benzing",
+        "author_photo": "/images/reviews/fanger-design-gmbh-kaegiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Mathias Fanger hat unseren Teakholztisch, und Holzbett wieder auf Vordermann gebracht (schleifen, ölen, wachsen). Die Arbeit war professionell, unkompliziert. Die Möbel sehen wie neu aus und die Schutzschicht funktioniert tiptop.\n\nMathias hat uns auch ausgesprochen freundlich bei ein paar weiter Holzmöbeln in Sachen Pflege beraten und geholfen!",
+        "time": 1765104231,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Walter Haas",
+        "author_photo": "/images/reviews/fanger-design-gmbh-kaegiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe von Fanger Design GmbH vor vielen Jahren einen massiven Tisch aus Nussbaumholz gekauft. Dieser sieht nach wie vor wie neu aus. Zwecks Verlängerung des Tisches habe ich jetzt noch entsprechende Ansteckplatten erworben. Ich wurde sehr freundlich und fachmännisch beraten (auch bezüglich Montage und Pflege). Die neuen Ansteckplatten passen perfekt zum Tisch. Ich kann deshalb die Schreinerei Fanger Design bestens empfehlen.",
+        "time": 1678467606,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

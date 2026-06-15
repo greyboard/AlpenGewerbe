@@ -1,7 +1,7 @@
 {
   "id": "ch-59LWkIZmVU4k6pfbTMjZ",
   "slug": "electro-scherzinger-ag-zuerich",
-  "name": "electro scherzinger ag",
+  "name": "elektro scherzinger ag",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJo_5DhnEKkEcRtetnUKMMmiY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Phong Nguyen",
+        "author_photo": "/images/reviews/electro-scherzinger-ag-zuerich/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Telefonisch nachgefragt ob die offene stelle auf der Homepage noch aktuell ist, wurde mir bestätigt.\nAm selben Tag eine Absage weil sie auf Grund der Momentanen Situation nimand suchen.\nSehr unprofesionell!",
+        "time": 1588690237,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Robert Eletic",
+        "author_photo": "/images/reviews/electro-scherzinger-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Firma\nWenn Sie auf Qualität setzen, so sind Sie hier gut aufgehoben!",
+        "time": 1624519375,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Serge-Etienne Freytag",
+        "author_photo": "/images/reviews/electro-scherzinger-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Transparente Planung, erstklassige Montage und freundliche Mitarbeiter: Die Elektro Scherzinger AG bot uns einen hochkompetenten Service!",
+        "time": 1471040864,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "René Rechsteiner",
+        "author_photo": "/images/reviews/electro-scherzinger-ag-zuerich/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Sehr kompetent und freundlich ich kann Elektro Scherzinger mit gutem Gewissen empfehlen.",
+        "time": 1401536549,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "K D",
+        "author_photo": "/images/reviews/electro-scherzinger-ag-zuerich/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Gutes Elektrogeschäft, mit elektrischen Geschäftswagen gäbe es 5*. Grüsse",
+        "time": 1578328110,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

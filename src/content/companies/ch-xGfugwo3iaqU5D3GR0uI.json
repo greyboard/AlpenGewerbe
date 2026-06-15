@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRR_04UDgmkcReBGXwBEkPSo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Der Bewertet",
+        "author_photo": "/images/reviews/baumann-electro-ag-st-gallen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Auch hier war die arbeit gut und schnell verrichtet jedoch waren die Mitarbeiter unfreundlich und haben die ganze zeit das sogenannte \"lied der salatpflücker\" (pedro/waschbär) gesungen was mir ehrlich schon ziemlich auf den sack ging.",
+        "time": 1715082572,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tanqueray",
+        "author_photo": "/images/reviews/baumann-electro-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetenz pur. Hoher Qualitätsanspruch. Die Nr. 1 in St. Gallen !!!",
+        "time": 1757673402,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Christian Lottermoser",
+        "author_photo": "/images/reviews/baumann-electro-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Firma sehr professionell und faire Preise.",
+        "time": 1639137629,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marion Eisenring",
+        "author_photo": "/images/reviews/baumann-electro-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Zu mehr alls 100% empfehlenswert!!",
+        "time": 1681839768,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Neil Robertson",
+        "author_photo": "/images/reviews/baumann-electro-ag-st-gallen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Ich bin in eine Wohnung gezogen und musste fünf Deckenleuchten anbringen lassen. Mein Fehler, keinen Kostenvoranschlag einzuholen, aber ich war fassungslos über die Kosten von 382 CHF. Ich fühlte mich wie ein ausgebeuteter Ausländer! (In meiner vorherigen Wohnung kosteten sechs Leuchten nur 100 CHF!)",
+        "time": 1556364499,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

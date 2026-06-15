@@ -26,5 +26,47 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJwSLVzuhmkcRG1POsZBeAGw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Vito Serratore",
+        "author_photo": "/images/reviews/vanzanelli-gipsergeschaeft-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wenn Sie eine gute Firma suchen die Gipser arbeiten erledigt, dann sollten sie hier einmal anfragen.\nDario..Vielen herzlichen Dank für deinen super Job.\nDer coiffeursalon ist  perfekt und verdammt schön geworden.\nDu bist sehr professionell, extrem sauber, kompetent, freundlich und zuverlässig. Ist nur zu empfehlen.",
+        "time": 1673475942,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Peter Beyer",
+        "author_photo": "/images/reviews/vanzanelli-gipsergeschaeft-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Der ist ein stuck.Dr.  und vieles mehr weiter so",
+        "time": 1595608825,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Mario Budz",
+        "author_photo": "/images/reviews/vanzanelli-gipsergeschaeft-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1687360406,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJndCH_zR_kEcRn5bOoMphp2s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: 08:30–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Andreas Brunner",
+        "author_photo": "/images/reviews/fliesenmeister-okur-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Okur hat innerhalb von wenigen Tagen professionell die Fliesen in unserm neuen Wintergarten gelegt. Zuvor musste er den Boden eben machen. Wir können Ihn weiterempfehlen.",
+        "time": 1759920635,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Ursula Chiozza",
+        "author_photo": "/images/reviews/fliesenmeister-okur-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Okur hat die Arbeiten im Badezimmer sehr professionell durchgeführt musste die Badewanne zuerst rausnehmen dann neue Platten legen und eine Dusche eingesetzt. Ich bin sehr zufrieden und werden ihn weiterempfehlen.",
+        "time": 1762952566,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Fiona Roos",
+        "author_photo": "/images/reviews/fliesenmeister-okur-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super schnell, super job und super Preis-Leistungs Verhältnis. Vielen Dank Herr Okur!",
+        "time": 1771052805,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Dario Loor",
+        "author_photo": "/images/reviews/fliesenmeister-okur-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fantastische Arbeit vom Fliesenmeister!!\nPünktlich, professionell und sehr präzise. Die Verlegung war schnell und von höchster Qualität.\nPreislich top!\nAbsolute Weiterempfehlung, vielen Dank!",
+        "time": 1765270355,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "René K.",
+        "author_photo": "/images/reviews/fliesenmeister-okur-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Okur hat unseren Küchenboden neu gefliest. Seine saubere und freundliche  Arbeitsweise, sowie die Einhaltung terminlicher Zusagen, möchte ich speziell erwähnen.\nJederzeit wieder!",
+        "time": 1760428093,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

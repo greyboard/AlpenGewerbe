@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkUVoME1ThUcR2HG6S_um_J0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Mark Grüring",
+        "author_photo": "/images/reviews/schmidlin-spenglerei-bedachungen-gmbh-unteraegeri/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine sehr gute Spenglerei, die auch Fassadenbau anbietet. Saubere und termingerechte Arbeit zu einem adäquaten Preis. Ist sehr zu empfehlen",
+        "time": 1514438914,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "NoName",
+        "author_photo": "/images/reviews/schmidlin-spenglerei-bedachungen-gmbh-unteraegeri/reviewer_2.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1762896029,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Cornel Nielsen",
+        "author_photo": "/images/reviews/schmidlin-spenglerei-bedachungen-gmbh-unteraegeri/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1644488497,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Siyaro",
+        "author_photo": "/images/reviews/schmidlin-spenglerei-bedachungen-gmbh-unteraegeri/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1616499077,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Bonnie P",
+        "author_photo": "/images/reviews/schmidlin-spenglerei-bedachungen-gmbh-unteraegeri/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1541061010,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJSWOo0qs5jkcRtNFS_qeSjdk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Daniel Haberthuer",
+        "author_photo": "/images/reviews/marras-baugeschaeft-gmbh-bern-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein ausserordentlich flexibles und kompetentes Baugeschäft mit grossem Know-How, das kürzlich von Ignazio Marras an den neuen Inhaber Eugen Dauti übergeben wurde.\nIch wünsche weiterhin viel Erfolg.",
+        "time": 1692113914,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "rutsch simon",
+        "author_photo": "/images/reviews/marras-baugeschaeft-gmbh-bern-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1516458610,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

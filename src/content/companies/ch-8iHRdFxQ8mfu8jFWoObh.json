@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJu7eRsUZOhUcRveD5DuLku3s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:45 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Matthias Suter",
+        "author_photo": "/images/reviews/schreinerei-schuerpf-gmbh-schwyz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Küche und alle Einbauschränke schreinern lassen und sind sehr zufrieden. Die Beratung (durch Sepp) war top, der Platz (Renovation) wurde maximal ausgenützt und auf unsere Wünsche Rücksicht genommen. Die Qualität ist hervorragend (und wir sind Perfektionisten...). Preis-Leistung ist unserer Meinung nach unschlagbar. Absolute Weiterempfehlung von uns.",
+        "time": 1757591347,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Christoph Müller",
+        "author_photo": "/images/reviews/schreinerei-schuerpf-gmbh-schwyz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Qualität, sehr freundlich, sehr hilfsbereit und schnelle Umsetzung. Vielen Dank für diese angenehme Erfahrung. Kann ich zu 100% weiterempfehlen!",
+        "time": 1747387731,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maximilian Von Waldenburg",
+        "author_photo": "/images/reviews/schreinerei-schuerpf-gmbh-schwyz/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Hatten eine preisliche Abmachung. Nach der Auftragsausführung verlangte Herr Schürpf plötzlich das Doppelte. Nie wieder. Katastrophale Kundenorientierung.",
+        "time": 1733739736,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcel von Rickenbach",
+        "author_photo": "/images/reviews/schreinerei-schuerpf-gmbh-schwyz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für den freundlichen Empfang in eurem Neubau. Beeindruckend was Ihr da geleistet habt. Es ist schön wie man bei euch von allen Mitarbeitern mit einem Lachen begrüsst wird. Da merkt man, dass Ihr mit Freude arbeitet.\nIch wünsche euch weiterhin viel Erfolg.",
+        "time": 1588073937,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michael Auf der Maur",
+        "author_photo": "/images/reviews/schreinerei-schuerpf-gmbh-schwyz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr hohe Qualität, Termine werden eingehalten, absolut empfehlenswert. Die Nachfolge der Firma ist zudem gesichert!",
+        "time": 1583949111,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

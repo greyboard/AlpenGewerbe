@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ10AG5RQKkEcRVIipRiZmric",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Tailored Moments",
+        "author_photo": "/images/reviews/r-brunner-ag-schreinerei-innenausbau-daellikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit der Schreinerei Brunner haben wir unser Projekt „der Glaskubus“ umgesetzt.\nSuper Zusammenarbeit/ professionelle Beratung und Ausführung.\nGute Erfahrung- kann ich nur weiter empfehlen.",
+        "time": 1650046299,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simon Schifferle",
+        "author_photo": "/images/reviews/r-brunner-ag-schreinerei-innenausbau-daellikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seit Jahren arbeiten wir erfolgreich mit der Firma R. Brunner zusammen. Schreinerarbeiten und Innenausbauten verlaufen stets professionell, zuverlässig und auf höchstem Niveau. Das Team ist kompetent, freundlich und lösungsorientiert. Eine hervorragende Zusammenarbeit.",
+        "time": 1738918692,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Huser",
+        "author_photo": "/images/reviews/r-brunner-ag-schreinerei-innenausbau-daellikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Diese Schreinerei mitten in Zürich kann ich aus eigener Erfahrung sehr empfehlen. Unkompliziert und zu einem fairen Preis haben sie mir eine während des Transports aus Dänemark zerbrochene Holzlatte passgenau nachproduziert, sodass ich mein Projekt, der Zusammenbau einer Kinderbettschublade, erfolgreich beenden konnte.",
+        "time": 1742373308,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ulrich Rohrbach",
+        "author_photo": "/images/reviews/r-brunner-ag-schreinerei-innenausbau-daellikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das erste Mal bei der Schreinerei Brunner. Ich hatte nur einen \"kleinen\" Auftrag. Ich wurde sehr freundlich und sehr kompetent bedient. Bestellung sehr gut erledigt. Guter Preis. Kann diese Schreinerei absolut TOP weiterempfehlen. U. Rohrbach.",
+        "time": 1734521821,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Erlacher Polster GmbH Hüsler Nest Center Langenthal",
+        "author_photo": "/images/reviews/r-brunner-ag-schreinerei-innenausbau-daellikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Es ist immer wieder eine Erleichterung, für einen perfekt arbeitenden Schreiner Polster herstellen zu dürfen. Vielen Dank für Ihr Vertrauen.",
+        "time": 1656076039,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

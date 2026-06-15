@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJG7R3CFt70iER38LvkcvaROM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 09:00–18:00 Uhr",
+    "Mittwoch: 09:00–18:00 Uhr",
+    "Donnerstag: 09:00–18:00 Uhr",
+    "Freitag: 09:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Laura M.",
+        "author_photo": "/images/reviews/hoffmann-carrelage-renovation-sarl-vouvry/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank, Alex, für deine akribische Arbeit bei der Komplettrenovierung unserer Wohnung! Alex und Marco waren fantastisch: Sie haben alle Fristen eingehalten, uns hervorragend beraten und die Baustelle stets sauber gehalten. Wir sind überglücklich! Dank ihrer Hilfe haben wir ein brandneues Badezimmer bekommen: neue Wände, eine ebenerdige Dusche, Abdichtung und wunderschön verlegte Fliesen. Auch unsere Küche wurde renoviert, inklusive Fliesenarbeiten an Wänden und Böden. Die Fliesenarbeiten in der gesamten Wohnung wurden ebenfalls von ihnen übernommen. Wir sind so froh, euch gefunden zu haben! 😊 Herzlichen Dank!",
+        "time": 1741394705,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Cozynest",
+        "author_photo": "/images/reviews/hoffmann-carrelage-renovation-sarl-vouvry/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an das gesamte Team für die fantastische Arbeit in unserem kleinen Haus in Villeneuve: den Bau unseres neuen Badezimmers (Wände errichten, eine ebenerdige Dusche einbauen, Fliesen verlegen usw.) sowie die Fliesenarbeiten in der Küche und im Obergeschoss. Alex ist professionell, gibt hervorragende Ratschläge, ist sehr engagiert und obendrein ist das ganze Team sehr freundlich!",
+        "time": 1723464188,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anouk Christe",
+        "author_photo": "/images/reviews/hoffmann-carrelage-renovation-sarl-vouvry/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich empfehle Herrn Hoffmann und sein Team meinen Kunden seit Jahren uneingeschränkt. Sie übertreffen stets die Erwartungen und erfüllen individuelle Wünsche in Rekordzeit und mit akribischer Detailgenauigkeit. Herr Hoffmann ist reaktionsschnell, erreichbar und aufmerksam, und seine Preise sind wettbewerbsfähig. Er ist ein echter Profi!",
+        "time": 1724399478,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Camille ROCHE",
+        "author_photo": "/images/reviews/hoffmann-carrelage-renovation-sarl-vouvry/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Komplette Badsanierung und eine Steinwand im Wohnzimmer! Absolut keine Beanstandungen, effiziente, gewissenhafte und wirklich professionelle Teamarbeit. Ich kann sie wärmstens empfehlen!\n\nVielen Dank nochmal!",
+        "time": 1727689223,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "XVR Prmtr (Drkchrs)",
+        "author_photo": "/images/reviews/hoffmann-carrelage-renovation-sarl-vouvry/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein sehr professionelles Team, das aufmerksam auf die Bedürfnisse des Kunden einging und passende Vorschläge machte. Ich danke ihnen für die hervorragende Arbeit in unserem Badezimmer und kann sie wärmstens empfehlen!",
+        "time": 1724143837,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ-rJnUN_kEcRIFXSrscjm_4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Simon Stör",
+        "author_photo": "/images/reviews/scherrer-gebaeudetechnik-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Scherrer Gebäudetechnik hat beim Projekt Schulhaus Diessenhofen die Heizungsanlage installiert und dabei überzeugende Arbeit geleistet. Die Ausführung war nicht nur fachlich einwandfrei, sondern auch termingerecht und flexibel – was insbesondere in einem komplexen Bauvorhaben von grossem Wert ist.\n\nDie Zusammenarbeit mit dem Team war sehr angenehm und konstruktiv. Absprachen wurden zuverlässig eingehalten, und auf Anliegen wurde stets unkompliziert und lösungsorientiert reagiert.",
+        "time": 1754990958,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Emil Stoimenov",
+        "author_photo": "/images/reviews/scherrer-gebaeudetechnik-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "...natürlich war Samstag, als unsere Wärmepumpe nicht funktionierte und es war kalt.\nHerr File kam sah und reparierte. Tausend Dank für den Superservice und den sehr freundlichen Mitarbeiter. Zumal wir bis anhin nicht Kunden waren bei der FA Scherrer.",
+        "time": 1726412925,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adrian Lunau",
+        "author_photo": "/images/reviews/scherrer-gebaeudetechnik-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Scherrer HT hat bei der Renovation unseres Hauses zwei Bäder erneuert und die Terminkoordination der gesamten Renovation übernommen. Die Beratung war von Beginn an sehr kompetent und freundlich und die Kommunikation funktionierte problemlos. Die Arbeiten wurden pünktlich und zu unserer Zufriedenheit ausgeführt. Wir können die Firma weiterempfehlen.",
+        "time": 1630525097,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Speedy 151",
+        "author_photo": "/images/reviews/scherrer-gebaeudetechnik-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service. Moderne Heizungsanlagen wie Luft/Luft Wärmepumpen sind für diese Firma kein Problem. Reagieren rasch und die Preise sind sehr fair. Ich lasse keinen anderen Sanitär/Heizer mehr in mein Haus.",
+        "time": 1583791104,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marcel Meier",
+        "author_photo": "/images/reviews/scherrer-gebaeudetechnik-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Absolut zu empfehlen, sehr kompetente Fachleute!",
+        "time": 1585418050,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

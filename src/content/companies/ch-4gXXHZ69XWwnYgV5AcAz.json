@@ -1,7 +1,7 @@
 {
   "id": "ch-4gXXHZ69XWwnYgV5AcAz",
   "slug": "favre-fernand-sa-riddes",
-  "name": "Favre Fernand SA",
+  "name": "Fernand Favre SA",
   "branchen": [
     "heizungsbauer"
   ],
@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJFbzoD_zEjkcR5U9jrHVd3BM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "AS- expedition",
+        "author_photo": "/images/reviews/favre-fernand-sa-riddes/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Magnifique travail de Ferblanterie grâce à l'excellent Bernard !",
+        "time": 1604575291,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Olivier Hermenjat",
+        "author_photo": "/images/reviews/favre-fernand-sa-riddes/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Betrüger bieten älteren Menschen unnötige und teure Arbeiten an",
+        "time": 1506771915,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Melly Marvin",
+        "author_photo": "/images/reviews/favre-fernand-sa-riddes/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundliches und hilfsbereites Personal, hohe Arbeitsqualität",
+        "time": 1504119668,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Pauline Favre",
+        "author_photo": "/images/reviews/favre-fernand-sa-riddes/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut fantastisch 😉 Erstklassig 👌",
+        "time": 1525900515,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Claude Lambiel",
+        "author_photo": "/images/reviews/favre-fernand-sa-riddes/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit, gut gemacht!",
+        "time": 1583608199,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

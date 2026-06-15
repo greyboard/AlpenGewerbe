@@ -1,7 +1,7 @@
 {
   "id": "ch-wXxpdKF68mM0X9bs7wzI",
   "slug": "schaeffer-fribourg",
-  "name": "Schaeffer",
+  "name": "Schaeffer Citernes S.A.",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJE6D6BtVojkcRmwRqJBaxbXk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.4,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "David Curty",
+        "author_photo": "/images/reviews/schaeffer-fribourg/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Eine Katastrophe! Meiden Sie diese Firma, wenn Sie noch die Wahl haben. Sie haben mir einen Kostenvoranschlag für den Austausch der Toilettenschüssel gemacht, und wie Sie auf dem Foto sehen können, haben sie einen völlig unpassenden Sitz eingebaut – und das halten sie für völlig normal! Niemand geht ans Telefon. Absolute Amateure, die meiner Meinung nach bald pleitegehen werden.",
+        "time": 1722324209,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Salvatore Mirata",
+        "author_photo": "/images/reviews/schaeffer-fribourg/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Diese Firma ist eine Katastrophe. Ohne Heizung dauerte es zehn Tage, bis ich einen Rückruf bekam und ein Termin vereinbart wurde. Als der Termin kam, tauchte der Techniker einfach nicht auf. Ich rief die Firma erneut an, und mir wurde ein sofortiger Rückruf versprochen. Und ich warte immer noch! Finger weg von dieser Firma!",
+        "time": 1711228515,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Magic26astar",
+        "author_photo": "/images/reviews/schaeffer-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich verstehe die negativen Bewertungen nicht; die Mitarbeiter sind sehr freundlich und die Reparaturen wurden noch am selben Tag erledigt. In den drei Fällen, in denen ich in den letzten Jahren den Kundendienst in Anspruch genommen habe, war der Service stets ausgezeichnet und die Preise angemessen.",
+        "time": 1737535751,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Laurent Lima",
+        "author_photo": "/images/reviews/schaeffer-fribourg/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Schon beim ersten Telefonkontakt begegnete ich einem sehr unfreundlichen und herablassenden Menschen. Als der Techniker am vereinbarten Tag zur Reparatur unserer Heizung eintraf, bat ich ihn, möglichst leise zu sein, da meine Frau im Homeoffice arbeitet. Das gefiel ihm gar nicht, und wieder einmal hatte ich es mit jemandem zu tun, der ganz offensichtlich nicht für den Kundenservice geeignet ist. Ich kann diese Firma absolut nicht empfehlen.",
+        "time": 1698918139,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "michel pernet",
+        "author_photo": "/images/reviews/schaeffer-fribourg/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Nachdem ich viermal angerufen habe, um ein Angebot für ein Wartungsabonnement zu erhalten, ohne eine Antwort von dieser Firma zu erhalten, halte ich sie für unprofessionell. Ich wage es nicht einmal, mir vorzustellen, dass ich eine Panne habe und viermal anrufen muss, um sie zu bitten, vorbeizukommen und das Problem zu beheben.",
+        "time": 1650827201,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

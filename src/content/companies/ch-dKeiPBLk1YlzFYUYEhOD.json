@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJc_03SZVpj0cRKf-B6qWanLU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Afir Krasniqi",
+        "author_photo": "/images/reviews/sanitaerplus-gmbh-gamsen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "SanitärPlus GmbH ist absolut empfehlenswert. Die beiden Inhaber und das Team arbeiten sehr professionell und man merkt sofort, dass sie ihr Handwerk verstehen. Sehr zuverlässig, sauber gearbeitet und extrem hilfsbereit. So wünscht man sich einen Sanitärbetrieb!",
+        "time": 1768559274,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Rexhep Mustafi",
+        "author_photo": "/images/reviews/sanitaerplus-gmbh-gamsen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Team war stets pünktlich, freundlich und hat mit höchster Präzision gearbeitet. Besonders beeindruckt hat uns die schnelle und saubere Arbeitsweise – kein Chaos, keine Verzögerungen. Auch bei unerwarteten Herausforderungen fanden sie sofort eine passende Lösung.\n\nDas Ergebnis übertrifft unsere Erwartungen: ein modernes, stilvolles Bad mit perfekter Verarbeitung. Wir können SanitärPlus GmbH uneingeschränkt weiterempfehlen und werden sie bei zukünftigen Projekten definitiv wieder beauftragen!\n\nVielen Dank für die großartige Arbeit!",
+        "time": 1741439927,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Krasniqi Arber",
+        "author_photo": "/images/reviews/sanitaerplus-gmbh-gamsen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit.\nSehr sauber.\nIch kann nur weiterempfehlen.\nPreis TOP Arbeit TOP.\nWeiter so",
+        "time": 1701616073,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Joker Pablo",
+        "author_photo": "/images/reviews/sanitaerplus-gmbh-gamsen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, Arbeit wurde sehr gut ausgeführt! Sehr zufrieden👍",
+        "time": 1673963140,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Granit S.",
+        "author_photo": "/images/reviews/sanitaerplus-gmbh-gamsen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis hin zur Abnahme hat bei unserem Badezimmerumbau alles einwandfrei funktioniert.\nDie Preise sind absolut fair und die Qualität top.\nImmer wieder gerne.",
+        "time": 1775199914,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

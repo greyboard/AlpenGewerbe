@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJYWA9pcuDjkcRZ88WaJAWz-o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Arnaud Thuillard",
+        "author_photo": "/images/reviews/coquoz-constructions-sa-bossonnens/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir schätzen die regelmäßige Zusammenarbeit mit Coquoz Constructions SA sehr, die uns zahlreiche Projekte anvertraut, und die Zusammenarbeit verläuft stets reibungslos. Das Unternehmen ist seriös, zuverlässig und hochprofessionell. Die Zusammenarbeit ist immer ein Vergnügen; die Beziehung ist unkompliziert, effizient und stets respektvoll. Wir können Coquoz Constructions SA uneingeschränkt empfehlen.",
+        "time": 1774360898,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Nicolas Streit",
+        "author_photo": "/images/reviews/coquoz-constructions-sa-bossonnens/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein hervorragender Partner, auf den man sich bei der Erbringung dieser Dienstleistungen sehr verlassen kann. Vielen Dank für die großartige Zusammenarbeit.",
+        "time": 1774350572,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Joëlle -",
+        "author_photo": "/images/reviews/coquoz-constructions-sa-bossonnens/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die Renovierung meines Duschraums. Professionalität, Qualität und Sorgfalt haben in meinem kleinen Haus einen Traumraum geschaffen. Ich bin begeistert vom Ergebnis!",
+        "time": 1734585570,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nicolas Perroud",
+        "author_photo": "/images/reviews/coquoz-constructions-sa-bossonnens/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wow, so ein effizientes Team habe ich selten gesehen! Ein erstklassiges Büroteam und hochqualifizierte Mitarbeiter! Ich kann sie wärmstens empfehlen.",
+        "time": 1729283999,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gregory Guyot",
+        "author_photo": "/images/reviews/coquoz-constructions-sa-bossonnens/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein vertrauenswürdiges, qualitativ hochwertiges Familienunternehmen, mit dem ich seit mehreren Jahren zusammenarbeite. DT Guyot Sàrl – Bauleitung/Architektur",
+        "time": 1730297908,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

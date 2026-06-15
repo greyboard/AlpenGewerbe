@@ -26,5 +26,55 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJwx_RBfU5jkcRKQT5xeXmq6w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Christian Knellwolf",
+        "author_photo": "/images/reviews/maler-dave-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich empfehle Maler Dave wärmstens. Dave zeichnet sich durch Professionalität, Lösungsorientierung und Transparenz hinsichtlich seiner Kosten und Arbeitsweise aus. Er ist pünktlich, freundlich und hat stets die ideale Lösung für jegliche Herausforderungen parat.",
+        "time": 1696948674,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sarah Roth",
+        "author_photo": "/images/reviews/maler-dave-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Geniale saubere Arbeit, kann ich nur weiterempfehlen",
+        "time": 1668749457,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Portenier Michelle",
+        "author_photo": "/images/reviews/maler-dave-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr hilfsbereit und engagiert. Vielen Dank",
+        "time": 1579125301,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Mirjam Flück",
+        "author_photo": "/images/reviews/maler-dave-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1675019267,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

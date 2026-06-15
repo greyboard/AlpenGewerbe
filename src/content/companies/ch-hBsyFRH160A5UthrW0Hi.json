@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJK49ekwANkEcR0BUoY7VId6Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.3,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Andreas Danko",
+        "author_photo": "/images/reviews/zueri-holzbau-regensdorf/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Bitte seien Sie vorsichtig mit dieser Firma.\nEs handelt sich um ein Unternehmen mit vielen Problemen.\nFür mich war ihre Arbeit eine grosse Enttäuschung.\nIch kann sie leider nicht weiterempfehlen.",
+        "time": 1761047550,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Frank Hoppe",
+        "author_photo": "/images/reviews/zueri-holzbau-regensdorf/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1681150342,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dragan Giurici",
+        "author_photo": "/images/reviews/zueri-holzbau-regensdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1673646547,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

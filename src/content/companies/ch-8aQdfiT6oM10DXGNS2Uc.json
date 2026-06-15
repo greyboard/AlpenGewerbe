@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-yaaLe-0kUcRotycWUz7MlY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Sahel Muhammad",
+        "author_photo": "/images/reviews/normdach-swiss-ag-rheinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "⭐️⭐️⭐️⭐️⭐️\nDie Normdach Swiss AG in Rheinfelden leistet hervorragende Arbeit! Als Auftraggeber kenne und schätze ich ihre Leistungen seit Längerem. Das Team arbeitet äußerst sauber, präzise und zuverlässig – sowohl bei Flachdachprojekten als auch bei Spenglerarbeiten. Man spürt, dass hier echte Profis mit Leidenschaft am Werk sind. Qualität, Kompetenz und Kundenzufriedenheit stehen an erster Stelle. Absolut empfehlenswert!",
+        "time": 1762601281,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Dimitri G.",
+        "author_photo": "/images/reviews/normdach-swiss-ag-rheinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hatte einen Wasserschaden weil das Dach undicht war. Die haben das Problem schnell gefunden und die Offerte kam auch mega fix. Beratung war top, kann ich nur weiterempfehlen 👍",
+        "time": 1767382935,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Chris G",
+        "author_photo": "/images/reviews/normdach-swiss-ag-rheinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit. Herr Yagci hat mich immer informiert, die Arbeiten liefen absolut reibungslos. Ich war extrem überrascht, eine solche top Arbeit und Abwicklung hätte ich nicht erwartet. Für mich die erste Adresse bei Dachsanierungen!",
+        "time": 1686767704,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gökmen Ernez",
+        "author_photo": "/images/reviews/normdach-swiss-ag-rheinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich sbin sehr zufrieden und empfehle es weiter.\nSie haben das Flachdach unseres Hauses fachmännisch gedämmt.",
+        "time": 1679324140,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "David Rudolf",
+        "author_photo": "/images/reviews/normdach-swiss-ag-rheinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich kann diese Firma bestens weiter empfehlen. Fach-Kompetentes Personal.",
+        "time": 1638206886,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJUUvqgxdrj0cRyRI7jsFDLiY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Heidi Jost",
+        "author_photo": "/images/reviews/furrer-schreinerei-fensterbau-ag-visp/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Furrer; „Schreinerei und Fensterbau,“ hat in unserem Chalet verschiedene Schreinerarbeiten ausgeführt und insbesondere neue Fenster eingebaut!\nDer Service und die Kompetenz der Firma Furrer war von der Beratung über die Offertstellung bis zur Ausführung hervorragend. Die Arbeiten wurden termingerecht, sauber und einwandfrei ausgeführt. Wir können die Firma Furrer vorbehaltlos weiterempfehlen und bedanken uns herzlich für die gute Zusammenarbeit!🤩\nHeidi und Urs Jost, St. Erhard",
+        "time": 1772182377,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Matthias Bumann",
+        "author_photo": "/images/reviews/furrer-schreinerei-fensterbau-ag-visp/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Danke an die Schreinerei Furrer - wie stets aussergewöhnliche Umsetzungen mit 100% Zufriedenheit. Danke!",
+        "time": 1779218974,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Simon Gerber",
+        "author_photo": "/images/reviews/furrer-schreinerei-fensterbau-ag-visp/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Planung bis zur Umsetzung. Wir waren sehr zufrieden.\nVielen Dank",
+        "time": 1773252992,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Escher Martin",
+        "author_photo": "/images/reviews/furrer-schreinerei-fensterbau-ag-visp/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr flexibel und kompetente Firma. Immer wieder.",
+        "time": 1779258923,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Josef Furrer",
+        "author_photo": "/images/reviews/furrer-schreinerei-fensterbau-ag-visp/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hatte ein Küchenmöbel zum anpassen.\nSehr freundliches Team hilfsbereit schnell kompetent immer wieder gerne.",
+        "time": 1693387053,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

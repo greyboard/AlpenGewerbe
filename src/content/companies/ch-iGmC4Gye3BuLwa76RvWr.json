@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJv1Jmg8t4kEcRKGadATissAs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Daniele Gallo",
+        "author_photo": "/images/reviews/gaetano-rambone-ag-neuhausen-am-rheinfall/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Antonio und sein Team sind einfach hervorragend – professionell, zuverlässig und mit grossem Engagement bei der Arbeit. Das Ergebnis überzeugt auf ganzer Linie! Jederzeit gerne wieder – ein wirklich top Unternehmen, das wir uneingeschränkt weiterempfehlen können und mit dem wir jederzeit wieder zusammenarbeiten würden.",
+        "time": 1760772236,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Tsomo Samphel",
+        "author_photo": "/images/reviews/gaetano-rambone-ag-neuhausen-am-rheinfall/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unsere ganz Restaurant hat Rambone gemalt. Der Chef ist wirklich eine ehrliche person und Mitarbeitern sind auch nette person.\nSie haben sehr gut gemacht. Wir bedanken euch herzlich.👍🙏\n\nFreundliche Grüße\nTsomos küche",
+        "time": 1752740494,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Urban Bleuler",
+        "author_photo": "/images/reviews/gaetano-rambone-ag-neuhausen-am-rheinfall/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zuvorkommende und hilfsbereite Mitarbeiter!!! Danke von einem begeisterten Rentner aus Stein am Rhein",
+        "time": 1725905461,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mirco Lichtensteiger",
+        "author_photo": "/images/reviews/gaetano-rambone-ag-neuhausen-am-rheinfall/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden mit den Malerarbeiten in meinen vier Wänden :)",
+        "time": 1675169683,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Riviera Couleurs SA",
+        "author_photo": "/images/reviews/gaetano-rambone-ag-neuhausen-am-rheinfall/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1631541281,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

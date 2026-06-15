@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMQpmXAAhjkcR8xSTdS_NjqU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 09:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 09:00–17:00 Uhr",
+    "Samstag: 09:00–14:45 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "frank müller",
+        "author_photo": "/images/reviews/capital-malerei-gmbh-grenchen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top arbeit alles sauber ausgeführt\nbin zufrieden",
+        "time": 1775525681,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Visar Muqaj",
+        "author_photo": "/images/reviews/capital-malerei-gmbh-grenchen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725142655,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

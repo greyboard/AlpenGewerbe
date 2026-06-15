@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJFymHeC-4kUcRPd77Py1FrL8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Adrian Pini",
+        "author_photo": "/images/reviews/neth-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei uns wurde die Wasserverteilung im Keller neu Installiert.\nGute Planung- saubere Ausführung - Gutes Preis Leistungsverhältnis.\nKann man gerne weiter empfehlen.",
+        "time": 1610034022,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Swiss Catfishing",
+        "author_photo": "/images/reviews/neth-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Danke an Herrn Leiser für die super Beratung und Professionalität sowie seinen Einsatz.",
+        "time": 1700068077,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Francesco A.",
+        "author_photo": "/images/reviews/neth-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Sanitär-Unternehmen mit super Erinnerungen!",
+        "time": 1567780389,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Meti Sef",
+        "author_photo": "/images/reviews/neth-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "In Ordnung",
+        "time": 1561523107,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michael Hänggi",
+        "author_photo": "/images/reviews/neth-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1647932413,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

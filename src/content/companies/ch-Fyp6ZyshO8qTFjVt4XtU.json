@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGwdPrFC5kUcRq6oell6NKUM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Fazila Causevic",
+        "author_photo": "/images/reviews/gipswerk-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Umbau im Bad. Die Firma Gipswerk hat super Arbeit geleistet sehr sauber und präzis. Was mir besonders gefällt ist, dass sie zuverlässig sind, die Arbeit wurde genau zur Zeit ausgeführt. Sehr empfehlenswert. Danke Gipswerk Team",
+        "time": 1724766929,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Till Vogt",
+        "author_photo": "/images/reviews/gipswerk-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ugur und seine Mitarbeiter haben bei uns sowohl an der Fassade wie auch bei Gipsersrbeiten nach einem Wasserschaden hervorragende Arbeit geleistet. Die Kommunikation ist sehr angenehm, die Mitarbeiter sind zuverlässig, denken mit und sind freundlich. Ugur als Chef kommuniziert transparent, zuverlässig und ist sehr flexibel. Ich kann die Firma wärmstens empfehlen! Bei Bedarf immer wieder!",
+        "time": 1709234610,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Memo Tahrik",
+        "author_photo": "/images/reviews/gipswerk-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kundenorientiert, Ugur und sein Team haben hervorragende Arbeit geliefert - Vielen Dank nochmals!",
+        "time": 1719175014,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Swiss Catfishing",
+        "author_photo": "/images/reviews/gipswerk-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke an Herrn Tinas für seine Professionalität und den Einsatz bei jedem Auftrag.",
+        "time": 1700068231,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Asmin Aslan",
+        "author_photo": "/images/reviews/gipswerk-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gut",
+        "time": 1742542172,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

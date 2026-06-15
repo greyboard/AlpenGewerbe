@@ -1,7 +1,7 @@
 {
   "id": "ch-LEVIYv9fhoOYtbvXWiqj",
   "slug": "meoli-silvano-losone",
-  "name": "Meoli Silvano",
+  "name": "Mr. Silvano Meoli",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKXr1cQ7IhUcRpaCOO4sY6O8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Kohler Nautec SA",
+        "author_photo": "/images/reviews/meoli-silvano-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma. Zuverlässig, genau und hilfsbereit.\nAbsolut zu empfehlen.",
+        "time": 1750668356,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "M e n z e r, Richard C. (Ricky)",
+        "author_photo": "/images/reviews/meoli-silvano-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Guter Marler in der Umgebung",
+        "time": 1542200821,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "FIBLE official",
+        "author_photo": "/images/reviews/meoli-silvano-losone/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionalität und Liebe zum Detail",
+        "time": 1606409264,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Egidio Dorella",
+        "author_photo": "/images/reviews/meoli-silvano-losone/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1614085972,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gianluigi Bardella",
+        "author_photo": "/images/reviews/meoli-silvano-losone/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576737850,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

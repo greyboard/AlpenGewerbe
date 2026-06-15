@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJD8Cemih7jEcRfhsVfZH5cd4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Yannick Andrié",
+        "author_photo": "/images/reviews/ateliers-ehrismann-sa-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tadelloser, schneller und sehr professioneller Service. Vielen Dank von Swisswash in Plan-les-Ouates.",
+        "time": 1679406775,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mauro Mastroianni",
+        "author_photo": "/images/reviews/ateliers-ehrismann-sa-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nett und professionell",
+        "time": 1562829767,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tof Gom",
+        "author_photo": "/images/reviews/ateliers-ehrismann-sa-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein Maßstab!",
+        "time": 1768902454,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jennifer CLS",
+        "author_photo": "/images/reviews/ateliers-ehrismann-sa-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetentes und professionelles Team",
+        "time": 1712935715,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nack",
+        "author_photo": "/images/reviews/ateliers-ehrismann-sa-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service!",
+        "time": 1538573295,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

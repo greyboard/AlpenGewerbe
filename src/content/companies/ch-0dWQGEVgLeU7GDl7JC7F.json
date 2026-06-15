@@ -1,7 +1,7 @@
 {
   "id": "ch-0dWQGEVgLeU7GDl7JC7F",
   "slug": "joel-gross-muenchenstein",
-  "name": "Joel Gross",
+  "name": "JGK Ihr Maler",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJA0mr8Q-4kUcR2iUacGZtcHI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 37,
+    "reviews": [
+      {
+        "author_name": "Näifieber",
+        "author_photo": "/images/reviews/joel-gross-muenchenstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mein Nähatelier umgestaltet. Mit der Hilfe von der JGK war die Auswahl leicht. Ich wurde gut beraten und das Preis-Leistungs-Verhältnis war top. Auch die Nachhaltigkeit ist einfach spitze. Man merkt das Herzblut der Firma. Immer wieder gerne. Danke an das ganze JGK-Team inkl. Büro",
+        "time": 1776174339,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Kaeser Silvio",
+        "author_photo": "/images/reviews/joel-gross-muenchenstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert. Unser 100 jähriges Haus hat einen neu Anstrich gebraucht. Er ist auf all unsere Wünsche eingegangen und hat uns mit seinem Fachwissen bestens beraten. Die arbeiten wurden professionell, sauber und perfekt umgesetzt. Super Preis - Leistungsverhältnis. Jederzeit wieder.",
+        "time": 1744892765,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Joy Eichler",
+        "author_photo": "/images/reviews/joel-gross-muenchenstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Malergeschäft JGK – Joel Gross und sein Team sind wärmstens zu empfehlen!\n\nBesonders beeindruckt hat mich ihr Auge für individuelle Farbgestaltungen – hier wird wirklich auf die Wünsche und den Stil der Kundschaft eingegangen.\nDie Beratung war kompetent und kreativ, die Umsetzung absolut professionell.\nAlles wurde sauber, zuverlässig und mit viel Liebe zum Detail ausgeführt. Ein top Handwerksbetrieb, dem man mit gutem Gefühl vertrauen kann! — gerne wieder!",
+        "time": 1744887950,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriel Ryser",
+        "author_photo": "/images/reviews/joel-gross-muenchenstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma JGK spricht nicht nur über Nachhaltigkeit, sie leben es auch. Ich bin sehr zufrieden mit den Materialien und den fairen Preis leistungs Verhältnis. Top und immer wieder gerne.",
+        "time": 1774426743,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Aline Schlatter",
+        "author_photo": "/images/reviews/joel-gross-muenchenstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das Ergebnis der Zusammenarbeit mit JGK ist TOP! Wir konnten anhand von Mustern die Farben vorab auf uns wirken lassen und haben so zusammen mit der ausführlichen Beratung von Joel Gross eine nachhaltige Entscheidung treffen können. JGK arbeitet zudem sehr umweltbewusst - das hat uns überzeugt. Wir können die Firma wärmstens empfehlen!",
+        "time": 1744897824,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJw6dyd5p_kEcRWdzcLh81iWU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Maranna",
+        "author_photo": "/images/reviews/bolli-bau-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "arton selimi, der beste chauffeure/magaziner den ich kenne 🙌 lob auch an nathan schneider und durim bacolli super arbeit danke euch 🙏",
+        "time": 1579292812,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "TacxitForce Gamefreakz",
+        "author_photo": "/images/reviews/bolli-bau-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zu frieden mit der arbeit sehr kompetentes personal",
+        "time": 1579292790,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Deline Hörnlimann",
+        "author_photo": "/images/reviews/bolli-bau-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1660053434,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alban Sulejmani",
+        "author_photo": "/images/reviews/bolli-bau-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1608385019,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Markus Leu",
+        "author_photo": "/images/reviews/bolli-bau-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1549652933,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

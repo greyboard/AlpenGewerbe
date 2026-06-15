@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9xe_d9lkjEcRLCnOAWOXKXo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Vlad N",
+        "author_photo": "/images/reviews/lachenal-sa-geneve/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Sie bestellten eine hochwertige Tapete und brachten sie an den Wänden an. Die Tapete war fehlerhaft, wies Kratzer auf, und trotz dieser Mängel hängten sie sie trotzdem auf. Ich kann diese Qualität zu diesem Preis nicht empfehlen.",
+        "time": 1686345474,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Catherine",
+        "author_photo": "/images/reviews/lachenal-sa-geneve/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Bei der Gardinenherstellung wurden falsche Maße für Länge und Breite genommen, was Nacharbeiten in der Werkstatt erforderlich machte; außerdem wurde ein fehlerhafter Nachbestellungsauftrag erstellt. Ergebnis: Das Projekt wurde 1,5 Monate später als geplant abgeschlossen, und eine Beschwerde an die Geschäftsleitung blieb unbeantwortet.",
+        "time": 1536220525,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Thorsten Arndt",
+        "author_photo": "/images/reviews/lachenal-sa-geneve/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ich rate dringend davon ab, mit Lachenal zusammenzuarbeiten. Sie haben den Boden in unserer Wohnung mangelhaft verlegt, und obwohl sie zur Schadensbegutachtung (im Rahmen der Garantie) vor Ort waren, reagierten sie nicht einmal auf unsere wiederholten Aufforderungen zur Reparatur des Bodens.",
+        "time": 1377002747,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Laurent Preisig",
+        "author_photo": "/images/reviews/lachenal-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine sehr große Auswahl an Produkten für die Inneneinrichtung. Böden, Wände, Decken – mit einer breiten Produktpalette und professioneller Beratung.",
+        "time": 1673516788,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gabriel Urban",
+        "author_photo": "/images/reviews/lachenal-sa-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service in einer trendigen Boutique. Reaktionsschnell und lösungsorientiert. Vielen Dank, Lachenal, für die Unterstützung unseres Projekts.",
+        "time": 1589485979,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

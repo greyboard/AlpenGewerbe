@@ -26,5 +26,54 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ2JLC8j7j0cRBgmwiCsf6j0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "S.",
+        "author_photo": "/images/reviews/albert-faeh-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein Dienstleister alter Schule. Herzlichen Dank für Ihre angenehme und professionelle Begutachung und Beratung, die ich sehr zu schätzen weiss.",
+        "time": 1770914200,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Michael Bucher",
+        "author_photo": "/images/reviews/albert-faeh-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, schnelle und qualitativ hochwertige Arbeit zu fairen Preisen.",
+        "time": 1599543449,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Samuel Filip",
+        "author_photo": "/images/reviews/albert-faeh-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hoch Qualität",
+        "time": 1713296390,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Paolo Filippo",
+        "author_photo": "/images/reviews/albert-faeh-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1668362724,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gabriela Mangenga",
+        "author_photo": "/images/reviews/albert-faeh-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1565775850,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

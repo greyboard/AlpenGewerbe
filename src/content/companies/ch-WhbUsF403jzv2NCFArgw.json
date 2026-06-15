@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJLbkKAGwrjkcROmM7mwIrbUo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Laura Varkonyi",
+        "author_photo": "/images/reviews/friedli-sanitaerinstallationen-gmbh-obergerlafingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei Simon Friedli fühlt man sich sofort gut aufgehoben. Schnelle Rückmeldung, einfache Kommunikation und hervorragende Arbeit zu fairen Preisen. Ein top Sanitärservice, den ich jederzeit weiterempfehlen kann.",
+        "time": 1768858540,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Kurt Siegenthaler",
+        "author_photo": "/images/reviews/friedli-sanitaerinstallationen-gmbh-obergerlafingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gut kompetent und schnelle Abwicklung kann die Firma nur bestens empfehlen. Reparatur wurde sogar über Mittag ausgeführt ist nicht Selbstverständlich aber eben Friedli Sanitär macht das unmögliche möglich. Danke",
+        "time": 1754650028,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Dilusha Silva",
+        "author_photo": "/images/reviews/friedli-sanitaerinstallationen-gmbh-obergerlafingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich hatte einen Glasbruch am WC-Spülkasten und bin richtig froh, dass ich mich an Friedli Sanitärinstallationen gewandt habe. Herr Friedli hat am Telefon sehr schnell reagiert und sofort Hilfe organisiert. Kurz darauf war Herr Silas Frei bei mir, er hat alles sauber aufgenommen und die Reparatur effizient und ordentlich durchgeführt.\nEinfach top: freundlich, professionell und sehr zuverlässig. Kann ich nur weiterempfehlen.\nVielen Dank für die schnelle Hilfe!",
+        "time": 1751577361,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Marco Grun",
+        "author_photo": "/images/reviews/friedli-sanitaerinstallationen-gmbh-obergerlafingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Simon Friedli kümmert sich sofort um die Anliegen, er ist sehr unkompliziert und bietet einen perfekten Service - dieser wird auch mit sehr fairen Preisen abgerechnet. Ich kann diesen genialen Sanitärservice allen nur bestens empfehlen. Wir arbeiten auch in Zukunft gerne mit Simon Friedli und seinem Team.",
+        "time": 1707808919,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Killer Goldschmied",
+        "author_photo": "/images/reviews/friedli-sanitaerinstallationen-gmbh-obergerlafingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Friedli ist ein äusserst kompetenter und präzise arbeitender Sanitärinstallateur, welcher den Werkplatz sogar sauber hinterlässt (was heutzutage bei Handwerkern immer seltener ist).\nWir schätzen seine freundliche und unkomplizierte Art. Er bietet erstklassigen (bei Bedarf auch superschnellen) Service zu sehr fairen Preisen. Herr Friedli verdiente eigentlich 6 Sterne.... :-)",
+        "time": 1570608970,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

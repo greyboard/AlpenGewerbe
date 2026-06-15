@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6R_7YkT0mkcRBEUwOcDH_Vo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Harald Olbrecht",
+        "author_photo": "/images/reviews/mueller-haustechnik-ag-ermatingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nur positiv. Man spricht und versteht Schwyzerdütsch(!), kommt in keine Warteschlange und das Wichtigste: es werden Fachleute beschäftigt. Kein \"replace-only\"! GL-Mitglieder sind sich nicht zu schade beim Kunden Hand anzulegen....TOP!",
+        "time": 1768221633,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Tobias Bihler",
+        "author_photo": "/images/reviews/mueller-haustechnik-ag-ermatingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wunschlos Glücklich und zufrieden.\nTop Beratung mit kundenorientierten Lösungen zu fairen Preisen.\nPerfekte Ausführung von Auftragsarbeiten und sehr hilfsbereiten Sericelösungen.\nGroßes Lob an das Team!",
+        "time": 1728979137,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Familie S.",
+        "author_photo": "/images/reviews/mueller-haustechnik-ag-ermatingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere und unkomplizierte Spenglerei-Arbeit. Wir sind sehr zufrieden\n\nZudem hat Herr Mäder uns toll beraten bezügliche Wasserleitungen im Aussenbereich.\nAuch die Ausführung ist einwandfrei.\n\nDanke",
+        "time": 1694590347,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alex Bollmann",
+        "author_photo": "/images/reviews/mueller-haustechnik-ag-ermatingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kenne die Familie Müller schon lange. Es ist ein qualitativ guter Betrieb mit ausgebildeten Fachleuten.  Es ist ein schönes zusammenarbeiten mit ihnen . Funktioniert mit Termin und Absprache.",
+        "time": 1705840368,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rebekka Muggli",
+        "author_photo": "/images/reviews/mueller-haustechnik-ag-ermatingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zuverlässige Arbeit und unkoplizierte Abwicklung. Wir haben auf unserem Dach Spenglerarbeiten machen lassen. Stirnbretter usw .wurden mit Kuper verkleidet. Alles top, super Qualität.",
+        "time": 1672127283,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

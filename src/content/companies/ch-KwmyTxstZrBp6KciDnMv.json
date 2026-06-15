@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqQUJA-aBmkcR4HV9e6nD9Ng",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:15–16:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:15–16:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:15–16:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:15–16:30 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Mirjam Stettler-Roth",
+        "author_photo": "/images/reviews/germann-elektro-ag-feuerthalen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tolle Arbeit. Wir können das Unternehmen Germann Elektro AG nur empfehlen. Sehr freundliche Mitarbeiter, schnelle Umsetzung des Bauprojektes und eine Top Beratung. Wir haben das erste mal mit Germann Elektro AG zusammen gearbeitet und würden immer wieder auf dieses Unternehmen zurückgreifen.",
+        "time": 1761142128,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Thomas Bertschinger",
+        "author_photo": "/images/reviews/germann-elektro-ag-feuerthalen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Morgens um 08:00 Uhr angerufen - kurze Besprechung mit Philipp und kurze Zeit später kam schon Pablo Garcia und führte die Installationsänderung aus. Top Service in einwandfreier Qualität!",
+        "time": 1688031075,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "John Trapletti",
+        "author_photo": "/images/reviews/germann-elektro-ag-feuerthalen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Elektro Germann / Herr Philipp Kubli ist wirklich zu 100% zu empfehlen.\nSuper Arbeit, faire Preise, kompetente Beratung, so muss es sein!",
+        "time": 1659778150,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Susan Trapletti",
+        "author_photo": "/images/reviews/germann-elektro-ag-feuerthalen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Der Monteur, Thomas, hat super gut gearbeitet und ich hab nach meinem Umzug wieder Alles einwandfrei! Vielen Dank!!",
+        "time": 1683582663,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Zsolt Ignácz",
+        "author_photo": "/images/reviews/germann-elektro-ag-feuerthalen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr Nett, und super Leistung!!\nHilfsbereit\nIch kann empfehlen!!",
+        "time": 1635078294,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

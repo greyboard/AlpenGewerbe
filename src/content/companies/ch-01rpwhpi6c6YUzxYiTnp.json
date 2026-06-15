@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJcS73CIEXm0cRKCdCHiCH1wc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 07:30–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Lukas",
+        "author_photo": "/images/reviews/hs-stein-fliesenpflege-rebstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit dem Resultat der Reinigung unseres Steinbodens. Hakki und sein Team haben ein super Job gemacht, waren schnell, sauber, offen und ehrlich. Empfehle ich jedem, der eine Pflege seines Natursteines in Betracht zieht.",
+        "time": 1770970566,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Bischofberger Urs (s'UBALI)",
+        "author_photo": "/images/reviews/hs-stein-fliesenpflege-rebstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unsere Bodenplatten aus Feinsteinzeug in Küche und zwei Nasszellen wurden perfekt porentief gereinigt, die Fugen grösstenteils ersetzt und anschliessend alles versiegelt, mit perfekten Perleffekt. Die Böden sehen praktisch wieder wie neu aus. Die ganze Arbeit (inkl. zu Tage geförderte Zusatzarbeit) wurde sauber (ich betone sauber) und im vereinbarten Zeitrahmen abgewickelt. Das macht Freude! Und das Ganze zu einem absolut fairen Preis. Vielen Dank und freundliche Grüsse.",
+        "time": 1762533640,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Mirfera",
+        "author_photo": "/images/reviews/hs-stein-fliesenpflege-rebstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "top service! von der beratung, zur terminfindung, bis hin zur realisierung alles, sehr professionell! das ergebnis lässt für sich sprechen, ich empfehle HS Stein&Fliesenpflege jedem, der aus \"alt\", \"dreckig\", \"grundputz nach neubau\", gepflegt und wie neu haben möchte!",
+        "time": 1769283709,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Stefan Koller",
+        "author_photo": "/images/reviews/hs-stein-fliesenpflege-rebstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "HS wurde uns empfohlen von einer Kollegin....echt super Beratung,sehr zuverlässig und Top-Ergebnis. Gerne wieder.",
+        "time": 1754929439,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "andreas Sieber",
+        "author_photo": "/images/reviews/hs-stein-fliesenpflege-rebstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "- sehr professionell und zuverlässig\n- sehr kompetent und freundlich\nIch hätte nicht gedacht, dass er meine Bodenplatten wieder so schön hin bekommt. Preis -Leistung ist top. Ich würde ihm jeder Zeit wieder einen Auftrag geben und jedem die Firma empfehlen.",
+        "time": 1670956214,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

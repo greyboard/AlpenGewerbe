@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjR-ZCwLYkUcRyVocOc4LmYo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:30–12:00 Uhr",
+    "Mittwoch: 08:30–12:00 Uhr",
+    "Donnerstag: 08:30–12:00 Uhr",
+    "Freitag: 08:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Christoph Bohren",
+        "author_photo": "/images/reviews/raum-und-boden-gmbh-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Beratung und sehr sorgfältige Ausführung des Auftrages. Auch auf die kleinen Details wurde grosser Wert gelegt.\nDie neuen Vorhänge setzen unserm neu gestalteten Restaurant Gartenzimmer das \"i-Pünktchen\" auf.",
+        "time": 1673610121,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Phil Wirth",
+        "author_photo": "/images/reviews/raum-und-boden-gmbh-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und kompetente Beratung durch Frau Parente. nehmen sich Zeit, um zu Hause Mass zu nehmen, wir sind sehr zufrieden mit unserem neuen Sitzkissen.",
+        "time": 1773178173,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Ewa Badewa",
+        "author_photo": "/images/reviews/raum-und-boden-gmbh-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir realisierten einen Linoleum Boden mit Raum und Boden. Von der Beratung bis zum erledigten Auftrag war der Kontakt freundlich, professionell und unkompliziert. Die Ausführung war termingerecht, exakt und mit einem Top Ergebnis. Herzlichen Dank, wir können Sie nur empfehlen ☺️",
+        "time": 1743136793,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Brigitte Burri",
+        "author_photo": "/images/reviews/raum-und-boden-gmbh-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service Freundlich und kompetent kann ich nur weiter empfehlen Mückenschutz und Vorhänge. Vielen Dank und weiter so im 2023",
+        "time": 1672398320,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Anna Graefe",
+        "author_photo": "/images/reviews/raum-und-boden-gmbh-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Haese hat bei uns Boden verlegt und eine Wand verspachtelt! Seine Arbeiten waren sauber und ordentlich,  sein Auftreten war freundlich und angenehm unauffällig! Ich würde ihn jederzeit wieder engagieren und uneingeschränkt weiterempfehlen!",
+        "time": 1734713301,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

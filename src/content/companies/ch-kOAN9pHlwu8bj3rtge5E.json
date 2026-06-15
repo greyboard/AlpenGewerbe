@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJyU23X8rlj0cRPW-HyvkKDUA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "Ilirjeta Mushkolaj",
+        "author_photo": "/images/reviews/dein-maler-gmbh-malters/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind begeistert von der Arbeit von Dein Maler GmbH. Von der Beratung bis zum fertigen Ergebnis lief alles perfekt. Sehr sauber gearbeitet, termingerecht und mit viel Liebe zum Detail. Die Räume wirken jetzt komplett neu und modern. Vielen Dank für die tolle Zusammenarbeit – klare Weiterempfehlung! 👌🎨",
+        "time": 1778432667,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Patrick Skowronek",
+        "author_photo": "/images/reviews/dein-maler-gmbh-malters/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an das Malerteam von DEIN MALER GMBH.\nAuch nach eurem 5 Einsatz bei uns sind wir wieder sehr zufrieden mit eurer Arbeit.\nOb es im innen oder im aussenbereich ist, ist es immer perfekt.\nSehr gutes Preisleistungsverhältnis.\nEuch kann man sehr empfehlen.\nLiebe Grüsse aus Aesch",
+        "time": 1778431846,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Mia Estermann",
+        "author_photo": "/images/reviews/dein-maler-gmbh-malters/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Malerarbeiten wurden sehr professionell und sauber ausgeführt. Wir schätzen die freundliche und unkomplizierte Kommunikation. Wir wurde auch rundum gut beraten.\nSehr empfehlenswert.",
+        "time": 1769705217,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Arndt Fauser",
+        "author_photo": "/images/reviews/dein-maler-gmbh-malters/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Perfekter Service, fairer Preis und ehrliche und sehr freundliche Kommunikation. Ich kann DeinMaler GmbH mit gutem Gewissen weiter empfehlen und werde die Firma gerne jederzeit wieder beauftragen, wenn es bei uns etwas im Bereich Malerarbeiten zu erledigen gibt.",
+        "time": 1759836239,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Irma Livadić",
+        "author_photo": "/images/reviews/dein-maler-gmbh-malters/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Arbeit von mein Maler äusserst zufrieden. Er ist sehr kompetent und zuverlässig, erledigt seine Arbeit schnell und hinterliess keinerlei Spuren. Besonders positiv ist mir aufgefallen, dass er sehr sorgfältig und genau arbeitet, dabei aber trotzdem zügig vorankommt. Ausserdem ist er freundlich, pünktlich und hat ein gutes Auge für Details. Das Preis-Leistungs-Verhältnis stimmt ebenfalls. Ich kann Mein Maler uneingeschränkt weiterempfehlen und werde ihn bei zukünftigen Projekten definitiv wieder beauftragen.",
+        "time": 1758872778,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

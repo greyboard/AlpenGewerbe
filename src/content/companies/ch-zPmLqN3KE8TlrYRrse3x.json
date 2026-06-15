@@ -1,7 +1,7 @@
 {
   "id": "ch-zPmLqN3KE8TlrYRrse3x",
   "slug": "barman-nanzer-sa-sion",
-  "name": "Barman & Nanzer SA",
+  "name": "Barman et Nanzer",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9xsIMRbcjkcR_T5mvPRs_As",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Herbert Wohlgemuth",
+        "author_photo": "/images/reviews/barman-nanzer-sa-sion/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetente Bedienung.Rasche Bestellung.Bin sehr positiv beeindruckt.",
+        "time": 1634845920,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Didier Maret",
+        "author_photo": "/images/reviews/barman-nanzer-sa-sion/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin begeistert von der Professionalität jedes einzelnen Mitarbeiters. Trotz der Komplexität der Aufgaben haben sie akribisch, sorgfältig und respektvoll gearbeitet! Es ist erfreulich zu sehen, dass es noch seriöse Unternehmen gibt, die auf jedes Detail achten, um selbst die anspruchsvollsten Kunden vom Entwurf bis zur Fertigstellung zufriedenzustellen!",
+        "time": 1678447856,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Russo",
+        "author_photo": "/images/reviews/barman-nanzer-sa-sion/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr positive Erfahrung. Äußerst professionelles Unternehmen. Sehr kompetente und freundliche Monteure. Ich kann sie weiterempfehlen.",
+        "time": 1741891682,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Olivier Constantin",
+        "author_photo": "/images/reviews/barman-nanzer-sa-sion/reviewer_4.jpg",
+        "rating": 2,
+        "text": "Fairer Preis und schnelle Lieferung.\n\nSchade, dass das bestellte Teil trotz der angegebenen Maße falsch war und der Spiegel nicht richtig in die vorgesehene Öffnung passt.\n\nAußerdem reagierten sie nur schwer auf Beschwerde-E-Mails und räumten ihre Fehler nicht ein.",
+        "time": 1573658351,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Philippe Mariage",
+        "author_photo": "/images/reviews/barman-nanzer-sa-sion/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, exzellenter Empfang und sehr hilfsbereit, absolut empfehlenswert!",
+        "time": 1688709982,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

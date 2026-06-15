@@ -1,7 +1,7 @@
 {
   "id": "ch-yXaq0j0cZbsAuK4MWd6f",
   "slug": "el-pintor-geneve",
-  "name": "El Pintor",
+  "name": "El Pintor, P. Manuel Martinez",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSzXJGM96jEcRzGHtoY1x_po",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:30 Uhr",
+    "Dienstag: 08:00–18:30 Uhr",
+    "Mittwoch: 08:00–18:30 Uhr",
+    "Donnerstag: 08:00–18:30 Uhr",
+    "Freitag: 08:00–18:30 Uhr",
+    "Samstag: 08:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Stéphane",
+        "author_photo": "/images/reviews/el-pintor-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein wirklich gutes Team. Sie kamen zu mir nach Hause, um einen ganzen Flur neu zu streichen … und innerhalb von 48 Stunden erstellten sie mir ein Angebot und erledigten die Arbeit zu einem fairen Preis.\n\nIch kann sie wärmstens empfehlen.",
+        "time": 1544801887,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rafa Idriss",
+        "author_photo": "/images/reviews/el-pintor-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hallo, ich bin Marokkaner, lebe in Barcelona und habe eine Aufenthaltserlaubnis für Spanien. Ich suche eine Stelle als Maler in der Schweiz; ich bin Maler zweiter Klasse. Vielen Dank.",
+        "time": 1737910466,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dieguito Aponte",
+        "author_photo": "/images/reviews/el-pintor-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Dies ist ein sehr gutes Unternehmen.\nSehr sorgfältig, sehr professionell und preisgünstig.\nVielen Dank für Ihre Arbeit.",
+        "time": 1643729218,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jacqueline Bourgeois",
+        "author_photo": "/images/reviews/el-pintor-geneve/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Tschüss",
+        "time": 1582040936,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Mihaela Schwarzer",
+        "author_photo": "/images/reviews/el-pintor-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1654884120,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

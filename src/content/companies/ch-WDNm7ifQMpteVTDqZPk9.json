@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJx6XP8dIKkEcRn4nIwTgX3CQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 40,
+    "reviews": [
+      {
+        "author_name": "kurt Franz",
+        "author_photo": "/images/reviews/elektro-compagnoni-ag-zuerich/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Bin enttäuscht von dieser Firma. Bei einer Stromsanierung wurde eine Luxusvariante offeriert, die jenseits von jedem Kundenwunsch und Verhältnismäßigkeit lag. Eine einfachere Lösung wurde abgelehnt. Diese Lösung wurde nun von einer anderen Firma 80% günstiger ausgeführt. Deshalb kann ich diese Firma für einfachere Arbeiten nicht empfehlen.",
+        "time": 1776069071,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jean-Patrick Avice",
+        "author_photo": "/images/reviews/elektro-compagnoni-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "War schnell im Geschäft in Seebach, wurde von einem, jungen \"Technicker\" sehr freundlich und kompetent beraten!\nDenke gerne wieder an Compagnoni um alle meine Schalter zu wechseln wenn ich gezügelt habe ...",
+        "time": 1678429346,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Werner Hablützel",
+        "author_photo": "/images/reviews/elektro-compagnoni-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Elektro Compagnoni nur weiterempfehlen. Ich habe schon diverses ausführen lassen und sie sind stets kompetent, pünktlich, sehr freundlich und sauber in der Ausführung.\nEin herzliches Dankeschön.",
+        "time": 1737199844,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rubendunst Chris",
+        "author_photo": "/images/reviews/elektro-compagnoni-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "uper netter Service, sehr kompetente Beratung! Ich kann Elektro Compagnoni nur weiterempfehlen. Aufträge werden Schnell, qualitativ und unkompliziert abgewickelt. DIe Elektro Compagnoni hilft in jedem Detail und wendet Ihr langjähriges Fachwissen mit höchster Bravour an!",
+        "time": 1603706641,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Obo",
+        "author_photo": "/images/reviews/elektro-compagnoni-ag-zuerich/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Die Kommunikation des Chefs war in ihrer Art und Weise unangebracht. Sie entsprach weder den Erwartungen noch der Situation.",
+        "time": 1732529187,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1d-UWWB_kEcR0u3h2Qm3P-8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Urs Auckenthaler",
+        "author_photo": "/images/reviews/maurer-pascal-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen. Top Augenarzt\nUrs Auckenthaler",
+        "time": 1605528901,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "J. E",
+        "author_photo": "/images/reviews/maurer-pascal-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Adresse für kompetente Augenmedizin.",
+        "time": 1552564957,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Roger Köppel",
+        "author_photo": "/images/reviews/maurer-pascal-schaffhausen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Wird man trotz Notfalldienst am Telefon unfreundlich abgewimmelt.",
+        "time": 1663317750,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Shane Mellow",
+        "author_photo": "/images/reviews/maurer-pascal-schaffhausen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Top ...sehr freundlich und\nKompetent",
+        "time": 1552505282,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Richard Heer",
+        "author_photo": "/images/reviews/maurer-pascal-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert",
+        "time": 1544094283,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsWyq8Cw5jkcR2MpOisQbrKk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Patrizia „Local Guide“",
+        "author_photo": "/images/reviews/d-bruno-gipser-maler-reinigungsgeschaeft-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma! Absolut professionell, unkompliziert und flexibel. Wir sind mit allen Arbeiten sehr zufrieden und können Herr Bruno wärmstens weiterempfehlen. Weiter so, ihr seit super!",
+        "time": 1738857825,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Meier Dieter",
+        "author_photo": "/images/reviews/d-bruno-gipser-maler-reinigungsgeschaeft-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der Qualität der geleisteten Arbeit, welche sowohl die Offerte als auch die vereinbarten Termine einhielt. Das sympathische Team arbeitet äusserst sauber und professionell. Wir können die Firma sehr empfehlen und danken für die sorgfältige Renovation.",
+        "time": 1653998547,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Peter Mueller",
+        "author_photo": "/images/reviews/d-bruno-gipser-maler-reinigungsgeschaeft-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung und prompte Ausführung - Ideen werden optimiert und realisiert. Ebenso stimmt der Service, denn Handwerker sind freundlich und die Baustelle wurde stets sauber hinterlassen. Es wird an die Zukunft gedacht für dauerhafte Lösungen.",
+        "time": 1670496453,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Diamonds Body GmbH",
+        "author_photo": "/images/reviews/d-bruno-gipser-maler-reinigungsgeschaeft-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen lieben Dank der Firma Bruno.\nUnkompliziert, professionell und angenehmes\nPreis/ Leistungsverhältnis.\nImmer wieder gerne.\n\nBeste Grüsse\nDiamonds Body GmbH\n\nCEO\nMarc Schmid",
+        "time": 1614017240,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "rchl Rodguez",
+        "author_photo": "/images/reviews/d-bruno-gipser-maler-reinigungsgeschaeft-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1654004256,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

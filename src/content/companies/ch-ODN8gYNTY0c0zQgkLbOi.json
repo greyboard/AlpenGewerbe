@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJjZ6w6hoTjkcRQY6FFZ9iW7c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Karin Hurni",
+        "author_photo": "/images/reviews/bauweise-holzbau-ag-murten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben für den Komplettumbau unseres Hauses sowohl die Bauführung als auch die Zimmerei- und die Schreinerarbeiten über die Firma Bauweise ausführen lassen. Dies war die beste Entscheidung. Christoph Tüscher hat die Bauleitung sehr professionell übernommen. Dank ihm waren wir zu jederzeit im Zeitplan und im Budget. Er hat uns sehr professionell beraten. Auch die Arbeiten die von der Firma Bauweise ausgeführt wurden, waren absolut top. Alle Mitarbeiter waren sehr kompetent, haben immer mitgedacht und waren sehr freundlich. Wir würden jederzeit wieder mit der Firma Bauweise arbeiten und können sie sehr weiterempfehlen.",
+        "time": 1752608145,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Dorfladen Mittelhäusern",
+        "author_photo": "/images/reviews/bauweise-holzbau-ag-murten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum zufrieden mit der Arbeit von Bauweise. Die Bauprofis bringen ihre Erfahrung ein, sind aber auch sehr offen für unsere Ideen und Wünsche. Wir können Bauweise vorbehaltlos weiter empfehlen.\nDaniel und Doris Schranz",
+        "time": 1652086252,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Manuel Tüscher",
+        "author_photo": "/images/reviews/bauweise-holzbau-ag-murten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Bauweise unseren Traum vom Eigenheim erfüllt. Sehr professionelle Bauführung und die Zimmerei- und Schreinereiarbeiten wurden allesamt tadellos ausgehführt. Absolut empfehlenswert. Vielen Dank an das Team der Bauweise AG!!",
+        "time": 1653076796,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Emanuel Wälti",
+        "author_photo": "/images/reviews/bauweise-holzbau-ag-murten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir waren sehr zufrieden mit den ausgeführten Arbeiten. Die Arbeiter waren sehr freundlich und professionell.\nDas Endprodukt ist qualitativ sehr hochstehend und wir sind äusserst zufrieden. Merci euch für die tolle Zusammenarbeit.",
+        "time": 1677521176,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Detlef Breiting",
+        "author_photo": "/images/reviews/bauweise-holzbau-ag-murten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr netter Service und mega professionelle Montage unseres neuen Velux Fenster. Kann diese Firma bestens weiterempfehlen 👍",
+        "time": 1686739153,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

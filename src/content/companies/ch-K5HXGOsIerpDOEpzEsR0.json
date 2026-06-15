@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ46XhpWrLkUcRnBjYvHCWbm8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "CE W",
+        "author_photo": "/images/reviews/boerlin-haustechnik-ag-hoelstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer wieder tolle Erfahrungen gemacht. Gibts nicht gibt’s nicht. Lösungen werden gesucht und super umgesetzt. Herzlichen Dank an Franz und sein Team",
+        "time": 1768396394,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Alberto Passeggio",
+        "author_photo": "/images/reviews/boerlin-haustechnik-ag-hoelstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Mitarbeiter hat sich unser Anliegen angenommen und uns die Funktion und Einstellungen der Ölheizung erklärt/eingestellt, sodass wir viel weniger Energieverbrauch haben werden. Nach einer Woche wurde auch Nachgefragt, ob es soweit gut läuft. Top Service, danke. MFG Auto Kurve AG",
+        "time": 1665668736,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lill Carter",
+        "author_photo": "/images/reviews/boerlin-haustechnik-ag-hoelstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ei absolut hervorragender Service! Die Terminvereinbarung erfolgte schnell, umgehender Rückruf. Das Problem wurde umfassend analysiert und behoben. Anschliessend erfolgte ein Nachfassanruf, ob nun alles wirklich in Ordnung sei - besser geht es nicht! Ganz herzlichen Dank!",
+        "time": 1671540469,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Raphael Dunkel-Müller",
+        "author_photo": "/images/reviews/boerlin-haustechnik-ag-hoelstein/reviewer_4.jpg",
+        "rating": 2,
+        "text": "+ handwerkliche Ausführung\n- Termineinhaltung\n- Prozesseinhaltung\n- Preis",
+        "time": 1743423449,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Arno MacArquint",
+        "author_photo": "/images/reviews/boerlin-haustechnik-ag-hoelstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service saubere Arbeit und sehr freundliche und kompetente Mitarbeiter !\nSehr zufrieden  !",
+        "time": 1667468200,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

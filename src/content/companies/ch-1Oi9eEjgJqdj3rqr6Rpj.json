@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJg5OYdifLkUcRN33gMxEUZjI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Pratteln G.",
+        "author_photo": "/images/reviews/swiss-roofs-gmbh-spengler-flachdach-steildach-basel-baselland-aargau-solothurn-liestal-laufen-oberdorf/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Wir haben das Dach Reparieren lassen für einen sehr grossen Betrag und nun haben wir einen kleiner Schaden und er nimmt das Telefon nicht ab und reagiert auch nicht, obwohl er zugesprochen hat, er kommt ein paar Tage später und erledigt es. Service 0 Sterne.",
+        "time": 1660740047,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Rahel Amiti",
+        "author_photo": "/images/reviews/swiss-roofs-gmbh-spengler-flachdach-steildach-basel-baselland-aargau-solothurn-liestal-laufen-oberdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Team, sehr freundlich, pünktlich, Top Qualität zu fairen Preisen.",
+        "time": 1547974118,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "ALENKA",
+        "author_photo": "/images/reviews/swiss-roofs-gmbh-spengler-flachdach-steildach-basel-baselland-aargau-solothurn-liestal-laufen-oberdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit, hat ein sehr gutes Fachkenntnis und Arbeitet mit fairen Preisen. Sehr empfehlenswert!",
+        "time": 1553104730,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Silvia von Rotz",
+        "author_photo": "/images/reviews/swiss-roofs-gmbh-spengler-flachdach-steildach-basel-baselland-aargau-solothurn-liestal-laufen-oberdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Perfekt\nWir sind rundum zufrieden mit Swiss Roofs!",
+        "time": 1761218737,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Nikolaus Krause",
+        "author_photo": "/images/reviews/swiss-roofs-gmbh-spengler-flachdach-steildach-basel-baselland-aargau-solothurn-liestal-laufen-oberdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Job macht weiter so",
+        "time": 1547666163,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

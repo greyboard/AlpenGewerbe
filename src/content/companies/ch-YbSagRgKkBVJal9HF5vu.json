@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJx8QA1vbhmkcRds2eLGo5DOY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Paul Hengartner",
+        "author_photo": "/images/reviews/zimmermann-plattendesign-ag-gossau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit dem Zimmermann Plattendesign-Team bei unserer Küchenumbau, von der Beratung  der Bodenplatten und Keramikküchenrückwand bis zur speditiver Montage. Die vereinbarten Ausführungstermine wurden immer genau eingehalten.Wir haben viel Spass an der neuen Küche. Danke.",
+        "time": 1780580838,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Diggelmann Thomas",
+        "author_photo": "/images/reviews/zimmermann-plattendesign-ag-gossau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Es fängt an mit einer sympathischer und fachgerechten Beratung vor Ort, die Offerte kam sofort.\n\nDie Arbeit wahr schnell, präzise und sauber….ich kann diese Firma sehr empfehlen, bei den nächsten Projekten werden wir Sie wieder nehmen!",
+        "time": 1771882237,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Monika Gambirasio",
+        "author_photo": "/images/reviews/zimmermann-plattendesign-ag-gossau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die tolle Umsetzung meiner Badrenovation.Das verlegen der Platten verlief reibungslos. Hier waren Fachleute am Werk, die ihr Handwerk verstehen. Pünktlich, ehrlich in der Beratung und super sauber in der Ausführung. Gerne wieder.",
+        "time": 1776847901,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Natalie R.",
+        "author_photo": "/images/reviews/zimmermann-plattendesign-ag-gossau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Zimmermann Plattendesign hat bei mir zwei Bäder und die Küche geplättelt und ich bin wirklich begeistert! Vom ersten Kontakt bis zur Fertigstellung hat alles super geklappt. Saubere, präzise Arbeit und ein sehr sympathisches Team. Ich würde sie jederzeit wieder beauftragen!",
+        "time": 1744731122,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Erich Pfister",
+        "author_photo": "/images/reviews/zimmermann-plattendesign-ag-gossau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service\nSanierung Aussentreppe, weil Plättli sich lösten. Komplette Treppe wurde mit neuem Plattenbelag überzogen.\n1 Tag nach erstem Kontakt bereits Besichtigung vor Ort und schriftliche Offerte. Fairer Preis und Ausführung innerhalb von 10 Tagen nach Auftragserteilung. Rechnung innert Wochenfrist, sogar noch tiefer als offeriert. Sehr netter Kontakt und saubere Arbeit. Wirklich sehr zufrieden. Sehr empfehlenswerter Handwerker.",
+        "time": 1751552479,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

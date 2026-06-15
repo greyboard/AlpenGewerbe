@@ -1,7 +1,7 @@
 {
   "id": "ch-zr0HJI3EikcIXQmZuILU",
   "slug": "wurtzel-gmbh-sanitaer-und-heizung-allschwil",
-  "name": "Wurtzel GmbH Sanitär und Heizung",
+  "name": "Wurtzel GmbH",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJffaHfV25kUcRCq0AZY1DD1g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Agnieszka W",
+        "author_photo": "/images/reviews/wurtzel-gmbh-sanitaer-und-heizung-allschwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Wurtzel ist ein wunderbarer Sanitär - nicht nur ist er professionell, hat das Auge zum Detail und hat unser Problem im Nu gelöst, er ist auch ein von Herzen freundlicher Mensch, den ich gerne wieder anrufen werde wenn wir ein Problem haben. Herzlichen Dank für Ihre Hilfe!",
+        "time": 1715925337,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Damien Buhl",
+        "author_photo": "/images/reviews/wurtzel-gmbh-sanitaer-und-heizung-allschwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein echte Profi, ich kann Ihn nur empfehlen!",
+        "time": 1682716894,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrick",
+        "author_photo": "/images/reviews/wurtzel-gmbh-sanitaer-und-heizung-allschwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässiger und qualitativ hochwertiger Service zu vernünftigen Preisen.",
+        "time": 1682789203,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "TheVoogler",
+        "author_photo": "/images/reviews/wurtzel-gmbh-sanitaer-und-heizung-allschwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super unkompliziert, schnell und preiswert!",
+        "time": 1780915113,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Frédéric Étienne",
+        "author_photo": "/images/reviews/wurtzel-gmbh-sanitaer-und-heizung-allschwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service!",
+        "time": 1681130795,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

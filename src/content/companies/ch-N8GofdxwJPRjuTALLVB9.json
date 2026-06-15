@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJL0EbENq4kUcRrDtHWMQgySY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Nico Günthart",
+        "author_photo": "/images/reviews/ernst-guertler-ag-allschwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wirklich sehr empfehlenswert! Immer wieder gerne ☺️",
+        "time": 1775329859,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Lara Klossner",
+        "author_photo": "/images/reviews/ernst-guertler-ag-allschwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann dieses Elektrogeschäft \"Ernst Gürtler AG\" nur wärmstens empfehlen! Von Anfang an war der Service hervorragend: das Personal ist äußerst freundlich, kompetent und hilfsbereit. Sie haben sich viel Zeit genommen, um mich ausführlich zu beraten und sicherzustellen, dass ich genau das Produkt finde, das meinen Bedürfnissen entspricht. Die Auswahl ist groß und die Preise sind absolut fair. Auch die Montage verlief reibungslos und schnell. Ich bin mit meinem Einkauf und der gesamten Erfahrung rundum zufrieden und werde definitiv wiederkommen. Vielen Dank für den tollen Service!",
+        "time": 1733148719,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "rolf marti",
+        "author_photo": "/images/reviews/ernst-guertler-ag-allschwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundlich, sorgfältig und günstig",
+        "time": 1769093280,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Simone Klossner",
+        "author_photo": "/images/reviews/ernst-guertler-ag-allschwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke für die stets gute, saubere und speditive Arbeit. Ich bin sehr zufrieden und empfehle Sie gerne weiter.",
+        "time": 1663868144,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sascha Kuhn",
+        "author_photo": "/images/reviews/ernst-guertler-ag-allschwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, schnell & unkompliziert. Besten Dank Herr Gass!",
+        "time": 1715962210,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

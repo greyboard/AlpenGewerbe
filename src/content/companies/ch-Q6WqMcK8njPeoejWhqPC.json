@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJqyS8GAJtjkcRygRqmKJA-88",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Stefanie A",
+        "author_photo": "/images/reviews/gartenabo-von-der-lippe-jeuss/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir konnten schnell einen Termin vereinbaren. Sabrina hat uns alles gut erklärt und uns in die Gestaltung des Baumschnittes miteinbezogen. Gerne jeder Zeit wieder! :)",
+        "time": 1770543960,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "KMU Fee Boillat",
+        "author_photo": "/images/reviews/gartenabo-von-der-lippe-jeuss/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Diennstleistung und zuverlässige Ausführungen der vereinbarten Tätigkeiten, sogar bei Regen. Gute Beratung und Tipps, immer freundlich und nett! Kann ich nur empfehlen!",
+        "time": 1717053307,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Anna",
+        "author_photo": "/images/reviews/gartenabo-von-der-lippe-jeuss/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässig und kompetent! Immer wieder gerne!",
+        "time": 1719604863,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

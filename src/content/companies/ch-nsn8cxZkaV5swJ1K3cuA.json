@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJw6TVMxCRmkcRFnKg-bibQ-A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Christian Müller",
+        "author_photo": "/images/reviews/leutenegger-elektro-gebaeudeautomation-gmbh-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Junges, aufgestelltes Team. Zuverlässig, sympathisch, schnell. Von meiner Seite empfehle ich das Team gerne.",
+        "time": 1770658423,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Marco S.",
+        "author_photo": "/images/reviews/leutenegger-elektro-gebaeudeautomation-gmbh-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, speditiv und geht auf Kundenwünsche ein. Ich bin mit Leutenegger Elektro sehr zufrieden. Gerne wieder!",
+        "time": 1756729026,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Robby Müller",
+        "author_photo": "/images/reviews/leutenegger-elektro-gebaeudeautomation-gmbh-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionell und speditiv gearbeitet! Und dies zu einem sehr fairen Preis.\nWir waren vollumfänglich zufrieden mit der Arbeit von Raphael und seinem Team.\nBesten Dank und ich werde sichernwieder auf euch zurück kommen!\nGruess\nRobby",
+        "time": 1672141830,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Oliver Bühler",
+        "author_photo": "/images/reviews/leutenegger-elektro-gebaeudeautomation-gmbh-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Individuelle Wünsche werden erfüllt ...",
+        "time": 1760596733,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jeroen van Rooijen",
+        "author_photo": "/images/reviews/leutenegger-elektro-gebaeudeautomation-gmbh-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Leutenegger löst Probleme - mit Fachwissen und Charme. Sehr gute Bude - auch für privat!",
+        "time": 1693215648,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

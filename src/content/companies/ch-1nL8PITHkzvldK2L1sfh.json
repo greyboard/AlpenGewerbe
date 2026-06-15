@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJg7xkUG9_kEcRoTZE6W8SeIE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "PONTEA AG",
+        "author_photo": "/images/reviews/schlosserei-preisig-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Arbeit von der Schlosserei Preisig! Sehr zuverlässig, hohe Qualität und alles termingerecht umgesetzt. Man merkt sofort, dass hier mit viel Fachwissen und Sorgfalt gearbeitet wird. Wir sind rundum zufrieden und würden jederzeit wieder mit ihnen arbeiten.",
+        "time": 1778054897,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Alessandro Gozzoli",
+        "author_photo": "/images/reviews/schlosserei-preisig-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Meine Projekte wurden stets sauber und professionell besprochen, geplant und umgesetzt. Und dies zu einem fairen transparenten Preis. Ich schätze den persönlichen und sympatischen Umgang sehr und komme gerne wieder.",
+        "time": 1574327529,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Felix Pletscher",
+        "author_photo": "/images/reviews/schlosserei-preisig-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Perfekte Arbeit abgeliefert.\nDanke für deine Flexibilität und kreative Lösungen.\nSuper Metalbaufirma",
+        "time": 1574482980,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Dölf Rütimann",
+        "author_photo": "/images/reviews/schlosserei-preisig-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Mit viel liebe für‘s Detail und sehr gute Qualität und Dienstleistung",
+        "time": 1586163485,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Christian Preisig",
+        "author_photo": "/images/reviews/schlosserei-preisig-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bester Metallbauer in der Region, für alle anspruchsvolle Projekte der Beste.",
+        "time": 1574243178,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

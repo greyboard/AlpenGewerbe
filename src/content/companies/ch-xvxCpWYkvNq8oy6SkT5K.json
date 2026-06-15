@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJF5PVMcc7kEcRVvmqkau-LgM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Klang der Nacht",
+        "author_photo": "/images/reviews/aw-haustechnik-gmbh-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolute Spitzenfirma! Von der ersten Beratung bis zur finalen Umsetzung alles professionell, sauber und zuverlässig. Termine wurden eingehalten, die Arbeiten sehr ordentlich ausgeführt und das Team war jederzeit freundlich und kompetent. Man merkt sofort, dass hier mit Erfahrung und Leidenschaft gearbeitet wird. Ich bin mehr als zufrieden. Uneingeschränkte Weiterempfehlung!",
+        "time": 1770231652,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Christian Bürgin",
+        "author_photo": "/images/reviews/aw-haustechnik-gmbh-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, zuverlässig und fachlich top. Ich habe mich von Anfang an gut beraten gefühlt und bin mit dem Ergebnis sehr zufrieden. Vielen Dank für die tolle Arbeit und gerne wieder!",
+        "time": 1765816267,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Tobias Linder",
+        "author_photo": "/images/reviews/aw-haustechnik-gmbh-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "André Widmer Haustechnik hat bei unserer Renovation alle Sanitär Arbeiten erledigt und dies zu unserer vollsten Zufriedenheit. Wir sind super zufrieden mit der Arbeit und Flexibilität der Mitarbeiter und empfehlen André Widmer immer gerne weiter.",
+        "time": 1659965581,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Agathangelos Agathangelidis",
+        "author_photo": "/images/reviews/aw-haustechnik-gmbh-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Erledigt alle Arbeiten bei uns. Schnell und unkompliziert! Sind sehr zufrieden 😃👍",
+        "time": 1765523196,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Lucien Denier",
+        "author_photo": "/images/reviews/aw-haustechnik-gmbh-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "André Widmer hat bei unserem Küchenumbau alle Sanitärinstallationen sowie den Heizkörper neu gemacht. Er ist sehr kunden- und lösungsorientiert, arbeitet sauber und in bester Qualität. Wir sind mit seiner Arbeit sehr zufrieden und empfehlen ihn gerne weiter.",
+        "time": 1684220139,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

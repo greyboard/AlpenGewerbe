@@ -26,5 +26,47 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJqWYfMXbchEcRKwVpxV5Z71Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Andi Cavelti",
+        "author_photo": "/images/reviews/rrs-gmbh-ruschein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Geschäftsinhaber arbeitet sehr sauber, ist ehrlich, fair und speditiv. Gutes Preis-/Leistungsverhältnis.",
+        "time": 1580804447,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michèle Clemen",
+        "author_photo": "/images/reviews/rrs-gmbh-ruschein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Reinigung unseres Ferienhauses immer sehr zufrieden. Danke für eure tolle und wertvolle Arbeit!",
+        "time": 1643364314,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michel Casanova",
+        "author_photo": "/images/reviews/rrs-gmbh-ruschein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Innen- und Aussenrenovationen in super Qualität erledigt!",
+        "time": 1667997363,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

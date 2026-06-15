@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJuQEvbVp_kEcRn2w7Y67OYRI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 06:45–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 06:45–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 06:45–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 06:45–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Patrice Brognoli",
+        "author_photo": "/images/reviews/erb-schreinerei-gmbh-flurlingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bereits am Telefon wurde ich kompetent beraten. Die Ausführung der Arbeiten erfolgte pünktlich und in sehr guter Qualität. Insgesamt ein zuverlässiger und professioneller Schreinerbetrieb, den ich gerne weiterempfehle.",
+        "time": 1770987400,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Christian Schnell",
+        "author_photo": "/images/reviews/erb-schreinerei-gmbh-flurlingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Matthias Erb ist sehr sympathisch, genau und zuverlässig. Er hat Liebe zum Detail und zum Gewerk - das spürt man. Auf Kundenwünsche geht er extrem gut ein bringt wertvolle Ideen/Inputs. Herzlichen Dank für die grossartige Arbeit.",
+        "time": 1576678118,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hans Frey",
+        "author_photo": "/images/reviews/erb-schreinerei-gmbh-flurlingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Erb Schreinerei von Flurlingen für saubere Arbeit und gute Qualität hat sich Firma Erb Scheinerei stets bewährt! Gruss H.Frey",
+        "time": 1659546203,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lara O'Kelly",
+        "author_photo": "/images/reviews/erb-schreinerei-gmbh-flurlingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Gepflegter Mann der bei Mir war. Ihre Arbeit war Top und die Preise dafür waren fair.",
+        "time": 1566116673,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "GandALF Shamway",
+        "author_photo": "/images/reviews/erb-schreinerei-gmbh-flurlingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super nette Leute vom Fach, auf Maß zugeschnitten und volle Empfehlung von mir. Merci",
+        "time": 1538065757,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

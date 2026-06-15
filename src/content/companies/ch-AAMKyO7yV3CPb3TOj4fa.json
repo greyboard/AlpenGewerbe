@@ -1,7 +1,7 @@
 {
   "id": "ch-AAMKyO7yV3CPb3TOj4fa",
   "slug": "alpera-sa-installations-electriques-et-depannages-7-7-orsieres",
-  "name": "Alpera SA - Installations électriques et dépannages 7/7",
+  "name": "AL.électricité SA",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP28lCXvMjkcROcVQngmhY6I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Mattia",
+        "author_photo": "/images/reviews/alpera-sa-installations-electriques-et-depannages-7-7-orsieres/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein seriöses und effizientes Unternehmen! 🔝\n\nDie Zusammenarbeit mit Jonathan war ein Vergnügen! 💪",
+        "time": 1762280793,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Luca",
+        "author_photo": "/images/reviews/alpera-sa-installations-electriques-et-depannages-7-7-orsieres/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einfach fantastisch! Ich habe mit Christophe zusammengearbeitet und er ist perfekt! Er hört zu, gibt tolle Ratschläge und seine Arbeit ist makellos! Ich bin mehr als zufrieden mit diesem lokalen Unternehmen 😍",
+        "time": 1748165729,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Camille Ancay",
+        "author_photo": "/images/reviews/alpera-sa-installations-electriques-et-depannages-7-7-orsieres/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service",
+        "time": 1689351060,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniele Forti",
+        "author_photo": "/images/reviews/alpera-sa-installations-electriques-et-depannages-7-7-orsieres/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Erstklassige Fehlerbehebung!",
+        "time": 1716546039,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Parkinson Top",
+        "author_photo": "/images/reviews/alpera-sa-installations-electriques-et-depannages-7-7-orsieres/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753781639,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

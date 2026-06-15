@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJZfk7StoLkEcRb6GhKWhlVEI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Adi Heiniger",
+        "author_photo": "/images/reviews/luescher-gartenbau-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fantastische Auswahl an Pflanzen in der Baumschule. Beratung geht über die Standard Kenntnisse hinaus. Hilfsbereit auch nach dem Kauf. Kann ich gerne weiterempfehlen.",
+        "time": 1560102053,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Hallowed",
+        "author_photo": "/images/reviews/luescher-gartenbau-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Spezialist für japanische Gärten, professionelle Ausführung der Arbeiten. Nette und zuvorkommende Mitarbeiter. Das Budget wird zu 100% eingehalten. Auch die Baumschule ist eine Reise wert.",
+        "time": 1638525732,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "A. O.",
+        "author_photo": "/images/reviews/luescher-gartenbau-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mit unserem Gartenumbau waren wir sehr zufrieden! Auftragsabwicklung, Preis, Ausführung, Qualität und persönlicher Umgang lassen keine Wünsche offen.",
+        "time": 1606401839,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Maroan Al-Jazrawi",
+        "author_photo": "/images/reviews/luescher-gartenbau-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wer auf Schweizer Werte, professionelle Planung und sachgemässe Ausführung achtet, ist hier genau richtig.",
+        "time": 1638461705,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "maradona thirtysix",
+        "author_photo": "/images/reviews/luescher-gartenbau-zuerich/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Schlecht geschultes und unfreundliches Personal.",
+        "time": 1630138150,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

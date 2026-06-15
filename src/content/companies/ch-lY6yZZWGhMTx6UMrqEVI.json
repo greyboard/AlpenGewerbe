@@ -1,7 +1,7 @@
 {
   "id": "ch-lY6yZZWGhMTx6UMrqEVI",
   "slug": "cuennet-electricite-et-associes-sa-marly",
-  "name": "Cuennet Electricité et Associés SA",
+  "name": "Cuennet Electricité Sàrl",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPZhu9b1ojkcRHxv7sgLqBzg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Samuel Béguin",
+        "author_photo": "/images/reviews/cuennet-electricite-et-associes-sa-marly/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vertrauenswürdig und sehr professionell!\n\nBerät gut und hört gut zu.\n\nIch hatte nur ein Problem während des Baus, und das wurde schnell behoben.\n\nHeute bin ich super zufrieden mit der Installation und kann sie nur weiterempfehlen!\n\nEin großes Dankeschön an David, der während des Baus und auch danach immer für mich da war!",
+        "time": 1675972631,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Amaury Tremelet",
+        "author_photo": "/images/reviews/cuennet-electricite-et-associes-sa-marly/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Der Manager, mit dem ich telefoniert habe, war unehrlich und respektlos. Respektlos behandelt zu werden und dann einfach aufgelegt zu werden, nenne ich mal guten Kundenservice.",
+        "time": 1721230717,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Raphaël Eicher",
+        "author_photo": "/images/reviews/cuennet-electricite-et-associes-sa-marly/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Je mets une étoile parce qu'il y a pas moins, une entreprise de rigolo, des monteurs qui laisses des bouchons dans les gaines, forcer de casser le périphérique pour réparer, pose de lampes LED de mauvaises qualités qui lâchent chaque année, on appelle l'entreprise le 25 novembre 2020 on nous dit que l'on va nous rappeler ce qui n'est pas fait le 18 janvier 2021 vraiment déçu d'avoir donné un tel chantier à cette entreprise !!!!!!",
+        "time": 1611077240,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marc Vincent",
+        "author_photo": "/images/reviews/cuennet-electricite-et-associes-sa-marly/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein zuverlässiges und professionelles Unternehmen. Ich bin mit ihren Leistungen sehr zufrieden und kann sie uneingeschränkt empfehlen. Marc Vincent",
+        "time": 1480934349,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "R. M.",
+        "author_photo": "/images/reviews/cuennet-electricite-et-associes-sa-marly/reviewer_5.jpg",
+        "rating": 3,
+        "text": "Die Arbeiten wurden nicht ordnungsgemäß ausgeführt; die Steckdosen sind schlecht befestigt und falsch ausgerichtet.",
+        "time": 1684771986,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

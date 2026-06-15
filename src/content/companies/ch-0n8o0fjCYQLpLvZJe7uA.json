@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJxcOIkxnimkcRzJXbxjjEbrM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marco Reimann",
+        "author_photo": "/images/reviews/in-metall-gmbh-bernhardzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die IN metall GmbH hat auf unseren Kundenwunsch eine Sonderanfertigung erstellt. Die Sonderanfertigung wurde genau nach unseren Vorstellungen angefertigt und der ganze Prozess von der Planung, Ausführung bis hin zur Montage hat alles reibungslos geklappt. Sehr freundliches motiviertes Team, dass versteht auf Kundenwünsche einzugehen. Genial und sehr empfehlenswert. Jederzeit gerne wieder.",
+        "time": 1673349807,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Francisco Nebril",
+        "author_photo": "/images/reviews/in-metall-gmbh-bernhardzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben Hrn. Eggger - IN metall gmbh mit einem Spezialprojekt beauftragt \"Edelmetall-Bullaugen\" für eine Wand in unserer Wohnung. Diese sind zu unserer vollsten Zufriedenheit kundenspezifisch hergestellt worden und sind ein echter Blickfang. Herr Egger und seine Firma können wir sehr weiterempfehlen und stellen Ihm ein top Zeugnis aus von A bis Z. Vielen herzlichen Dank nochmal auch für die sehr angenehme Zusammenarbeit.",
+        "time": 1672159905,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Bollhalder Rolf",
+        "author_photo": "/images/reviews/in-metall-gmbh-bernhardzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kann Michael Egger & sein Team nur weiterempfehlen! Sehr kompetent und zuvorkommend!!",
+        "time": 1593344105,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Immo Sunshine AG",
+        "author_photo": "/images/reviews/in-metall-gmbh-bernhardzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, schnell und immer hilfsbereit. Freue mich immer wieder auf die gute Zusammenarbeit.",
+        "time": 1644828257,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Emil Egger",
+        "author_photo": "/images/reviews/in-metall-gmbh-bernhardzell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Qualität ,alles was sich um Metallbau dreht.Absolute Termintreue.Der Inhaber kümmert sich persönlich um Ihre Anliegen",
+        "time": 1571809937,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

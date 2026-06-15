@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJAxcG1knWkUcRprpCXgFW_EM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Fred Karli (karIT)",
+        "author_photo": "/images/reviews/gartengestaltung-walcher-gmbh-luterbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit! Die Fundamente für unser Carport wurden auch vom Carportbauer gelobt. Seriöse Offerte, sehr zuverlässig und schnell. Obwohl wir lange auf den Carportbauer gewartet haben, wurden dann die Stützen innert sehr kurzer Zeit ausbetoniert, damit die Fertigstellung vom Carport nicht verzögert wurde. Herzlichen Dank! Für uns klar die erste Adresse für weitere Aufträge.",
+        "time": 1764177131,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "dojo müller",
+        "author_photo": "/images/reviews/gartengestaltung-walcher-gmbh-luterbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut top! Von der Beratung bis zur Umsetzung hat alles perfekt gepasst. Das Team war superfreundlich, professionell und hat unseren Garten in eine kleine Wohlfühloase verwandelt. Sehr zuverlässig und mit richtig viel Know-how. Wir sind mega happy mit dem Ergebnis und empfehlen Gartengestaltung Walcher auf jeden Fall weiter!",
+        "time": 1749583790,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ulrich Sekler",
+        "author_photo": "/images/reviews/gartengestaltung-walcher-gmbh-luterbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und kompetente Beratung. Fachliche- und qualitative Ausführung, speditives Arbeiten, jederzeit für Fragen offen. Das Preis- Leistungsverhältnis ist SUPER - einfach sehr empfehlenswert !!!",
+        "time": 1753755607,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Olivier Rhyn",
+        "author_photo": "/images/reviews/gartengestaltung-walcher-gmbh-luterbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Zuverlässiger und unkomplizierter Familienbetrieb. Dank der guten Beratung durch Herrn Walcher, konnten wir unsere Wünsche in die Tat umsetzen. Wir freuen uns auf weitere Projekte und bedanken uns beim gesamten Walcher-Team.",
+        "time": 1745233868,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Brülhart",
+        "author_photo": "/images/reviews/gartengestaltung-walcher-gmbh-luterbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und zuverlässige Firma. Sie haben unseren Garten top erneuert und mit einer Steinmauer verschönert. Die Sträucher sind zurückgeschnitten und der Rollrasen einwandfrei verlegt. Kann ich jederzeit weiterempfehlen.",
+        "time": 1718299733,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,31 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJU44lu6b7j0cRTRjWDKPXffw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 14:00–17:30 Uhr",
+    "Mittwoch: 14:00–17:30 Uhr",
+    "Donnerstag: 14:00–17:30 Uhr",
+    "Freitag: 14:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Mrax",
+        "author_photo": "/images/reviews/trendparkett-ag-das-parkett-in-luzern-fuer-die-zentralschweiz-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1674934348,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

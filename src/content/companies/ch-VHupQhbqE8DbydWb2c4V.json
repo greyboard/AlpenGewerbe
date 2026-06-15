@@ -26,5 +26,46 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1bIovWrgmkcR2oCtb2pZiXA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Roman Kueng",
+        "author_photo": "/images/reviews/st-galler-metallbau-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Leider wurde der Auftrag nicht so ausgeführt wie bestellt. Als ich danach die Korrektur verlangt habe, war die Reaktion nicht sehr kundenfreundlich. Zudem wollte man mir die Korrektur noch zusätzlich in Rechnung stellen. Preis- /Leistungsverhältnis stimmte  leider nicht.",
+        "time": 1713980662,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pierre Oster (ROWILUX GMBH)",
+        "author_photo": "/images/reviews/st-galler-metallbau-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tiptop und gern wieder",
+        "time": 1675262921,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gianluca",
+        "author_photo": "/images/reviews/st-galler-metallbau-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762457679,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "jonas erny",
+        "author_photo": "/images/reviews/st-galler-metallbau-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672998903,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

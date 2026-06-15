@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJw5rEtKcqjkcR672paBeyC8A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "vanessa Ponti",
+        "author_photo": "/images/reviews/elektro-gygax-ag-herzogenbuchsee/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine Top Erfahrung mit Elektro Gygax!\nVon der Anfrage für eine neue Steckdose bis zur Installation der Elektro Ladestation bei uns Zu Hause! Flexibel Schnell, sehr Freundlich & Fachkompetent!\nVielen Dank wir schätzen eure Arbeit und Bemühungen sehr! Sind wirklich sehr zufrieden.",
+        "time": 1770062040,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Hans Oberli",
+        "author_photo": "/images/reviews/elektro-gygax-ag-herzogenbuchsee/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Elektro Gygax AG hat bei mir die Wärmepumpenheizung installiert und ich bin mit dem Ergebnis sehr zufrieden. Von der Beratung über die Planung bis zur Umsetzung lief alles reibungslos und sehr professionell. Das Team arbeitete sauber, zuverlässig und termingerecht. Auch bei Fragen wurde alles verständlich erklärt – absolut empfehlenswert.",
+        "time": 1768377331,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "benjamin moll",
+        "author_photo": "/images/reviews/elektro-gygax-ag-herzogenbuchsee/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich hatte kürzlich das Vergnügen, mit der Elektro Gygax AG zusammenzuarbeiten – und ich bin rundum begeistert! Vom ersten Kontakt bis zur Fertigstellung wurde alles professionell, freundlich und mit ausgesprochen hoher Qualität abgewickelt.\nGerne kann ich die Firma allen weiterempfehlen.\nLG aus Thunstetten",
+        "time": 1760099154,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Jakob Marti",
+        "author_photo": "/images/reviews/elektro-gygax-ag-herzogenbuchsee/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Elektro Gygax führt bei uns den Elektro-Unterhalt durch. Wir nehmen ihre Dienste regelmässig in Anspruch und sind immer zufrieden und bestens betreut!",
+        "time": 1673520383,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pia Ingold",
+        "author_photo": "/images/reviews/elektro-gygax-ag-herzogenbuchsee/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung, schnelle Abwicklung.\nBin mehr als zufrieden,seit Jahren.",
+        "time": 1736847674,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJdU7YcTplj0cRD6uxOEYZTTw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Svenja Schöni",
+        "author_photo": "/images/reviews/schalbetter-ag-grengiols/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Schlafzimmer bei der Schreinerei Schalbetter AG in Auftrag gegeben. Nach einem freundlichen und kompetenten Erstkontakt zu Hause wurde die Schlafzimmereinrichtung sehr präzise und in Topqualität gemäss unseren Wünschen angefertigt und eingebaut. Wir sind rundum zufrieden und werden auch unsere nächsten Aufträge von der Schreinerei Schalbetter ausführen lassen.\nJunges, dynamisches Unternehmen, kompetente Führung und sehr motivierte Mitarbeiter. Grosses Kompliment und jederzeit gerne wieder.",
+        "time": 1643382651,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Eveline Zurbriggen",
+        "author_photo": "/images/reviews/schalbetter-ag-grengiols/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Schalbetter AG hat die Inneneinrichtung meiner Wohnung von A-Z perfekt auf Mass designt und eingebaut. Von den Chefs über die Mitarbeiter zu den Lernenden - ein Team, das für die Holzverarbeitung brennt! Ein top Resultat - kreativ und ästhetisch.",
+        "time": 1656778993,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Philipp Oesch",
+        "author_photo": "/images/reviews/schalbetter-ag-grengiols/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Schalbetter hat den Innenausbau und alle Türen in unserem Ferien Chalet erstellt. Die Zusammenarbeit, die Qualität und die Moral mit  und von allen Mitarbeitenden war super. Vielen Dank dem Team und den Führungspersonen!",
+        "time": 1647507416,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Schalbetter Roland",
+        "author_photo": "/images/reviews/schalbetter-ag-grengiols/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Proffesionelle Arbeit, unser 42ig jähriger Parkett in zwei Zimmern wie neu. Sind gespann auf die Küche. Können es nicht erwarten. Wirklich nur zum weiterempfehlen. Da sind Profis am Werk.",
+        "time": 1591377129,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Серега Моисеенко",
+        "author_photo": "/images/reviews/schalbetter-ag-grengiols/reviewer_5.jpg",
+        "rating": 5,
+        "text": "sehr gute Firma arbeitet effizient",
+        "time": 1625290221,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

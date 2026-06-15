@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFdweGNs0kEcRDEEE7ZolPZo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Uwe",
+        "author_photo": "/images/reviews/m-wuethrich-ihr-zimmermann-gmbh-zunzgen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "„Äusserst kompetent, schnell, zuverlässig und preiswert !– ich kann Martin Wüthrich und seine Mitarbeiter sehr empfehlen. Die Solaranlage mach was sie soll.  TOP!",
+        "time": 1758735538,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Pascal Cantaluppi",
+        "author_photo": "/images/reviews/m-wuethrich-ihr-zimmermann-gmbh-zunzgen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "behandelt vertrauliche Anfragen offensichtlich unseriös - sehr schade!",
+        "time": 1744263512,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Suspect Walter",
+        "author_photo": "/images/reviews/m-wuethrich-ihr-zimmermann-gmbh-zunzgen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Nicht verzagen, M. Wüthrich fragen!",
+        "time": 1670357846,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jeremias Wagner",
+        "author_photo": "/images/reviews/m-wuethrich-ihr-zimmermann-gmbh-zunzgen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1505327708,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

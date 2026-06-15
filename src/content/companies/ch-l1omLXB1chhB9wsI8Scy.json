@@ -26,5 +26,31 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJyXBziQcem0cRAv6D9lnMszs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–09:00 Uhr, 09:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–09:00 Uhr, 09:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–09:00 Uhr, 09:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–09:00 Uhr, 09:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–09:00 Uhr, 09:30–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Hans Iseli",
+        "author_photo": "/images/reviews/hautle-metallbau-ag-bernhardzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Mitarbeiter, schnell und zuverlässig.\nEinfach zum weiterempfehlen",
+        "time": 1559226273,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

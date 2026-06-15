@@ -26,5 +26,38 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFfPrTSYtjkcRQ48_8aZdSnk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Johann Ulrich Schäfer",
+        "author_photo": "/images/reviews/bodenleger-fluehmann-ersigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Buude mit super Chef.",
+        "time": 1701258341,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tanja Hofmann",
+        "author_photo": "/images/reviews/bodenleger-fluehmann-ersigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575217023,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Paul Hügli",
+        "author_photo": "/images/reviews/bodenleger-fluehmann-ersigen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710484273,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

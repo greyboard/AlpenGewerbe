@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJm9zQKFPlmkcRH4TCOS4kSgU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Ugur Halis",
+        "author_photo": "/images/reviews/sieber-elektro-kradolf-schoenenberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiger und sauber arbeitender Elektriker. Kommunikation ist direkt und pragmatisch, Termine werden eingehalten und man merkt die Erfahrung im Handwerk. Ich bin mit der Ausführung der Arbeiten sehr zufrieden und kann Sieber Elektro empfehlen.",
+        "time": 1763803487,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Andrina Strasser",
+        "author_photo": "/images/reviews/sieber-elektro-kradolf-schoenenberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Sieber hat bei uns die Elektroarbeiten im Zusammenhang mit der neuen Wärmepumpe übernommen – und wir könnten nicht zufriedener sein! Die Arbeit wurde äusserst professionell, zuverlässig und sauber ausgeführt. Man merkt sofort, dass er viel Erfahrung und Fachwissen mitbringt. Auch in der Kommunikation war er stets freundlich und hilfsbereit.\nWir würden und werden ihn jederzeit wieder beauftragen und können Herr Sieber nur weiterempfehlen!",
+        "time": 1743094351,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "M. H.",
+        "author_photo": "/images/reviews/sieber-elektro-kradolf-schoenenberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Sieber hat in meinem EFH die Installation für die PV-Anlage vorgenommen. Schnell, saubere Arbeit und in bester Qualität. Wirklich sehr zu empfehlen. Vielen Dank, ich bin sehr zufrieden.",
+        "time": 1668009481,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andrea H.",
+        "author_photo": "/images/reviews/sieber-elektro-kradolf-schoenenberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hatte einen Kurzschluss auf einem Teil meiner Aussenbeleuchtung. Herr Sieber hat den Fehler in sehr kurzer Zeit eruiert und professionell behoben. Entsprechend preiswert war daher die Reparatur. Alles funktioniert einwandfrei: Was will man mehr!",
+        "time": 1626863763,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Tobias Hänni (Tobi)",
+        "author_photo": "/images/reviews/sieber-elektro-kradolf-schoenenberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben geschäftlich eine Installation benötigt. Wir sind extrem zufrieden mit Preis/Leistung und Flexibilität, sehr freundschaftliche Zusammenarbeit. Immer gerne wieder! Grüessli vo de Larrys Brauerei 😉",
+        "time": 1702727127,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

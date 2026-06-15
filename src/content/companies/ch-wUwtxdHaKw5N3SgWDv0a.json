@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJV7db3Ju5kUcRxLvZL2qn9MU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "francesco savona",
+        "author_photo": "/images/reviews/ed-borer-ag-basel/reviewer_1.jpg",
+        "rating": 2,
+        "text": "⭐⭐ Zwei Sterne.\nDie Kommunikation war freundlich, aber leider nicht zuverlässig. Es wurde gesagt, das Ersatzteil für mein Dachfenster sei nicht mehr erhältlich. Tatsächlich konnte ich es selbst direkt bei VELUX für 43.50 Franken bestellen und erhielt es zwei Tage später.\nAuch bei der Montage der Sonnenstore kam es zu einem Fehler, und während Regen fiel, blieb das Fenster offen, wodurch der Boden nass wurde.\nInsgesamt keine zufriedenstellende Erfahrung, weshalb ich die Firma leider nicht weiterempfehlen kann,\n\nIch habe mich direkt an die Firma  gewandt und das Ersatzteil von dort erhalten.\n\nBezüglich des Fensters ist es ausgeschlossen, dass der Wind oder eine andere äussere Kraft es geöffnet hat, da es sich um ein Dachfenster handelt – der Wind kann es unmöglich geöffnet haben.\n\nTrotzdem ist das in Ordnung: Sie bleiben bei Ihrer Auffassung, und ich bleibe bei meiner.",
+        "time": 1762786350,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Jessica Dietrich",
+        "author_photo": "/images/reviews/ed-borer-ag-basel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Kann die Schreinerei Ed Borer leider nicht empfehlen.\n\nBin mit der Montage des Kleiderschrank welche mein Partner in Auftrag gegeben hat nicht zufrieden.\n\nEs hat verzögerugen bei der Montage gegeben und es wurde dann auch noch unsauber gearbeitet.\nLeider missfällt mir die untransparente kummunikation auch noch.",
+        "time": 1769682801,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Siddharth Mohan",
+        "author_photo": "/images/reviews/ed-borer-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der Schlüssel zu meinem Eingangsschrank klemmte und meine Winterkleidung und -schuhe waren darin eingeschlossen. Ich musste mich an meine Hausverwaltung wenden. Diese kontaktierte wiederum die Firma Ed. Borer AG, die ihren Experten Herrn Tim Gelzer schickte, um das Problem zu beheben.\n\nEr war sehr kompetent und hat sich die Mühe gemacht, zuerst den Schrank zu öffnen, ohne die Türen zu beschädigen, und später mit einem anderen Schlüssel zurückzukommen, der zum alten System passt.\n\nIch kann Ed. Borer AG jederzeit weiterempfehlen.",
+        "time": 1765147998,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Murat Ceylan",
+        "author_photo": "/images/reviews/ed-borer-ag-basel/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Leider wurden Termine nicht eingehalten.\nIch musste extre frei nehmen um den Servicetermin zu organisieren und dann kam der Servicemonteur nicht.\n\nKeine entschuldigung oder entgegenkommen.\n\nLeider sehr enttäuschend",
+        "time": 1772268507,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sebastian Richter",
+        "author_photo": "/images/reviews/ed-borer-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Als langjähriger Kunde habe ich bisher nur positive Erfahrungen mit borer gemacht",
+        "time": 1773399016,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

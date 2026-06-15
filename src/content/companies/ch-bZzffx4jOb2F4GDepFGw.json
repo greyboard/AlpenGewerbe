@@ -1,7 +1,7 @@
 {
   "id": "ch-bZzffx4jOb2F4GDepFGw",
   "slug": "r-g-metallbau-ag-ellikon-an-der-thur",
-  "name": "R&G Metallbau AG",
+  "name": "R & G Metallbau AG",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJm93Hvj6QmkcRb-owQYGw-94",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 47,
+    "reviews": [
+      {
+        "author_name": "Hansueli Gwerder",
+        "author_photo": "/images/reviews/r-g-metallbau-ag-ellikon-an-der-thur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Sanierung unseres Wintergartens klappte perfekt!\nDer Austausch von defekten Dichtungen, eine neue Dachverglasung, die Sanierung der Dachkonstruktion sowie nachträglich angebrachte Verkleidungen (Aluminium) wurden termingerecht und sauber ausgeführt. Ein grosses Dankeschön dem Team um Marc Wägeli!\nWir geniessen wieder schöne Stunden in unserem \"neuen\" Wintgergarten.",
+        "time": 1763109643,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Silvia Lutziger",
+        "author_photo": "/images/reviews/r-g-metallbau-ag-ellikon-an-der-thur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Wägeli und sein Team haben eine professionelle Arbeit geleistet. Anforderungen übertroffen sauber und perfekt danke vielmals gerne wieder\nSilvia Lutziger",
+        "time": 1780149243,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "fambar",
+        "author_photo": "/images/reviews/r-g-metallbau-ag-ellikon-an-der-thur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "R&G Metallbau AG führte an unserem Neubau mit 5 Wohnungen folgende Arbeiten aus: Blechverkleidung Attika, Ganzglasgeländer, Handläufe, Haustüre, Innentüre mit Gitter, Wintergarten/Verglasung. Die freundlichen Monteure führten alle Positionen hochprofessionell, pünktlich und sauber zur vollsten Zufriedenheit aus.",
+        "time": 1753207714,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Monika Albakhtiary",
+        "author_photo": "/images/reviews/r-g-metallbau-ag-ellikon-an-der-thur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden sind das erste mal bei Ihnen gewesen und haben einen super Service, freundliche Beratung bis hin zur professionellem Einbau bekommen.\nSolche Fachleute braucht man mehr den jeh.\nVielen Dank Ihr habt uns als Kunde gewonnen.\n👍👍👍👍👍",
+        "time": 1769770346,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Alesch Wenger",
+        "author_photo": "/images/reviews/r-g-metallbau-ag-ellikon-an-der-thur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Es war ein Vergnügen für die Tierklinik der Wintivets AG an den Spezialbauteilen aus Metall zusammenzuarbeiten. R&G erwies sich als äusserst wertvoll in der Konzeption, zeigte Geduld und grosse Präzision in der Werkplanung und beeindruckte durch ihre\npräzise, agile und sympathische Umsetzung. Wir danken herzlich für die tolle Kollaboration – Kollektiv Winzig ",
+        "time": 1719497201,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

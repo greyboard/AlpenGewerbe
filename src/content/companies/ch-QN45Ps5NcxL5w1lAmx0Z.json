@@ -26,5 +26,39 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq1vT6tNljEcRV3B3O_TIN5Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Aline Dormal",
+        "author_photo": "/images/reviews/pierre-thomassin-le-grand-saconnex/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Es ist nahezu perfekt! Die Ausführung ist mit so viel Sorgfalt ausgeführt worden. Es ist wunderschön, hochwertig und inspirierend. Sollten Anpassungen nötig sein, ist alles möglich. Ich kann sie wärmstens empfehlen. Herr Pierre: Vielen Dank, herzlichen Glückwunsch und bis bald!",
+        "time": 1718355820,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "françois ménard",
+        "author_photo": "/images/reviews/pierre-thomassin-le-grand-saconnex/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service, alle Fristen eingehalten, durchweg professionell.\nSehr hohe Servicequalität.",
+        "time": 1740874652,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

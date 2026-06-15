@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-aYWVP7XkUcRtXNbCggl4vM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "sandra müller",
+        "author_photo": "/images/reviews/gurtner-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir möchten uns für den tollen Kundenservice bedanken.\nEbenso für die Gutschrift beim zweiten Besuch, erachten dies als nicht selbstverständlich!! Herzlichen Dank und gerne wieder!!",
+        "time": 1764235319,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "markus mueller",
+        "author_photo": "/images/reviews/gurtner-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnell, unkompliziert und fachgerecht – absolut empfehlenswert!",
+        "time": 1763023581,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Fabian Engeli",
+        "author_photo": "/images/reviews/gurtner-ag-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnell, Sauber und Lösungsorientiert. Weiter so!",
+        "time": 1777013279,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Rita Jeker",
+        "author_photo": "/images/reviews/gurtner-ag-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein Anruf genügt und Hilfe war umgehend vor Ort . Kompetenter, freundlicher Einsatz.\nIch gratuliere der Firma Gurtner zu ihrem Team , inklusive Administration. Diese Firma kann ich sehr empfehlen",
+        "time": 1691423721,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Brigitte Beyeler",
+        "author_photo": "/images/reviews/gurtner-ag-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Haben sehr schnell reagiert und Arbeit war einwandfrei und alle Bürobereich und Handwerker waren sehr freundlich. Super Handwerksbetrieb auf Platz Solothurn und Umgebung.",
+        "time": 1702028752,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

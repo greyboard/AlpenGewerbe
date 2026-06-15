@@ -1,7 +1,7 @@
 {
   "id": "ch-PEqMSC67zlQZEO9lxCp4",
   "slug": "bertolit-sa-service-de-restauration-de-batiments-geneve-carouge",
-  "name": "Bertolit SA - Service de restauration de bâtiments - Genève",
+  "name": "Bertolit SA",
   "branchen": [
     "bodenleger"
   ],
@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJH4t0yyN7jEcRc-jksaeW5o8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:00 Uhr",
+    "Dienstag: 07:00–16:00 Uhr",
+    "Mittwoch: 07:00–16:00 Uhr",
+    "Donnerstag: 07:00–16:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 27,
+    "reviews": [
+      {
+        "author_name": "Tatiana Basset",
+        "author_photo": "/images/reviews/bertolit-sa-service-de-restauration-de-batiments-geneve-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team von Théo Audigier war sehr professionell. Sie wurden mit der Fassadensanierung des von mir gemieteten Gebäudes beauftragt, und die Arbeiten wurden sorgfältig und effizient ausgeführt. Die Ausführung war akribisch, und die Kommunikation verlief während des gesamten Projekts reibungslos.",
+        "time": 1755955829,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Nelly T.",
+        "author_photo": "/images/reviews/bertolit-sa-service-de-restauration-de-batiments-geneve-carouge/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Diese Firma wurde von unserer Hausverwaltung beauftragt, die Balkone gegen Kohlensäure zu behandeln. Ich war zu dem Zeitpunkt nicht zu Hause. Als ich von meinem Balkon trat, lief ich auf Betonreste, die die Arbeiter hinterlassen hatten (siehe Foto). Ich hätte mich leicht verletzen oder ausrutschen können. Sie haben nichts aufgeräumt, und ich weiß nicht, was ich mit diesem Bauschutt anfangen soll. Ich vermute, die Arbeiter haben den Beton vom Balkon über uns abgekratzt, ohne Rücksicht auf die Fliesen zu nehmen. Das finde ich respektlos.\n\nDerjenige, der diesen Sommer vor Beginn der Arbeiten den Balkon inspizierte, war hingegen sehr professionell.",
+        "time": 1698894630,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "tregoat victoria",
+        "author_photo": "/images/reviews/bertolit-sa-service-de-restauration-de-batiments-geneve-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe Bertolit mit der Schadstoffbekämpfung beauftragt und war mit deren Arbeit sehr zufrieden. Dieses Unternehmen bietet eine Qualität, die heutzutage selten zu finden ist! Vielen Dank.",
+        "time": 1715934223,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Laura Gómez",
+        "author_photo": "/images/reviews/bertolit-sa-service-de-restauration-de-batiments-geneve-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Israel war freundlich und ein sehr guter Fachmann. Er hat alle Decken unseres Hauses gestrichen und das sehr schnell, wobei er alle Möbel in jedem Zimmer geschützt hat. Ich würde sie auf jeden Fall wieder beauftragen! Vielen Dank für deine tolle Arbeit, Israel!",
+        "time": 1649685227,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "S K",
+        "author_photo": "/images/reviews/bertolit-sa-service-de-restauration-de-batiments-geneve-carouge/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Keine Reaktion. Nach drei Erinnerungen antworteten sie erst nach drei Wochen, um mir mitzuteilen, dass ihr Terminkalender voll sei und ich sie in Zukunft für andere Projekte kontaktieren solle? Kein Kommentar!",
+        "time": 1708460462,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

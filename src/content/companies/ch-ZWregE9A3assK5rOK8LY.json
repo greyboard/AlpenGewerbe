@@ -1,7 +1,7 @@
 {
   "id": "ch-ZWregE9A3assK5rOK8LY",
   "slug": "adidach-amsteg",
-  "name": "Adidach",
+  "name": "ADIDACH GmbH",
   "branchen": [
     "dachdecker"
   ],
@@ -26,5 +26,30 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJV0NLqWFDhUcRieHJ3pRoTUU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Manuel Loretz",
+        "author_photo": "/images/reviews/adidach-amsteg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1622700069,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Adrian Furrer",
+        "author_photo": "/images/reviews/adidach-amsteg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1590403823,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

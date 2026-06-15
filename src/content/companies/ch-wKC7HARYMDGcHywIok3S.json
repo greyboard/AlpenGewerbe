@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJo_mhMtSnC6QRYroEIeT2bng",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Vladimir Snetenyak",
+        "author_photo": "/images/reviews/jrn-controle-electrique-jonas-rufino-neres-stettler-tramelan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnell und aufmerksam gegenüber seinen Kunden",
+        "time": 1742498442,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dina Rime",
+        "author_photo": "/images/reviews/jrn-controle-electrique-jonas-rufino-neres-stettler-tramelan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionell. Ein vertrauenswürdiger Partner.",
+        "time": 1739687958,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "CLaRiSsA MeyLaN",
+        "author_photo": "/images/reviews/jrn-controle-electrique-jonas-rufino-neres-stettler-tramelan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1747765311,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stéph Henggi",
+        "author_photo": "/images/reviews/jrn-controle-electrique-jonas-rufino-neres-stettler-tramelan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1742546606,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Joan Moser",
+        "author_photo": "/images/reviews/jrn-controle-electrique-jonas-rufino-neres-stettler-tramelan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1741953300,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

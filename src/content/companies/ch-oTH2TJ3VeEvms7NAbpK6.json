@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ26Dc-q85jkcRpWDpXfp5OVQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "BulanoMula",
+        "author_photo": "/images/reviews/jost-spenglerei-ag-bern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Sehr unfreundliche arbeiter auf der baustelle, sowie im Büro. Zeigen wenig bis keine motivation. Remo lässt grüssen, unfreundlich ist nur der vorname",
+        "time": 1685956532,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Physio Flow",
+        "author_photo": "/images/reviews/jost-spenglerei-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben ein Dachfenster gewechselt.\nSchnelle und saubere Arbeit, gutes Produkt erhalten, sehr freundliche Leute.",
+        "time": 1666635414,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Kiener",
+        "author_photo": "/images/reviews/jost-spenglerei-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774954685,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Svenja .Z",
+        "author_photo": "/images/reviews/jost-spenglerei-ag-bern/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1657044794,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Luigi De Matteis",
+        "author_photo": "/images/reviews/jost-spenglerei-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1582987346,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

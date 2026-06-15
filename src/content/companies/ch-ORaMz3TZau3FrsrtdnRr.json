@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJUXkvMRE5jkcRVcK1AmsG2Ks",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Benjamin Koller",
+        "author_photo": "/images/reviews/vogel-gartenbau-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir durften an unserem letzten Termin die Vogel Gartenbau AG näher kennenlernen und sind positiv begeistert: Die Mitarbeiter sind ausnahmslos freundlich und das Unternehmen gut organisiert. Wir danken Herrn Andreas Hess für die Treue und freuen uns auf weitere, erfolgreiche Jahre der Zusammenarbeit!",
+        "time": 1655903187,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roland Kunz",
+        "author_photo": "/images/reviews/vogel-gartenbau-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, effiziente und sehr saubere Abwicklung des Auftrages (Neuanlage mit Umgebungsgestaltung). Danke und immer wieder gerne!",
+        "time": 1545297097,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marco Mueller",
+        "author_photo": "/images/reviews/vogel-gartenbau-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Spontan und Flexibel. Danke für die Zusammenarbeit💪",
+        "time": 1665675624,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Karl Heinz Schmaus",
+        "author_photo": "/images/reviews/vogel-gartenbau-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alles was man braucht für den Garten",
+        "time": 1627394621,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Olaf J.",
+        "author_photo": "/images/reviews/vogel-gartenbau-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fachlich und kompetent",
+        "time": 1647941627,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

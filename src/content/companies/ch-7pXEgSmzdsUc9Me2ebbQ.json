@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_eTmLtcaKkgR9ZyWibtpiHM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–20:00 Uhr",
+    "Dienstag: 07:00–20:00 Uhr",
+    "Mittwoch: 07:00–20:00 Uhr",
+    "Donnerstag: 07:00–20:00 Uhr",
+    "Freitag: 07:00–20:00 Uhr",
+    "Samstag: 07:00–20:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "MK",
+        "author_photo": "/images/reviews/jufero-ag-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professioneller und zuverlässiger Elektriker! Die Arbeit wurde schnell, sauber und fachgerecht erledigt. Termine wurden pünktlich eingehalten und alles verständlich erklärt. Besonders positiv fand ich die freundliche Beratung und die faire Preisgestaltung. Man merkt sofort, dass hier mit Erfahrung und Sorgfalt gearbeitet wird. Ich bin mit dem Ergebnis sehr zufrieden und kann den Service uneingeschränkt weiterempfehlen.",
+        "time": 1778159233,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Alain Gauch",
+        "author_photo": "/images/reviews/jufero-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit dem Service und der Dienstleistung. Die Elektrokontrolle wurde fachkundig, zuverlässig und zügig durchgeführt. Besonders positiv sind die schnelle Reaktionszeit sowie die professionelle Ausführung hervorzuheben. Absolut empfehlenswert!",
+        "time": 1775812946,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Yobani Alvarez",
+        "author_photo": "/images/reviews/jufero-ag-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service von Jufero AG. Sehr seriöse Firma für Elektrokontrollen. Der Techniker war sehr freundlich, sympathisch und hat die Arbeit schnell, effizient und in top Qualität erledigt. Ich bin äusserst zufrieden mit der Betreuung. Absolut empfehlenswert!",
+        "time": 1775813429,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Can",
+        "author_photo": "/images/reviews/jufero-ag-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit dem Service! Die Elektrokontrolle wurde kompetent, zuverlässig und sehr effizient durchgeführt. Besonders hervorzuheben ist die schnelle Reaktionszeit und die professionelle Arbeitsweise. Klare Empfehlung!",
+        "time": 1775812684,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Christine Mathys",
+        "author_photo": "/images/reviews/jufero-ag-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Jungen hat vorzüglichen Service geleistet, sehr gerne empfehle ich ihn und seine Firme weiter.",
+        "time": 1780213482,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

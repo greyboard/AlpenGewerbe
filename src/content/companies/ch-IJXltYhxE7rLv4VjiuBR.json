@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_5ecJfW4kUcRXVpUgrDpjJY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Suspect Walter",
+        "author_photo": "/images/reviews/kaelin-metallbau-kunstschlosserei-ag-binningen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit und toller Kundenservice!\nHier wird noch mit Stolz gearbeitet.",
+        "time": 1771528262,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Peter Schlegel",
+        "author_photo": "/images/reviews/kaelin-metallbau-kunstschlosserei-ag-binningen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich wollte einen regionalen Betrieb für die anstehenden Arbeiten berücksichtigen und wurde in keiner Art und Weise Enttäuscht ! Freundliche und hilfsbereite Eigentümer, die gerne bereit sind einen vernünftigen, lösungsorientierten Weg zu finden ! Mein Auftrag wurde zur vollsten Zufriedenheit ausgeführt - kein Wunder existiert dieser Betrieb bereits in der 5. Generation :-)  Danke !",
+        "time": 1557155071,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Samanta Wagner",
+        "author_photo": "/images/reviews/kaelin-metallbau-kunstschlosserei-ag-binningen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und professionelles Team\nDer Auftrag wurde mehr als perfekt ausgeführt, absolut top.Hat meine Erwartungen bei weiten übertroffen.Vielen Dank.",
+        "time": 1562852557,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Nic Anonymus",
+        "author_photo": "/images/reviews/kaelin-metallbau-kunstschlosserei-ag-binningen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich brauchte ein kleines Metall-Tischchen. Unmöglich etwas zu finden in dieser Grösse. Ich habe eine Skizze angefertigt und sie Kälin Metallbau vorbeigebracht.\nHeute habe ich es abgeholt. Das Tischchen ist perfekt. Genau wie ich es mir gewünscht hatte. Gute Qualität zu einem fairen Preis. Jederzeit wieder.",
+        "time": 1606118607,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Martina Schweiger",
+        "author_photo": "/images/reviews/kaelin-metallbau-kunstschlosserei-ag-binningen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Beratung. Auftrag wurde speditiv, professionell und in sehr guter Qualität umgesetzt. Herzlichen Dank!",
+        "time": 1608194713,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

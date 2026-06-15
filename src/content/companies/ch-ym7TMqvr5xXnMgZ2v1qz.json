@@ -1,7 +1,7 @@
 {
   "id": "ch-ym7TMqvr5xXnMgZ2v1qz",
   "slug": "gilles-kaelin-der-handwerker-horw",
-  "name": "Gilles Kälin der Handwerker",
+  "name": "Gernet & Kälin die Handwerker GmbH | Gärtner | Maurer | Hauswartung | Winterdienst | Insektenschutz",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJAQBwbkT6j0cRtm5U8uj3ufA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Lisa Niederberger",
+        "author_photo": "/images/reviews/gilles-kaelin-der-handwerker-horw/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gernet & Kälin GmbH ist auf meine Wünsche und Vorstellungen eingegangen. Herr Gernet hat mir mit seinem hohen Fachwissen gesagt welche Möglichkeiten es gibt. Die Arbeiten wurden in vollster Perfektion umgesetzt. Super Preisleistung jeder Zeit wieder.",
+        "time": 1720525314,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dominik Häfliger",
+        "author_photo": "/images/reviews/gilles-kaelin-der-handwerker-horw/reviewer_2.jpg",
+        "rating": 5,
+        "text": "GK Handwerker GmbH hat unsere Aufträge immer speditiv, unkomplizert und zuverlässig erledigt. Sei es im, oder um das Haus, die Qualität hat immer gepasst.",
+        "time": 1660678402,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Louis Atelouis",
+        "author_photo": "/images/reviews/gilles-kaelin-der-handwerker-horw/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Termintreue. Professionalität, Topqualität und erstaunliche Fachkompetenz. Einfach überzeugend in jeder Hinsicht. Sie haben bei uns nicht nur Haus und Garten in Topform gebracht, sondern waren/sind auch nach Auftragende jederzeit kompetente Ansprechpartner. Super. Danke!",
+        "time": 1604322847,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Axel Daase - Doctor Painless",
+        "author_photo": "/images/reviews/gilles-kaelin-der-handwerker-horw/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Diese Handwerker halten das was sie versprechen. Top seriös. Professionelle Reparaturen und schnell ausgeführt. Genauso wie man es sich wünscht! Meine Erfahrung, gerne jederzeit wieder! 5 Sterne!",
+        "time": 1600323160,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "David Hänel",
+        "author_photo": "/images/reviews/gilles-kaelin-der-handwerker-horw/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Danke viel mal für die geleistete Arbeit. Gilles hat mir bei Renovationsarbeiten geholfen, er macht eine super Arbeit und ist sehr freundlich. Hat sich auf jeden Fall gelohnt dich zu beauftragen!",
+        "time": 1600027663,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

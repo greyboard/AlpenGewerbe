@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJMQOCzjsMkEcR8EIG7fhGG5A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Vladyslava Olkhovska",
+        "author_photo": "/images/reviews/ryser-heizungen-gmbh-urdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für rasche und perfekte Boiler Installation!\n\nThomas hat alles gut erklärt und beraten. Danach wurde sauber und äußerst professionell erledigt.\nAuch für das Verleihgerät möchte ich mich ganz herzlich bedanken – das war eine große Hilfe!\n\nViele Grüße und nochmals danke für den tollen Service!",
+        "time": 1748936655,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marlise Lüthy",
+        "author_photo": "/images/reviews/ryser-heizungen-gmbh-urdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Neue WP Heizung und WP Boiler installieren lassen. WP sehr leise! Super! Alle Termine eingehalten. Sehr gute Arbeit, Beratung. Offerte hat der Schlussrechnung entsprochen. Wenn WP hält was versprochen wurde, (dies sehen wir erst in den nächsten 10 Jahren,) wären wir sehr zufrieden. Mit Herrn Ryser, seiner Arbeit und Organisation mit Ämtern, Elco WP Team, Anträgen Förderprogramme etc.  waren wir sehr zufrieden. Super Heizungsinstallations- Betrieb und Arbeit von Firma Ryser. Werde diese Firma  mit gutem Gewissen sehr weiterempfehlen!",
+        "time": 1758937379,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Sirio Volpi",
+        "author_photo": "/images/reviews/ryser-heizungen-gmbh-urdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben im Okt/Nov 22 unsere alte Ölheizung durch eine Wärmepumpe mit Erdsonde ersetzt. Die Beratung, Planung und Ausführung der Arbeiten durch RyserHeizungen waren kompetent und professionell. Die Installationsarbeiten wurden schnell und einwandfrei erledigt.",
+        "time": 1673437831,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andreas Zumstein",
+        "author_photo": "/images/reviews/ryser-heizungen-gmbh-urdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich brauchte dringend ein Spezialwerkzeug, um den Wasserhahn zu lösen. Ich konnte mir dieses Werkzeug einfach ausleihen, da Herr Ryser nicht sofort kommen konnte. Was für eine unkomplizierte Art und Weise, so geht kundenfreundlich!",
+        "time": 1624462323,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sibyl Akrong",
+        "author_photo": "/images/reviews/ryser-heizungen-gmbh-urdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schnell, unkompliziert, freundlich und sehr effizient! Diesen Handwerker werden wir auch in Zukunft berücksichtigen. Danke",
+        "time": 1703675048,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

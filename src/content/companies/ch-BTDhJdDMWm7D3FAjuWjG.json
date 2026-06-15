@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJveEUkl0fm0cROEeJm1pICLA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Andreas Felder",
+        "author_photo": "/images/reviews/heierli-ag-buehler/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Prompt, präzise, kompetent und kundenfreundlich nicht nur beim Angebot sondern genauso in der Arbeit an unserem Werkstatt-Anbau. Das Projekt mit Heierli zu realisieren war wirklich eine Freude. Jederzeit wieder und 100% empfehlenswert.",
+        "time": 1669890934,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Corinne Koller",
+        "author_photo": "/images/reviews/heierli-ag-buehler/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1582647880,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Werner Giezendanner",
+        "author_photo": "/images/reviews/heierli-ag-buehler/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1578498274,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Julian Egger",
+        "author_photo": "/images/reviews/heierli-ag-buehler/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1413133119,
+        "relative_time_description": "vor 11 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJedZ0Ks2rmkcR1ZD2EO5Or0A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:50 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–11:50 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:50 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–11:50 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "Thomas und Mavi",
+        "author_photo": "/images/reviews/niedermann-ag-baar-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Firma Niedermann war angenehm. Alles wurde zu unserer Zufriedenheit ausgeführt. Probleme wurden schnell gelöst/behoben. Auch sie waren für unsere unkonventionellen Ideen offen und ihr Angestellter war mit uns sehr geduldig. Hierbei noch ein grosses Dankeschön😊\nWir erfreuen uns täglich an ihrer Arbeit👍🏻",
+        "time": 1763915139,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Thomas Säuberli",
+        "author_photo": "/images/reviews/niedermann-ag-baar-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben ein Dusch-WC bestellt. Wir wurden gut beraten und die Installation war einwandfrei. Wir sind sehr zufrieden mit Niedermann!",
+        "time": 1774546190,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Zico Weiss",
+        "author_photo": "/images/reviews/niedermann-ag-baar-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Firma mit zuverlässigem Service.\nDie Zusammenarbeit mit der Niedermann AG war von Anfang an unkompliziert, klar strukturiert und termingerecht. Besonders hervorheben möchte ich die freundliche Kommunikation und die saubere Ausführung der Reparaturen.\nAbsolut empfehlenswert – gerne wieder!",
+        "time": 1746513287,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Subo Subo",
+        "author_photo": "/images/reviews/niedermann-ag-baar-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind äusserts zufrieden mit einem kleinen Umbau in der Waschküche. Herr Halilcevic ist sensationell! Kompetent, transparent, effizient, freundlich, zuverlässig und einfach sehr kundenorientiert. Er hat von Beginn an verstanden, was für uns wichtig ist und uns eine massgeschneiderte Lösung präsentiert mit raffinierten Ideen und dies zu einem enorm fairen Preis.Wir haben sehr Freude!\nHerr Fabian Ott hat den Umbau umgesetzt und ebenfalls mit und vorausgedacht und war speditiv, sorgfältig, zuverlässig, freundlich und flexibel.\nVielen Dank!",
+        "time": 1746102642,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrick Schmid",
+        "author_photo": "/images/reviews/niedermann-ag-baar-baar/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Die Arbeit mit namentlich Herrn Bucher Chr. war eine Katastrophe. Versteht sein Handwerk leider nicht.",
+        "time": 1770057319,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

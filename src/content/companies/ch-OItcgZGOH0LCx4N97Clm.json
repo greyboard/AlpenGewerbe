@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJS-bvLQE8kEcRiHCjzbhT32g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "H H",
+        "author_photo": "/images/reviews/valli-ag-strassenbau-buchs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Valli Team hat kürzlich bei mir eine zweite Pflastersteinreihe bei der Strasse ergänzt. Die Arbeit wurde sehr speditiv, präzise und wunderschön erledigt. Die Mitarbeiter waren sehr höflich und kompetent. Empfehlenswert! Vielen Dank an Mario und das Team.",
+        "time": 1750403669,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Vitor Dos santos",
+        "author_photo": "/images/reviews/valli-ag-strassenbau-buchs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tip Top gute firma",
+        "time": 1656659639,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andrej Grbec",
+        "author_photo": "/images/reviews/valli-ag-strassenbau-buchs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gut 👍",
+        "time": 1713933220,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "luis rodrigues",
+        "author_photo": "/images/reviews/valli-ag-strassenbau-buchs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gut",
+        "time": 1655808624,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Santos",
+        "author_photo": "/images/reviews/valli-ag-strassenbau-buchs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762688491,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

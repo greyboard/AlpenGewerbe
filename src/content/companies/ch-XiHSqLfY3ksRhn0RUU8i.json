@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJLb2V870XjkcRq_G-oU1DJTE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Manuel Fuellemann",
+        "author_photo": "/images/reviews/gehri-ag-schreinerei-moebelbau-aarberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten seit mehreren Projekten mit Gehri zusammen und sind jedes Mal beeindruckt von der hohen Qualität und dem handwerklichen Können. Das Team arbeitet präzise, lösungsorientiert und mit sichtbar grosser Leidenschaft für den Werkstoff Holz.\n\nBesonders schätzen wir die Verlässlichkeit in der Ausführung, die saubere Detailarbeit sowie den angenehmen, familiären Umgang.\n\nDie Zusammenarbeit ist professionell, effizient und jederzeit angenehm.\nKlare Empfehlung!",
+        "time": 1761418025,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Bruno Meier",
+        "author_photo": "/images/reviews/gehri-ag-schreinerei-moebelbau-aarberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Andreas ist der Hammer! Super Schreinerei mit viel Hingabe zum Detail. Sehr schöne und genaue Arbeit. Auch wenn es eng wurde und improvisation verlangt wurde klappte alles bestens.\nGrande!",
+        "time": 1761332727,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Christa Jenni",
+        "author_photo": "/images/reviews/gehri-ag-schreinerei-moebelbau-aarberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben eine wunderschöne Empfangstheke bekommen. Gute Beratung, kreatives Mitdenken und gute Arbeit. Wir danken herzlich dem Team und können die Gehri Schreinerei nur weiterempfehlen.",
+        "time": 1758280536,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Stiller Projects",
+        "author_photo": "/images/reviews/gehri-ag-schreinerei-moebelbau-aarberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolles Team, schnelle und offene Kommunikation und präzise Ausführung von komplexen Schreinerarbeiten! Super Firma! Vielen Dank und bis zum nächsten Mal.",
+        "time": 1649588217,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Claudia Kehrwand",
+        "author_photo": "/images/reviews/gehri-ag-schreinerei-moebelbau-aarberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einbau von Schlafkoje mit Podestbett, Einbauschränken und Akustikfenster- und türe: Danke Marc für die tolle Planungsphase! Danke auch an das freundliche Montageteam. Tolle Oberflächen, präzise Verarbeitung. Das Objekt erfüllt seine Funktion und unseren ästhetischen Anspruch. Wir erfreuen uns jeden Tag und jede Nacht daran!!!",
+        "time": 1674817840,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

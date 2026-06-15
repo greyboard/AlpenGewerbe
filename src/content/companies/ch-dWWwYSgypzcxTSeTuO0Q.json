@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-zxJwDeAmkcRetuCU_HXcec",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 34,
+    "reviews": [
+      {
+        "author_name": "Danijela Babic",
+        "author_photo": "/images/reviews/robert-meister-ag-sanitaer-und-heizungsfachmann-in-schaffhausen-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr MaHo war bei uns und hat unseren WC Kasten und den Gartenwasserhahn so schnell reppariert/ausgetauscht. Vielen Dank für den Service.",
+        "time": 1776329466,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Jean-Pierre Tinner",
+        "author_photo": "/images/reviews/robert-meister-ag-sanitaer-und-heizungsfachmann-in-schaffhausen-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich hatte schon mehrmals kurzfristig Hilfe nötig. Die Firma Meister hat immer prompt reagiert und das Problem schnell behoben zu fairen Preisen. Aufgrund mehrerer Einsätze mit positiven Erfahrungen kann ich die Firma Robert Meister AG in Schaffhausen nur empfehlen.",
+        "time": 1746442462,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stephan Müller",
+        "author_photo": "/images/reviews/robert-meister-ag-sanitaer-und-heizungsfachmann-in-schaffhausen-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetentes Sanitärgeschäft, das wir gerne weiter empfehlen",
+        "time": 1766477665,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "ваня махно",
+        "author_photo": "/images/reviews/robert-meister-ag-sanitaer-und-heizungsfachmann-in-schaffhausen-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich hatte ein kleines Problem, aber das Team hat es sehr schnell und effizient behoben.\n\nMit eine gute Preis 👍🏻",
+        "time": 1744133091,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Noah Schmid",
+        "author_photo": "/images/reviews/robert-meister-ag-sanitaer-und-heizungsfachmann-in-schaffhausen-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich, schnell, saubere Arbeit.",
+        "time": 1770738453,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

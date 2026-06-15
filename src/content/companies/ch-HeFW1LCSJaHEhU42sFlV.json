@@ -1,7 +1,7 @@
 {
   "id": "ch-HeFW1LCSJaHEhU42sFlV",
   "slug": "brusa-rivestimenti-sa-ascona",
-  "name": "Brusa Rivestimenti SA",
+  "name": "Brusa Fratelli SA",
   "branchen": [
     "bodenleger"
   ],
@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvYocxC_IhUcRb1C6siqqL6I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 13:30–18:00 Uhr",
+    "Dienstag: 08:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: 08:30–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Andrin Holzer",
+        "author_photo": "/images/reviews/brusa-rivestimenti-sa-ascona/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit👍🏼 Grüsse an Mauro",
+        "time": 1719139376,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Scherer",
+        "author_photo": "/images/reviews/brusa-rivestimenti-sa-ascona/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Grosse Auswahl und freundliche kompetente Bedienung",
+        "time": 1638619797,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "daniele legnani",
+        "author_photo": "/images/reviews/brusa-rivestimenti-sa-ascona/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein neues Abenteuer hat begonnen und ich hätte keine bessere Wahl treffen können… Ich erwarte Sie in unserem Ausstellungsraum und Sie werden erkennen, dass meine Gedanken die Realität widerspiegeln, die Sie erwartet, und bereit sind, Sie bei Ihren Entscheidungen zu begleiten. 🫶",
+        "time": 1757797592,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Soubhagya Enterprises",
+        "author_photo": "/images/reviews/brusa-rivestimenti-sa-ascona/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hübsch",
+        "time": 1605278005,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Salvatore Lauria",
+        "author_photo": "/images/reviews/brusa-rivestimenti-sa-ascona/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770226827,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnwOGxIsKkEcRCPXbl2-xWJw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: 07:00–17:30 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Felix H",
+        "author_photo": "/images/reviews/gashi-boden-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekte Arbeit - alter Boden wurde entfernt, der Untergrund sauber ausgeglichen und der neue Boden in Rekordzeit verlegt. Faire Preise, unkomplizierte Abwicklung, flexibel und äusserst freundlich. Sehr zu empfehlen!",
+        "time": 1744804457,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hossli J",
+        "author_photo": "/images/reviews/gashi-boden-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit Ihrer Dienstleistung. Sie waren sehr professionell, sehr zuvorkommend und haben ein gutes Preis-Leistungs-Verhältnis geboten. Wir werden Sie gerne weiterempfehlen und bei Bedarf wieder auf Sie zurückkommen.",
+        "time": 1684777065,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Caroline Stulz",
+        "author_photo": "/images/reviews/gashi-boden-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben in Blitzeseile einen wunderschönen Vinylboden in unserem Verpflegungsraum bekommen. Sieht wunderschön aus, sensationelle Arbeit und zeitlich unschlagbar. Jederzeit gerne wieder!!!",
+        "time": 1615551666,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Berat Bunjaku",
+        "author_photo": "/images/reviews/gashi-boden-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Arbeiten und faure Preise.",
+        "time": 1612037395,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Vanessa G",
+        "author_photo": "/images/reviews/gashi-boden-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit von Gashi Boden.\n\nPreislich mit Abstand eines der besten Angebote, die wir in Zürich gefunden haben – und trotzdem top Qualität. Das Team war sehr zuverlässig und sogar 15 Minuten früher vor Ort. Die Kommunikation verlief unkompliziert und professionell.\n\nDas Ergebnis ist wirklich sehr schön geworden: sauber gearbeitet und genau so umgesetzt, wie wir es uns vorgestellt haben.\n\nKlare Weiterempfehlung!",
+        "time": 1778749819,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

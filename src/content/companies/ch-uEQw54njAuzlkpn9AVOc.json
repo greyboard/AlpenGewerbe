@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJW28ANUX6j0cR5tQPe_9lAuE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Andreas Rüegge",
+        "author_photo": "/images/reviews/graf-sanitaer-heizung-ag-horw/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Sanitär Graf unsere Ölheizung durch eine Wärmepumpe ersetzt. Die Firma ist nicht an einen Hersteller gebunden. Mit der Beratung und Umsetzung waren wir sehr zufrieden. Ebenfalls konnte die Offerte eingehalten werden. Stefan und seine Mitarbeiter sind alle sehr symphatisch. Vielen Dank für eure Arbeit!",
+        "time": 1695383251,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andre Ege",
+        "author_photo": "/images/reviews/graf-sanitaer-heizung-ag-horw/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Als unser alter Wärmepumpenboiler über Nacht ausgestiegen war, konnte die Firma Graf andertags bereits einen Notboiler für uns installieren. Vier Wochen danach, war der neu bestellte Boiler fachgerecht montiert. Wir waren begeistert von der Flexibilität und Zuverlässigkeit der Firma Graf, die wir sehr gerne weiterempfehlen werden.",
+        "time": 1678392202,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mike G.",
+        "author_photo": "/images/reviews/graf-sanitaer-heizung-ag-horw/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Graf Sanitär Heizung AG hat in unserem Mehrfamilienhaus als Totalunternehmer (d.h. inkl. Bewilligungen, Bohrung, Elektrik, etc.) die neue Wärmepumpe-Heizungsanlage geplant und installiert. Die Koordination hat hervorragend geklappt und\nTermine wie auch Kosten wurden vorbildlich eingehalten. Somit können wir Graf Sanitär Heizung AG zu 100% weiterempfehlen.",
+        "time": 1695540331,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Martin Olini",
+        "author_photo": "/images/reviews/graf-sanitaer-heizung-ag-horw/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Habe zwei Badezimmer und eine Küche komplett saniert.\nMit Sanitär Graf hat alles sehr gut geklappt. Von der ersten telefonischen Beratung bis hin zur pünktlichen und sehr professionellen Arbeit. Cooles und kompetentes Team, welches ich gerne mit 5 Sternen bewerte und weiterempfehlen kann.",
+        "time": 1607371020,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roger Jenni",
+        "author_photo": "/images/reviews/graf-sanitaer-heizung-ag-horw/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, Verlässliche und faire Offerte, professionelle und termingerechte Ausführung von äusserst freundlichen und sauber arbeitenden Handwerkern. Abrechnung sauber und dem Aufwand entsprechend, selbst bei grösserem Projekt – Bravo, weiter so.",
+        "time": 1710843796,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

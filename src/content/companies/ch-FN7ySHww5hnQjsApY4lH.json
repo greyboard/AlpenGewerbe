@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJfTQ463sfm0cRrSHAbIvuKT4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Michael Klaus",
+        "author_photo": "/images/reviews/vonarburg-gartenbau-teufen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir wollten unseren Garten umgestalten, hatten jedoch keine konkreten Ideen, wie wir dies machen könnten und waren auch unsicher. Michel hat sich viel Zeit für uns genommen, viele Gespräche mit uns geführt und hat uns mit seinen Vorstellungen  und Überlegungen mehr als überzeugt!!\nSehr kompetent, kreativ und die Lösungsansätze sind umsetzbar. Tolles und nettes Team, haben immer ein offenes Ohr und gehen auf Wünsche und Anliegen ein.\nWir sind wirklich überaus zufrieden und sehr froh, dass wir Michel und sein Team für unseren Umbau gewählt haben!\nEinfach top!!",
+        "time": 1765433431,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "A K",
+        "author_photo": "/images/reviews/vonarburg-gartenbau-teufen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Für unser Gartenumbauvorhaben waren wir auf der Suche nach einem geeigneten Gartenunternehmen. Michel kannten wir bereits, da er bei unseren Nachbarn und auch bei uns verschiedene Gartenunterhaltsarbeiten ausgeführt hatte. Daher lag es nahe, ihn direkt anzusprechen und uns seine Ideen anzuhören.\n\nSchon nach dem ersten Austausch war klar, dass wir mit ihm arbeiten wollen. Er hat sehr aufmerksam zugehört, sich auf unsere Vorstellungen eingelassen und diese mit seinen eigenen Überlegungen deutlich übertroffen.\n\nBesonders hervorheben möchten wir das gesamte Team: äusserst freundlich, hilfsbereit und engagiert. Alle Anliegen werden ernst genommen und unmittelbar angegangen. Man spürt, dass hier mit Herz, Erfahrung und viel Einsatz gearbeitet wird.\n\nWir sind rundum zufrieden und können Michel und sein Team uneingeschränkt empfehlen!! Dank von ganzen Herzen für eure tolle Arbeit!!",
+        "time": 1765456432,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Leo Vetsch",
+        "author_photo": "/images/reviews/vonarburg-gartenbau-teufen/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Sehr nette Bedienung und natürlich ein Supertag....",
+        "time": 1594152112,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Raffael Weibel",
+        "author_photo": "/images/reviews/vonarburg-gartenbau-teufen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin top zufrieden, sehr gute Beratung, kompetente Ausführung, vielen Dank für den schönen Garten.",
+        "time": 1582472742,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "stefan vincenz",
+        "author_photo": "/images/reviews/vonarburg-gartenbau-teufen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hört zu und setzt dann um...es entstehen wirklich schöne Gärten",
+        "time": 1688664012,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

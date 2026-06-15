@@ -1,7 +1,7 @@
 {
   "id": "ch-nwiWvhbJ0T2y9luKJPvd",
   "slug": "herzog-haustechnik-ag-luzern",
-  "name": "Herzog Haustechnik AG",
+  "name": "Herzog Haustechnik AG Luzern",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJB8zuSj_7j0cRQ3r4w2rxu1I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 44,
+    "reviews": [
+      {
+        "author_name": "Daniel Meyer",
+        "author_photo": "/images/reviews/herzog-haustechnik-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben viel Freude an unserer neuen Duschtüre; geplant durch Herrn Zimmermann von Herzog und umgesetzt durch Herrn Fassbind & Co. von duschdor!! Besten Dank für die schöne und auf unsere Wünsche abgestimmte Arbeit!",
+        "time": 1722163024,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mathias Rellstab",
+        "author_photo": "/images/reviews/herzog-haustechnik-ag-luzern/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Der Auftrag (WC-Kontrolle) wurde einwandfrei erledigt, aber fast 170 Franken allein für Arbeitsleistung (45 Minuten, aufgeschrieben wurde aber eine volle Stunde) und Anfahrt (3 Minuten ab Firmensitz) erscheint uns zu teuer.\n\nNachtrag: Inzwischen hat uns der Kundendienst kontaktiert und eine Preisreduktion angeboten. Leider hatten wir aber die Rechnung schon bezahlt, und so war nichts mehr zu machen.",
+        "time": 1627993047,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Luke Schindler",
+        "author_photo": "/images/reviews/herzog-haustechnik-ag-luzern/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Nach einer 1. Offerte fragte ich noch nach einer weiteren Offerte. Auch nach 3x Nachfragen wurde ich vom Projektleiter Kundendienst ignoriert und erhielt keine Antwort. An einen Projektleiter Kundendienst hab ich andere Erwartungen…",
+        "time": 1710233774,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Nogara",
+        "author_photo": "/images/reviews/herzog-haustechnik-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eingespieltes Team! Wahres Handwerk. Gut Ausgerüstet. Magazin ist ein Bijou!",
+        "time": 1601320304,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "He Sucks",
+        "author_photo": "/images/reviews/herzog-haustechnik-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine gute Firma, Der Tonis Mottis und der Glub sind meine Lieblingsarbeiter",
+        "time": 1574436453,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

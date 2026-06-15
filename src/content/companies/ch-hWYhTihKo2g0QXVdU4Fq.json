@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_RtN4lIjkEcR8_hPHN1n9c0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Antonio Kilian",
+        "author_photo": "/images/reviews/malergeschaeft-rey-muhen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Toni Kilian Sälistrasse 21 Däniken wir\nHaben das Unterdach bei unserer Terrasse neu streichen lassen und die Fugen neu gemacht Herr Rey und besonders sein Mitarbeiter Marc haben eine Tip Tope und saubere Arbeit gemacht, sehr kompetent,genau und professionell ich bin rundum zufrieden,ich kann das Malergeschäft  Rey mit gutem Gewissen weiterempfehlen.\nNochmals vielen Dank\nToni Kilian",
+        "time": 1726992635,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexander Naepflin",
+        "author_photo": "/images/reviews/malergeschaeft-rey-muhen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetenz und Kundendienst sowie Arbeiten werden Tip Top ausgeführt.",
+        "time": 1538146476,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Mathias",
+        "author_photo": "/images/reviews/malergeschaeft-rey-muhen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Arbeit.\nGute Preis/Leistung",
+        "time": 1557852928,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Gianna Fischer",
+        "author_photo": "/images/reviews/malergeschaeft-rey-muhen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die gute Zusammenarbeit.",
+        "time": 1657005222,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jester Fool",
+        "author_photo": "/images/reviews/malergeschaeft-rey-muhen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711032247,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

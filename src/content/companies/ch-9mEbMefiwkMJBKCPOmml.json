@@ -26,5 +26,38 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-fps5LqSj0cRzJ2MCPvyXjw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Lothar Diete",
+        "author_photo": "/images/reviews/haustechnik-blaettler-ag-giswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kundenorientierte und hilfsbereite Firma, wann immer wir ein Problem haben, wie zum Beispiel einen Wasserschaden am mittleren Abend, kommt Herr Blättler und hilft. Sehr angenehmer Kontakt, sehr erfahren, fairpreisig, top zu empfehlen, vielen Dank.",
+        "time": 1720094528,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Philipp Bachmann",
+        "author_photo": "/images/reviews/haustechnik-blaettler-ag-giswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eigentümergeführter Handwerksbetrieb, welcher sehr gute Qualität zu einem guten Preis liefert. War immer sehr zufrieden. Kann ich vorbehaltlos empfehlen.",
+        "time": 1672322742,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Edith",
+        "author_photo": "/images/reviews/haustechnik-blaettler-ag-giswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit- und danke für die Hilfsbereitschaft und Organisation. Die Notfälle wurden schnell und professionell erledigt.\nHerzlichen Dank",
+        "time": 1699719236,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

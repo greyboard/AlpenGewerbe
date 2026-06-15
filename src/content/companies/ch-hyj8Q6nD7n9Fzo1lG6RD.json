@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxxbkuOfMkUcR9xIfdBvOqsQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 41,
+    "reviews": [
+      {
+        "author_name": "Fabian Schaerli",
+        "author_photo": "/images/reviews/elektro-schmidli-gmbh-oberdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Elektro Schmidli hat bei mir das ganze Haus installiert und sämtliche elektrischen Arbeiten übernommen - und ich bin absolut begeistert! Alles wurde extrem sauber, zuverlässig und hochprofessionell ausgeführt. Man merkt sofort, dass hier mit viel Erfahrung und Sorgfalt gearbeitet wird. Die Baustelle war immer ordentlich und das Ergebnis top. Klare Empfehlung – Ich würden jederzeit wieder mit Elektro Schmidli zusammenarbeiten!\nWeiter so👍",
+        "time": 1769758555,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Manuel Reidy",
+        "author_photo": "/images/reviews/elektro-schmidli-gmbh-oberdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert! Die Firma hat bei uns eine Photovoltaikanlage installiert und dabei wirklich in allen Punkten überzeugt. Von Anfang an wurde extrem transparent kommuniziert, alles war nachvollziehbar erklärt und sauber geplant.\n\nDie Umsetzung war effizient, absolut im Zeitplan und handwerklich auf höchstem Niveau. Besonders positiv hervorzuheben ist, dass aktiv mitgedacht wurde und auch kurzfristige Änderungswünsche flexibel und zu unserer vollsten Zufriedenheit umgesetzt wurden.\n\nDas gesamte Team war jederzeit freundlich, kompetent und lösungsorientiert. So wünscht man sich Handwerksbetriebe – klare Empfehlung!",
+        "time": 1770210951,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Althaus Uhren",
+        "author_photo": "/images/reviews/elektro-schmidli-gmbh-oberdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Elektro Schmidli hat unglaublich gute Arbeit geleistet. Unkompliziert, zielbewusst und seriös.\nBei uns wurde eine Solaranlage mit Ladestation verbaut - die Beratung war top (Unnötiges wird weggelassen und Nötiges wird empfohlen), die Ausführung war exakt nach Zeitplan und qualitativ bestens. Gerne empfehle ich Elektro Schmidli wärmstens weiter!!",
+        "time": 1764675697,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Heinz Steiner",
+        "author_photo": "/images/reviews/elektro-schmidli-gmbh-oberdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kürzlich beauftragten wir Elektro Schmidli mit der Installation einer Wallbox in unserer Garage. Wie schon bei bei der Installation unserer Wärmepumpe und der PV-Anlage sowie bei diversen Renovationen in unserem Haus waren wir auch diesmal sehr zufrieden. Die Auftragsabwicklung war von A-Z sehr professionell und sowohl der Projektleiter als auch der Monteur machten einen wirklich guten Job. Besonders positiv hervorheben möchte ich das Knowhow, die Freundlichkeit  und das Kommunikationsverhalten der Mitarbeiter sowie die Fähigkeit, uns eine technisch und ästhetisch optimale Anlage mit geringstmöglichem Aufwand zu installieren. Somit kann ich diese Firma uneingeschränkt weiterempfehlen.",
+        "time": 1769505621,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Do Gi",
+        "author_photo": "/images/reviews/elektro-schmidli-gmbh-oberdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von der Planung bis zur Umsetzung top: PV-Anlage und Hauptverteilung wurden erneuert, alles transparent erklärt und sauber installiert.\n\nBei der Wärmepumpen-Erneuerung wurden wir sehr gut unterstützt. Kompetent, freundlich, zuverlässig.\n\nAuch der Störungsdienst war sehr unkompliziert und schnell. Bei einer Störung auf einer Steckdose wurde uns innerhalb vom gleichen Arbeitstag geholfen.",
+        "time": 1769757449,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

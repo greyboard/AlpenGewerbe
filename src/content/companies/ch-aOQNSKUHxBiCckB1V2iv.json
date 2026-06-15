@@ -25,5 +25,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJh61_jO8vm0cRzquTnFy4ZCw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Roland Vogler",
+        "author_photo": "/images/reviews/heizplan-ag-gams/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte drei Offerten für meine 20 kWp PV-Anlage mit Speicher eingeholt. Die Offerte von Heizplan war nicht nur preislich attraktiv, sondern auch das gesamte Vorgehen machte von Anfang an einen äusserst seriösen und professionellen Eindruck. Deshalb entschied ich mich für Heizplan. Rückblickend war das ein sehr kluger Entscheid.\n\nHeizplan hat saubere und zuverlässige Arbeit geleistet und mir eine optimal auf meine Bedürfnisse abgestimmte Anlage installiert. Die Installationsteams waren kompetent, freundlich und stets bereit, auf meine Fragen und Anregungen einzugehen. Man merkte, dass hier echte Fachleute am Werk sind, die Wert auf Qualität und Kundenzufriedenheit legen.\n\nWichtig ist für mich auch die langfristige Sicherheit: Heizplan gibt es heute immer noch, sie sind erreichbar und bleiben ein verlässlicher Ansprechpartner. Einer der anderen Offertsteller hat mittlerweile Konkurs angemeldet und der dritte kämpft ebenfalls mit Schwierigkeiten. Es wäre äusserst ärgerlich gewesen, nun eine Anlage zu besitzen, aber keinen Ansprechpartner mehr für Garantie- oder Wartungsfragen zu haben. Mit Heizplan muss ich mir diesbezüglich keine Sorgen machen.\n\nZusammengefasst: Ich bin mit der Umsetzung, dem Service und der gesamten Zusammenarbeit sehr zufrieden und würde Heizplan jederzeit weiterempfehlen.",
+        "time": 1763548661,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Restaurant Bahnhöfli",
+        "author_photo": "/images/reviews/heizplan-ag-gams/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Auf unserem Saal-Dach durften wir mit Heizplan eine PV-Anlage mit einer Leistung von 57.96 kWp realisieren.\nDas Team von Heizplan hat den Auftrag von der Offertstellung, Montage sowie die administrative Abwicklung hochprofessionell, termintreu und sauber durchgeführt.\n\nWir können Heizplan als äusserst seriösen und professionellen Partner für eine gewerbliche Anlage weiterempfehlen.\n\nHerzlichen Dank\nSimon und Kathrin Benz",
+        "time": 1749460653,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "han rad",
+        "author_photo": "/images/reviews/heizplan-ag-gams/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mit Heizplan haben Sie einen zuverlässigen Partner für Ihre Photovoltaik Anlage. Von der Offerte über die Planung, der Montage bis zur Inbetriebnahme hat alles perfekt geklappt. Wir fühlten uns stets in fachmännisch guten Händen und können die Heizplan AG ohne Vorbehalt empfehlen.",
+        "time": 1769545258,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Hans Sprecher",
+        "author_photo": "/images/reviews/heizplan-ag-gams/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Montage der Photovoltaikanlage, ist professionell erstellt worden. Die Monteure haben fleissig und präzise gearbeitet und haben sich gegenüber der Bauherrschaft freundlich und korrekt verhalten. Ich würde jederzeit wieder mit Heizplan eine Anlage bauen. Die Anlage ist idealerweise nach Ost und West auf beiden Flügel des Hauses montiert. Die Leistung ist sehr gut.",
+        "time": 1698139069,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Galaxy 71",
+        "author_photo": "/images/reviews/heizplan-ag-gams/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service von der ersten Kontaktaufnahme, hin zur Offerte über die Auftragserteikung bis hin zur Installation und Abwicklung mit den Behörden!\nFür mich war es ein 'Rundum-Sorglos-Paket'!\nJederzeit wieder!!!",
+        "time": 1763626791,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJI6QVIOTTmkcRrPHv8CCkZS8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Radames Degenati",
+        "author_photo": "/images/reviews/salandi-bodenbelaege-mollis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Dienstleistungen, von der Beratung bis hin zur ausgeführten Arbeit. Zum weiter empfehlen.",
+        "time": 1720801111,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rita Werfeli",
+        "author_photo": "/images/reviews/salandi-bodenbelaege-mollis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Bemusterung und den Auftrag qualitativ und prompt ausgeführt. Wir sind mit dem Resultat sehr zufrieden und können die Firma Salandi sehr empfehlen.",
+        "time": 1715833406,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sibylle Hegner",
+        "author_photo": "/images/reviews/salandi-bodenbelaege-mollis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis zur Ausführung top und super hilfsbereit. Wir können sie wirklich empfehlen.",
+        "time": 1702628935,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Max Bösch",
+        "author_photo": "/images/reviews/salandi-bodenbelaege-mollis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Salandi Bodenbeläge bürgt für eine qualitativ sehr gute Arbeit. Wir können die Firma bestens weiterempfehlen.",
+        "time": 1697182531,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrea Angehrn",
+        "author_photo": "/images/reviews/salandi-bodenbelaege-mollis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit rundum zufrieden, herzlichen Dank für alles!",
+        "time": 1745607958,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

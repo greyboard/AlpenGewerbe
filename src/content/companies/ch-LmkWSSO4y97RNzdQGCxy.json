@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJMYRVhIsKkEcRIbx5c8lTRg0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Ka ai (Aliiv3)",
+        "author_photo": "/images/reviews/schreinerei-hert-co-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Heute war Herr Bürki bei mir für eine Reparatur vor Ort\nund ich bin hellauf begeistert!\nSein Fachwissen, seine Hilfsbereitschaft und seine professionelle Art sind einfach herausragend.\nEr hat sensationelle Arbeit geleistet, und ich war wirklich beeindruckt, wie sorgfältig und effizient er alles gelöst hat.\nIch werde beim nächsten Mal auf jeden Fall wieder darum bitten, dass Herr Bürki vorbeikommt.\nEin grosses Dankeschön an ihn und den gesamten Service!",
+        "time": 1762195779,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Luzia Huber",
+        "author_photo": "/images/reviews/schreinerei-hert-co-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Liebe Schreiner von Hert & Co\nHerzlichen Dank für eure gute Arbeit. Ihr seid sorgfältig, professionell, zuverlässig, schnell und überaus freundlich.\nSchön, dass ihr euch auch kleinen Aufträgen annehmt.\nMan darf bei euch jederzeit mit seinem Problem reinplatzen. Man fühlt sich wie auf dem Lande!",
+        "time": 1699289326,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniele Faoro",
+        "author_photo": "/images/reviews/schreinerei-hert-co-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top seriöser und zuverlässiger Schreiner. Immer freundlich und hilfsbereit. Professionelles Personal liefert einwandfreie Arbeiten ab, zu fairen Preisen. Der Inhaber ist ein hochanständiger und pflichtbewusster Geschäftsführer.\nJederzeit wieder und absolut empfehlenswert.",
+        "time": 1626790468,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ursi Flury",
+        "author_photo": "/images/reviews/schreinerei-hert-co-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Superfreundliches, hilfsbereites und professionelles Team. Saubere Arbeit, nur zu empfehlen. Immer gerne wieder.",
+        "time": 1732629335,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eli Gino",
+        "author_photo": "/images/reviews/schreinerei-hert-co-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top professionelle Mitarbeiter\nSehr, sehr freundlich!\nPreisleistung hervorragend.\nKann jeder die Dienstleistungen der Firma Hert + Co. AG nur empfehlen!!!",
+        "time": 1594806348,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

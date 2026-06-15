@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJT0Mq2rIejkcRxQDF64hMyEY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Ta Ra",
+        "author_photo": "/images/reviews/buetikofer-gebaeudetechnik-ag-sanitaer-heizung-spenglerei-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit den ausgeführten Sanitär- und Heizungsarbeiten im Rahmen unserer Gästebad-Renovation. Die Arbeiten wurden sauber, präzise und fachlich einwandfrei umgesetzt.\n\nDie Mitarbeitenden sind zuverlässig, unkompliziert und angenehm in der Zusammenarbeit. Besonders geschätzt haben wir ihre sorgfältige und rücksichtsvolle Arbeitsweise. Es wurde sehr sauber gearbeitet und respektvoll mit unserem Zuhause umgegangen.\n\nAuch die Beratung war kompetent und verständlich. Der Kontakt war jederzeit sehr freundlich und professionell.\n\nVielen Dank für die gute Zusammenarbeit! Wir können die Firma absolut weiterempfehlen und freuen uns auf die Renovation unseres Hauptbadezimmers.",
+        "time": 1771875033,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sascha Wuffli",
+        "author_photo": "/images/reviews/buetikofer-gebaeudetechnik-ag-sanitaer-heizung-spenglerei-biel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit der Bütikofer Sanitär AG war ich sehr zufrieden! Sie haben bei uns die Sanitärinstallationen sowie die Montage der Armaturen ausgeführt – alles fachgerecht, sauber und termintreu. Die Zusammenarbeit war angenehm, das Team freundlich und kompetent.",
+        "time": 1762282138,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Markus Jourdan",
+        "author_photo": "/images/reviews/buetikofer-gebaeudetechnik-ag-sanitaer-heizung-spenglerei-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Projekt zur Heizungssanierung (Installation einer Luftwasser-Wärmepumpe) wurde in allen Phasen professionell und sorgfältig geplant und koordiniert und anschliessend schnell und erfolgreich durchgeführt mit sehr gutem Ergebnis. Das neue Heizungssystem funktioniert einwandfrei. Sehr kompetentes und freundliches Personal. Ich fühlte mich stets gut beraten. Ich würde die Firma auf jeden Fall weiterempfehlen.",
+        "time": 1700034092,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christian Leder",
+        "author_photo": "/images/reviews/buetikofer-gebaeudetechnik-ag-sanitaer-heizung-spenglerei-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr D. Zejneli reagiert prompt und unkompliziert. Die Facharbeiter haben uns bei Badsanierungen und Reparaturen in einem grossen MFH in Biel schon oft unterstützt. Nach mehreren kleinen und grossen Projekten kann ich  von sehr guten Erfahrungen berichten. Terminplanung wird eingehalten. Offerten auch. Hervorheben möchte ich zudem die gute Diensleistungshaltung von Herrn Zejneli. Vielen Dank dafür! Und auch Danke dem Team. Besonderen Dank für die  Einsätzen, bei denen es pressiert hat! Die Firma hat mich nie im Stich gelassen.",
+        "time": 1701083407,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Peter Garst",
+        "author_photo": "/images/reviews/buetikofer-gebaeudetechnik-ag-sanitaer-heizung-spenglerei-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Dank der kompetenten Organisation bei der Suche eines komplizierten Wasserbruchs konnten alle Arbeiten für das neue Bad in unserem hundertjährigen Haus abgeschlossen werden.\nDie Firma Bütikofer Gebäudetechnik AG leitete zu unserer vollsten Zufriedenheit die komplizierte Suche wie auch die Verteilung der Arbeiten an die verschiedenen Firmen.\n\nWir können Herrn Djemailj Zejneli und sein Team sehr empfehlen.\n\nPeter und Martha Garst\n2533 Evilard, 15. November 2023",
+        "time": 1700066744,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJK8Smq11_kEcR6UJq0oFvhtM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Reto B",
+        "author_photo": "/images/reviews/altra-schreinerei-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Junge Menschen mit einem etwas schwereren Rucksack bekommen hier die Gelegenheit, eine Ausbildung als Schreiner zu absolvieren.",
+        "time": 1487769950,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "charles hugenschmidt",
+        "author_photo": "/images/reviews/altra-schreinerei-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top  Freundliche Leute",
+        "time": 1690190274,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFWpbDo4TkEcRihA069oyDQc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Selina",
+        "author_photo": "/images/reviews/famo-holzbau-dein-schreiner-und-zimmermann-im-aargau-mellingen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ich hatte einen Termin für eine Reparatur und bin extra Zuhause geblieben, der Termin wurde einfach vergessen.\nBeim Telefonat 45min nach dem vereinbarten Termin sagte mir man dann auch noch dass wenn ich so genervt sei, niemand mehr vorbei komme..\nSo etwas unprofessioneles und respektloses ist mir bis heute nicht unter gekommen!\nWäre ich nicht vor Ort gewesen hätte man mir das verrechnet!\nIch rate ab von dieser Firma",
+        "time": 1756882035,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Joel",
+        "author_photo": "/images/reviews/famo-holzbau-dein-schreiner-und-zimmermann-im-aargau-mellingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "super arbeit respekt",
+        "time": 1700864628,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dominic Allemann",
+        "author_photo": "/images/reviews/famo-holzbau-dein-schreiner-und-zimmermann-im-aargau-mellingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super zuvorkommend freundlich familiär",
+        "time": 1622879744,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

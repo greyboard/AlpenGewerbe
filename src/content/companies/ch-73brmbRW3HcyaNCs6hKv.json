@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq5Gou8TTmkcRprV1uI_fybg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Dave Sento",
+        "author_photo": "/images/reviews/sopa-elektrokontrollen-gmbh-naefels/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Sopa ist sehr freundlich, unkompliziert, pünktlich und arbeitet sehr professionell. Er erklärt für den Laien alles sehr verständlich und bemüht sich sehr um nützliche Tipp`s.\nKann ich nur weiter empfehlen!\nBesten Dank.",
+        "time": 1621513523,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Toni Bendel",
+        "author_photo": "/images/reviews/sopa-elektrokontrollen-gmbh-naefels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Danke an Herrn Sopa: von der Anmeldung, Ablauf und Rückmeldung hat alles zu unserer vollen Zufriedenheit geklappt. Das ist Kundenservice mit Freundlichkeit und Professionalität!",
+        "time": 1645642311,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ernst Hauser",
+        "author_photo": "/images/reviews/sopa-elektrokontrollen-gmbh-naefels/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Pllumi Sopa speditiv und sauber gearbeitet. Er ist sogar Hausschuhe für den Innenbereich mitgebracht.\nAber für die gut halbe Stunde Kontrolle für zwei Wohnungen sind die pauschale von Fr. 400.- sehr reichlich.",
+        "time": 1645778206,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Andrea Collenberg",
+        "author_photo": "/images/reviews/sopa-elektrokontrollen-gmbh-naefels/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich,zuverlässig und sehr fachkompetent",
+        "time": 1616878023,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Andreas Heussi",
+        "author_photo": "/images/reviews/sopa-elektrokontrollen-gmbh-naefels/reviewer_5.jpg",
+        "rating": 4,
+        "text": "freundlich, kompetent und speditiv.",
+        "time": 1637688271,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

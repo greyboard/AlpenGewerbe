@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJY3125BpojkcRnAgCWRCwrKw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Pergola Line",
+        "author_photo": "/images/reviews/garten-und-tiefbau-schafer-roland-gmbh-giffers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Suchen Sie eine gute Beschattung und möchten Sie den Garten umgestalten, dann kann ich Ihnenn Garten und Tiefbau Schafer sehr empfehlen.\nDanke für die gute Zusammenarbeit!",
+        "time": 1723540163,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Schafer",
+        "author_photo": "/images/reviews/garten-und-tiefbau-schafer-roland-gmbh-giffers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Saubere Firma",
+        "time": 1721047608,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexis Rotzetter",
+        "author_photo": "/images/reviews/garten-und-tiefbau-schafer-roland-gmbh-giffers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1771270328,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Pascal Stritt",
+        "author_photo": "/images/reviews/garten-und-tiefbau-schafer-roland-gmbh-giffers/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1599650803,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Blanchard Angie",
+        "author_photo": "/images/reviews/garten-und-tiefbau-schafer-roland-gmbh-giffers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1544717163,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

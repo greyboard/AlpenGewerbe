@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJoVu7gYr8jkcR3VTobDwgZW4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "SDW",
+        "author_photo": "/images/reviews/bowee-gartenbau-ag-lenk/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einzigartiger Galabauer, professionell, freundlich",
+        "time": 1581112236,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Volker Schwarz",
+        "author_photo": "/images/reviews/bowee-gartenbau-ag-lenk/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1760026842,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Lenny",
+        "author_photo": "/images/reviews/bowee-gartenbau-ag-lenk/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1726478303,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Mätzler",
+        "author_photo": "/images/reviews/bowee-gartenbau-ag-lenk/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1672951167,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kurt Buehler",
+        "author_photo": "/images/reviews/bowee-gartenbau-ag-lenk/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1648714491,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

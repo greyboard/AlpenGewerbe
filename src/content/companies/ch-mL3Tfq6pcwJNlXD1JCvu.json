@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJfSicFC-4kUcRPv93f9hGao0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "M B",
+        "author_photo": "/images/reviews/gasser-gartenbau-landschaftsbau-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Gasser hat den Vorgarten unseres EFH in Riehen ungestaltet, die Einzäunung sowie das Gartentor ausgetauscht und die Vorgarten-Bepflanzung erneuert. Ein grosses Projekt an einem etablierten Garten und wir sind sehr zufrieden mit dem Kundenservice, den Ideen zur Neugestaltung des Gartens/zur neuen Bepflanzung / Austausch der Einzäunung, mit den fundierten und sehr sorgfältig arbeitenden Mitarbeitenden und mit der Kommunikation während des gesamten Prozesses. Das Ergebnis kann sich sehen lassen. Gerne wieder!",
+        "time": 1686566972,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Emboelektro Bodmer",
+        "author_photo": "/images/reviews/gasser-gartenbau-landschaftsbau-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma... alles hat geklappt wie besprochen und nach Angebot offeriert. Super Arbeiter die Kundenorientiert und sauber arbeiten.\n\nBesten Dank für den Schönen Garten",
+        "time": 1681201726,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stephan Gschwind",
+        "author_photo": "/images/reviews/gasser-gartenbau-landschaftsbau-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr angenehmes Unternehmen… rasche und speditive Abwicklung des Auftrages… Gute Preisgestaltung",
+        "time": 1681147163,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marc Lutz",
+        "author_photo": "/images/reviews/gasser-gartenbau-landschaftsbau-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super kompetente Fachleute und kennen ihr Handwerk! Immer wieder gerne.",
+        "time": 1681147321,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Susanne Nura Ince",
+        "author_photo": "/images/reviews/gasser-gartenbau-landschaftsbau-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gut",
+        "time": 1629260295,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

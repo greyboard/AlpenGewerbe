@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJge-MqAvHhEcRo1cUGop2cd8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 100,
+    "reviews": [
+      {
+        "author_name": "Renata Stury",
+        "author_photo": "/images/reviews/urech-garten-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine bekannte Gärtnerei in Chur. Sehr kreatives Team. Zaubern wunderschöne Sachen. Ein Besuch lohnt sich. Tolles Ambiente und schön gestalteter Laden.\nDie Weihnachtsausstellung  war der Hammer. Sehr grosszügig die Verpflegung  mit Suppe und Glühwein, Punsch und Guazli.",
+        "time": 1731794892,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "M. B.",
+        "author_photo": "/images/reviews/urech-garten-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von Herzen möchte ich mich für den unglaublich freundlichen Austausch und die liebevolle Dienstleistung bedanken.\nMeine Kusine hat aus dem Ausland eine Lieferung auf den Friedhof veranlasst – und Urech war einer der wenigen, die bereit waren, dies möglich zu machen.\nDie Blumen waren wunderschön, und auch die ,,Karte aus Stein'' hat uns sehr berührt.\nIch danke Ihnen von Herzen für alles – für Ihre Mühe, Ihre Herzlichkeit und den respektvollen Umgang.",
+        "time": 1762327120,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Gerda Ackermann",
+        "author_photo": "/images/reviews/urech-garten-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wunderschöne Auswahl an Sträussen, Grünpflanzen und Pflanzen für den Garten! Es werden auch coole Workshops angeboten, die sehr zu empfehlen sind!",
+        "time": 1759242506,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Margot Oertig-Jäger",
+        "author_photo": "/images/reviews/urech-garten-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Habe ein Gesteck für meine Mutter bestellt. Es war wunderschön! Sie freute sich riesig. Und es hat sooo lange gehalten (super Qualität)! Vielen herzlichen Dank!!",
+        "time": 1615716342,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jan",
+        "author_photo": "/images/reviews/urech-garten-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin vom hervorragenden Service wirklich beeindruckt. Dieses Level an proaktiver Lösungssuche und Beratung ist man sich nicht mehr gewohnt.\nMein gewünschtes Produkt war nicht im Angebot. Das hat das Verkaufspersonal nicht davon abgehalten mein Problem zu lösen. Es hat äussert kreativ und effizient eine Alternative selbst hergestellt.\nDas Ergebnis war sehr zufriedenstellend und der Preis mehr als fair.\nHier komme ich sehr gerne wieder!",
+        "time": 1720248122,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

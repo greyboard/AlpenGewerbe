@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJWW0qdaowjkcRFbYV19NRxr4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Christoph Meyer",
+        "author_photo": "/images/reviews/kuenzi-peter-ag-ittigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir als Immobilienverwaltung (managimmos.ch) arbeiten schon seit langer Zeit mit der Firma Künzi zusammen und waren stets sehr zufrieden. Sie machen ihre Arbeit top, können wir nur weiterempfehlen.",
+        "time": 1667827533,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "marc",
+        "author_photo": "/images/reviews/kuenzi-peter-ag-ittigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompentent, Pünklich, einwandfreie Ausführung",
+        "time": 1578921466,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Beat Amport",
+        "author_photo": "/images/reviews/kuenzi-peter-ag-ittigen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fachbetrieb nahe der Hauptstadt",
+        "time": 1530815313,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Jean-Pierre Pfander",
+        "author_photo": "/images/reviews/kuenzi-peter-ag-ittigen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Sehr zufrieden",
+        "time": 1545458484,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Nicola Kellerhals",
+        "author_photo": "/images/reviews/kuenzi-peter-ag-ittigen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Domenic zittert!",
+        "time": 1575467722,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

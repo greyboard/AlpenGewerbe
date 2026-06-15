@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT8-rsDMfjkcROimQboPjqi8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Shukri Alilaj",
+        "author_photo": "/images/reviews/bs-color-gmbh-maler-gipser-dekoration-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert.\n-Top Arbeit\n-Kreativ\n-Zuverlāssig\n-Flexibel\n-Top Preis\n\nEine Arbeit, der kein zweiter macht",
+        "time": 1747158134,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stephan Rychener",
+        "author_photo": "/images/reviews/bs-color-gmbh-maler-gipser-dekoration-biel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schöne und genaue Arbeiten!",
+        "time": 1736265934,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Emro Redjepi",
+        "author_photo": "/images/reviews/bs-color-gmbh-maler-gipser-dekoration-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Dieses Unternehmen arbeitet äußerst professionell. Die Mitarbeiter sind absolute Experten, die sich mit vollem Einsatz ihrer Arbeit widmen, und dazu noch sehr sympathische Menschen. Ich freue mich sehr, Sie kennengelernt zu haben und wünsche Ihnen alles Gute! 👋",
+        "time": 1768395881,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Andreas Heer",
+        "author_photo": "/images/reviews/bs-color-gmbh-maler-gipser-dekoration-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute und präzise Arbeit, gut gemacht und zu einem fairen Preis. Ich kann Bes uneingeschränkt empfehlen.",
+        "time": 1766091089,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Elxon Bajrami",
+        "author_photo": "/images/reviews/bs-color-gmbh-maler-gipser-dekoration-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Spitze!",
+        "time": 1740469256,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "li-y2aqwjfsmbzrvwjIIB3k",
   "slug": "die-werkstaette-anstalt-ruggell",
-  "name": "die WERKstätte Anstalt",
+  "name": "Die Werkstätte Ruggell Anst. FL1 Partner",
   "branchen": [
     "elektriker"
   ],
@@ -25,5 +25,38 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqXq-nfE6m0cRdTMQedhPZ-8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Marco Naef",
+        "author_photo": "/images/reviews/die-werkstaette-anstalt-ruggell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung. Sehr schneller Service. Faire Preise",
+        "time": 1622047040,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "B-M V",
+        "author_photo": "/images/reviews/die-werkstaette-anstalt-ruggell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725654416,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "RC Flugkanal Meier",
+        "author_photo": "/images/reviews/die-werkstaette-anstalt-ruggell/reviewer_3.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1692100746,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

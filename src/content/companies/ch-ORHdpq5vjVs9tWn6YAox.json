@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJsV0oLqfwj0cRsP6no0_T2IE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Marijana Lechner",
+        "author_photo": "/images/reviews/blaettler-sanitaere-anlagen-ag-hergiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte eine riesige Panne zuhause mit einem kaputten Abflussrohr und 3 schlecht bis nicht funktionierenden Wasserhähnen, die ersetzt werden mussten. Noch bei der ersten Begegnung mit Enis, habe ich bemerkt, dass er ein kompetenter, egagierter und gewissenhafter Fachmann ist. Er hat alles sehr sorgfältig gemacht, alles kontrolliert und war auch sehr effizient. Ich bin der Firma Blättler sehr dankbar und würde sie weiter empfehlen.",
+        "time": 1771610498,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Melanie Brand",
+        "author_photo": "/images/reviews/blaettler-sanitaere-anlagen-ag-hergiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiger Sanitärbetrieb. Termine werden eingehalten, die Arbeiten sorgfältig und fachgerecht ausgeführt. Die Beratung ist freundlich, verständlich und lösungsorientiert. Man fühlt sich gut betreut – klare Empfehlung.",
+        "time": 1767718750,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Kita / Spielgruppe / Lernwerkstatt Schlupfhuis",
+        "author_photo": "/images/reviews/blaettler-sanitaere-anlagen-ag-hergiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin rundum begeistert von der Zusammenarbeit mit der Firma Blättler!\n\nSchon in der Planungsphase wurde ich hervorragend beraten. Herr Markus Bachmann hat es geschafft, meine Vorstellungen nicht nur zu verstehen, sondern sogar zu übertreffen und das, obwohl es schwierig war, meine Vorstellungen in Worte zu fassen. Mit viel Feingefühl und Erfahrung hat er meinen Geschmack und meine Bedürfnisse perfekt erkannt. Besonders beeindruckt hat mich, dass zusätzlich noch durchdachte Vorschläge gemacht wurden, wie man das Bad weiter optimieren und modernisieren kann.\n\nDie Umsetzung durch Herrn Jérôme Kuhn war ebenso überzeugend: sehr präzise, äusserst sauber und mit einem hohen Qualitätsanspruch.\n\nHerzlichen Dank an das gesamte Team von Blättler für die professionelle und angenehme Zusammenarbeit!",
+        "time": 1756795199,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Gottfried Stadelmann",
+        "author_photo": "/images/reviews/blaettler-sanitaere-anlagen-ag-hergiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bei mir war Herr Enis Sahiti, ein sehr kompetenter Mitarbeiter von Blättler Sanitär. Ich kann ihn absolut empfehlen – die Arbeit war genau so, wie man sie sich wünscht. Besten Dank!",
+        "time": 1761919056,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Ferdy Müller",
+        "author_photo": "/images/reviews/blaettler-sanitaere-anlagen-ag-hergiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kundenfreundlich",
+        "time": 1568115185,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

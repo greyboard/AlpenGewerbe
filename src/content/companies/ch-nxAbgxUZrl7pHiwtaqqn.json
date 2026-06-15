@@ -1,7 +1,7 @@
 {
   "id": "ch-nxAbgxUZrl7pHiwtaqqn",
   "slug": "rossato-rossi-suisse-chiasso",
-  "name": "ROSSATO & ROSSI_Suisse",
+  "name": "ROSSATO & ROSSI",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJy_HqsJ-dhkcRUrtRohDP4pw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Vittorio Cugola",
+        "author_photo": "/images/reviews/rossato-rossi-suisse-chiasso/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe Davide bereits für diverse Metallarbeiten beauftragt: Lieferung und Montage von Toren, Zäunen, Sonnenschutz, Loch- und Streckmetall, Vordächern und Markisen. Die Qualität seiner Arbeit ist hervorragend, mit viel Liebe zum Detail und erstklassigen Oberflächen. Neben der hohen Qualität schätzte ich seine Erreichbarkeit, seine Beratungskompetenz und seine funktionalen und ästhetisch ansprechenden Lösungen. Er ist ein zuverlässiger Partner, der Termine und Vereinbarungen einhält. Absolut empfehlenswert!",
+        "time": 1777390036,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Massimo Andreoli",
+        "author_photo": "/images/reviews/rossato-rossi-suisse-chiasso/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionell, schnell, mehr als fairer Preis, absolut empfehlenswert",
+        "time": 1777387860,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Mirco Bonfante",
+        "author_photo": "/images/reviews/rossato-rossi-suisse-chiasso/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sie wissen immer, wie sie einem die richtigen Ratschläge geben können... Sehr empfehlenswert.",
+        "time": 1777404440,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "cristiano stopazzola",
+        "author_photo": "/images/reviews/rossato-rossi-suisse-chiasso/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Davide ist der Sohn und Enkel der Kunst. Obwohl er noch jung ist, birgt er die Erfahrung und die Tischlerlösungen von drei Generationen in sich und ist auch sehr gut darin, Einrichtungsgegenstände zu schaffen. Empfohlen",
+        "time": 1706209153,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Davide Berta",
+        "author_photo": "/images/reviews/rossato-rossi-suisse-chiasso/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich arbeite seit mehreren Jahren sehr gerne mit diesem Unternehmen zusammen.\nDavide, der Inhaber, findet immer eine schnelle, effektive und preisgünstige Lösung. Ob größte und komplexeste Metallbauprojekte oder feinste Details – Rossato & Rossi – Suisse ist die richtige Wahl.",
+        "time": 1707229061,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

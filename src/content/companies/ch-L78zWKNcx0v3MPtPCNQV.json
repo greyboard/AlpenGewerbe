@@ -26,5 +26,39 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvQ2uLwnIhUcRpoOgApuo_qs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Gianni- Il ghurmet",
+        "author_photo": "/images/reviews/misa-costruzioni-sagl-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1638006575,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Camilla Boccato",
+        "author_photo": "/images/reviews/misa-costruzioni-sagl-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1497972158,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

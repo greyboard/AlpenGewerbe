@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJhdGLw61DjkcRGj8FnvKNYUE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Yvan Maradan",
+        "author_photo": "/images/reviews/d-julmy-ag-rechthalten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1620749842,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "David Schaller",
+        "author_photo": "/images/reviews/d-julmy-ag-rechthalten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1619863464,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Sibille Müller",
+        "author_photo": "/images/reviews/d-julmy-ag-rechthalten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1606296221,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

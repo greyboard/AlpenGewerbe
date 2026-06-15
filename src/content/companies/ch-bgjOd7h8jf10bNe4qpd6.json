@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSRtjk5wEkEcRD9QQuwCN-Y8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 43,
+    "reviews": [
+      {
+        "author_name": "Stefan Huwiler",
+        "author_photo": "/images/reviews/buetler-elektro-telecom-ag-muri/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Bütler Elektro Telecom AG hat bei unserem Neubau die Elektroinstallationen ausgeführt. Wir sind mit den Leistungen äusserst zufrieden, super Beratung, sehr gute Qualität, Termin eingehalten, faire Preise / Abrechnung. An dieser Stelle nochmals ein grosses Dankeschön an das Team von Sins.",
+        "time": 1766244555,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Rene Burri",
+        "author_photo": "/images/reviews/buetler-elektro-telecom-ag-muri/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Nach 10 Minuten Fehlersuche beim Internetanschluss wurden 25 Minuten für die Rapporterstellung verrechnet (Der Servicetechniker musste nichts ändern oder ersetzen) Das erstellen des Rapportes kostet somit Fr. 56.00!",
+        "time": 1766155686,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "VALOP",
+        "author_photo": "/images/reviews/buetler-elektro-telecom-ag-muri/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind seit längerem Kunden von Bütler Elektro Telecom Ag. Sie haben immer einen super Service und sehr freundliches Personal.\nEinfach Top!",
+        "time": 1743135663,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rudolf Spieser",
+        "author_photo": "/images/reviews/buetler-elektro-telecom-ag-muri/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnellere und kompetentere Problemlösung geht nicht 👍🏻",
+        "time": 1773755783,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jaap",
+        "author_photo": "/images/reviews/buetler-elektro-telecom-ag-muri/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei meiner Anfrage wurde ich äusserst nett und kompetent informiert. Die Service, welche sehr zeitnah ausgeführt wurde, war ebenfalls sehr freundlich und kompetent. So sollte eine kurzfristige Anfrage behandelt werden. Top!!",
+        "time": 1711622288,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

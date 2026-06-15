@@ -26,5 +26,39 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJVVVV8ok5jkcRdog6pX6kJNc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Fischer Ruth",
+        "author_photo": "/images/reviews/glasdesign-bern-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schöne Gläser",
+        "time": 1595059765,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Aleksey Laiko",
+        "author_photo": "/images/reviews/glasdesign-bern-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697960987,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJJcIhqLhNhEcR2-r_SYLJJ6c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Fabio Delco",
+        "author_photo": "/images/reviews/homedile-impresa-di-ristrutturazioni-e-gessatura-sagl-claro/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Höchste Zuverlässigkeit und präzises Arbeiten",
+        "time": 1755967960,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Dennis Russello",
+        "author_photo": "/images/reviews/homedile-impresa-di-ristrutturazioni-e-gessatura-sagl-claro/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super kompetent, herausragende und qualitativ hochwertige Arbeit! 😌",
+        "time": 1726168621,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

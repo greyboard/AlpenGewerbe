@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0S0A9705jkcReWRZwyTZ1is",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 31,
+    "reviews": [
+      {
+        "author_name": "BulanoMula",
+        "author_photo": "/images/reviews/glas-faeh-betriebs-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "saubere und schnelle arbeit, sehr freundliche bedienung mit korrekten Preisen.\nHabe mir 2 \"Glastüren\" für mein Terrarium zuschneiden lassen. Innerhalb von 3 Tagen fertiggestellt. Passt perfekt zum Terrarium, könnte nicht besser sein.",
+        "time": 1736536725,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "mdt Leo",
+        "author_photo": "/images/reviews/glas-faeh-betriebs-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Habe kürzlich bei der Glas Fäh AG eine Glastischplatte bestellt. Ich wurde vor Ort im Büro zuvorkommend, nett und mit Fachwissen bedient – wie man in den Wald hineinruft, so schallt es heraus…\nDie Lieferung zu mir nach Hause erfolgte nach knapp zwei Wochen und wurde gleich montiert. Zuverlässiger Service und gute Qualität mit super Preis – Leistung Verhältnis. Immer wieder Gerne :)",
+        "time": 1484295651,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Mira 2015",
+        "author_photo": "/images/reviews/glas-faeh-betriebs-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente, professionelle Beratung. Freundlich und zuvorkommend. Ersatz Glasplatte für einen Tisch: bin mit der Glasplatte sehr zufrieden: passt alles. Und der Preis dafür was sehr fair. Einmal und immer wieder gerne! 😃 Kann die Glas Fäh nur empfehlen.",
+        "time": 1606501728,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Benita Lüscher",
+        "author_photo": "/images/reviews/glas-faeh-betriebs-gmbh-bern/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Leider wurde ich schlecht beraten/informiert (Offerte war nicht sehr detailliert und hat auf wichtige Hinweise verzichtet) und bei der Arbeit vor Ort wurde nicht ordentlich und sauber gearbeitet - beim Rahmen vom Fenster wurde eine Spalt ca. 10 cm herbeigeführt. Sieht unschön aus und bei der Nachfrage, ob man da was machen kann, keine Reaktion und Schuldabweisung. Schade bei dem vielen Geld das ich dafür bezahlt habe - voller Betrag. Für mich eine Enttäuschung.",
+        "time": 1665471884,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Emanuel Huber",
+        "author_photo": "/images/reviews/glas-faeh-betriebs-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Das benötigte Glas wurde schnell ausgemessen und offeriert, pünktlich geliefert und sauber montiert, und alle Mitarbeiter bei Glas Fäh AG waren stets motiviert und äusserst freundlich. Solche Handwerker wünscht man sich!",
+        "time": 1586414480,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

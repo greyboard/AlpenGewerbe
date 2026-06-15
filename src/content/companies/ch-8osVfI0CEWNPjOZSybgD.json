@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJvcT0XtKtj0cRXIAOBODtnn0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Marc Santschi",
+        "author_photo": "/images/reviews/bzs-heizung-sanitaer-ag-spiez/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Heizung durch eine WP ersetzt und das komplette Badezimmer saniert. Der Auftrag ging an BZS. Von der Beratung über die Ausführung bis zu Preis / Leistung haben die Jungs von BZS die vollen 5 Sterne verdient!",
+        "time": 1713102602,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Perry Leeuwenhaag",
+        "author_photo": "/images/reviews/bzs-heizung-sanitaer-ag-spiez/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir wurden bei einem Notfall (Wasserleckage) ausserordentlich rasch, professionell und freundlich bedient.\nHotsun Immo AG",
+        "time": 1676375809,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roland Tschabold",
+        "author_photo": "/images/reviews/bzs-heizung-sanitaer-ag-spiez/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Arbeit merci vilmal sehr zu empfehlen",
+        "time": 1698939067,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Zemri Sejfuli",
+        "author_photo": "/images/reviews/bzs-heizung-sanitaer-ag-spiez/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Immer kompetent und freundlich. 1A und sehr zu empfehlen!",
+        "time": 1546372117,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marco Sulzener",
+        "author_photo": "/images/reviews/bzs-heizung-sanitaer-ag-spiez/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich kann BZS nur empfehlen! Eine super Sanitär Firma",
+        "time": 1583247468,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

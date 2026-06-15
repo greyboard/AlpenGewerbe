@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJCdx2xQQ5jkcRaDKi3odsiNc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Peter Rufener",
+        "author_photo": "/images/reviews/glauser-bau-ag-umbauten-und-sanierungen-nach-mass-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Auftragsabwicklung hat bestens geklappt. Die Arbeiten wurden pünktlich und sauber ausgeführt. Auf ein andermal. Merci viu mau.",
+        "time": 1746600214,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Serafin Home",
+        "author_photo": "/images/reviews/glauser-bau-ag-umbauten-und-sanierungen-nach-mass-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Immer wieder eine tolle und angenehme Zusammenarbeit. Es wurde alles zu unserer vollsten Zufriedenheit erledigt. Ich kann diese Firma bestens weiterempfehlen.",
+        "time": 1666342098,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Isidor Gafner",
+        "author_photo": "/images/reviews/glauser-bau-ag-umbauten-und-sanierungen-nach-mass-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exakt, Termingerecht, Kundenorientiert und den Kostenrahmen stehts eingehalten.\nImmer wieder gerne!!",
+        "time": 1721112360,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jürg Trachsel",
+        "author_photo": "/images/reviews/glauser-bau-ag-umbauten-und-sanierungen-nach-mass-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Angenehme Zusammenarbeit, halten Termine gut ein, Termine tip top.\nImmer wieder gerne.",
+        "time": 1559137819,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Manuela Maurer",
+        "author_photo": "/images/reviews/glauser-bau-ag-umbauten-und-sanierungen-nach-mass-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super kompetente Beratung und Ausführung. Absolut empfehlenswert.",
+        "time": 1523527593,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

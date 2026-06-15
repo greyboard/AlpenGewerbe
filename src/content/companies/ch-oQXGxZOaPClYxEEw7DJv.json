@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJa9pwnTIKkEcRUx8ZlN_xC5I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Velo Zürich GmbH",
+        "author_photo": "/images/reviews/zimmereigenossenschaft-zuerich-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit Jahre ein zuverlässiger, höchst professioneller und flexibler Partner, wenn es darum geht, etwas Baumaterial zu beziehen oder einen kleinen Schreinerauftrag auszuführen.",
+        "time": 1731508331,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hambel",
+        "author_photo": "/images/reviews/zimmereigenossenschaft-zuerich-zuerich/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Die Firma hält sich nicht an Abmachungen!",
+        "time": 1771249771,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Manfred Zillner",
+        "author_photo": "/images/reviews/zimmereigenossenschaft-zuerich-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr angenehm, stimmig und professionell aufgestelltes gutes Team.",
+        "time": 1584599138,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "moin hoi",
+        "author_photo": "/images/reviews/zimmereigenossenschaft-zuerich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich  war do schnuppern es war absolut top.",
+        "time": 1774861340,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Carlo John",
+        "author_photo": "/images/reviews/zimmereigenossenschaft-zuerich-zuerich/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Nicht schlecht",
+        "time": 1488848652,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

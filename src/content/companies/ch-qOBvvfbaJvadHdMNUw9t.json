@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJw7k7SlQhjkcRMFCUL7h2A7o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Aldo Di Nicolantonio",
+        "author_photo": "/images/reviews/schori-kundenmaurer-aussengestaltung-gmbh-meinisberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Schori hat uns von der Offerte, der Vorbereitung, der Ausführung bis zur Rechnungsstellung total überzeugt. Das Resultat - die Renovation des Eingangsbereichs inkl. Treppen und kleiner Terrasse -  ist klasse. Wir bedanken uns für die sehr gute Zusammenarbeit.",
+        "time": 1766749991,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Carole Gerber",
+        "author_photo": "/images/reviews/schori-kundenmaurer-aussengestaltung-gmbh-meinisberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Sanierung der Treppe wurde professionell durchgeführt. Die Arbeiten erfolgten termingerecht, sauber und mit großer Sorgfalt. Die Kommunikation war freundlich und unkompliziert. Ich kann Herrn Schori sehr empfehlen.",
+        "time": 1746563796,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Roger Lüchinger",
+        "author_photo": "/images/reviews/schori-kundenmaurer-aussengestaltung-gmbh-meinisberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unsere Arbeiten wurden sehr professionell und mit Liebe zum Detail ausgeführt. Vor und während der Umsetzung wurden wir stets proaktiv informiert. Wir sind sehr zufrieden und empfehlen David Schori uneingeschränkt weiter!",
+        "time": 1742321815,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Broosh K",
+        "author_photo": "/images/reviews/schori-kundenmaurer-aussengestaltung-gmbh-meinisberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "David Schori führt sehr saubere Arbeiten aus. Genau dass was wir gesucht haben. Kann ich nur empfehlen.",
+        "time": 1738274560,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bozidar Katic",
+        "author_photo": "/images/reviews/schori-kundenmaurer-aussengestaltung-gmbh-meinisberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetent und eine ruhige Arbeitsweise. Dank David",
+        "time": 1761992830,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

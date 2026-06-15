@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqe8J1XwJkEcR5mtkU8MmpXQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Andi Rahn",
+        "author_photo": "/images/reviews/bodenform-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Grosses Dankeschön an die Jungs von Bodenform! Die logistische Aufgabe war herausfordernd, da wir während den Arbeiten nicht ausziehen konnten. Ihr habt uns top beraten, wart sehr flexibel und alle Termine wurden fristgerecht erfüllt. Das alles bei einen super Preis-Leistungsverhältnis, ich kann euch nur weiterempfehlen!",
+        "time": 1722429352,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michaela Moll",
+        "author_photo": "/images/reviews/bodenform-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der wunderbaren Perfektion und genauen Arbeit von Bodenform. Ich bin sehr heikel, doch Bodenform hat mich wirklich zu Tränen gerührt. Einfach großartig, ich bin in unser Parkettboden verliebt. Danke liebes Team von Bodenform !",
+        "time": 1719857755,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sara Fuchser",
+        "author_photo": "/images/reviews/bodenform-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe mir ein Bodenpflegemittel von bodenform in ihrem Onlineshop bestellt. Super unkompliziert, rasche Lieferung. Top Service!",
+        "time": 1762185788,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Leander Muheim",
+        "author_photo": "/images/reviews/bodenform-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hochprofessionell, freundlich, zuvorkommend, kundenorientiert, faire Preise. Ob Parquett oder andere Bodenbeläge, ich würde jederzeit wieder bei Hr. Steiner und seinem Team vorstellig, wenn ich einen neuen Boden bräuchte!",
+        "time": 1747932976,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Paulina Haraldsson",
+        "author_photo": "/images/reviews/bodenform-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die beiden Inhaber Matthias und Yves sind in jeder Phase der Ausführung kompetent, äusserst engagiert und freundlich. Wir schätzen die Bemühungen und haben einen wunderbaren Parkettboden erhalten. Nochmals besten Dank und weiterhin viel Erfolg..",
+        "time": 1711960587,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

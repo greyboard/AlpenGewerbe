@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJp1Ej8AFljEcR1k_MtW8wC2s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Christophe Privet",
+        "author_photo": "/images/reviews/eco-stores-sarl-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nachdem in einer unserer Ferienwohnungen eine Fensterscheibe zu Bruch gegangen war, kontaktierten wir Eco Stores an einem Sonntag, um eine schnelle Reparatur zu veranlassen. Die Mitarbeiter waren schnell vor Ort, die Arbeit wurde sehr professionell ausgeführt und das Problem innerhalb weniger Stunden zu unserer vollsten Zufriedenheit behoben. Wir können Eco Stores uneingeschränkt empfehlen.",
+        "time": 1717425840,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "N Kabou",
+        "author_photo": "/images/reviews/eco-stores-sarl-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe ihre Dienste für Jalousienreparaturen in Anspruch genommen und alles wurde sehr schnell und professionell erledigt! Ich kann diese Firma nur empfehlen!",
+        "time": 1769783348,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Eolia Mupapa Khor",
+        "author_photo": "/images/reviews/eco-stores-sarl-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "„Die Notfall-Glasreparatur wurde hervorragend ausgeführt. Die Techniker waren professionell und schnell. Ich bin mit dem Ergebnis zufrieden.“",
+        "time": 1705670793,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "David Pache",
+        "author_photo": "/images/reviews/eco-stores-sarl-geneve/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Es ist wichtig, einen detaillierten Kostenvoranschlag anzufordern.\nFür einen Fensteraustausch, der den Einbau eines neuen Fensters (ca. 70/50) in einen Holzrahmen, den Ausbau des alten Fensters und die Demontage einer Katzenklappe umfasst, beträgt die gesamte Arbeitszeit laut Techniker etwa eine Stunde.\nDie Rechnung beläuft sich auf 390 CHF.\n\nBitte beachten Sie, dass das auszutauschende Fenster bereits vor Ort war!",
+        "time": 1678274325,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Celine Dil",
+        "author_photo": "/images/reviews/eco-stores-sarl-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Mitarbeiter waren sehr freundlich und haben die Maße schnell genommen und die Tür zügig ausgetauscht.\nIch kann diese Firma uneingeschränkt empfehlen; sie ist in jeder Hinsicht professionell.",
+        "time": 1696496617,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

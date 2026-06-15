@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJS1xxvNH3mkcRBjYcLO_WeMs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–22:00 Uhr",
+    "Dienstag: 07:00–22:00 Uhr",
+    "Mittwoch: 07:00–22:00 Uhr",
+    "Donnerstag: 07:00–22:00 Uhr",
+    "Freitag: 07:00–22:00 Uhr",
+    "Samstag: 07:00–22:00 Uhr",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Marco Stüssi",
+        "author_photo": "/images/reviews/malerbetrieb-marentini-kreuzlingen-tg-kreuzlingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich war rundum zufrieden mit dem Malerbetrieb Marentini!\nBeim Auszug hat Andreas die Türrahmen in unserer Wohnung gestrichen – schnell, sauber und absolut professionell. Die Arbeit wurde flexibel und termingerecht erledigt, und die Kommunikation war freundlich und unkompliziert.\nKann ich uneingeschränkt weiterempfehlen – gerne wieder!",
+        "time": 1760894591,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Karin Rautenberg",
+        "author_photo": "/images/reviews/malerbetrieb-marentini-kreuzlingen-tg-kreuzlingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "In meiner Wohnung standen Maler- und Lackierarbeiten sowie die Verlegung eines Laminatbodens an. Die Decken und Wände sollten gestrichen werden und die Türen/Heizkörper lackiert. Zu diesen Arbeiten hatte ich den Malerbetrieb Marentini beauftragt und bin mit der Durchführung der Arbeiten hochzufrieden. Neben Zuverlässigkeit und  Einhaltung des besprochenen Zeitrahmens wurde sehr sauber und korrekt gearbeitet. Preis und Leistung stimmen absolut überein und auch die Reaktionsschnelle bei Anrufen ist sehr gut. Diesen Betrieb kann man guten Gewissens weiterempfehlen und ich bedanke mich noch einmal für die sehr gute Arbeit.",
+        "time": 1590822878,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Terence Morello",
+        "author_photo": "/images/reviews/malerbetrieb-marentini-kreuzlingen-tg-kreuzlingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Arbeit wurde exakt und sauber ausgeführt. Angenehme Zusammenarbeit und gutes Preis-Leistungs-Verhältnis.",
+        "time": 1724957732,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Anton Oberli",
+        "author_photo": "/images/reviews/malerbetrieb-marentini-kreuzlingen-tg-kreuzlingen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Rasche einwandfreie sehr Gute Arbeitausführung.\nIst sehr gut weiter zu empfehlen.\n\nBesten Dank\nFahrschule Toni",
+        "time": 1630340148,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Melissa Lehner",
+        "author_photo": "/images/reviews/malerbetrieb-marentini-kreuzlingen-tg-kreuzlingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute arbeit, Pünktlich, sehr sauber, korrekt, freundlich und kann ich nur weiter empfehlen:)",
+        "time": 1584029398,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

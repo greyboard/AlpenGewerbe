@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJe7kGvWhIhUcRKjnpNTGQd8c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–16:00 Uhr",
+    "Dienstag: 08:00–16:00 Uhr",
+    "Mittwoch: 08:00–16:00 Uhr",
+    "Donnerstag: 08:00–16:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Simona Schuler",
+        "author_photo": "/images/reviews/gebr-schelbert-ag-muotathal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich durfte die Ausstellung der Schreinerei Gebrüder Schelbert planen und schätze die Zusammenarbeit sehr. Ihre Schränke sind durchdacht, funktional und vereinfachen den Alltag spürbar – in jedem Zuhause.\n\nKlare Lösungen, saubere Ausführung und echte Schreinerqualität. Sehr empfehlenswert.",
+        "time": 1767903693,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Philipp Ochsner",
+        "author_photo": "/images/reviews/gebr-schelbert-ag-muotathal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässig. Vertrauensvoll. Schweizerisch.",
+        "time": 1761576567,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Betschart Hugo",
+        "author_photo": "/images/reviews/gebr-schelbert-ag-muotathal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mit der Arbeit und dem Preis waren wir sehr zufrieden.",
+        "time": 1671613452,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ernst Truttmann",
+        "author_photo": "/images/reviews/gebr-schelbert-ag-muotathal/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Nicht besucht",
+        "time": 1674669219,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Charlotte Rexha-Lambert",
+        "author_photo": "/images/reviews/gebr-schelbert-ag-muotathal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709395934,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

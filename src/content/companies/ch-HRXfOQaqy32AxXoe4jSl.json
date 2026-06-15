@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJXbSx3bqSj0cRllscSjcbqCY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:50 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–11:50 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–11:50 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–11:50 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–11:50 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Enrico Ghidotti",
+        "author_photo": "/images/reviews/slanzi-malen-gipsen-ag-giswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum begeistert von der Arbeit. Von Anfang bis Ende wurde alles sorgfältig und professionell ausgeführt. Das Team war jederzeit zuverlässig, pünktlich und sehr angenehm im Umgang. Besonders hervorheben möchten wir die fachkundige Beratung – wir wurden ehrlich und kompetent unterstützt, sodass wir die beste Lösung für unser Projekt gefunden haben.\nDas Preis-Leistungs-Verhältnis ist absolut fair und transparent. Die Qualität der Arbeit spricht für sich – wir würden jederzeit wieder mit diesem Betrieb zusammenarbeiten und können ihn uneingeschränkt weiterempfehlen!\nVielen Dank für die tolle Arbeit!",
+        "time": 1776015973,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "didi ming",
+        "author_photo": "/images/reviews/slanzi-malen-gipsen-ag-giswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann die slanzi malen gipsen ag uneingeschränkt empfehlen. Wer Wert auf höchste Qualität, Professionalität und Zuverlässigkeit legt, ist hier genau richtig. Ich vergebe 5 Sterne und würde jederzeit wieder auf die Dienste der slanzi malen gipsen ag zurückgreifen.",
+        "time": 1723474919,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fränzi Gasser",
+        "author_photo": "/images/reviews/slanzi-malen-gipsen-ag-giswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sympathische Geschäftsführung, jung, mutig, innovativ und offen für Neues und Mehr mit exakten und freundlichen Mitarbeiter/innen.\nSehr empfehlenswert und Fachkompetent im Bereich Malen und Gipsen.",
+        "time": 1723663987,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jenna schmid",
+        "author_photo": "/images/reviews/slanzi-malen-gipsen-ag-giswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der slanzi malen gipsen ag ist stets von großem Vertrauen geprägt und zeichnet sich durch eine hohe Zuverlässigkeit aus.",
+        "time": 1737457141,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "andreas Slanzi",
+        "author_photo": "/images/reviews/slanzi-malen-gipsen-ag-giswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wenn jemand das Malerhandwerk beherrscht, dann Slanzi malen gipsen AG. Profis auf ihrem Gebiet",
+        "time": 1721336326,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

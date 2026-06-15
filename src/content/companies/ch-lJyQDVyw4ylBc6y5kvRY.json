@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRYn8cH9DhUcReuZneBA74uY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Ursi Gerig",
+        "author_photo": "/images/reviews/walter-zwyssig-gmbh-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Mitarbeitenden der Walter Zwyssig GmbH haben die Gisperarbeiten bei der Sanierung unseres Eigenheims zu unserer vollsten Zufriedenheit umgesetzt. Geschätzt haben wir die unkomplizierte Zusammenarbeit, die kompetente Beratung durch Walter Zwyssig und die innovative Idee mit dem Natursteinputz.\nWir können den Betrieb wärmstens weiterempfehlen. Herzlichen Dank für die gelungene Ausführung.",
+        "time": 1764502948,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Marlis Kempf",
+        "author_photo": "/images/reviews/walter-zwyssig-gmbh-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit von Walter Zwyissig GmbH rundum zufrieden. Sowohl die Innen- als auch die Aussenarbeiten an unserem Neubau wurden äusserst professionell, sauber und termingerecht ausgeführt. Die Qualität der Ausführung ist hervorragend – präzise, sorgfältig und mit viel Liebe zum Detail. Besonders geschätzt haben wir die zuverlässige Kommunikation, die kompetente Beratung sowie die angenehme Zusammenarbeit während des gesamten Projekts. Man merkt sofort, dass hier echtes Fachwissen und Erfahrung vorhanden sind. Wir können Walter Zwyssig und sein Team uneingeschränkt weiterempfehlen und würden jederzeit wieder mit ihnen arbeiten. Vielen Dank für die tolle Arbeit!",
+        "time": 1771445272,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Kurt Truttmann",
+        "author_photo": "/images/reviews/walter-zwyssig-gmbh-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit dem Anhydrit-Sichtestrich, vielen Dank. Sehr guter Service, klare Kommunikation und faires Preis-Leistungsverhältnis für top Arbeit.",
+        "time": 1745525937,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kevin Mueller",
+        "author_photo": "/images/reviews/walter-zwyssig-gmbh-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin regelmässig Kunde von Gisper Zwyssig mit kleineren Arbeiten. Diese Leute verstehen ihr Handwerk und überzeugen mit ihrer hilfsbereiten, sympathischen Art. Weiter so!",
+        "time": 1726317959,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adolf Hänni",
+        "author_photo": "/images/reviews/walter-zwyssig-gmbh-altdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Firma leistet sehr guten Service. Freundliche Arbeiter. Firmeninhaber Walter Zwyssig hält sich an die Termine. Speditive Arbeitserledigung. Genau nach dem Motto: \"Der Kunde ist König\"! Danke Walti.",
+        "time": 1571394243,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

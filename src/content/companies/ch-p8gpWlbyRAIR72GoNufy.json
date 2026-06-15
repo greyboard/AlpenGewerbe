@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJXXSajI7TmkcRQuQw53JMwfI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Ivo Hahn",
+        "author_photo": "/images/reviews/dragan-simic-ag-mollis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dragan hat perfekte Arbeit in hoher Qualität geliefert. Von der Planung bis zur Umsetzung meiner neuen Wärmepumpe inkl. Koordination der anderen Handwerker. Die Reaktion auf Terminverschiebungen wegen unvorhergesehenen baulichen Problemen war absolut professionell!\nTop Kundenservice für alle administrativen Dinge wie Baubewilligung, Fördergeldantrag usw. - nur noch unterschreiben und einschicken.\nIch kann die Dragan Simic AG nur empfehlen!",
+        "time": 1689970409,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rita Schürch",
+        "author_photo": "/images/reviews/dragan-simic-ag-mollis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dank dem schnellen und professionellen Einsatz von Herrn Simic haben wir wieder immer heisses Wasser. Er hat den Boiler schnell, gründlich und sehr sauber entkalkt. Vielen Dank... wir denken jeden Tag an Sie, wenn wir uns beim Abwaschen die Finger verbrennen. 😊",
+        "time": 1756743387,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Briis",
+        "author_photo": "/images/reviews/dragan-simic-ag-mollis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich hatte ein Problem mit den Heizkosten. Die waren im Vergleich zu meinem Nachbarn im Haus viel zu hoch. Die Firman, welche die Heizung eingebaut hatte, fand keinen Fehler. Auch die Firman Neovac, welche die Ablesedaten verarbeitete fand keine Fehler.\nHerr Simic kam, prüfte die Installation und merkte, dass die Hälfte aller Ventile defekt waren. Er hat daraufhin alle Ventile ersetzt. Ich bin sehr froh, Herrn Simic gerufen zu haben. Denn ich habe hunderte Franken über 2 Jahre zu viel bezahlt.\nIch kann Herrn Simic nur empfehlen. Er ist gewissenhaft, arbeitet exakt und sauber. Ein herzliches Dankeschön !",
+        "time": 1739379724,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Valeria Schwarzmann",
+        "author_photo": "/images/reviews/dragan-simic-ag-mollis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bei Dragan Simic AG ist man einfach, schnell und komptent beraten. Herr Simic hat ein grosses Know How und ist super zuverlässig. Man fühlt sich gut aufgehoben. Haben sie ein Problem mit ihrer Heizung oder sind sie auf der Suche nach einem neuen Heizsystem? Wir können ihnen die Firma Dragan Simic AG nur ans herz legen.",
+        "time": 1715889403,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Peter Oswald",
+        "author_photo": "/images/reviews/dragan-simic-ag-mollis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei meinem Umbau von 2 Zimmern hat Herr Simic mehrere Heizkörper versetzt und die Leitungen neu unter Putz angepasst.\nFachlich und terminlich hat alles bestens geklappt. Wir kamen so zu einer optimalen Lösung.\nVielen Dank für Ihre wertvolle Arbeit.\nFamilie Oswald, Niederurnen",
+        "time": 1707409519,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

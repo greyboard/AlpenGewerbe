@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJPyVHboHSmkcRaO3JxfylGyo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Daniel Fischli",
+        "author_photo": "/images/reviews/schreiner-schlittler-ag-niederurnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind voll und ganz zufrieden mit der neuen Küche!\nSuper Arbeit 👍",
+        "time": 1710844084,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Werner Schaufelberger",
+        "author_photo": "/images/reviews/schreiner-schlittler-ag-niederurnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Truppe, machen Super Arbeit...",
+        "time": 1610203597,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Manuel Gilg",
+        "author_photo": "/images/reviews/schreiner-schlittler-ag-niederurnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir empfehlen die Schreinerei Schlittler AG herzlichst weiter!\n\n-sehr freundlicher Kontakt!\n-schnelle und unkomplizierte Auftragsabwicklung!\n-Preis-Leistung —> TOP!\n\nGerne wieder!",
+        "time": 1679851266,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Werner Waldvogel",
+        "author_photo": "/images/reviews/schreiner-schlittler-ag-niederurnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung und Ausführung.",
+        "time": 1714556992,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Jetzer",
+        "author_photo": "/images/reviews/schreiner-schlittler-ag-niederurnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "danke für die tolle  Zusammenarbeit..macht Freude !",
+        "time": 1561646810,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9wPpsu7kWqwRjZ5XuqevxxQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–21:00 Uhr",
+    "Dienstag: 08:00–21:00 Uhr",
+    "Mittwoch: 08:00–21:00 Uhr",
+    "Donnerstag: 08:00–21:00 Uhr",
+    "Freitag: 08:00–21:00 Uhr",
+    "Samstag: 08:00–21:00 Uhr",
+    "Sonntag: 08:00–21:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Soul Seeds",
+        "author_photo": "/images/reviews/swiss-maler-reinigungsservice-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service. Wir waren sehr zufrieden mit der Endreinigung und den Reparaturen. Sehr empfehlenswert!",
+        "time": 1772986000,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Robert IONUT",
+        "author_photo": "/images/reviews/swiss-maler-reinigungsservice-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles top! Ich habe die Firma über eine Empfehlung kennengelernt.\nWohnung wurde komplett gestrichen und sauber übergeben.\nBei der Abgabe war alles in Perfekt, und sie waren sehr schnell und pünktlich.\nSehr empfehlenswert!",
+        "time": 1762101377,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Design & Build Co",
+        "author_photo": "/images/reviews/swiss-maler-reinigungsservice-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr saubere Ausführung und viel Aufmerksamkeit für Details. Man sieht die Erfahrung und Professionalität. Sehr gutes Preis-Leistungs-Verhältnis – kann ich mit gutem Gewissen empfehlen.",
+        "time": 1774712302,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Dominik Kiegerll",
+        "author_photo": "/images/reviews/swiss-maler-reinigungsservice-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr nett, zuverlässig und unkompliziert. Angenehme Kommunikation – gerne weiterzuempfehlen.",
+        "time": 1770295663,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "X1 X2",
+        "author_photo": "/images/reviews/swiss-maler-reinigungsservice-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir arbeiteten mit ihnen an verschiedenen Projekten für Fotografie Workshops. Sie haben sich um die Örtlichkeiten gekümmert, die wir vorgängig für unsere ca. 10-15 Teilnehmer gemietet hatten.\nDer Dienstleistungen wurden sehr zuverlässig ausgeführt und waren auch preiswert.\n\nWe were working with them on several projects for photography workshops. They took care of the venues we had to rent for about fifteen participants. It was both a highly reliable and an affordable service.\nPascal O.",
+        "time": 1775515437,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

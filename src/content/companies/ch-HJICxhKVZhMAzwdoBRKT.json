@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJGxn3fyAthUcRsY1nDPL4sLI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Stephan Meier",
+        "author_photo": "/images/reviews/rauner-ag-plattenbelaege-chemineebau-netstal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Qualitativ sehr gute und sauber ausgeführte Plattenarbeiten,bei Badumbau Ferienhaus Schlattberg Luchsingen.\nEs wurde alles nach unseren Wünschen umgesetzt. Wir können die Max Rauner AG mit bestem Gewissen weiter empfehlen.",
+        "time": 1668949864,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Astrid Von Flüe",
+        "author_photo": "/images/reviews/rauner-ag-plattenbelaege-chemineebau-netstal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Qualitätsrbeit. Zeitmanagement stimmt.",
+        "time": 1616565622,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dario Vitale",
+        "author_photo": "/images/reviews/rauner-ag-plattenbelaege-chemineebau-netstal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1611658172,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Lars Keller",
+        "author_photo": "/images/reviews/rauner-ag-plattenbelaege-chemineebau-netstal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1772104287,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Kickdown6 TMS",
+        "author_photo": "/images/reviews/rauner-ag-plattenbelaege-chemineebau-netstal/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1675517341,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

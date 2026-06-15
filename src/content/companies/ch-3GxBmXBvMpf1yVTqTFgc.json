@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ2QfP7qgmkcRdB4ij6lvPdE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 60,
+    "reviews": [
+      {
+        "author_name": "Verena Hirsberger",
+        "author_photo": "/images/reviews/guyer-waerme-und-wasser-ag-zuerich/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Pumpe im Vergleich mit Konkurrenten erheblich teuerer verrechnet. Zudem unfreundlicher Techniker und Büro/Chef.",
+        "time": 1757423241,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Juerg Rieser",
+        "author_photo": "/images/reviews/guyer-waerme-und-wasser-ag-zuerich/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Projekt Erdsonde:\nExtrem lange Kommunikationswege. Rückmeldungen erfolgen nur nach mehrmaligem Einfordern und unnötigem Druck. Katastrophale Subunternehmer. Entgegen erster Liefer-Bestätigung Markenwechsel notwendig.\nAm Ende aber funktionierende Anlage in Betrieb. Dank gilt dem Montageteam von Guyer.",
+        "time": 1726386948,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrick Rohn",
+        "author_photo": "/images/reviews/guyer-waerme-und-wasser-ag-zuerich/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Dienstleistung (Keller leer pumpen nach Boilerdefekt) war ok, aber die Rechnung hierfür reine Abzockerei. Für den Weg Wädenswil/Zürich (Anfahrt/Rückfahrt) wurden mir 2 Stunden zu total CHF 450 (zuzügl. MwSt) in Rechnung gestellt (hinzu kam natürlich die Arbeitszeit vor Ort). Ich werde dieses Unternehmen zukünftig meiden.",
+        "time": 1637423712,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian de Vries",
+        "author_photo": "/images/reviews/guyer-waerme-und-wasser-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine Garantieleistung wegen Unterdruck an der Badewanne. Der Monteur hat sich immer freundlich telefonisch angemeldet und hat konsequent eine gute Lösung erarbeitet. Das Ergebnis ist top - eine gute Kundenbetreuung.",
+        "time": 1554888248,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "christian Bernert",
+        "author_photo": "/images/reviews/guyer-waerme-und-wasser-ag-zuerich/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Versuchten mit eine Bauteil für 1000 CHF einzubauen, dass es für 250 CHF zu kaufen gibt.\n\nUnseriös",
+        "time": 1726552052,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

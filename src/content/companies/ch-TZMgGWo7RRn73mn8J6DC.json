@@ -1,7 +1,7 @@
 {
   "id": "ch-TZMgGWo7RRn73mn8J6DC",
   "slug": "w-j-kobel-ag-bern",
-  "name": "W. + J. Kobel AG",
+  "name": "Kobel AG Baugeschäft",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJH_HeZxc5jkcRIxEkzG7wROg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Melanie Schmitt",
+        "author_photo": "/images/reviews/w-j-kobel-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben beim Umbau eines Einfamilienhauses die Firma Kobel angefragt, um eine Küche, einen Bodenbelag und eine Wand im Eingangsbereich zu entfernen, inklusive Abklärung, ob es sich bei der Wand um ein tragendes Element handelt. Die Arbeiten wurden zu unserer vollsten Zufriedenheit ausgeführt. Die Firma war professionell, flexibel und fair im Preis. Der Kontakt war stehts unkompliziert und angenehm. Wir danken der Firma Kobel und werden sie auch für zukünftige Projekte anfragen.",
+        "time": 1771341079,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "reto köchli",
+        "author_photo": "/images/reviews/w-j-kobel-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit Kobel AG macht die Zusammenarbeit immer Freude.\nTermingerecht, saubere Arbeit und stets freundlich. Von Generation zu Generation TOP.",
+        "time": 1779806720,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Jonathan Krebs",
+        "author_photo": "/images/reviews/w-j-kobel-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Mitarbeitenden des Baugeschäfts Kobel haben bei Umbau und Sanierung unseres Einfamilienhauses Rückbau-, Baumeister- und Plattenarbeiten ausgeführt und wir waren sehr zufrieden. Vom ersten Kontakt an bis zum Schluss hat alles bestens geklappt, insbesondere auch die Zusammenarbeit mit den anderen Unternehmern. Wir haben Herrn Kobel und seine Mitarbeitenden stets als sehr zuvorkommend, flexibel und professionell erlebt und würden jederzeit wieder mit ihnen zusammenarbeiten.",
+        "time": 1724094135,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriela Hauswirth",
+        "author_photo": "/images/reviews/w-j-kobel-ag-bern/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Der Umbau unseres Hauses wurde durch die Firma Kobel Bau AG zu unserer vollsten Zufriedenheit durchgeführt. Herzlichen Dank Herr Kobel und Team.",
+        "time": 1462691352,
+        "relative_time_description": "vor 10 Jahren"
+      },
+      {
+        "author_name": "Bendog26",
+        "author_photo": "/images/reviews/w-j-kobel-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Badumbau lief ohne zwischenfälle. Sehr zufrieden.",
+        "time": 1718137081,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

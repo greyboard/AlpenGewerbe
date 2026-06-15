@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJnUpOks65kUcR3iDRD0QaYhk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "N. J",
+        "author_photo": "/images/reviews/nikova-bau-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin echt zufrieden mit der Nikova Bau. Absprachen haben gepasst, die Arbeit war sauber und das Ergebnis kann sich sehen lassen. Herr Ivanovic konnte uns sehr gut beraten. Zuverlässiges junges Team, würde ich wieder beauftragen. Super, weiter so!",
+        "time": 1771882716,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "mcdattle",
+        "author_photo": "/images/reviews/nikova-bau-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert! Das Team der Nikova Bau GmbH hat den Umbau unserer Küche, des Gästebades sowie des Eingangsbereichs zu unserer vollsten Zufriedenheit umgesetzt.\nVon der Ausführung der Arbeiten bis hin zum Abschluss hat für uns alles perfekt gepasst. Besonders hervorheben möchten wir die unkomplizierte, angenehme und stets menschliche Kommunikation.\nWir danken dem gesamten Team der Nikova Bau GmbH herzlich für die hervorragende Arbeit und freuen uns darauf, auch zukünftige Projekte gemeinsam mit dieser großartigen Firma zu realisieren. Vielen Dank!",
+        "time": 1777307759,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Martin G.",
+        "author_photo": "/images/reviews/nikova-bau-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\nAbsolut empfehlenswert! Von der ersten Beratung bis zur finalen Ausführung lief alles perfekt. Der Handwerksbetrieb arbeitet äusserst professionell, zuverlässig und sauber. Termine wurden exakt eingehalten, die Arbeiten mit höchster Präzision und großer Sorgfalt ausgeführt. Besonders hervorzuheben sind die Freundlichkeit, die transparente Kommunikation und das hervorragende Preis-Leistungs-Verhältnis. Man merkt sofort, dass hier mit viel Erfahrung und Leidenschaft gearbeitet wird. Wir sind rundum zufrieden und würden diesen Betrieb jederzeit wieder beauftragen!\nHerzlichen Dank für alles!\nMartin G. & Marion S.",
+        "time": 1765956048,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "ni ru",
+        "author_photo": "/images/reviews/nikova-bau-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Habe eine Komplettsanierung meiner Wohnung machen lassen und wurde sehr kompetent beraten.\n\nDie Preise sind sehr Transparent, fair und klar aufgelistet.\nAuch der Umbau verlief Reibungslos dank klare Kommunikation und Absprache.\n\nIch bin mit dem Ergebniss sehr zufrieden!",
+        "time": 1765706484,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Michaela Duricova",
+        "author_photo": "/images/reviews/nikova-bau-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit von Nikova Bau! Das Team ist jung, dynamisch und hat die Bodenplatten bei mir schnell und professionell verlegt. Die Qualität ist top, alles wurde sauber und präzise ausgeführt. Die Kommunikation war ebenfalls super. Sehr empfehlenswert!",
+        "time": 1731053896,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

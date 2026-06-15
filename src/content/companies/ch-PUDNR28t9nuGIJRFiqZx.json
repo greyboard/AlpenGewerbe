@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJA6d9C-kLkEcR8DmbBDtI6qk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Robin Mössmer",
+        "author_photo": "/images/reviews/leri-schreinerei-ag-zuerich/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Wollte 2 Bündel Latten von Lattenrost um 1.5 cm Abschneiden lassen. Alles war vorgezeichnet. Das  ist 20 sekunden Arbeit 2 Schnitte. Dafür 30sfr zu verlangen ist eine Frechheit. Der Schreiner in deiner Umgebung. Sooo Hilfsbereit und Unverschämt.",
+        "time": 1690468289,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Kreienbühl",
+        "author_photo": "/images/reviews/leri-schreinerei-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich war bereits zweimal Kunde bei der Schreinerei Leri – einmal für ein maßgeschneidertes Schrankbrett und einmal für das Zuschneiden einer Geburtstafel. Beide Male war ich sehr zufrieden! Die Arbeit wurde präzise und sauber erledigt, und das zu einem fairen Preis. Ich komme gerne wieder! 😊\n\n4o",
+        "time": 1737316719,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michael Hürlimann",
+        "author_photo": "/images/reviews/leri-schreinerei-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir können Herr Begaj und sein Team wärmstens empfehlen!\nEr hat für uns bereits mehrere Möbelstücke angefertigt, und jedes einzelne ist ein absolutes Meisterwerk. Von der Planung bis zur Fertigstellung war die Zusammenarbeit hervorragend.\n\nEr nimmt sich viel Zeit, um unsere Wünsche zu verstehen, bringt kreative Ideen ein und arbeitet mit einer beeindruckenden Präzision. Die Qualität der Materialien und die handwerkliche Verarbeitung sind erstklassig. Unsere neuen Möbel sind nicht nur funktional, sondern auch wahre Hingucker in unserem Zuhause.\n\nBesonders schätzen wir seine Zuverlässigkeit und Pünktlichkeit. Auch bei kniffligen Details oder besonderen Anforderungen hat er immer eine perfekte Lösung gefunden.\n\nVielen Dank für die tolle Arbeit – wir freuen uns schon auf das nächste Projekt!",
+        "time": 1733597614,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christian G.",
+        "author_photo": "/images/reviews/leri-schreinerei-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein Sideboard-Türe war defekt. Des Möbelgeschäft, bei dem wir das Sideboard vor längerer Zeit bezogen hatten, teilte uns mit, der Lieferant sei zwischenzeitlich in Konkurs gegangen und das Sideboard könne nicht mehr repariert werden. Ich kontaktierte darauf die LERI Schreinerei AG, und eine Equipe kam vorbei. Die Türe wurde rasch und kompetent rapariert und die übrigen Sideboard-Türen bei dieser Gelegenheit auch noch kontrolliert. Die Kosten waren sehr tief. Ich kann die LERI Schreinerei wärmstens empfehlen.",
+        "time": 1733674441,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "oyhchris",
+        "author_photo": "/images/reviews/leri-schreinerei-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Schreiner! Haben diesen schon mehrfach in Anspruch genommen und waren nie enttäuscht. Speditiv, freundlich und flexibel. Sehr gerne wieder.",
+        "time": 1750451199,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

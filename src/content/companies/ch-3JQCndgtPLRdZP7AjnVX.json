@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfZTDSwe3mkcRVmoCkaXgx5Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Dominik Kaiser",
+        "author_photo": "/images/reviews/winiger-maler-gipser-ag-rapperswil-jona/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma Winiger bereits zweimal mit Malerarbeiten beauftragt und waren stets vollumfänglich zufrieden. Die Maler waren sehr freundlich und haben sogar Extraaufwand betrieben. Jederzeit wieder. Danke.",
+        "time": 1766220671,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Patrick Grotz",
+        "author_photo": "/images/reviews/winiger-maler-gipser-ag-rapperswil-jona/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Die Winiger Maler AG wurde uns von einem ortsbekannten Handwerker empfohlen – leider eine Enttäuschung. Es gab Mängel an der Decke, die während des Trocknens entstanden sind. Solche Dinge können passieren und man muss gemeinsam nach einer Lösung suchen. Uns wurden Nacharbeiten auf Kulanz versprochen. Trotz mehrfacher Zusagen und über 1,5 Jahren Wartezeit ist bis heute nichts passiert. Auf unsere wiederholten Anfragen folgten nur Vertröstungen oder gar keine Rückmeldung. Sehr unzuverlässig – keine Empfehlung.",
+        "time": 1763573039,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Wolfgang Meierhofer",
+        "author_photo": "/images/reviews/winiger-maler-gipser-ag-rapperswil-jona/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gelungener Küchenumbau.\nHerzlichen Dank für die tollen Gipser und Malerarbeiten.\nFam Meierhofer",
+        "time": 1750174064,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Andreas Bürgler",
+        "author_photo": "/images/reviews/winiger-maler-gipser-ag-rapperswil-jona/reviewer_4.jpg",
+        "rating": 5,
+        "text": "ColorExpress mit Top-Color-Qualität trifft voll zu!",
+        "time": 1742655129,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Arte Passione Beauty Lounge",
+        "author_photo": "/images/reviews/winiger-maler-gipser-ag-rapperswil-jona/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Pünktlich, sehr gute und speditive Arbeit, alles sehr sauber hinterlassen, gerne wieder.\n\nFederer M.C.",
+        "time": 1692712070,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

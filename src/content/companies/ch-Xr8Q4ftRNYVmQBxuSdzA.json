@@ -26,5 +26,31 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJvUh2dqySj0cRJNszscpsqAk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Philipp Bachmann",
+        "author_photo": "/images/reviews/schreinerei-stierli-giswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Vergnügen, mit diesem hervorragenden Schreinerbetrieb zusammenzuarbeiten, der von seinen Eigentümern geführt wird. Die beiden Schreiner sind unglaublich kompetent und üben ihren Beruf mit Herzblut aus. Wahre Schreiner-Profis! Sie bieten höchste Qualität zu einem sehr guten Preis. Ich habe bereits meine Fenster von ihnen ersetzen und einen Küchenumbau durchführen lassen, und ich bin mit beiden Projekten sehr zufrieden. Ich kann diesen Schreinerbetrieb wärmstens empfehlen.",
+        "time": 1707938688,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

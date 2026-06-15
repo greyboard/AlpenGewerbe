@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJl3HN8OjHhEcR-iWFtUDsuP8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Sandro Buchli",
+        "author_photo": "/images/reviews/maler-gipser-aloi-gmbh-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben eine Kernsanierung von unserem Einfamilienhaus durchgeführt und sind mit seinen Leistungen als Maler / Gipser sehr zufrieden! Wir können Giuseppe ganz klar weiterempfehlen! Während dem Umbau kam er mit konstruktiven Lösungsvorschlägen und hat sich flexibel dem Terminplan angepasst. Mit seiner pragmatischen Art hat er uns den Umbau sehr erleichtert. Seine Beratung und Ausführung waren stehts professionell.",
+        "time": 1779009622,
+        "relative_time_description": "vor 4 Wochen"
+      },
+      {
+        "author_name": "Malanserin",
+        "author_photo": "/images/reviews/maler-gipser-aloi-gmbh-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Giuseppe hat unser ganzes Haus innen neu gestrichen. Wir sind begeistert! Er war sehr unkompliziert und sorgfältig beim Arbeiten. Die Qualität stimmt.",
+        "time": 1774293428,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Fabian Monn",
+        "author_photo": "/images/reviews/maler-gipser-aloi-gmbh-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit des Malerbetriebs! Der Geschäftsinhaber war äusserst professionell, freundlich und hat sehr sauber gearbeitet. Das Ergebnis war einfach fantastisch und hat meine Erwartungen übertroffen. Und das alles zu einem wirklich fairen Preis! Ich kann diesen Malerbetrieb sehr empfehlen und werde auf jeden Fall wieder die Dienste in Anspruch nehmen.",
+        "time": 1712561324,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sam LaMaar",
+        "author_photo": "/images/reviews/maler-gipser-aloi-gmbh-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Durch freunde wurde uns diese Firma empfohlen da wir unser haus neu streichen mussten! Wir Sind sehr sehr begeistert, perfekte und sorgfàltige arbeit sehr sauber hinterlassen alles und sehr freundlich! Bei Fragen wurde schnell geantwortet und weiter geholfen! Ich würde diese Firma Maler Gipser Aloi GmbH jedem weiter empfehlen!!Liebe Grüße",
+        "time": 1711474400,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Silvana La Morea",
+        "author_photo": "/images/reviews/maler-gipser-aloi-gmbh-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei der Suche nach einem Maler/Gipser, bin ich zufälligerweise auf diese Firma gestossen. Ich war äusserst zufrieden mit dem Endergebnis, zudem waren sie auch stets pünktlich und auch sehr sympathisch. Ich kann die Jungs nur weiterempfehlen!",
+        "time": 1723475223,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

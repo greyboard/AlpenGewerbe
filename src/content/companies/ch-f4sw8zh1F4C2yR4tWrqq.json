@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ26mrQq8RjkcRpKSdoBH74No",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Margot Solei",
+        "author_photo": "/images/reviews/huebscher-garten-ag-bruettelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Garten war kein Garten, hatten sehr viel Hanglage und konnte nicht benutzt werden. Dank der tollen Idee und Planung von Lukas Zbinden haben wir einen tollen Garten. Hanglage wurde unterteilt in Stufen und bepflanzt. Oberhalb haben wir nun einen schönen Sitzplatz zum Grillen oder einfach um gemütliche Stunden zu verbringen. Merci an das ganze Team. Thomas Hübscher hatte sich viel Zeit genommen um mit uns die Bepflanzung zu besprechen und tolle Ideen gebracht. Wir sind sehr zufrieden und können die Hübscher Garten AG weiterempfehlen.",
+        "time": 1750099703,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Paul Geissbühler",
+        "author_photo": "/images/reviews/huebscher-garten-ag-bruettelen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein einzigartiges Team ; kompetent, innovativ, flexibel und qualitätsbewusst - bravo und danke !",
+        "time": 1758884571,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Adi Heiniger",
+        "author_photo": "/images/reviews/huebscher-garten-ag-bruettelen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hübscher Garten ist Spezialist für Umänderungen, Unterhalt, Pflanzenberatung, Beratung war für mich sehr hilfreich, dank der netten Beratung durch Thomas Hübscher. Kann der Betrieb wärmstens empfehlen.",
+        "time": 1656507363,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "stoller lisandra",
+        "author_photo": "/images/reviews/huebscher-garten-ag-bruettelen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herrn Hübscher beratet  kompetent und äusserst freundlich!\n\nSehr zu empfehlen, schnelle Antwort auf meine Anfrage und Beratung innert des Tages der Anfrage!\n\nMit der Arbeit sind wir sehr zufrieden! Herzlichst weiterzuempfehlen!",
+        "time": 1715967043,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Detlef Breiting",
+        "author_photo": "/images/reviews/huebscher-garten-ag-bruettelen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bin immer mit dieser Firma sehr zufrieden und kann diese Firma bestens weiterempfehlen 👍",
+        "time": 1686925526,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

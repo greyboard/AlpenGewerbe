@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6Sl-PT4TjkcRwp4SDyt19MU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Pascal Christen",
+        "author_photo": "/images/reviews/wapp-sanitaer-heizung-gmbh-galmiz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen. Arbeiten wurden tiptop erledigt.\nKontakt war freundlich und professionell",
+        "time": 1758639969,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Brigit K",
+        "author_photo": "/images/reviews/wapp-sanitaer-heizung-gmbh-galmiz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schnelle Reaktions- und Interventionszeit. Freundlicher und kompetenter Servicemonteur. Jederzeit gerne wieder.",
+        "time": 1685965964,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dominic Thomas",
+        "author_photo": "/images/reviews/wapp-sanitaer-heizung-gmbh-galmiz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Kontakt. Die Reparatur wurde mit viel Eigeninitiative und gewissenhaft durchgeführt. Bin vollkommen zufrieden.",
+        "time": 1498072452,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Gabriela",
+        "author_photo": "/images/reviews/wapp-sanitaer-heizung-gmbh-galmiz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1677339324,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Americo D'Onofrio",
+        "author_photo": "/images/reviews/wapp-sanitaer-heizung-gmbh-galmiz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1653225645,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

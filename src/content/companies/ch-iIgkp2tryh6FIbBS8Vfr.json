@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJn6MzzroWkEcRBSLldK0lbQw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–22:00 Uhr",
+    "Dienstag: 07:00–22:00 Uhr",
+    "Mittwoch: 07:00–22:00 Uhr",
+    "Donnerstag: 07:00–22:00 Uhr",
+    "Freitag: 07:00–22:00 Uhr",
+    "Samstag: 07:00–22:00 Uhr",
+    "Sonntag: 07:00–22:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Costa Cooper",
+        "author_photo": "/images/reviews/a-dervisi-gartenbau-miti-dottikon/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Schlechte Arbeit, viele Korrekturen mussten gemacht. Der Chef konnte sehr schwer erreicht werden und hatte immer Ausreden. Tausende Franken aus dem Fenster geschmissen. Der Rasen im Garten sieht immer noch gleich aus.",
+        "time": 1758364043,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Muris Kocic",
+        "author_photo": "/images/reviews/a-dervisi-gartenbau-miti-dottikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Gartenbaufirma, ohne grössere Schwierigkeiten mit guten schnelligkeit und sehr guter Qualität!",
+        "time": 1587999886,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Fazio Tiz",
+        "author_photo": "/images/reviews/a-dervisi-gartenbau-miti-dottikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einfach nur Top..\nZum weiter empfehlen",
+        "time": 1623578233,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "carmen schultheiss-gamper",
+        "author_photo": "/images/reviews/a-dervisi-gartenbau-miti-dottikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "👍",
+        "time": 1703175390,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dottikon Hood",
+        "author_photo": "/images/reviews/a-dervisi-gartenbau-miti-dottikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580222562,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

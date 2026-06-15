@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJf91ZGYV7jEcRYsfgYzJH09k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 14:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "maria jesus yanez",
+        "author_photo": "/images/reviews/menuiserie-jobo-sa-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte ein Problem mit meinen Fenstern; an einigen Stellen zog es, und die Hausverwaltung empfahl mir, mich an Jobo SA zu wenden.\nYohan nahm sich trotz seiner vielen Arbeit die Zeit, alle Fenster zu überprüfen und die notwendigen Reparaturen durchzuführen.\nVielen Dank, Yohan!\nIch kann diese Firma wärmstens empfehlen.",
+        "time": 1764530532,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Ludovic Doleyres",
+        "author_photo": "/images/reviews/menuiserie-jobo-sa-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Firma! Sie gehen auf die Wünsche der Kunden ein und sind sehr professionell. Wir haben unseren gesamten Innenausbau zu einem wettbewerbsfähigen Preis in Genf durchführen lassen und begrüßen die Entscheidung dieser Schreinerei, mit lokalen Lieferanten zusammenzuarbeiten. Wir sind mehr als zufrieden mit diesem Familienunternehmen.",
+        "time": 1718790466,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pathikan PLUEMWONG",
+        "author_photo": "/images/reviews/menuiserie-jobo-sa-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin von der Qualität dieser Holzarbeiten wirklich beeindruckt! Die Präzision der Schnitte und Verbindungen ist unglaublich. Das Design gefällt mir sehr; es ist so elegant und modern. Es verwandelt den Raum komplett. Ich kann es jedem wärmstens empfehlen, der hochwertige Holzarbeiten sucht.",
+        "time": 1740129854,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Amaury J.",
+        "author_photo": "/images/reviews/menuiserie-jobo-sa-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an Yoann für seine effiziente und informative Präsentation.\n\nIch kann diese Firma jedem, der Schreinerarbeiten benötigt, wärmstens empfehlen.",
+        "time": 1758010196,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Lina Rose",
+        "author_photo": "/images/reviews/menuiserie-jobo-sa-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe diese Firma für Arbeiten in meiner Wohnung beauftragt und bin von der tadellosen Ausführung restlos begeistert. Sie waren durchweg professionell, und ich danke ihnen für die hervorragende Arbeit. Ich kann Jobo Carpentry uneingeschränkt empfehlen!",
+        "time": 1712186298,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

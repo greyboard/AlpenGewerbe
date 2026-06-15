@@ -26,5 +26,47 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6fClfev1j0cRnLoefmtlj-8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Co Ha",
+        "author_photo": "/images/reviews/waser-schreinerei-ag-wolfenschiessen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Brauchte nach Einbruch rasche Hilfe und der Monteur kam sofort. Die Zwischenlösung ist souverän. Werde die neue Türe auch bei ihnen machen lassen.",
+        "time": 1606427772,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Leandra Waser",
+        "author_photo": "/images/reviews/waser-schreinerei-ag-wolfenschiessen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739466588,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maruschka Rigassi",
+        "author_photo": "/images/reviews/waser-schreinerei-ag-wolfenschiessen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1572904094,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGcOPvXXHhEcRtdpYOwiGHyw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Rafael S",
+        "author_photo": "/images/reviews/felix-schmidt-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich wurde sehr freundlich und kompetent beraten und der Auftrag wurde innert kürzester Zeit und zu einem fairen Preis zu meiner vollsten Zufriedenheit ausgeführt. Ich kann das Unternehmen nur wärmstens weiter empfehlen. Vielen herzlichen Dank!",
+        "time": 1744619765,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Petra Gartmann",
+        "author_photo": "/images/reviews/felix-schmidt-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nette Leute, sehr kompetent, ganz kurze Wartezeit, sehr zu empfehlen",
+        "time": 1712895369,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sibylle A Wengen",
+        "author_photo": "/images/reviews/felix-schmidt-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche Auskunft und Hilfe obwohl sie nichts verdienten. Vielen Dank nochmals",
+        "time": 1697276854,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Leandro Basuino",
+        "author_photo": "/images/reviews/felix-schmidt-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Dr Marino Patrick Gubser isch richtig guat ir schual",
+        "time": 1701163936,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sonja Kieni",
+        "author_photo": "/images/reviews/felix-schmidt-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "👍",
+        "time": 1656264523,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

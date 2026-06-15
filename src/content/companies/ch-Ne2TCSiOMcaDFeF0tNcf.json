@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2Q21EY3zmkcRBxKm4AeHWeo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–20:00 Uhr",
+    "Dienstag: 07:00–20:00 Uhr",
+    "Mittwoch: 07:00–20:00 Uhr",
+    "Donnerstag: 07:00–20:00 Uhr",
+    "Freitag: 07:00–20:00 Uhr",
+    "Samstag: 07:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Thomas",
+        "author_photo": "/images/reviews/vetsch-gaerten-ag-waeldi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir lassen seit Jahren unseren Gartenunterhalt von der Vetsch Gärten AG erledigen und können nur ein kompliment diesbezüglich aussprechen.\nIn diesem Jahr haben wir mit einer grösseren Umänderung unseres Gartens begonnen. Auch hier nur ein Kompliment. Von der Idee bis zur Realisierung durften wie auf das Fachwissen von Herr Vetsch und seinem Team setzten. Schnell, kompetent, sauber und zuverlässig.\nVielen Dank an das ganze Vetsch-Team!!!\nMit anderen Worten: ich kann die Vetsch Gärten AG nur weiter empfehlen.\nLiebe Grüsse Thomas",
+        "time": 1764589989,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Heinz",
+        "author_photo": "/images/reviews/vetsch-gaerten-ag-waeldi/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vetsch Gartenteam hat meinen Sitzplatz erneuert ,ein  grosses Lob\nsehr saubere und exakte Arbeit ,ich kann das Team weiter empfehlen und alles zu einem fairen Preis.",
+        "time": 1768820724,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Beat Moser",
+        "author_photo": "/images/reviews/vetsch-gaerten-ag-waeldi/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wie jedesmal wurden die Arbeiten sehr sauber und speditiv ausgeführt.\nDer Mitarbeiter war so gewissenhaft und hat Abdeckmaterial verlegt um die Umgebung zu schützen.\nAuch der Chef arbeitet mit und ist sich nicht zu schade, da und dort noch etwas zusätzliches zu machen.\nGanz besonderen Dank aber dafür, Ihr habt alles wieder so sauber gereinigt.\nEine Firma, die wir gerne weiter empfehlen",
+        "time": 1724249723,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kammerjäger Thurgau",
+        "author_photo": "/images/reviews/vetsch-gaerten-ag-waeldi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine dynamische moderne Gärtnerei. Das junge Team bringt Schwung und Elan in ihre Projekte.",
+        "time": 1657549478,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jerkbaitful",
+        "author_photo": "/images/reviews/vetsch-gaerten-ag-waeldi/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei Vetsch Gärten ist Qualität noch eine Selbstverständlichkeit!",
+        "time": 1682919704,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-JwKW1l6yr62JEvDuBnA1",
   "slug": "air-haustechnik-gmbh-oberwil-bei-zug",
-  "name": "Air-Haustechnik GmbH",
+  "name": "Air-Haustechnik AG",
   "branchen": [
     "heizungsbauer"
   ],
@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ__8blaIgjkcRBaguqZZ63zc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Adriano Testino (AD)",
+        "author_photo": "/images/reviews/air-haustechnik-gmbh-oberwil-bei-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Unternehmen, kann ich nur empfehlen!",
+        "time": 1698678797,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandro Beyeler",
+        "author_photo": "/images/reviews/air-haustechnik-gmbh-oberwil-bei-zug/reviewer_2.jpg",
+        "rating": 2,
+        "text": ",   Er",
+        "time": 1689237107,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Une Vet",
+        "author_photo": "/images/reviews/air-haustechnik-gmbh-oberwil-bei-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623530356,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Rämu Podi",
+        "author_photo": "/images/reviews/air-haustechnik-gmbh-oberwil-bei-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1623530449,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marisa Sperisen",
+        "author_photo": "/images/reviews/air-haustechnik-gmbh-oberwil-bei-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1634669559,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

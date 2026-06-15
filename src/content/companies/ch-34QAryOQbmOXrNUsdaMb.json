@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJU2GvyiFOhUcRT57QS_eAKbg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jasmine Riahi",
+        "author_photo": "/images/reviews/interieur-schlegel-schwyz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Parkettboden in meinem Zuhause musste ersetzt werden und die Arbeiten wurden von der Firma Interieur-Schlegel professionell ausgeführt. Der Kontakt mit Markus war stets sympathisch, er nimmt Rücksicht auf die Bedürfnisse und ist sehr zuverlässig. Der neue Parkettboden sieht ausserdem super aus. Nochmals besten Dank für die unkomplizierte Abwicklung! :-)",
+        "time": 1731076914,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Imre van der Boor",
+        "author_photo": "/images/reviews/interieur-schlegel-schwyz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles super und sehr nette Mitarbeiter. Danke Markus",
+        "time": 1674042981,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Martin Reichlin",
+        "author_photo": "/images/reviews/interieur-schlegel-schwyz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1671056603,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Aydin Akinci",
+        "author_photo": "/images/reviews/interieur-schlegel-schwyz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1648128998,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

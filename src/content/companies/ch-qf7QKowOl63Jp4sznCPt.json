@@ -26,5 +26,22 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJD9-yYpTJhEcR6ytTWj_SiL0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Anja",
+        "author_photo": "/images/reviews/krieg-bad-heizung-werkstatt-filiale-landquart/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775153003,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

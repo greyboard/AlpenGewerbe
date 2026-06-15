@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJybN8e_Qem0cRlhBSQsdJQs0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–14:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "evelyn willi",
+        "author_photo": "/images/reviews/john-sanitaer-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich würde die Firma jederzeit wieder beauftragen und kann sie nur weiterempfehlen.\n\nDie Arbeiten wurden schnell, sauber und äußerst professionell ausgeführt. Preis-Leistungsverhältnis absolut fair, Vielen Dank für die tolle Erfahrung😉",
+        "time": 1771331265,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Fabian Sonderegger",
+        "author_photo": "/images/reviews/john-sanitaer-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, schnell, sauber, Preis/Leistung sehr gut. Kann man nur empfehlen. Das Hauptbad werden wir auch mit euch durchziehen.",
+        "time": 1708260892,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Raphael Dreier",
+        "author_photo": "/images/reviews/john-sanitaer-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Team von John Sanitär AG beriet mich ausgezeichnet, kompetent und freundlich bei der Auswahl eines neuen Badezimmerwaschtisches.\nDie Lieferung und Montage erfolgte rasch. Die Installation des neuen Waschtisches verlief ohne Probleme und sämtliche Wünsche wurden berücksichtigt.\n\nBesten Dank für die ausgeführte Arbeit - ich kann John Sanitär AG jedem weiterempfehlen.",
+        "time": 1714503672,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "B B",
+        "author_photo": "/images/reviews/john-sanitaer-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind privat und geschäftlich Kunden von John Sanitär AG und können die Firma nur weiterempfehlen. Der Service ist jederzeit tadellos. Die Mitarbeiter freundlich und zuverlässig. Der Chef kommt häufig selber vor Ort und arbeitet selber mit und kontrolliert die Arbeiten der Mitarbeiter. Einwandfreie und kompetente Arbeit.",
+        "time": 1684768303,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Elvira Schär",
+        "author_photo": "/images/reviews/john-sanitaer-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service\nTermin gerechte Ausführung\nTop Mitarbeiter\nGute Arbeit\nPreis Leistung stimmt\nKann ich nur weiter empfehlen",
+        "time": 1714500587,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

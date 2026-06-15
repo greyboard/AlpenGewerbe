@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1ey-Dw5ljEcR-lsRf0yEWZE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 137,
+    "reviews": [
+      {
+        "author_name": "tanisha muqtada",
+        "author_photo": "/images/reviews/grosch-sa-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir wurden an die Firma Grosch verwiesen, um unsere verstopfte Küchenspüle reparieren zu lassen. Sie reagierten umgehend auf unseren Anruf und schickten bereits am nächsten Tag jemanden vorbei. Herr Errwan beseitigte die Verstopfung sehr effizient mit professionellen Materialien. Er beantwortete freundlich unsere Fragen und gab uns außerdem hilfreiche Tipps. Vielen Dank!",
+        "time": 1767776460,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "David Malek",
+        "author_photo": "/images/reviews/grosch-sa-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Klempner Erwan war sehr höflich, sauber und professionell. Er hat mein Waschbecken ausgetauscht und dabei hervorragende Arbeit geleistet. Ich kann ihn wärmstens empfehlen. 👍🏽",
+        "time": 1764603582,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Jennifer Tambe Ebot",
+        "author_photo": "/images/reviews/grosch-sa-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein herzliches Dankeschön an Grosch und besonders an Andy, der unglaublich effizient und schnell gearbeitet hat! Er ist außerdem sehr aufmerksam und freundlich! Ich kann ihn uneingeschränkt empfehlen 😉",
+        "time": 1780483655,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Carline Preti",
+        "author_photo": "/images/reviews/grosch-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Erwanns Service war freundlich und aufmerksam, die Kommunikation hervorragend und der Aus- und Einbau der Armatur effizient.\n\nAuch mit der Rezeptionistin hatte ich ein gutes Verhältnis; die Terminvereinbarung verlief unkompliziert und schnell. Ich hoffe zwar, dass ich ihre Dienste nicht wieder in Anspruch nehmen muss, bin aber mit dem heutigen Service sehr zufrieden!",
+        "time": 1767885681,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Isabelle Zwygart",
+        "author_photo": "/images/reviews/grosch-sa-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit. Ausbau des alten Waschbeckens und Einbau des neuen in nur einer Stunde. Vielen Dank, Andy.",
+        "time": 1780388068,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

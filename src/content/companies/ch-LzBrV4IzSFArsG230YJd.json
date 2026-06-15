@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZY6tdtk8ySgROI83iVfSIa0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Davide Parisi",
+        "author_photo": "/images/reviews/alvarez-pittura-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe in meinem ganzen Haus Maler- und Silikonreparaturen durchführen lassen, und Oscar war pünktlich, sauber und sehr professionell. Das Endergebnis ist wirklich makellos. Empfehlenswert für alle, die einen seriösen und zuverlässigen Maler suchen.",
+        "time": 1772462299,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Daniel K.",
+        "author_photo": "/images/reviews/alvarez-pittura-locarno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich musste mehrere Zimmer renovieren und streichen lassen und habe mich dabei an diese Malerfirma gewandt. Oscar war pünktlich, hilfsbereit und arbeitete sehr präzise. Das Endergebnis war sauber und bis ins kleinste Detail perfekt. Empfehlenswert für alle, die einen seriösen und zuverlässigen Maler suchen.",
+        "time": 1774529401,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Kevin Cortez",
+        "author_photo": "/images/reviews/alvarez-pittura-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein äußerst sorgfältiger und professioneller Maler: Er verputzte und strich die Wände meines Hauses mit größter Sorgfalt und beriet mich hinsichtlich der passendsten Farbtöne.\n\nDas Ergebnis ist sehr sauber und hochwertig.\nEine absolut empfehlenswerte Malerfirma für alle, die Wert auf Pünktlichkeit und Zuverlässigkeit legen.",
+        "time": 1763977001,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Mario Mikulic",
+        "author_photo": "/images/reviews/alvarez-pittura-locarno/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe Alvarez Pittura beauftragt, die Zimmer in meiner Wohnung zu streichen. Er ist ein sehr sorgfältiger Maler, hinterlässt alles sauber und ordentlich und arbeitet äußerst präzise und professionell. Ich bin mit dem Ergebnis sehr zufrieden.",
+        "time": 1764327917,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Luca Heller",
+        "author_photo": "/images/reviews/alvarez-pittura-locarno/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe Oscar beauftragt, meine Wohnung zu streichen. Die Arbeit war präzise, ​​professionell und stets sauber. Hervorragende Organisation und ein erstklassiges Ergebnis. Absolut empfehlenswert.",
+        "time": 1769607546,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

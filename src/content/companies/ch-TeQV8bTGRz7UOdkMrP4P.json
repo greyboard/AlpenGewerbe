@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_7oDJcQ5jkcRUpQfBTFqHqg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Ursula Hasenböhler",
+        "author_photo": "/images/reviews/malerei-hutmacher-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit der Malerei Hutmacher GmbH äusserst zufrieden. Der gesamte Aufgang sowie sämtliche Holztüren wurden professionell gestrichen. Die Beratung war von Anfang an kompetent, die Arbeiten wurden sauber, zuverlässig und mit viel Sorgfalt ausgeführt. Zudem war das Team stets höflich und zuvorkommend.\nEin ganz besonderer Hingucker ist unsere neue Eingangstüre: Sie wurde mit viel Aufwand und handwerklichem Geschick von mehreren alten Farbschichten befreit und strahlt nun wieder in ihrem originalen Holzcharme. Das Ergebnis übertrifft unsere Erwartungen – herzlichen Dank für diese tolle Arbeit!",
+        "time": 1771921003,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Daniel Winfield",
+        "author_photo": "/images/reviews/malerei-hutmacher-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1682426964,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Tobias Benninger",
+        "author_photo": "/images/reviews/malerei-hutmacher-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781269213,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Rogerio Silva",
+        "author_photo": "/images/reviews/malerei-hutmacher-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1644815479,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Serafin Schmutz",
+        "author_photo": "/images/reviews/malerei-hutmacher-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1561474996,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

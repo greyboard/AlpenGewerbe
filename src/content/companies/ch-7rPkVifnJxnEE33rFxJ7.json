@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ06oHySUHkEcRg1UF1cV-FoA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 38,
+    "reviews": [
+      {
+        "author_name": "Micael Lopes",
+        "author_photo": "/images/reviews/albis-glas-gmbh-affoltern-am-albis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit Albis-Glas GmbH absolut zufrieden! Vom ersten Kontakt bis zur fertigen Montage hat alles reibungslos funktioniert. Die Beratung war sehr kompetent, meine Wünsche wurden verstanden und perfekt umgesetzt. Die Glasarbeiten sind von höchster Qualität, sauber verarbeitet und wirken sehr edel. Auch die Terminplanung war zuverlässig – alles wurde pünktlich geliefert und montiert. Besonders beeindruckt hat mich die Flexibilität bei Sonderwünschen.\n\nEine Firma, die ihr Handwerk versteht und mit Leidenschaft arbeitet – sehr empfehlenswert!",
+        "time": 1757868150,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Francine Spielmann",
+        "author_photo": "/images/reviews/albis-glas-gmbh-affoltern-am-albis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die speditive und professionell abgewickelte Montage meiner Dusch-Glaswand. Alles passt perfekt. Ich war von der ruhigen, konzentrierten und freundlichen Arbeitsweise der beiden Firmen-Inhaber sehr begeistert und kann diese nur wärmstens weiter empfehlen.",
+        "time": 1769428217,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Bernard C.",
+        "author_photo": "/images/reviews/albis-glas-gmbh-affoltern-am-albis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Beratung, top Service. Herr Ali und Herr Hertach sind absolut zuverlässig,  zuvorkommend, geben sehr nützliche Tipps und sind Könner ihres Fachs. Gerne wieder, so sollte es sein!!👍",
+        "time": 1779997880,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Michael Schmassmann",
+        "author_photo": "/images/reviews/albis-glas-gmbh-affoltern-am-albis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Von der ersten Kommunikation bis zur Montage unserer Duschwand war alles perfekt organisiert. Wir wurden im Voraus gut durch Herr Ali beraten. Die Arbeiten wurden anschliessend im Team zügig ausgeführt und das Resultat sieht super aus. Das Preis-Leistungs-Verhältnis stimmt. Wir sind sehr zufrieden.",
+        "time": 1770794037,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Hasani Sami",
+        "author_photo": "/images/reviews/albis-glas-gmbh-affoltern-am-albis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Albisglas GmbH isch e super Firma. D’Qualität isch würklich top und alles lauft immer reibigslos. Bsunders schätze ich de fründliche Kontakt und d’Zuverlässigkeit. Chan ich nur wiiterempfehle!",
+        "time": 1774463970,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

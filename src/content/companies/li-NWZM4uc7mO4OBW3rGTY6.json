@@ -25,5 +25,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJYco_FwYxm0cRtI5U_5fhFCk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Eva Zemp",
+        "author_photo": "/images/reviews/silvio-hasler-malergeschaeft-und-spritzwerk-schaan/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Haben vor 4 Jahren die Fassade streichen lassen. Es ist alles am abblättern, so dass wir es komplett neu machen lassen müssen. Das darf nicht sein, sehr ärgerlich.",
+        "time": 1772170559,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Martin Rauch (Unreed)",
+        "author_photo": "/images/reviews/silvio-hasler-malergeschaeft-und-spritzwerk-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr guter Malerbetrieb. Hat bei uns sehr gute Renovierungsarbeiten geleistet.",
+        "time": 1662623376,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jan Majer",
+        "author_photo": "/images/reviews/silvio-hasler-malergeschaeft-und-spritzwerk-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621947704,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dave",
+        "author_photo": "/images/reviews/silvio-hasler-malergeschaeft-und-spritzwerk-schaan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732557897,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fabian Hasler",
+        "author_photo": "/images/reviews/silvio-hasler-malergeschaeft-und-spritzwerk-schaan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1708850767,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

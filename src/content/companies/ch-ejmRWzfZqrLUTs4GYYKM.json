@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJH_9vqjFYhUcRhJnq0BvncrI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Markus Slongo",
+        "author_photo": "/images/reviews/zieri-ag-malergeschaeft-beckenried-beckenried/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute und prompte Arbeit!\nBesten Dank",
+        "time": 1776065439,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "MONK HUPP",
+        "author_photo": "/images/reviews/zieri-ag-malergeschaeft-beckenried-beckenried/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629475471,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Frederic Rügamer",
+        "author_photo": "/images/reviews/zieri-ag-malergeschaeft-beckenried-beckenried/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1768921986,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Theres Joller",
+        "author_photo": "/images/reviews/zieri-ag-malergeschaeft-beckenried-beckenried/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1720196554,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "stephan schnyder",
+        "author_photo": "/images/reviews/zieri-ag-malergeschaeft-beckenried-beckenried/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1608110357,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

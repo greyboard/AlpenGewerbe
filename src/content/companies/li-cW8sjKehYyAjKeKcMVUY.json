@@ -25,5 +25,38 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJI8yPL8Mxm0cRO6t5hZjolfY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Andre Hochner",
+        "author_photo": "/images/reviews/majer-etabl-malergeschaeft-eschen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr Saubere Arbeit und ein sehr Freundliches Team👍",
+        "time": 1635509508,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "BODYA 1304",
+        "author_photo": "/images/reviews/majer-etabl-malergeschaeft-eschen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma",
+        "time": 1746057240,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Roger Majer",
+        "author_photo": "/images/reviews/majer-etabl-malergeschaeft-eschen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1590696221,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

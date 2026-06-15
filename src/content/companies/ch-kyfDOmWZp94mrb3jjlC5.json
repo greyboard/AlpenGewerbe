@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJmddwMdQTkEcRVpkLXoZU3f0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 60,
+    "reviews": [
+      {
+        "author_name": "Nina Patrick F. S.",
+        "author_photo": "/images/reviews/s-weber-sanitaer-heizung-gmbh-nesselnbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben diverse Erneuerungen vornehmen lassen, u.a. den Austausch des WP‑Boilers. Alles hat hervorragend funktioniert. Auch auf die (kurzfristigen) Herausforderungen wurde flexibel und lösungsorientiert reagiert - kompetent und zuverlässig.",
+        "time": 1772385374,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Stefanie Hess",
+        "author_photo": "/images/reviews/s-weber-sanitaer-heizung-gmbh-nesselnbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir wollten das 35 Jahre Badezimmer umbauen und sind dank Google Bewertungen auf S. Weber gestossen. Die Wünsche würden super umgesetzt und auf den Kunden eingegangen. Thomas Weber leitete die ganze Koordination zwischen den verschiedenen Handwerker, was für uns eine super Hilfe war. Wir sind super glücklich über das neue Bad und bedanken uns für den super Service.",
+        "time": 1769767989,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Beat Müller",
+        "author_photo": "/images/reviews/s-weber-sanitaer-heizung-gmbh-nesselnbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unkompliziert, super freundlich, fachmännisch top und hat pragmatische Lösungen bei anspruchsvollen Rennovationen im Köcher! Sehr zu empfehlen, besonders auch bei Koordinationen mit anderen Handwerker wie Plättler!",
+        "time": 1763313785,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Susanne K.",
+        "author_photo": "/images/reviews/s-weber-sanitaer-heizung-gmbh-nesselnbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir mussten in kürzester Zeit Bad rollstuhlgängig umbauen lassn. Thomas Weber hat sich mit seinem Team zur Verfügung gestellt. Die Koordination der notwendigen Handwerker (Plättlileger, Elektriker, Schreiner) lief über ihn. Pragmatisch wurde nach Lösungen gesucht, kurzfristig umgeplant und genau auf Zeit fertiggestellt. Alles in einwandfreier Qualität und Baustelle immer in sehr gutem Zustand jeweils hinterlassen. Jederzeit sehr zu empfehlen. DANKE.",
+        "time": 1764700580,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Valerio Kamber",
+        "author_photo": "/images/reviews/s-weber-sanitaer-heizung-gmbh-nesselnbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Terminvereinbarung am gleichen Tag. Reparatur schnell und sauber erledigt. Sehr freundlicher Mitarbeiter. Mit der Firma Weber bin ich sehr zufrieden.",
+        "time": 1763365356,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

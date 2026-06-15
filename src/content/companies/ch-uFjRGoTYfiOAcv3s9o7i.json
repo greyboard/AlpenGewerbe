@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJtT6Gvo2rmkcRPIXm9aJ9C6k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Laris Hartmann",
+        "author_photo": "/images/reviews/haustechplus-service-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnelle und professioneller Service noch nie einen besseren gehabt. Vom Anruf im Notfall bis zur sehr schnellen Bearbeitung und extrem freundlichen Mitarbeitern kann ich mehr als empfehlen. Für mich kommt kein anderer Service mehr in Frage. Meine WC Spülung war defekt, innerhalb einer Stunde Problem behoben.",
+        "time": 1760687645,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Denis Savic",
+        "author_photo": "/images/reviews/haustechplus-service-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige und professionelle Firma! Die Arbeiten wurden termingerecht und sauber ausgeführt. Man merkt, dass hier Erfahrung und Fachwissen zusammenkommen. Klare Weiterempfehlung! TOP!",
+        "time": 1750455590,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Milos Nesovanovic",
+        "author_photo": "/images/reviews/haustechplus-service-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma hat die Heizungsreparatur hervorragend erledigt. Alle waren sehr freundlich und professionell. Sehr empfehlenswert!",
+        "time": 1744963771,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marinko Bukvic",
+        "author_photo": "/images/reviews/haustechplus-service-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1745940545,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hans Wartmann",
+        "author_photo": "/images/reviews/haustechplus-service-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1743156145,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJpwMfJVCrmkcRE-IGv16XgOQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–19:00 Uhr",
+    "Dienstag: 08:30–21:30 Uhr",
+    "Mittwoch: 08:30–21:30 Uhr",
+    "Donnerstag: Geschlossen",
+    "Freitag: Geschlossen",
+    "Samstag: 09:00–17:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Tatiana Makarenko",
+        "author_photo": "/images/reviews/achtsames-shiatsu-andreas-maurer-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren zusammen (meine Schwester und ich) bei Andreas Maurer wegen starker Verspannungen im Nackenbereich. Er hat uns mit Akupunktur und anderen gezielten Techniken behandelt und uns sehr geholfen, die Muskeln zu entspannen. Andreas ist sehr professionell, aufmerksam und nimmt sich Zeit für seine Patienten. Wir haben uns gut aufgehoben gefühlt und können ihn absolut weiterempfehlen. Vielen Dank!",
+        "time": 1769803299,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Anne-Lise Latouche-Hallé",
+        "author_photo": "/images/reviews/achtsames-shiatsu-andreas-maurer-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Andreas Maurer hat ein sehr breites Wissen, sehr effiziente und angenehme manuelle Technicken und eine sehr einfühlsame Art. Er geht auf die Bedürfnisse vom Patient ein und ich konnte auch schon nach den ersten Behandlungen einiges für den Alltag mitnehmen. Die Shiatsu Therapie tut mir körperlich (Gesundheit, Energie, Lösen von Rücken- und Nacken-Verspannungen) und seelisch sehr gut. Es war mir nach einem Velounfall sehr hilfreich und bringt mir auch beruflich (Gesang) viel. Herzlichen Dank Andreas!",
+        "time": 1762765488,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Gabi Popoviciu",
+        "author_photo": "/images/reviews/achtsames-shiatsu-andreas-maurer-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Shiatsu Behandlungen sint immer sehr gut. Von der erste Minute fühlte ich mich wohl und in guten Händen. Andreas ist sehr professionell, verständnisvoll und aufmerksam. Die Behandlungen haben mir sehr viel geholfen und meine Energie wieder in Gleichgewicht gebracht.\nIch kann ihm mit voller Überzeugung weiterempfehlen",
+        "time": 1747134591,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tanja Stoppa",
+        "author_photo": "/images/reviews/achtsames-shiatsu-andreas-maurer-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nach einer Notoperation konnte ich durch das lange liegen nicht mehr tief durchatmen.Auch durch das lange liegen bekam ich starke Rückenschmerzen.Andreas Maurer bot mir eine Therapiesitzung im Krankenhaus an.Ich bin sehr dankbar, nach einer einzigen Sitzung konnte ich wieder tief Einatmen und meine Rückenschmerzen lösten sich so sehr dass ich wieder normal und aufrecht gehen konnte.Danke Andreas Maurer.Ich kann ihn nur wärmstens empfehlen.",
+        "time": 1771103005,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Isabelle Schiegg",
+        "author_photo": "/images/reviews/achtsames-shiatsu-andreas-maurer-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Erfahrungen, die ich nicht mehr missen möchte!\nShiatsu hat mich in ganz vielen Punkten inspiriert und es hilft mir enorm abzuschalten und loszulassen.\nAndreas kann es genau abschätzen, wann ich was brauche.\nSei es tiefe Entspannung oder eher etwas um den Körper in Schwung zu bringen. Er weiss und spürt genau die Punkte, die zum Behandeln sind. Mit dem Einsatz von speziellen \"Nägeln\" hat er mir auch sehr geholfen; die Schwellung am linken Fuss weg zu bringen. Immer wieder gerne, danke!",
+        "time": 1739456477,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

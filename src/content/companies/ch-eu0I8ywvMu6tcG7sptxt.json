@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJr7wQiTv3mkcR8HWZWTPFi94",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "makimiki 315",
+        "author_photo": "/images/reviews/cssw-schweiz-kreuzlingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr Sauber Arbeit,sehr hohes Niveau und Erfahrung\nTop Leistung!!!",
+        "time": 1721758602,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alex Hartmann",
+        "author_photo": "/images/reviews/cssw-schweiz-kreuzlingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Toller Betrieb, Super Beratung.\nJeder zeit wieder.\nGrüße Jason",
+        "time": 1706200917,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJUUYkKgthUcRJHmXkWE5ktE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "C. F",
+        "author_photo": "/images/reviews/pg-plattenbelaege-gmbh-naefels/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Arbeit die Sie geleistet haben, sehr freundliches Personal und preislich sehr Fair.\n\nNoch ein grosses Dankeschön!",
+        "time": 1695045169,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sa0n1x _",
+        "author_photo": "/images/reviews/pg-plattenbelaege-gmbh-naefels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1713335678,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nelson Lino",
+        "author_photo": "/images/reviews/pg-plattenbelaege-gmbh-naefels/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1547019760,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

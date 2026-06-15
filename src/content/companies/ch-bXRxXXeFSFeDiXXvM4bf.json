@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJy0m9wjK5kUcRBQgm47nvJow",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–17:00 Uhr",
+    "Dienstag: 07:15–17:00 Uhr",
+    "Mittwoch: 07:15–17:00 Uhr",
+    "Donnerstag: 07:15–17:00 Uhr",
+    "Freitag: 07:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 133,
+    "reviews": [
+      {
+        "author_name": "Barbara Nash",
+        "author_photo": "/images/reviews/maler-zenhaeusern-gmbh-liestal-liestal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Beratung, sehr angenehm und das Resultat ist perfekt! Nachdem wir selbst keine Erfahrung mit farbigen Wänden hatten, war es wichtig, uns von Herrn Thommen beraten zu lassen. Die Malerinnen waren sehr nett und professionell. Das Ergebnis spricht für sich selbst.",
+        "time": 1770017836,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Daniel Schoch",
+        "author_photo": "/images/reviews/maler-zenhaeusern-gmbh-liestal-liestal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Maler Zenhäusern hat bei uns Malerarbeiten sehr sauber und zuverlässig umgesetzt. Die Kommunikation war unkompliziert, Termine wurden eingehalten und auch auf Details wurde viel Wert gelegt. Besonders positiv fand ich, dass nicht einfach nur ausführt, sondern auch mitdenkt und sinnvolle Vorschläge zur Umsetzung macht. Das Ergebnis ist wirklich hochwertig geworden. Klare Empfehlung für alle, die in Basel einen zuverlässigen und sorgfältigen Maler suchen.",
+        "time": 1772636041,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Oli Moser",
+        "author_photo": "/images/reviews/maler-zenhaeusern-gmbh-liestal-liestal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer bestens ausgeführte Arbeiten und saubere Baustellen.\nFreundliche und fachlich sehr gut ausgebildete Mitarbeiter und allgemein eine super Kommunikation.\nSehr zu empfehlen für alle Malerarbeiten und speziell für WallToFloor und andere Spezialitäten.\nGerne wieder!",
+        "time": 1764602114,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Carmen Mosimann",
+        "author_photo": "/images/reviews/maler-zenhaeusern-gmbh-liestal-liestal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Beratung und sehr sorgfältig ausgeführte und schöne Malerarbeit! Die Mitarbeiter sind sehr freundlich und die Atmosphäre während den Arbeiten sehr angenehm.\nWir sind rundum sehr zufrieden und empfehlen die Firma Zehnhäusern gerne weiter.",
+        "time": 1778228344,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Barbara Gschwind",
+        "author_photo": "/images/reviews/maler-zenhaeusern-gmbh-liestal-liestal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an die Firma Zehnhäusern!! Komplettes EFH wurde neu gestrichen. Super schöne und saubere Arbeit, sehr freundliche Mitarbeiter, top Beratung und Flexibilität und Entgegenkommen bei Änderungswünschen während laufender Arbeit. Wirklich top!! Sollten bei uns weitere Malerarbeiten anstehen, erteilen wir diese sehr gerne wieder an die Firma Zehnhäusern.",
+        "time": 1761673695,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

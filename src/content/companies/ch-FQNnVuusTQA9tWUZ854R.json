@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJpX9Emkk5jkcRnlWI2-8Vh6M",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Damian Aebischer",
+        "author_photo": "/images/reviews/gerber-garten-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Arbeit wurde sehr zeitnah und zu unserer vollsten Zufriedenheit ausgeführt. Herr Gerber ist sehr freundlich und zuvorkommend und hat sehr saubere Arbeit geleistet. Der Garten wurde aufgeräumt und sauber hinterlassen und er hat uns überdies mit ein paar wertvollen Tipps zur Behandlung und Pflege von anderen Pflanzen geholfen. Für uns jederzeit sehr gerne wieder!",
+        "time": 1647532989,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Js phone",
+        "author_photo": "/images/reviews/gerber-garten-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gemeinsam mit GERBER GARTEN führten wir ein Gartenbau Projekt in unser Einfahrt in Mattstetten (Bern) durch. Wir erstellten die Parkplätze und Vorplatz von unserem Haus mit der Fachkenntnissen, Maschinen und Werkzeuge zusammen mit Felix Gerber. Vom Unterbau bis zum Zuschnitt von Verbundsteinen wurde der Auftrag zu unserer vollen Zufriedenheit ausgeführt. Der Offerierte Kostenrahmen wurde eingehalten. Zudem haben wir wertvolle Gartenpflege Tips erhalten. Gerne wieder.",
+        "time": 1664258265,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lucy West",
+        "author_photo": "/images/reviews/gerber-garten-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professioneller Gärtner mit guten Kenntnissen in der Pflanzenpflege, sehr kreativen Ideen und hat mir auch einen tollen kleinen Terrassenbau gemacht. Sehr zu empfehlen!",
+        "time": 1693311618,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Antonia Sassanelli Spori",
+        "author_photo": "/images/reviews/gerber-garten-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698777706,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nov Reiw",
+        "author_photo": "/images/reviews/gerber-garten-bern/reviewer_5.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1678258689,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

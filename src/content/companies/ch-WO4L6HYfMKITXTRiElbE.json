@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKTZQYV4GkEcR-ahgf-5Ut2s",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Black Naish",
+        "author_photo": "/images/reviews/kaufmann-dachtechnik-gmbh-affoltern-am-albis/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Freundlich aber sehr unzuverlässig: Wir hatten zwei Termine vereinbart, und zweimal hat der Geschaeftsführer  die Termine „vergessen“!! Beim zweiten Mal habe ich sogar einen halben Tag vergeblich gewartet. Zum Glück habe ich dieser Firma nicht die Auftraege gegeben. Stay away.",
+        "time": 1779538745,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Walter Maurer",
+        "author_photo": "/images/reviews/kaufmann-dachtechnik-gmbh-affoltern-am-albis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service. Schnell, kompetent und freundlich! Sehr zu empfehlen!",
+        "time": 1717835602,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thalmann Stephan",
+        "author_photo": "/images/reviews/kaufmann-dachtechnik-gmbh-affoltern-am-albis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fachkompetent, zuverlässig, freundlich und preiswert.",
+        "time": 1767790473,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Nicolas",
+        "author_photo": "/images/reviews/kaufmann-dachtechnik-gmbh-affoltern-am-albis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent.",
+        "time": 1590674191,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Bruno Köppel",
+        "author_photo": "/images/reviews/kaufmann-dachtechnik-gmbh-affoltern-am-albis/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Professioneller Service",
+        "time": 1565523800,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

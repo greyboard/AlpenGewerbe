@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2UyGkkPMkUcRTYflGy-O2pI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Ursula Glatz",
+        "author_photo": "/images/reviews/forster-gartenbau-ag-gaertner-von-eden-titterten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit 15 Jahren sind wir Kunde bei Forster. Noch nie gab es Enttäuschungen. Super Arbeit, freundliche und kompetente Mitarbeiter und akkurate Preise👌🏻👍🏻",
+        "time": 1744364407,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stephan Kux",
+        "author_photo": "/images/reviews/forster-gartenbau-ag-gaertner-von-eden-titterten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Forster Gärtner von Eden wird ihrem Namen mehr als gerecht. Im Lindengarten in Arlesheim leben wir wirklich im Paradies. Und auch die Leistung auf unserer Terrasse mit dem wunderschönen Olivenbaum ist sehr zufrieden stellend. Die Gärtner sind sehr freundlich und kundenorientiert. Das Preis-Leistung-Verhältnis stimmt. Sehr empfehlenswert!",
+        "time": 1720877623,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrik Benz",
+        "author_photo": "/images/reviews/forster-gartenbau-ag-gaertner-von-eden-titterten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unser Garten wurde mit dem Forster Gartenbau-Team zum Traumgarten!\n\nDie Zusammenarbeit war sehr kundenorientiert, zuverlässig und transparent in der Kommunikation. Unsere Wünsche wurden ernst genommen und entsprechend im Gesamtkonzept berücksichtigt.\n\nDie Arbeiten gingen bei der Umsetzung zügig voran, und wir konnten täglich sehen, wie der neue Garten Gestalt annahm. Das Team war sehr freundlich und motiviert, und wir hatten von Beginn an ein gutes Gefühl.\n\nWir finden, dass die Firma Forster Gartenbau eine sehr professionelle Firma ist. Wir können sie jedem empfehlen, der einen hohen Anspruch an Design und Gestaltung hat und auch Wert auf Qualität und individuelle Umsetzungen legt.\n\nWir sind sehr zufrieden und haben nun unser eigenes Paradies im Garten!",
+        "time": 1723366634,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sandrine L.",
+        "author_photo": "/images/reviews/forster-gartenbau-ag-gaertner-von-eden-titterten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden, ja sogar verzaubert: aus unserem Garten würde eine wohlfühloase gestaltet. Preis-Leistungs-Verhältnis stimmt absolut, die Mitarbeiter sind sehr freundlich und effizient. Spezielle Wünsche werden entsprechend erfüllt. Vielen herzlichen Dank! Es hätte nicht besser sein können. Und danke auch, dass ihr sogar unseren Hühnerauslauf vergrössert habt, und mit schöne Bepflanzung geschmückt habt. Sandrine L.",
+        "time": 1707989805,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Natalie",
+        "author_photo": "/images/reviews/forster-gartenbau-ag-gaertner-von-eden-titterten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir fühlen uns in unserem kleinen Garten Eden sehr wohl. Es wurde zum Herzstück des Hauses, wo wir als Familie Ruhe und Energie tanken können.\nGrosses Dankeschön an das ganze Team!",
+        "time": 1755521031,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

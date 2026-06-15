@@ -26,5 +26,30 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJb6Yw7OYyhEcRarPPDn7ZCZw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Emanuele Marceddu",
+        "author_photo": "/images/reviews/carnevale-sa-lamone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1615230613,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marco Bortoli",
+        "author_photo": "/images/reviews/carnevale-sa-lamone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1539281937,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

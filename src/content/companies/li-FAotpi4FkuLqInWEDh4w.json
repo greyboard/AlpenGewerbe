@@ -1,7 +1,7 @@
 {
   "id": "li-FAotpi4FkuLqInWEDh4w",
   "slug": "frommelt-zimmerei-ing-holzbau-ag-schaan",
-  "name": "Frommelt Zimmerei & Ing. Holzbau AG",
+  "name": "Frommelt Zimmerei und Ing. Holzbau AG",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,63 @@
     "Badmöbel",
     "Holzreparatur"
   ],
-  "description": "So verzichtet Ihr bereits sehr gut optimierter Webauftritt aktuell noch auf digitales Conversion-Tracking, wodurch wichtige Daten zur Besucherherkunft ungenutzt bleiben."
+  "description": "So verzichtet Ihr bereits sehr gut optimierter Webauftritt aktuell noch auf digitales Conversion-Tracking, wodurch wichtige Daten zur Besucherherkunft ungenutzt bleiben.",
+  "googlePlaceId": "ChIJkyvZrVcwm0cRrSC59QIWEUY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Klaus",
+        "author_photo": "/images/reviews/frommelt-zimmerei-ing-holzbau-ag-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "💪🏻👌🏻",
+        "time": 1619502871,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Eberhard Wandel",
+        "author_photo": "/images/reviews/frommelt-zimmerei-ing-holzbau-ag-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732294675,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Elias Tschirky",
+        "author_photo": "/images/reviews/frommelt-zimmerei-ing-holzbau-ag-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1703712719,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Franek Podolski",
+        "author_photo": "/images/reviews/frommelt-zimmerei-ing-holzbau-ag-schaan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698309511,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christoph Marxer",
+        "author_photo": "/images/reviews/frommelt-zimmerei-ing-holzbau-ag-schaan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664887462,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

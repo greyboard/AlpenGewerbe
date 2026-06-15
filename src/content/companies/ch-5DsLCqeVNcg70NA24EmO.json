@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJvVDuk-l9g0cRHG85eM6uKyA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 08:00–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Rolf Biechler",
+        "author_photo": "/images/reviews/amar-garten-und-landschaftspflege-ag-rothenbrunnen/reviewer_1.jpg",
+        "rating": 3,
+        "text": "Gute Firma, tolles Personal, haben gute Ideen,",
+        "time": 1644865518,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michael Meisser",
+        "author_photo": "/images/reviews/amar-garten-und-landschaftspflege-ag-rothenbrunnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma. Nach dem Schneiden der Bäume und der Hecke war alles sehr sauber aufgeräumt. Preis-Leistung stimmt komplett. Nur zu empfehlen!",
+        "time": 1666033124,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "P. J. Strahleman",
+        "author_photo": "/images/reviews/amar-garten-und-landschaftspflege-ag-rothenbrunnen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Geleistete Arbeiten in Bonaduz\n- hielt sich nicht an mündliche Abmachungen\n- beschädigtes Eigentum wurde nicht ersetzt\n- mir gegenüber sehr respecktloses Verhalten bei der Arbeitsabnahme",
+        "time": 1628269423,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Markus Zenger",
+        "author_photo": "/images/reviews/amar-garten-und-landschaftspflege-ag-rothenbrunnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wunderschöner Garten.\nEin kleines Bistro wäre noch das Tüpfelchen auf dem i.",
+        "time": 1728504565,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christa Spoerle",
+        "author_photo": "/images/reviews/amar-garten-und-landschaftspflege-ag-rothenbrunnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super ideen, super ausführung. Danke!",
+        "time": 1616692967,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

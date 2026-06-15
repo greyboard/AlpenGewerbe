@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJuTZk5Rt9g0cRl68ihoWfnms",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Marco Cadonau",
+        "author_photo": "/images/reviews/metallbau-pfister-ag-samedan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer stets gut und freundlich bedient worden, hohe Qualität und gutes Handwerk und Auftragsabläufe.",
+        "time": 1507699487,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Roland Kreuzer",
+        "author_photo": "/images/reviews/metallbau-pfister-ag-samedan/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Abladepersonal sehr freundlich aber die Lokalität, für Lkws eine Zumutung.",
+        "time": 1628780935,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stony Silvio Steiner",
+        "author_photo": "/images/reviews/metallbau-pfister-ag-samedan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer top bedient",
+        "time": 1675971664,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Diego Giuriani",
+        "author_photo": "/images/reviews/metallbau-pfister-ag-samedan/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Tolles Personal",
+        "time": 1446153119,
+        "relative_time_description": "vor 10 Jahren"
+      },
+      {
+        "author_name": "Davide Brevi",
+        "author_photo": "/images/reviews/metallbau-pfister-ag-samedan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656274945,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

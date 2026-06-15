@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjYJ6neP7j0cRRF7Yaodx2PA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Daniel Kohler",
+        "author_photo": "/images/reviews/elektro-maerk-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben eine Designer-Lampe installieren lassen. Die äusserst professionelle und sympathische, effiziente Installation hat uns sehr beeindruckt. Wir können dieses Unternehmen mit allerbestem Wissen und Gewissen weiterempfehlen. Und wir werden bei nächster Gelegenheit sehr gerne wieder auf die verlässlichen Dienste dieser Profis zurückgreifen. Nochmals herzlichen Dank für die tolle Arbeit !",
+        "time": 1578150029,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Von Arthur",
+        "author_photo": "/images/reviews/elektro-maerk-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Elektro-Firma. Ich bin rundum zufrieden, von der Kundenbetreuung bis zur Installation, lief alles perfekt und nach meinen Wünschen. Habe schnell einen passenden Termin bekommen und das ganze Team ist super freundlich....kann ich wirklich nur empfehlen...solche Firmen gibt es nur noch selten...",
+        "time": 1560275007,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Alexander Rieder",
+        "author_photo": "/images/reviews/elektro-maerk-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässig und sehr kompetent!",
+        "time": 1762946286,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Markus Rüedi",
+        "author_photo": "/images/reviews/elektro-maerk-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein Team das den Job mit sehr viel Kompetenz, Fachwissen und Leidenschaft ausführt. Wir fühlen sehr gut aufgehoben.",
+        "time": 1644697029,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Melanie Jud",
+        "author_photo": "/images/reviews/elektro-maerk-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service und sehr hohe Fachkompetenz!\nNur zu empfehlen.",
+        "time": 1664991329,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

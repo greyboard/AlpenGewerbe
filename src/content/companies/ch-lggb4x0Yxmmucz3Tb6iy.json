@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu6f0oxdpjkcRPDUzbwzwci0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Andre Repond",
+        "author_photo": "/images/reviews/alain-electroservice-sarl-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Photovoltaikanlage auf einer Villa. Sehr professionelles Unternehmen! Aufmerksam im Umgang mit dem Kunden und äußerst effizient – ​​ich kann sie für alle Elektroarbeiten wärmstens empfehlen.",
+        "time": 1749787618,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "François Loup",
+        "author_photo": "/images/reviews/alain-electroservice-sarl-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr professioneller Service. Faire Preise und extrem reaktionsschnell. Ich kann Alain Electroservice wärmstens empfehlen.",
+        "time": 1759906167,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Johannes Kilde",
+        "author_photo": "/images/reviews/alain-electroservice-sarl-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Um meine Erfahrungen mit Alain Electroservice Sàrl zusammenzufassen: Wettbewerbsfähige Preise, Pünktlichkeit und vor allem: Die Qualität entsprach meinen Erwartungen.\nIch habe bereits mehrere Projekte mit Alain Electroservice realisiert und war jedes Mal positiv überrascht. Ich kann Alain Electroservice Sàrl uneingeschränkt empfehlen.",
+        "time": 1684967509,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pierre S.",
+        "author_photo": "/images/reviews/alain-electroservice-sarl-fribourg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Installation neuer Stromkabel und Steckdosen für meine Hi-Fi-Anlage; die Zusammenarbeit mit den Handwerkern war sehr angenehm, im Gegensatz zu einem großen Unternehmen. Ich würde sie jederzeit wieder für zukünftige Projekte beauftragen.",
+        "time": 1683650457,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Wenger Mario",
+        "author_photo": "/images/reviews/alain-electroservice-sarl-fribourg/reviewer_5.jpg",
+        "rating": 2,
+        "text": "Ich empfehle dringend, vor Beginn der Arbeiten einen Kostenvoranschlag einzuholen. Der Zeitaufwand für eine einfache Aufgabe ist übermäßig und vermittelt einen unprofessionellen Eindruck.",
+        "time": 1699877897,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

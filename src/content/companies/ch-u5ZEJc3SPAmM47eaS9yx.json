@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJeWgsKKf3j0cRUk2xdKWUbrM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–19:00 Uhr",
+    "Dienstag: 09:00–19:00 Uhr",
+    "Mittwoch: 09:00–19:00 Uhr",
+    "Donnerstag: 09:00–19:00 Uhr",
+    "Freitag: 09:00–19:00 Uhr",
+    "Samstag: 09:00–17:00 Uhr",
+    "Sonntag: 09:00–17:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Marko Priem",
+        "author_photo": "/images/reviews/hofladen-stanserboden-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Unterkunft, freundlich, pilgerfreundlich, geschmackvolle Zimmer und gutes Frühstück. Mir hat es sehr gut gefallen und für andere Pilger sehr zu empfehlen. Sehr nette Betreiber",
+        "time": 1717358775,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Manuel Ruhstaller",
+        "author_photo": "/images/reviews/hofladen-stanserboden-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1775817986,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Moni H",
+        "author_photo": "/images/reviews/hofladen-stanserboden-stans/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1760907657,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "BigBang Barbershop & Tattooshop",
+        "author_photo": "/images/reviews/hofladen-stanserboden-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1754419041,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Vital Zimmermann",
+        "author_photo": "/images/reviews/hofladen-stanserboden-stans/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1740138293,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

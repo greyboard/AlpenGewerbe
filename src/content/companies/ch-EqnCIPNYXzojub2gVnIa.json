@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ__8vRUyqmkcR3dD88YdIIy4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "R. Hausi",
+        "author_photo": "/images/reviews/marti-sanitaer-gmbh-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir hatten vor ein paar Jahren eine kleine Waschmaschine (mit neuen Anschlüssen etc.) in unserer Wohnung von Bruno installieren lassen. Er war sehr speditiv, angenehm und ein korrekter Typ mit einem fairen & angemessenen Preis/Leistungsniveau. Wir würden ihn jederzeit weiterempfehlen.......",
+        "time": 1755159486,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "maruuu maruuu",
+        "author_photo": "/images/reviews/marti-sanitaer-gmbh-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bruno, danke dir für das Installieren der Eismaschine.\nDie Instalation ist einfach top, es war ja nicht einfach diese Wasser-Rohre zu ziehen.\nIch fühlte mich beim helfen eher wie ein Elektriker, es hat spass gemacht danke!",
+        "time": 1748283088,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hans Nötig",
+        "author_photo": "/images/reviews/marti-sanitaer-gmbh-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unkompliziert, schnell, effizient, fairer Preis.\ntop service, super zufrieden.\nBesten Dank.",
+        "time": 1737629474,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jon Duri Tall",
+        "author_photo": "/images/reviews/marti-sanitaer-gmbh-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Guter Mann, zuverlässig, Preis-Leistung Top. Es ist bereits der 6te Umbau mit ihm und er hat mich immer top zufrieden gestellt.",
+        "time": 1701119475,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christoph Silberschmidt",
+        "author_photo": "/images/reviews/marti-sanitaer-gmbh-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wow. Super unkomplizierte Abhandlung und top Umsetzung. Danke herzlich!",
+        "time": 1696176463,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJtShP5-Y5jkcRyQi98mFsfY4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–16:30 Uhr",
+    "Dienstag: 07:30–16:30 Uhr",
+    "Mittwoch: 07:30–16:30 Uhr",
+    "Donnerstag: 07:30–16:30 Uhr",
+    "Freitag: 07:30–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Mundi (Mundi)",
+        "author_photo": "/images/reviews/elektro-erti-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "mein Kühlschrank hat gezickt und die Verwaltung hat Elektro Erti vorbeigeschickt. Alles perfekt. Laufend informiert worden, wann das Ersatzteil kommt, der Monteur war pünktlich, freundlich und kompetent.",
+        "time": 1753348781,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "DMO-connect GmbH",
+        "author_photo": "/images/reviews/elektro-erti-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten bereits seit einiger Zeit mit der Firma Erti und sind begeistert von der professionellen Herangehensweise und der hohen Qualität, die sie in jedes Projekt einfliessen lassen. Besonders hervorzuheben ist die Gebäudeautomation, insbesondere mit KNX, die uns bei der Umsetzung komplexer und spannender Projekte stets unterstützt hat.\n\nDie Zusammenarbeit mit Marc Schaller und seinem Team zeichnet sich durch eine äusserst präzise und saubere Arbeitsweise aus. Sie kümmern sich um jedes Detail und sorgen dafür, dass alle Aufgaben nicht nur termingerecht, sondern auch mit höchster Genauigkeit erledigt werden.\n\nDank der effizienten Arbeitsweise von Elektro Erti können Projekte zügig und ohne unnötige Verzögerungen umgesetzt werden, was für uns als Lieferant von enormem Wert ist.",
+        "time": 1742820596,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Elena Marques",
+        "author_photo": "/images/reviews/elektro-erti-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unsere Tochter macht ihre Lehre zur Kauffrau und wir sind sehr zufrieden. Das Team ist freundlich und unterstützt sie hervorragend. Die Atmosphäre ist professionell und zugleich familiär, was ihre Ausbildung wirklich bereichert. Wir sind froh, dass sie hier ihre Lehre macht!",
+        "time": 1733084510,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Aron Reyon",
+        "author_photo": "/images/reviews/elektro-erti-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr hilfsbereites Personal im Büro! Durfte wegen unüberwindbaren Schneemassen auf der Strasse, meinen Wagen für einige Stunden dort abstellen. Meine Rettung! Vielen Dank nochmals 🙏🏼😊",
+        "time": 1742845855,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eric Steinmann",
+        "author_photo": "/images/reviews/elektro-erti-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiges und sympathisches Unternehmen mitsamt Personal, gerne wieder! Der Service ebenfalls schnell und unkompliziert. Danke!",
+        "time": 1730980285,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

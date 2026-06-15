@@ -1,7 +1,7 @@
 {
   "id": "ch-BJw3Oikv9KsSQRcyVl6Y",
   "slug": "ria-ag-zuerich",
-  "name": "Ria AG",
+  "name": "RIA Parkett AG",
   "branchen": [
     "bodenleger"
   ],
@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMb1A7D-nmkcRy89hCt0uE20",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Florian Koerber",
+        "author_photo": "/images/reviews/ria-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Verkäufer Herr Furrer im Shop ist sehr freundlich und toll im erklären, weiss sehr viel und kann dies auch Laien sehr gut erklären. Dank ihm ist der Kunde in der Lage DIE richtige Lösung zu finden. Den Auftrag erteilt haben wir Ria, da der Verkäufer uns ganz und gar überzeugt hat.\n\nAuch die beiden Manager oder Eigentümer (?) sind sehr freundlich und haben alles terminlich gut koordiniert.\n\nDer Mitarbeiter Murat hat den neuen Parkett sehr sauber verlegt. Auch spezielle Voraussetzungen mit den Sockeln hat er top gemeistert.\nNun haben wir Ria einen nächsten Auftrag erteilt: schleifen und Ölen eines bestehenden Bodens. Dies ist bereits fast abgeschlossen und macht wieder einen tollen Eindruck.\n\nWir sind rundum sehr zufrieden.",
+        "time": 1770102510,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Manuel P.",
+        "author_photo": "/images/reviews/ria-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Qulität trifft Zuverlässigkeit. Sehr professionelles und lösungsorientiertes Unternehmen.\n\nKann ich nur weiterempfehlen.",
+        "time": 1714627980,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Züleyha Gezgin",
+        "author_photo": "/images/reviews/ria-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Firma.\nWurde sehr gut beraten.\nDie Vinyl Böden wurden sehr schön, sorgfältig und schnell verlegt.\nDie Organisation, hat super geklappt.\nMitarbeiter waren alle sehr kompetent und sympathisch.\nDie Firma Ria Parkett kann ich sehr weiter empfehlen.",
+        "time": 1702710439,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "IsA lehner",
+        "author_photo": "/images/reviews/ria-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich danke Ihnen für die effiziente Arbeit. Guter Kundenservice. Sehr sauberes Arbeiten. Das Verlegen von Parkett wurde sehr schön und sauber gemacht.",
+        "time": 1536041863,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Murat E",
+        "author_photo": "/images/reviews/ria-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ria Parkett AG hat unsere StwE Wohnung den Bodenbeleg zu unserer vollster Zufriedenheit erledigt...Danke an das ganze Team der Ria Parkett AG",
+        "time": 1698612949,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

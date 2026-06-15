@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP94WTrm5kUcRAgw-fgiCJVc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–16:30 Uhr",
+    "Dienstag: 07:30–16:30 Uhr",
+    "Mittwoch: 07:30–16:30 Uhr",
+    "Donnerstag: 07:30–16:30 Uhr",
+    "Freitag: 07:30–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Mohammed Al Zain",
+        "author_photo": "/images/reviews/marti-elektro-installationstechnik-ag-basel/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Nicht zu erreichen wenn man es braucht",
+        "time": 1768476079,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Jonas Pfister",
+        "author_photo": "/images/reviews/marti-elektro-installationstechnik-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Habe sämtliche Leitungen in unserem EFH sanieren lassen. Es hat alles super geklappt. Die Arbeiten wurden sauber und zum geplanten Termin hin  ausgeführt. Tatsächliche Kosten entsprachen der Offerte. Ich würde jederzeit wieder mit Elektro Marti arbeiten.",
+        "time": 1517913455,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Laura Gonzalez",
+        "author_photo": "/images/reviews/marti-elektro-installationstechnik-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nett :)",
+        "time": 1764145222,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Francesco A.",
+        "author_photo": "/images/reviews/marti-elektro-installationstechnik-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Bedienung!!!",
+        "time": 1530827017,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Philip Strebel",
+        "author_photo": "/images/reviews/marti-elektro-installationstechnik-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bester Regionaler Elektriker",
+        "time": 1548430597,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

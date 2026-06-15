@@ -26,5 +26,38 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJL7SHEQnHhEcREGbt3i2vO7s",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Battaglia Brigitte",
+        "author_photo": "/images/reviews/albertin-g-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ezio Albertin ist ein patenter, zuverlässiger und kompetenter Elektriker. Er macht einen guten Job, egal wie gross das Arbeitsvolumen ist. Wir werden bei Bedarf immer wieder auf ihn zurückgreifen!",
+        "time": 1744043044,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Reto Just",
+        "author_photo": "/images/reviews/albertin-g-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ezio liefert eine Top-Arbeit zu einem moderaten Preis/Leistungs-Verhältnis ab👍🏻sehr empfehlenswerte Firma und 1.Ansprechperson bei elektrotechnischen Problemen👌🏻jederzeit gerne wieder, falls benötigt👌🏻",
+        "time": 1755715612,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Marc Berger",
+        "author_photo": "/images/reviews/albertin-g-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein kleines Unternehmen mit grosser Erfahrung. Kompetent und zuverlässig.",
+        "time": 1562584178,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

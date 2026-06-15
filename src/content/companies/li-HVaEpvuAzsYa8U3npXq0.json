@@ -25,5 +25,47 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJsypQZuMzm0cRDHEEEwapzGM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Ghust Meghusta",
+        "author_photo": "/images/reviews/morina-plattenbelaege-ag-vaduz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\nIch kann diese Firma absolut empfehlen! Morina Plattenbeläge AG hat hervorragende Qualität und ein super freundliches Team.\nDie Beratung war sehr kompetent.\n\nEin grosses Lob an das gesamte Team !",
+        "time": 1755768130,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Alexandra Walch",
+        "author_photo": "/images/reviews/morina-plattenbelaege-ag-vaduz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben 3 Bäder erneuert und Herr Morino hat uns wunderbar beraten. Die Mitarbeiter waren sehr gut instruiert, arbeiteten genau und haben tolle Arbeit geleistet. Sehr zu empfehlen! Danke.",
+        "time": 1726032527,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mendim Bellaqa",
+        "author_photo": "/images/reviews/morina-plattenbelaege-ag-vaduz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576674802,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

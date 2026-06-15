@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5bxRNzz2j0cR0_XvF44vyNs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Sven Ineichen",
+        "author_photo": "/images/reviews/biber-specht-gmbh-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit nunmehr 12 Jahren pflegen wir eine enge und vertrauensvolle Partnerschaft mit der Biber&Specht GmbH. Diese langjährige Zusammenarbeit ist von einem gemeinsamen Motto geprägt: „Es gibt keine Probleme, nur Lösungen.“ Diese positive und lösungsorientierte Einstellung begleitet uns durch jede Herausforderung, sei es im Schreinerbereich oder bei der Umsetzung innovativer Projekte, wie beispielsweise unserer beeindruckenden freischwebenden Treppe.\n\nDie Kooperation erstreckt sich über alle Ebenen, vom Geschäftsführer bis zu den Handwerkern. Jeder Einzelne bringt seine individuelle Expertise und Leidenschaft ein, was zu einer harmonischen Teamarbeit führt. Diese kollektive Anstrengung resultiert nicht nur in maßgeschneiderter Qualität, sondern auch in einer spürbaren Freude an der täglichen Arbeit.\n\nDie s.i parkett+boden GmbH möchte sich herzlich für die hervorragende Zusammenarbeit bedanken. Gemeinsam schaffen wir nicht nur Lösungen, sondern auch beeindruckende Ergebnisse, die unsere Partnerschaft in einem strahlenden Licht erscheinen lassen. Diese Erfolge sind das Ergebnis unseres gemeinsamen Engagements und unserer Vision, stets das Beste zu erreichen.",
+        "time": 1731412336,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Eichenberger",
+        "author_photo": "/images/reviews/biber-specht-gmbh-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Besten Dank für die Tolle Treppe und Arbeit. Gruss aus Stans.",
+        "time": 1382454692,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Pokku Raja",
+        "author_photo": "/images/reviews/biber-specht-gmbh-dallenwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1744275658,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manfred Keiser",
+        "author_photo": "/images/reviews/biber-specht-gmbh-dallenwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1632281983,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bernd Käslin",
+        "author_photo": "/images/reviews/biber-specht-gmbh-dallenwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1521834030,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJEwg-Zca3kUcRrGJn4GJfMJU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Florian Blumer",
+        "author_photo": "/images/reviews/meister-sanitaer-spenglerei-ag-muttenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Luca Selva Architekten haben unserem Einfamilienhaus eine \"kleine Schwester\" aus Holz hinzugefügt, dessen Dach komplett aus Solarpanels besteht. Meister Sanitär hat das als Gesamtpaket realisiert - zusammen mit allen weiteren Sanitär- und Spenglerarbeiten in und am Haus. Seither produzieren wir in unserem Zwei-Generationenhaus Licht-, Kraft- und Wärme-Energie (Wärmepumpe) selbst. Für den Eigenbedarf haben wir auch Batteriespeicher im Keller. Alle ein- und ausgehenden Daten haben wir sekundenaktuell auf unserer App, und alles lief immer einwandfrei: im Sommer, Herbst und bald Winter.",
+        "time": 1762187797,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Brigitte Schär",
+        "author_photo": "/images/reviews/meister-sanitaer-spenglerei-ag-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank an Dan Meister und sein Team für die hervorragende und ausserordentlich schnelle Arbeit beim Noteinsatz bei uns diese Woche. Es ist wunderbar wieder eine warme Dusche und eine funktionierende Heizung zu haben. Die Firma Meister Sanitär ist wirklich sehr zu empfehlen!",
+        "time": 1759949919,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Roger- Philipp Rickli",
+        "author_photo": "/images/reviews/meister-sanitaer-spenglerei-ag-muttenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Perfekte Ergänzung für unser bestehendes Umbauteam. Zuverlässig und termingerechte Arbeitsausführung. Wir freuen uns auf die anstehenden Arbeiten mit ihnen. Herzlichen Dank.\nWohngenossenschaft Im Heimatland, Basel",
+        "time": 1702589121,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Susanne Eggenberger",
+        "author_photo": "/images/reviews/meister-sanitaer-spenglerei-ag-muttenz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden. Herr Dan Meister als Gesamtverantwortlicher für die PV-Anlage sowie auch die Elektriker von Schnieper+Schmied haben sehr saubere Arbeit abgeliefert. Danke.",
+        "time": 1751260097,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Andrin Baumann",
+        "author_photo": "/images/reviews/meister-sanitaer-spenglerei-ag-muttenz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches Büropersonal, die mir sofort ein Service Monteur vorbei geschickt haben, als mein Spülkasten defekt war. Der Monteur hat alles sauber abgedeckt und mir genau erklärt was er gemacht hat. Eine rundum positive Erfahrung gewesen.",
+        "time": 1537271238,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

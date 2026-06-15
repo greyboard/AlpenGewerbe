@@ -25,5 +25,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJa94anKA6m0cRaCeUUXASh-U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–11:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Ruth Düsel",
+        "author_photo": "/images/reviews/kolb-elektro-sbw-ag-haag-rheintal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Fachmann in der Ostschweiz👍",
+        "time": 1758436524,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Christian Lottermoser",
+        "author_photo": "/images/reviews/kolb-elektro-sbw-ag-haag-rheintal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma und top Personal.",
+        "time": 1631464307,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Daniel Meier",
+        "author_photo": "/images/reviews/kolb-elektro-sbw-ag-haag-rheintal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Elektro Installateur",
+        "time": 1583857172,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Simon Schneider",
+        "author_photo": "/images/reviews/kolb-elektro-sbw-ag-haag-rheintal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "sehr zuverlässig und kompetent!",
+        "time": 1680349398,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Markus Pessenhofer",
+        "author_photo": "/images/reviews/kolb-elektro-sbw-ag-haag-rheintal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Elektro-Unternehmen für Privat- sowie Grosskunden",
+        "time": 1501517742,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

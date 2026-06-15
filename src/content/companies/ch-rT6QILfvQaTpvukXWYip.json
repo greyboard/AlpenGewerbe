@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ11G55MGhmkcR7cb1N1W6iws",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Granit Krasniqi",
+        "author_photo": "/images/reviews/best-plattenleger-gmbh-kloten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und zuverlässige Firma. Freundliche Kommunikation, saubere Arbeit und top Qualität. Kann die Best Plattenleger GmbH nur weiterempfehlen!",
+        "time": 1755612584,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Alton Gashi",
+        "author_photo": "/images/reviews/best-plattenleger-gmbh-kloten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und saubere Ausführung. Die Beratung war freundlich und kompetent, alle Arbeiten wurden termingerecht und mit viel Sorgfalt erledigt. Das Ergebnis kann sich wirklich sehen lassen – wir sind begeistert!\nBestplattenleger ist absolut zu empfehlen!",
+        "time": 1750707563,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Gashi Sanitärinstallationen GmbH",
+        "author_photo": "/images/reviews/best-plattenleger-gmbh-kloten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756444121,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Arber Shala",
+        "author_photo": "/images/reviews/best-plattenleger-gmbh-kloten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1712345170,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gentrit Shala",
+        "author_photo": "/images/reviews/best-plattenleger-gmbh-kloten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1712342378,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

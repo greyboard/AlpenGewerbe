@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGW7zXajHkUcRTEGMYC77Y5M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Ja Vetesnik",
+        "author_photo": "/images/reviews/malergeschaeft-sammy-felber-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetent, schnell und sauber gearbeitet.\nWir sind sehr zufrieden.",
+        "time": 1579048349,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Angelo Nardone",
+        "author_photo": "/images/reviews/malergeschaeft-sammy-felber-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässiger und kompetenter Maler .",
+        "time": 1549454115,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "cam darf",
+        "author_photo": "/images/reviews/malergeschaeft-sammy-felber-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "super Fassade danke Ihnen Herr Felber",
+        "time": 1573120019,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Can Cavas",
+        "author_photo": "/images/reviews/malergeschaeft-sammy-felber-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1668852725,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jessy",
+        "author_photo": "/images/reviews/malergeschaeft-sammy-felber-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1733241347,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

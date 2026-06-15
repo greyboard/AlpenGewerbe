@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGx3hZ8kfm0cRVMmcjkdTAH4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "'hitorino hito'",
+        "author_photo": "/images/reviews/holzwerkstatt-stephan-faessler-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert! Der Service war erstklassig. Mein Holzbrett wurde perfekt bearbeitet. Besonders hervorzuheben sind die Löcher, deren Tiefe und Abstände genau so umgesetzt wurden, wie ich es mir vorgestellt hatte. Ein besonderes Dankeschön an Herrn Fässler für die äusserst freundliche und professionelle Abwicklung. Die Arbeit war sehr zügig und die Qualität ist ausgezeichnet. Reine Präzisionsarbeit! Besten Dank!\nLG M.F",
+        "time": 1760435163,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "va zi",
+        "author_photo": "/images/reviews/holzwerkstatt-stephan-faessler-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kann ich auch nur weiterempfehlen! Preisleistung echt mega und man kriegt genau das was man sich vorgestellt hat!",
+        "time": 1769871916,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Mara Niederer",
+        "author_photo": "/images/reviews/holzwerkstatt-stephan-faessler-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben den Umbau unseres EFH an die Holzwerkstatt Fässler vergeben und sind so sehr zufrieden mit dieser Entscheidung. Remo und Stephan haben einen fantastischen Job gemacht mit ihrem Team, ein wunderschönes Ergebnis gezaubert und wir konnten uns zu 100% darauf verlassen, dass sowohl die Bauleitung wie auch die Schreinerarbeiten zuverlässig ausgeführt wurden. Ein grosses Dankeschön und das gesamte Team!",
+        "time": 1734556463,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jan Orban",
+        "author_photo": "/images/reviews/holzwerkstatt-stephan-faessler-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kann nur empfehlen! Alles tiptop. Sehr freundlich, professionell, schnell und hochwertig. Präzision pur! Danke viel mal :)",
+        "time": 1702635430,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Walter Samuel Bösch",
+        "author_photo": "/images/reviews/holzwerkstatt-stephan-faessler-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Echte \"Holzwerkstatt\", hat für Alles eine passende Lösung. Verwirklicht auch Sonderwünsche in schönstem Holz.",
+        "time": 1656233158,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

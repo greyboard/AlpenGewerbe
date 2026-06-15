@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJbXVS5xfehEcR_EhVSnuscAw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Christian Borer",
+        "author_photo": "/images/reviews/candinas-maler-gipser-ag-ilanz-glion/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Alles Gauner hier!!!viel zu hohe preise die nie gerechtfertigt sind!!!Arbeiten zum teil unter jeder sau!!!!Farben mit schlechter qualität.nehem sie denn nicht. mir wurde noch getroht wegen der erhlichen rezesion die geschrieben habe.unglaublich!!aber mir verbietet keiner meine ehrlich meinung!!!war 30 jahre Maler!!!",
+        "time": 1764420139,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Patricia Surbeck",
+        "author_photo": "/images/reviews/candinas-maler-gipser-ag-ilanz-glion/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Candinas Maler Gibser AG erfüllt alle Erwartungen. Die Räume werden fachmännisch ausgemessen und die Malerarbeiten wurden perfekt ausgeführt! Man kann die Firma Candinas aus Überzeugung weiterempfehlen!!!",
+        "time": 1732038943,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Struckmann",
+        "author_photo": "/images/reviews/candinas-maler-gipser-ag-ilanz-glion/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die perfekte Arbeit in unserer Wohnung. Wir schätzen Ihre Professionalität, Freundlichkeit, Flexibilität und Lösungsorientierung. Wir können Sie bestens weiterempfehlen.",
+        "time": 1693818041,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marc Berger",
+        "author_photo": "/images/reviews/candinas-maler-gipser-ag-ilanz-glion/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit sehr zufrieden. Es wurde sauber und speditiv gearbeitet. Sehr empfehlenswert.",
+        "time": 1756461996,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Sabrina Tscharner",
+        "author_photo": "/images/reviews/candinas-maler-gipser-ag-ilanz-glion/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit. Sind zufrieden.",
+        "time": 1564416982,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

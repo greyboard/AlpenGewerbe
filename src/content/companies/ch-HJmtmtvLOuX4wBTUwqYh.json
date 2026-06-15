@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJLXLxHEkshUcRoDN_vLUbKPc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Jasmin Kamm",
+        "author_photo": "/images/reviews/z-feuz-elektro-gmbh-ennenda/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Nicht nur zu teuer, sondern sie verkaufen auch mangelhafte Lichtschalterdeckel, die nach wenigen Monaten abfallen.\nBei uns war jemand vor Ort aber nach drei Monaten fallen erneut unsere Lichtschalterdeckel ab.\nNicht mal ein wenig Kulanz.\n\nMehr als Schrott. Keine Empfehlung.",
+        "time": 1582656497,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Daniel Schnyder",
+        "author_photo": "/images/reviews/z-feuz-elektro-gmbh-ennenda/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709305035,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Heiri Egli",
+        "author_photo": "/images/reviews/z-feuz-elektro-gmbh-ennenda/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697708024,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Martin Jenny",
+        "author_photo": "/images/reviews/z-feuz-elektro-gmbh-ennenda/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1591630387,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Antonella Di donato",
+        "author_photo": "/images/reviews/z-feuz-elektro-gmbh-ennenda/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1590055918,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

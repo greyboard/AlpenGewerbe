@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJr-tncELkmkcR5x-PpUdyj1Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Corina Carl (neko)",
+        "author_photo": "/images/reviews/linder-metallbau-schlosserei-gmbh-bischofszell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für Ihre superschnelle und professionelle Dienstleistung. LG",
+        "time": 1591266660,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Patrick Lemmenmeier",
+        "author_photo": "/images/reviews/linder-metallbau-schlosserei-gmbh-bischofszell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1718866758,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mirnes Arifovic",
+        "author_photo": "/images/reviews/linder-metallbau-schlosserei-gmbh-bischofszell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1625494815,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Roman Hinder",
+        "author_photo": "/images/reviews/linder-metallbau-schlosserei-gmbh-bischofszell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1617446557,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Kissmy Og mako",
+        "author_photo": "/images/reviews/linder-metallbau-schlosserei-gmbh-bischofszell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575123354,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

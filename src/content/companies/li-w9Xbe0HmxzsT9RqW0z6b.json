@@ -25,5 +25,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJs0lpcfgwm0cR1iQ5mAtSVT4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "S R",
+        "author_photo": "/images/reviews/plaettli-ganz-ag-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir wurden von Melchior Röthlin beraten. Eine Fachlich, kompetente Beratung & sehr kundenfreundlich. Sehr zu empfehlen.\n\nWir sind sehr zufrieden! Wir freuen uns auf die „Plättli“ die wir ausgesucht haben.\n\nBesten Dank",
+        "time": 1742836690,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Doru Ciuta",
+        "author_photo": "/images/reviews/plaettli-ganz-ag-schaan/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Wir fanden eine sehr vielfältige Produktpalette mit unterschiedlichen Strukturen und Material- und Farbkombinationen vor.  Sehr freundliches und kompetentes Personal.",
+        "time": 1630055331,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrick Giro",
+        "author_photo": "/images/reviews/plaettli-ganz-ag-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Lustige Truppe... Sind jobbedingt oft dort, immer ein Lächeln im Gesicht, auch wenn man es auf den ersten Blick nicht sieht 🤔🤪 in meinen Augen sehr kompetent... Weiter so",
+        "time": 1565003450,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Patrick Hofbauer",
+        "author_photo": "/images/reviews/plaettli-ganz-ag-schaan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fachlich kompetente Beratung mit Kundenfreundlichkeit",
+        "time": 1645079459,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lalin1985ify",
+        "author_photo": "/images/reviews/plaettli-ganz-ag-schaan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "👍👌💪",
+        "time": 1542125179,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

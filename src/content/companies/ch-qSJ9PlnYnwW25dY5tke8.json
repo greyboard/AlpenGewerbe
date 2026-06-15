@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJE7gPQKs5kEcR6KGmk3iDfLs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Katja Hänni-Senn",
+        "author_photo": "/images/reviews/holzbau-nussbaum-ag-rohr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit Holzbau Nussbaum ist  genial! Super Service, sehr gute und genaue Kommunikation, alles was besprochen und definiert wurde, wurde auch perfekt bis ins Detail umgesetzt und ausgeführt. Das Resulat ist genial geworden, eine wunderschöne und exakt passende Galerie zu einem fairen Preis wurde in kürzester Zeit absolut professionnell installiert. Wir sind begeistert, jederzeit wieder!",
+        "time": 1673771556,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sophie De Baets",
+        "author_photo": "/images/reviews/holzbau-nussbaum-ag-rohr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service, freundlich und immer wieder perfekt. Es macht Freude mit Benj Nussbaum zusammen zu arbeiten. Besten Dank Benj!",
+        "time": 1690646894,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Strebel Peter",
+        "author_photo": "/images/reviews/holzbau-nussbaum-ag-rohr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "super arbeit immer wieder",
+        "time": 1673441677,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Heiz",
+        "author_photo": "/images/reviews/holzbau-nussbaum-ag-rohr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1673808219,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jasmin",
+        "author_photo": "/images/reviews/holzbau-nussbaum-ag-rohr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1673864159,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

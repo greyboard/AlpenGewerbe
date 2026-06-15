@@ -26,5 +26,55 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJmYxTELu5kUcR-lUNS0Bxjoc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Daniel Rieder",
+        "author_photo": "/images/reviews/p-krieg-ag-basel/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Sogar ein einfacher Türschliesser überfordert diese Firma. Absolut kein verlässlicher Service, nur ausreden.",
+        "time": 1773845250,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "tim werthmüller",
+        "author_photo": "/images/reviews/p-krieg-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Guter Betrieb im Kleinbasel. Sehr zu empfehlen",
+        "time": 1670922973,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "mario Bühler",
+        "author_photo": "/images/reviews/p-krieg-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit und netter Kontakt. Herzlichen Dank nochmals für den flotten und spontanen Einsatz. Das Treppengeländer ist sehr schön geworden.  Kann ich sehr empfehlen .",
+        "time": 1614933204,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ajra Ardijan",
+        "author_photo": "/images/reviews/p-krieg-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Rodon",
+        "time": 1778928643,
+        "relative_time_description": "vor 4 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJiyGnJjZpj0cRtnDp7vLR-Tk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Sacha Hildbrand",
+        "author_photo": "/images/reviews/schnyder-beat-ag-brig-glis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und fair… jederzeit wieder",
+        "time": 1759906237,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Nicola Dennda",
+        "author_photo": "/images/reviews/schnyder-beat-ag-brig-glis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank fûr die sehr akkurat und sauber ausgeführte Deckenrenovation, das tolle Engagement der Arbeiter und v.a die Organisation von Hr. Dörig! Immer zur Stelle wenn Hilfe oder qualifizierter Rat gebraucht wird. Top Beratung und Ausführung! Habe selten ein Malergeschàft so perfekt abgeklebt und alles sauber hinterlassen gesehen.",
+        "time": 1530293405,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "blubb blubber",
+        "author_photo": "/images/reviews/schnyder-beat-ag-brig-glis/reviewer_3.jpg",
+        "rating": 3,
+        "text": "ist okay",
+        "time": 1712220210,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ion Livio STOIAN",
+        "author_photo": "/images/reviews/schnyder-beat-ag-brig-glis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Platz 1 insgesamt!",
+        "time": 1679432216,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "RaphiG",
+        "author_photo": "/images/reviews/schnyder-beat-ag-brig-glis/reviewer_5.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1770999554,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

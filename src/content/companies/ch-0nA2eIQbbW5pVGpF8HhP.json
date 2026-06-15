@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ24I0BdOhUcREcRwoaKKzeE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Ivana Ulrich",
+        "author_photo": "/images/reviews/bauartist-gmbh-schwyz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die schöne Umsetzung des Naturofloors in meinem Bad!",
+        "time": 1752741477,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Maria Benizio",
+        "author_photo": "/images/reviews/bauartist-gmbh-schwyz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Arbeit und die Qualität sehr zufrieden. Chef und Team sind sehr freundlich und professionell.  Termin wurde eingehalten. Besten Dank!",
+        "time": 1615189081,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Thilo Bruhin",
+        "author_photo": "/images/reviews/bauartist-gmbh-schwyz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top professionelle Arbeit. Besten Dank.",
+        "time": 1552177036,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Dj SaCuoT",
+        "author_photo": "/images/reviews/bauartist-gmbh-schwyz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "5 Sterne",
+        "time": 1533329373,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Sabrina Della Schiava",
+        "author_photo": "/images/reviews/bauartist-gmbh-schwyz/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1728069475,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJybEufbo1kEcRr7xsR9iKUn0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Denis Kessler",
+        "author_photo": "/images/reviews/heuberger-sanitaer-ag-gelterkinden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service. Sehr freundlich und Kompetent. Beim nächsten mal wieder Heuberger, kann ich nur empfehlen.",
+        "time": 1640298002,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Eelke Stoll",
+        "author_photo": "/images/reviews/heuberger-sanitaer-ag-gelterkinden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das ging aber flott, sehr Kompetent.",
+        "time": 1736434894,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sandra Therese Couceiro",
+        "author_photo": "/images/reviews/heuberger-sanitaer-ag-gelterkinden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "immer zur Stelle wenn man sie braucht, seit jahrzehnten toller Service",
+        "time": 1683126701,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manuel Borer",
+        "author_photo": "/images/reviews/heuberger-sanitaer-ag-gelterkinden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung und top Arbeit zu fairen Preisen.",
+        "time": 1585408290,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Therese Lander",
+        "author_photo": "/images/reviews/heuberger-sanitaer-ag-gelterkinden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetent, gute Bedienung, Informationen, Showroom",
+        "time": 1653379791,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

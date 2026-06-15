@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF2UH54PHkUcRJ9SZSUbEhSc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Nicola Montagna",
+        "author_photo": "/images/reviews/spenglerei-santos-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Vergnügen, Marcos für verschiedene Arbeiten an meinem Haus zu beauftragen, darunter Dach, Terrasse und Carport, und ich bin wirklich sehr zufrieden. Vom ersten Kontakt an war er professionell, pünktlich und hat alle Details klar erklärt. Bei der Arbeit hat er grosse Präzision und viel Sorgfalt gezeigt, die Ergebnisse sind von höchster Qualität. Er arbeitet sauber, hält Absprachen ein und hinterlässt alles ordentlich – sehr zuverlässig und seriös. Ich kann Marcos jedem wärmstens empfehlen, der einen kompetenten, fähigen und vertrauenswürdigen Spengler sucht – ein Profi, der sowohl durch die Qualität seiner Arbeit als auch durch den persönlichen Umgang überzeugt.",
+        "time": 1769008892,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Thomas Michael Blaser",
+        "author_photo": "/images/reviews/spenglerei-santos-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service, effizient und professionell. Zudem ist das Preis-Leistungsverhältnis wie es sein sollte. Die Terrasse unseres Hauses ist nun wieder in einem einwandfreien Zustand.",
+        "time": 1768555396,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Beni",
+        "author_photo": "/images/reviews/spenglerei-santos-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\n\nTop Service und hervorragende Arbeit!\nDie Spenglerei Santos GmbH hat unser Dach fachgerecht und professionell repariert und das zu einem erstklassigen Preis-Leistungs-Verhältnis. Vom ersten Telefonat über die Terminvereinbarung bis hin zur Begutachtung und Ausführung lief alles äusserst professionell und speditiv. Herr Santos und sein Team arbeiten zuverlässig, sauber und mit viel Fachwissen.\n\nFür zukünftige Arbeiten werde ich mich definitiv wieder an sie wenden. Absolut empfehlenswert!",
+        "time": 1741105181,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jelena Krstevski",
+        "author_photo": "/images/reviews/spenglerei-santos-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Letzte Woche war Hr. Santos bei uns betreffend einer Dachrinnenreinigung. Wir konnten schnell und unkompliziert einen Termin ausmachen. Hr. Santos kam wie vereinbart pünktlich, war sehr freundlich und hat die Arbeit sehr zu unserer Zufriedenheit erledigt.\nGerne wieder 😁",
+        "time": 1736769198,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gaby Salathe",
+        "author_photo": "/images/reviews/spenglerei-santos-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten an der Tierklinik Leimental wurden zu unserer vollsten Zufriedenheit ausgeführt. Die Terminplanung war schnell, unkompliziert und sehr freundlich. Sehr zu empfehlen :-)",
+        "time": 1753271830,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

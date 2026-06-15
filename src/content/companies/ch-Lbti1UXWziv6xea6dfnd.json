@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFVYzMH_8jkcRttJkP_KqfJk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:00 Uhr, 13:30–16:00 Uhr",
+    "Dienstag: 08:00–11:00 Uhr, 13:30–16:00 Uhr",
+    "Mittwoch: 08:00–11:00 Uhr, 13:30–16:00 Uhr",
+    "Donnerstag: 08:00–11:00 Uhr, 13:30–16:00 Uhr",
+    "Freitag: 08:00–11:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Hans Althaus",
+        "author_photo": "/images/reviews/elektro-e-schneider-ag-lenk/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Auftrag wurde vom freundlichen Mitarbeiter, Herr Klopfenstein, kompetent ausgeführt!",
+        "time": 1657314681,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Urs Schneider",
+        "author_photo": "/images/reviews/elektro-e-schneider-ag-lenk/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super freundlich und kurze Reaktionszeit. Top 👍",
+        "time": 1703877797,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandro Klopfenstein",
+        "author_photo": "/images/reviews/elektro-e-schneider-ag-lenk/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709663595,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Zeller",
+        "author_photo": "/images/reviews/elektro-e-schneider-ag-lenk/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1624512779,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christoph Stalder",
+        "author_photo": "/images/reviews/elektro-e-schneider-ag-lenk/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575070254,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

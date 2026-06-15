@@ -26,5 +26,38 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0xqPg08em0cRDqdWJEiEH3M",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "P. S.",
+        "author_photo": "/images/reviews/antenen-malerei-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Danke für den schnellen Support",
+        "time": 1658424357,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jeremy sommer",
+        "author_photo": "/images/reviews/antenen-malerei-ag-st-gallen/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Qualität",
+        "time": 1576134988,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Alex Gon",
+        "author_photo": "/images/reviews/antenen-malerei-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629356520,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

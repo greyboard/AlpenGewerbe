@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJx38kntcfm0cR-R2JPR3bGxw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Christian Meng",
+        "author_photo": "/images/reviews/mr-christian-haenni-landschaftsarchitekt-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Toller Landschaftsplaner.... sehr zu empfehlen...",
+        "time": 1767040501,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Corsinius Hampelmann",
+        "author_photo": "/images/reviews/mr-christian-haenni-landschaftsarchitekt-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super tolle Firma",
+        "time": 1717738127,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Hannes Patt",
+        "author_photo": "/images/reviews/mr-christian-haenni-landschaftsarchitekt-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1692990710,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "markus trutmann",
+        "author_photo": "/images/reviews/mr-christian-haenni-landschaftsarchitekt-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756115444,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Anita Gehrig",
+        "author_photo": "/images/reviews/mr-christian-haenni-landschaftsarchitekt-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1714381351,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

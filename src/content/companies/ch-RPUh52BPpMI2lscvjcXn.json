@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7VvrNQLZkUcRmv1h5UDvzdQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Jasmin Luginbühl",
+        "author_photo": "/images/reviews/jurasued-elektro-gmbh-bellach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir wurden bei unserem Anbau bestens beraten. Mit der Ausführung und dem Endergebnis sind wir sehr Zufrieden.\nVielen Dank an das Jurasüd Elektro Team.\nGerne wieder.",
+        "time": 1753898028,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Toby Burger",
+        "author_photo": "/images/reviews/jurasued-elektro-gmbh-bellach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gerne wieder. Sehr freundliches Team, sehr gute und freundliche Beratung, sehr gute Arbeit.\nUnbedingt empfehlenswert.",
+        "time": 1747558964,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kevin Mathys",
+        "author_photo": "/images/reviews/jurasued-elektro-gmbh-bellach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Erfahrene, anständige und Speditive Monteure. Immer wieder gerne :-)",
+        "time": 1753901030,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "André Berzun",
+        "author_photo": "/images/reviews/jurasued-elektro-gmbh-bellach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tipp topp! Die Jungs arbeiten schnell und professionell, sind ehrlich und halten ihr Wort (!). Absolut empfehlenswert",
+        "time": 1710108661,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandra D",
+        "author_photo": "/images/reviews/jurasued-elektro-gmbh-bellach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "zuverlässig, schnell, zuvorkommend und sehr freundlich. top! 👍🏼",
+        "time": 1727451986,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

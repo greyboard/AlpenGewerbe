@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1UkARDwKkEcRv9Hjj6l1MbY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–14:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Reinhard Lax",
+        "author_photo": "/images/reviews/surber-metallbau-ag-dietikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, freundliches, kompetentes Team.",
+        "time": 1742987296,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "MAJEL",
+        "author_photo": "/images/reviews/surber-metallbau-ag-dietikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank an das Service-Team! kompetente, schnell und sympathische Mitarbeiter, was will man mehr. DANKE weiter so",
+        "time": 1713200443,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Severin Zimmermann",
+        "author_photo": "/images/reviews/surber-metallbau-ag-dietikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Bester Metallbauer aus der Region Zürich. Immer wieder gerne. Super Arbeit. Grüsse",
+        "time": 1614182647,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Saliha Kaya",
+        "author_photo": "/images/reviews/surber-metallbau-ag-dietikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "sehr gut sehr freundliche mit arbeiters und cheffe cool",
+        "time": 1666351755,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Raki",
+        "author_photo": "/images/reviews/surber-metallbau-ag-dietikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Firma sehr kompetent",
+        "time": 1603218368,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

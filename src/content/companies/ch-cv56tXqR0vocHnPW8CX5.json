@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJvXx8EZBBhUcRoREFR7uPyNY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Andrin G",
+        "author_photo": "/images/reviews/schreinerei-arnold-patrik-unterschaechen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und kompetente Begegnung. Die Ansprüche wurden angehört und fachgerecht umgesetzt. Danke Patrick!!",
+        "time": 1752942905,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Tristan",
+        "author_photo": "/images/reviews/schreinerei-arnold-patrik-unterschaechen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und zuvorkommend!",
+        "time": 1752943141,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Michael Dötsch",
+        "author_photo": "/images/reviews/schreinerei-arnold-patrik-unterschaechen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "sehr freundlich",
+        "time": 1752942994,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Priska Arnold",
+        "author_photo": "/images/reviews/schreinerei-arnold-patrik-unterschaechen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756200178,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJJZ1idMHdhEcR2dVjGjJrTks",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Lars Schickentanz",
+        "author_photo": "/images/reviews/flimser-sanitaer-flims-dorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fazit zuerst: einer der besten und zuverlässigsten Handwerker mit denen ich je in Kontakt gekommen bin . Es fig damit an das ich meine Badezimmer renovieren wollte . Verschiedene anläufe sind fehlgeschlagen aufgrund hoher Kosten , mangelnder Disponibilität oder Lustlosigkeit . Schon nach dem ersten Kontakt mit Robin hab ich gemerkt das es diesmal anders seien könnte.\nUnd in der Tat …. Verständnis total auf den ersten Blick . Innerhalb weniger Stunden kam ein detaillierter Kostenvoranschlag , jede Anfrage wurde sofort professionell beantwortet. Auch bei der Beratung war Robin top und proaktiv immer dabei .\nUnd es wurde immer besser … die Zusammenarbeit mit ihm war so gut das ich erst deshalb wagte die gesamte Wohnung zu renovieren wobei Robin sehr hilfreich war und die Projektplanung erstellt hat.\nEinfach toll. Alle seine Arbeiten waren top und es gab nichts zu  beanstanden.\nIch kann Robin bedingungslos und blind an jeden empfehlen. Es war eine Freude mit ihm zusammen zuarbeiten . Nur schade das die Bäder jetzt in Ordnung sind …😂",
+        "time": 1754376304,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Maxim Ristow",
+        "author_photo": "/images/reviews/flimser-sanitaer-flims-dorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe Robin als eine sehr zuverlässige und respektvolle Person kennengelernt, so macht Zusammenarbeit Spass!",
+        "time": 1764150645,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Kerstin von Stechow",
+        "author_photo": "/images/reviews/flimser-sanitaer-flims-dorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Qualität, Zeitmanagement, und rund um sorglos Paket und dazu mega freundlich!Vielen lieben Dank!!Können wir nur empfehlen!",
+        "time": 1767003831,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Claudia HZM",
+        "author_photo": "/images/reviews/flimser-sanitaer-flims-dorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Im Ferienhaus musste kurzfristig die defekte 60 Jahre alte Armatur in der Küche repariert werden. Ersatzteile gibt es dafür natürlich nicht mehr. Herr Giezendanner hat schnell eine sehr kreative und auch praktikable Lösung gefunden. Ich kann ihn als versierten und zuverlässigen Handwerker unbedingt empfehlen!",
+        "time": 1716452807,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roland Gartmann",
+        "author_photo": "/images/reviews/flimser-sanitaer-flims-dorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Komplettrenovierung des kleinen Badezimmers in unserem Studio, inkl. Bauleitung / Koordination der weiteren Handwerker. Wir sind sehr zufrieden mit dem Kontakt und den ausgeführten Arbeiten. Herr Giezendanner hat alles perfekt organisiert und erledigt. Wir können ihn jedem wärmstens empfehlen.",
+        "time": 1716558507,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

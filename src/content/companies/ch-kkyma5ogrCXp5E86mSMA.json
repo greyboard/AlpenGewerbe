@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqS_tPlIRm0cRQuVIJov0qDQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Daniel Egger",
+        "author_photo": "/images/reviews/wezel-holzbau-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Beratung war sehr gut und dann auch der Einbau von 2 neuen Dachfenstern hat sehr gut geklappt. Die Firma Wezel GmbH hat die Arbeiten speditiv, exakt und fachmännisch ausgeführt. Ich kann die Wezel Holzbau GmbH gerne weiterempfehlen.",
+        "time": 1770805029,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Christoph Jermann",
+        "author_photo": "/images/reviews/wezel-holzbau-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben Jan Wetzel mit dem Umbau der KULT Bar in St. Gallen beauftragt und sind einerseits von der Flexibilität auf dem Bau, andererseits mit der geleisteten Arbeit äusserst zufrieden und können daher unsere beste Empfehlung aussprechen. Nochmals herzlichen Dank!",
+        "time": 1653310587,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Adrian Widmer",
+        "author_photo": "/images/reviews/wezel-holzbau-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Wezel hat unsere oberste Geschossdecke gedämmt und dabei  sehr sauber und schnell gearbeitet. Ich kann ihn jedem empfehlen.",
+        "time": 1666380841,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christian Enzler",
+        "author_photo": "/images/reviews/wezel-holzbau-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe Altholz bestellt und war mit der freundlichen Beratung, der Qualität und der Lieferzeit sehr zufrieden.",
+        "time": 1636876736,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Lem Lök",
+        "author_photo": "/images/reviews/wezel-holzbau-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "kompetente Beratung, freundlicher Kontakt, faire Preise, alles bestens",
+        "time": 1637760879,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

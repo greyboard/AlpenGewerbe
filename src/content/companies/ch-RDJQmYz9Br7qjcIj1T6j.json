@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJc3CbnnP7j0cRFGssfD06p1c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:30 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Regina Feller",
+        "author_photo": "/images/reviews/ees-ag-elektro-egli-spaeni-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service. Sehr speditiv und günstig. Sehr freundlicher Mitarbeiter. Sehr zu empfehlen!",
+        "time": 1780333050,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Patrick Roos",
+        "author_photo": "/images/reviews/ees-ag-elektro-egli-spaeni-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Arbeit und Kommunikation! Gerne wieder! Besten Dank Ivo & Anton!",
+        "time": 1766512534,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Andy Weber",
+        "author_photo": "/images/reviews/ees-ag-elektro-egli-spaeni-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden professionell und speditiv ausgeführt; spontane Sonderwünsche wurden unkompliziert umgesetzt. Sehr gerne wieder.",
+        "time": 1694671833,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "deskjet colt",
+        "author_photo": "/images/reviews/ees-ag-elektro-egli-spaeni-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "perfekt erledigte Auftrag.\nBin sehr zufrieden, Danke",
+        "time": 1741444349,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andy Weber",
+        "author_photo": "/images/reviews/ees-ag-elektro-egli-spaeni-ag-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wiederum perfekte Arbeit abgeliefert. Gerne wieder....",
+        "time": 1745914131,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

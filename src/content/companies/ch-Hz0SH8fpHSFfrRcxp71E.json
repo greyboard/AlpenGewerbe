@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJCZUZkd8JkEcR9E7gpz3yUWc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Sandro Eggenberger",
+        "author_photo": "/images/reviews/buehlmann-heizungen-ag-zuerich/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Die Firma Bühlmann Heizungen AR war professionell. Jedoch wurden für 6 Minuten Arbeit -> 30 Minuten verrechnet. Desweiteren wurden für 5 Minuten Fahrt auch 30 Minuten verrechnet und on top wurden noch eine Kleinrechnung (unter 500.-) von 20.- Verrechnet. Auch nach Rücksprache wurde hier leider kein Entgegen kommen gezeigt. Der Service des Technickers war gut und das Problem konnte in 6. Minuten gelöst werden. Für dies wurde 98.10 CHF verrechnet, nicht gerade Kundenfreundlich.",
+        "time": 1587969800,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Martin Pirker",
+        "author_photo": "/images/reviews/buehlmann-heizungen-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Diese Firma gibts schon seit 100 Jahren,  was für sich spricht. Sie sind für alle Fragen rund um Heizungen die richtigen Ansprechpartner. Ich habe bis heute nur Gutes von dieser Firma gehört.",
+        "time": 1644129307,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Micci On T",
+        "author_photo": "/images/reviews/buehlmann-heizungen-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Stark!",
+        "time": 1649257601,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alban Berisha",
+        "author_photo": "/images/reviews/buehlmann-heizungen-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1649313538,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stefan Inderbitzin",
+        "author_photo": "/images/reviews/buehlmann-heizungen-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1768083532,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0fATupe2mkcRi65FxxetKdk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Hanspeter Waldmeier",
+        "author_photo": "/images/reviews/friedlos-schreinerei-gmbh-altendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma. Schnell, unkompliziert, und sehr saubere Arbeit. Danke",
+        "time": 1767954288,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Andreas Mayer",
+        "author_photo": "/images/reviews/friedlos-schreinerei-gmbh-altendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Handwerk hat hier immer noch goldenen Boden.  Ich bin sehr zufrieden mit der Velo Box auch die Montage ging schnell und wurde professionell montiert.\nHerzlichen Dank",
+        "time": 1617047425,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Oliver Keel",
+        "author_photo": "/images/reviews/friedlos-schreinerei-gmbh-altendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere und professionelle Arbeit, sehr flexibel und gute Lösungsansätze. Ich kann \"s'Friedlosä' und ihr Team nur empfehlen!",
+        "time": 1721476600,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lukas Morger-Jud",
+        "author_photo": "/images/reviews/friedlos-schreinerei-gmbh-altendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit in TOP-Qualität sehr innovativ und kreativ sowie Praktiker am Werk.👍💪",
+        "time": 1727780454,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Atelier Tessa Goldschmiede",
+        "author_photo": "/images/reviews/friedlos-schreinerei-gmbh-altendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein Möbel oder Umbau wird mit Schreinerei Friedlos zum unvergesslichen Erlebnis! Fachmännisch kompetentes Team und humorvolle kreative Chefetage!",
+        "time": 1540324923,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

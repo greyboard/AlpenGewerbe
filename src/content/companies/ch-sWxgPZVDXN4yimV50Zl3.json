@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJB5zddWb-j0cRAh0pOVkI0JA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Jessica Portmann",
+        "author_photo": "/images/reviews/portmann-h-gartenbau-gmbh-root/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Mitarbeiter und gute Arbeit ich kann diese Firma nur weiter empfehlen",
+        "time": 1762976091,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Christoph Bösiger",
+        "author_photo": "/images/reviews/portmann-h-gartenbau-gmbh-root/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1628782646,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Влад Халецький",
+        "author_photo": "/images/reviews/portmann-h-gartenbau-gmbh-root/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778856003,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Mario Portmann",
+        "author_photo": "/images/reviews/portmann-h-gartenbau-gmbh-root/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769769534,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Hubert Portmann",
+        "author_photo": "/images/reviews/portmann-h-gartenbau-gmbh-root/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1683022594,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

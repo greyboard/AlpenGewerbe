@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJr9BDHsELkEcRRR7aQaDUtvE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Jürg Rohner",
+        "author_photo": "/images/reviews/widmer-widmer-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ersatz von defekten Platten in Bad und Dusche sowie erneuerte Silikonfugen bei Duschwanne zur vollsten Zufriedenheit erledigt. Wir können Widmer+Widmer GmbH sehr empfehlen!",
+        "time": 1579047365,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Thomas Widmer",
+        "author_photo": "/images/reviews/widmer-widmer-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hallo FloW bist du ein Radfahrer oder jemand der nur schlechtes schreibt? Wenn jemand unserer Arbeiter dich beim Radfahren abgedrängt tut mir das leid aber wegen dem die Firma schlecht bewerten geht gar nicht.",
+        "time": 1503609394,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Martin Gämperle",
+        "author_photo": "/images/reviews/widmer-widmer-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hallo Widmer Team danke für eure super Arbeit und der Preis stimmt auch noch gerne wieder mit euch",
+        "time": 1533017904,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Flavio Fontana",
+        "author_photo": "/images/reviews/widmer-widmer-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma Widmer Widmer GmbH ist einfach TOP👍🏻,  zufährlässig und arbeitet sehr kompetent.",
+        "time": 1486661010,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Stefan Rüedi",
+        "author_photo": "/images/reviews/widmer-widmer-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top arbeit, freundliches personal. Immer gern wieder",
+        "time": 1636736255,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

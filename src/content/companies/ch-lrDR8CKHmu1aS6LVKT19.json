@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJzZXvEKE-kEcR1ILKmIuK2qU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 12:30–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Suleyman Sahil",
+        "author_photo": "/images/reviews/rea-heizungen-rohr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind rundum zufrieden mit dem Service von Rea Heizungen. Vom ersten Kontakt bis zur Ausführung lief alles schnell, unkompliziert und professionell ab. Das Team war sehr freundlich, kompetent und hat sauber gearbeitet.\n\nEin zuverlässiger Partner, den wir gerne weiterempfehlen. Vielen Dank!",
+        "time": 1764321161,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Björn Sundin",
+        "author_photo": "/images/reviews/rea-heizungen-rohr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Im Rahmen der Renovierung unserer Eigentumswohnung im Herbst 2025 haben wir REA Heizungen mit der Sanierung des Badezimmers und des Gäste-WCs sowie kleineren Arbeiten an der Küche und der Bodenheizung beauftragt. Wir sind mit der Arbeit sehr zufrieden, die Firma arbeitet kompetent und termingerecht. Die Kommunikation war unkompliziert, freundlich und offen und wir wurden gut beraten. Wir werden auch in Zukunft REA Heizungen beauftragen.",
+        "time": 1768298460,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Dude from Switzerland",
+        "author_photo": "/images/reviews/rea-heizungen-rohr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Rea hat uns gut beraten und ist (anders als der Mitbewerber) auf unsere Wünsche eingegangen. Die Offerte war sauber gegliedert und es war klar ersichtlich, wie hoch die Kosten für die Apparate rsp. die Arbeiten sind. Im Vergleich zum erwähnten Mitbewerber günstig und ohne Aufpreise durch mögliche Regiearbeiten. Die Arbeiten wurden exakt wie abgemacht und sauber umgesetzt. Wir sind sehr zufrieden und können diese Firma uneingeschränkt weiterempfehlen.",
+        "time": 1722874786,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "André Kissling",
+        "author_photo": "/images/reviews/rea-heizungen-rohr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Rea Sanitär ist absolut empfehlenswert! Sie leisten hervorragende Arbeit, finden selbst bei schwierigen Situationen Lösungen und sind dabei stets zuverlässig und schnell. Vielen Dank für den großartigen Service!",
+        "time": 1743932802,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rico Marty",
+        "author_photo": "/images/reviews/rea-heizungen-rohr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir von Marty Bautrocknungen schätzen die Zusammenarbeit mit Rea Sanitär sehr. Ihre Professionalität, Zuverlässigkeit und Qualität der Arbeit sind wirklich beeindruckend. Wir haben bereits mehrere Projekte gemeinsam durchgeführt und wurden jedes Mal von ihrem Fachwissen und ihrem Engagement überzeugt. Die Kommunikation verlief stets reibungslos. Wir können Rea Sanitär uneingeschränkt weiterempfehlen und freuen uns auf zukünftige Projekte mit ihnen.",
+        "time": 1711004329,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

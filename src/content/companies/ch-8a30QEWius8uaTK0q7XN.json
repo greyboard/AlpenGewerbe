@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkb3aOhE5jkcRTHkgK9kpx-8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Remo Walther",
+        "author_photo": "/images/reviews/frischknecht-ag-liebefeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung! Werde Frischknecht AG gerne weiter empfehlen. Vielen Dank!",
+        "time": 1711548547,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christoph von Bergen",
+        "author_photo": "/images/reviews/frischknecht-ag-liebefeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Danke euch für euren stets tollen Einsatz. Ihr macht immer einen super Job!",
+        "time": 1780584229,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Simone Ghezzi",
+        "author_photo": "/images/reviews/frischknecht-ag-liebefeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir besuchten den Berner Showroom mit einigen Ideen, die allerdings etwas unklar waren :-) . Caterina empfing uns mit großer Fachkompetenz und Geduld und begleitete uns auf einer kreativen Reise durch Muster, Zweifel, Richtungswechsel und schließlich zu mutigen und geschmackvollen Entscheidungen. Dank ihrer Hilfe fanden wir die perfekten Fliesen für uns und gestalteten anschließend alles Weitere darum herum.\nDas Endergebnis übertraf unsere Erwartungen, und unsere Badezimmer sind nun wunderschön, originell und ganz „unsere“.\nWir kommen auf jeden Fall wieder und empfehlen die Frischknecht AG jedem, der Wert auf Qualität, Ästhetik und kompetente, persönliche Beratung legt.",
+        "time": 1777925401,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Rina P.",
+        "author_photo": "/images/reviews/frischknecht-ag-liebefeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1719242446,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "john Aeby",
+        "author_photo": "/images/reviews/frischknecht-ag-liebefeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664958575,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

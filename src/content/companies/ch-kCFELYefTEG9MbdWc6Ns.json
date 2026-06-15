@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJhaaqPmblmkcRJxSOCUV--i8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Beatrice Marasco",
+        "author_photo": "/images/reviews/wittwer-heizungen-ag-sulgen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, Termineinhaltung, freundliche Mitarbeiter - und der Chef kontrolliert am Schluss auch noch, dass alles perfekt war und wieder sauber ist. Und das war's, gerne wieder! Vielen Dank für die professionelle Mitarbeit an unserem anspruchsvollen Badumbau mit nachträglicher Bodenheizung in einem über 100jährigen Haus.",
+        "time": 1757999946,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Markus Dürig",
+        "author_photo": "/images/reviews/wittwer-heizungen-ag-sulgen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekte und saubere Arbeit. Fachlich und terminlich top. Sehr guter Lieferant, kann ich bestens weiterempfehlen. Dankeschön Marcel Wittwer und Team",
+        "time": 1775033794,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Alessandro d'elia",
+        "author_photo": "/images/reviews/wittwer-heizungen-ag-sulgen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777532933,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Ralph Koch",
+        "author_photo": "/images/reviews/wittwer-heizungen-ag-sulgen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729091094,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lilo Städeli",
+        "author_photo": "/images/reviews/wittwer-heizungen-ag-sulgen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1558933545,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

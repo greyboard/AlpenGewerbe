@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJaWwEup0TjkcRILF66rBpR_I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Philip Steiner",
+        "author_photo": "/images/reviews/bk-metallbau-pulverbeschichtung-gmbh-murten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1679224845,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Melanie Waller",
+        "author_photo": "/images/reviews/bk-metallbau-pulverbeschichtung-gmbh-murten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1628083318,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "D C",
+        "author_photo": "/images/reviews/bk-metallbau-pulverbeschichtung-gmbh-murten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1628081318,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJJWWKrhQthUcRzhinCmYRyzY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Sandra Kobler",
+        "author_photo": "/images/reviews/sanitaer-kubli-gmbh-glarus/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Was auch immer ihr tut, tut euch diese Menschen nicht an.\nWürde auch null Sterne geben, wenn ich könnte.\nAm Nachmittag vorher wurde ich angerufen und gefragt ob man heute kommen könnte. Klar, kurzfristig, aber war einverstanden, wenn man bis 14.00 die Arbeit beendet hätte.\nHeute morgen kamen dann 2 Männer, die kaum den Mund aufkriegten mit einer Laune, die selbst schlechtgelaunte erschaudern lässt. Mit der Anmerkung \"man muss danach sowieso putzen\" betratt man meine Wohnung mit den Schuhen.\nDann fingen sie an zu arbeiten. Um 11.50 wurde mir ein knappes: \"en Guete\" gerufen und man wollte aus der Tür.\nAlso stand ich auf und fragte nach, wie lange es noch gehen würde, da ich ja um 14.00 meinen Termin hätte.\nMir wurde patzig und hochnäsig geantwortet, es ginge bis 14.00 /14.30. Auf meinen Einwand wurde nicht eingegangen, ich könne schliesslich froh sein, dass überhaupt jemand kommt. Dann lief man einfach davon. Ich entschied mich den Chef anzurufen, mit dem ich ja gestern den Termin vereinbart habe und dem ich es ausdrücklich mitgeteilt habe. Der war der Gipfel der Peinlichkeit. Ich soll seine Männer nicht verückt machen, sie seien im Stress.\nDas nennt man Planung! WOW! Item, es war nie die Rede davon, dass man nach meinem Termin um 15.00 nicht mehr kommen dürfe! Das ganze ist peinlich des Todes. Abartig, wie dankbar ich doch sein muss, für einen Termin, der mir auch kurzfristig aufgedrückt wurde!\nAm allerpeinlichsten dann, am 12.05 kam man wieder pfuste schnell alles hin und verschwand mit: ich bin fertig. Türe zu.\nAn der Dusche ein Zettel: nicht öffnen bis Samstag, fugen trocknen noch.\nDas konnte man mir dann nicht mehr mündlich mitteilen. Einfach peinlich so etwas.... Mir fehlen die Worte. Wie da mit Kunden umgegangen wird ist ober peinlich.",
+        "time": 1770295902,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Ivano Carocci",
+        "author_photo": "/images/reviews/sanitaer-kubli-gmbh-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Angerufen und bereits 40 Minuten später war ein Mitarbeiter vor Ort und hat das Problem zügig behoben. Wirklich top, absolut empfehlenswert!",
+        "time": 1750754641,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Peter Kamm",
+        "author_photo": "/images/reviews/sanitaer-kubli-gmbh-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Abendessen",
+        "time": 1696188944,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Giampiero Faggiano",
+        "author_photo": "/images/reviews/sanitaer-kubli-gmbh-glarus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1619757911,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Himmet Guldas",
+        "author_photo": "/images/reviews/sanitaer-kubli-gmbh-glarus/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1556522738,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

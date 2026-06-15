@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJd4qkenGdhkcRUpe_tkFeXJA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–19:00 Uhr",
+    "Dienstag: 09:00–19:00 Uhr",
+    "Mittwoch: 09:00–19:00 Uhr",
+    "Donnerstag: 09:00–19:00 Uhr",
+    "Freitag: 09:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Werner Friz",
+        "author_photo": "/images/reviews/marco-coperture-tetti-piani-e-impermeabilizzazioni-ticino-chiasso/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte Marco Coperture meinen aufrichtigen Dank für die hervorragende Arbeit an unserem Flachdach in Locarno aussprechen. Vom ersten Tag an zeichneten sie sich durch Professionalität, Pünktlichkeit und einwandfreies Fachwissen aus.\n\nDie Abdichtung mit Bitumenmembran wurde mit bemerkenswerter Sorgfalt und Präzision durchgeführt. Jeder Schritt, von der Oberflächenvorbereitung bis zum Heißauftrag der Membran, erfolgte mit akribischer Detailgenauigkeit. Ihre Leidenschaft für das Handwerk und ihre langjährige Erfahrung sind deutlich erkennbar.\n\nNeben der Qualität der verwendeten Materialien beeindruckten mich vor allem die Organisation des Teams, der respektvolle Umgang mit dem Raum und der konsequente Fokus auf Langlebigkeit und Energieeffizienz. Das Endergebnis ist makellos und vermittelt ein Gefühl von Sicherheit.\n\nIch kann Marco Coperture jedem wärmstens empfehlen, der ein zuverlässiges, gut vorbereitetes und qualitätsorientiertes Unternehmen sucht. Heutzutage findet man selten einen so umfassenden, zuverlässigen und professionell ausgeführten Service. Herzlichen Glückwunsch!",
+        "time": 1751124543,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Libje",
+        "author_photo": "/images/reviews/marco-coperture-tetti-piani-e-impermeabilizzazioni-ticino-chiasso/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ordnungsgemäße Arbeitsweise, klare Kommunikation und schnelle Beantwortung von Fragen. Wir sind zufrieden.",
+        "time": 1775053921,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Aleksandra Maklekaj",
+        "author_photo": "/images/reviews/marco-coperture-tetti-piani-e-impermeabilizzazioni-ticino-chiasso/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1749747725,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

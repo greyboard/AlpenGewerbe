@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJbYaZI2oojEcRClEwygxXxCY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Piscozzi Giovanni",
+        "author_photo": "/images/reviews/savoy-verre-sarl-forel-lavaux/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Savoy-Verre ist eine absolut empfehlenswerte Firma, nicht nur wegen der fairen Preise, sondern vor allem wegen der hervorragenden Servicequalität – von der Ausführung der Arbeiten bis hin zu den Technikern vor Ort. Wir haben eine Villa mit vielen verschiedenen Handwerkern gebaut, aber Savoy-Verre hat sich besonders hervorgetan. Keine Verzögerungen oder Ausreden, einfach makellose Arbeit.\n\nEin großes Lob 👏 an das gesamte Team, vom Manager bis zu den Mitarbeitern – sie sind wirklich erstklassig 👍. Wir sind mit dem Ergebnis und der Qualität des Produkts überaus zufrieden! Vielen Dank, und wir werden sicher bald wieder mit ihnen zusammenarbeiten. Absolut top 👍👍👍",
+        "time": 1763816283,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "kersaintgilly laurent",
+        "author_photo": "/images/reviews/savoy-verre-sarl-forel-lavaux/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Savoy Verre kam zu mir nach Hause, um eine Arbeitsplatte für meine Küche zu entwerfen und anzufertigen. Ich war beeindruckt von ihrer Expertise (extrem präzise Maße, die perfekt in meine räumlichen Gegebenheiten passten, hochwertige Verarbeitung sowie pünktliche Lieferung und Montage). Ihre Mitarbeiter waren vom ersten bis zum letzten Schritt sehr hilfsbereit und zuvorkommend. Ich kann diese Firma uneingeschränkt empfehlen!",
+        "time": 1770131101,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Yolande Lefebvre Jequier",
+        "author_photo": "/images/reviews/savoy-verre-sarl-forel-lavaux/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein äußerst professionelles Unternehmen!\n\nVom ersten Kontakt bis zum Abschluss der Arbeiten! Schnelle Kommunikation, Angebote und Erreichbarkeit! Pünktliche und einwandfreie Ausführung, selbst bei den Herausforderungen eines Renovierungsprojekts, das immer wieder Überraschungen mit sich brachte! Sie gingen zudem sehr respektvoll mit dem Eigentum um.\nKurz gesagt: Ich bin rundum zufrieden! Ich würde Sie jederzeit weiterempfehlen und gerne wieder mit Ihnen zusammenarbeiten! Vielen Dank!",
+        "time": 1766051811,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "stéphane lotz",
+        "author_photo": "/images/reviews/savoy-verre-sarl-forel-lavaux/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein wirklich beeindruckendes Unternehmen, unglaublich effizient und schnell! Ich empfehle es uneingeschränkt. Hochwertige und sehr professionelle Arbeit.",
+        "time": 1761079917,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Michel Bovy",
+        "author_photo": "/images/reviews/savoy-verre-sarl-forel-lavaux/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Genaues Messen, aufmerksames Zuhören, sorgfältige Installation – in jeder Hinsicht perfekt.",
+        "time": 1750014690,
+        "relative_time_description": "vor 12 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

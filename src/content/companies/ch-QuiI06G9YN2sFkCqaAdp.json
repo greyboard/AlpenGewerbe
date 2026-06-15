@@ -26,5 +26,55 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJEapuiEstm0cR8np0BmAccLI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Rocco Cazzato",
+        "author_photo": "/images/reviews/as-landschaft-gartenbau-gmbh-mels/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699796971,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ivo Britt",
+        "author_photo": "/images/reviews/as-landschaft-gartenbau-gmbh-mels/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1647971213,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Benjamin Stalder",
+        "author_photo": "/images/reviews/as-landschaft-gartenbau-gmbh-mels/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1625079220,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alban Shkodra",
+        "author_photo": "/images/reviews/as-landschaft-gartenbau-gmbh-mels/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1550665474,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

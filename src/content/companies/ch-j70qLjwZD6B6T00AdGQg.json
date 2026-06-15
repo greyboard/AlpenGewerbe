@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJRd__fsYejkcRBQmnTiuQnv0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–16:30 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–16:30 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–16:30 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–16:30 Uhr",
+    "Freitag: 07:30–11:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Matthias Walther",
+        "author_photo": "/images/reviews/muttscheller-metallbau-gmbh-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alles richtig gemacht. Von der Beratung bis zur Umsetzung. Freundliches und professionelles Team. Gerne wieder.",
+        "time": 1750316936,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Doc Holiday",
+        "author_photo": "/images/reviews/muttscheller-metallbau-gmbh-biel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Auf einer 3000km Radtour von Berlin nach Alicante ist mir das Bodenblech für die Aufhängung des Fahrradständers abgebrochen, daher suchte ich in Biel eine Firma, die Aluminium schweißen kann. Durch die Firma Muttscheller wurde ich äußerst freundlich und zuvorkommend bedient. Ein echter Fachmann kümmerte sich sogleich um mein Problem und hat das Blech wieder wunderbar angeschweißt. Nun kann ich unbeschwert meine Radtour fortsetzen. Auch für kleine Reparaturen kann ich daher die Firma nur uneingeschränkt empfehlen.",
+        "time": 1651065215,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Leder",
+        "author_photo": "/images/reviews/muttscheller-metallbau-gmbh-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Auch für grosse Projekte zu empfehlen. Oliver Muttscheller und der Projektleiter J. Sutter haben im Sommer 2021 an einem 8-stöckigen Wohnhaus in Biel mit ihren Fachrkäften sämtliche Balkongeländer erneuert. Bauzeit ca. 3 Wochen. Die Metallarbeiten, wie auch die De-Montage und Montage wurden allesamt sehr gut vorbereitet und mit viel \"manpower\" und Sachverstand ausgeführt! Herr Sutter war als Projektleiter immer gut zu erreichen, hat die Anliegen aufgenommen und gut umgesetzt.",
+        "time": 1650372689,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Thomas Schori",
+        "author_photo": "/images/reviews/muttscheller-metallbau-gmbh-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches und äusserst kompetentes Team! Echte Profis.",
+        "time": 1733423075,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Jost",
+        "author_photo": "/images/reviews/muttscheller-metallbau-gmbh-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Guter Handwerksbetrieb, unkompliziert und zuvorkommend.\nSehr zu Empfehlen",
+        "time": 1590490831,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

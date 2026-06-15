@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJf6kgOP45jkcR4bGlQ-1Z6KA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Roger Schütz",
+        "author_photo": "/images/reviews/bauert-ag-parkpflege-gartenbau-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "gute firma!",
+        "time": 1499633363,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Markus Kolp",
+        "author_photo": "/images/reviews/bauert-ag-parkpflege-gartenbau-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1572073511,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Fred Moser",
+        "author_photo": "/images/reviews/bauert-ag-parkpflege-gartenbau-bern/reviewer_3.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1563030188,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

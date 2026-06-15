@@ -25,5 +25,39 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJiVsYBIEwm0cRrOvZxEAjS7s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Michael „mike“ Wohlwend",
+        "author_photo": "/images/reviews/parkettatelier-ag-eschen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich brauchte kurzfristig 3 Parkett-Ersatzstäbe.\nIch wurde sehr freudlich und kompetent beraten. Unkomplizierte Abwicklung. Vielen Dank!",
+        "time": 1748087542,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Vanessa Löffler",
+        "author_photo": "/images/reviews/parkettatelier-ag-eschen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Qualität aus Liechtenstein",
+        "time": 1552913377,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

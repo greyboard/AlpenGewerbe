@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJl9wEfBH3j0cR9h9MmU9QZ7E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Cheeky Rascal",
+        "author_photo": "/images/reviews/bissig-group-sanitaer-ag-stans/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Umgangston ungenügend, Kommunikation nur möglich bis einer der Herrschschaften den Hörer einfach einhängt. Es wird Problem- und nicht Lösungsorientiert gearbeitet. Habe meine Ausbildung jetzt fertig und werde später mit Gewissheit anders mit meinen Kunden umgehen 😄.",
+        "time": 1692955165,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michael Cron",
+        "author_photo": "/images/reviews/bissig-group-sanitaer-ag-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Arbeiter und ein super Team",
+        "time": 1701160575,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Toni Odermatt",
+        "author_photo": "/images/reviews/bissig-group-sanitaer-ag-stans/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Büro im Hause Bitzistr. 15, wo Sohn wohnt !",
+        "time": 1552393062,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Pedro Gomes",
+        "author_photo": "/images/reviews/bissig-group-sanitaer-ag-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Grande firma",
+        "time": 1581970879,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Holly Golightley",
+        "author_photo": "/images/reviews/bissig-group-sanitaer-ag-stans/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1692955603,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

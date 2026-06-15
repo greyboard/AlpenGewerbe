@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJwWk1E51_kEcRxUWu6dGscZo",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Bernhard Schöttli",
+        "author_photo": "/images/reviews/pmb-bau-ag-bauunternehmung-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Offerte, über den Auftrag, die Ausführung und den Abschluss der Bauarbeiten, klein oder gross, bis hin zur Rechnung einfach genial! Auffallend ist auch die Freundlichkeit der Mitarbeiter!",
+        "time": 1594627896,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Michael Brunner",
+        "author_photo": "/images/reviews/pmb-bau-ag-bauunternehmung-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Natürlich das beste Baugeschäft auf dem Platz Schaffhausen!",
+        "time": 1617300259,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dddkekdd Djdhdjdjdjd",
+        "author_photo": "/images/reviews/pmb-bau-ag-bauunternehmung-schaffhausen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Sehr schlechtes team die meisten sind unfreundlich und frech ich würde die firma nicht weiter empfehlen",
+        "time": 1600776068,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Oggier Ernesto",
+        "author_photo": "/images/reviews/pmb-bau-ag-bauunternehmung-schaffhausen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Gutes Ordentliches Baugeschäft",
+        "time": 1565522462,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Luca Sartori",
+        "author_photo": "/images/reviews/pmb-bau-ag-bauunternehmung-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600197876,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

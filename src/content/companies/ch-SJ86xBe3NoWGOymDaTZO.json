@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJD9UaW9SFmkcReS1CRRyz7Cs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Julio Fadel",
+        "author_photo": "/images/reviews/rhy-elektro-gmbh-basadingen-schlattingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Rhy Elektro hat heute unsere neue Esstischlampe montiert – alles lief reibungslos. Der Service war super: pünktlich, freundlich und sehr professionell. Man merkt, dass hier mit Erfahrung und Sorgfalt gearbeitet wird. Absolut empfehlenswert!",
+        "time": 1753704238,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Michele Natola",
+        "author_photo": "/images/reviews/rhy-elektro-gmbh-basadingen-schlattingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann die Rhy Elektro nur empfehlen! Während unseres Hausumbaus haben sie hervorragende Arbeit geleistet. Das Team war pünktlich, professionell und hat alle unsere Wünsche schnell und präzise umgesetzt. Die Qualität der Arbeiten ist ausgezeichnet, und die Kommunikation war freundlich. Sehr zufrieden mit dem Ergebnis!",
+        "time": 1729583925,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fabio F.",
+        "author_photo": "/images/reviews/rhy-elektro-gmbh-basadingen-schlattingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Rhy Elektro ist sehr zu empfehlen! Der Auftrag wurden zur vollsten Zufriedenheit umgesetzt. Hervorzuheben ist die unkomplizierte Art, das professionelle Auftreten & die Flexibilität bezüglich Terminfindung! Ich bin sehr zufrieden mit dem Ergebnis!",
+        "time": 1732567440,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Riana Leu",
+        "author_photo": "/images/reviews/rhy-elektro-gmbh-basadingen-schlattingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die grandiose Arbeit bei der Neuinstallation der Heizung und die diversen sonstigen Arbeiten in & ums Haus. Schnell, effizient, professionell und immer sehr freundlich und kundenorientiert. Das alles dann sogar noch günstiger als offeriert. Wir freuen uns auf die nächste unkomplizierte Zusammenarbeit!",
+        "time": 1692270527,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yannik Zwicker",
+        "author_photo": "/images/reviews/rhy-elektro-gmbh-basadingen-schlattingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Unkompliziert und sehr flexibel. Sehr gute Beratung. Die Arbeiten wurden sorgfältig, sauber und nach unseren Wünschen erfüllt.",
+        "time": 1697194062,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

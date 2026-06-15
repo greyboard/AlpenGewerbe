@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2TspkTm1kUcRrrYWypSj1IA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Verona Musliu",
+        "author_photo": "/images/reviews/h-l-gebaeudetechnik-gmbh-fuellinsdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service – absolut empfehlenswert!\nIch bin rundum zufrieden. Von der ersten Beratung bis zur finalen Ausführung war alles top organisiert. Besonders beeindruckt hat mich die kompetente und ehrliche Beratung – hier merkt man sofort, dass jemand mit Fachwissen und Leidenschaft bei der Sache ist. Die Arbeiten wurden sauber, termingerecht und mit großer Sorgfalt ausgeführt. Eine tolle Zusammenarbeit, auf die man sich wirklich verlassen kann. Ich kann den Service uneingeschränkt weiterempfehlen!",
+        "time": 1743107513,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gaby Z.",
+        "author_photo": "/images/reviews/h-l-gebaeudetechnik-gmbh-fuellinsdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles rund um den Einbau unseres Wärmepumpenboilers lief reibungslos. Faire Offerte, termingerechte Ausführung, top Qualität und ein super Team, welches sauber arbeitet und sein Handwerk versteht. Wir würden uns jederzeit wieder für diese Firma entscheiden.",
+        "time": 1754061351,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Sven",
+        "author_photo": "/images/reviews/h-l-gebaeudetechnik-gmbh-fuellinsdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "H&L Gebäudetechnik überzeugt mit professioneller Arbeit, zuverlässigem Service und hoher Fachkompetenz. Freundliches Team, termingerechte Umsetzung und saubere Ausführung – absolut empfehlenswert!",
+        "time": 1743107091,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Timon Hauser",
+        "author_photo": "/images/reviews/h-l-gebaeudetechnik-gmbh-fuellinsdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind äußerst zufrieden mit der Arbeit von H&L und können das Unternehmen uneingeschränkt empfehlen. Die Kommunikation war unkompliziert, und die Leistung hervorragend.\nIn Zukunft immer H&L!",
+        "time": 1743177607,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "giuseppe sottile",
+        "author_photo": "/images/reviews/h-l-gebaeudetechnik-gmbh-fuellinsdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit! Haben bei uns das Badezimmer renoviert. Sehr saubere Arbeit und einfache Kommunikation. Super Planung und Organisation. Mein 21 m2 Badezimmer war innerhalb 2 Wochen fertig! Die H&L Gebäudetechnik ist wärmstens zu empfehlen!",
+        "time": 1687899882,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

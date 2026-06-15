@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJc-Sn5zfyj0cRaJZYyBsD8Ts",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Petra Stofer",
+        "author_photo": "/images/reviews/dillier-feuer-platten-ag-sarnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann die Plattenfirma nur weiterempfehlen. Vom ersten Kontakt bis zum Abschluss der Arbeiten war alles absolut professionell organisiert. Das ganze Team war sehr freundlich, hilfsbereit und jederzeit respektvoll im Umgang. Man hat sofort gemerkt, dass hier mit grosser Sorgfalt und Erfahrung gearbeitet wird.\n\nBesonders beeindruckt hat mich die Sauberkeit und Genauigkeit während der Arbeiten. Alles wurde ordentlich hinterlassen und sehr präzise ausgeführt. Zudem war die Kommunikation jederzeit transparent und angenehm. Auf Wünsche wurde eingegangen und man fühlte sich als Kunde wirklich ernst genommen.\n\nEine zuverlässige, kompetente und sympathische Firma mit hervorragendem Service. Ich würde jederzeit wieder mit ihnen zusammenarbeiten und kann sie mit bestem Gewissen weiterempfehlen.",
+        "time": 1779733028,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Kurt Bertschinger",
+        "author_photo": "/images/reviews/dillier-feuer-platten-ag-sarnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Als professioneller Bauleiter habe ich bereits verschiedene Male die Firma Dillier Feuer + Platten AG mit dem Bau von unterschiedlichen Chemineeanlagen beauftragt. Ich kann diese Firma und die Mitarbeiter bestens empfehlen, die Beratung und Ausführung war jederzeit ausgezeichnet, persönlich, individuell, termingerecht und vor allem sehr kundennah. Vielen Dank für die tolle Arbeit.",
+        "time": 1725448838,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luonz T",
+        "author_photo": "/images/reviews/dillier-feuer-platten-ag-sarnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Cheminée und Plattenboden aus einer Hand, von der Erstberatung über die Baueingabe samt Kamin und sauberer Ausführung - das ist gelebte Handwerkskunst. Es gibt sie noch, die Profis, welche ihre Arbeit und das Handwerk lieben. Herzlichst Danke Team Dillier, jederzeit gerne wieder.",
+        "time": 1735556629,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Johanna Unternährer",
+        "author_photo": "/images/reviews/dillier-feuer-platten-ag-sarnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kann Dillier Feuer und Platten nur empfehlen. Sie machen wundervolle Arbeiten und man wird immer mit einem Lächeln begrüsst. Ein super Ansprechpartner für alle Anfragen im Bereich Platten und Kamine.",
+        "time": 1533662451,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Pascal",
+        "author_photo": "/images/reviews/dillier-feuer-platten-ag-sarnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die besten Öfen nach Mass sowie fachgerechte Montage von Öfen aller Art. In Zusammenarbeit mit der benachbarten Kachelmanufaktur entstehen Einzelstücke, die bis zur Bemalung der Kacheln mitgesteltet werden können",
+        "time": 1622492811,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

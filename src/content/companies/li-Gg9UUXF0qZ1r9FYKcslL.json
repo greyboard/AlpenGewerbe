@@ -25,5 +25,39 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ06Lecvwzm0cRxTywP_654nU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "perfekto dizajn",
+        "author_photo": "/images/reviews/roca-floor-abdichtungen-gamprin/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragendes Unternehmen für Hydroisolierung, dekorative Fußböden, Industrieböden usw.",
+        "time": 1746553851,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alba Rodriguez",
+        "author_photo": "/images/reviews/roca-floor-abdichtungen-gamprin/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1695987808,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

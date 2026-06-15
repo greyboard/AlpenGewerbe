@@ -25,5 +25,54 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJrb14yns5m0cR6hfbEpiu1UE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Lena Z",
+        "author_photo": "/images/reviews/hubmann-gerhard-installationen-feldkirch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden! Die Arbeit wurde sehr sauber und professionell erledigt. Bei Rückfragen oder Problemen war sofort jemand da – schnell, zuverlässig und immer erreichbar. Man merkt sofort, dass hier mit Erfahrung und Sorgfalt gearbeitet wird. Der Service war durchweg freundlich und kompetent. Vielen Dank für die hervorragende Arbeit – Wir können euch nur weiterempfehlen!\nLena&Patrik",
+        "time": 1751518880,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Thomas Ammann",
+        "author_photo": "/images/reviews/hubmann-gerhard-installationen-feldkirch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden. Pünktlich, sauber und sehr zuverlässig. Kann man nur weiter empfehlen.",
+        "time": 1769174609,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "S. E.-S.",
+        "author_photo": "/images/reviews/hubmann-gerhard-installationen-feldkirch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kann mich den bisherigen Rezensionen nur anschließen. Sind sehr zufrieden mit den Leistungen für unseren Neubau. Außerdem sehr zuverlässig und reaktionsschnell.",
+        "time": 1757434342,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Christina",
+        "author_photo": "/images/reviews/hubmann-gerhard-installationen-feldkirch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnelle und perfekte Arbeit, sind mit der neuen Luft-Wärme-Pumpe sehr zufrieden. Können Gerhard auf jeden Fall weiterempfehlen!",
+        "time": 1760899824,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Ruth gschwendtner-wölfle",
+        "author_photo": "/images/reviews/hubmann-gerhard-installationen-feldkirch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Blitzschneller Service, ausgesprochen freundlich und mit ebenso sympathischem Preis! musste bei anderen Firmen oft sehr lange warten... manchmal sind es ja die kleinen Dinge, die aber dringend und schnell behoben werden müssen - bei Hubmann kein Problem.\nSEHR EMPFEHLENSWERT",
+        "time": 1428497448,
+        "relative_time_description": "vor 11 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

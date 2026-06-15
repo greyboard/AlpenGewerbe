@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJI3dgzSSAmkcRiumYEr9-Qbo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Thomas Bollinger",
+        "author_photo": "/images/reviews/moretti-maler-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seit Jahrzehnten arbeiten wir mit Moretti als Maler- und als Hebebühnenspezialist zusammen. Und immer mit Erfolg, Freude, Humor , Vertrauen und Nachhaltigkeit. Nur zu empfehlen.\nWeiter so !",
+        "time": 1712756739,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Müller (Digitalkompass)",
+        "author_photo": "/images/reviews/moretti-maler-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seit bald 20 Jahren vergeben wir mit Freude unsere Malerarbeiten in der Zahnarztpraxis an die Moretti Maler AG.\nNeben der Qualität der Arbeit stimmt auch der Umgang im Team. Grosses Lob an die Führung des Betriebs.",
+        "time": 1696673413,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Salvatore Righettino",
+        "author_photo": "/images/reviews/moretti-maler-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super  Reaktionsschnelligkeit bei Anfragen. Hat alles super geklappt ohne lange Hin und Her. Am Telefon besprochen und einige Minuten später war der Mitarbeiter für die Besichtigung da! Klasse! Von Anfrage bis Ende hat es genau 1.5 Tage gedauert. Kann ich nur empfehlen. Top!",
+        "time": 1669738976,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Angelika Brütsch",
+        "author_photo": "/images/reviews/moretti-maler-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professioneller  Maler Betrieb.\nmit bestem Dank an Thomas Schwarz, Ivan Della Schiava\nund Beat Moretti für die perfekte saubere Arbeit.\nWir können euch nur weiter empfehlen.",
+        "time": 1657530714,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabios Mech_Box",
+        "author_photo": "/images/reviews/moretti-maler-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Chef und sein Team einfach TOP TOP!!!\nIm jedem Punkt eine 6. Ob Malen oder Hebebühnen gibt es nie ein nein. Macht weiter so...",
+        "time": 1574889938,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

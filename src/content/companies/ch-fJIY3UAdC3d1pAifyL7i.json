@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9b_aaIugmkcR4JruygMokrc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Daniel Kuster",
+        "author_photo": "/images/reviews/analp-ag-zuerich/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Die Firma hat in unserer Tiefgarage ein Tor installiert und bis jetzt, ein Jahr später, immer noch nicht hingekriegt, dass es einwandfrei funktioniert.",
+        "time": 1775555223,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Daniel Frei",
+        "author_photo": "/images/reviews/analp-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe schon mehrere Male arbeiten von der Firma Analp  ausführen lassen. Die arbeiten waren immer perfekt, die Qualität war auf höchstem Level, immer zuverlässig und sauber ausgeführt. Ich kenne auch mehrere Personen, welche die Firma Analp AG gewählt haben, auch da war immer alles perfekt. Die Firma beschäftigt nur Fachkräfte, welche ihr Arbeit beherrschen, dadurch ist die Arbeit von höchster Qualität.",
+        "time": 1740900749,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Brinkmann",
+        "author_photo": "/images/reviews/analp-ag-zuerich/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Ich finde es absolut überrissen für den Ersatz durch ein Unfall beschädigtes Geländer von max. 1,2m Länge 4583,70Fr. zu verlangen, nur in der Annahme das die Versicherung für den Schaden aufkommt. Auf telefonische Nachfrage nach Plänen, Skizzen, Entwurf für eine billigere Variante nie reagiert. Nach 4 Monaten für die Entsorgung vom alten kaputten Geländer 356,75Fr. in Rechnung gestellt, hab ich bezahlt. Von mir bekommen Sie nie mehr einen Auftrag.",
+        "time": 1711621401,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Peter Stöcklin",
+        "author_photo": "/images/reviews/analp-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Mit dem Team von der Firma Analp sind wir sehr zufrieden, erneut hat uns die Firma Analp ihr breitgefächertes Fachwissen unter Beweis gestellt und dazu wie immer, immer sauschnell reagiert und zu moderaten Preisen. Wir können die Firma Analp nur empfehlen und die von uns gegebene Sterne sind absolut verdient.",
+        "time": 1708587493,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Matthew Black",
+        "author_photo": "/images/reviews/analp-ag-zuerich/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Guter Start… freundlicher emailverkehr. Angebotserstellung. Zugesagt war ca 1 Monat. Nach 3 Monaten und vielen emails und anrufen wird man immer wieder vertröstet. Es könne gut nochmal 3 Monate dauern. Es handelt sich um ein kleines Projekt. Offensichtlich so klein, dass der Kunde nicht wichtig ist. Sehr schade. Objekt wird nun wieder abgeholt. Kann daher allen potentiellen Auftraggebern, denen Service und Zusagen wichtig sind, nur abraten dieses Unternehmen zu beauftragen.  so geht man nicht mit Kunden um!",
+        "time": 1702646076,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

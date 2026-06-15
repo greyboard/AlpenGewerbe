@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJByBM8yR3kEcRUgPLe-urlq0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Nana G",
+        "author_photo": "/images/reviews/trais-fluors-gartenbau-gmbh-wil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben nach einem Neubau die komplette Umgebungsgestaltung von Trais Fluors ausführen lassen; Rasen ansäen, Hecken pflanzen, Mauern bauen, Platten verlegen für Sitzplätze. Das sympathische Team war zuverlässig, hat sauber gearbeitet und hat den Platz immer sehr ordentlich verlassen. Auch nach Abschluss der Arbeiten stand uns Simon Mathis mit Rat und Tat zur Seite. Wir werden auch zukünftig unsere Gartenträume gerne wieder mit Trais Fluors realisieren! Vielen Dank!",
+        "time": 1756905109,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Roger Stoffel",
+        "author_photo": "/images/reviews/trais-fluors-gartenbau-gmbh-wil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Unsere Terrassenerneuerung 2024 wurde von den Profis von Trais Floors zu unserer vollsten Zufriedenheit ausgeführt. Die stehts aufgestellten Mitarbeiter führten die Arbeiten in wenigen Tagen aus. Wir können Trais Floors allen nur empfehlen.",
+        "time": 1734545848,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Braunschweiler",
+        "author_photo": "/images/reviews/trais-fluors-gartenbau-gmbh-wil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Trais Fluors Gartenbau hat eine sehr gute Arbeit in unserem Garten/Zufahrt gemacht. Das Team war effizient und gut gelaunt. Sie haben einfache und schöne Ideen eingebracht und umgesetzt. Absolut empfehlenswert!",
+        "time": 1657398973,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Leand",
+        "author_photo": "/images/reviews/trais-fluors-gartenbau-gmbh-wil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Dieses Gartenbauunternehmen ist absolut top!\nProfessionell, zuverlässig, kompetent und dies auf allen Ebenen. 100% Weiterempfehlung!",
+        "time": 1762288210,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Martin Winteler-Schneider",
+        "author_photo": "/images/reviews/trais-fluors-gartenbau-gmbh-wil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Trais Fluors Gartenbau hat vor wenigen Wochen unser Garten umgestaltet. Von der Planung bis zur Ausführung einfach TOP! Ein Gartenbau Betrieb der noch mit der Natur Hand in Hand arbeitet. Ein Super Team, nur zum empfehlen!!!",
+        "time": 1657816412,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

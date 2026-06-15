@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ99ovFCTehEcR9BekHd3TKpY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Irene",
+        "author_photo": "/images/reviews/koehle-bedachungen-ag-ilanz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hochprofessionelle Arbeit und kompetente Beratung, flexibel und zuverlässig. Super aufgestelltes Team, das jeden Tag bei jedem Wetter eine Extra-Meile für die Kunden geht. Machen das manchmal nahezu Unmögliche möglich. Geschäftsführer und Handwerker von denen es leider immer weniger gibt. Herzlichen Dank!",
+        "time": 1706218706,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Thomas Meier",
+        "author_photo": "/images/reviews/koehle-bedachungen-ag-ilanz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute, verlässliche Handwerksarbeit!",
+        "time": 1687202384,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrè W.",
+        "author_photo": "/images/reviews/koehle-bedachungen-ag-ilanz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tip top... kann ich nur weiter empfehlen :)",
+        "time": 1554994792,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Micaili Giuriani",
+        "author_photo": "/images/reviews/koehle-bedachungen-ag-ilanz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Unser Unternehmen ist auf ein breites Spektrum an Isolierungen, Blecharbeiten, Reparaturen, Dachdeckerarbeiten und vielem mehr spezialisiert. Hochqualifizierte, professionelle Mitarbeiter mit Liebe zum Detail und dem letzten Schliff.",
+        "time": 1549997470,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "ricardo ferreira",
+        "author_photo": "/images/reviews/koehle-bedachungen-ag-ilanz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1764858104,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

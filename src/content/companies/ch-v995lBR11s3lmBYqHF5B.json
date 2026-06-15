@@ -26,5 +26,54 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzweCy3IRjkcRoKfnyUMbh-Y",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Céline Weibel",
+        "author_photo": "/images/reviews/malerei-gipserei-maeder-ag-finsterhennen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere und professionelle Arbeit! Werde wieder der Malerei Gipser Aufträge erteilen.",
+        "time": 1730488902,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Olivier Klossner",
+        "author_photo": "/images/reviews/malerei-gipserei-maeder-ag-finsterhennen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnelle und saubere Ausführung der Arbeiten. Absolut empfehlenswert!",
+        "time": 1687636262,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrea Kurzo",
+        "author_photo": "/images/reviews/malerei-gipserei-maeder-ag-finsterhennen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1680719200,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Martin Klossner",
+        "author_photo": "/images/reviews/malerei-gipserei-maeder-ag-finsterhennen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1620722079,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "cesar alija",
+        "author_photo": "/images/reviews/malerei-gipserei-maeder-ag-finsterhennen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1746291322,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

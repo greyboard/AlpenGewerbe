@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjx0ikkw_j0cRMiz6SjvxVvQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:15–13:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Gros chi",
+        "author_photo": "/images/reviews/werner-electro-ag-st-niklaus/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Schlechte Qualität.\nNicht zu empfehlen.\nIn meinen Augen unseriös.\n\nMusst du daneben stehen, bei den Arbeiten; sonst wird es anders gebaut.\n\nDauert alles zu lange.\nNach mir zu unstrukturierte Firma.",
+        "time": 1665746999,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jakic Filibert",
+        "author_photo": "/images/reviews/werner-electro-ag-st-niklaus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden.\nGute und fachmännische Beratung\nWeiter sooooo\nNur zum weiterempfehlen. DANKE",
+        "time": 1612521972,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Joëlle Emonet",
+        "author_photo": "/images/reviews/werner-electro-ag-st-niklaus/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Keine Zuverlässigkeit",
+        "time": 1569834172,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Helder Sousa",
+        "author_photo": "/images/reviews/werner-electro-ag-st-niklaus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1669234979,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Francesco Tortorelli",
+        "author_photo": "/images/reviews/werner-electro-ag-st-niklaus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1694357042,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

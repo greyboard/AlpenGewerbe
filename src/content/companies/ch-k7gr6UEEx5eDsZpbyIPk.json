@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJS4JuIQWhmkcRFQ1epT80jK4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–14:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Rosina Sun",
+        "author_photo": "/images/reviews/feglas-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben eine neue Küchengartentür und ein neues Fenster mit FeGlas AG gemacht. Wir sind sehr zufrieden mit dem Resultat. Gute Qualität und speditive Abwicklung und Montage. Wir empfehlen FeGlas gerne weiter.",
+        "time": 1719514253,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "teresa widmer",
+        "author_photo": "/images/reviews/feglas-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der schnellste Service, den ich je erlebt habe. Sehr kompetent, freundlich, die Details gut erklärt, vielen Dank und gerne wieder!",
+        "time": 1761119637,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Tina Nüesch-Felber",
+        "author_photo": "/images/reviews/feglas-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Rascher, kompetenter Service zu fairen Preis. Ich kann FeGlas bedingungslos empfehlen.",
+        "time": 1761722720,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Brigitte Rothen",
+        "author_photo": "/images/reviews/feglas-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fensterfugen ersetzt. Präzise Arbeit, sehr netter und kompetenter Mitarbeiter. Gerne wieder.",
+        "time": 1763927229,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Max Steiner",
+        "author_photo": "/images/reviews/feglas-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Reparatur und Anpassungen in der Küche wurden rasch und professionell ausgeführt. Perfekt.",
+        "time": 1762502669,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJB53jboj9j0cRmAZ5MsZOHKQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Hauswart-Gersag",
+        "author_photo": "/images/reviews/am-metallbau-gmbh-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich und unkompliziert.\nFachlich sehr gut.\nPreise sind Fair.\nGerne wieder. Danke.",
+        "time": 1777553318,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Sara Wikili",
+        "author_photo": "/images/reviews/am-metallbau-gmbh-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Auftrag wie beschrieben Ausgeführt! So arbeitet man gerne mit Fachleuten.",
+        "time": 1767288617,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "naji ibrahim",
+        "author_photo": "/images/reviews/am-metallbau-gmbh-emmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schöne und gute Schweissarbeiten geliefert, danke",
+        "time": 1767287313,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Rafael Andrea",
+        "author_photo": "/images/reviews/am-metallbau-gmbh-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professionell und Fair! Immer wieder gerne! Danke.",
+        "time": 1767289370,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Voltron Abderrahman",
+        "author_photo": "/images/reviews/am-metallbau-gmbh-emmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und flexibel",
+        "time": 1767287377,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

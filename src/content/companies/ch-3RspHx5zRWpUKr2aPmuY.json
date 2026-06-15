@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJUW5qRmqzmkcR1bilkSEVDKI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Angela Bernasconi",
+        "author_photo": "/images/reviews/bisig-gmbh-bodenbelaege-trachslau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren top zufrieden mit den Arbeiten. Wir wurden sehr kompetent und immer freundlich beraten. Bei unserem kleinen Umbauprojekt haben sie die Leitung übernommen und wir waren dafür sehr dankbar. Es war immer 100% Verlass auf sie. Ich kann Bisig Bodenbeläge sehr empfehlen.",
+        "time": 1645947326,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Dejan Kubli",
+        "author_photo": "/images/reviews/bisig-gmbh-bodenbelaege-trachslau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, super Dienstleistungen und top Fairness. Empfehle ich gerne weiter.",
+        "time": 1581252272,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

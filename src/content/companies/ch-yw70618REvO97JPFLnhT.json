@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJH2XvNFb6j0cRZeU1F9oaINY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:25–11:55 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:25–11:55 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:25–11:55 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:25–11:55 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:25–11:55 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Marc Frei",
+        "author_photo": "/images/reviews/reinhard-schreinerei-ag-kriens/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Reinhard Team hat in unserem neuen Studio mehrere Schreinerarbeiten umgesetzt – absolut präzise, sauber und termingerecht. Die Beratung war kompetent, die Ausführung top und das Ergebnis hat meine Erwartungen voll erfüllt. Wer Wert auf Qualität, Zuverlässigkeit und echtes Handwerk legt, ist hier bestens aufgehoben. Kann ich nur Weiterempfehlen!",
+        "time": 1766391782,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Achermann Kaminbau AG",
+        "author_photo": "/images/reviews/reinhard-schreinerei-ag-kriens/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente, freundliche und professionelle Beratung.\nVon meiner Idee im Kopf, über die Skizzierung bis zur Ausführung und Montage der Möbel durch die Reinhard Schreinerei AG eine tadellose, professionell und lösungsorientierte Zusammenarbeit. Wunderbares Resultat .\nSehr empfehlenswerte Schreinerei für individuelle Gestaltung.\nKann ich mit bestem Gewissen weiterempfehlen.\nVielen Dank!",
+        "time": 1765366955,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Ursula Wicki",
+        "author_photo": "/images/reviews/reinhard-schreinerei-ag-kriens/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich musste eine einzelne lange Schraube haben, um einen Klappstuhl zu flicken. Vor Ort wurde die passende Länge zubereitet - Schraube passt perfekt, Stuhl geflickt.\nSuper freundlicher Service, sehr zuvorkommend - danke für eure Hilfe 👍.\nBei Reinhard Schreinerei bin ich immer gut beraten - immer sehr hilfsbereit. 😊",
+        "time": 1750929820,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Central Optic Luzern AG",
+        "author_photo": "/images/reviews/reinhard-schreinerei-ag-kriens/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super schnell  und unkompliziert wurde die Arbeit erledigt, sehr freundlich und hilfsbereit wurde angepackt, für mich die erste Wahl für eine Schreinerei in und um Luzern. Danke vielmal",
+        "time": 1774960004,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Tom Unterwegs",
+        "author_photo": "/images/reviews/reinhard-schreinerei-ag-kriens/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten schon über 40 Jahre mit der Firma Reinhard zusammen und hatten nie irgendwelche Beanstandungen und möchten uns an dieser Stelle für die vertrauensvolle und innovative Zusammenarbeit recht herzlich bedanken. Der Dank geht vor allem an die zuverlässige Belegschaft von der wir immer sehr gute Arbeiten pünktlich abgeliefert bekamen. Danke.",
+        "time": 1749738365,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

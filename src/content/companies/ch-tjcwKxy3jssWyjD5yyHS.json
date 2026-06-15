@@ -25,5 +25,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAQCwb_FNjkcR0B7xDvQYsc8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 50,
+    "reviews": [
+      {
+        "author_name": "Michael Grunder",
+        "author_photo": "/images/reviews/krema-gmbh-maler-gipsergeschaeft-blumenstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nik und sein Team mussten uns spontan bei unserer Wohnung unter die Arme greifen. Durch seine gute Beratung und Arbeit sind wir mit dem Endresultat sehr zufrieden! Sein Mitarbeiter Janush war sehr freundlich, schnell und sauber! Trotzdem hatte er noch zeit für freundliche Worte für unsere Kinder. Diese Firma ist wirklich weiterzuempfehlen",
+        "time": 1728677321,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luca Tschäppeler",
+        "author_photo": "/images/reviews/krema-gmbh-maler-gipsergeschaeft-blumenstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der Krema GmbH. In unserem Büro benötigten wir schnellstmöglich eine Trennwand, und die Umsetzung erfolgte innerhalb weniger Tage. Von der Planung bis zur Montage hat alles reibungslos funktioniert. Die Arbeit war professionell, sauber und effizient, und die Kommunikation jederzeit unkompliziert. Ich kann die Zusammenarbeit mit der Krema GmbH voll und ganz empfehlen.",
+        "time": 1770976541,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Thomas Fahrni",
+        "author_photo": "/images/reviews/krema-gmbh-maler-gipsergeschaeft-blumenstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alle vereinbarten Termine und Kosten wurden eingehalten. Die Mitarbeiter sind stets freundlich und vor allem sehr kompetent!\nInnovatives junges Team - Bravo! Macht Spass mit euch zusammenzuarbeiten.",
+        "time": 1692789130,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jürg Haueter",
+        "author_photo": "/images/reviews/krema-gmbh-maler-gipsergeschaeft-blumenstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nik Mazrek ist ein freundlicher, kompetenter und exakter Malermeister. Die Arbeiten sind sauber und genau ausgeführt worden. Ich habe mit der Firma bereits zwei Baustellen zu meiner vollen Zufriedenheit vollendet.\nDie Firma Krema GmbH kann preislich wie arbeitsmässig weiter empfohlen werden.\nBesten Dank",
+        "time": 1754146277,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Philippe Brunner",
+        "author_photo": "/images/reviews/krema-gmbh-maler-gipsergeschaeft-blumenstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Qualität vor Quantität! Sehr sympathisch und absolut professionell. Super Arbeit – ich kann Kreshnik und die Krema GmbH mit bestem Gewissen weiterempfehlen!",
+        "time": 1748964856,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

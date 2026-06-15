@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1_hOziE5jkcRmvG71wR0rlM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Sandro Messerli",
+        "author_photo": "/images/reviews/waelti-peter-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank Damian Gobet, Roland Lanz und dem gesamten Team für die einwandfreie Arbeit. Wir durften mehrere Projekte zusammen realisieren. Von der Beratung, Planung zur Ausführung hat alles stets sehr gut geklappt und war immer hoch professionell. Weiter so!",
+        "time": 1727762195,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "J Maurer",
+        "author_photo": "/images/reviews/waelti-peter-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent, Schnell und vor allem unglaublich Freundlich und gut drauf 😄👏🏻 so froh, dass es euch gibt!!!",
+        "time": 1752674997,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Pascal Sollberger",
+        "author_photo": "/images/reviews/waelti-peter-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Roland Lanz, Geschäftsführer der Peter Wälti AG, , kann ich wärmsten empfehlen. Im Gespräch mit Roland Lanz stellt man sofort fest, dass es sich hier um einen offenen und ehrlichen Fachmann mit jahrelanger Erfahrung handelt für den das Kundenbedürfnis an oberster Stelle steht und der auch bereit ist eine Extrameile zu gehen. Durch kompetent und individuell Beratung findet er die passende Lösung, welche termingerecht und fachmännisch montiert wird - hier ist man in besten Händen. Es war mir eine Freunde Roland Lanz mit seinem sympathischem Auftreten kennenlernen zu dürfen.",
+        "time": 1646313220,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Pit Rüttimann",
+        "author_photo": "/images/reviews/waelti-peter-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragende Unternehmung! Wer einen top Elektriker benötigt, ist mit dieser Firma sehr gut bedient.",
+        "time": 1660320312,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "niamh zweifel",
+        "author_photo": "/images/reviews/waelti-peter-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tadellose Arbeit, dazu schnell und preisgünstig",
+        "time": 1680690589,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

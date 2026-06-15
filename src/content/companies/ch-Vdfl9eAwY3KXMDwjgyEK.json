@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJEVmlHYAWjkcR3hpQZkY0ZVg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:30–18:00 Uhr",
+    "Dienstag: 06:30–18:00 Uhr",
+    "Mittwoch: 06:30–18:00 Uhr",
+    "Donnerstag: 06:30–18:00 Uhr",
+    "Freitag: 06:30–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Widmer Marcel",
+        "author_photo": "/images/reviews/heinz-ramseier-ag-malerei-gipserei-golaten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Diese Firma kann ich wärmstens weiterempfehlen, super kompetente Beratung durch Hr. Ramseier. Alle Malerarbeiten wurden sehr Professionell und sauber ausgeführt, sehr freundliche Mitarbeiter.",
+        "time": 1669404099,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marcel Schwab",
+        "author_photo": "/images/reviews/heinz-ramseier-ag-malerei-gipserei-golaten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Heinz Ramseier ist eine Renomierte Maler Firma sehr gute Qualität der Arbeit preisleistung ist sehr gut sehr empfelenswert.gruss m.schwab",
+        "time": 1614843947,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marianne Honegger",
+        "author_photo": "/images/reviews/heinz-ramseier-ag-malerei-gipserei-golaten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelles Unternehmen, sehr effizientes und freundliches Personal. Die beauftragten Arbeiten werden pünktlich und planmässig in hoher Qualität ausgeführt.\nDie Malerei Gipserei Ramseier AG in Golaten b. Ketzers ist zu 100 % empfehlenswert.\n\nSehr professionelles Unternehmen, sehr effizientes und freundliches Personal. Die vereinbarten Arbeiten werden pünktlich und planmässig in hoher Qualität ausgeführt. Die Firma Ramseier SA in Golaten bei Chiètres ist zu 100 % empfehlenswert.",
+        "time": 1693325061,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nadine Johner",
+        "author_photo": "/images/reviews/heinz-ramseier-ag-malerei-gipserei-golaten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1669460043,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Karim Stettler",
+        "author_photo": "/images/reviews/heinz-ramseier-ag-malerei-gipserei-golaten/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1721977982,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

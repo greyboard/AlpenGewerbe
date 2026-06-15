@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJmRsQITUZm0cRej2S4XGCmV0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 36,
+    "reviews": [
+      {
+        "author_name": "Stefan Eisenreich",
+        "author_photo": "/images/reviews/frischknecht-garten-gmbh-speicher/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Matthias Frischknecht und sein Team haben für uns eine Stützmauer sowie Plattenlegearbeiten ausgeführt. Die Kontaktaufnahme und Kommunikation waren jederzeit sehr freundlich, unkompliziert und ausgesprochen professionell.\n\nDie Arbeiten selbst wurden extrem speditiv, sauber und in hoher handwerklicher Qualität umgesetzt. Wir sind mit dem Ergebnis rundum zufrieden und können das Team von Matthias wärmstens weiterempfehlen.\n\nVielen Dank für die hervorragende Arbeit, wir freuen uns bereits auf das nächste gemeinsame Projekt.",
+        "time": 1774341597,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Dan Freeman",
+        "author_photo": "/images/reviews/frischknecht-garten-gmbh-speicher/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Frischknecht Garten hat für uns zwei Stützmauern und eine Treppe gebaut und eine Sumpfeiche gepflanzt. Dabei haben sie unsere Wünsche perfekt umgesetzt und bei der Beratung auch ihre Erfahrung und Material-Empfehlungen einfliessen lassen. Die Mauern, Treppe und der Baum freuen uns jeden Tag aufs neue und haben unseren hügeligen, wilden Garten in ein  strukturiertes Paradies verwandelt. Vielen Dank für die saubere Arbeit!",
+        "time": 1760278188,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Irene Oschwald",
+        "author_photo": "/images/reviews/frischknecht-garten-gmbh-speicher/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein zuverlässiges unternehmen mit dem ich mehr als zufrieden bin. Schnelle und sehr saubere Arbeit.  Sehr gute Beratung und Zeit zum aussuchen der Platten und Gefässe. Wer einen schönen Garten will dem kann ich Frischknecht Gartenbau nur weiter empfehlen.\nIrene Oschwald",
+        "time": 1772089219,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Cordula Habermacher",
+        "author_photo": "/images/reviews/frischknecht-garten-gmbh-speicher/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Unsere übergrosse Tanne wurde professionell und schnell abgesägt und entsorgt. Wir sind mit dem Service rundum zufrieden. Matthias und seine Mitarbeiter sind zudem sehr freundlich. Der nächste Auftrag wurde bereits erteilt. Immer wieder gern Frischknecht-Garten 👍. Vielen Dank🙏.",
+        "time": 1699887002,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Puka Freymann",
+        "author_photo": "/images/reviews/frischknecht-garten-gmbh-speicher/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Frischknecht hat bei uns eine Tanne sowie einen Ahorn gefällt. Er war immer sehr professionel, nett und termintreu. Ausserdem hatte er einen sehr freundlichen Mitarbeiter, welcher unglaublich professionel mitgearbeitet hat.\n\nIch kann Herrn Frischknecht sehr empfehlen: Ein tolle Firma mit top Dienstleistungen. Vielen herzlichen Dank.",
+        "time": 1763933205,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

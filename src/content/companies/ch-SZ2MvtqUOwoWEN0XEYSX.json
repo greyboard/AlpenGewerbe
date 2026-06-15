@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJjSJsq7DZkUcRqGfQkD5i0vw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Mathias Boner",
+        "author_photo": "/images/reviews/schreinerei-langendorf-ag-langendorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mein Ansprechpartner für die Sanierung und den Umbau meines Hauses. Ich bin sehr zufrieden mit der Arbeit und der Betreuung durch die Schreinerei Langendorf AG. Vieles konnte so aus einer Hand über einen Ansprechpartner erledigt werden. Küche, Haustüre, Fensterersatz, neue Treppe, Innentüren, Badezimmermöbel, Deckenverkleidung mit Fermacell, Trennwände, Estrichtreppe, Vorbereitung Boden für Bodenheizung mit Fermacell-Elementen und viele weitere Details. Saubere Arbeit! Ich kann die Schreinerei Langendorf AG bestens weiterempfehlen.",
+        "time": 1721988062,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Philemon Linder",
+        "author_photo": "/images/reviews/schreinerei-langendorf-ag-langendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bisher habe ich 2 Aufträge ausführen lassen. Es wurd eveide male alles sauber offeriert und gem. den Abmachungen ausgeführt.\nSehr zu empfehlen.",
+        "time": 1635280271,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Youtube Video",
+        "author_photo": "/images/reviews/schreinerei-langendorf-ag-langendorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769431775,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Georges Bebine",
+        "author_photo": "/images/reviews/schreinerei-langendorf-ag-langendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1755695282,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

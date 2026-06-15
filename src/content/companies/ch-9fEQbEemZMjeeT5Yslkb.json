@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJYZ2-VyTmkcRi72QchH6RMM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr",
+    "Dienstag: 08:00–11:30 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr",
+    "Freitag: 08:00–11:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Natascha Becker",
+        "author_photo": "/images/reviews/elektro-hoernlimann-ag-waengi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Geschäftlich wie privat erledigt das Team von Hörnlimann alles zu unserer absoluten Zufriedenheit. Immer gute Ideen, pünktlich, freundlich und sehr kompetent.\nDanke für den immer guten Service!",
+        "time": 1747253265,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tinu Z",
+        "author_photo": "/images/reviews/elektro-hoernlimann-ag-waengi/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnell, zuverlässig und sehr freundliches Team. Immer wieder gerne.",
+        "time": 1678812058,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lucia Strässle",
+        "author_photo": "/images/reviews/elektro-hoernlimann-ag-waengi/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer wieder gerne. Das Team ist sehr freundlich und meine Probleme wurden schnell angeschaut",
+        "time": 1616278308,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Werner Dürr",
+        "author_photo": "/images/reviews/elektro-hoernlimann-ag-waengi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und guter Service",
+        "time": 1714491346,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marcel Steinmann",
+        "author_photo": "/images/reviews/elektro-hoernlimann-ag-waengi/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässig, gute Qualität zu einem guten Preis/Leistungsverhältnis. Top!👍",
+        "time": 1710079527,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

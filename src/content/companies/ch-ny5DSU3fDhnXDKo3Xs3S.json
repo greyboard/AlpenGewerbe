@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJXZ27IW8KkEcRGXGKMXcBcoc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 43,
+    "reviews": [
+      {
+        "author_name": "Katharina Ziegler",
+        "author_photo": "/images/reviews/es-holzhandwerk-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann ES- Holzhandwerk nur wärmstens empfehlen! Sie haben mein Bett und meinen Tisch renoviert und das Ergebnis ist fantastisch. Herr Schmid und seine Mitarbeiter waren äusserst freundlich, zuverlässig und arbeiteten sehr schnell. Ihre Wertschätzung der Stücke und ihre Liebe zum Holz ist beeindruckend und ich bin total glücklich mit dem neuen Look meiner Möbel. Vielen Dank an alle für die tolle Arbeit!",
+        "time": 1766413400,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Dragan Klisaric",
+        "author_photo": "/images/reviews/es-holzhandwerk-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schön zu sehen, dass es noch Firmen mit kompetenten Fachkräften gibt. Auf meine Anfrage wurde schnell regaiert und nach der Begehung erhielt ich bereits am gleichen Tag die detaillierte Offerte. Die Reparturarbeiten am Carport wurden fachmännisch und sauber ausgeführt. Besten Dank",
+        "time": 1770846358,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Stephan Schmucki",
+        "author_photo": "/images/reviews/es-holzhandwerk-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Handwerk von höchster Professionalität. ES-Holzhandwerk hat für uns ein Unikat hergestellt, 3m Esstisch Europäischer Nussbaum. Die Begleitung im Herstellungsprozess half uns, einen Traum zu verwirklichen. Das Resultat hat unsere Erwartungen übertroffen. 👍🏼",
+        "time": 1724960850,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Karin Blank",
+        "author_photo": "/images/reviews/es-holzhandwerk-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Schreinerarbeit im Reduit war rundum überzeugend. Der alte Tisch wurden sorgfältig aufgefrischt. Die Oberflächen fühlen sich nun glatt und sauber an, und das Holz wirkt deutlich aufgefrischt. Besonders positiv hervorzuheben ist die saubere Arbeitsweise – kein Staub wurden zurückgelassen. Die Arbeit wurde termingerecht und zuverlässig ausgeführt. Ein rundum gelungener Einsatz – professionell, präzise und mit sichtbarem Respekt fürs Material. Sehr empfehlenswert!",
+        "time": 1752744855,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Renato Mazzucchelli",
+        "author_photo": "/images/reviews/es-holzhandwerk-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetente und saubere Arbeit.\nWir können ES nur weiter empfehlen.\nHat mit einem Blick auch bemerkt, dass unser grosser Holztisch eine Auffrischung nötig hat. Sieht jetzt wieder wie neu aus! SUPER!\nDie Belegschaft ist sehr freundlich und arbeitet sehr sauber.\nWir haben unseren Schreiner gefunden😊",
+        "time": 1758008222,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

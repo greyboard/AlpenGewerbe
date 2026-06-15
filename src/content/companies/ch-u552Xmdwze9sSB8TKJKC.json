@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJw2buORgXj0cRAvz_fuRFYYQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "SEVERA PRO (CREATIVE & MODULAR)",
+        "author_photo": "/images/reviews/mathieu-bau-gmbh-agarn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir möchten der Firma Mathiebau aus Agarn unseren herzlichen Dank aussprechen für die großartige Arbeit am Projekt Severa Residence in Gampel. Die Qualität der Arbeit, Flexibilität und das Engagement des gesamten Teams haben uns sehr beeindruckt. Mathiebau ist eine Firma, die wir wärmstens weiterempfehlen können, und wir freuen uns auf eine weitere Zusammenarbeit bei zukünftigen Projekten.\n\nVielen Dank!\nDas Severa Residence Team",
+        "time": 1731157222,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gervas Kippel",
+        "author_photo": "/images/reviews/mathieu-bau-gmbh-agarn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eine gut organisierter Familienbetrieb",
+        "time": 1717311473,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yanick Dirren",
+        "author_photo": "/images/reviews/mathieu-bau-gmbh-agarn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Süper chefe 👍",
+        "time": 1666464941,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Enja Kuonen",
+        "author_photo": "/images/reviews/mathieu-bau-gmbh-agarn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696495708,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Harald Mayenzet",
+        "author_photo": "/images/reviews/mathieu-bau-gmbh-agarn/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1676894509,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

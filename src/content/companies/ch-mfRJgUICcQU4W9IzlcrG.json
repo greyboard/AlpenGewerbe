@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJH4r0SzFOhUcRGC5UX0mIeeI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Alice Bianchi",
+        "author_photo": "/images/reviews/m-bianchi-gipsergeschaeft-gmbh-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einmalig super gutes und sehr empfehlenswertes Gipsergeschäft mit Spezialausbildung für marmorierenden Spezialeffekten!!",
+        "time": 1598724890,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ljutvija Celic",
+        "author_photo": "/images/reviews/m-bianchi-gipsergeschaeft-gmbh-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1581620268,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Kari Buergi",
+        "author_photo": "/images/reviews/m-bianchi-gipsergeschaeft-gmbh-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696140746,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Urs Zieri",
+        "author_photo": "/images/reviews/m-bianchi-gipsergeschaeft-gmbh-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1639411392,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Daniel Flueckiger",
+        "author_photo": "/images/reviews/m-bianchi-gipsergeschaeft-gmbh-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1635167846,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

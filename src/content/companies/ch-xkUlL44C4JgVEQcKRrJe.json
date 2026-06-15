@@ -26,5 +26,55 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJl8QsCznLkUcRtAsQnu-TUFw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Dominique Bruegger",
+        "author_photo": "/images/reviews/fira-gipsergeschaeft-liestal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Gipser Geschäft. Arbeitet sehr Sauber und exakt. Kann ich nur weiterempfehlen. Bei mir jederzeit wieder. Danke für die tolle Arbeit.",
+        "time": 1728969906,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "bürginmaler",
+        "author_photo": "/images/reviews/fira-gipsergeschaeft-liestal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seit einigen Jahren arbeite ich mit der Firma, FIRA Gipsergeschäft zusammen. Ich bin immer stets zufrieden mit den geleisteten Gipserarbeiten von Filip Rados (Inhaber). Sehr bemüht, gute Qualität zu leisten. Ich empfehle dich, Filip, sehr gerne weiter!",
+        "time": 1728569192,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Christoph Vögtlin",
+        "author_photo": "/images/reviews/fira-gipsergeschaeft-liestal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir waren bei unserem Hausbau sehr zufrieden mit FIRA.\nSowohl Innen-, als auch Aussenbau wurde zu unserer vollsten Zufriedenheit ausgeführt.\nSchnell, speditiv und sauber. Gerne wieder :)",
+        "time": 1729427709,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Chiara Vögtlin",
+        "author_photo": "/images/reviews/fira-gipsergeschaeft-liestal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, innen und aussen.\nWürde jederzeit weiterempfehlen!",
+        "time": 1729427580,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

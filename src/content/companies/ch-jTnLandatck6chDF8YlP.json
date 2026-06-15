@@ -26,5 +26,55 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJW9ubHoOZmkcRFnzn0oNhF1A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "berat aslani",
+        "author_photo": "/images/reviews/eb-gipser-maler-winterthur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bi sehr zfriede mit de Arbeit vo EB Gipser & Maler. Sehr professionell, suuberi Arbeit und alles isch pünktlich erledigt worde. S Team isch fründlich, zverlässig und korrekt. Chan die Firma nur wiiterempfehle – top Qualität und Service!",
+        "time": 1770742860,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Rijad Asllani",
+        "author_photo": "/images/reviews/eb-gipser-maler-winterthur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich gratuliere Ihnen zu Ihrer Arbeit, Sie sind großartig. Ich bin sehr zufrieden mit der Arbeit, die Sie geleistet haben.",
+        "time": 1770742371,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Lum Gashi",
+        "author_photo": "/images/reviews/eb-gipser-maler-winterthur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770732815,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Etrit",
+        "author_photo": "/images/reviews/eb-gipser-maler-winterthur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770732760,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

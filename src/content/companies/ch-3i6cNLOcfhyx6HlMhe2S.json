@@ -26,5 +26,39 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0by60N6BmkcRKk2ynR-FL9E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Sandra Habegger",
+        "author_photo": "/images/reviews/garten-huter-gartenbau-gartenpflege-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1768655534,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Kamil Bujak",
+        "author_photo": "/images/reviews/garten-huter-gartenbau-gartenpflege-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698863346,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

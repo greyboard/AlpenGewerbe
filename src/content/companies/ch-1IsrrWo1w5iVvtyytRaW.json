@@ -1,7 +1,7 @@
 {
   "id": "ch-1IsrrWo1w5iVvtyytRaW",
   "slug": "birdswork-mollis",
-  "name": "Birdswork",
+  "name": "Birdswork GmbH",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJEYDo5NHSmkcR9jLo3rB6LS4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Alice Ritter",
+        "author_photo": "/images/reviews/birdswork-mollis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professionelles, engagiertes Team. Ihrer Divise: \"Mit viel Amore\" werden sie definitiv gerecht!",
+        "time": 1677918922,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marc Auer",
+        "author_photo": "/images/reviews/birdswork-mollis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Engagiertes und professionelles Team!",
+        "time": 1676411517,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Samuel Acosta",
+        "author_photo": "/images/reviews/birdswork-mollis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "10/10",
+        "time": 1732895575,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Paul Weber",
+        "author_photo": "/images/reviews/birdswork-mollis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676412087,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Reto Märchy",
+        "author_photo": "/images/reviews/birdswork-mollis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1773588280,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

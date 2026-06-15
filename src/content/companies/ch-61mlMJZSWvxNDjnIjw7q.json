@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJyfUNAnwLkEcRYhtUnMZ4kes",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 09:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 09:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: 09:00–17:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Anton Marjakaj",
+        "author_photo": "/images/reviews/glas-tustonja-gmbh-glaserei-glasreparatur-fenster-reparatur-zuerich-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In sachen Reparaturen für Glas oder zebrochene Scheiben sowie Einbauduschen ist man hier an der richtigen stelle.",
+        "time": 1758539139,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Anoop Madassery",
+        "author_photo": "/images/reviews/glas-tustonja-gmbh-glaserei-glasreparatur-fenster-reparatur-zuerich-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Fantastischer Service von Glas-Tustonja Sie haben unsere Fensterscheiben schnell und professionell ausgetauscht. Alles verlief reibungslos und stressfrei und die neuen Scheiben sehen toll aus. Sehr zu empfehlen!",
+        "time": 1718016260,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "alija goo",
+        "author_photo": "/images/reviews/glas-tustonja-gmbh-glaserei-glasreparatur-fenster-reparatur-zuerich-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert, herzlichen dank für die schnelle und unkoplizierte abwicklung.",
+        "time": 1626338189,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ahmet F",
+        "author_photo": "/images/reviews/glas-tustonja-gmbh-glaserei-glasreparatur-fenster-reparatur-zuerich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Fachlich kompetente, menschlich sehr sympathische Beratung.",
+        "time": 1626414933,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Goetz Perll",
+        "author_photo": "/images/reviews/glas-tustonja-gmbh-glaserei-glasreparatur-fenster-reparatur-zuerich-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "perfekter Service!",
+        "time": 1733991274,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

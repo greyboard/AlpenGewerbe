@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJLXOD4z-jj0cRSTr0RtfWuL8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Peter Reichelt",
+        "author_photo": "/images/reviews/seiler-ag-stahl-metallbau-boenigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mit Seiler AG im Jahre 2023 und 2024 an verschiedenen Projekten zusammen gearbeitet und bin beeindruckt von deren hoher Arbeitsquallität und dem Team. Sehr positiv! Gerne wieder!.\nVielen Dank!. GLG. Peter.",
+        "time": 1728709272,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "rolf schafroth",
+        "author_photo": "/images/reviews/seiler-ag-stahl-metallbau-boenigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top wie immer !!!!",
+        "time": 1636113099,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJqb7Dmwz6j0cR5ruLOx4TC74",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Stoica Alexandru Bogdan",
+        "author_photo": "/images/reviews/rebafloor-rebaxit-ag-hergiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Aus meiner Sicht und ganz realistisch betrachtet, findet man Professionalität, Perfektion und Präzision in der Arbeit dieses Teams (dieser Familie) nur im Militär. Alles ist bis ins kleinste Detail geplant und wird mit größter Sorgfalt ausgeführt – ganz im militärischen Stil. Bravo, Jungs, weiter so!",
+        "time": 1769445570,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Yves",
+        "author_photo": "/images/reviews/rebafloor-rebaxit-ag-hergiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Rebafloor macht wunderschöne Kunstharzböden.\nDie Auftragsabwicklung war sehr einfach und unkompliziert. Unsere sportlichen Terminwünsche wurden sauber umgesetzt.",
+        "time": 1579047766,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "cindy Betschart",
+        "author_photo": "/images/reviews/rebafloor-rebaxit-ag-hergiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelle schnelle und saubere Arbeit gerne jederzeit wieder.",
+        "time": 1611251571,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Josef Blättler",
+        "author_photo": "/images/reviews/rebafloor-rebaxit-ag-hergiswil/reviewer_4.jpg",
+        "rating": 3,
+        "text": "Das ist ein spezielles Büreu.",
+        "time": 1560004237,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Juergen Krohm",
+        "author_photo": "/images/reviews/rebafloor-rebaxit-ag-hergiswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Perfekt....",
+        "time": 1618512019,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJexXWsshkjEcRh_Q2wv1dNWw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Djalal Djalal",
+        "author_photo": "/images/reviews/baticolor-sa-geneve/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Hallo! Suchen Sie Fachkräfte?",
+        "time": 1766781785,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Richard Pereira",
+        "author_photo": "/images/reviews/baticolor-sa-geneve/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Die Mitarbeiter, die für die Anrufannahme zuständig sind, sind weder professionell noch höflich.",
+        "time": 1590414288,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marcos Costa",
+        "author_photo": "/images/reviews/baticolor-sa-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein effizientes Unternehmen!",
+        "time": 1692280586,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Julien Julien",
+        "author_photo": "/images/reviews/baticolor-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643111162,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "La Familia Totá",
+        "author_photo": "/images/reviews/baticolor-sa-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642674832,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

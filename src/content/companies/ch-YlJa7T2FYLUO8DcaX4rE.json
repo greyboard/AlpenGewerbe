@@ -26,5 +26,22 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3x6pdM5rjkcRlFylg9ZR9wU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Louis-Alain Cottier",
+        "author_photo": "/images/reviews/haymoz-ag-duedingen/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Herzlich willkommen, schade um das Ende der Aktivitäten!!!!",
+        "time": 1544379315,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

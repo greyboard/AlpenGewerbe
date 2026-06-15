@@ -26,5 +26,46 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJX8gWv2FIhUcRXtmhe2GDNKU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Mike Suter",
+        "author_photo": "/images/reviews/heinzer-schreinerei-muotathal-gmbh-muotathal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Familienunternehmen in welchem der Kunde an erster Stelle steht. Die Wünsche werden aufgenommen und danach fachlich super ausgeführt. Sei es eine Küche, ein Einbauschrank oder nur ein einfaches TV-Möbel. Empfehlenswert für jegliche Schreinerarbeiten.",
+        "time": 1644093613,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Nicole Betschart",
+        "author_photo": "/images/reviews/heinzer-schreinerei-muotathal-gmbh-muotathal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Beratung, breitgefächertes Angebot, auf die Kundenwünsche wird sehr genau eingegangen, massgeschneiderte Möbel, da merkt man, dass Qualität an oberster Stelle steht!",
+        "time": 1644011358,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sereina Muheim",
+        "author_photo": "/images/reviews/heinzer-schreinerei-muotathal-gmbh-muotathal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die beste Schreinerei in der Umgebung. Empfehlenswert👍🏻",
+        "time": 1644010698,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Markus Graf",
+        "author_photo": "/images/reviews/heinzer-schreinerei-muotathal-gmbh-muotathal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Freundlich Kundenorienriert flexibel einzigartig👍",
+        "time": 1629195151,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

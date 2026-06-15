@@ -26,5 +26,38 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJEcJHIe05jkcRVwDk472rqbM",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "marc durre",
+        "author_photo": "/images/reviews/varium-bau-ag-bern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Die Leute in dieser AG haben Keine Moral und kein Respekt gegenüber anderen. Ich nehme an, dass die Leute, die ich an einem Samstag in einem Einkaufszentrum auf einem Behindertenparkplatz parken sah, der Chef und seine Frau waren. Sie haben sogar zwei Behindertenparkplätze blockiert (es war dann keine mehr Frei, eine Behinderte Person konnte dann aich nicht mehr parkieren), und er hat versucht, mir zu erklären, warum sie auf einem Behindertenparkplatz parken... Arbeiten Sie nicht mit diesen Leuten. Sie haben weder Moral noch Respekt gegenüber anderen insbesondere gegenüber Behinderte Menschen.",
+        "time": 1775326299,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Matteo Müller",
+        "author_photo": "/images/reviews/varium-bau-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Varium Bau ein Bauprojekt realisiert und sind sehr zufrieden. Das Team war äusserst professionell, zuverlässig und lösungsorientiert. Die Kommunikation war stets transparent, und alle unsere Wünsche wurden mit höchster Präzision umgesetzt.\n\nBesonders beeindruckt hat uns die handwerkliche Qualität sowie die Termintreue – alles wurde pünktlich und ohne Komplikationen abgeschlossen. Auch bei unerwarteten Herausforderungen fand das Team immer eine schnelle und pragmatische Lösung.\n\nVarium Bau ist definitiv eine Firma, die hält, was sie verspricht. Wir können sie uneingeschränkt weiterempfehlen!",
+        "time": 1743404046,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "luna boni",
+        "author_photo": "/images/reviews/varium-bau-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1674672749,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

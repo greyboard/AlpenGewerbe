@@ -26,5 +26,38 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxeC-dTkshUcRyjMe3fZn8Yk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Nöggi Arnold",
+        "author_photo": "/images/reviews/zweifel-holz-ag-glarus-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich und Kundenorientiert.",
+        "time": 1567520171,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Heidi Neuweiler",
+        "author_photo": "/images/reviews/zweifel-holz-ag-glarus-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1768048820,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Pascal Steinauer",
+        "author_photo": "/images/reviews/zweifel-holz-ag-glarus-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1534743905,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

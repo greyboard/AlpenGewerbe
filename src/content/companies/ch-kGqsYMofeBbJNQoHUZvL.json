@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJbUfJa4g9kEcRrkRLtgUkX8w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Corinne Schmutz",
+        "author_photo": "/images/reviews/maler-tiptoptobi-rupperswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tobi ist wirklich ein wahrer Meister in seinem Fach. Mein Haus hatte sehr viel Liebe gebraucht und Tobi hat ein Schmuckstück daraus gemacht. Ich konnte auch bei vielen Arbeiten selber anpacken und es gab wirklich viel zu tun😄 zum Glück hat es mit Tobi viel Spass gemacht und das Ergebnis kann sich wirklich sehen lassen. Ich bin wirklich rundum zufrieden mit TipTopTobi und möchte mich herzlich bei Tobi für die tolle Zeit bedanken.",
+        "time": 1761026892,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Olivier & Irina Jossen",
+        "author_photo": "/images/reviews/maler-tiptoptobi-rupperswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tobi war für die Farben in unserem Komplett Umbau eines 300jährigen Hausteils, der Perfekte Partner!\nMit seinem Wissen und dem Einfühlvermögen, hatt er jeden Farbton getroffen.\nJederzeit wieder !",
+        "time": 1704364237,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roman Müller",
+        "author_photo": "/images/reviews/maler-tiptoptobi-rupperswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unsere Wohnung ist total neu gestrichen worden! Bezüglich unseren Farbvorstellungen hat uns Tobi professionell und perfekt beraten. Das Ergebnis entspricht total unseren Vorstellungen. Wir sind total begeistert!!!\nAuch seine sympathische und umgängliche Art war sehr angenehm. Wir können Tobi nur wärmstens empfehlen!",
+        "time": 1716731112,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "R. I.",
+        "author_photo": "/images/reviews/maler-tiptoptobi-rupperswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Das Unternehmen durfte bei uns eine Schimmelbehandlung sowie einen frischen Anstrich ausführen.\nSchnelle Kontaktaufnahme, Gute Beratung, saubere Ausführung/Abwicklung sowie faire Abrechnung.\nAlles in allem kann ich sagen: Tip Top, Tobi\nGerne wieder",
+        "time": 1740392284,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lukas Baumann",
+        "author_photo": "/images/reviews/maler-tiptoptobi-rupperswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Arbeit, guter Preis und Nachhaltigkeit wird wirklich gelebt. Der Name ist Programm, eben alles Tip Top mit Tobi. Alle Arbeiten wurden zur vollsten Zufriedenheit ausgeführt. Wir können Tip Top Tobi wärmstens weiterempfehlen!",
+        "time": 1682798080,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

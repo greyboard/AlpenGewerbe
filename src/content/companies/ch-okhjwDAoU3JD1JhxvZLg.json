@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT3iINaHdjkcRcyx_oaqORJc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Franck Chesaux",
+        "author_photo": "/images/reviews/la-maison-de-l-interieur-sarl-conthey/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mit Bruno Perez von La Maison de l’Intérieur beim Kauf meiner Terrassenplatten sehr gute Erfahrungen gemacht. Er hat mich präzise beraten, mich hervorragend bei der Materialauswahl unterstützt und war während des gesamten Projekts jederzeit erreichbar. Die Qualität der Produkte ist ausgezeichnet, und das Endergebnis entspricht voll und ganz meinen Erwartungen. Ein seriöser und zuverlässiger Fachmann, den ich uneingeschränkt empfehlen kann.",
+        "time": 1778047984,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Dylan Taccoz",
+        "author_photo": "/images/reviews/la-maison-de-l-interieur-sarl-conthey/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann La Maison de l’Intérieur uneingeschränkt empfehlen. Herr Perez' Aufmerksamkeit, Professionalität und Fachkompetenz spiegeln seine langjährige Erfahrung in diesem Bereich perfekt wider. Erstklassige Unterstützung und Ergebnisse, die alle Erwartungen übertroffen haben.",
+        "time": 1767988392,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Hydrotech Da Silva Bruno",
+        "author_photo": "/images/reviews/la-maison-de-l-interieur-sarl-conthey/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten das Vergnügen, mit La Maison de l’Intérieur und Herrn Bruno Perez bei mehreren Renovierungsprojekten zusammenzuarbeiten.\n\nSie sind ein renommiertes Unternehmen mit viel Liebe zum Detail und einem hohen Qualitätsanspruch. Die Kommunikation ist stets unkompliziert, effizient und professionell, was einen reibungslosen Projektablauf ermöglicht.\n\nEs ist uns eine große Freude, mit so zuverlässigen und engagierten Partnern zusammenzuarbeiten, die unsere hohen Ansprüche teilen.\n\nWir empfehlen sie uneingeschränkt! 🤝",
+        "time": 1776961593,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Grégory Esteve",
+        "author_photo": "/images/reviews/la-maison-de-l-interieur-sarl-conthey/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein herzliches Dankeschön an Maison de l'intérieur, die es mir ermöglicht haben, mein Projekt in Rekordzeit abzuschließen!\nDie Materialien sind von hervorragender Qualität und die Mitarbeiter sind sehr freundlich und zuvorkommend!\nIch kann sie wärmstens empfehlen!",
+        "time": 1728308523,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Da Silva Bruno",
+        "author_photo": "/images/reviews/la-maison-de-l-interieur-sarl-conthey/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Äußerst professionell. Auch nach mehreren gemeinsamen Projekten ist ihre Professionalität konstant hoch.\n\nIch kann sie uneingeschränkt empfehlen.\n\nExzellenter Service; Sie erhalten stets hervorragende Unterstützung bei allen Fragen und Anliegen.",
+        "time": 1776840481,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJkagaK6RFhUcRDi57N--uEvM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–16:30 Uhr",
+    "Dienstag: 07:30–16:30 Uhr",
+    "Mittwoch: 07:30–16:30 Uhr",
+    "Donnerstag: 07:30–16:30 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Simon Bissig",
+        "author_photo": "/images/reviews/gisler-service-gmbh-hauswartung-gebaeudeunterhalt-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Innovative und unkomplizierte Unternehmung. Das Inhaberpaar und die Mitarbeitenden gehen ohne Kompromisse auf Kundenwünsche ein und realisieren diese aufgrund langjähriger Branchenerfahrung tadellos. Eine klare Empfehlung.",
+        "time": 1651834794,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Remo Camping",
+        "author_photo": "/images/reviews/gisler-service-gmbh-hauswartung-gebaeudeunterhalt-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service, herzlichen Dank und bis zum nächsten mal.",
+        "time": 1623873422,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Cristian Caprarusi",
+        "author_photo": "/images/reviews/gisler-service-gmbh-hauswartung-gebaeudeunterhalt-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gut",
+        "time": 1650568075,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ernesto Diener",
+        "author_photo": "/images/reviews/gisler-service-gmbh-hauswartung-gebaeudeunterhalt-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super",
+        "time": 1737022123,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rene Tresch",
+        "author_photo": "/images/reviews/gisler-service-gmbh-hauswartung-gebaeudeunterhalt-altdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667927789,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

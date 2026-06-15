@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJC46OyP4RjkcRkvVgidvxLyc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:30 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Daniel Stettler",
+        "author_photo": "/images/reviews/stf-messerli-ag-ins/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Nach einem informativen Beratungsgespräch eine Offerte versprechen und danach trotz mehrmalilgem Nachfragen per Mail und Telefon nichs mehr von sich hören lassen geht gar nicht.",
+        "time": 1655021872,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bruno Christen",
+        "author_photo": "/images/reviews/stf-messerli-ag-ins/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Liebe Spengler Grüße ins Seeland.",
+        "time": 1631208030,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "louie kalt",
+        "author_photo": "/images/reviews/stf-messerli-ag-ins/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Grüse Leandro",
+        "time": 1718605377,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Heimann",
+        "author_photo": "/images/reviews/stf-messerli-ag-ins/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1649428999,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "THEtugaKRAZY",
+        "author_photo": "/images/reviews/stf-messerli-ag-ins/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1624945664,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

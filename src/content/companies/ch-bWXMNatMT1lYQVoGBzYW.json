@@ -26,5 +26,38 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJbWcH9wy5kUcR9WIYSuXTMds",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Louisa JAHN",
+        "author_photo": "/images/reviews/nyfeler-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1757070889,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Danilo Ma",
+        "author_photo": "/images/reviews/nyfeler-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1532563418,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "jean-pierre zill",
+        "author_photo": "/images/reviews/nyfeler-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1531588836,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

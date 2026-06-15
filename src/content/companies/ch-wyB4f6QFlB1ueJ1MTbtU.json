@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKR7R0KZpjkcRlolVHcdOv50",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Pathy Gaspoz",
+        "author_photo": "/images/reviews/ts-la-bricole-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Seine Arbeit ist hervorragend, sauber und professionell. Er ist absolut vertrauenswürdig und ehrlich.\n\nJeder braucht mal einen Handwerker … Ich habe TS La Bricole für Malerarbeiten, diverse Reparaturen und die Badsanierung beauftragt.\n\nIch kann TS La Bricole wärmstens empfehlen! 🛠",
+        "time": 1679827582,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mebahiah",
+        "author_photo": "/images/reviews/ts-la-bricole-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Thierry liefert stets tadellose Arbeit ab und ist zudem unglaublich freundlich. Ich kann ihn wärmstens empfehlen! ☺️",
+        "time": 1754353602,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Aitathman Adenys",
+        "author_photo": "/images/reviews/ts-la-bricole-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Effizienz, Schnelligkeit und Verfügbarkeit waren alle gegeben! Thierry ist ein fantastischer Mensch, den ich uneingeschränkt empfehlen kann!",
+        "time": 1718008713,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Joëlle Schneiter Avocegamou",
+        "author_photo": "/images/reviews/ts-la-bricole-fribourg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service. Thierry kennt sich bestens aus und kann alles! Ich kann ihn uneingeschränkt empfehlen.",
+        "time": 1744701125,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

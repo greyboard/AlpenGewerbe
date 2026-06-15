@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJF6xu6MALkEcRATu-FUSPWok",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 77,
+    "reviews": [
+      {
+        "author_name": "Armin Bläsi",
+        "author_photo": "/images/reviews/eco-haustechnik-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir hatten am 24/12 einen Notfall (rinnender Wasserhahn in der Küche) die Firma hat uns umgehend zurück gerufen und noch für den selben Nachmittag einen Termin vereinbart.\nDer Monteur war ausserordentlich freundlich und kompetent.\nIn kurzer Zeit war das Problem behoben,danke!",
+        "time": 1766585257,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Francesco bianculli",
+        "author_photo": "/images/reviews/eco-haustechnik-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden. Sie arbeiten präzise, ​​professionell und sauber. Ibrahim ist der Beste, mit viel Geduld hat er ein Problem gelöst, das alles andere als einfach war. Grazie Ibra💪Ich kann die Eco Haustechnik AG nur weiterempfehlen!",
+        "time": 1764699283,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Arian Ibraimi",
+        "author_photo": "/images/reviews/eco-haustechnik-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann die Eco Haustechnik AG nur weiterempfehlen! Vom ersten Kontakt bis zur Ausführung war alles top organisiert. Das Team arbeitet sehr professionell, zuverlässig und sauber. Besonders beeindruckt hat mich die freundliche Beratung und das Engagement, die beste Lösung zu finden – man merkt, dass hier echte Fachleute am Werk sind. Auch der Kundendienst ist schnell und unkompliziert. Gerne wieder!",
+        "time": 1759580994,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Ricardo Miranda",
+        "author_photo": "/images/reviews/eco-haustechnik-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Der Service von Osslaty war außergewöhnlich. Sehr höflich, pünktlich und hat das Problem effizient gelöst. Aufgrund meiner Erfahrungen empfehle ich ihre Dienstleistungen weiter.",
+        "time": 1767963450,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Diego",
+        "author_photo": "/images/reviews/eco-haustechnik-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service. Der Techniker hat ein Teil im Badezimmer ausgetauscht: sauber, sehr schnell und mit einem ausgezeichneten, freundlichen Umgang. Absolut empfehlenswert.",
+        "time": 1769785558,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

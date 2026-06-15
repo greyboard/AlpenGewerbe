@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJUd8fFe6RmkcRmukR_8Ezs30",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.8,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Kay Lüthi",
+        "author_photo": "/images/reviews/oppikofer-stahl-und-metallbau-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 1,
+        "text": "missachtet gerne Rechtsvortritt, ZH Hardbrücke, 30.09.2024, 16:00",
+        "time": 1727704897,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "vanhuong congthi",
+        "author_photo": "/images/reviews/oppikofer-stahl-und-metallbau-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "kompetent, arbeitet sauber und zuverlässig.",
+        "time": 1681987112,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Melanie Münch",
+        "author_photo": "/images/reviews/oppikofer-stahl-und-metallbau-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich, kompetent & zuverlässig",
+        "time": 1618427544,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dakrido Planung GmbH",
+        "author_photo": "/images/reviews/oppikofer-stahl-und-metallbau-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Als Parter sehr angenehme zusammenarbeit.",
+        "time": 1580330720,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ayse Cardakli",
+        "author_photo": "/images/reviews/oppikofer-stahl-und-metallbau-ag-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Qualität!",
+        "time": 1618426898,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

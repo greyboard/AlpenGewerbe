@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJEZsFXbYejkcR_e2UErS21jE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Marc L.",
+        "author_photo": "/images/reviews/huebscher-partner-ag-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit und Mitarbeiter. Präzise, pünktlich und das zu fairen Preise! Macht auch an einem Freitag ein paar extra Stunden um fertig zu werden!",
+        "time": 1621719993,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Hanspeter Grob",
+        "author_photo": "/images/reviews/huebscher-partner-ag-biel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Auf eine Reklamation nach ungenügender Reparatur...keine Reaktion...Schade..\nHanspeter Grob , maitre Confiseur, Biel",
+        "time": 1697385356,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christoph Staudenmann",
+        "author_photo": "/images/reviews/huebscher-partner-ag-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hier gibt's sorgfältige, exakte Arbeit. Sehr zu empfehlen.",
+        "time": 1579887523,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Omi",
+        "author_photo": "/images/reviews/huebscher-partner-ag-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Leisten gute und saubere Arbeit, effizient und zielstrebig.👍🏻",
+        "time": 1493874193,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Janine Marolf",
+        "author_photo": "/images/reviews/huebscher-partner-ag-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich brauchte eine Schreinerei, die ein Isolierglasfenster austauschen konnte.\n\nBei dieser Firma fand ich genau die Expertise und Erfahrung, die ich brauchte. Die Arbeiten wurden vom Inhaber persönlich ausgeführt, und ich bin vom Ergebnis sehr angetan. Ich kann diese Firma uneingeschränkt empfehlen.",
+        "time": 1732968330,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJhToKp4Ybm0cR2LoT-GNxhsE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Michael Benz",
+        "author_photo": "/images/reviews/swiss-metallbau-ag-goldach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer zuverlässig und genau.\nTop!",
+        "time": 1691149099,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel Soppelsa",
+        "author_photo": "/images/reviews/swiss-metallbau-ag-goldach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Erstklassige Arbeit pünktlich montiert!!👍",
+        "time": 1529662100,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marco",
+        "author_photo": "/images/reviews/swiss-metallbau-ag-goldach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1754395681,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Rohner David",
+        "author_photo": "/images/reviews/swiss-metallbau-ag-goldach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1691148859,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Josh Wirth",
+        "author_photo": "/images/reviews/swiss-metallbau-ag-goldach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1648282142,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJw92taHzchEcRw5wthhKalAs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Armin Marti",
+        "author_photo": "/images/reviews/gujan-gartenbau-ag-flims-dorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir nehmen regelmäßig den Dienst von Gujan Gartenbau in Anspruch. Wir haben einen schönen Sitzplatz aus Naturstein bekommen und die Bepflanzung wird, periodisch geschnitten und im Sommer wenn nötig gewässert. Das ist sehr praktisch, wenn wir mal für längere Zeit nicht in der Ferienwohnung sind. Wir sind sehr zufrieden.",
+        "time": 1676488321,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Isabelle D.",
+        "author_photo": "/images/reviews/gujan-gartenbau-ag-flims-dorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eine serbische Fichte musste mittels Baumklettern mit Steigeisen stufenweiser gefällt werden. Vielen Dank für die schnelle und professionelle Arbeit. Wir können Herrn Gujan und Crew absolut weiterempfehlen!",
+        "time": 1691952343,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rathausstrasse Baar",
+        "author_photo": "/images/reviews/gujan-gartenbau-ag-flims-dorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr geehrter Herr Gujan, liebes Team\nFür Ihre professionell verrichteten Arbeiten und die angenehme Beratung möchten wir uns herzlich bedanken. Nun kann der Frühling kommen und wir sind vorbereitet. Ihr Team hat das bestens gemacht. Wir würden uns freuen, anfangs Frühling, Sie und Ihr Team für ein weiteres Projekt engagieren zu dürfen. Wir wünschen eine schöne Fasnacht. Freundliche Grüsse Ivonne Mejia",
+        "time": 1707505917,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jutta Philipp-Wagner",
+        "author_photo": "/images/reviews/gujan-gartenbau-ag-flims-dorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir nehmen regelmäßig den Dienst von Gujan Gartenbau in Anspruch. Wir haben einen schönen Sitzplatz aus Naturstein bekommen,  die Sträucher und die Hecke werden regelmäßig geschnitten und im Winter wird der Schnee geräumt. Putzprinz war auch schon da zum Fensterputzen. Alles super!",
+        "time": 1675845624,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Herr GL",
+        "author_photo": "/images/reviews/gujan-gartenbau-ag-flims-dorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Gujan arbeitet schon lange für uns. Die Gartenarbeiten fallen stehts zu vollster Zufriedenheit aus. Herr Gujan schaut stets bei der Ausführung der Arbeiten nach dem Rechten und kommt zum persönlichen Gespräch vorbei.",
+        "time": 1695580667,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJddA508s4jkcR6nq_y7kqAdU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Febatec GmbH",
+        "author_photo": "/images/reviews/krenger-glas-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Krenger Glas AG ist ein dynamischer und aufstrebender Glasverarbeiter. Seit einiger Zeit verfügt das Unternehmen über einen eigenen Ofen zur Herstellung von ESG-Glas – ideal für speziellere Anwendungen. Hohe Qualität, engagiertes Team und eine sehr angenehme Zusammenarbeit.",
+        "time": 1763023176,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Ulrich Sollberger",
+        "author_photo": "/images/reviews/krenger-glas-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die super Arbeit bei uns im Geschäft. Die brillanten, abschliessbaren Glastüren im Schaufenster gefallen und bewähren sich bestens. Krenger Glas hat den Auftrag unkompliziert, rasch und perfekt ausgeführt. Danke!",
+        "time": 1538143316,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Nathanloup",
+        "author_photo": "/images/reviews/krenger-glas-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kann ich mit bestem Gewissen weiterempfehlen! Kompetente und sympathische Beratung. Glasplatten sind immer einwandfrei und sehr schön. Immer gerne wieder.",
+        "time": 1585563198,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Andreas Schmid",
+        "author_photo": "/images/reviews/krenger-glas-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Krenger Glas AG hat meinen Auftrag speditiv, zuverlässig und mit höchster Qualität ausgeführt. Ich möchte mich bei Hansjörg und seinem Team herzlich bedanken für das rasche und unkomplizierte Erledigen des Auftrages. Hansjörg und sein Team kann ich wärmstens weiterempfehlen.",
+        "time": 1692694655,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Horst Frank",
+        "author_photo": "/images/reviews/krenger-glas-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Mein Anliegen mit matten Glastisch nach 25 Jahren ,wie reinigen. Mit Glaswolle und Glasreiniger mit Alkohol ( Frosch) hat sich 1000 Fach bewährt. Darum wenns ums Glas geht auf zu Krenger Glas. Plus freundlicher und fachlicher Service.",
+        "time": 1686676108,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

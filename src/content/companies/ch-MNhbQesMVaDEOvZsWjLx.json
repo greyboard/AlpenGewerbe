@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJNYICW3uqmkcRp5X_TjZnp5k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "banksster",
+        "author_photo": "/images/reviews/breitenstein-ag-zug/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Die Preisgestaltung bei Breitenstein AG ist phänomenal.\n\nFürs einfache Aufpolieren eines 40cm Durchmesser Marmortischchens veranschlagt man mal rasch CHF 1500.- exklusive MwSt. und das ganze noch ohne gesetzliche Gewährleistung. Man müsse hier mit 6 Mannstunden rechnen. Was der gute Mann 6 Stunden lang mit dem Minitisch macht, erschliesst sich mir leider nicht ganz; ich habe von einer Auftragserteilung absehen müssen ;-)\n\nDie zahlreichen - nicht minder professionellen - Mitbewerber sind da deutlich realistischer 150-200.- für Polieren mit Imprägnatur.",
+        "time": 1486651156,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Armin Ritter",
+        "author_photo": "/images/reviews/breitenstein-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein wirklich faires Angebot auf meine Wünsche angepasst. Qualität und Service waren immer zur vollsten Zufriedenheit.",
+        "time": 1565759336,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Harry Grossenbacher",
+        "author_photo": "/images/reviews/breitenstein-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Beratung mit sehr viel ❤️ für die Kundschaft, vielen Dank",
+        "time": 1652795857,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marco Reichmuth",
+        "author_photo": "/images/reviews/breitenstein-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Für mich der beste Steiverarbeiter.",
+        "time": 1699952888,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefan Stadelmann",
+        "author_photo": "/images/reviews/breitenstein-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schöne Arbeiten!",
+        "time": 1644866452,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

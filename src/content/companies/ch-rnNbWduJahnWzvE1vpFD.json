@@ -1,7 +1,7 @@
 {
   "id": "ch-rnNbWduJahnWzvE1vpFD",
   "slug": "falegnameria-perucchi-faldabacc-sagl-losone",
-  "name": "Falegnameria Perucchi Faldabacc Sagl",
+  "name": "Perucchi S.A.G.L.",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ13BjKz_IhUcR0hxkw6xlqxc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Info Leckmichamarsch",
+        "author_photo": "/images/reviews/falegnameria-perucchi-faldabacc-sagl-losone/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sensationelles Unternehmen, von der ersten minuten fühlte ich mich sehr wohl.\nVon der Beratung bis zu den erstellten Arbeiten, lief alles reibungslos.\nBin sehr Zufrieden... weiter so...",
+        "time": 1759312899,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Salvatore Lauria",
+        "author_photo": "/images/reviews/falegnameria-perucchi-faldabacc-sagl-losone/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1761666446,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Lee Communication & Promotion sagl",
+        "author_photo": "/images/reviews/falegnameria-perucchi-faldabacc-sagl-losone/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1743007414,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudio Brasca",
+        "author_photo": "/images/reviews/falegnameria-perucchi-faldabacc-sagl-losone/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1576009574,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

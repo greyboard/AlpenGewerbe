@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJd7YesuLPjUcRKpz0gv7DgBI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: Geschlossen",
+    "Mittwoch: 14:00–17:00 Uhr",
+    "Donnerstag: Geschlossen",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Senga CR",
+        "author_photo": "/images/reviews/createurs-verriers-ch-pomy/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Diese Person macht großartige Kreationen … hat aber keine Ahnung, wie man einen Fehler erkennt und ist keine Verkäuferin!!! Ich fühlte mich gehetzt, sie reagierte sehr kalt …",
+        "time": 1680023087,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Evelyne Haberthür",
+        "author_photo": "/images/reviews/createurs-verriers-ch-pomy/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit ihren großartigen und originellen Werken empfängt uns Valérie immer mit einem Lächeln....",
+        "time": 1693164095,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jean-Pierre Garraio",
+        "author_photo": "/images/reviews/createurs-verriers-ch-pomy/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freundlicher Empfang und sehr schöne Kreationen!",
+        "time": 1655962629,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Claudia Jacot",
+        "author_photo": "/images/reviews/createurs-verriers-ch-pomy/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein Fest für die Augen und ein Genuss fürs Herz",
+        "time": 1656494139,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Romaine Serres",
+        "author_photo": "/images/reviews/createurs-verriers-ch-pomy/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769196218,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJBbQ5cSChmkcRaXNqw6sJjcs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "C E",
+        "author_photo": "/images/reviews/gartengestaltung-primavera-gmbh-zuerich-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nachdem wir vorher mit den Leistungen eines namhaften Betriebs in Küsnacht alles andere als zufrieden waren, ist die Betreuung durch das Team von Primavera ein unglaubliches Aha-Erlebnis. Einfache & korrekte (auch günstige) Abrechnungen, schneller & freundlicher Kontakt bei Fragen oder  Terminabsprachen, sehr sauber und zügig durchgeführte Arbeiten. Es ist einfach eine Freude das Ergebnis zu sehen und mit Herrn Christen zusammenzuarbeiten.",
+        "time": 1769013823,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Urs Leimgruber",
+        "author_photo": "/images/reviews/gartengestaltung-primavera-gmbh-zuerich-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der Auftrag für die Gestaltung eines Sitzplatzes mit Gartenplatten (vorher Kiesplatz) wurde äusserst ambitioniert, sorgfältig und nach Wunsch ausgeführt. Preis / Leistung stimmt und wir sind mit dem Resultat mehr als zufrieden. Ich kann Herr Christen und Herr Zimmermann als motivierte Unternehmer sehr weiterempfehlen",
+        "time": 1653322961,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "carlos pelaez",
+        "author_photo": "/images/reviews/gartengestaltung-primavera-gmbh-zuerich-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Arbeit ist sehr Sauber, Fachlich, Gründlich.\nHat alles bestens geklappt, 100% zufrieden.\nKann Herr Christen und Herr Zimmermann von der Gartengestaltung Primavera absolut weiterempfehlen.\nBeste und freundliche Grüsse\n\nCarlos Pelaez, bis zum nächsten Auftrag.",
+        "time": 1643298744,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ramon Zaugg",
+        "author_photo": "/images/reviews/gartengestaltung-primavera-gmbh-zuerich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Profesionell von der Planung bis zur Ausführung, perfekte Arbeit. Junges und motiviertes Team, sehr zu empfehlen !!!! Einfach nur TOP 👍",
+        "time": 1642252311,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Denis Lukac",
+        "author_photo": "/images/reviews/gartengestaltung-primavera-gmbh-zuerich-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Jungs arbeiten speditiv und sauber. Alles super geklappt, gerne wieder!",
+        "time": 1683579028,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

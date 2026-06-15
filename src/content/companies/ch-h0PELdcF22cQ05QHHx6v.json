@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJVxJTu6T2mkcR4GDEcyoPU9g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Carolin Lussi",
+        "author_photo": "/images/reviews/schreinerei-gschwend-taegerwilen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Im Zimmer unserer Tochter im Dachgeschoss haben wir, von Mica und Patrik, einen grossen individuellen Einbauschrank umsetzen lassen. Die beiden haben so gas gegeben, dass es sogar zu einem Weihnachtsgeschenk werden konnte! Hätte ich nie damit gerechnet - Danke.\nPerfekt eingepasst, trotz den Winkelherausforderungen von Wand und Dach eines 70er Jahre Hauses, freuen wir uns jetzt täglich ab dem Schreinermeisterstück!\n5 Punkte! Weils einfach rundum gepasst hat, Beratung, Umsetzung, Freundlichkeit, Sauberkeit, Preis!",
+        "time": 1770885114,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Daniel Gantert",
+        "author_photo": "/images/reviews/schreinerei-gschwend-taegerwilen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "War einfach TOP, vom ersten Kontakt, über die Offerte bis zur gesamten Ausführung. Sehr freundlich, effizient, qualitätsbewusst und professionell. Kann ich nur weiterempfehlen.",
+        "time": 1758094029,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Stephan Künzer",
+        "author_photo": "/images/reviews/schreinerei-gschwend-taegerwilen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "TipTop. Danke",
+        "time": 1778058090,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Danyel Simon",
+        "author_photo": "/images/reviews/schreinerei-gschwend-taegerwilen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent , 100%weiter Empfehlung !",
+        "time": 1752086657,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Brawl TV",
+        "author_photo": "/images/reviews/schreinerei-gschwend-taegerwilen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1620928204,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

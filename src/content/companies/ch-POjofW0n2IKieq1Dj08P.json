@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3yaQpyy3mkcRvjxqFGdTYt4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:30 Uhr",
+    "Dienstag: 08:00–17:30 Uhr",
+    "Mittwoch: 08:00–17:30 Uhr",
+    "Donnerstag: 08:00–17:30 Uhr",
+    "Freitag: 08:00–17:30 Uhr",
+    "Samstag: 08:00–14:00 Uhr",
+    "Sonntag: 08:00–17:30 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "D. Peter",
+        "author_photo": "/images/reviews/palma-gartenbau-gmbh-wollerau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top top top. Die Firma Palma Gartenbau ist vom Chef bis zu den Mitarbeiter und dem Maschinenpark einfach Spitze. Von der Offerte bis zur Ausführung passt alles. Die Qualität der ausgeführten Arbeiten ist sehr hochstehend, liegt wahrscheinlich daran, dass hier Menschen mit Berufsstolz anpacken. Wir haben mit Palma Gartenbau die kompletten Umgebungsarbeiten nach einem Neubau eines 3 Familienhauses realisiert und würden uns jetzt genauso wieder dafür entscheiden. Meine beste Empfehlung für dieses Unternehmen.",
+        "time": 1771573567,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Holbi (Holbi)",
+        "author_photo": "/images/reviews/palma-gartenbau-gmbh-wollerau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Offerte bis zur Ausführungen der Arbeiten lief alles tipptopp. Die Arbeiter waren pünktlich und sehr freundlich. Trotz Mehraufwand blieb es beim offerierten Betrag. Herzlichen Dank. Das gibt es nicht mehr oft. Ich kann die Firma Palma Gartenbau AG nur empfehlen.",
+        "time": 1766408968,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Arthur Trost",
+        "author_photo": "/images/reviews/palma-gartenbau-gmbh-wollerau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1668705207,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

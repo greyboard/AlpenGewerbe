@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJa9XxgVi4kUcRzTruefmQpfM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Marco Ehmke",
+        "author_photo": "/images/reviews/urs-schaub-ag-binningen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mehrere Renovationen durch sie machen lassen. Sehr gute Arbeit, faire Preise insbesondere auch fürs Material und transparent bezügliche Aufwänden etc. Das ist ein faires Miteinander, so muss eine Beziehung Kunde und Handwerker sein. Wenn es Probleme auf dem Bau gibt, findet man Lösungen zusammen. Wir sind sehr zufrieden und werden auch zukünftige Arbeiten wieder dort in Auftrag geben.",
+        "time": 1759867090,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Esther Schroeder",
+        "author_photo": "/images/reviews/urs-schaub-ag-binningen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Obwohl wir diesen Sommer nur einen kleinen Auftrag zu vergeben hatten, wurden wir - angefangen beim anfänglichen freundlichen Telefonkontakt über die Weiterleitung zur Terminvereinbarung - sehr gut bedient.\n\nDer Mitarbeiter hat die auszuführende Arbeit ausgezeichnet und speditiv erledigt.",
+        "time": 1759994059,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Laura Gomez",
+        "author_photo": "/images/reviews/urs-schaub-ag-binningen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Diese Firma hat sehr gut Arbeit geleistet , das Ergebnis ist super toll. Ich bin mit ihrer Arbeit sehr zufrieden . Hier ein Photo vor und nach.",
+        "time": 1748948237,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Am. M",
+        "author_photo": "/images/reviews/urs-schaub-ag-binningen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Meine Erfahrungen mit der Firma Schaub Urs AG waren äußerst positiv. Der Service, die Kompetenz und die Zuverlässigkeit haben mich überzeugt. Ich kann die Schaub Urs AG mit gutem Gewissen weiterempfehlen, da sie exzellente Leistungen bietet und meine Erwartungen übertroffen hat.",
+        "time": 1707427925,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabian Suter",
+        "author_photo": "/images/reviews/urs-schaub-ag-binningen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, kompetent, schnell, freundlich, sympathisch! Wir als Immobilienverwaltung arbeiten sehr gerne mit der Firma Urs Schaub AG und können eine klare Empfehlung aussprechen.",
+        "time": 1724402682,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

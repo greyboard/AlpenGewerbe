@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJz5sNEQ7t3goR4bk-7igv-58",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Reto Hess",
+        "author_photo": "/images/reviews/doengi-bodenbelaege-ag-cham/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top seriöse Beratung! Saubere Arbeit von A-Z! Vielen Dank Herr Widmer!",
+        "time": 1773046179,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Adrian Barmet",
+        "author_photo": "/images/reviews/doengi-bodenbelaege-ag-cham/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Beratung und Top Qualität",
+        "time": 1773171317,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Beat Müller",
+        "author_photo": "/images/reviews/doengi-bodenbelaege-ag-cham/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Äusserst kompetente Beratung und eine schnelle, präzise Ausführung. Der Boden wurde mit viel Sorgfalt und Liebe zum Detail verlegt. Man merkt sofort, dass hier Profis am Werk sind,\nabsolut empfehlenswert!",
+        "time": 1773479412,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Martin Beeler",
+        "author_photo": "/images/reviews/doengi-bodenbelaege-ag-cham/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1773071387,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Beeler Claudia",
+        "author_photo": "/images/reviews/doengi-bodenbelaege-ag-cham/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1773034862,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

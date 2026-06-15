@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8eI2eYEvkEcR4ods7xBd5i4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Andi Stettler",
+        "author_photo": "/images/reviews/stocker-metall-und-glasbau-ag-zofingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service! Preis/Leistung stimmt zu 100%. Lösungsorientierte Umbauvorschläge so wie ich sie mir von einem Schweizer Handwerksbetrieb erwarte….. Gerne jederzeit wieder!!",
+        "time": 1757593418,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "P „SaPi“ K",
+        "author_photo": "/images/reviews/stocker-metall-und-glasbau-ag-zofingen/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Bin etwas hin und hergerissen. Monteure und Mängelbehebung waren sehr freundlich, zuvorkommend und rasch. Besonders auch der SeniorChef ist freundlich und verständnisvoll. Jedoch Kontakt/Kommunikation mit der Admin./Geschäftsführer mangelhaft/kundenunfreundlich. Keine Erreichbarkeit, kein Rückruf, e-Mails werden erst nach Wochen beantwortet, bei Anruf kommt meist nur der Beantworter, man habe gerade keine Zeit, jedoch folgt dann i.d.R. kein Rückruf. Dann z.T. Ausreden und sogar freche Antworten, man erhält das Gefühl, die Firma habe es nicht nötig. Das ist wirklich schade. Denn die Arbeit selber von den Monteuren ist sauber und fachmännisch. Vlt. müsste man einfach die Geschäftsleitung überdenken...",
+        "time": 1759209533,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Catherine Hofmann",
+        "author_photo": "/images/reviews/stocker-metall-und-glasbau-ag-zofingen/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Gute Montage meines Schiebeflügels durch freundliche und kompetente Monteure. Leider gilt diese Rückmeldung nicht für die administrative Seite: monatelange Wartezeit ohne jegliche Form von Kommunikation und zum Teil Ausreden  ist schlechte Kundenbetreuung. Bin nicht sicher, ob ich diese Firma weiterempfehlen möchte.",
+        "time": 1733569235,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Hauser",
+        "author_photo": "/images/reviews/stocker-metall-und-glasbau-ag-zofingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Es wurden an einem historischen Gewerbegebäude, zwei neue Eingangstüren erstellt und montiert. Wir sind absolut begeistert und das Montageteam verdient 10 Sterne. Die Eingänge waren für unsere Kunden stets begehbar, die Montagearbeiten inkl. den Silikonfugen wurden in perfekter Ausführung erstellt. Toll zu erleben, dass es trotz akutem Fachkräftemangel noch Unternehmen gibt, welche absolute Topleistungen und das zu marktgerechten Preisen erbringen. Wir können die Firma Stocker für Metallbau-Leistungen uneingeschränkt empfehlen.",
+        "time": 1732252778,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michael Bommersheim",
+        "author_photo": "/images/reviews/stocker-metall-und-glasbau-ag-zofingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Beratung und saubere Arbeit. Das neue Geländer passt perfekt – bin richtig zufrieden.",
+        "time": 1763295497,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

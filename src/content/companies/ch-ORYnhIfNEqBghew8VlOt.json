@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJk7-u_0sem0cRoK9Ybzer1KY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Sonia L.",
+        "author_photo": "/images/reviews/aussem-gartenbau-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Der Gärtner hat bei unserem Neubau den gesamten Garten angelegt – in mangelhafter Qualität. Der aufgebrachte Humus ist voller Steine und sogar Abfälle (Metallteile, Scherben etc.) und an vielen Stellen deutlich dünner als die vereinbarten 20 cm. Stattdessen liegen oft nur wenige Zentimeter über extrem lehmigem Boden, was das Pflanzen und den Rasenwachstum stark erschwert und auch zwei Jahre später bei der Gartenarbeit permanent zu Mehrarbeit und Ärgernis führt. Dies hätte man deutlich bessser machen können. Leider nicht empfehlenswert.",
+        "time": 1758199339,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Swiss Luke",
+        "author_photo": "/images/reviews/aussem-gartenbau-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schöne Gartenarbeit & gute Pools.",
+        "time": 1688556419,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Antonio Ventrici",
+        "author_photo": "/images/reviews/aussem-gartenbau-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert!",
+        "time": 1646051989,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Barbara Lax",
+        "author_photo": "/images/reviews/aussem-gartenbau-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684947409,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Isha Maker",
+        "author_photo": "/images/reviews/aussem-gartenbau-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684948053,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

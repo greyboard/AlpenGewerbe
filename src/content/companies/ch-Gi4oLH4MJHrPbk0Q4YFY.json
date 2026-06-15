@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJswgAnWOgmkcR-UrZvXp8aIM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 49,
+    "reviews": [
+      {
+        "author_name": "marie-louise affolter",
+        "author_photo": "/images/reviews/schreinerkollektiv-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Küchenmöbel für unsere eher kleine Küche ist genau so geworden, wie wir es uns gewünscht haben (Massanfertigung). Das Schreiner Kollektiv hat wunderbare Materialen sorgfältig und kompetent verarbeitet. Wir haben grosse Freude daran. Die Beratung durch das Schreiner Kollektiv war jederzeit sehr freundlich und der Prozess ging zügig voran. Wir sind vollkommen zufrieden und bedanken uns sehr!\nP.S. der Corpus ist auf Rollen und kann verschoben werden.",
+        "time": 1701982182,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tobias Nussbaum",
+        "author_photo": "/images/reviews/schreinerkollektiv-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Terminvereinbarung bis zum Abschluss der Arbeiten alles perfekt. Der Fachmann war sehr gut vorbereitet, pünktlich, verlässlich, freundlich. Mein 50er-Jahre-Sideboard ist wieder wie neu. Danke!",
+        "time": 1666251809,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "PRIME Architektur & Realisierung AG",
+        "author_photo": "/images/reviews/schreinerkollektiv-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Fa. SchreinerKollektiv GmbH war rundum zufriedenstellend. Für unser Bauprojekt, ein Mehrfamilienhaus mit 24 Wohnungen, haben sie die Schränke, Fensterfutter und diverse allgemeine Schreinerarbeiten mit höchster Präzision ausgeführt. Die Kommunikation war stets unkompliziert und der Umgang sehr professionell. Besonders hervorzuheben ist die Zuverlässigkeit sowie die hohe Qualität der ausgeführten Arbeiten.\nWir freuen uns auf eine zukünftige Zusammenarbeit und können die Fa. SchreinerKollektiv GmbH uneingeschränkt weiterempfehlen. Bis zum nächsten Mal.",
+        "time": 1741198284,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "JS Deutschland",
+        "author_photo": "/images/reviews/schreinerkollektiv-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die gemeinsame Arbeit hat sehr gut funktioniert und wir freuen uns für die SchreinerKollektiv GmbH gearbeitet zu haben. Es ist ein tolles Projekt entstanden.",
+        "time": 1752641815,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Hanni",
+        "author_photo": "/images/reviews/schreinerkollektiv-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen herzlichen Dank für die tolle Beratung und Ausführung. Die Katzenklappe mit Tunnel durch die Hauswand und Verkleidung nach individuellem Design (mit diversen Spezialwünschen) sieht absolut toll aus und ist zudem sehr praktisch, stabil und leicht zu reinigen. Ach ja, und meine beiden alten Kater haben sich nach ein paar Streik-Tagen nun auch an die neue Katzentüre gewöhnt... Beratung und Montage waren sehr freundlich (und geduldig ;o))",
+        "time": 1677097111,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

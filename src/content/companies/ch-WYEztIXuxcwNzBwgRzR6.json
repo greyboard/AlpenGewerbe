@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJM9oK_gzHhEcRd6DjC1y822I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 13:30–17:30 Uhr",
+    "Dienstag: 13:30–17:30 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 09:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Diego Casanova",
+        "author_photo": "/images/reviews/kukuma-raumflaechen-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert! Das Team war von Anfang bis Ende professionell, freundlich und zuverlässig. Die Arbeit wurde schnell, sauber und zu einem fairen Preis erledigt. Seitdem haben wir endlich Ruhe vor lästigen Insekten. Wer effektiven Insektenschutz sucht, ist hier genau richtig!",
+        "time": 1780075900,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "silvio gabathuler",
+        "author_photo": "/images/reviews/kukuma-raumflaechen-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe eine sehr gute, fachliche Beratung bekommen und die Arbeiten wurden termingerecht fertiggestellt. Bin sehr zufrieden und kann KUKUMA jedem weiterempfehlen.",
+        "time": 1705924294,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alessandro Fassbind",
+        "author_photo": "/images/reviews/kukuma-raumflaechen-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709828694,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nuno Rodrigues",
+        "author_photo": "/images/reviews/kukuma-raumflaechen-chur/reviewer_4.jpg",
+        "rating": 3,
+        "text": "",
+        "time": 1551291789,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Andy Schwarz",
+        "author_photo": "/images/reviews/kukuma-raumflaechen-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1507025936,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

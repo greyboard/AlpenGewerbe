@@ -26,5 +26,22 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJr2JPl237j0cR78irHGOLeW0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "G B",
+        "author_photo": "/images/reviews/weibel-sanitaer-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711730402,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

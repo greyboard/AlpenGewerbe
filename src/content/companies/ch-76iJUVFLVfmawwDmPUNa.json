@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJBX7cGyS7z2MROEfKVq2YiQE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Kaio Cortez",
+        "author_photo": "/images/reviews/urbanova-renovation-sarl-geneve-chatelaine/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte Urbanova meinen aufrichtigen Dank für die hervorragende Arbeit in meinem Haus aussprechen. Qualität, Professionalität und Liebe zum Detail haben meine Erwartungen weit übertroffen.\n\nEin großes Dankeschön an Osmar für seine Aufmerksamkeit, sein Engagement und seine bemerkenswerte Fachkompetenz. Er und sein Team haben eine makellose Arbeit geleistet, und ich bin äußerst zufrieden.\n\nIch kann Urbanova jedem wärmstens empfehlen, der einen zuverlässigen, effizienten und qualitativ hochwertigen Service sucht.",
+        "time": 1769543510,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Caique Hericson de Carvalho",
+        "author_photo": "/images/reviews/urbanova-renovation-sarl-geneve-chatelaine/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe mit dieser Firma sehr positive Erfahrungen gemacht. Sie sind seriös, kompetent und absolut professionell. Die Baustelle war gut organisiert und sauber, und die Arbeit war von hoher Qualität mit exzellentem Finish. Alle Fristen wurden eingehalten, und die Kommunikation war einfach und klar. Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1769704640,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Black Rose Weddings",
+        "author_photo": "/images/reviews/urbanova-renovation-sarl-geneve-chatelaine/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich möchte mich ganz herzlich bei Urbanova für die Arbeit in meinem Atelier bedanken. Sie haben das Rundgemälde gemalt und es ist einfach wunderschön. Nochmals vielen Dank!",
+        "time": 1757358377,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Pierre-Yves Vuagniaux",
+        "author_photo": "/images/reviews/urbanova-renovation-sarl-geneve-chatelaine/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit von Urbanova, sehr professionell, äußerst sauber und pünktlich geliefert. Ein großartiges Endergebnis! Und ein sehr interessantes, ja unschlagbares Preis-Leistungs-Verhältnis. Ich kann es nur empfehlen.",
+        "time": 1758545963,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Roberto Da Ros",
+        "author_photo": "/images/reviews/urbanova-renovation-sarl-geneve-chatelaine/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionelle Arbeit, unterstützt von qualifizierten Dienstleistern; ich bin mit der geleisteten Arbeit sehr zufrieden. Ich empfehle dieses Unternehmen.",
+        "time": 1772373789,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

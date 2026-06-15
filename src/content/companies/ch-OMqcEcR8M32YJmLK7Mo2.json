@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJXxoE6GGnmkcRioujOEcGx18",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Marcel Märki",
+        "author_photo": "/images/reviews/fruet-sanitaer-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Komplettsanierung Badzimmer. Von Anfang bis Ende sehr zufrieden. Sehr kundenorientiert – auf Kundenwünsche wird jederzeit eingegangen. Die Arbeiten wurden budgetkonform umgesetzt, die Mitarbeitenden waren freundlich, kompetent und pünktlich. Zudem stets lösungsorientiert bei Fragen oder Anpassungen. Vielen Dank an Stefan und sein Team – absolute Weiterempfehlung! Gerne wieder bei weiteren Projekten.\nLG Marcel & Monika",
+        "time": 1767443043,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Markus B",
+        "author_photo": "/images/reviews/fruet-sanitaer-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Fruet Sanitär AG hat bei uns die ganzen Sanitärarbeiten bei der Hausrenovation ausgeführt sowie in einem Nebengebäude einige Leitungen und Anschlüsse ersetzt. Es wurde alles so gemacht wie vorgängig besprochen, die Mitarbeitenden waren sehr freundlich und hilfsbereit und bei Unklarheiten wurden wir informiert anstatt einfach irgendwie etwas gemacht. Kleinere Beastandungen wurden zeitnah behoben und die Rechnungen waren jeweils auch keine böse Überraschung. Wir können Fruet Sanitär AG mit gutem Gewissen weiterempfehlen.",
+        "time": 1621259452,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Adrian Wipf",
+        "author_photo": "/images/reviews/fruet-sanitaer-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fruet Sanitär ist seit gut 3 Jahren unser \"Haussanitär\", welcher für unsere 2 recht heterogenen Mehrfamilienhäuser im Raum Zürich von Neuinstallationen bis kleineren Reparaturen alles erledigte. Wir waren immer sehr zufrieden. Gute Mitarbeiter, welche pünktlich sind, kundenorientiert mitdenken und gerade bei Reparaturen pragmatisch vorgehen. Die Rechnungen haben uns bis heute nicht umgebracht. :-) Empfehlenswert.",
+        "time": 1483621018,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "M. Sinani",
+        "author_photo": "/images/reviews/fruet-sanitaer-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Diese Rezension kommt etwas verspätet, dafür aus reiner Überzeugung. Mir wurde sofort und professionell geholfen. Ein grosses Dankeschön an Herr Müller",
+        "time": 1720122737,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eliane Richard",
+        "author_photo": "/images/reviews/fruet-sanitaer-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Sanitär. Kommt sofort und ist zuverlässig! Danke🙏🙏🙏",
+        "time": 1707136747,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

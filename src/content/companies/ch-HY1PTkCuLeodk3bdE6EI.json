@@ -26,5 +26,30 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7bFKtTn2j0cRiXBOorXvudE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Valentino",
+        "author_photo": "/images/reviews/stiller-hahn-haustechnik-gmbh-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer wieder gerne, hat alles bestens geklappt.",
+        "time": 1560373052,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Andreas Vescoli",
+        "author_photo": "/images/reviews/stiller-hahn-haustechnik-gmbh-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1560178918,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

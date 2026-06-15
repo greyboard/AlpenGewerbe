@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-4ahcURLkEcRp77_njBBLSM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Bernardi Patric Johann",
+        "author_photo": "/images/reviews/r-haesler-ag-moehlin/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service, einwandfrei und ein grosses Lob an den Servicetechniker. Vielen Dank",
+        "time": 1764077333,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "corina henke",
+        "author_photo": "/images/reviews/r-haesler-ag-moehlin/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Heute hatten wir den Service Monteur Herr Seidt für eine Reparatur an unserer Heizung im Haus.\nEinmal mehr hervorragend Arbeit , Problem sofort erkannt. Fachlich  sehr kompetent.\nHerr Seidt können wir nur empfehlen.",
+        "time": 1702315062,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patricia Goby",
+        "author_photo": "/images/reviews/r-haesler-ag-moehlin/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wow! Nachdem die Heizungsanlage für 3 Häuser seit mehreren Jahren nicht mehr einwandfrei lief, kümmert sich heute Herr Yilmaz mit viel Engagement und Kompetenz um die Anlage. So darf der Winter kommen.",
+        "time": 1727694892,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexander S. Nydegger",
+        "author_photo": "/images/reviews/r-haesler-ag-moehlin/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super kundenorientierte Firma. Hat es möglich gemacht, am nächsten Tag morgens sofort vorbeizukommen und sich dem Problem anzunehmen. Vielen Dank für die prompte Auswechselung der defekten Heizungspumpe. Ich geniesse die Ruhe in meinem ‚neuen’ rauschfreien Zimmer. :)",
+        "time": 1619420722,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "F B",
+        "author_photo": "/images/reviews/r-haesler-ag-moehlin/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ganz grosses Lob für die einwandfreie Ausführung und ausgezeichnete Beratung!",
+        "time": 1728984606,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

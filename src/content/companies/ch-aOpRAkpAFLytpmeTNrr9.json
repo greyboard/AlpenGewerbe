@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8-GzaLmcOSIRCq9SwgsFuTA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Medina Jakupovic",
+        "author_photo": "/images/reviews/athena-peinture-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Arbeit von Athena Peinture 👌🏻👌🏻 Sauber, sorgfältig und ordentlich ausgeführt 🍀 Ich kann sie wärmstens empfehlen 🌿",
+        "time": 1772095517,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Zakaria Aazouzi",
+        "author_photo": "/images/reviews/athena-peinture-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe diese Malerfirma bereits zweimal beauftragt, meine Wohnung beim Umzug neu zu streichen, und jedes Mal war alles perfekt. Die Arbeit war akribisch, die Oberflächen makellos und die Baustelle sauber hinterlassen. Sie waren professionell, zuverlässig und kommunizierten hervorragend. Ich kann sie uneingeschränkt empfehlen!",
+        "time": 1772985354,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Amethys Guia",
+        "author_photo": "/images/reviews/athena-peinture-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und sorgfältige Arbeit.\nDie Details sind makellos, und die Baustelle wurde blitzsauber hinterlassen. Athena Peinture ist ein seriöser und professioneller Handwerker – ich empfehle ihn uneingeschränkt!",
+        "time": 1775386705,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Paul S",
+        "author_photo": "/images/reviews/athena-peinture-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Qualitativ hochwertige Arbeit, professionell und aufmerksam. Ich kann sie wärmstens empfehlen!",
+        "time": 1777646214,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Ness Spg",
+        "author_photo": "/images/reviews/athena-peinture-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine kompetente Person, ich kann sie wärmstens empfehlen.",
+        "time": 1772804939,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

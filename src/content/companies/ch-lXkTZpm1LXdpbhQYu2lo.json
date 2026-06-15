@@ -26,5 +26,46 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvS9veWhDhUcRU9RWgcc1O_A",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Nadine Weber",
+        "author_photo": "/images/reviews/kennel-bodendesign-gmbh-seedorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Beratung. Sehr gute Leistung, führen Arbeit schnell zuverlässig, sauber durch.",
+        "time": 1573938221,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tobias",
+        "author_photo": "/images/reviews/kennel-bodendesign-gmbh-seedorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service & Qualität.",
+        "time": 1510056222,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "T",
+        "author_photo": "/images/reviews/kennel-bodendesign-gmbh-seedorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelle gute Arbeit",
+        "time": 1660742156,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ivo",
+        "author_photo": "/images/reviews/kennel-bodendesign-gmbh-seedorf/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1709287910,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

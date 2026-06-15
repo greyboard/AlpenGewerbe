@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJuWUrdGkLkEcRrq9AfHVMCYg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 159,
+    "reviews": [
+      {
+        "author_name": "Youssef Khelifi",
+        "author_photo": "/images/reviews/knabenhans-sanitaer-heizung-zuerich-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "\"Ich bin sehr zufrieden mit der Arbeit der Knabenhans Gebrüder AG. Der Wasseranschluss für meine Waschmaschine wurde professionell, sauber und zuverlässig installiert. Herr Daniel Alfare hat hervorragende Arbeit geleistet, war pünktlich, freundlich und sehr kompetent. Die Ausführung war sauber und alles funktioniert einwandfrei. Ich kann die Firma Knabenhans Gebrüder AG und insbesondere Herrn Daniel Alfare uneingeschränkt weiterempfehlen. Vielen Dank für den ausgezeichneten Service!\"",
+        "time": 1780577888,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Google User",
+        "author_photo": "/images/reviews/knabenhans-sanitaer-heizung-zuerich-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein grosses Dankeschön für die exzellente Ausführung - von A-Z. Die Auftragserteilung war sehr unkompliziert und freundlich. Die ganze Arbeit inkl. Montage der neuen Waschmaschine vor Ort von Herr Alfare war einfach top! Eine super saubere und präzise Arbeit, zudem auch super sympathisch und hilfsbereit- danke vielmals! Bis zum nächsten Mal👍🏻",
+        "time": 1771586548,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Ritva Laiho",
+        "author_photo": "/images/reviews/knabenhans-sanitaer-heizung-zuerich-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fünf Sterne ! Bei mir wurden alle Abflusse gereinigt und Wasserhähne  professionell entkalkt.Hr.Alfare war pünktlich, hat extrem effektiv gearbeitet und alles sauber hintergelassen. Neben seiner  professionellen  Arbeit  har er eine sehr freundliche  und angenehme  Art. Ich bin rundum  zufrieden  und werde den Service  definitiv wieder nutzen!",
+        "time": 1780565216,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Benjamin Botteselle",
+        "author_photo": "/images/reviews/knabenhans-sanitaer-heizung-zuerich-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Daniel Alfare hat eine super Arbeit geleistet! Er hat unser Dusch-Wc Problemlos und sauber eingebaut! Kann ihn nur empfehlen. Vielen Dank für die Tolle Arbeit",
+        "time": 1772008317,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Lukas Muller",
+        "author_photo": "/images/reviews/knabenhans-sanitaer-heizung-zuerich-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben Knabenhans für die Installation einer neuen Dusche beauftragt, und das Ergebnis ist spitze! Die Sanitärleute waren super professionell, haben schnell gearbeitet und alles ordentlich hinterlassen. Die Beratung war ehrlich und präzise. Beste Adresse für Sanitär und Heizung in Zürich!",
+        "time": 1756732588,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

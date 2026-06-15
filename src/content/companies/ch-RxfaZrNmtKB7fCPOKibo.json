@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5xOiHeA4jkcRXB5AxBDvFBo",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "ursula stoeckli",
+        "author_photo": "/images/reviews/steiner-blech-metallbau-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Steiner Blech & Metallbau hat unseren Spezialwunsch (Nachbau Halter für Weihnachtsbeleuchtung) sehr kompetent, speditiv und zur vollsten Zufriedenheit ausgeführt! Wir empfehlen sie unbedingt, so macht es Freude.",
+        "time": 1764950096,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Läderach Fugen",
+        "author_photo": "/images/reviews/steiner-blech-metallbau-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Team! Gute Zusammenarbeit, Qualität und saubere Arbeit! Fachleute, wie man es sich wünscht! Wir empfehlen Steiner`s gerne weiter!!",
+        "time": 1770726746,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Markus König",
+        "author_photo": "/images/reviews/steiner-blech-metallbau-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "metallkönig.ch\nStets gute Arbeiten, zuverlässig und pünktlich ausgeführt.\nSehr gutes Team rund um Bärnu   :-)",
+        "time": 1560327226,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Matthias Maurer",
+        "author_photo": "/images/reviews/steiner-blech-metallbau-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bestellte Blumentröge gemäss meiner Vorstellung hergestellt! Fachkompetente Beratung betreffend Materialwahl sowie Oberflächen Behandlung! Preis war in Ordnung, mit dem Wissen, dass es sich eine hier um Einzelanfertigungen handelt! Sehr angenehmer Umgang.",
+        "time": 1704539047,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Eric Egger",
+        "author_photo": "/images/reviews/steiner-blech-metallbau-ag-bern/reviewer_5.jpg",
+        "rating": 2,
+        "text": "Arbeiten korrekt. 2 Mann haben je 6 1/2 Std (bzw. verrechnet) für die (nur) Montage von 3 franz. Geländer.  Unternehmer verweist auf Inkassoprozess und findet den Aufwand ausgewiesen.",
+        "time": 1692078752,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

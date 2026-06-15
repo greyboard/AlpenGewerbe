@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJR07BVV9LkEcRbCiJRJrR0bs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "F A",
+        "author_photo": "/images/reviews/howald-glaserei-ag-muttenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich, angenehm, erreichbar. Hat Ideen eingebracht uns beraten und auf dem Laufenden gehalten. Wir sind sehr zufrieden. Gerne wieder.",
+        "time": 1779462493,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Ralph von der Mühll",
+        "author_photo": "/images/reviews/howald-glaserei-ag-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service und sehr verständnissvoller Chef der Herr Howald. Und Preise sind nicht Schweiztypisch überhöht.",
+        "time": 1650206501,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Clive Thomas",
+        "author_photo": "/images/reviews/howald-glaserei-ag-muttenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gut und empfehlenswert.",
+        "time": 1690665446,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Walter Laller",
+        "author_photo": "/images/reviews/howald-glaserei-ag-muttenz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Erstklassiger Service",
+        "time": 1601966038,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Noëmi Sesay",
+        "author_photo": "/images/reviews/howald-glaserei-ag-muttenz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1599598402,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

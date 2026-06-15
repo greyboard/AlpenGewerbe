@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_dGpYj8MkEcROsflSRD3xsQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Riccardo Passaseo",
+        "author_photo": "/images/reviews/schneider-metallbau-ag-urdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top-Job",
+        "time": 1689838473,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michelle Lodi",
+        "author_photo": "/images/reviews/schneider-metallbau-ag-urdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729175263,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Alexandra Achermann",
+        "author_photo": "/images/reviews/schneider-metallbau-ag-urdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1714324205,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sreileak Vong",
+        "author_photo": "/images/reviews/schneider-metallbau-ag-urdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684667692,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Az Ch",
+        "author_photo": "/images/reviews/schneider-metallbau-ag-urdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637226340,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

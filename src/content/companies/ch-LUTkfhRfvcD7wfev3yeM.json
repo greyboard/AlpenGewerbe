@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJM5sXjBTBhEcR0D1eQQFMNDI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Marina Sartori",
+        "author_photo": "/images/reviews/alles-mit-holz-zimmerei-feldis-veulden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Er macht super schöne Arbeiten. Auf jedenfalls empfehlenswert 👍🏼",
+        "time": 1731685086,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mik Cuzuns",
+        "author_photo": "/images/reviews/alles-mit-holz-zimmerei-feldis-veulden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Benjamin hat einem engen Zeitrahmen eine sehr gute Qualität abgeliefert. Die Bauherrschaft ist sehr zufrieden mit der Eschen-Treppe und dem Parkettboden. Gerne Arbeiten wir als Architekturbüro Studio Ecotecture Trin wieder mit ihm zusammen.",
+        "time": 1709640635,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "David Schär",
+        "author_photo": "/images/reviews/alles-mit-holz-zimmerei-feldis-veulden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Auftrag in top Qualität und zeitgerecht erledigt. Wir freuen uns über den tollen Innenausbau unseres Ferienhäuschens. Dankeschön!",
+        "time": 1683352528,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Renata Kunfermann",
+        "author_photo": "/images/reviews/alles-mit-holz-zimmerei-feldis-veulden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, genau, pünktlich ,flexibel ,gute Arbeit.\nGerne immer mal wieder",
+        "time": 1731534305,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Leo",
+        "author_photo": "/images/reviews/alles-mit-holz-zimmerei-feldis-veulden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698913375,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

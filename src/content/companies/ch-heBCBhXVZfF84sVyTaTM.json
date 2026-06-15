@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJU2LzSREam0cRWgmFH1Tiy1Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Jacqueline Egger",
+        "author_photo": "/images/reviews/urs-graf-bedachungen-ag-heiden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige und genaue Arbeiten. Bei mir Fassade neu nach meinen Wünschen sowie auch Gerüstbau. Gewissenhaft und ordentlich. Ich kann Beny Graf und sein Team sehr empfehlen.",
+        "time": 1749882193,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Melody Sofreé",
+        "author_photo": "/images/reviews/urs-graf-bedachungen-ag-heiden/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Lari-fari Betrieb... Bekannt für eine unsaubere arbeitsweise. Die Offerten werden nicht eingehalten und Baustellen chaotisch zurügelassen. Kurz gesagt besser suchen sie sich ein vertrauenswürdiges Unternehmen welches seine Kundschaft zu schätzen weiss und Abmachungen (Offerten) eingehalten werden. ! Aber sehr nette und tolle Mitarbeiter!",
+        "time": 1704908108,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "WirzCH",
+        "author_photo": "/images/reviews/urs-graf-bedachungen-ag-heiden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nettes und zuvorkommendes Personal.\nSuper Gerüstbauer!",
+        "time": 1556044549,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Alex Burgstaller",
+        "author_photo": "/images/reviews/urs-graf-bedachungen-ag-heiden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetent und Top ausgestattet.",
+        "time": 1576066243,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jarek Zienko",
+        "author_photo": "/images/reviews/urs-graf-bedachungen-ag-heiden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739985399,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJe7k0BQHYkUcRbwKh9hx3pGU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 06:45–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 06:45–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 06:45–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 06:45–12:00 Uhr, 13:00–15:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 53,
+    "reviews": [
+      {
+        "author_name": "Yakima Oberli",
+        "author_photo": "/images/reviews/baubedarf-richner-handwerkerzentrum-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herrlicher Laden, gute unf Freundliche Bedienung.",
+        "time": 1765298382,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Bruno Nyffeler",
+        "author_photo": "/images/reviews/baubedarf-richner-handwerkerzentrum-solothurn/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Heute um 16:57 aufgesucht, da ich noch dringend ein kleines Zwischenstück gebraucht hätte. Der Mitarbeiter meinte lapidar: \"Haben wir heute nicht mehr. Kommt morgen wieder rein.\"\nIch habe nicht nachgefragt, ob das Teil morgens um 8:00 denn schon da wäre ...\n\nLiebe Firma Richner: erstens solltet ihr eure Kunden nicht für so blöd verkaufen und zweitens geht Dienst am Kunden definitiv anders.\n\nSchade. Werde ich in Zukunft meiden!\n\nNachtrag: Wider besseren Wissens bin ich heute grad nochmal dahin, weil ich eh grad in der Gegend war. Stellt sich heraus, dass der Mitarbeiter gar nicht recht hingeschaut hat. Das gesuchte Teil gibt's bei Richner gar nicht!\n\nKein weiterer Kommentar notwendig, oder?",
+        "time": 1663058494,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Saeschu97",
+        "author_photo": "/images/reviews/baubedarf-richner-handwerkerzentrum-solothurn/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Ihre Fahrer wissen nicht wann Sie Vorfahrt haben und wann nicht. Die Fahrer haben das gefühl Sie hätten immer Vorttritt heute gerade ein erlebnis in Biberist. Schlimmere Fahrers als die gibt es nicht mehr.",
+        "time": 1679409248,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "pashk",
+        "author_photo": "/images/reviews/baubedarf-richner-handwerkerzentrum-solothurn/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Hat viel Auswahl",
+        "time": 1756112080,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Reinhard Dietrich",
+        "author_photo": "/images/reviews/baubedarf-richner-handwerkerzentrum-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hilfreich und gute Beratung. Da ich nicht vom Fach bin.  War ich sehr glücklich über die Beratung. 👍️",
+        "time": 1696306062,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

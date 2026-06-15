@@ -25,5 +25,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJVVVVVTY6m0cRgiVU3959JE8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:15 Uhr",
+    "Dienstag: 07:30–17:15 Uhr",
+    "Mittwoch: 07:30–17:15 Uhr",
+    "Donnerstag: 07:30–17:15 Uhr",
+    "Freitag: 07:30–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Hannes Lux",
+        "author_photo": "/images/reviews/dietmar-buechel-haustechnik-est-bendern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent. Gute Zusammenarbeit! So macht Gebäudetechnik Spass!",
+        "time": 1513332686,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Jeannine Nägele",
+        "author_photo": "/images/reviews/dietmar-buechel-haustechnik-est-bendern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und freundliche Beratung. Gerne wieder.",
+        "time": 1504706494,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Nazmi Bekteshi",
+        "author_photo": "/images/reviews/dietmar-buechel-haustechnik-est-bendern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1734472820,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tobias Meier",
+        "author_photo": "/images/reviews/dietmar-buechel-haustechnik-est-bendern/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1634109612,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Florim Cekaj",
+        "author_photo": "/images/reviews/dietmar-buechel-haustechnik-est-bendern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1543623145,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

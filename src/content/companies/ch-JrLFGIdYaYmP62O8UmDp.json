@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5dJnZnPLmkcRsgp7Ft41G5o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Alban Daci",
+        "author_photo": "/images/reviews/hajdari-plattenbelaege-gmbh-buttikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir können die Firma Hajdari Plattenbeläge vom ersten Telefongespräch an bis zum schluss sehr empfehlen . Pünktlich , Qualität , Professionel",
+        "time": 1734782824,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mehmet Kurtishaj",
+        "author_photo": "/images/reviews/hajdari-plattenbelaege-gmbh-buttikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hajdari Plattenbeläge hat für uns mehrere Objekte mit Plattenarbeiten ausgeführt. Die Beratung war sehr professionell und wir wurden bei unseren Wünschen und Entscheidungen immer sehr gut unterstützt.\n\nDas Team arbeitet zuverlässig, sauber und sehr flexibel. Besonders bei unseren Stockwerkeigentumswohnungen hat alles perfekt funktioniert.\n\nWir sind sehr zufrieden und können Hajdari Plattenbeläge nur weiterempfehlen. Vielen Dank an das ganze Team für die tolle Arbeit!",
+        "time": 1773489802,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sahadete Zenelaj",
+        "author_photo": "/images/reviews/hajdari-plattenbelaege-gmbh-buttikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Service und Qualität!\nIch war sehr zufrieden mit der Arbeit der Hajdari Plattenbeläge GmbH.\nSaubere Ausführung, pünktlich und zuverlässig. Sehr empfehlenswert!",
+        "time": 1734800086,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "albiton vrella",
+        "author_photo": "/images/reviews/hajdari-plattenbelaege-gmbh-buttikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sie haben gute Arbeit geleistet👍🏻",
+        "time": 1734711172,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nicola Harsch",
+        "author_photo": "/images/reviews/hajdari-plattenbelaege-gmbh-buttikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten werden zu unserer vollen Zufriedenheit erledigt. Wir empfehlen den Plattenleger gerne weiter!",
+        "time": 1773499901,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

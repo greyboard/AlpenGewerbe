@@ -26,5 +26,47 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4-1NDhx9g0cRUdEN2ACDdXA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "REISENDER MIT LICHT UND",
+        "author_photo": "/images/reviews/mercuri-gipser-maler-ag-samedan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Meine Sterne schenke ich der Firma aus dem Grund, da der Chef ohne zu zögern statt in die verdiente Mittagspause zu gehen uns UNTERSTÜTZT hat und kurz Unkonventionell den Berg ⛰️ hochgefahren ist und uns 170kg hochtragen erspart hat da die Strasse so fest schneebedeckt war das es unmöglich ohne Schneeketten montieren gewesen wäre.\nAlso 1 Stunde geschenkt, LICHTVOLLE ZEIT und nochmal Herzlichen Dank.\nLink; REISENDE MIT LICHT ENERGIE UND EMOTION 🫶🏻 YOUTUBE ❤️⛰️☀️",
+        "time": 1739099396,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pintores Mazzupappa",
+        "author_photo": "/images/reviews/mercuri-gipser-maler-ag-samedan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1725761781,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Enrico Togni",
+        "author_photo": "/images/reviews/mercuri-gipser-maler-ag-samedan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1589676337,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

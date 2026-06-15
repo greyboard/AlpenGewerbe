@@ -26,5 +26,30 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_bpCoOf7jkcROPIsEI9C6P0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Vasile Florian Mihes",
+        "author_photo": "/images/reviews/maurer-raz-ag-matten-st-stephan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma,und witzige Personal!",
+        "time": 1766474335,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Rui Miguel De Paiva Ferreira",
+        "author_photo": "/images/reviews/maurer-raz-ag-matten-st-stephan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gut",
+        "time": 1535091128,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

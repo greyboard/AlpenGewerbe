@@ -26,5 +26,30 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJbbHZJKV3kEcReNZToLUA3Fs",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Daniele Cataldo",
+        "author_photo": "/images/reviews/wb-haustechnik-kaminfegergeschaeft-gmbh-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und saubere Arbeit.\nEin Dankeschön von der Randenstrasse ☀️",
+        "time": 1772282649,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marco Riguzzi",
+        "author_photo": "/images/reviews/wb-haustechnik-kaminfegergeschaeft-gmbh-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, professionell, transparente Preise.",
+        "time": 1591644639,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

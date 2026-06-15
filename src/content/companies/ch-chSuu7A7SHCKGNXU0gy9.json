@@ -26,5 +26,30 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJuzcPiuPzj0cRilWi1VxW7W4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Peter von Rotz",
+        "author_photo": "/images/reviews/huser-stahlbau-ag-kerns/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Stahlbau er 👍",
+        "time": 1675094616,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fredi Lussi",
+        "author_photo": "/images/reviews/huser-stahlbau-ag-kerns/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1524567615,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

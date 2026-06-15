@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJe-p8_RxdjEcRiCt8AnpAnLI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Arsim Ajeti",
+        "author_photo": "/images/reviews/b-b-paysagisme-nyon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein äußerst professioneller Gärtner, der bei jedem Auftrag akribisch und mit viel Liebe zum Detail arbeitet. Das Ergebnis ist stets makellos, und die Zusammenarbeit mit ihm ist sehr angenehm. Ein wahrer Enthusiast, dem Sie Ihren Garten bedenkenlos anvertrauen können. Ich empfehle ihn uneingeschränkt.",
+        "time": 1769629747,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Dan Mhz",
+        "author_photo": "/images/reviews/b-b-paysagisme-nyon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert. Ein sehr professionelles, pünktliches und erfahrenes Unternehmen. Hervorragend! 👏",
+        "time": 1769627566,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Romha tedros",
+        "author_photo": "/images/reviews/b-b-paysagisme-nyon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1771766979,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Modoran Oana",
+        "author_photo": "/images/reviews/b-b-paysagisme-nyon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769897009,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Erblina Hajrullahi",
+        "author_photo": "/images/reviews/b-b-paysagisme-nyon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769634410,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

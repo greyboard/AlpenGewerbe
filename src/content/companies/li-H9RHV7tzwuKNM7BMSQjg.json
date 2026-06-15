@@ -25,5 +25,39 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZYcK57Ixm0cRsXlhzWaIAw0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Lukas Vollmar",
+        "author_photo": "/images/reviews/etavis-elcom-ag-vaduz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664566405,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Bruno cruz",
+        "author_photo": "/images/reviews/etavis-elcom-ag-vaduz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664463118,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

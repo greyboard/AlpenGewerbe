@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJSYnCld5-kEcR-NzYXUwWATA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Tani",
+        "author_photo": "/images/reviews/uehlinger-holzbau-klg-siblingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr hilfsbereit und sehr gute Arbeit. Beide Brüder Uehlinger haben es gut verstanden unser Projekt so zu realisieren, dass es für uns super passte!",
+        "time": 1563835563,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Samuel Furrer",
+        "author_photo": "/images/reviews/uehlinger-holzbau-klg-siblingen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Benötigte sehr lange für eine offerte (19 stunden) änderte von sich aus den bauplan, hat mehr als doppelte so viel für die offerte verlangt als mündlich besprochen.\nNicht weiter zubempfehlen",
+        "time": 1741612766,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "kim",
+        "author_photo": "/images/reviews/uehlinger-holzbau-klg-siblingen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Benötigte für die Arbeit sehr lange.\nDie Rechnung war teuer wie vereinbart.",
+        "time": 1742560733,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hana Uehlinger",
+        "author_photo": "/images/reviews/uehlinger-holzbau-klg-siblingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service",
+        "time": 1561715058,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Julia Uehlinger",
+        "author_photo": "/images/reviews/uehlinger-holzbau-klg-siblingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576094114,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

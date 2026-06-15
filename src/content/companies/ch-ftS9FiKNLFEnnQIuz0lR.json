@@ -1,7 +1,7 @@
 {
   "id": "ch-ftS9FiKNLFEnnQIuz0lR",
   "slug": "citraro-vetreria-vetreria-locarno-bellinzona-lugano-gordola",
-  "name": "Citraro Vetreria - Vetreria Locarno - Bellinzona - Lugano",
+  "name": "Citraro Vetreria",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJRZ5m1_q1hUcRDikIfCx4bIQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Annina Krauer",
+        "author_photo": "/images/reviews/citraro-vetreria-vetreria-locarno-bellinzona-lugano-gordola/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service: schnell, freundlich und professionell!",
+        "time": 1744917223,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "LauJem JemLau",
+        "author_photo": "/images/reviews/citraro-vetreria-vetreria-locarno-bellinzona-lugano-gordola/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem Einbau der Katzentoilette rundum zufrieden. Die Arbeit wurde mit großer Präzision und Professionalität ausgeführt: Die Installation ist stabil und fügt sich perfekt in die Tür ein.\nIch kann diesen Service jedem wärmstens empfehlen, der eine Katzentoilette installieren lassen möchte: Zuverlässigkeit, Fachkompetenz und ein hervorragendes Ergebnis. Vielen Dank!",
+        "time": 1773419151,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Ivana Zivkovic",
+        "author_photo": "/images/reviews/citraro-vetreria-vetreria-locarno-bellinzona-lugano-gordola/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionalität, Freundlichkeit und Hilfsbereitschaft sind einmalig. Die zerbrochene Glasscheibe auf der Veranda wurde mit großer Präzision ersetzt.\nWir waren sehr zufrieden!",
+        "time": 1761586060,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Paola Tavella",
+        "author_photo": "/images/reviews/citraro-vetreria-vetreria-locarno-bellinzona-lugano-gordola/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Arbeit sehr zufrieden! Er hat ein Katzenaugenfenster in mein Fenster eingebaut, und es sieht fantastisch aus. Er war präzise, ​​schnell und äußerst professionell. Das Glas wurde perfekt zugeschnitten, und die Installation war sauber und sorgfältig ausgeführt. Sehr freundlich und hilfsbereit – ich kann ihn jedem empfehlen, der einen kompetenten und zuverlässigen Glaser sucht!",
+        "time": 1747474075,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Monica Rivas",
+        "author_photo": "/images/reviews/citraro-vetreria-vetreria-locarno-bellinzona-lugano-gordola/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sie haben sich die Zeit genommen, mir die Hintergründe und den Sinn ihrer Arbeit zu erklären. Das ist mir sehr wichtig! Die Arbeit war (meines Wissens nach) einwandfrei und sie waren schneller als erwartet.",
+        "time": 1758528645,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

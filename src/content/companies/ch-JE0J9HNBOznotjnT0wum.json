@@ -1,7 +1,7 @@
 {
   "id": "ch-JE0J9HNBOznotjnT0wum",
   "slug": "marioni-sa-romanel-sur-lausanne",
-  "name": "Marioni Sa",
+  "name": "Marioni SA",
   "branchen": [
     "glaser"
   ],
@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJHfErwBwyjEcRp0zBfJvpeDM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–11:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–11:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–11:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–11:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Ricardo Ferreira",
+        "author_photo": "/images/reviews/marioni-sa-romanel-sur-lausanne/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Erfahrung! Herzlicher Empfang, schneller Service (48 Stunden von der ersten Kontaktaufnahme bis zur Montage der großen Spiegel an der Turnhallenwand), sehr professionell. Die Qualität war von Anfang bis Ende exzellent, und die drei Monteure vor Ort waren sehr höflich und hochkompetent. Ich kann sie uneingeschränkt empfehlen und werde sie gerne wieder beauftragen!",
+        "time": 1772530143,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Arnaud Glisoni",
+        "author_photo": "/images/reviews/marioni-sa-romanel-sur-lausanne/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der während meiner Beratung geleisteten Arbeit sehr zufrieden. Schnell und effizient.",
+        "time": 1661268326,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "David",
+        "author_photo": "/images/reviews/marioni-sa-romanel-sur-lausanne/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein sehr gutes Unternehmen. Immer sehr schnell in der Bearbeitung der Akten, immer tadellose Ergebnisse, freundliches und zuvorkommendes Personal.",
+        "time": 1653309556,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Romain Losey",
+        "author_photo": "/images/reviews/marioni-sa-romanel-sur-lausanne/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professioneller und flexibler Service. Wir haben ihnen unser Schaufenster anvertraut und können ihre Dienste wärmstens empfehlen! La Bouche qui Rit SA",
+        "time": 1600800248,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Robert Mader",
+        "author_photo": "/images/reviews/marioni-sa-romanel-sur-lausanne/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher und schneller Service",
+        "time": 1501273476,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

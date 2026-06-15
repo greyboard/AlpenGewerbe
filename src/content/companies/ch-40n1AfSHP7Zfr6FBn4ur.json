@@ -26,5 +26,31 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJc1VVVVGTmkcRUNwFw31BTW4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 1,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Susanna Gräub",
+        "author_photo": "/images/reviews/rs-glaskratz-gmbh-waengi/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Gefährlicher, provokanter Autofahrer....bremst mich immer wieder aus und spritzt Glasreiniger nach hinten auf meinen Sportwagen...was soll das..  trauriger Neider mit angeschriebenem Auto...als ich rechts ran gefahren bin und  er/sie ein anderes Auto hinter sich hatte, konnte er plötzlich normal fahren...wie solche Personen wohl Arbeiten ist mir ein Rätsel....",
+        "time": 1778744044,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

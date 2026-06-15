@@ -1,7 +1,7 @@
 {
   "id": "ch-yd7O3wwemJTkk5vQE0pq",
   "slug": "serrurerie-des-draizes-sa-neuchatel",
-  "name": "Serrurerie des Draizes SA",
+  "name": "Serrurerie des Draizes",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJNf5VXejhjUcR0t1dDpbhG80",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Nicolas Leuenberger",
+        "author_photo": "/images/reviews/serrurerie-des-draizes-sa-neuchatel/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Ich habe die Firma per E-Mail kontaktiert, um mich nach einem Auftrag zu erkundigen. Trotz eines anschließenden Anrufs habe ich keine Antwort erhalten. Offenbar betrachten sie Privatpersonen nicht als ausreichend wertvolle Kunden.",
+        "time": 1552997502,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Christophe Sandoz",
+        "author_photo": "/images/reviews/serrurerie-des-draizes-sa-neuchatel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein seriöser und effizienter Chef.\nEbenso wie seine Mitarbeiter.\nImmer erreichbar.\nIch empfehle ihn.",
+        "time": 1717659561,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Denys Schallenberger",
+        "author_photo": "/images/reviews/serrurerie-des-draizes-sa-neuchatel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "…der beste Schlüsseldienst westlich des Urals!\n\nEin kompetenter und hilfsbereiter Inhaber! Ich kann ihn wärmstens empfehlen.",
+        "time": 1681899527,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Axel Bietti",
+        "author_photo": "/images/reviews/serrurerie-des-draizes-sa-neuchatel/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1624086785,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "silvia oliveira",
+        "author_photo": "/images/reviews/serrurerie-des-draizes-sa-neuchatel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1591644622,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJs6rnkdZskEcRbRM_wFhFu7c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 57,
+    "reviews": [
+      {
+        "author_name": "Benoit Panizzon",
+        "author_photo": "/images/reviews/danis-gaertner-gartenbau-pflege-in-aargau-und-zuerich-wettingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Danis Gärtner beauftragt einen Baum zwischen zwei Liegenschaften zu fällen, der mit seinen Ästen bei Sturm gegen die Fassaden schlug und daher bei eingeschränktem Raum 'demontiert' werden musste. Der Auftrag wurde gestern in weniger als der offerierten Zeit von zwei freundlichen Mitarbeiter professionell ausgeführt. Rechnung wurde entsprechend dem tatsächlichen Aufwand angepasst, vielen Dank!\nPS: Eure Leiter steht noch bei uns vor der Garage.",
+        "time": 1767939809,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Giuseppe Cuoco",
+        "author_photo": "/images/reviews/danis-gaertner-gartenbau-pflege-in-aargau-und-zuerich-wettingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe mich an die Firma Danis Gärtner gewandt, um Pflasterarbeiten im Garten und die Reinigung der seitlichen Hausfassade durchführen zu lassen. Die Arbeit wurde sehr gut und in den vereinbarten Terminen erledigt. Ich kann diese Firma für alles, was Arbeiten im Garten betrifft, weiterempfehlen. Sicherlich werde ich sie in Zukunft wieder beauftragen.",
+        "time": 1763980599,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Fredy",
+        "author_photo": "/images/reviews/danis-gaertner-gartenbau-pflege-in-aargau-und-zuerich-wettingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Profis durch und durch, von der Planung bis zur professionellen Umsetzung. Kompetent, flexibel und jederzeit lösungsorientiert. Hervorragend, vielen Dank für unsere neu gestaltete Garten-Oase 🙂.",
+        "time": 1757251413,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Nicolas Andres",
+        "author_photo": "/images/reviews/danis-gaertner-gartenbau-pflege-in-aargau-und-zuerich-wettingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danis Gärtner haben bei uns im Garten Hecken entfernt sowie einen Plattenboden gebaut, die Gärtner waren äussert freundlich und haben die Arbeiten sorgfältig und sehr sauber erledigt. wir sind zufrieden.",
+        "time": 1747197992,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Irene Hespelt",
+        "author_photo": "/images/reviews/danis-gaertner-gartenbau-pflege-in-aargau-und-zuerich-wettingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches,professionelles Garten Unternehmen,das ihr Handwerk versteht.Ganz tolle Arbeiter die sauber und genau arbeiten. Mein Gartensitzplatz wurde schöner, als ich mir ihn vorgestellt habe. Ich kann dieses Gartenunternehmen nur empfehlen.",
+        "time": 1649782130,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJKavDyM7JhUcRgplTZZxS3BU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Angelco Stojov",
+        "author_photo": "/images/reviews/dami-piastrelle-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit Darkos Arbeit sehr zufrieden. Die bodenebene Duschwanne ist wirklich toll geworden, und das Badezimmer sieht jetzt ganz anders aus. Er ist professionell, hilfsbereit und gründlich.",
+        "time": 1780481798,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Sara Antunovic",
+        "author_photo": "/images/reviews/dami-piastrelle-locarno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben diese Firma mit der Fliesenverlegung beauftragt und waren mit dem Ergebnis absolut zufrieden. Professioneller, zuverlässiger und uneingeschränkt empfehlenswerter Service.\n\nVielen Dank und beste Grüße.",
+        "time": 1778914841,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "marko",
+        "author_photo": "/images/reviews/dami-piastrelle-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben Dami Piastrelle mit unserem Badezimmerumbau beauftragt und waren sehr zufrieden. Die Arbeiten wurden präzise, ​​ordentlich und mit viel Liebe zum Detail ausgeführt. Das Team war während des gesamten Prozesses stets erreichbar und transparent. Das Endergebnis ist hervorragend.",
+        "time": 1778226378,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

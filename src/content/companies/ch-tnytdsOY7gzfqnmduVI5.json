@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJy9th_knWkUcRqCD70THGGAA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Sam B",
+        "author_photo": "/images/reviews/studer-staub-metallbau-gmbh-zuchwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekt. Kurz angerufen und kam direkt vorbei da Sie in der Nähe am arbeiten waren. Innerhalb 10 Minuten war unser Gartentor wieder normal benutzbar. Sehr freundlich und professionell. Wärmstens zu empfehlen.",
+        "time": 1747051876,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bernd Jobes",
+        "author_photo": "/images/reviews/studer-staub-metallbau-gmbh-zuchwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Metallbau Staub hat unseren Balkonanbau für uns realisiert und dabei nicht nur fachlich hervorragend gearbeitet (so haben wiederholt auch andere Handwerker die Ausführung seiner Arbeiten sehr gelobt), sondern uns auch immer wieder kompetent zu Ausführungsvarianten beraten. Das Ergebnis hat unsere Erwartungen deutlich übertroffen und wir können Herrn Staub uneingeschränkt weiterempfehlen.",
+        "time": 1438618112,
+        "relative_time_description": "vor 10 Jahren"
+      },
+      {
+        "author_name": "walter siegenthaler",
+        "author_photo": "/images/reviews/studer-staub-metallbau-gmbh-zuchwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Coole Jungs die super Arbeit machen!",
+        "time": 1530116144,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "David Glanzmann",
+        "author_photo": "/images/reviews/studer-staub-metallbau-gmbh-zuchwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top arbeit! Cooles team",
+        "time": 1642100342,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Wannentechnik GmbH",
+        "author_photo": "/images/reviews/studer-staub-metallbau-gmbh-zuchwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Arbeit. Besten Dank",
+        "time": 1674833086,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

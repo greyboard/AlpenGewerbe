@@ -26,5 +26,46 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9TJA2uMRjkcR_n4xBLm1noI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Mikael Huber",
+        "author_photo": "/images/reviews/maler-maeder-gmbh-ins/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Maler Mäder hat das Innere unseres Hauses weis gestrichen. Die Arbeit wurde termingerecht und zu unserer vollsten Zufriedenheit erledigt. Ich kann diese KMU nur weiterempfehlen.",
+        "time": 1769180578,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Matthias Mäder",
+        "author_photo": "/images/reviews/maler-maeder-gmbh-ins/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Saubere, gute Arbeit!!!",
+        "time": 1634150680,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Adrian Spreng",
+        "author_photo": "/images/reviews/maler-maeder-gmbh-ins/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710363428,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandro Zbinden",
+        "author_photo": "/images/reviews/maler-maeder-gmbh-ins/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1559732442,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJx9z43KUpjkcRMNCPc_XgDnE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Giuseppe",
+        "author_photo": "/images/reviews/zumi-soehne-gartenbau-gmbh-gerlafingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Preisleistung top, pünktlich, schnell und immer freundlich. Die beste Wahl für ihren Garten. Kann es nur empfehlen.",
+        "time": 1758370361,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Edith Bühler",
+        "author_photo": "/images/reviews/zumi-soehne-gartenbau-gmbh-gerlafingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Offert-Einholung bis zur Ausführung unkompliziert und sehr speditiv. Gute Leistung mit vernünftigem Preis. Kann weiter empfohlen werden.",
+        "time": 1717400459,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gargaro Angela",
+        "author_photo": "/images/reviews/zumi-soehne-gartenbau-gmbh-gerlafingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit geleistet👍\nSehr speditiv und exakte Arbeit bin sehr zufrieden, kann Sie nur empfehlen.",
+        "time": 1739446051,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marko Radonjic",
+        "author_photo": "/images/reviews/zumi-soehne-gartenbau-gmbh-gerlafingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Gartenweg von Zumi & Söhne neu gestalten lassen und gleichzeitig die Rasenfläche vorbereiten lassen – und wir sind wirklich begeistert vom Ergebnis!\n\nVon der ersten Beratung bis zur Umsetzung lief alles professionell, zuverlässig und sehr freundlich ab. Man merkt sofort, dass hier mit viel Erfahrung und Liebe zum Detail gearbeitet wird. Unsere Wünsche wurden nicht nur umgesetzt, sondern sogar übertroffen.\n\nDer neue Gartenweg fügt sich perfekt ins Gesamtbild ein und die vorbereitete Rasenfläche ist die ideale Basis für einen schönen, grünen Garten.\n\nEin großes Dankeschön an das ganze Team – wir können Zumi & Söhne uneingeschränkt weiterempfehlen!",
+        "time": 1774694168,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jonus Kurtishi",
+        "author_photo": "/images/reviews/zumi-soehne-gartenbau-gmbh-gerlafingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1752260778,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,30 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1VOi4wBUhUcRLxOe-Qluk_M",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Vera Goergen",
+        "author_photo": "/images/reviews/nussbaumer-baugeschaeft-ag-oberarth/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, zuvorkommend und professionell.",
+        "time": 1730100661,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "guzzi lee",
+        "author_photo": "/images/reviews/nussbaumer-baugeschaeft-ag-oberarth/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Klein Sauber fein!!",
+        "time": 1614104230,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

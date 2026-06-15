@@ -25,5 +25,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ75hWNvY6m0cRCuoytBmmDks",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Christoph Marxer",
+        "author_photo": "/images/reviews/malergeschaeft-mark-frommelt-ruggell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1677938143,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jacqueline Hasler Gentinetta",
+        "author_photo": "/images/reviews/malergeschaeft-mark-frommelt-ruggell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656048713,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lukáš Starovič",
+        "author_photo": "/images/reviews/malergeschaeft-mark-frommelt-ruggell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621671510,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "sabrina krisravcnik",
+        "author_photo": "/images/reviews/malergeschaeft-mark-frommelt-ruggell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605948002,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Theresia Büchel Rädler",
+        "author_photo": "/images/reviews/malergeschaeft-mark-frommelt-ruggell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1601923085,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

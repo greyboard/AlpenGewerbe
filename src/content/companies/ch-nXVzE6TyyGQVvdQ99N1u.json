@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJA7IXLFZvj0cRMypicwzfDRY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Nathan Burgener",
+        "author_photo": "/images/reviews/dachart-gmbh-ried-brig/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Netter und sehr zuverlässiger Arbeiter.\nSimon hat sich die Zeit genommen und die Arbeiten detailliert, sehr sauber und zuverlässig ausgeführt!",
+        "time": 1777052133,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Ronald Oehlwein",
+        "author_photo": "/images/reviews/dachart-gmbh-ried-brig/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Firma sensationelle Arbeit nur zu empfehlen pünktlich sauber und schnell vielen Dank nochmals",
+        "time": 1776891297,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Eh Si",
+        "author_photo": "/images/reviews/dachart-gmbh-ried-brig/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe eine vorbereitete Folie fürs Dach erhalten. Die Nähte waren sauber verschweisst und das Mass hat perfekt gepasst. Danke Simon für die tolle Ausführung. Ich komme gerne wieder.",
+        "time": 1773251646,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

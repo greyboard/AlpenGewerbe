@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJraXrd3PEkUcRRHzvLB5lifo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Adrian Bucheli",
+        "author_photo": "/images/reviews/mueller-bau-ag-laufen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1726209872,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rocco Zappone",
+        "author_photo": "/images/reviews/mueller-bau-ag-laufen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642438019,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Florian Kottmann",
+        "author_photo": "/images/reviews/mueller-bau-ag-laufen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1573578896,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "N S",
+        "author_photo": "/images/reviews/mueller-bau-ag-laufen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1535664374,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marc Th.",
+        "author_photo": "/images/reviews/mueller-bau-ag-laufen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1535616563,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

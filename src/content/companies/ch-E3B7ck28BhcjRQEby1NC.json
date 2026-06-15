@@ -26,5 +26,55 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJf2UHRFKnmkcRYbo-t_VnPYI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Carlos Schmid",
+        "author_photo": "/images/reviews/goldenbohm-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetente Service Mitarbieter -",
+        "time": 1574952835,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tamara Senn",
+        "author_photo": "/images/reviews/goldenbohm-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1559832417,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Jakob Töngi",
+        "author_photo": "/images/reviews/goldenbohm-ag-zuerich/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1554032552,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rebecca Anderegg",
+        "author_photo": "/images/reviews/goldenbohm-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1544713721,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

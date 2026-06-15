@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJldNrx6FDhUcRv8JPMrWHjVM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "BMW",
+        "author_photo": "/images/reviews/holzbau-bissig-ag-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Habe die Gebr. Bissig Holzbau AG per Mail kontaktiert und am nächsten Tag Antwort mit Offerte bekommen. Boden Verlängerung von eine Industrie Halle wurde sehr professionell geplant und mit hochwertigen Material und Arbeit verlängert worden. Sehr freundliche und schnelle Kontakt Aufnahme. Danke",
+        "time": 1752094397,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Marcel Waser",
+        "author_photo": "/images/reviews/holzbau-bissig-ag-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vermutlich der beste Holzbauer der Schweiz. Ein Holzbauer mit Leideschaft.",
+        "time": 1761250515,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Christian Gerig",
+        "author_photo": "/images/reviews/holzbau-bissig-ag-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1656698448,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Leana Schuler",
+        "author_photo": "/images/reviews/holzbau-bissig-ag-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600858244,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alfio Indemini",
+        "author_photo": "/images/reviews/holzbau-bissig-ag-altdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1779699832,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

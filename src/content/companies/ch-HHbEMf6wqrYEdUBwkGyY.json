@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJNe2utJy4kUcR7aBiDQW4f4k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "MANUEL K.",
+        "author_photo": "/images/reviews/anderegg-allround-kundenmaurer-oberwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Anderegg Allround Kundenmaurer hat bei unserem Umbau verschiedene Arbeiten durchgeführt. Das Entfernen von Wänden mit gleichzeitigem Einfügen von Trägern bei tragenden Wänden mit anschliessendem Verputzen hat den Hauptanteil der Arbeiten ausgemacht. Hinzu kam das Fundament für den Wintergarten. Wir fühlten uns von Anfang an gut beraten und auch bei Schwierigkeiten, die am Bau auftreten können, ausserordentlich gut unterstützt. Ich kann Stefan und sein Team nur empfehlen. Herzlichen Dank",
+        "time": 1642171443,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "R G",
+        "author_photo": "/images/reviews/anderegg-allround-kundenmaurer-oberwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kleines Familienunternehmen, flexibel und lösungsorientiert.\nDer Inhaber ist sehr präsent und kümmert sich persönlich um die Anliegen.\nGute Qualität zu fairen Preisen.\n\nAusgeführte Arbeiten (Umbau von zwei Bäder):\nAbdecken, Abriss, Spitzen, Trockenbau, Bodenüberzug inkl. Abdichtung, Wände verputzen, Verlegen von Fliesen,\nBaukoordination zwischen den Handwerkern",
+        "time": 1721636131,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Ellenberger",
+        "author_photo": "/images/reviews/anderegg-allround-kundenmaurer-oberwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Reparaturarbeiten nach einem Rohrbruch/Wasserschaden wurden ausgeführt. Es war die beste Offerte unter 3 - sogleich Preisbeste und auch beste Vorschlag/Erläuterung der Arbeitsschritte sowie alles aus 1er Hand was die Sache für mich erleichtert hat. Ausgeführt wurde (an 3 verschiedenen Stellen): Mauer verschliessen, Malerarbeiten, Plättchen zurückkleben, Revisionsklappe anbringen wobei das WC entfernt und wieder angeschlossen werden musste und unbeschädigte Plättchen sehr knapp waren. Ich bin sehr zufrieden mit den ausgeführten Arbeiten - vom Schaden ist nichts mehr zu sehen! Nachreinigung einiger Spuren meinerseits war notwendig, aber in 10 Minuten auch schon erledigt. Arbeiten wurden pünklich wie abgemacht erledigt trotz erschwerten Umständen. Abwicklung, Rechnungsstellung und Kommunikation tadellos! Vielen Dank und gerne wieder!",
+        "time": 1591716769,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Daniel von Sivers",
+        "author_photo": "/images/reviews/anderegg-allround-kundenmaurer-oberwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bei unserem Umbau einiger Fenster saubere und äusserst pünktliche Ausführung aller nötigen Arbeiten (spitzen,  Stürze, mauern, isolieren, Fassade sauber flicken, innen gipsen). Wir können Herrn Anderegg und seine Leute nur empfehlen - auch nach 2 Jahren keinerlei Mängel, Risse oder sonst ein Problem festgestellt.",
+        "time": 1575912359,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Adrian Haenggi",
+        "author_photo": "/images/reviews/anderegg-allround-kundenmaurer-oberwil/reviewer_5.jpg",
+        "rating": 1,
+        "text": "am 15.06.19 8:00 war Herr Anderegg bei uns und hat alle Daten und Info\nmitgenommen mit der zusage bis am Abend mir den Kostenvorschlag\nper Mail zu senden . Freitag habe ich Angerufen mit dem Erfolg er schicke mir das heute noch . Leider warte ich immer noch auf das Mail um den Auftrag auszuführen lassen. :(",
+        "time": 1559976981,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

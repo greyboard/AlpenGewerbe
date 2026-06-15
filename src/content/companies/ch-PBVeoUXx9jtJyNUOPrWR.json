@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP11bZdkdm0cRFsu6SFdBiI4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Carole Kraner",
+        "author_photo": "/images/reviews/eigenmann-ag-wittenbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team der Eigenmann AG arbeitet super kompetent. Super Arbeit und Betreuung!",
+        "time": 1772118679,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Christian Schneider",
+        "author_photo": "/images/reviews/eigenmann-ag-wittenbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Eigenmann wurde auf Empfehlung von mir mit einer Bäderrenovierung beauftragt, nachdem Alexander Schnetzer ein detailliertes und gut begründetes Angebot abgegeben hatte.\nIch bin mit der Ausführung und dem Ergebnis höchst zufrieden. Die Arbeiten wurden im anvisierten Zeitraum sehr professionell in hoher Qualität ausgeführt. Auch die Auswahl der beiteiligten Unternehmen hat sehr dazu beigetragen.\nVielen Dank!",
+        "time": 1744305257,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patric Schlegel",
+        "author_photo": "/images/reviews/eigenmann-ag-wittenbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der Ersatz unseres Wechselrichters wurde perfekt durchgeführt. Dies alles innerhalb des offerierten Betrages.",
+        "time": 1774510501,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Christof Schlegel",
+        "author_photo": "/images/reviews/eigenmann-ag-wittenbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben einen anspruchsvollen Badumbau mit Eigenmann AG umgesetzt. Alex Schnetzer hat uns von Beginn an sehr gut beraten und das Resultat lässt sich sehen! Wir sind sehr zufrieden mit den Arbeiten von Eigenmann AG und können Eigenmann AG sehr empfehlen. Absolut vertrauenswürdiger und professioneller Partner. Ganz herzlichen Dank an Ramon und das ganze Team, welche die Arbeiten sehr gut ausgeführt haben!",
+        "time": 1716029386,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rolf Markus Baumann",
+        "author_photo": "/images/reviews/eigenmann-ag-wittenbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine Firma mit Standort in St.Gallen und Wittenbach mit über 100 jähriger Erfahrung.\n\nDie Firma Eigenmann steht für Gebäudehülle und Haustechnik, Umbauten und Renovationen in der Region St. Gallen\n\nSie überzeugt  wir mit gutem Kundenservice und hoher Qualität ihrer Arbeiten und Produkte.\n\nOb Dach und Fassade, Heizungen und Sanitär oder beim Thema Solarenergie - ist die Firma sicher der richtige Partner in der Region",
+        "time": 1612947935,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

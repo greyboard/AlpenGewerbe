@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8cieirr7j0cRpv0bueB7WLE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 08:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Silvia Wenger",
+        "author_photo": "/images/reviews/ti-energie-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Timbre Ilkhan war sehr freundlich und hat mir genau gesagt, was er jetzt tun wird in meiner Wohnung. Gute Arbeit.\nDurchführung der Kontrolle von Steckdosen und Sicherungskasten.\nBin sehr zufrieden",
+        "time": 1761763369,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "b. m.",
+        "author_photo": "/images/reviews/ti-energie-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service,\nimmer freundliche, schnelle und detaillierte Antworten\nTermingerechte saubere Ausführung der Arbeiten\nTI Energie, Timur Ilkhan kann 10000% empfohlen werden, ohne Einschränkungen",
+        "time": 1740539590,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Veerle Van Hoecke",
+        "author_photo": "/images/reviews/ti-energie-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, unkompliziert und kompetent.\nTI- Energie empfehle ich gerne weiter.",
+        "time": 1772628747,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "H.Christen",
+        "author_photo": "/images/reviews/ti-energie-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter professioneller Kontrollorgan. Kontrolle wurde gezielt mit großem Know-how pragmatisch durchgeführt.",
+        "time": 1772624207,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Annika Brantschen",
+        "author_photo": "/images/reviews/ti-energie-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich habe kürzlich die Dienstleistungen von TI Energie in Anspruch genommen und möchte meine Erfahrungen teilen.\n\nVon Anfang an war der Kundenservice äusserst freundlich und hilfsbereit. Die Mitarbeiter haben sich Zeit genommen, um meine Fragen zu beantworten und mir verschiedene Optionen anzubieten, die auf meine Bedürfnisse zugeschnitten waren.\n\nDas Team war pünktlich, gut organisiert und hat während des gesamten Prozesses transparent kommuniziert. Ich fühlte mich gut informiert und in guten Händen.\n\nWas mir besonders gefallen hat, ist das Engagement von TI Energie für nachhaltige Lösungen. Sie bieten umweltfreundliche Optionen an, die nicht nur gut für die Umwelt sind, sondern auch langfristig Kosten sparen können.\n\nInsgesamt bin ich sehr zufrieden mit meiner Entscheidung, TI Energie zu wählen. Ich kann das Unternehmen jedem empfehlen, der auf der Suche nach zuverlässigen und nachhaltigen Energielösungen ist.",
+        "time": 1722905759,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

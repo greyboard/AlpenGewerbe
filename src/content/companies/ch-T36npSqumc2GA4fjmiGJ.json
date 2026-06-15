@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJUZrSh7LTmkcR9WT1F1LK7WE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "hansruedi zimmermann",
+        "author_photo": "/images/reviews/maler-ackermann-weesen-weesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit gemacht !Tiptop",
+        "time": 1649681742,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alessandro Bruhin",
+        "author_photo": "/images/reviews/maler-ackermann-weesen-weesen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit und motivierte sowie kompetente Mitarbeiter",
+        "time": 1690651119,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Wibli",
+        "author_photo": "/images/reviews/maler-ackermann-weesen-weesen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Erfahrungsbericht – Maler Ackermann\n\nAnfang Februar 2026 hat Maler Ackermann einen Schadenfall an unserer Eingangstüre, der beim Zügeln entstanden war, fachgerecht ausgebessert. Die Türe sieht wieder aus wie neu – die Arbeit wurde sauber und professionell ausgeführt.\n\nZusätzlich haben wir Farbe bezogen, um die Wände selbst zu streichen. Die Kommunikation mit Maler Ackermann war stets freundlich und unkompliziert. Auch die Arbeitsweise hat uns überzeugt: zuverlässig, sorgfältig und kundenorientiert.\n\nWir können Maler Ackermann uneingeschränkt weiterempfehlen und würden jederzeit wieder auf ihn zurückkommen.\n\nVielen Dank für die tolle Arbeit!\n\nLiebe Grüsse\n\nNathalie & Pascal (Goldingen)",
+        "time": 1776859136,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Erion Dushaj",
+        "author_photo": "/images/reviews/maler-ackermann-weesen-weesen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1660992714,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ramon Ackermann",
+        "author_photo": "/images/reviews/maler-ackermann-weesen-weesen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1732188062,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

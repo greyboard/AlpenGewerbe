@@ -26,5 +26,31 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJTXc0jmOqmkcRwl2brMoO4Ag",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Ueli Fankhauser",
+        "author_photo": "/images/reviews/huerlimann-josef-ag-sanitaer-und-heizungsanlagen-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Christoph Huerlimann findet hervorragend praktikable Lösungen. Wir haben sehr von seinem Fachwissen und seiner Erfahrung profitiert. Absolut empfehlenswert.",
+        "time": 1591039836,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

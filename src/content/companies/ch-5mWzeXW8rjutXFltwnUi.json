@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJHd5dkVwem0cRCXcSlzM5RCI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Philipp Wildhaber",
+        "author_photo": "/images/reviews/anderegg-mauerentfeuchtung-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die ausgeführten Arbeiten sind jetzt schon 2 Jahre her und ich muss wirklich sagen dass ich am Anfang Bedenken hatte da ich schon sehr vieles unternommen habe. Aber seit den professionellen Arbeiten der Firma Anderegg habe ich endlich Ruhe und der Keller sieht immernoch aus wie neu.\nSehr freundlicher Kontakt und nur zu empfehlen\nvielen Dank für die super Arbeit.",
+        "time": 1753431062,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Patrizia Jerg",
+        "author_photo": "/images/reviews/anderegg-mauerentfeuchtung-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Jenal von der Fa Anderegg hat mich sehr kompetent und sehr freundlich beraten. Top Eindruck, grosses Fachwissen - vielen Dank!",
+        "time": 1773845670,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Thomas Wieser",
+        "author_photo": "/images/reviews/anderegg-mauerentfeuchtung-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Anderegg Mauerentfeuchtungen hat bei mir die Kellermauer entfeuchtet. Die Vorarbeit (abspitzen des Verputz) habe ich selber gemacht. Ich arbeite im Büro und mache dies normalerweise nicht aber ich wurde top von der Firma beraten. Er kam auch einige male vorbei und hat sich angeschaut ob ich es richtig mache und mir Tipps gegeben, dies habe ich wirklich sehr geschätzt. Deshalb kann ich dir Firma nur weiterempfehlen, top Arbeit und top Beratung.",
+        "time": 1710841961,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Curdin Cantieni",
+        "author_photo": "/images/reviews/anderegg-mauerentfeuchtung-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 2,
+        "text": "Habe per Zufall gesehen dass die Mitarbeiter Paletten von Hand abladen müssen ..... Wo gibts denn sowas noch. Gibts da kein Stapler?",
+        "time": 1755840427,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Helmuth Gruber",
+        "author_photo": "/images/reviews/anderegg-mauerentfeuchtung-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fundiertes Wissen bezgl. Entstehung und Auswirkung von Feuchtigkeit im alten Mauerwerk.\nChronologisch sehr gute Skizzierung von Sanierungsmöglichkeiten.\nVertrauensvolle Beratung und klar gegliederte Offertstellung.\nLangjähriges Fachpersonal.\nGerne wieder im Bedarfsfall.",
+        "time": 1692210926,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

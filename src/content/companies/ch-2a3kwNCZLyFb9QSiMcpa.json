@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJq7HM2eGBmkcRFRFM-68JKQ8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Bernd Schumacher",
+        "author_photo": "/images/reviews/peter-gasser-schreinerei-ag-feuerthalen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "\"Die Schreinerei Peter Gasser überzeugt durch Kompetenz, Zuverlässigkeit und Pünktlichkeit. Die Arbeiten wurden exakt und professionell ausgeführt. Sehr empfehlenswert!\"",
+        "time": 1719943137,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "barbara corrodi",
+        "author_photo": "/images/reviews/peter-gasser-schreinerei-ag-feuerthalen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Dankeschön für die tollen Holzböden super arbeiten 👍 gerne wieder.",
+        "time": 1719851155,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriela Kaiser",
+        "author_photo": "/images/reviews/peter-gasser-schreinerei-ag-feuerthalen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1613505517,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Mario Fontana",
+        "author_photo": "/images/reviews/peter-gasser-schreinerei-ag-feuerthalen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580833538,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Daniel Kubli",
+        "author_photo": "/images/reviews/peter-gasser-schreinerei-ag-feuerthalen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1507063855,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

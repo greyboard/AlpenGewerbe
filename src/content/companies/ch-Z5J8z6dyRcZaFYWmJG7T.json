@@ -1,7 +1,7 @@
 {
   "id": "ch-Z5J8z6dyRcZaFYWmJG7T",
   "slug": "rosengarten-bern-bern",
-  "name": "Rosengarten Bern",
+  "name": "Restaurant Rosengarten",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,64 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJlYrlCd45jkcRYzSv1-5Gx-Q",
+  "google_fetched": true,
+  "description": "Modernes Restaurant am Rand eines Stadtparks mit mediterraner Küche, Weinangebot sowie einer Terrasse.",
+  "openingHours": [
+    "Montag: 09:00–23:00 Uhr",
+    "Dienstag: 09:00–23:00 Uhr",
+    "Mittwoch: 09:00–23:00 Uhr",
+    "Donnerstag: 09:00–23:00 Uhr",
+    "Freitag: 09:00–23:00 Uhr",
+    "Samstag: 09:00–23:00 Uhr",
+    "Sonntag: 09:00–23:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 6176,
+    "reviews": [
+      {
+        "author_name": "Astrid Klöcker",
+        "author_photo": "/images/reviews/rosengarten-bern-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein sehr gelungener Abend, vor dem  Wegzug nach Deutschland. Das Käse Fondue Menü,alles war sehr fein vom Nüssli Salat über dem Käsefondue nebst dem Nachtisch Creme Catalane ,auch der Heida Weisswein aus dem Wallis fein gekühlt  vorzüglich👍🥰😋❤ Das Personal, besonders Joel der Kellner, sehr freundlich und zuvorkommend, aufmerksam und immer nachschauend ob alles recht ist !!! Weiter so ,euch kann man nur weiterempfehlen 🙏👍👍👍👍",
+        "time": 1768082485,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Dirk Bäumle",
+        "author_photo": "/images/reviews/rosengarten-bern-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Restaurant liegt super gelegen mit einer Klassen Aussicht auf die Stadt .\nDas Essen ist sehr lecker .",
+        "time": 1772908483,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Lennard Baitz",
+        "author_photo": "/images/reviews/rosengarten-bern-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Das Restaurant Rosengarten gehört für mich zu den schönsten Orten in Bern. Die Lage im Park mit dem atemberaubenden Blick auf die Altstadt ist einfach einmalig, besonders auf der Terrasse ein echtes Highlight. Die Atmosphäre ist stilvoll und gleichzeitig entspannt, perfekt für Frühstück, Kaffee oder ein gemütliches Essen.\n\nDie Küche bietet eine schöne Mischung aus regionalen und mediterranen Gerichten, und insgesamt fühlt man sich hier sehr wohl. Ein wunderbarer Ort, um Gäste auszuführen oder selbst die Aussicht über Bern zu geniessen.",
+        "time": 1771877250,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Max Uhlmann",
+        "author_photo": "/images/reviews/rosengarten-bern-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hier passt einfach alles. Obwohl wir ohne Reservierung an einem Samstag Abend kamen offerierte man uns einen Tisch. Die Bedienung war sehr zuvorkommend und das Fondue war äußerst schmackhaft. Es herrschte von Anfang an eine gemütliche und beschauliche Atmosphäre. Sollten wir nochmal in Bern sein, kommen wir gern wieder in diese Lokalität.",
+        "time": 1766310240,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "FoodTravelRadar",
+        "author_photo": "/images/reviews/rosengarten-bern-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein rundum gelungener Abend! Wir haben extrem kurzfristig – nur 45 Minuten vorher – reserviert und trotzdem unseren Wunschtisch erhalten.\n​Der Service war sehr freundlich und aufmerksam. Das Fondue mit der hausgemachten Mischung war hervorragend und geschmacklich ein echtes Highlight. Das Tiramisu zum Abschluss war dann noch das Tüpfelchen auf dem i und hat diesen schönen Abend perfekt abgerundet.\n​Vielen Dank für die tolle Bewirtung, wir werden ab jetzt definitiv öfters kommen!",
+        "time": 1768285333,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

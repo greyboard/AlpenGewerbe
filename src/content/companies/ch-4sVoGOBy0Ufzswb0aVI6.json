@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJxWB5pREyhEcRL4bPy_nCWG4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "claudio leonardi",
+        "author_photo": "/images/reviews/sasso-metalcostruzioni-sagl-lugano/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Leider war es eine unangenehme Erfahrung, da ich in vielerlei Hinsicht enttäuscht wurde. Der erste Kontakt wirkte sehr zuverlässig, professionell und vielversprechend, entpuppte sich aber als reine Illusion.\nMir wurde ein Kostenvoranschlag unterbreitet, der jedoch mehr als doppelt so teuer war wie vereinbart, und die Ausführung der Arbeiten erfolgte ohne Vorwarnung völlig anders als vereinbart. Alles war unvollständig, und Teile des Stahls waren abgeschnitten worden, wodurch die Konstruktion unsicher war. Rücksprache mit anderen Firmen bestätigte deren mangelnde Professionalität.",
+        "time": 1699896307,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "jelenko vasiljevic",
+        "author_photo": "/images/reviews/sasso-metalcostruzioni-sagl-lugano/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Was kann ich über das Unternehmen sagen? Ich hatte ein ernstes Problem und sie haben es mit absoluter Transparenz, Professionalität und Hilfsbereitschaft gelöst. Nochmals vielen Dank, und 5 Sterne sind ehrlich gesagt nicht genug.",
+        "time": 1655809050,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Riccardo Mariani",
+        "author_photo": "/images/reviews/sasso-metalcostruzioni-sagl-lugano/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Effizient und sehr professionell. Die Arbeit wurde fachmännisch ausgeführt, und die Installation erfolgte pünktlich.\nVielen Dank.",
+        "time": 1655811916,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Gualandi",
+        "author_photo": "/images/reviews/sasso-metalcostruzioni-sagl-lugano/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Von der ersten Besichtigung bis zum Abschluss der Arbeiten waren sie stets freundlich und professionell! Absolut empfehlenswert!",
+        "time": 1655812208,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Giuliana Zan",
+        "author_photo": "/images/reviews/sasso-metalcostruzioni-sagl-lugano/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Effizienz, Fachkompetenz, Verfügbarkeit und die Gewissheit der Ergebnisse. Es hätte nicht besser laufen können, vielen Dank noch einmal für alles.",
+        "time": 1657560053,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

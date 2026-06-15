@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJE1I9fMtajEcRiwndJViG_d4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Rita Antunes",
+        "author_photo": "/images/reviews/bovy-menuiserie-charpente-sarl-le-vaud/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Hallo,\nWir haben Herrn Bovy kontaktiert, um eine maßgefertigte Küchenfront und einen Küchenschrank anfertigen zu lassen. Herr Bovy hat uns ein Angebot unterbreitet, das wir angenommen haben. Danach haben wir nichts mehr von ihm gehört. Wir haben wiederholt versucht, ihn per E-Mail, Festnetz und Mobiltelefon zu erreichen und mehrere Nachrichten hinterlassen, aber leider keine Antwort erhalten. Wir sind daher sehr enttäuscht.\nRita Antunes und Luca Russo",
+        "time": 1546851649,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Fabrice Pfulg",
+        "author_photo": "/images/reviews/bovy-menuiserie-charpente-sarl-le-vaud/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1581372668,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jessica Tissot",
+        "author_photo": "/images/reviews/bovy-menuiserie-charpente-sarl-le-vaud/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1581337299,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

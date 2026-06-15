@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJEUN5CNzDB0ER_-XWaPu_cLI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Sämi Bader",
+        "author_photo": "/images/reviews/dimo-sanitaer-gmbh-niederdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nachdem unser langjähriger Sanitärinstalateur in Ruhestand gegangen ist haben wir bei Dimo unseren perfekten neuen Sanitär gefunden. Offerte, Bearbeitung und Ausführung Tadellos.\nGrossen Dank an das DIMO Team.",
+        "time": 1760511895,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Werner Schmutz",
+        "author_photo": "/images/reviews/dimo-sanitaer-gmbh-niederdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super schneller Service. Sehr freundlicher, kompetenter Handwerker. Sehr gerne wieder.",
+        "time": 1657693872,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stefan jost",
+        "author_photo": "/images/reviews/dimo-sanitaer-gmbh-niederdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Prompt\nSehr guter schneller Service",
+        "time": 1647786055,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Thomas Oeschger",
+        "author_photo": "/images/reviews/dimo-sanitaer-gmbh-niederdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr guter und zuverlässiger Santitär",
+        "time": 1516787124,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Heinz Holliger",
+        "author_photo": "/images/reviews/dimo-sanitaer-gmbh-niederdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr nette Arbeiter",
+        "time": 1595406322,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

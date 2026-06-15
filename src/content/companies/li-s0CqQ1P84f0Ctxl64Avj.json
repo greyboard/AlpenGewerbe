@@ -25,5 +25,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJScDNZDcxm0cRPlCqS9-Iw4k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 2.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Franziska",
+        "author_photo": "/images/reviews/miggiano-spenglerei-schaanwald/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Sehr unzufrieden. Hatten an einem Neubau bereits 5 Mängel entdeckt von Arbeiten die nicht fachkompetent ausgeführt wurden sind. Ein Mangel kam bereits nach 1-2 Jahren, bei 2 Vordächern abdichtung ganz vergessen, beim Gartenhaus, Dach undicht. Und bei einem Versteckten Mangel der Abdichtung war die Firma nicht mal bereit sich den Schaden anzuschauen und eine Lösung zu finden.\nsehr unzufrieden und von meiner Seite aus nicht weiter zu empfehlen.",
+        "time": 1764781581,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Christoph Marxer",
+        "author_photo": "/images/reviews/miggiano-spenglerei-schaanwald/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Bei einem neubau waren 4 von 4 dächer undicht!  Und wir kennen noch mehr die undichte Dächer haben.",
+        "time": 1764878919,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Nicole Gomez",
+        "author_photo": "/images/reviews/miggiano-spenglerei-schaanwald/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Miggiano Spenglerei hat nicht nur Flachdach- und Spenglerarbeiten zuverlässig ausgeführt – sie haben uns auch kompetent beraten und viele Verbesserungen zur ursprünglichen Planung umgesetzt.",
+        "time": 1569653446,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Psyko Power",
+        "author_photo": "/images/reviews/miggiano-spenglerei-schaanwald/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Lieber Inhaber ihre Mitarbeiter fahren Rücksichtslos im Strassenverkehr ( unötiges dichtes Auffahren, Lichthupe ).\nBringen sie das unter Kontrolle",
+        "time": 1733932181,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yildirim Mehmet",
+        "author_photo": "/images/reviews/miggiano-spenglerei-schaanwald/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1777896808,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJW2hDuWr7j0cRhsv_LvBJPI4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Eveline Christen",
+        "author_photo": "/images/reviews/franz-roos-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super netter und freundlicher Fachmann, der sein Handwerk versteht und exakt ausführt. Die ganze Abwicklung hat zu unserer besten Zufriedenheit funktioniert.\nWir können Franz Roos nur weiter empfehlen.",
+        "time": 1653732460,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "1armadyl",
+        "author_photo": "/images/reviews/franz-roos-luzern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "schlechter service - überhaupt nicht seriös. er übernimmt keine haftung für die von ihm verursachten schäden. versendet gerne rechnungen für 0 dienstleistung. allg. freche art hat er. nicht weiterzuempfehlen.",
+        "time": 1647254223,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Werner von Rotz",
+        "author_photo": "/images/reviews/franz-roos-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service, die Gaserei und Einbruchreparaturservice in der Zentralschweiz. Katzentürli Glasersatz und Schlossöffungsservice. 24 Stunden immer erreichbar.",
+        "time": 1639740707,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Donato Kläui",
+        "author_photo": "/images/reviews/franz-roos-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Handwerker. Günstige Preise,sehr zuverlässig",
+        "time": 1610403575,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christoph Lorenc",
+        "author_photo": "/images/reviews/franz-roos-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gut und kompetent",
+        "time": 1666345904,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

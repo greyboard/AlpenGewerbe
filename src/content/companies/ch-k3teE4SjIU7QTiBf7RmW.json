@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJz4Ami3YpjkcRZMdfEPI1UrE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "E A",
+        "author_photo": "/images/reviews/bauart-gipser-gmbh-recherswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Arbeit!",
+        "time": 1739463874,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jetmire Azizi",
+        "author_photo": "/images/reviews/bauart-gipser-gmbh-recherswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1692089769,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

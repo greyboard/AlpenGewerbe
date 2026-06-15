@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJlcCi95x_kEcRL7owzhaeXrA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:30 Uhr, 13:15–18:00 Uhr",
+    "Dienstag: 07:30–12:30 Uhr, 13:15–18:00 Uhr",
+    "Mittwoch: 07:30–12:30 Uhr, 13:15–18:00 Uhr",
+    "Donnerstag: 07:30–12:30 Uhr, 13:15–18:00 Uhr",
+    "Freitag: 07:30–12:30 Uhr, 13:15–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "A T",
+        "author_photo": "/images/reviews/thalmann-schlosserei-apparatebau-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Arbeitet sehr präzise und gewissenhaft.",
+        "time": 1757595270,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Manuel Gruber",
+        "author_photo": "/images/reviews/thalmann-schlosserei-apparatebau-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle schnelle Offerte.  Kompente Hilfe.  Auch sonderwünsche gut möglich vielen dank.  Sehr zu empfehlen.\n\nBesten Dank\nManuel Gruber",
+        "time": 1745572400,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Edwin Altorfer",
+        "author_photo": "/images/reviews/thalmann-schlosserei-apparatebau-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Diesse Werkstatt ist top eingerichtet. Super freundlicher Kontakt.\nFür sonder Anfertigungen perfekt geeignet 👍",
+        "time": 1660935827,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gudrun Jäger",
+        "author_photo": "/images/reviews/thalmann-schlosserei-apparatebau-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Arbeit 👍👍👍 ich bin sehr zufrieden und kann die Thalmann Schlosserei nur empfehlen 💪",
+        "time": 1660935874,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Willy Schleeh",
+        "author_photo": "/images/reviews/thalmann-schlosserei-apparatebau-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Apparate Bauer",
+        "time": 1723276107,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

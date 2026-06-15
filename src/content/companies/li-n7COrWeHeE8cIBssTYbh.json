@@ -26,5 +26,22 @@
     "Badmöbel",
     "Holzreparatur"
   ],
-  "description": "So basiert Ihr Webauftritt auf einem WordPress-Theme aus dem Jahr 2012, was erhebliche Sicherheitsrisiken birgt. Zudem fehlt eine automatische HTTPS-Verschlüsselung und es sind keinerlei SEO-Beschreibungen hinterlegt, wodurch Sie massiv Sichtbarkeit bei Google einbüßen."
+  "description": "So basiert Ihr Webauftritt auf einem WordPress-Theme aus dem Jahr 2012, was erhebliche Sicherheitsrisiken birgt. Zudem fehlt eine automatische HTTPS-Verschlüsselung und es sind keinerlei SEO-Beschreibungen hinterlegt, wodurch Sie massiv Sichtbarkeit bei Google einbüßen.",
+  "googlePlaceId": "ChIJA4I9R0E6m0cRZTLsxyhxUCY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Daniel Schaefer",
+        "author_photo": "/images/reviews/schreinerei-heinz-wohlwend-ag-schellenberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1657650351,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJD_pKjJTXkUcRjrNwX0pgkpM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "DS",
+        "author_photo": "/images/reviews/rust-co-ag-gartenbau-feldbrunnen-st-niklaus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kundenorientiert, stets freundlich,  flexibel, fairer Preis und top Qualität. Jederzeit gerne wieder - kann ich wärmstens empfehlen!",
+        "time": 1586203564,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marcel Gerber",
+        "author_photo": "/images/reviews/rust-co-ag-gartenbau-feldbrunnen-st-niklaus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Guten Tag\nHerzlichen Dank für den feinen Honig. Wir wünschen Ihnen ebenfalls eine schöne Weihnachten und ein Gutes Neues Jahr!\n\nPat und Marcel Gerber",
+        "time": 1544964941,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Patrick Friedli",
+        "author_photo": "/images/reviews/rust-co-ag-gartenbau-feldbrunnen-st-niklaus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente, fleissige Chefin u Chef inkl. Truppe! 👏",
+        "time": 1702836509,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Verena Schneider-Aebischer",
+        "author_photo": "/images/reviews/rust-co-ag-gartenbau-feldbrunnen-st-niklaus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "1A Beratung, Gaeten-Pläne sind wie echt und laden zum Träumen ein. Sehr zu empfehlen. 👍🤗😊",
+        "time": 1554575439,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rita Pelosini",
+        "author_photo": "/images/reviews/rust-co-ag-gartenbau-feldbrunnen-st-niklaus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ist ok",
+        "time": 1678435621,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

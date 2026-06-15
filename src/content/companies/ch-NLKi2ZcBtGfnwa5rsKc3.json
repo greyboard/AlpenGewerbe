@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJywaGll43jkcRIaDHIfc7Q3g",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "flury 33",
+        "author_photo": "/images/reviews/woodtli-ag-bern/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Hoffentlich sind die Mitarbeiter im Garten freundlicher als im Auto. Fast einen Velofahrer überfahren und noch den Stinkefinger gezeigt. Ist jetzt nicht die beste Werbung in einem Firmenauto",
+        "time": 1710169312,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "yesn",
+        "author_photo": "/images/reviews/woodtli-ag-bern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Mähen den Rasen hoffentlich besser als sie Auto fahren...",
+        "time": 1684835405,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beat Wyss",
+        "author_photo": "/images/reviews/woodtli-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr aufgeräumt, freundliche Mitarbeiter, macht giftfreie Unkrautbekämpfung mit einem Ecoweedkiller👍👍👍",
+        "time": 1618031773,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "TheGuide",
+        "author_photo": "/images/reviews/woodtli-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr erfahrener Gärtnerbetrieb, sehr zu empfehlen",
+        "time": 1504107113,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Daniel Huldi",
+        "author_photo": "/images/reviews/woodtli-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Guter Partner, scharfer Mitbewerber",
+        "time": 1521977859,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

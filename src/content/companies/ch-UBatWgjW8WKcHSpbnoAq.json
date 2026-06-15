@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJKwII_K4wjkcRgTrqQfpT19k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Roland Kunz",
+        "author_photo": "/images/reviews/joss-schreinerei-gmbh-ittigen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Durchwegs sehr erfreuliche, angenehme und ehrliche Zusammenarbeit. Von der Planung bis zur Fertigstellung hat alles perfekt funktioniert. Und die Qualität macht uns richtig Freude. Danke!",
+        "time": 1550728973,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Remo Schuepbach",
+        "author_photo": "/images/reviews/joss-schreinerei-gmbh-ittigen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Adresse für Küchen, Möbel und Innenausbau",
+        "time": 1606247845,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Walter Joss Schreinerei",
+        "author_photo": "/images/reviews/joss-schreinerei-gmbh-ittigen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herzlichst Willkommen bei Walter Joss Schreinerei und Küchenbau",
+        "time": 1420109453,
+        "relative_time_description": "vor 11 Jahren"
+      },
+      {
+        "author_name": "Fabian Clivaz",
+        "author_photo": "/images/reviews/joss-schreinerei-gmbh-ittigen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine traumhafte Küche und von Anfang bis Ende mit viel Liebe zum Detail ausgeführt! Wir sind mit dem Ergebnis mehr als zufrieden! Vielen Dank 🙏",
+        "time": 1666201452,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fatma Ciftci",
+        "author_photo": "/images/reviews/joss-schreinerei-gmbh-ittigen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729518229,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

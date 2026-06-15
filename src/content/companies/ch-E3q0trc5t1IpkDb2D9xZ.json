@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJUzYppS6JmkcRIMEsg7GkPVI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 48,
+    "reviews": [
+      {
+        "author_name": "Gustav Wichert",
+        "author_photo": "/images/reviews/zimmermann-baustoffe-ek-oehningen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, schnell, lokal und immer eine Lösung parat!\nEgal was man für Bau- und Garten braucht, Sie finden es hier. Und wenn es mal nicht Vorort ist, wird es bestellt. Man wird informiert wann die Lieferung kommt, und kann so perfekt planen.\nUnd dabei spielt es keine Rolle ob man einen Sack erde kauft oder eine komplette Mauer (Steine und Beton ) jeder wird gleich und gut behandelt.\n\nTolles, sympathisches Team mit viel Fachwissen!\n\nSchön das es euch gibt!",
+        "time": 1617206193,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fabian Litterst",
+        "author_photo": "/images/reviews/zimmermann-baustoffe-ek-oehningen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetentes Personal und tolles Sortiment",
+        "time": 1765545596,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Markus Sporrer",
+        "author_photo": "/images/reviews/zimmermann-baustoffe-ek-oehningen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ja sehr nette und kompetentes Personal.",
+        "time": 1753649364,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Mike Verstegge",
+        "author_photo": "/images/reviews/zimmermann-baustoffe-ek-oehningen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nach telefonischer Absprache abladen aufm Samstag möglich, dann ging es auch noch sehr schnell, und dann wurde mir noch ein Kaffee angeboten. Top, super Service, dann komm ich gern wieder...",
+        "time": 1658658029,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Totila Storch",
+        "author_photo": "/images/reviews/zimmermann-baustoffe-ek-oehningen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich kann das Team von Zimmermann Baustoffe in Öhningen nur bestens empfehlen. Wir sind gerade am Küche umbauen, und wir haben vom Grundputz her alles selber gemacht und Dank der super Beratung von Armin, Marc und Mia ist unser Projekt langsam aber sicher gelungen. Wirklich eine gute Beratung in allen Belangen. Egal ob Material oder auch Vorgehensweise. Vielen Dank dafür. Und auch ein riesen Lob an die unkomplizierte Abwicklung bzgl. Material Kauf und Rückgabe .\n\nIch werde wieder kommen und die Nerven des Personals strapazieren, und ich bin mir sicher, dass ich wieder ganz viele Nette Antworten bekomme.",
+        "time": 1660195359,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

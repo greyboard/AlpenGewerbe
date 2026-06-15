@@ -26,5 +26,31 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJR2G3UpDpmkcRFvTFi4aETTA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Karin Niklaus",
+        "author_photo": "/images/reviews/hess-parkett-bodenbelaege-zuzwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren sehr zufrieden mit der Arbeit bei unserem Umbau und dem Verlegen der neuen Holzterasse.\nWir würden Hess Parkett+Bodenbeläge weiterempfehlen.",
+        "time": 1775928988,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

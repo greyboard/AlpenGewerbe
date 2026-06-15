@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJeTYQ1SgXj0cRKWn6m3HCKqM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "edwin hildbrand ag",
+        "author_photo": "/images/reviews/amacker-holzbau-ag-turtmann/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei der Amacker AG ist nichts unmöglich, denn im Elementbau ist alles möglich. Vom Fassadenbau bis zur allgemeinen Zimmerei arbeitet Michel und sein Team mit viel Leidenschaft und das auf höchstem Level.\nDie Amacker AG ist stets empfehlenswert.\nDanke Michel für die Zusammenarbeit!",
+        "time": 1650964992,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Nici",
+        "author_photo": "/images/reviews/amacker-holzbau-ag-turtmann/reviewer_2.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1669917658,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Julia Blöchlinger",
+        "author_photo": "/images/reviews/amacker-holzbau-ag-turtmann/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1659793788,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Denis Sterren",
+        "author_photo": "/images/reviews/amacker-holzbau-ag-turtmann/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1718086051,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dominique Schnidrig",
+        "author_photo": "/images/reviews/amacker-holzbau-ag-turtmann/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1601979594,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

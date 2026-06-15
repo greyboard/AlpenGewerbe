@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJOd3MwYLxj0cRluw0r4Pb3v4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Jenna schmid",
+        "author_photo": "/images/reviews/krummenacher-sanitaer-ag-kaegiswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Stets sehr gute Beratung durch das gesamte Team. Der Kontakt mit Herrn Windlin und Herrn Schelbert ist kompetent, schnell und zuverlässig. Absolut empfehlenswert.",
+        "time": 1770294163,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Thomas Riedi",
+        "author_photo": "/images/reviews/krummenacher-sanitaer-ag-kaegiswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr guter Sanitär Installateur, gutes Preis- Leistungsverhältnis, beim Umbau alle Termine eingehalten, sehr freundliche Mitarbeiter, sehr professionell, gute Arbeitsvorbereitung, sehr gute Ideen eingebracht",
+        "time": 1651124947,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Vreni Odermatt",
+        "author_photo": "/images/reviews/krummenacher-sanitaer-ag-kaegiswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service, empfehlenswert.\nBesten Dank",
+        "time": 1726547935,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Mueller",
+        "author_photo": "/images/reviews/krummenacher-sanitaer-ag-kaegiswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1584301104,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

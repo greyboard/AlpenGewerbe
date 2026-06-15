@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ78Sy3ji4kUcRCYQpBLUiRa4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 145,
+    "reviews": [
+      {
+        "author_name": "Remo Amrein",
+        "author_photo": "/images/reviews/by-wood-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich möchte ein grosses Lob aussprechen!\nHerr Joel Egli und Herr Berke Cavuldak haben bei mir die Fugenarbeiten ausgeführt – äusserst kompetent, freundlich und mit hervorragender Qualität.\nBeide haben sehr sauber und präzise gearbeitet. So wünscht man sich Handwerker!\n\nVielen Dank für die tolle Arbeit – absolut empfehlenswert!",
+        "time": 1762879667,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Serkan Subas",
+        "author_photo": "/images/reviews/by-wood-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein kompetentes Team von Fachleuten. Fachgerechte Beratung und Zeitlich absolut zuverlässig.\nIch fühlte mich in jeder Etappe gut aufgehoben. Die Arbeiten wurden präzise und sauber ausgeführt!\nBesten Dank an das gesamte Team!",
+        "time": 1749153795,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yunus",
+        "author_photo": "/images/reviews/by-wood-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben Bilgay zusammen eine super Lösung gefunden. Ich wurde stets kompetent beraten.\nSchnelle, kompakte Lösungen. Offene und transparente Beratung. Geht auch sehr flexibel auf Wünsche ein und kann mit seiner Erfahrung seine eigene Perspektive schildern.\nImmer wieder gerne!",
+        "time": 1748854426,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Muhammet Yilmaz",
+        "author_photo": "/images/reviews/by-wood-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe bei mir zu Hause einen Geschirrspüler in die Küche einbauen lassen.\nIch bin sehr zufrieden mit der geleisteten Arbeit – es wurde sehr sauber und genau gearbeitet.\nIch würde die By Wood Schreinerei weiterempfehlen.\nAusserdem hat die Firma sehr freundliche und hilfsbereite Mitarbeiter.\n\nVielen Dank By Wood",
+        "time": 1748679207,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ferhat Temizel",
+        "author_photo": "/images/reviews/by-wood-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben uns von der Schreinerei By Wood GmbH in Basel mehrere massgefertigte Tische anfertigen lassen und sind mehr als zufrieden! Die Beratung war von Anfang an kompetent und freundlich. Unsere Wünsche wurden nicht nur berücksichtigt, sondern mit tollen Ideen ergänzt.\n\nDanke By Wood für die tolle Arbeit.!\n\nSiehe Foto",
+        "time": 1749143606,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

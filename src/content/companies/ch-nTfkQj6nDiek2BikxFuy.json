@@ -26,5 +26,22 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-WNKEkf3j0cRR-_mtQhQZ54",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Kalem Mevludin",
+        "author_photo": "/images/reviews/riggione-ag-stansstad/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Einfach nur geil, sollte jeder mal hin",
+        "time": 1650727588,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJFWRoTW08kEcR6OX5XQw-Bw0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 60,
+    "reviews": [
+      {
+        "author_name": "ali garakani",
+        "author_photo": "/images/reviews/bircher-ag-maler-gipser-suhr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Bircher wurde mir vom Nachbar empfohlen. Die  ganze Fassade des Einfamilienhauses wurde renoviert. Professionell, zuvorkommend und verlässlich, kann die Firma sehr gerne empfehlen.",
+        "time": 1712306585,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Swisstec Power",
+        "author_photo": "/images/reviews/bircher-ag-maler-gipser-suhr/reviewer_2.jpg",
+        "rating": 2,
+        "text": "Am Mittwoch 14. Mai 2025 die Firma Bircher AG telefonisch kontaktiert für ein Angebot Gipser- und Malerarbeiten (Wasserschaden im Disponibel). Die Dame am Telefon hat mir zugesichert, dass der Projektleiter mich anrufen wird. Nun ist über eine Woche vergangen und ich habe nichts mehr gehört. Heute habe ich die Firma Grundmann kontaktiert und der Bauleiter war innerhalb von 3 Stunden vor Ort. Das nenne ich einen Kundenservice!",
+        "time": 1747935004,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michael Kissling",
+        "author_photo": "/images/reviews/bircher-ag-maler-gipser-suhr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "So sieht gute Arbeitsqualität aus. Zum Glück wurde ich auf die Firma Bircher AG aufmerksam.\nDie Offerten waren verständlich und die Arbeiten wurden pünktlich und sorgfältig ausgeführt. Der Projektleiter C. B. bleibt mir auch in besonders guter Erinnerung: Ein echter Profi in seinem Gebiet!",
+        "time": 1727959040,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Isabelle Tschopp",
+        "author_photo": "/images/reviews/bircher-ag-maler-gipser-suhr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe meine Küche neu verputzen lassen. Top Arbeit. !!! Pünktlich, sehr speditiv und was für mich ganz wichtig war, es wurde alles sehr sauber und ordentlich hinterlassen.\nToller Mitarbeiter dem wir blind vertrauen konnten.\nMein Partner und ich sind absolut begeistert....👍\nWerden dieses Unternehmen gerne weiter empfehlen.",
+        "time": 1692803748,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Rebekka Meier",
+        "author_photo": "/images/reviews/bircher-ag-maler-gipser-suhr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetent und Zuverlässig ! Familiäre Firma, daher kümmert sich dieselbe Person um die verschiedenen Anliegen und man kennt die Kundschaft. Arbeiten werden super erledigt, Wohnung sauber abgedeckt und geschützt. Jederzeit gerne wieder.",
+        "time": 1700564004,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

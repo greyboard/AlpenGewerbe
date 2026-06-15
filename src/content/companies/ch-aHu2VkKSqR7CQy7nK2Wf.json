@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJExQHfsiGmkcRnsZzNGFGSlA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Corinne Pletscher",
+        "author_photo": "/images/reviews/gipser-art-gmbh-diessenhofen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, sehr sauber, immer aufgeräumt, freundlich und kompetent.",
+        "time": 1540322517,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "meister aller Klassen Chakie Chan",
+        "author_photo": "/images/reviews/gipser-art-gmbh-diessenhofen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellent 👍",
+        "time": 1575636054,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Gani Petrova",
+        "author_photo": "/images/reviews/gipser-art-gmbh-diessenhofen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnet",
+        "time": 1574963031,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Jörn Willi",
+        "author_photo": "/images/reviews/gipser-art-gmbh-diessenhofen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597143874,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniel Mülhaupt",
+        "author_photo": "/images/reviews/gipser-art-gmbh-diessenhofen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1757588511,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

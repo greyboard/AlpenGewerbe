@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJW8gMDJERj0cRBvH0oRvSsu8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Beatrice Enderlin-Ebener",
+        "author_photo": "/images/reviews/mountain-electro-gmbh-wiler-loetschen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service, keine lange Wartezeit, Manuel kam innerhalb 30 Min. Super, Fehler schnell gefunden und repariert. Der Boiler läuft wieder, Danke.\nMountain Elektro GmbH ist nur weiter zu empfehlen",
+        "time": 1714987127,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lukas Kalbermatten",
+        "author_photo": "/images/reviews/mountain-electro-gmbh-wiler-loetschen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Als Geschäftskunde (Hotel und Restaurant) sind wir auf einen flexiblen Partner für Elektro-Fragen angewiesen. Neben der laufenden und planbaren Erneuerung der Infrastruktur sind auch betriebes- und störungsbedingte Interventionen nötig. Für beides sind Patrick und Manuel unsere zuverlässigen Partner. Wir danken Ihnen für die stets zeitnahe und kompetente Arbeit und können Sie für alle Bereiche der Elektroinstallation bestens Empfehlen.\nLukas Kalbermatten, Gastgeber",
+        "time": 1661521481,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marcel Städler",
+        "author_photo": "/images/reviews/mountain-electro-gmbh-wiler-loetschen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Einfach die besten und zuvorkommendsten...",
+        "time": 1726478598,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jasmine Blötzer",
+        "author_photo": "/images/reviews/mountain-electro-gmbh-wiler-loetschen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Zwei großartige Elektriker, die ihr Handwerk verstehen 👍",
+        "time": 1644769741,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Dominik Rieder",
+        "author_photo": "/images/reviews/mountain-electro-gmbh-wiler-loetschen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1772903219,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJgRWLmeyfmkcRf3_Acf-93eg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 79,
+    "reviews": [
+      {
+        "author_name": "Mathias",
+        "author_photo": "/images/reviews/glasblitz-gmbh-kloten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Juchli hat uns sehr kompetent beraten und die Glastüre wie gewünscht geliefert. Wir sind sehr zufrieden und freuen uns jeden Tag über die schöne Duschtüre.",
+        "time": 1770671365,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jessica Akay",
+        "author_photo": "/images/reviews/glasblitz-gmbh-kloten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert von der Arbeit der Glasblitz GmbH! Remo war von Anfang an extrem zuvorkommend, freundlich und professionell. Die Ausführung war nicht nur schnell, sondern auch unglaublich effizient – man merkt sofort, dass hier jemand mit Erfahrung und echter Kompetenz am Werk ist.\n\nBesonders beeindruckt hat mich seine Zuverlässigkeit: Absprachen wurden exakt eingehalten und alles lief reibungslos. Die Qualität der Arbeit ist top und das Ergebnis spricht für sich.\n\nKann ich wirklich von Herzen weiterempfehlen. Vielen Dank für den tollen Service! Im Name der Dance Vibes by Jessy Tänzerinnen& Tänzer, danke!",
+        "time": 1776946771,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Olivia Lütolf",
+        "author_photo": "/images/reviews/glasblitz-gmbh-kloten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit! Unser zerbrochener Swarovski Stern wurde perfekt repariert, als wäre nie etwas passiert. Sehr professionell & zuverlässig. Vielen Dank, die Freude ist gross🙏🏻⭐️.",
+        "time": 1770317806,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "René Huber",
+        "author_photo": "/images/reviews/glasblitz-gmbh-kloten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Perfekter Service - speditive und kompetente Abwicklung des Auftrags - fachmännische und saubere Montage - Das Unternehmen \"Glasblitz GmbH\" ist bestens zu empfehlen... - gerne auf ein nächstes Mal... Besten Dank. René Huber",
+        "time": 1772700447,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Andrea Nicole Lagona",
+        "author_photo": "/images/reviews/glasblitz-gmbh-kloten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Der Name ist hier Programm: Die Lieferung meiner Glasplatte ging blitzschnell! Besonders beeindruckt hat mich die extrem unkomplizierte Auftragsabwicklung – in der heutigen Zeit ist so ein reibungsloser Ablauf wirklich eine Seltenheit. Die Glasplatte ist tadellos verarbeitet und der Preis für eine Massanfertigung absolut fair. Ich werde Glasblitz im Freundeskreis auf jeden Fall weiterempfehlen und bei Bedarf definitiv wieder hier bestellen!",
+        "time": 1770490940,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

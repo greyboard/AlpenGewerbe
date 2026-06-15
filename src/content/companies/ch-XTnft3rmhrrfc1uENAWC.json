@@ -1,7 +1,7 @@
 {
   "id": "ch-XTnft3rmhrrfc1uENAWC",
   "slug": "kessler-gips-herisau",
-  "name": "Kessler Gips",
+  "name": "Kessler Gips AG",
   "branchen": [
     "gipser"
   ],
@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJST-8dC3emkcRu6wBTvYVYdM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–12:15 Uhr, 13:45–17:30 Uhr",
+    "Dienstag: 08:30–12:15 Uhr, 13:45–17:30 Uhr",
+    "Mittwoch: 08:30–12:15 Uhr, 13:45–17:30 Uhr",
+    "Donnerstag: 08:30–12:15 Uhr, 13:45–17:30 Uhr",
+    "Freitag: 08:30–12:15 Uhr, 13:45–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Helen Welz",
+        "author_photo": "/images/reviews/kessler-gips-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Kessler Gips AG hat bei unserem Hausumbau sehr gute Arbeit geleistet. Die Qualität war hervorragend – klare Empfehlung!",
+        "time": 1779116753,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Adrian Bürgi",
+        "author_photo": "/images/reviews/kessler-gips-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Kessler Gips AG können wir wärmstens weiterempfehlen.\n\nBeratung, Kommunikation, Absprachen, Abmachungen unkompliziert und stets zu 100% verlässlich. Die Ausführung sauber und einfach top!\n\nDanke Christoph (Koordination, Kommunikation, Organisation, Materialbereitstellung); danke Dani (ausführender Gipser)!",
+        "time": 1661250166,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Remo Hungerbühler",
+        "author_photo": "/images/reviews/kessler-gips-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, sehr gute Qualität, super freundlich und mit toller Beratung von Anfang bis Ende. Vielen Dank für euren Einsatz!\n\nLiebe Grüsse, Remo",
+        "time": 1736115051,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "B L",
+        "author_photo": "/images/reviews/kessler-gips-herisau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben Kessler Gips mit unserem Umbauprojekt betraut. Von der ersten Besprechung bis zur Betreuung nach Abschluss waren wir sehr zufrieden mit der Beratung und der Ausführung. Das ganze Team ist sehr kompetent, pflichtbewusst und freundlich. Preis / Leistung wirklich top. Wir können Kessler Gips jederzeit und jedem weiterempfehlen.",
+        "time": 1580298910,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Eduard Stillhard-Stillhart",
+        "author_photo": "/images/reviews/kessler-gips-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetentes Gips-Geschäft mit kompetenter Beratung und sehr gutem Preis-Leistungsverhältnis. Renovation STWEG-Wohnung 2023: Wände, Durchgang verschliessen, Einbau einer Nische...\nVon der Datenaufnahme, Beratung bis zur Realisierung, hat alles termingerecht und in hoher Effizent und Qualität geklappt. Danke & macht weiter so!",
+        "time": 1683017271,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

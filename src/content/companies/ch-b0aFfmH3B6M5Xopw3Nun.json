@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJY5fcs3NghUcRE0wCuCNInV0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Michael Hofstetter",
+        "author_photo": "/images/reviews/elektro-kuster-ag-engelberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service Herr Matter war super freundlich und kompetent.",
+        "time": 1703964597,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "D. „Nick74“ K.",
+        "author_photo": "/images/reviews/elektro-kuster-ag-engelberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein Anruf und unkompliziert ausgeführt.\nBesten Dank",
+        "time": 1716099151,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ronja Mantel",
+        "author_photo": "/images/reviews/elektro-kuster-ag-engelberg/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Sehr freundlich und schnell! Danke, gerne wieder.",
+        "time": 1613243503,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marc Haerdi",
+        "author_photo": "/images/reviews/elektro-kuster-ag-engelberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Alle sehr nett und gutes Prei/Leistung Verhältnis. 👍",
+        "time": 1568448162,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marija Sosic Lorenz",
+        "author_photo": "/images/reviews/elektro-kuster-ag-engelberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "super schnelle augtragserledigung",
+        "time": 1582884848,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

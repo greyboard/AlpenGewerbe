@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJEWDnjAUfm0cRBGV_Cqlo8KY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Donkillphil",
+        "author_photo": "/images/reviews/mts-metallbaubeschlaege-filiale-st-gallen-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service, Schloss vor Ort repariert. Einfach Top",
+        "time": 1764846060,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "rick storm",
+        "author_photo": "/images/reviews/mts-metallbaubeschlaege-filiale-st-gallen-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, super Beratung und top Service. Werde bei Beschlagstechnischen Anliegen nur noch zur MTS kommen.",
+        "time": 1696855479,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Henry Brunschweiler",
+        "author_photo": "/images/reviews/mts-metallbaubeschlaege-filiale-st-gallen-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Der sensationellen Service und die Fachkompetenz haben mich beeindruckt! Es wird alles versucht, um das Problem (ein altes Schloss) zu lösen, selbst wenn die Mittagspause ansteht. Vielen Dank für euer Engagement, dass ist echter Dienst am Kunden!",
+        "time": 1778156608,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

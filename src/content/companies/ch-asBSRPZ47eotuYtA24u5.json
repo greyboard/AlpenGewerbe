@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJzRHoIqg-kEcRcmo5_4g4Xok",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 71,
+    "reviews": [
+      {
+        "author_name": "Daniel Oehler",
+        "author_photo": "/images/reviews/kurt-vorburger-ag-rohr/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei unserem Wärmepumpenprojekt mit Erdsonden hat uns die Firma Vorburger bestens beraten, das Projekt sehr kompetent geplant, es professionell und unkompliziert umgesetzt. Dazu gehörte auch die Koordination aller beteiligten Drittfirmen und der sorgfältige Umgang mit unseren älteren Haus und den teilweise engen Platzverhältnissen. Und letztlich passte auch der Preis bestens.",
+        "time": 1762098790,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Eveline Ackermann",
+        "author_photo": "/images/reviews/kurt-vorburger-ag-rohr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Oelheizung ist jetzt durch eine Wärmepumpenheizung ersetzt. Die Arbeiten wurden sehr gut koordiniert und alles hat perfekt geklappt. Die Mitarbeiter waren sehr freundlich, zuverlässig und äusserst kompetent und hilfsbereit. Sehr geschätzt habe ich, dass ich mich bei Fragen jederzeit an die entsprechenden Personen wenden konnte, die meine Anliegen ernst genommen haben und diese zeitnah bearbeitet haben.\nDie neue Heizung konnte pünktlich in Betrieb genommen werden und funktioniert bestens. Ich kann die Firma Vorburger AG sehr empfehlen.",
+        "time": 1760078748,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Christian Schirlo",
+        "author_photo": "/images/reviews/kurt-vorburger-ag-rohr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nette und kompetente Beratung; professionelle Begleitung der Erneuerung der Heizungsanlage; sehr zu empfehlen.",
+        "time": 1766402782,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "do to",
+        "author_photo": "/images/reviews/kurt-vorburger-ag-rohr/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wow!! Wir sind zu 100% zufrieden!! TOP SERVICE: superschnelles Vorbeikommen, inkl. sofortiger Problemlösung!! Plus ein effizienter & äusserst netter Monteur!! Vielen Dank 🙏🍀🙏",
+        "time": 1775640831,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Jürg Gasser",
+        "author_photo": "/images/reviews/kurt-vorburger-ag-rohr/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei Ersatz Gasheizung durch Luft-Wasser-Wärmepumpe beste Erfahrungen gemacht. Professionelle Arbeit vor Ort, Termine alle eingehalten und sehr freundliche Verwaltung. Können wir nur weiterempfehlen!",
+        "time": 1737125274,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

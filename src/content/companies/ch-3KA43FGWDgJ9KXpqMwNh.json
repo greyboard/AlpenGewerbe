@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJCbpr4WwLkEcRy3psRpLPCrU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Alex Holst",
+        "author_photo": "/images/reviews/glas-mag-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit war sehr angenehm und das Team arbeitet professionell, sauber und schnell. Die Kommunikation war immer klar und zuverlässig. Wir sind sehr zufrieden und können die Firma Glas Mark auf jeden Fall weiterempfehlen!",
+        "time": 1756965641,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Adelon Zimberi",
+        "author_photo": "/images/reviews/glas-mag-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service und Qualität bei Glasmag\n\nIch habe vor kurzem eine Badschiebetüre von Glasmag montieren lassen und bin rundum zufrieden. Vom ersten Kontakt bis zur finalen Montage lief alles reibungslos. Das Team von Glasmag war nicht nur äußerst professionell, sondern auch sehr reaktionsschnell und ging auf all meine Wünsche ein. Die Qualität der Arbeit und der Produkte ist erstklassig. Ich kann Glasmag jedem wärmstens empfehlen, der Wert auf exzellenten Service und hochwertige Glastüren legt.",
+        "time": 1720447464,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dési Haas",
+        "author_photo": "/images/reviews/glas-mag-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fantastischer Service! Katzentüre schnell eingesetzt, sehr freundliche Mitarbeiter! Wir sind super zufrieden👌🏻",
+        "time": 1707766879,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stefano Lorini",
+        "author_photo": "/images/reviews/glas-mag-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetente Angestelte Super Beratug genae massaufnahme und rasche Lieferung angemmessene  Preise  DANKE viel Mal\nMAG Glas Stefano Lorini",
+        "time": 1675380166,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Vani 30",
+        "author_photo": "/images/reviews/glas-mag-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolles Team. Super Service und sehr kompetent!",
+        "time": 1650909279,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

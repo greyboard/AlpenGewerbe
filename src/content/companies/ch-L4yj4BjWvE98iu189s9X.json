@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO1X8GOvrmkcR6QmyADUT1Ps",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "layla",
+        "author_photo": "/images/reviews/hagmann-bodenbelaege-wil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hagmann, Daniel von Hagmann Bodenbeläge hat bei uns Parkettböden verlegt und die Treppen neu mit Teppich ausgekleidet. Die Arbeit war sehr sauber, schnell und professionell. Besonders geschätzt haben wir seine guten Ideen und die angenehme, rücksichtsvolle Arbeitsweise in bewohnten Räumen. Klare Empfehlung!",
+        "time": 1768421136,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Lukas Keller",
+        "author_photo": "/images/reviews/hagmann-bodenbelaege-wil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Stubenboden durch Hagmann Bodenbeläge Wil auffrischen lassen und sind mit dem Ergebniss sehr zufrieden. Vielen Dank für die tolle Arbeit!",
+        "time": 1768498690,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Roland Spenger",
+        "author_photo": "/images/reviews/hagmann-bodenbelaege-wil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden Arbeit tipptopp immer wieder. Danke  gerne wieder!!!!!",
+        "time": 1763128327,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Paul Müller",
+        "author_photo": "/images/reviews/hagmann-bodenbelaege-wil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Hagmann hat die Reparaturarbeiten in zwei Zimmern bei uns zu unserer vollsten Zufriedenheit ausgeführt. Speditiv, sauber und Qualitativ vom Feinsten.",
+        "time": 1762419803,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Tobias Hanselmann",
+        "author_photo": "/images/reviews/hagmann-bodenbelaege-wil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute und sorgfälltige Arbeit.Unser Badezimmerboden wurde sehr schön.Ich danke Ihnen Herr Hagmann.",
+        "time": 1763197433,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

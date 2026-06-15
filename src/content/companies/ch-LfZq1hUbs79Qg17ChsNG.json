@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJw_WvvMA5jkcR_CHXXPgZp8Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "mrkrebs15",
+        "author_photo": "/images/reviews/rehag-glas-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und kompetente Beratung von Anfang an, besonders die nette Beratung hat uns gefallen. Die Glasplatte für unseren Salontisch wurde genau nach Wunsch gefertigt und passt perfekt. Qualität und Verarbeitung sind sehr gut, der gesamte Ablauf war unkompliziert. Können die Glasfirma auf jeden Fall weiterempfehlen.",
+        "time": 1767806210,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Jaser Mustafi",
+        "author_photo": "/images/reviews/rehag-glas-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe für meinen Kamin eine maßgefertigte Glasplatte bei Rehag Glas anfertigen lassen und bin sehr zufrieden. Die Beratung war freundlich, die Herstellung präzise und die Lieferung pünktlich. Das Glas passt perfekt und sieht hochwertig aus. Ich kann Rehag Glass weiterempfehlen.",
+        "time": 1764109448,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Fatlind Isufi",
+        "author_photo": "/images/reviews/rehag-glas-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "REHAG GLAS GmbH wurde mir empfohlen – und ich wurde nicht enttäuscht.\nZuverlässigkeit, Freundlichkeit und eine saubere Ausführung zeichnen das Unternehmen aus.\n\nWas mir versprochen wurde, wurde exakt so umgesetzt.\n\nDie Kommunikation war stets freundlich und zuvorkommend, die Arbeit vorbildlich ausgeführt.\n\nIch kann REHAG GLAS GmbH mit gutem Gewissen weiterempfehlen.",
+        "time": 1750522470,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Eternité Afonso",
+        "author_photo": "/images/reviews/rehag-glas-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Einer Sehr Kompetente und Kundenorientiertes Unternehme,Emphele ich nur Weiter👍🏾.",
+        "time": 1731504512,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "BAFTJAR JUSUFI",
+        "author_photo": "/images/reviews/rehag-glas-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1731508496,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

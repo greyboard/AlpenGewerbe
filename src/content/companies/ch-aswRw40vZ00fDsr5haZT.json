@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAWtWRr3LhEcRi5WC49X0PS4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Chri Wiel",
+        "author_photo": "/images/reviews/burkhardt-gebaeudehuelle-ag-maienfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut kompetente Beratung und qualitativ exzellente Ausführung. Würden wir auf alle Fälle weiterempfehlen 👍",
+        "time": 1719676143,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andy Fisher",
+        "author_photo": "/images/reviews/burkhardt-gebaeudehuelle-ag-maienfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einer der besten Dachdecker Unternehmen in der Schweiz",
+        "time": 1601059603,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roland Nowak",
+        "author_photo": "/images/reviews/burkhardt-gebaeudehuelle-ag-maienfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Alles Super",
+        "time": 1528993183,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Tony Murdaca",
+        "author_photo": "/images/reviews/burkhardt-gebaeudehuelle-ag-maienfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Seriöses Unternehmen, sehr wettbewerbsfähige Italiener, die dort arbeiten",
+        "time": 1546549997,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Baukultur Graubünden GmbH",
+        "author_photo": "/images/reviews/burkhardt-gebaeudehuelle-ag-maienfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1779391427,
+        "relative_time_description": "vor 3 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

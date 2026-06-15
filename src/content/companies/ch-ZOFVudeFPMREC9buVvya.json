@@ -26,5 +26,39 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJAYbdxMS5kUcRkr8ah0dxqiM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Tonia Wynona",
+        "author_photo": "/images/reviews/baslertech-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Äusserst freundlich, sehr professionell und unglaublich handwerklich begabt! Wir empfehlen Hasanitär wärmstens!",
+        "time": 1695833246,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "G P",
+        "author_photo": "/images/reviews/baslertech-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die absolute Nummer 1, für alle Sanitärarbeiten!\nSehr freundlicher und schneller Kontakt, dazu perfekte Ausführung der Arbeiten, zu einem fairen Preis!",
+        "time": 1775734317,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

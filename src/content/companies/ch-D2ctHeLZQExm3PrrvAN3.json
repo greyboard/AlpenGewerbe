@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_0O5TIZ6jkcR_pYjSXftS1M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "Nicolas Descloux",
+        "author_photo": "/images/reviews/parcs-et-jardins-r-krattinger-s-a-lentigny-fr/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Travailler les jours fériés avec des machines bruyantes dans une zone résidentielle c'est faire bien peu d'égards envers les habitants.\nMerci d'en prendre bonne note et  de rectifier à l'avenir.\nNicolas Descloux\nRte de l'Ecole 15\n1753 Matran",
+        "time": 1716185567,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sebastien Tombez",
+        "author_photo": "/images/reviews/parcs-et-jardins-r-krattinger-s-a-lentigny-fr/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr angesehenes Unternehmen, das alles tut, um seine Kunden zufrieden zu stellen.",
+        "time": 1726744763,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrice Keller",
+        "author_photo": "/images/reviews/parcs-et-jardins-r-krattinger-s-a-lentigny-fr/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Beratung, originelles Design, das den Wünschen und dem Geschmack des Kunden entsprach, und sorgfältige Ausführung.",
+        "time": 1562794359,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "jacqueline Débieux",
+        "author_photo": "/images/reviews/parcs-et-jardins-r-krattinger-s-a-lentigny-fr/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Trotz mehrerer Kontaktversuche per E-Mail und Telefon keine Reaktion. Absolut katastrophaler Kundenservice…",
+        "time": 1619526114,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Zbigniew Miś",
+        "author_photo": "/images/reviews/parcs-et-jardins-r-krattinger-s-a-lentigny-fr/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Schnelle, effiziente Mitarbeiter mit umfassender Erfahrung – ich empfehle sie.",
+        "time": 1639209321,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,55 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ28eptUZOhUcRjxyBosu0VYQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–17:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Roger",
+        "author_photo": "/images/reviews/elektro-kessler-gmbh-schwyz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert! Sehr freundliche Mitarbeiter, zuverlässig, seriös und fachlich top. Man fühlt sich gut beraten und merkt sofort, dass hier Profis am Werk sind. Unser Hauselektriker des Vertrauens – jederzeit wieder!",
+        "time": 1770216822,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "fabian mettler",
+        "author_photo": "/images/reviews/elektro-kessler-gmbh-schwyz/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Arbeiter Daniel Müller fährt rücksichtslos mit dem Firmenauto, ja mit Reklame drauf, kennt die Regeln nicht bei einspurigen Strassen und macht mit einem sehr unfreundlichen Blick eindeutige, unfreundliche Gesten. Solche Taten repräsentieren leider auch das Unternehmen nicht gut.",
+        "time": 1770122899,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Joerg Nickel",
+        "author_photo": "/images/reviews/elektro-kessler-gmbh-schwyz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr guter Service pünktlich tip top",
+        "time": 1610991425,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Erich Suter",
+        "author_photo": "/images/reviews/elektro-kessler-gmbh-schwyz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1574176403,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

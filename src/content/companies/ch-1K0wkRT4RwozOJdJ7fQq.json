@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJE0E-iDS4kUcR8yGTsoZMUlc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 08:00–13:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Matthias Schreyvogel",
+        "author_photo": "/images/reviews/top-quartierelektriker-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "\"Ich schätze die herausragende Qualität des Services, die schnelle Abwicklung und die außergewöhnliche Freundlichkeit des Teams sehr. Dieser Service entspricht genau meinen Ansprüchen und hinterlässt bei mir stets einen äußerst positiven Eindruck.\"",
+        "time": 1694002545,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Francois Hess",
+        "author_photo": "/images/reviews/top-quartierelektriker-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die To Quartierelektriker hat bei uns eine Wallbox für unser Elektroauto installiert. Das Installationsteam war pünktlich, kompetent und freundlich. Sie erklärten jeden Schritt, prüften die Installationsbedingungen sorgfältig und sorgten für eine schnelle und saubere Installation. Nach der Installation lief alles reibungslos, und die Bedienung der Wallbox wurde mir ausführlich erklärt.\n\nIch bin mit meiner Wallbox sehr zufrieden. Für jeden, der einen kompetenten Elektriker benötigt, ist dieser Anbieter eine klare Empfehlung.",
+        "time": 1707315822,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Semi Hannafi",
+        "author_photo": "/images/reviews/top-quartierelektriker-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fairer Preis und Top Service. Der Monteur war pünktlich, arbeitete sauber und war äusserst freundlich. QE wird gerne weiterempfohlen!",
+        "time": 1658407093,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Laurent Facqueur",
+        "author_photo": "/images/reviews/top-quartierelektriker-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden schnell und sauber ausgeführt. Auch der vereinbarte Preis wurde eingehalten.",
+        "time": 1641890508,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "skankzzz",
+        "author_photo": "/images/reviews/top-quartierelektriker-basel/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Frechheit was diese Firma für Versprechungen hält die nicht eingehalten werden ich empfehle keinem diese Firma für grössere Arbeiten.",
+        "time": 1697732820,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

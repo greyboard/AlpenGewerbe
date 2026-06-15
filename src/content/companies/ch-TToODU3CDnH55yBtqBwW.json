@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJmWJUD1WhhEcRJvXiM5zXDXw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Christoph Scheidegger",
+        "author_photo": "/images/reviews/caviezel-ag-davos-platz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Service durch Herr Martin Noya.\nÄusserst integre Persönlichkeit",
+        "time": 1721145386,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Teamon",
+        "author_photo": "/images/reviews/caviezel-ag-davos-platz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Beste ICT, Telematik und Elektroservices in Davos 👌",
+        "time": 1736260218,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pascal Meisser",
+        "author_photo": "/images/reviews/caviezel-ag-davos-platz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Zuverlässig und kompetent.",
+        "time": 1669487046,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Günther Ketterer",
+        "author_photo": "/images/reviews/caviezel-ag-davos-platz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Elektriker in Davos",
+        "time": 1672847647,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lina Brooks",
+        "author_photo": "/images/reviews/caviezel-ag-davos-platz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir hatten eine wirklich tolle Erfahrung mit Martin N. von der Firma. Was als kleiner Elektroauftrag in unserem Ferienhaus in Davos begann, entwickelte sich zu einem viel größeren Projekt als ursprünglich erwartet. Martin war dabei unglaublich hilfsbereit. Er stellte stets sicher, dass er unsere Wünsche verstand, überprüfte Details doppelt und machte sogar durchdachte und clevere Vorschläge, wie man die Arbeiten noch besser ausführen könnte.\n\nSeine Arbeit war von sehr hohem Standard, und er hat sich weit über das Übliche hinaus engagiert, um sicherzustellen, dass alles einwandfrei erledigt wurde. Darüber hinaus war er ausgesprochen freundlich und sehr hilfsbereit. Wir waren sehr zufrieden damit, dass Martin unsere Elektroarbeiten übernommen hat, und würden ihn jederzeit weiterempfehlen.",
+        "time": 1744985642,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

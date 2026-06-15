@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_YP0AzQVkEcRSTSnypM63G8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Markus Egloff",
+        "author_photo": "/images/reviews/graf-haustechnik-ag-hausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit grosser Verspätung möchte ich mich bei der Firma Graf Haustechnik AG ganz herzlich bedanken für die super Planung und Umsetzung der Sanitärinstallationen bei unserem Neubau. Es hat alles bestens geklappt und Herr Schütz hat uns als Projektleiter zu jederzeit bestens beraten und betreut. Und Ali hat einen super Job gemacht bei der Installation. Leider kommt das Lob erst mit etwas Zeitverzug. Es ist mir heute in den Sinn gekommen, da ich den Ordner mit allen Unterlagen studiert habe, der mir am Schluss übergeben wurde. Eine perfekte Sammlung. Auch mit Hinweisen/Instruktionen zum fachgerechten Unterhalt der Installationen. Nochmals herzlichen Dank für alles. Ich wünsche weiterhin viel Erfolg und viele ebenso zufriedene Kunden, wie wir es sind.",
+        "time": 1772716050,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Christoph Stauffacher",
+        "author_photo": "/images/reviews/graf-haustechnik-ag-hausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Graf Haustechnik hat bei uns zwei Bäder saniert und dabei einen super Job gemacht. Wir wurden von der Konzeptionierung mit Markus Graf bis hin zum Endergebnis rundum kompetent beraten und betreut. Auch schätzten wir den proaktiven Austausch mit uns. Wir können Graf Haustechnik auf jeden Fall weiterempfehlen und werden zukünftige Arbeiten auch wieder mit Graf angehen.",
+        "time": 1746165771,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Etienne Steimer",
+        "author_photo": "/images/reviews/graf-haustechnik-ag-hausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Montage Dusche und Ventilator. Wir sind mit der Koordination durch Hrn. Graf und die Ausführungen von Hrn. Stöckler sehr zufrieden. Herr Graf hat sofort reagiert, als unser Spengler kurzfristig abgesprungen ist und hat schnell einen eigenen Holzbauer und Spengler organisiert. Herr Stöckler hat trotz schwierigen Bedingungen (Altbau), kompetent gearbeitet und uns über Schwierigkeiten und Lösungen orientiert. Vielen Dank!",
+        "time": 1718083200,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Samuel Bammert",
+        "author_photo": "/images/reviews/graf-haustechnik-ag-hausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Einfach schön, dass es noch Firmen wie Graf Haustechnik gibt, die mit gesundem Menschenverstand, fairen Preisen und vor allem professioneller und sauberer Arbeit ihre Arbeit tut. Man merkt auch, dass die Mitarbeiter zufrieden sind, muss ein guter Arbeitgeber sein...",
+        "time": 1653632442,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Simone",
+        "author_photo": "/images/reviews/graf-haustechnik-ag-hausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir waren äusserst zufrieden mit den Arbeiten von Edo.\nHerr Vieira ist sehr kompetent und hat uns sehr gut beraten.\n\nWir können die Firma Graf Haustechnik AG empfehlen.",
+        "time": 1703071767,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

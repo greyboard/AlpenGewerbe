@@ -26,5 +26,38 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJc9uFr6j7j0cR1QALHBGebss",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Slenderpuppy58 X312",
+        "author_photo": "/images/reviews/ruedi-distel-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top super Service und super arbeiter",
+        "time": 1579423346,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Roland Sembol",
+        "author_photo": "/images/reviews/ruedi-distel-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompitent und zuverlässsig",
+        "time": 1578558591,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Adriano „Rambo“ Brunetti",
+        "author_photo": "/images/reviews/ruedi-distel-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1495456288,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

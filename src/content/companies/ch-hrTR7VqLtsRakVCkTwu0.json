@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJZdgjkS4JjkcR3DnAPWcy1vI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Antonio Humberto Sousa",
+        "author_photo": "/images/reviews/ballif-sarl-cornaux/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Ich empfehle",
+        "time": 1628511624,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Guillaume Ballif",
+        "author_photo": "/images/reviews/ballif-sarl-cornaux/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1693073956,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

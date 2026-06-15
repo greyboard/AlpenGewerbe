@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ77x4emj9mkcR0JtSSuaHXzw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Peter Gsell",
+        "author_photo": "/images/reviews/buehler-bedachungen-und-bauspenglerei-ag-romanshorn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten schon viele Jahre mit der Firma Bühler zusammen. Bei den Kranarbeiten braucht es eine ruhige Hand und perfektes Arbeiten. So macht die Zusammenarbeit Spass. Vielen Dank für eure Einsätze.",
+        "time": 1580758232,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Pascal Reis",
+        "author_photo": "/images/reviews/buehler-bedachungen-und-bauspenglerei-ag-romanshorn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind mit den Arbeiten der Firma Bühler sehr zufrieden und hatten bei unserem Neubau nichts zu beanstanden. Der Kontakt war immer freundlich und zuvorkommend. Kann die Firma für Spenglerarbeiten und Bedachungen nur empfehlen.",
+        "time": 1499281030,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Marius Wüest",
+        "author_photo": "/images/reviews/buehler-bedachungen-und-bauspenglerei-ag-romanshorn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Dachfenster mit Beschattung, Perfekte Planung und Montage",
+        "time": 1728979200,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Susanna Siegrist",
+        "author_photo": "/images/reviews/buehler-bedachungen-und-bauspenglerei-ag-romanshorn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolles, nettes Team, kompetente Handwerker",
+        "time": 1519722896,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "roman puls",
+        "author_photo": "/images/reviews/buehler-bedachungen-und-bauspenglerei-ag-romanshorn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, Speditiv, gut und schnell!",
+        "time": 1691348854,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVzTS44mBmkcR9NhCQlQHdfA",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Zubler Ruedi",
+        "author_photo": "/images/reviews/hombi-malerarbeiten-inh-daniela-schoen-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit und sehr sympathisch. Einfach nur zu empfehlen.!\nAlles sauber aufgeräumter Arbeitsplatz tip top verlassen.\nDanke Ruedi & Christina",
+        "time": 1702410733,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Grit1804 Grit1804",
+        "author_photo": "/images/reviews/hombi-malerarbeiten-inh-daniela-schoen-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Beste Malerin die ich kenne. Sehr Professionell und arbeitet sehr zügig und sauber.",
+        "time": 1688123252,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michelle Schön",
+        "author_photo": "/images/reviews/hombi-malerarbeiten-inh-daniela-schoen-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753714953,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Patrick S",
+        "author_photo": "/images/reviews/hombi-malerarbeiten-inh-daniela-schoen-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1737109751,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Isodurn",
+        "author_photo": "/images/reviews/hombi-malerarbeiten-inh-daniela-schoen-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1737109576,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

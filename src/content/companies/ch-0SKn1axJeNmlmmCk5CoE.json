@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJEQK6jmOqmkcR2VPJWAXNTRY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Marcel Portmann",
+        "author_photo": "/images/reviews/keiser-waser-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professionell, zuverlässig und mit einem Lächeln 😃",
+        "time": 1701465457,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Albert Conrad",
+        "author_photo": "/images/reviews/keiser-waser-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden von diese Firma",
+        "time": 1618988823,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Arbia Kerim",
+        "author_photo": "/images/reviews/keiser-waser-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1612646651,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Franco Ferragina",
+        "author_photo": "/images/reviews/keiser-waser-ag-zug/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1597187557,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Louis Schiess",
+        "author_photo": "/images/reviews/keiser-waser-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1578909890,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

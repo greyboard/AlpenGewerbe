@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJD3Z4d3C2kUcRaOGOyZCtiPs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Urs J",
+        "author_photo": "/images/reviews/pfirter-samuel-augst/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe in meiner Küche einige Unterschränke mit Schubladen versehen lassen. Das Erlebnis war von Anfang bis Ende perfekt. Immer freundlich, gut beraten, qualitativ hochwertig die Arbeiten ausgeführt und immer war Verlass. Termine werden eingehalten (im Gegensatz zu den meisten anderen Handwerksbetrieben). Alles rundum zufrieden. Ich kann voll und ganz weiterempfehlen.",
+        "time": 1688132187,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Vero Egger",
+        "author_photo": "/images/reviews/pfirter-samuel-augst/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Äusserst kompetenter und freundlicher Schreiner. Arbeit ist qualitativ hochstehend und stets termingerecht, 1A+.",
+        "time": 1543329606,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Royal Launchpad",
+        "author_photo": "/images/reviews/pfirter-samuel-augst/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1520108110,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "jonas schultheiss",
+        "author_photo": "/images/reviews/pfirter-samuel-augst/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1509714638,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

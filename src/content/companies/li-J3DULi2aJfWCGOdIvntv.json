@@ -25,5 +25,22 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF1OZ5Hkzm0cRFZiGmYuCd6c",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Ursy Marthy",
+        "author_photo": "/images/reviews/malerei-ag-frick-u-thoma-triesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709148343,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

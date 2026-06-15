@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJOWPyii8fm0cREXlGH2ABfR0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Raphael Nef",
+        "author_photo": "/images/reviews/sparkingranch-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super individuelle Metallarbeiten jeglicher Art. Jeder Wunsch wird durch Hannes in Perfektion realisiert. Kann ich wirklich jedem weiter empfehlen!",
+        "time": 1715976384,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andoni Lopez",
+        "author_photo": "/images/reviews/sparkingranch-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Für unser Fotostudio brauchten wir spezielle Aufhängungen aus Stahl und der ganze Prozess von Anfang bis Schluss war super angenehm. Man spürt die Liebe zum Handwerk und das Resultat ist mehr als zufriedenstellend. Ich kann Hannes nur weiterempfehlen und werde in Zukunft weiterhin gerne auf seine Kenntnisse zurückgreifen.",
+        "time": 1683646538,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nina Schiess",
+        "author_photo": "/images/reviews/sparkingranch-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Perfekte Arbeit! Wird mit Liebe gemacht und alles Handarbeit. Professionell und der Preis stimmt.",
+        "time": 1655973487,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Niclas Stoehr",
+        "author_photo": "/images/reviews/sparkingranch-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1747925805,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Marti",
+        "author_photo": "/images/reviews/sparkingranch-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1555099527,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

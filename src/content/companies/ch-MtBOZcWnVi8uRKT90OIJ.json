@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCbeeA3BAjkcRgOEd499KoZc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Martin Klossner",
+        "author_photo": "/images/reviews/staub-hostettler-ag-maler-gipser-daemmungen-in-neuenegg-neuenegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetent und freundlich",
+        "time": 1694636129,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marian Zsebik",
+        "author_photo": "/images/reviews/staub-hostettler-ag-maler-gipser-daemmungen-in-neuenegg-neuenegg/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1762243384,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Andreas Brügger",
+        "author_photo": "/images/reviews/staub-hostettler-ag-maler-gipser-daemmungen-in-neuenegg-neuenegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1703940536,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Vvhy not",
+        "author_photo": "/images/reviews/staub-hostettler-ag-maler-gipser-daemmungen-in-neuenegg-neuenegg/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1701774351,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel König",
+        "author_photo": "/images/reviews/staub-hostettler-ag-maler-gipser-daemmungen-in-neuenegg-neuenegg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1609751464,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

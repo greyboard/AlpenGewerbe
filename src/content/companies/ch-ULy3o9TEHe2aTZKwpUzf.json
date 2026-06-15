@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ04XYRayrmkcRt_6dpwLGyBo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Pablo Neuenschwander",
+        "author_photo": "/images/reviews/malerartgmbh-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unserem Haus nach über 15 Jahren einen neuen Inneneinstrich gegönnt.\nWieder haben wir auf die Firma D & F Malerart gesetzt und wurden nicht enttäuscht.\nMan kann getrost Hr. De Jaco oder Hr. Fruci den Hausschlüssel anvertrauen und nach den Ferien kommt man in ein zur vollsten Zufriedenheit neugestrichens Haus zurück.\nBesten Dank am ganzen Team",
+        "time": 1579592969,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Michael Sergi",
+        "author_photo": "/images/reviews/malerartgmbh-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "The work was done fast and perfect! I’m very happy and I can just recommend this company!",
+        "time": 1681842228,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

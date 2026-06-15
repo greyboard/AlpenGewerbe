@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJy0_ipd2DmkcRJlf3DZsWwmI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 10:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Dora Stör",
+        "author_photo": "/images/reviews/schreiner-monteur-ch-tuttwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Rupper, geht sehr empathisch auf die Wünsche und Vorstellungen seiner Klienten ein. Ich durfte scho öfter von seinem kompetente Wissen und seiner präzisen Arbeitsweise proftieren. Er macht seine Arbeit mit viel Herzblut. Kann ihn nur weiterempfehlen.\nVielen Dank für Deine Unterstützung.",
+        "time": 1675625228,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lilli Messmer",
+        "author_photo": "/images/reviews/schreiner-monteur-ch-tuttwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einwandfreie Facharbeit, Top-Qualität zu fairen Preisen . Christan Rupper hält was er verspricht, ein sehr angenehmer und liebenswürdiger Mensch.",
+        "time": 1504368800,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Corina",
+        "author_photo": "/images/reviews/schreiner-monteur-ch-tuttwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Qualitativ sehr hochwertige, top professionelle, flexible, vertrauenswürdige Arbeitsleistung. Sehr faire Abrechnung eines liebenswürdigen Fachmannes.",
+        "time": 1627460676,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Jan Helbling",
+        "author_photo": "/images/reviews/schreiner-monteur-ch-tuttwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Cooler Typ, macht sicherlich auch gute Arbeit, nur schade das er mich einfach ohne Vorwarnung blockiert hat, als ich fragte ob er noch Interesse hat, (ich zu ungeduldig war).",
+        "time": 1711303869,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andi G.",
+        "author_photo": "/images/reviews/schreiner-monteur-ch-tuttwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hoi Christian, mir stunend immer no, dini Arbet isch eifach genial, hoffentli findä wieder ä mol Ziit für äs paar kommendi Arbätä gür Di, mir kontaktierä dich sobald dä gross Sturm vorbi isch, bis dänn alläs Gueti, und heb der Sorg",
+        "time": 1566295703,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

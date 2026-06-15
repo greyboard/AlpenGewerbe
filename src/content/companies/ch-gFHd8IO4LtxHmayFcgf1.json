@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0RND59XXkUcRR-8GWGu7v3k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:45 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Tea Radonjic",
+        "author_photo": "/images/reviews/von-allmen-innenausbau-ag-zuchwil/reviewer_1.jpg",
+        "rating": 3,
+        "text": "Leider war meine Erfahrung mit dem Unternehmen sehr durchwachsen. Die Qualität der Eingangstüre ist zwar gut, aber bei der Montage ist einiges schiefgelaufen. Eine Ecke der Tür wurde beschädigt, meine Wand hat ebenfalls Schaden genommen und beim Bohren wurde ein Stromkabel getroffen, sodass ein Elektriker vorbeischauen musste.\n\nAls ich meine Reklamation dem Geschäftsinhaber mitteilte, wurde nicht einmal eine Entschuldigung ausgesprochen oder Verständnis gezeigt. Stattdessen wurden meine Punkte abgewiegelt und es wurde gesagt, dass solche Dinge eben passieren könnten. Meiner Meinung nach kann so etwas zwar passieren, aber sollte nicht, und wenn doch, erwarte ich zumindest eine Entschuldigung und keine Konfrontation.\n\nDie Tür wurde abgeholt und repariert, doch leider kam es bei der Abholung erneut zu Schäden. Erst beim dritten Versuch gelang es den Mitarbeitern, die Tür ohne weitere Beschädigung zu montieren.\n\nInsgesamt bin ich sehr enttäuscht, wie hier mit der Kundschaft umgegangen wird. Ein wenig mehr Sorgfalt und Kundenorientierung hätten den Gesamteindruck deutlich verbessert.",
+        "time": 1729177839,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Family Affolter",
+        "author_photo": "/images/reviews/von-allmen-innenausbau-ag-zuchwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Zimmertüre unserer Tochter im EFH musste rasch erneuert werden. Von der freundlichen Terminaufnahme dauerte es nur ein Tag, bis der Monteur vorbei gekommen ist. Die Beratung war super, die Demontage wurde sogleich gemacht und schon zwei Tage darauf eine perfekte Türmontage und die Fertigstellung. Die Offerte/Rechnung stimmte und jederzeit werden wir das Geschäft wieder berücksichtigen und sicher weiterempfehlen. Vielen Dank für die super Arbeit von A-Z :-)",
+        "time": 1684929858,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "DroidBen",
+        "author_photo": "/images/reviews/von-allmen-innenausbau-ag-zuchwil/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Es wurde trotz ausdrücklicher Erwähnung in der Bestellung ein günstigeres Material als bestellt verwendet, jedoch das Teure verrechnet. Verarbeitungsqualität und Genauigkeit jedoch gut.",
+        "time": 1602970133,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Christoph Lach (Kadra)",
+        "author_photo": "/images/reviews/von-allmen-innenausbau-ag-zuchwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Seriöse Firma.\nAlle Aufträge erlädigen schnell und zuverlässig in beste Qualität",
+        "time": 1629709514,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Manny K",
+        "author_photo": "/images/reviews/von-allmen-innenausbau-ag-zuchwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "rasch, unkompliziert, professionell zu einem fairen Preis. Gerne wieder.",
+        "time": 1575067924,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

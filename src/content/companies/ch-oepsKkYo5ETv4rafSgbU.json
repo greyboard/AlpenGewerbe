@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ84bReFVbjEcR69bv7RE8lA8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Léo HUBER",
+        "author_photo": "/images/reviews/as-menuiserie-terrasses-en-bois-et-composite-coinsins/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit, akribische Detailgenauigkeit, sehr empfehlenswert.",
+        "time": 1449571101,
+        "relative_time_description": "vor 10 Jahren"
+      },
+      {
+        "author_name": "Emy Cavallucci",
+        "author_photo": "/images/reviews/as-menuiserie-terrasses-en-bois-et-composite-coinsins/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1581866232,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Thierry Bonna",
+        "author_photo": "/images/reviews/as-menuiserie-terrasses-en-bois-et-composite-coinsins/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1578293479,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

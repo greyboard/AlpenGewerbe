@@ -26,5 +26,39 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJbXFHiy7xjkcRqC7gWH2tHZY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Gartenteam Inäbnit AG",
+        "author_photo": "/images/reviews/gartenteam-inaebnit-ag-gstaad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlich Willkommen bei Kurt Eschler Gartenbau Gstaad.",
+        "time": 1442560409,
+        "relative_time_description": "vor 10 Jahren"
+      },
+      {
+        "author_name": "Fischer 2408",
+        "author_photo": "/images/reviews/gartenteam-inaebnit-ag-gstaad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1511451807,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT5uZ5HPnmkcR7ddu4DGJ7R0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "xc fd",
+        "author_photo": "/images/reviews/loser-gipsergeschaeft-gmbh-flawil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "professionelle Beratung und Ausführungen. Sogar nachträgliche Firmen, wie Malerfirmen, sind äusserst beeindruckt von der Qualität und Ausführung. Sehr lieber Familienbetrieb und sehr liebe Mitarbeiter. Äusserst empfehlenswert. Jederzeit wieder würde ich nur diese Firma wählen.\nFreundliche Grüsse\nFamilie aus Jonschwil",
+        "time": 1660116154,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "J. Kessler",
+        "author_photo": "/images/reviews/loser-gipsergeschaeft-gmbh-flawil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1539796596,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

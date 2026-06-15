@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ65TdyC5OhUcRUMqdZSpVAhA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:15 Uhr",
+    "Dienstag: 07:00–17:15 Uhr",
+    "Mittwoch: 07:00–17:15 Uhr",
+    "Donnerstag: 07:00–17:15 Uhr",
+    "Freitag: 07:00–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Max",
+        "author_photo": "/images/reviews/annen-schibig-ag-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute und kompetente Firma. Die Zusammenarbeit gestaltet sich stets fair und professionell.",
+        "time": 1760105477,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Kari Buergi",
+        "author_photo": "/images/reviews/annen-schibig-ag-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolles Team!",
+        "time": 1495779099,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Giuseppe Mauro",
+        "author_photo": "/images/reviews/annen-schibig-ag-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "👍👍👍👍👍",
+        "time": 1761037204,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Kilian Kuster",
+        "author_photo": "/images/reviews/annen-schibig-ag-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739512178,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Monika M",
+        "author_photo": "/images/reviews/annen-schibig-ag-ibach/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1731935622,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

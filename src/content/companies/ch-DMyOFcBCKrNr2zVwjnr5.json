@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJV8P_JZIZjkcRmOLXuj5mnj4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Mischa Stiegler",
+        "author_photo": "/images/reviews/alexander-der-maurer-baufirma-port/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Beratung, einhalten von Terminen sowie Ausführung der Arbeiten absolut Top. Kann Alex auf jeden Fall weiterempfehlen,👍🏻besten Dank für die speditive Erledigung 🙏🏻",
+        "time": 1761205479,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Layla Gygax",
+        "author_photo": "/images/reviews/alexander-der-maurer-baufirma-port/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alexander ist sehr kompetent, zuvorkommend und innovativ. Ein sehr sympatischer Betrieb mit einem fairen Preis-Leistungs-Verhältnis",
+        "time": 1716072788,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco Gysel",
+        "author_photo": "/images/reviews/alexander-der-maurer-baufirma-port/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetente und ehrliche Beratung. Begleitet wurde das Treffen mit einer von Alexander der Maurer zubereiteten Fleisch- und Käseblatte. Hat Spass gemacht :)",
+        "time": 1641558643,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Benjamin Perrot",
+        "author_photo": "/images/reviews/alexander-der-maurer-baufirma-port/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufriedenstellend, Arbeit fix ausgeführt. Zu empfehlen.",
+        "time": 1591470883,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "nele nulo",
+        "author_photo": "/images/reviews/alexander-der-maurer-baufirma-port/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Guter Preis, sehr gute Qualität und Sympathisch.",
+        "time": 1591470933,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

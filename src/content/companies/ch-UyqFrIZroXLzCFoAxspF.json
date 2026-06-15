@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0_t2V3fYkUcRgGYaWO5mzIU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Röbi Loser",
+        "author_photo": "/images/reviews/devaud-und-marti-ag-bellach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige, kundenorientierte Firma. Vor einiger Zeit die Fenster von Devaud&Marti ersetzen lassen. Gute und faire Beratung und dann saubere und sorgfältige Ausführung, freundliche Monteure.\nAber auch für kleinere Sachen ist die Dienstleistungsbereitschaft ausgeprägt. Das finde ich Kundenorientierung, daher kann die Firma vorbehaltslos empfohlen werden.",
+        "time": 1769709772,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Thorsten Wanjura",
+        "author_photo": "/images/reviews/devaud-und-marti-ag-bellach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Freundliches Team.\nTolle Arbeit.",
+        "time": 1627473277,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ambassador",
+        "author_photo": "/images/reviews/devaud-und-marti-ag-bellach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sympathisches Team welches sich an zeitliche und preisliche Vereinbarungen hält!",
+        "time": 1669216815,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "MESSER WOHNEN",
+        "author_photo": "/images/reviews/devaud-und-marti-ag-bellach/reviewer_4.jpg",
+        "rating": 4,
+        "text": "gute Beratung & gute Arbeit",
+        "time": 1517291712,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Bürger",
+        "author_photo": "/images/reviews/devaud-und-marti-ag-bellach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ehrlich und professionell.",
+        "time": 1775657403,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

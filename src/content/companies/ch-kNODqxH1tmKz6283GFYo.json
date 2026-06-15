@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJyeC4lUeqmkcRjj5QkY-r1EU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Celestine Stadnick",
+        "author_photo": "/images/reviews/gysi-ag-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Lieben Dank an Aaron und Nico für die sagenhafte Hilfe! Die zwei sind ausgezeichnete Fachkräfte und haben uns in einer brenzligen Situation ihr Fachwissen sehr grosszügig offeriert! Dankedankedanke! - Die Familie mit Baby",
+        "time": 1655663739,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Gam Rolls",
+        "author_photo": "/images/reviews/gysi-ag-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma und 1A Team 😃👍",
+        "time": 1730934139,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Black Bird",
+        "author_photo": "/images/reviews/gysi-ag-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Handwerkskunst vom feinsten. Tolles Metallbauerteam. Gerne wieder :)",
+        "time": 1558031563,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Voja Kljaric",
+        "author_photo": "/images/reviews/gysi-ag-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Es war sehr gut danke",
+        "time": 1614444460,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jaroslav Kilian",
+        "author_photo": "/images/reviews/gysi-ag-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Unternehmen. Hohe Professionalität.\nIch komme gerne wieder, allein schon wegen des Umgangs mit den Mitarbeitern und der handwerklichen Qualität. Vielen Dank, Jarda.",
+        "time": 1764619350,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

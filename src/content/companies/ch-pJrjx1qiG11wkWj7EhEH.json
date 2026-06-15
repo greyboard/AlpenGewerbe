@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJi2szp10em0cRk4SImJoElqo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–16:30 Uhr",
+    "Donnerstag: 07:00–16:30 Uhr",
+    "Freitag: 07:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "L. Ivascu",
+        "author_photo": "/images/reviews/pfister-heizungen-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Besten der Besten! Lösungsorientiert, in wenigen minuten wird ein Monteur vorbeigeschickt und das Team ist freundlich und zuvorkommend. ",
+        "time": 1742553406,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "weber daniel",
+        "author_photo": "/images/reviews/pfister-heizungen-ag-st-gallen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Verspricht viel und leider trifft es dann nicht zu. Musste hier in Wohnung wegen Heizung, Heizkörper kalt, sie würden dann warm werden nach dem Besuch des Mitarbeiters.. naja leider immer noch kalt. nicht zu empfehlen",
+        "time": 1737669114,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Chris Mansfield",
+        "author_photo": "/images/reviews/pfister-heizungen-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Jungs, kompetent, nett und zuverlässig, was will man mehr",
+        "time": 1670052489,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "B. E. Dönni",
+        "author_photo": "/images/reviews/pfister-heizungen-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1597502242,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "jasmin schläpfer",
+        "author_photo": "/images/reviews/pfister-heizungen-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1573480514,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

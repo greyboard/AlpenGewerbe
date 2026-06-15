@@ -26,5 +26,55 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7wDM9DFQhUcRdtUuNnhaKQ0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Urs Zuercher",
+        "author_photo": "/images/reviews/kreativschreinerei-wagner-ag-brunnen-sz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unser Küchenumbau durch die Kreativschreinerei Wagner AG Brunnen gestaltete sich von der fachlichen Beratung, der äusserst angenehmen persönlichen Zusammenarbeit, der aussergewöhnlichen Qualität, der handwerkliche Präzision beim Einbau sowie der empathischen jungen Montage-Mitarbeiter, äusserst problemlos. Alle Fachkräfte, von der kompetenten Projektleitung mit den vielen zu vereinbarenden Handwerker-Termine gemäss Bauprogramm bis zum Einbau alles hat bestens geklappt. Die freundlichen zuverlässigen und fachkundigen Monteure möchte ich speziell erwähnen. Super Arbeit die seinesgleichen sucht. Ich kann den kreativen Handwerkbetriebs nur bestens empfehlen. Ich würde den Auftrag ohne zu zögern wieder der Kreativschreinerei erteilen.",
+        "time": 1762338602,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Andreas Hostettler",
+        "author_photo": "/images/reviews/kreativschreinerei-wagner-ag-brunnen-sz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe einen der öffentlichen Kurse besucht und war von der Philosophie und der Herzlichkeit von Familie Wagner - den Inhabern - fasziniert.",
+        "time": 1509033250,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Marco Reichmuth",
+        "author_photo": "/images/reviews/kreativschreinerei-wagner-ag-brunnen-sz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699261933,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Schmid Christian",
+        "author_photo": "/images/reviews/kreativschreinerei-wagner-ag-brunnen-sz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1683218104,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

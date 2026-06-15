@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJy4xSpXYKkEcRtTVVJVWT5h8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 37,
+    "reviews": [
+      {
+        "author_name": "Filadelfo Greco",
+        "author_photo": "/images/reviews/a-baltensperger-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit der Firma A.Baltensperger AG / Haustechnik   haben wir ein Fünffamilienhaus realisiert. Von der Planung bis zur Umsetzung hat uns die Zusammenarbeit überzeugt: kompetente Beratung, transparente Kommunikation und ein engagiertes Team aus Mitarbeitern und Vorgesetzten. Die angebotenen Dienstleistungen waren zuverlässig und qualitativ hochwertig. Wir bedanken uns  und empfehlen die Firma A.Baltensperger AG gerne weiter.",
+        "time": 1758037044,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Jules Girardin",
+        "author_photo": "/images/reviews/a-baltensperger-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und gute Handwerker. Sehr gute und schnelle Reparatur. Danke",
+        "time": 1758101699,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "wooha wooha",
+        "author_photo": "/images/reviews/a-baltensperger-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Kommunikation. Offerte, Planung und Dienstleistung hat gepasst. Dusche steht, sieht gut aus und bereitet Freude. Unser Haus ist schon langjähriger Kunde bei Baltensperger und bis jetzt hat alles immer prima geklappt.",
+        "time": 1678464322,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "fabrizio Salvatore",
+        "author_photo": "/images/reviews/a-baltensperger-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hatte eine sehr ehrliche und kompetente Beratung erhalten. Es ging um mein Elternhaus welches umgebaut und mit einer neuen Haustechnick ausgestattet werden musste. Bekam immer schnell eine Antwort. Die Arbeiter waren immer Pünktlich und sehr sauber. Kann ich allen weiterempfehlen! Ein Familienbetrieb inmitten des Quartiers, sehr empfehlenswert. Weiter so!",
+        "time": 1595236426,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Bob Felden",
+        "author_photo": "/images/reviews/a-baltensperger-ag-zuerich/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Die Firma A. Baltensperger AG erhält von uns ein schlechtes Zeugnis. Es betrifft nicht die Mitarbeiter, sondern die Geschäftsleitung.  Die Heizungs-Planung beurteilen wir als Inkompetent, und die Verhaltensweise der Geschäftsleitung im Umgang mit Kunden als äusserst beschämend.",
+        "time": 1591533363,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

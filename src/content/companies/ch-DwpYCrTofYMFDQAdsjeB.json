@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu4OeaAzxj0cRqrmFinWtzg0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Urs Gygax",
+        "author_photo": "/images/reviews/w-durrer-dach-wand-ag-alpnach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dachfenstereinbau.\nSehr professionell und kompetent.\nSaubere, exakte Arbeit.\nSehr freundliche, speditive Mitarbeiter.\nSehr zu empfehlen.",
+        "time": 1777978724,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Markus Zemp",
+        "author_photo": "/images/reviews/w-durrer-dach-wand-ag-alpnach/reviewer_2.jpg",
+        "rating": 1,
+        "text": "wir haben haben auf Empfehlung von Dach und Wand ein Roto Dachfenster montieren lassen. Nun haben wir eine Störung und Dach und Wand kann keinen Service bieten. Sie verweist auf den Importeur.",
+        "time": 1677786064,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "fran ara",
+        "author_photo": "/images/reviews/w-durrer-dach-wand-ag-alpnach/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Gut perfekt 🤩",
+        "time": 1767365568,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Katja Imfeld",
+        "author_photo": "/images/reviews/w-durrer-dach-wand-ag-alpnach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1699883319,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sandro _78_",
+        "author_photo": "/images/reviews/w-durrer-dach-wand-ag-alpnach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1741467480,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

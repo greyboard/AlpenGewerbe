@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_ZVPxGDyj0cRjsq9tBUFb6g",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Simon Kiser",
+        "author_photo": "/images/reviews/berwert-josef-ag-wilen-sarnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Chauffeur, sehr kompetent und hilfsbereit 👍",
+        "time": 1576437792,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "sebi6090",
+        "author_photo": "/images/reviews/berwert-josef-ag-wilen-sarnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711393810,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "David Keller",
+        "author_photo": "/images/reviews/berwert-josef-ag-wilen-sarnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643825972,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ivan Luburic",
+        "author_photo": "/images/reviews/berwert-josef-ag-wilen-sarnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1599639424,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Aman Tezare",
+        "author_photo": "/images/reviews/berwert-josef-ag-wilen-sarnen/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1511867501,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

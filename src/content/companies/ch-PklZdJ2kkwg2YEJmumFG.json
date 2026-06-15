@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJIwWsFEyqmkcRetglfeu5wZI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Béatrice Baumann",
+        "author_photo": "/images/reviews/rinderli-gartenbau-baar-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Rinderli Gartenbau kann ich nur empfehlen - alles wird sehr schnell, reibungslos und sauber erledigt. Die Leute sind sehr nett und freundlich. Man bekommt auch Tips, welche verständlich und klar formuliert werden. Herr Rinderli ist ein äusserst kompetenter Gartenbauer, der sein Handwerk liebt. Rundum zufrieden - sehr gerne wieder 👍🏻",
+        "time": 1770721787,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Martin Michel",
+        "author_photo": "/images/reviews/rinderli-gartenbau-baar-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind seit Jahren sehr zufrieden und können Rinderli Gartenbau allen Garten-/Heckenbesitzern empfehlen, welche einen top Service zu einem fairen Preis suchen. Herr Rinderli nimmt sich Zeit, hat immer gute Ratschläge und kann jede Frage beantworten. Auch die Lösung für unser Holzgestell war sehr überzeugend, ein Profi eben.",
+        "time": 1653729618,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Eric Bucher",
+        "author_photo": "/images/reviews/rinderli-gartenbau-baar-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Grienbach Immobilien AG\n\nDie Arbeit wird mit hoher Selbstständigkeit und großem Verantwortungsbewusstsein erledigt. Alle Vereinbarungen werden zuverlässig eingehalten, und die Ergebnisse überzeugen durch Qualität und Sorgfalt.",
+        "time": 1760349249,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Rémy Foong",
+        "author_photo": "/images/reviews/rinderli-gartenbau-baar-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Rinderli Gartenbau ist absolut empfehlenswert! Tom arbeitet speditiv, lösungsorientiert und bietet faire Preise. Die Kommunikation ist immer freundlich und professionell, und die Umsetzung unserer Gartenprojekte verlief reibungslos. Man merkt sofort, dass hier jemand mit Leidenschaft und Fachwissen am Werk ist. Wer einen zuverlässigen und kompetenten Gartenbauer sucht, ist hier genau richtig. Vielen Dank für die tolle Arbeit – gerne wieder! 🌿💪🏼",
+        "time": 1740514799,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Oliver Heer",
+        "author_photo": "/images/reviews/rinderli-gartenbau-baar-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Rinderli hat perfekte Arbeit bei der Sanierung unseres Rasens geleistet. Von der Beratung über das Spritzen des Unkrauts bis zum Düngen hat alles einwandfrei geklappt. Wir waren sehr zufrieden und können Rinderli Gartenbau weiterempfehlen.",
+        "time": 1720438075,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

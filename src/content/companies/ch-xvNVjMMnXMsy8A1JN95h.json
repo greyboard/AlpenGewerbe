@@ -26,5 +26,38 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu8n9s7hDhUcRLN4wG3uIt40",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Adolf Hänni",
+        "author_photo": "/images/reviews/maler-nideroest-ag-schattdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragendes Malergeschäft. Der Firmeninhaber Gisler Christian hält sich an die Termine. Sehr Kundenfreundlich, genau nach dem Motto: \"Der Kunde ist König\"! Sehr freundliche Angestellte. Danke Paddy!",
+        "time": 1571393018,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Nadine Weber",
+        "author_photo": "/images/reviews/maler-nideroest-ag-schattdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1649770865,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marcel Bammert",
+        "author_photo": "/images/reviews/maler-nideroest-ag-schattdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1520598653,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

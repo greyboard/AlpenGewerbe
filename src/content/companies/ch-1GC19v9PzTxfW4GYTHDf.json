@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJFSxG84LGkUcRU4f_HydBeaw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Murat Dagdelen",
+        "author_photo": "/images/reviews/yilmaz-haustechnik-hoelstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir können und möchten diese Firma sehr gerne weiterempfehlen.\nEs wurde sehr Fachmännisch pünktlich qualitativ gearbeitet und Preisleistung ist hervorragend.\nDanke und bis zum nächsten Auftrag alles gute",
+        "time": 1723288531,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Aytac Cetinkaya",
+        "author_photo": "/images/reviews/yilmaz-haustechnik-hoelstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Yasar ist ein guter  Fachmann und ist da wenn man ihn braucht.\nKann ihn jedem weiterempfehlen da wir auch schon einige Projekte zusammen erledigt haben.\nTop weiter so 👍",
+        "time": 1674325568,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Safiye Mantici",
+        "author_photo": "/images/reviews/yilmaz-haustechnik-hoelstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top service , gute preis .. 👍👍",
+        "time": 1691792560,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "DOGAN Ramazan",
+        "author_photo": "/images/reviews/yilmaz-haustechnik-hoelstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professionelle Arbeit – Hervorragender Techniker 👍🏻\nVielen Dank!",
+        "time": 1637163283,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Cyril",
+        "author_photo": "/images/reviews/yilmaz-haustechnik-hoelstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1723277900,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

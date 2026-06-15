@@ -1,7 +1,7 @@
 {
   "id": "ch-lBUkKzv14thaaGiHsxqS",
   "slug": "nanni-ag-basel",
-  "name": "Nanni AG",
+  "name": "Nanni AG Bauunternehmung",
   "branchen": [
     "maurer"
   ],
@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJq6p6JxO5kUcR5cV1v34VgKs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Flavio N",
+        "author_photo": "/images/reviews/nanni-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit ❤️ für die Kunden da",
+        "time": 1765627294,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Roger- Philipp Rickli",
+        "author_photo": "/images/reviews/nanni-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Arbeiten, freundlich und sehr Hilfsbereit- herzlichen Dank. In all den Jahren ein verlässlicher Partner.",
+        "time": 1613427234,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefanie Imholz",
+        "author_photo": "/images/reviews/nanni-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionelle und tolle Arbeit! Ich bin mehr als zufrieden mit dem Ergebnis--herzlichen Dank!",
+        "time": 1636361084,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fabio Innocenti",
+        "author_photo": "/images/reviews/nanni-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1758612144,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Chiara Meyer",
+        "author_photo": "/images/reviews/nanni-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1743447685,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

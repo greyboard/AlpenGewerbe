@@ -1,7 +1,7 @@
 {
   "id": "ch-2Htqayub6OZtwXpa2WdF",
   "slug": "meier-tobler-ag-marche-st-gallen",
-  "name": "Meier Tobler AG [Marché]",
+  "name": "Meier Tobler Marché St. Gallen",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJv9dCpNAfm0cRuUIH6LBd97c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Marvin Larisegger",
+        "author_photo": "/images/reviews/meier-tobler-ag-marche-st-gallen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Leider viel zu teuer... 40min. Arbeit für einen service einer gasheizung für über 500.- obwohl per tel. Abgemacht war 300.- bis 350.-\n\nRechnung; 5600072530\nGerne stehe ich für rücksprachen bereit.",
+        "time": 1766580541,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Siheim Ali",
+        "author_photo": "/images/reviews/meier-tobler-ag-marche-st-gallen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Was für ein unverschämtes Unternehmen! Die Mitarbeiter von Meier Tobler AG sind nicht nur unfreundlich, sondern geradezu unhöflich. Anstatt den Kunden zu helfen, wird man abwertend behandelt, als ob man störend wäre. Besonders dreist war das vorzeitige Schließen des Ladens – und das mitten während der offiziellen Öffnungszeiten! Man hatte den Eindruck, dass das Personal froh war, den Laden eher zu schließen, statt den Kunden zu bedienen. Absolut inakzeptabel! Ich werde mit Sicherheit nie wieder diesen Laden betreten und kann nur jedem raten, sich nach seriöseren und kundenorientierteren Anbietern umzusehen.",
+        "time": 1730978231,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Valentin Steger",
+        "author_photo": "/images/reviews/meier-tobler-ag-marche-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Beratung von Herrn Gerster und Herr Biner!!!\nService, Qualität sowie Reaktionszeiten sind einzigartig in der Region!",
+        "time": 1743501596,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Martin Streuli",
+        "author_photo": "/images/reviews/meier-tobler-ag-marche-st-gallen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Kompetente Beratung. Äusserst aufgestelltes Team. Gratis Kaffee, Tee und Suppen für die Kunden",
+        "time": 1742811239,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc Schrepfer",
+        "author_photo": "/images/reviews/meier-tobler-ag-marche-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetentes und freundliches Personal.\nKomme gerne in den Marché St. Gallen",
+        "time": 1746430627,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

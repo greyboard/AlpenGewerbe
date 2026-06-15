@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJHVHu4-r7j0cRr0xbdDCjpMY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: 07:30–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Marika Vanlingen",
+        "author_photo": "/images/reviews/farbideen-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit Kai, er ist ein fleißiger Arbeiter. Er erledigt alles sehr sorgfältig. Er hält sich gut an die Absprachen. Wir beauftragen ihn regelmäßig mit kleinen Arbeiten. Alles wird immer gut ausgeführt und vorbereitet. Ein sehr netter Mensch, freundlich. Er ist auch sehr gut bei der Preisgestaltung. Man erlebt keine Überraschungen.",
+        "time": 1774002429,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Piero Istrice",
+        "author_photo": "/images/reviews/farbideen-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kai arbeitet sehr sauber, präzise und schnell. Absolute Empfehlung!",
+        "time": 1773990615,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Judith Schaedler Wurster",
+        "author_photo": "/images/reviews/farbideen-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung bezüglich Farben. Schnell, sauber, professionell.  Wir haben die Wohnung mit einigen Farben erfrischen lassen, dabei hat uns Herr Kurzenberger sehr kompetent beraten können. Die gute Qualität hat dementsprechend ihren Preis. Vielen Dank für die tolle Arbeit!",
+        "time": 1654846040,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Praxedis Häfliger",
+        "author_photo": "/images/reviews/farbideen-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wände, Decke, Türen und  Fensterrahmen sind wieder weiss. Die gelbe Rückwand wurde auf meinen Wunsch gelb/weiss gestrichen.  Fensterglas Kitt und die Silikonfuge bei der Küchenabdeckung wurden schnell ersetzt. Auch kleinere Gipserarbeiten wurden gemacht . Alles schnell und sauber. Bin sehr zufrieden.",
+        "time": 1642602351,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Andreas Villiger",
+        "author_photo": "/images/reviews/farbideen-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kai führte bei uns Garantiearbeiten eines anderen Malerbetriebes durch. Kai überraschte uns durch seine sympathische Art und seine äusserst professionelle Arbeit. Vielen Dank nochmals Kai!",
+        "time": 1659263296,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

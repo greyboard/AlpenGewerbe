@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJhcjdhUsshUcRPZshs_NQFyE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:00–17:15 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "Ulrich Fäs",
+        "author_photo": "/images/reviews/baebler-heizungen-waermepumpe-oelheizung-gasheizung-holzheizung-planung-ennenda/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service - herzlichen Dank. Trotz viel anfallender Arbeit durch die Minustemperaturen konnte das Problem an der Heizung mit dem Einbau einer neuen Pumpe innerhalb eines Tages behoben werden. Ich spürte das Herzblut und die Kundenorientierung.\nNochmals herzlichen Dank.",
+        "time": 1768033358,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Nicole Nef",
+        "author_photo": "/images/reviews/baebler-heizungen-waermepumpe-oelheizung-gasheizung-holzheizung-planung-ennenda/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Renato danke viel mal für deine super schnelle profesionelle Hilfe. 🙏🏻\nRenato kam am Abend ca  20:15 Uhr noch von zu Hause, nach einem 14h Tag zu mir und hat mir geholfen.\nDanggä danggä viiil mal 🤗☺️",
+        "time": 1767903079,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "LauraSimona",
+        "author_photo": "/images/reviews/baebler-heizungen-waermepumpe-oelheizung-gasheizung-holzheizung-planung-ennenda/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann Bäbler Heizung sehr empfehlen, ich bin sehr zufrieden!\nDer Service ist zuverlässig, kompetent und immer schnell zur Stelle. Vielen Dank auch an Renato!\nIch bin dankbar für die gute Betreuung und den rundum zuverlässigen tollen Service.",
+        "time": 1759343927,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Hans Rudolf Freuler",
+        "author_photo": "/images/reviews/baebler-heizungen-waermepumpe-oelheizung-gasheizung-holzheizung-planung-ennenda/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Breny und das Bäbler-Heizungsteam haben hervorragende Arbeit geleistet, zuverlässig, kompetent und sehr freundlich. Die Hilfe war schnell und professionell. Absolut empfehlenswert! Vielen Dank an euch :)",
+        "time": 1746715614,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Flo Seibert",
+        "author_photo": "/images/reviews/baebler-heizungen-waermepumpe-oelheizung-gasheizung-holzheizung-planung-ennenda/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Team unter der Leitung von Herrn Breny, der genau weiss, wovon er spricht. Diese Art Fachmänner sind selten: kompetent, professionell, geduldig und dazu auch noch überaus freundlich. Die Fussbodenheizung läuft tiptop. Danke Renato und Martin. Wirklich sehr zu empfehlen!",
+        "time": 1734040836,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

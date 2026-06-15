@@ -26,5 +26,39 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJvSa2ppY5jkcRQ3TJL3RuLEY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 3,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "ED Bull",
+        "author_photo": "/images/reviews/sanitaer-rohr-service-schluesselservice-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Arbeit wurde sauber und zuverlässig ausgeführt",
+        "time": 1654531809,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "loui tingtong",
+        "author_photo": "/images/reviews/sanitaer-rohr-service-schluesselservice-bern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Leider sehr enttäuschender Notfalldienst.\nNach 2h wurde uns ein Service versprochen. Nach 6h Wartezeit und dubiosen Zwischenfällen haben wir selber den Service abgebrochen. Nicht zu empfehlen wenn man schnelle Hilfe braucht.",
+        "time": 1779655335,
+        "relative_time_description": "vor 3 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

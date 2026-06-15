@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJu5qvNdi5kUcRTAefBmtsXK0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 37,
+    "reviews": [
+      {
+        "author_name": "Adam Evans",
+        "author_photo": "/images/reviews/applisan-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Arbeit von Applisan! Die Fassadendämmung wurde sauber und fachgerecht ausgeführt, man fühlt sofort den Unterschied. Der komplette Innenausbau kam ebenfalls aus einer Hand, ohne Verzögerungen oder Schnittstellenprobleme. Alles lief reibungslos, zuverlässig und mit einem super Ergebnis. Klare Empfehlung!",
+        "time": 1762548380,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "reo reo",
+        "author_photo": "/images/reviews/applisan-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr nette Mitarbeiter, freundlich, Pünktlich, halten sich an die Abmachungen, haben sich sehr viel mühe gegeben für das Arbeit die sie leisten mussten. Vorallem hatten wir an der Fassade flecken, und der liebe Valerio hat das auf seine kosten neu nachlackiert. Es gibt kaum was negatives was ich zu arbeit sagen kann. Einfach top arbeit. Ich persönlich kann die Applisan nur weiter empfehlen vorallem was preis leistungen angeht top.",
+        "time": 1742413412,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Casto Petar",
+        "author_photo": "/images/reviews/applisan-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unsere Druckerei hat dank Applisan neuen Glanz bekommen! Das Malergeschäft aus Basel hat mit viel Sorgfalt, Präzision und einem Auge fürs Detail gearbeitet. Man merkt, dass hier Profis am Werk sind, die ihren Job ernst nehmen. Wir haben uns rundum gut betreut gefühlt. Applisan wird ganz sicher wieder unser Partner bei zukünftigen Projekten.",
+        "time": 1752489212,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Imagination",
+        "author_photo": "/images/reviews/applisan-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Fassadenreinigung durch Applisan AG. Algen und Schmutz wurden gründlich entfernt, die Hausfassade sieht wieder aus wie neu. Der Ablauf war professionell, pünktlich und sauber – genau so, wie man es sich wünscht. Klare Empfehlung für alle, die Wert auf Qualität und Zuverlässigkeit legen.",
+        "time": 1748984413,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maria Santangelo",
+        "author_photo": "/images/reviews/applisan-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma Applisan für unser neues zu Hause engagiert.\nSie haben uns die Fassade, sowie die Zimmer gestrichen.\nWurde eine top Arbeit ausgeführt, so wie wir es uns vorgestellt hatten.\nWir können Applisan mit gutem Gewissen weiter empfehlen.",
+        "time": 1718307674,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

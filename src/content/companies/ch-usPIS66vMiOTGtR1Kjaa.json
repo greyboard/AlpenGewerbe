@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJrxkEme73j0cR6eqiIRk6a8c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "S. Mc Santana",
+        "author_photo": "/images/reviews/zimgroup-holding-ag-buochs/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Die Firma ist sehr schwierig. verursachte Schäden durch Lastwagen werden abgestritten obwohl diese belegbar sind.",
+        "time": 1721395502,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Schiltrac Fahrzeugbau",
+        "author_photo": "/images/reviews/zimgroup-holding-ag-buochs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Transportleistungen, flexible Einsatzplanung voll auf Kunde zugeschnitten, Danke für die Zusammenarbeit👍",
+        "time": 1687705011,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dr. h.c. Martin Uehlinger",
+        "author_photo": "/images/reviews/zimgroup-holding-ag-buochs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere unkompilzierte Entsorgung aller Art, freundliches Personal und sehr kundenfreundliche Oeffnungszeiten",
+        "time": 1534100317,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "M M",
+        "author_photo": "/images/reviews/zimgroup-holding-ag-buochs/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Nicht sehr profesionelle mitarbeiter",
+        "time": 1661968342,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Conrad Wagner",
+        "author_photo": "/images/reviews/zimgroup-holding-ag-buochs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "... innovativ, effizient, konsequent.",
+        "time": 1602051220,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

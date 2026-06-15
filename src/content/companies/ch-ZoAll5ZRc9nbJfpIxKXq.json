@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJU9rVyDP7j0cRtWMMa1jIGKs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Anouck Menalda v. Sch.",
+        "author_photo": "/images/reviews/maler-mathis-ag-maler-und-tapezierer-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, unkompliziert und zuvorkommend. Das Repertoire reicht von Beratung über Maler-, Spritz-, Tapezierarbeiten, über Denkmalpflege oder Dekoratives... und alles in einem sehr guten, fairen Preis-Leistungsverhältnis. Kann ich nur empfehlen! 👍",
+        "time": 1738164116,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kutter Torsten",
+        "author_photo": "/images/reviews/maler-mathis-ag-maler-und-tapezierer-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Es ist der beste Maler und Lackier Betrieb in Luzern. Danke für die Zusammenarbeit und auch die Express Erledigung. Gruss an GL Roger und die ganzen Mitarbeiter. Immer ein super Job",
+        "time": 1655474754,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sophie Lühr",
+        "author_photo": "/images/reviews/maler-mathis-ag-maler-und-tapezierer-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches Personal. Mir wurde in kürzester Zeit auf meine Frage geantwortet und eine gute Lösung vorgeschlagen. Ein exzellenter Service, vielen Dank.",
+        "time": 1739891233,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Al Stadi",
+        "author_photo": "/images/reviews/maler-mathis-ag-maler-und-tapezierer-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr professionell, top gearbeitet, hohe Qualität. Zudem ein sehr gutes Preis-/Leistungsverhältnis. Ich empfehle das Unternehmen allen weiter!",
+        "time": 1676233479,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roswitha „#Rosyla_bouche“ Schorno",
+        "author_photo": "/images/reviews/maler-mathis-ag-maler-und-tapezierer-luzern/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Hier wird ordentlich gearbeitet! Renovationen, Fassade und Neubau. Die Werkstatt betreibt ein eigenes Spritzwerk.",
+        "time": 1636909395,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

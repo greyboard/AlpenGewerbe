@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJBSPwVOIRjkcRMq87RaTY0-c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Reinhard Moeri",
+        "author_photo": "/images/reviews/schreinerei-schwab-system-ag-ins/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Schwab System AG hat bereits in mehreren meiner Liegenschaften erstklassige Arbeiten zu meiner vollsten Zufriedenheit ausgeführt. Kompetente Planung, präzise und termingerechte Ausführung, angemessene Preise.",
+        "time": 1761319975,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Nicolaï Christian",
+        "author_photo": "/images/reviews/schreinerei-schwab-system-ag-ins/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Exzellente Arbeit! Präzise, sauber und zuverlässig ausgeführt. Die Qualität der Fenster ist makellos. Klare Empfehlung!",
+        "time": 1761744184,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Daniel Frauchiger",
+        "author_photo": "/images/reviews/schreinerei-schwab-system-ag-ins/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Danke Christoph für die angenehme Zusammenarbeit. Ich freue mich weitere Projekte mit euch zu realisieren!",
+        "time": 1759845005,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Marc Spahni",
+        "author_photo": "/images/reviews/schreinerei-schwab-system-ag-ins/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung, speditive Montage, unerwartetes Problem schnell beseitigt - nun geniessen wir unsere neuen Fenster",
+        "time": 1761160889,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Matthias Rudin",
+        "author_photo": "/images/reviews/schreinerei-schwab-system-ag-ins/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionelle Abwicklung, korrektes Preis-Leistungsverhältnis, freundliche Beratung, kompetente Fachpersonen - gerne wieder!",
+        "time": 1764878127,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,22 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJIxJMMnDHhEcRPHD5pTKatDE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Head Greenkeeper",
+        "author_photo": "/images/reviews/kunstglaserei-chur-gmbh-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich bedient worden und die Dienstleistung hat meinen erwartungen übertrofen",
+        "time": 1625482157,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

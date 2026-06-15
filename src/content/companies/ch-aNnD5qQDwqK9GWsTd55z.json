@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJWwDsfQ2gmkcREJgxlkPyLCQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Jocy 87",
+        "author_photo": "/images/reviews/mbg-metallbau-giraldo-ag-opfikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Team – sehr gute Leistung und sehr speditiv! Der Auftrag wurde schnell und professionell erledigt. Die Zusammenarbeit war angenehm und unkompliziert. Absolut empfehlenswert, gerne wieder!\n\nHerr R.H. hat selbst dann eine Lösung parat, wenn etwas fast unmöglich erscheint.",
+        "time": 1771094160,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Yvonne Fischli",
+        "author_photo": "/images/reviews/mbg-metallbau-giraldo-ag-opfikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin total überrascht,  wie er mein geliebter Coiffurestuhl professionell geflickt hat. Ich hatte den Stuhl schon aufgeben. Jetzt ist er tiefer und stabiel. Bin sehr zufrieden",
+        "time": 1770128048,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "ASA Storen",
+        "author_photo": "/images/reviews/mbg-metallbau-giraldo-ag-opfikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und hilfsbereit. Er hat sich der Sache sofort angenommen und eine sehr gute Dienstleistung erbracht. Klare Weiterempfehlung.",
+        "time": 1770102930,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Remo Juchli",
+        "author_photo": "/images/reviews/mbg-metallbau-giraldo-ag-opfikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir durften schon öfters mit der Firma MBG Metallbau Giraldo AG zusammenarbeiten. Die Qualität ist immer Top, und wir freuen uns auf die gemeinsame zusammenarbeit.\n\nGlasblitz GmbH",
+        "time": 1709742480,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alexander Bucher",
+        "author_photo": "/images/reviews/mbg-metallbau-giraldo-ag-opfikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Giraldo und sein Team haben einen Top-Job geleistet: absolut kundenfreundlich, speditiv, exakt und zuverlässig. Empfehle ich sehr gerne weiter. Vielen Dank nochmals.",
+        "time": 1734464062,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

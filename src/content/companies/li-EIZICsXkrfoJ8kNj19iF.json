@@ -25,5 +25,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJKRhyAmoxm0cRsDl_A0cASnE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Rob Zen",
+        "author_photo": "/images/reviews/eberle-gebaeudehuelle-ag-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit Abstand die beste Firma weit und breit. Alles sehr talentierte Arbeiter. Überaus freundlich und kompetent. Mit bestem Gewissen zu empfehlen!\n\nMein erste Wahl wenn's um die Gebäudehülle und ihren Unterhalt geht!\n\nPreis/Leistung: TOP!",
+        "time": 1699812139,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "P L",
+        "author_photo": "/images/reviews/eberle-gebaeudehuelle-ag-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professioneller, kompetenter und netter Kontakt, sehr speditive und saubere Arbeitsweise. Sehr zu empfehlen!",
+        "time": 1689834080,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jan Keller",
+        "author_photo": "/images/reviews/eberle-gebaeudehuelle-ag-schaan/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit und super freundliche Crew. Vielen Dank!",
+        "time": 1706171644,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roland Nowak",
+        "author_photo": "/images/reviews/eberle-gebaeudehuelle-ag-schaan/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Betrieb, saubere Arbeit und freundliche Mitarbeiter",
+        "time": 1601287706,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "marco fiedler",
+        "author_photo": "/images/reviews/eberle-gebaeudehuelle-ag-schaan/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein Traum! Wenn man arbeiten kann und will!",
+        "time": 1624480402,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

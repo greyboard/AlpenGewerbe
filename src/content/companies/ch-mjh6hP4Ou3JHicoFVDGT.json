@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJXcDrKg7YkUcRqRT3V5OWCRA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Frank Kusha",
+        "author_photo": "/images/reviews/kuechen-creation-ag-solothurn/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ich habe eine Anfrage per E-Mail für eine Granitplatte gestellt. In der E-Mail wurde darauf hingewiesen, dass die Platte geliefert werden kann und die Details telefonisch besprochen werden könnten.\n\nLeider verlief das darauffolgende Telefonat enttäuschend. Der Ansprechpartner war von Beginn bis Ende des Gesprächs unfreundlich und zeigte wenig Interesse daran, ein Angebot für die Granitplatte zu erstellen, da die Küche nicht bei Ihrem Unternehmen (Küchen Création AG) bestellt wurde.\n\nBesonders irritierend war, dass die Anfrage in der E-Mail klar auf die Granitplatte fokussiert war. Dennoch wurde im Gespräch mitgeteilt, dass dies nicht angeboten werden könne.\n\nDiese Art des Umgangs empfand ich als äusserst unprofessionell. Daher kann ich Ihr Unternehmen leider nicht weiterempfehlen und halte selbst eine Bewertung mit einem Stern noch für wohlwollend.",
+        "time": 1737384985,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rico Tabone",
+        "author_photo": "/images/reviews/kuechen-creation-ag-solothurn/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr erfahrener Küchenplaner. Kann in jeden Raum die gewünste Küche umsetzen. Saubere und effiziente Arbeitsweise runden das tolle Angebot ab.\n\nGutes Preis/Leistungsverhältniss\nGerne wieder",
+        "time": 1641536177,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Philipp Dornbierer",
+        "author_photo": "/images/reviews/kuechen-creation-ag-solothurn/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Planung von neuen Küchen. Die Arbeiten mit den benötigten Handwerkern sind gut organisiert und werden termingerecht Abgeschlossen.",
+        "time": 1702618913,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Christoph Leu",
+        "author_photo": "/images/reviews/kuechen-creation-ag-solothurn/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr unkomplizierte und schnelle Auftragsausführung bei Ersatz eines Gerätes! Sehr Empfehlenswert!",
+        "time": 1563358599,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Thomas Walther",
+        "author_photo": "/images/reviews/kuechen-creation-ag-solothurn/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle Küchen, professionell, freundlich",
+        "time": 1567112607,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

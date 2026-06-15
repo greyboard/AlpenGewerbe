@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ21YpXqEAkEcRVaXYMVrTWZQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 49,
+    "reviews": [
+      {
+        "author_name": "Rene Abt",
+        "author_photo": "/images/reviews/schreinerei-huwyler-ag-steinhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vor einigen Jahren hat uns die Schreinerei Huwyler AG einen Einbauschrank für unter die Treppe erstellt. Von der Beratung bis zur fertigen Ausführung hatten wir einen perfekten Partner an der Seite, der all seine Erfahrung in unsere Wünsche einbrachte. Auch bei kleineren Reparaturen, welche wir verursacht haben, fanden wir jederzeit einen verlässlichen Partner.\nWir können die Zusammenarbeit mit der Schreinerei Huwyler AG nur empfehlen.",
+        "time": 1771335382,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Erich Mazenauer",
+        "author_photo": "/images/reviews/schreinerei-huwyler-ag-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Offerte für das Abfall-Trennsystem war angemessen und kam sehr schnell.\nDer Schreiner der die Installation tätigte war sehr fachkundig und sehr freundlich.\nGerne geben wir in Zukunft weitere Aufträge an die Schreinerei Huwyler.",
+        "time": 1766487345,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Manuel Veleiro",
+        "author_photo": "/images/reviews/schreinerei-huwyler-ag-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits mehrere Aufträge mit dieser Schreinerei realisiert und waren jedes Mal sehr zufrieden. Top Resultate, sauber gearbeitet und zuverlässig. Gerne wieder!",
+        "time": 1769504310,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Hans Jörg Moser",
+        "author_photo": "/images/reviews/schreinerei-huwyler-ag-steinhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Individuelle Wünsche, handwerklich exzellente Massanfertigungen? Für Andreas Huwyler und sein Team kein Problem.\nMöbel vom Schreiner sind Einzelstücke, die auch etwas kosten dürfen. Im Gegenzug erhalten Kunden Unikate mit einer Haptik, wie sie industriell hergestellte Möbel schlicht nicht bieten können.",
+        "time": 1676110408,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Heinz Messmer",
+        "author_photo": "/images/reviews/schreinerei-huwyler-ag-steinhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher und professioneller Handwerksbetrieb.\n2 neue Veloraumtüren aussen wurden installiert. Sehr gute Qualität; schneller und kompetenter Service. Hier kommt der Chef noch persönlich.\nEin Handwerksbetrieb den man in jedem Fall weiter empfehlen kann.",
+        "time": 1681812859,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

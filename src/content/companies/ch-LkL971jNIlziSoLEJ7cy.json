@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ88-7VqcphUcRqtgJtOrxR28",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Marc Ronner",
+        "author_photo": "/images/reviews/marti-e-ag-engi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolles Team, innovative Lösungen, zeitgemässe Infrastruktur und viel Wert auf eine gute Endlösung",
+        "time": 1677227066,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Franco W",
+        "author_photo": "/images/reviews/marti-e-ag-engi/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich habe die Firma auf einer Baustelle erlebt, und der Umgang zwischen den Arbeitern war sehr fragwürdig. Leider nicht weiterzuempfehlen.",
+        "time": 1582049564,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Stefan Bollhalder",
+        "author_photo": "/images/reviews/marti-e-ag-engi/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr angenehmes Betriebsklima. Machen gute Arbeiten Im Metallbau.",
+        "time": 1591351114,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Lukas Hämmerli",
+        "author_photo": "/images/reviews/marti-e-ag-engi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1666638515,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Elisio Machado",
+        "author_photo": "/images/reviews/marti-e-ag-engi/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1624541345,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

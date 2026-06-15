@@ -26,5 +26,30 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJDV1jRFzHhUcReu_PkApndKY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Dorina Decurtins",
+        "author_photo": "/images/reviews/minder-costruzioni-intragna/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765916273,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Antonio Colangelo",
+        "author_photo": "/images/reviews/minder-costruzioni-intragna/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1695057692,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

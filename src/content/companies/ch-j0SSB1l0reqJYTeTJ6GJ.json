@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJuRbcFjtQhUcR0Ny07PQ44PU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Margrit Affolter",
+        "author_photo": "/images/reviews/niederhauser-heizung-u-sanitaer-ag-ingenbohl/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir waren mit der Arbeit von der Firma Niederhäuser sehr zufrieden ✌️freundlich schnell kompetent professionell. Wir würden euch diese Firma sehr  gerne empfehlen 🙏\nMargrit & Christoph Affolter Brunnen",
+        "time": 1761564629,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Ra's Al Ghul",
+        "author_photo": "/images/reviews/niederhauser-heizung-u-sanitaer-ag-ingenbohl/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Arbeiter machen fast nichts und brauchen ewig für simple Aufgaben. Statt effizient zu arbeiten, wird getrödelt und kostbare Zeit verschwendet. Termine werden nicht eingehalten, Professionalität sucht man hier vergeblich.",
+        "time": 1755006160,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "CDNthe4th CDN",
+        "author_photo": "/images/reviews/niederhauser-heizung-u-sanitaer-ag-ingenbohl/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Einfach nur Schlechte Arbeit",
+        "time": 1755022270,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Sandra Schuler",
+        "author_photo": "/images/reviews/niederhauser-heizung-u-sanitaer-ag-ingenbohl/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetent, zuverlässig und saubere Arbeit!",
+        "time": 1743106392,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bob der Baumeister",
+        "author_photo": "/images/reviews/niederhauser-heizung-u-sanitaer-ag-ingenbohl/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Arbeit 10/10",
+        "time": 1678370154,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

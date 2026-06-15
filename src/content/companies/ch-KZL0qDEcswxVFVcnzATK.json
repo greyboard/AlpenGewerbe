@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_yaD6ry5kUcR9lK_MiD8nlg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–18:30 Uhr",
+    "Dienstag: 07:15–18:30 Uhr",
+    "Mittwoch: 07:15–18:30 Uhr",
+    "Donnerstag: 07:15–18:30 Uhr",
+    "Freitag: 07:15–18:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Andreas Gysin",
+        "author_photo": "/images/reviews/robert-schweizer-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Toller und super Service, sehr empfehlenswert",
+        "time": 1747056996,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Denise Voegtlin",
+        "author_photo": "/images/reviews/robert-schweizer-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super service. Toll gits no so gueti gschäft in der nochberschaft.",
+        "time": 1642180993,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marco Schwanke (Bossmac)",
+        "author_photo": "/images/reviews/robert-schweizer-ag-basel/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Sehr kompetente Schreiner und Fensterbauer !!!",
+        "time": 1748069948,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc",
+        "author_photo": "/images/reviews/robert-schweizer-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1684941627,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Dominik Münster",
+        "author_photo": "/images/reviews/robert-schweizer-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1524810662,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

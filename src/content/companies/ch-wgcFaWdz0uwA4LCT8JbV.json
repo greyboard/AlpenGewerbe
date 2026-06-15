@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJa9CBRWkXkEcRuCXhMlB1_aw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–18:00 Uhr",
+    "Dienstag: 09:00–18:00 Uhr",
+    "Mittwoch: 09:00–18:00 Uhr",
+    "Donnerstag: 09:00–18:00 Uhr",
+    "Freitag: 09:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 129,
+    "reviews": [
+      {
+        "author_name": "Angélique Kern",
+        "author_photo": "/images/reviews/glaserei-silvan-lenzburg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekter Service von Anfang bis Ende! Sehr reaktionsschnell, professionell und freundlich. Alle angekündigten Termine wurden eingehalten und die Katzenklappe wurde sorgfältig und fachgerecht eingebaut. Saubere und qualitativ hochwertige Arbeit. Ich kann dieses Unternehmen uneingeschränkt weiterempfehlen!",
+        "time": 1780934169,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Julia R",
+        "author_photo": "/images/reviews/glaserei-silvan-lenzburg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Glaserei Silvan hat bei mir einen Katzenklappe eingebaut. Der Service war sehr speditiv und kompetent. Von der Offerte bis zum Einbau vergingen knapp 2 Wochen und man hat die Termine (Vermessung und Einbau) flexibel nach meinen Wünschen vereinbart. Der Einbau selber war in wenigen Minuten erledigt. Die Klappe funktioniert sehr gut und die Arbeit wurde sehr sauber  ausgeführt. Ich kann Glaserei Silvan empfehlen.",
+        "time": 1768210175,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Gisela Eichenberger",
+        "author_photo": "/images/reviews/glaserei-silvan-lenzburg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Montage einer Katzenklappe. Von der Offerte bis zur Erledigung des Auftrages hat alles reibungslos geklappt. Die Arbeit wurde exakt und schnell erledigt. Danke für Ihre freundliche und unkomplizierte Art. Gerne wieder für ein anderes Projekt.",
+        "time": 1758795134,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "K",
+        "author_photo": "/images/reviews/glaserei-silvan-lenzburg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die GlasereiSilvan hat bei mir alle Fenster durch 3-fach-Verglasung ersetzt und zusätzlich weitere Arbeiten ausgeführt.\nVon Anfang an hatte ich ein sehr gutes Gefühl – und dieses wurde in jeder Hinsicht bestätigt.\n\nDas Team arbeitet äußerst präzise, sauber und zuverlässig. Sehr fleißige, kompetente und gleichzeitig sehr sympathische Fachleute. Alles wurde perfekt ausgeführt, sauber hinterlassen und termingerecht abgeschlossen.\n\nDas Preis-Leistungs-Verhältnis ist absolut fair und transparent.\n\nIch kann die Glaserei Silvan aus voller Überzeugung und wärmstens empfehlen.\nVielen Dank für die hervorragende Arbeit!\nKarin",
+        "time": 1770465507,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Stefanie Groth",
+        "author_photo": "/images/reviews/glaserei-silvan-lenzburg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dem Einbau der Katzenklappe sehr zufrieden. Es gab einen Besuch vor Ort und anschliessend gleich zwei Offerten mit guten Ideen für die Umsetzung. Die Umsetzung erfolgte zügig und professionell. Sehr freundlicher Service und absolut empfehlenswert!",
+        "time": 1764852937,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

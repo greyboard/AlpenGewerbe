@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJA_28mjZzkEcRkcuM4NbknuQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Florian Senn",
+        "author_photo": "/images/reviews/fabians-garten-gmbh-buchs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fabian wurde mir empfohlen und hat alle Erwartungen übertroffen. Vom ersten Telefonat bis zur Auslieferung der Büro-Pflanzen durften wir einen super Service geniessen. Auch bei Fragen zur Pflege und Unklarheiten nimmt sich Fabian und das Team die Zeit, diese zu klären. Top Dienstleistung und äusserst serviceorientiert!",
+        "time": 1557232836,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Marco Meier",
+        "author_photo": "/images/reviews/fabians-garten-gmbh-buchs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Fabians Garten ist eine Top Firma..\nSehr freundliche und kompetente Gärtner. Kann ich nur empfehlen.",
+        "time": 1745653415,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Suzanne Glauser",
+        "author_photo": "/images/reviews/fabians-garten-gmbh-buchs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente, äusserst freundliche, herzliche und speditive Gärtner. Immer wieder gerne. Kann ich nur wärmstens empfehlen.",
+        "time": 1698390809,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Aleksander Hendigery",
+        "author_photo": "/images/reviews/fabians-garten-gmbh-buchs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Haben meinen Garten toll gemacht. Kann diese Firma nur empfehlen.",
+        "time": 1510856536,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Nina Heinrich",
+        "author_photo": "/images/reviews/fabians-garten-gmbh-buchs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Umfassender Service! Jetzt ist unser Büro super ausgestattet",
+        "time": 1557233085,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

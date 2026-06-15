@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJscxLQwPlmkcR4veX5qcz2t4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–19:00 Uhr",
+    "Dienstag: 08:30–19:00 Uhr",
+    "Mittwoch: 08:30–19:00 Uhr",
+    "Donnerstag: 08:30–19:00 Uhr",
+    "Freitag: 08:30–19:00 Uhr",
+    "Samstag: 11:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Sara-Lisa Urweider",
+        "author_photo": "/images/reviews/thur-bau-gmbh-kradolf-schoenenberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis hin zur Umsetzung habe ich nur positive Erfahrungen mit Thur-Bau gemacht. Timon Meier war jeder Zeit erreichbar und konnte alle meine Fragen/ Anliegen klären. Zuverlässige, professionelle Umsetzung und ein überaus zufriedenstellendes Ergebnis. Gerne wieder:)",
+        "time": 1605713317,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gianin Carisch",
+        "author_photo": "/images/reviews/thur-bau-gmbh-kradolf-schoenenberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Meier nimmt sich für die individuelle Betreuung viel Zeit und war jederzeit erreichbar. Kompetente Beratung und die Arbeiten wurden schnell und sauber ausgeführt. Top Preis/Leistungsverhältnis. Kann ich nur empfehlen!",
+        "time": 1605695483,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Jürgen Knispel",
+        "author_photo": "/images/reviews/thur-bau-gmbh-kradolf-schoenenberg/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Architekturleistung nicht überzeugend und nicht wirklich innovativ.\nPreis- Leistungsverhältnis korrespondiert in keiner Weise mit den geäusserten Versprechungen. Intransparente, fragliche und nicht nachvollziehbare Preisgestaltung /Rechnungsstellung.\nKundenorientierung lässt sehr zu wünschen übrig, strittiges, aggressives Geschäftsgebaren.",
+        "time": 1635410182,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "giuliano fusco",
+        "author_photo": "/images/reviews/thur-bau-gmbh-kradolf-schoenenberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605687667,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roger Meier",
+        "author_photo": "/images/reviews/thur-bau-gmbh-kradolf-schoenenberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605113692,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

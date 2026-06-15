@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4QT62505jkcRHjvjksZP1ao",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "George Georgiev",
+        "author_photo": "/images/reviews/sp-malerei-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Palermo ist ein äußerst exakter, zuverlässiger und seriöser Geschäftspartner. Auch bei Weiterempfehlungen wurde ich erneut kontaktiert und darüber informiert, wie hervorragend die Zusammenarbeit mit ihm war. Weltklasse!",
+        "time": 1731872318,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hansi Ghaax",
+        "author_photo": "/images/reviews/sp-malerei-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Davide Palermo hat alle Arbeiten zu unserer vollsten Zufriedenheit erledigt. Die Terminabsprachen sowie die Ausführung der Arbeiten war einwandfrei. Wir können Herrn Palermo auf jeden Fall weiterempfehlen. Herzlichen Dank!",
+        "time": 1601125190,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Stefan Perreten",
+        "author_photo": "/images/reviews/sp-malerei-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Palermo hat von der Beratung bis hin zur  Ausführung eine stets hervorragende und kompetente Arbeit geleistet.\n\nWir können die SP Malerei GmbH nur weiterempfehlen. Vielen dank nochmals.\n\nFreundliche Grüsse\n\nStefan Perreten",
+        "time": 1600174453,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ugur K.",
+        "author_photo": "/images/reviews/sp-malerei-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Innen- und Aussenarbeiten am Eigenheim: Super Service bei einem guten und fairen Preis für beide Seiten. Kein langes hin- und her bei den Offerten. Ausführung war sehr sauber, es wurde auf Details geachtet. Fertigstellung erfolgte pünktlich und ohne überraschendem Preisaufschlag!",
+        "time": 1597690485,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Sandra Gilgen",
+        "author_photo": "/images/reviews/sp-malerei-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Davide Palermo ist sehr freundlich, zuvorkommend und hat uns gut beraten. Das Resultat war dann auch sehr schön! DANKE!",
+        "time": 1675798065,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

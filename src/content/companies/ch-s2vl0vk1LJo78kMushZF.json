@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJf4OXpFX9mkcR63v1wOIhqJQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Alois Schütz",
+        "author_photo": "/images/reviews/hechelmann-ag-egnach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service und Qualität.\nSchnell und freundlich!\nDanke",
+        "time": 1779864934,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "c e st",
+        "author_photo": "/images/reviews/hechelmann-ag-egnach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "mehr als glücklich mit der in Auftrag gegebenen Fertigung des Tischs und Beistellmöbels. Kein Ächzen oder Ausreden der Sonderwünsche. Perfekt umgesetzt. Von A-Z tiptop.",
+        "time": 1745348903,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Heinz Oswald",
+        "author_photo": "/images/reviews/hechelmann-ag-egnach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Hechelmann ist der beste Schreiner ever,  Neubau Seemoosholz Arbon. Gibt immer zeitnah Antwort, und das Preis Leistung Verhältnis ist stimmt, auch\ndie Qualität und Beratung ist top. Auf meine Frage an den Verkäufer der Eigentumswohnungen Seemoosholz in Arbon, wer der beste Handwerksbetrieb ist, kam spontan die Antwort „der Schreiner Hechelmann“, da waren wir uns einig, weiter so !",
+        "time": 1670948101,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mariangela Kotte",
+        "author_photo": "/images/reviews/hechelmann-ag-egnach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Geht auf die Wünsche der Kunden ein, ist fachlich top, nimmt sich Zeit und nun sind wir sehr gespannt auf das endergebniss. Die Küche ist schon mal perfekt und schnell gemacht worden. Danke an Herr Hechelmann und sein Team.",
+        "time": 1610996278,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Robert mf",
+        "author_photo": "/images/reviews/hechelmann-ag-egnach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich, flexibel, gute Qualität. Wir sind sehr zufrieden mit unserem Kleiderschrank und Bücherregal nach Mass.",
+        "time": 1695918086,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

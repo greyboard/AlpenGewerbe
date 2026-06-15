@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMSICXABrj0cRGbmDAgq5-p8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Samuel Bischoff",
+        "author_photo": "/images/reviews/malermeister-zimmermann-ag-visp/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete Arbeit! Das gesamte Team unter der Leitung von Ivan ist sehr kompetent, menschlich und effizient. Alle arbeiten Hand in Hand. Das Ergebnis lässt keine Wünsche offen. Jederzeit bestens zu empfehlen.",
+        "time": 1776332635,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Michael Eggel",
+        "author_photo": "/images/reviews/malermeister-zimmermann-ag-visp/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung. Die Arbeiten werden sehr professionell umgesetzt und die Mitarbeiter sind angenehm und freundlich. Super Firma. Kann man nur weiterempfehlen.",
+        "time": 1776326183,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Kronig Matthias",
+        "author_photo": "/images/reviews/malermeister-zimmermann-ag-visp/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein neues Maler Unternehmen in Visp, wird viele schöne Sachen für die Kunden machen können.\nIvan Zimmermann ist ein wirklich sehr Sympathischer und guter Malermeister. Mit Herzblut geht er an seine Arbeit und zur Eröffnung wünsche ich alles gute. Ich kann diesen Maler wirklich nur weiterempfehlen. ☺️👍🏻",
+        "time": 1709835569,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alena Anthamatten",
+        "author_photo": "/images/reviews/malermeister-zimmermann-ag-visp/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich möchte mich nochmals herzlich für die perfekte Ausführung und die rasche Rechnungsstellung bei dir bedanken!\nEinen guten Tag & eine erfolgreiche Zeit.\nBeste Grüsse Alena",
+        "time": 1714419192,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Annia Schmid",
+        "author_photo": "/images/reviews/malermeister-zimmermann-ag-visp/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin super zufrieden mit der Beratung und der Ausführung von Arbeiten. Zimmermann hat für alles eine Lösung und die Arbeiten sind top in der Ausführung.",
+        "time": 1753091336,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

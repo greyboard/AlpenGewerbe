@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJtQGffV86kEcRUboDpoh0XOk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Ingrid Jent",
+        "author_photo": "/images/reviews/italia-keramik-gmbh-niedergoesgen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Dieses Unternehmen ist freundlich, kompetent, hilfsbereit und liefert hervorragende, fristgerechte Arbeiten.\nIch kann Italia-Keramik GmbH bestens weiterempfehlen!",
+        "time": 1767902272,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Simon Meier",
+        "author_photo": "/images/reviews/italia-keramik-gmbh-niedergoesgen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen herzlichen Dank für die tolle Ausführung bei uns Zuhause!\nDie Arbeiten (neue Bodenplatten verlegen) wurden zu unserer vollsten Zufriedenheit ausgeführt – besten Dank dafür! Wir freuen uns auf die weitere Zusammenarbeit mit Italia-Keramik!",
+        "time": 1739781468,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Luki Mi",
+        "author_photo": "/images/reviews/italia-keramik-gmbh-niedergoesgen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr zu empfehlen - von A-Z Top! Super Begleitung bei der Auswahl der Platten, saubere Arbeit und top Kommunikation! Der nächste Auftrag folgt bestimmt.",
+        "time": 1742967760,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dominik Eng",
+        "author_photo": "/images/reviews/italia-keramik-gmbh-niedergoesgen/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Termin eingehalten saubere Arbeit danke",
+        "time": 1763654210,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Bruno Hoser",
+        "author_photo": "/images/reviews/italia-keramik-gmbh-niedergoesgen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit und gutes Fachpersonal, geht auf die Kundenwünsche ein.\nKann weiterempfohlen werden.",
+        "time": 1748261492,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

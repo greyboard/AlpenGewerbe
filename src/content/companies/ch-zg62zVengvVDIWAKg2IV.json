@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJMyTao5nLkUcRJw1sEXJzw4I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–16:30 Uhr",
+    "Dienstag: 08:00–16:30 Uhr",
+    "Mittwoch: 08:00–16:30 Uhr",
+    "Donnerstag: 08:00–16:30 Uhr",
+    "Freitag: 08:00–16:30 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 22,
+    "reviews": [
+      {
+        "author_name": "Fredy Meury",
+        "author_photo": "/images/reviews/blatter-gmbh-sauber-geheizt-liestal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service! Saubere Arbeit! Kompetente Mitarbeiter inkl Herr Blatter selbst!\nFlexibel auch was Termine anbelangt, auch wenn sie unter Zeitdruck stehen! Werden die Firma auch für Sanitärarbeiten neu berücksichten! Wärmstens weiter zu empfehlen!",
+        "time": 1763976323,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Held Hans Rudolf",
+        "author_photo": "/images/reviews/blatter-gmbh-sauber-geheizt-liestal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute und kompetente Beratung. Ausgesprochen saubere und mit Handwerkern gut koordinierte Ausführung der Arbeiten. Schnelle und effiziente Installation. Herr Blatter stellt sich auch nach ausgeführter Arbeit für Beratungen und Hilfestellungen zur Verfügung. Sehr zu empfehlen!",
+        "time": 1771229643,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sash",
+        "author_photo": "/images/reviews/blatter-gmbh-sauber-geheizt-liestal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir können die Firma Blatter GmbH sauber geheizt nur weiterempfehlen. Herr Blatter hat uns mit seiner Fachkompetenz überzeugt. Von der Beratung und Planung bis zur Ausführung absolut Top.",
+        "time": 1757956236,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Christine Weber",
+        "author_photo": "/images/reviews/blatter-gmbh-sauber-geheizt-liestal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell und zuverlässig... auch im Notfall. Firma ist sehr zu empfehlen!",
+        "time": 1768468046,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Hans Meier",
+        "author_photo": "/images/reviews/blatter-gmbh-sauber-geheizt-liestal/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Leider war ich mit der erhaltenen Beratung nicht zufrieden.",
+        "time": 1772621247,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

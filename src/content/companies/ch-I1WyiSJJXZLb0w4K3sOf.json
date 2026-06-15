@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ1PCjvUem0cRNvBE-JXfFCc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "markus ammann",
+        "author_photo": "/images/reviews/kuster-glas-und-holz-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Perfekter Service, sehr schnell, freundlich und zuverlässig. Ich kann die Firma nur wärmstens weiter empfehlen. Sie mussten mir die Küchen Schiebetür auswechseln was Top geklappt hat.\nVielen Dank nochmals",
+        "time": 1743597303,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eveline Falk",
+        "author_photo": "/images/reviews/kuster-glas-und-holz-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Handwerk vom Feinsten! Herzlichen Dank für die wunderschöne Restauration unserer Jugendstil-Türe mit ihren farbigen Glaseinsätzen. Da habt ihr ein Kunstwerk vollbracht!",
+        "time": 1770195018,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Yvonne Stolz",
+        "author_photo": "/images/reviews/kuster-glas-und-holz-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sympatische und freundliche Begrüssung durch Frau und Herrn Kuster. Kompetente, zuverlässige und präzise Ausführung des Auftrages. Das kaputte Fenster wurde innert Kürze repariert, geliefert und montiert. Ich bin mit der angebotenen Dienstleistung sehr zufrieden und kann sie weiterempfehlen. Vielen Dank!",
+        "time": 1689828432,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Stephan Ziegler",
+        "author_photo": "/images/reviews/kuster-glas-und-holz-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schneller, freundlicher und professioneller Service für zwei Holz-Spezialanfertigungen; die Erwartungen wurden übertroffen. Danke, gerne wieder!",
+        "time": 1635686240,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Maria Angela Schiavone",
+        "author_photo": "/images/reviews/kuster-glas-und-holz-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super schneller Service sehr freundlich und Kompetent.Mit dieser spezielle Montage fühle ich mich nach dem Einbruch langsam wieder sicherer.Danke dafür",
+        "time": 1708021960,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

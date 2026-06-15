@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7zxpDXgUjkcREpxFvfIf6JE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:15 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:15 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "David Schmutz",
+        "author_photo": "/images/reviews/winkelmann-elektro-ag-kerzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer sehr flexibel und höchst professionel. Mit unseren Aufträgen sind wir immer zufrieden.\nNico uns sein Team machen das richtig gut.",
+        "time": 1732011617,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marc Schwarz",
+        "author_photo": "/images/reviews/winkelmann-elektro-ag-kerzers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "TOP Beratung, TOP Umsetzung durch hervorragenden Fachmann, preislich sehr faire Abrechnung. Jederzeit wieder, vielen Dank!",
+        "time": 1641236377,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Diana Tschachtli",
+        "author_photo": "/images/reviews/winkelmann-elektro-ag-kerzers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Firma. Immer zuverlässig.",
+        "time": 1662230118,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Urs Egli",
+        "author_photo": "/images/reviews/winkelmann-elektro-ag-kerzers/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1670756353,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Steve Fontana",
+        "author_photo": "/images/reviews/winkelmann-elektro-ag-kerzers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1704741103,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

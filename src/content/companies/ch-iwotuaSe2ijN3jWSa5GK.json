@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ65oCHiopjkcRpP_gGEJFh4w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 88,
+    "reviews": [
+      {
+        "author_name": "Kevin Niederhauser",
+        "author_photo": "/images/reviews/bernhard-ag-utzenstorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vom Erstgespräch bis zum Abschluss der Arbeiten war ich rundum zufrieden. Die Beratung war kompetent, transparent und sehr angenehm. Rückfragen wurden stets umgehend und zufriedenstellend beantwortet. Die Arbeiten auf dem Dach wurden sauber, zuverlässig und termingerecht ausgeführt. Auch die Abstimmung mit dem Elektriker hat hervorragend funktioniert – alles lief reibungslos und professionell. Wir haben viel Freude am neuen Dach und der neuen PV-Anlage.\nVielen Dank für die tolle Arbeit und den freundlichen Service. Ich kann die Bernhard AG bestens weiterempfehlen.",
+        "time": 1773392453,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Adrian Meyer",
+        "author_photo": "/images/reviews/bernhard-ag-utzenstorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vom ersten Gespräch bis zur Inbetriebnahme unserer PV-Anlage haben wir uns bei der Bernhard AG richtig gut aufgehoben gefühlt.\nDas Team war pünktlich, freundlich und hat sehr sauber gearbeitet. Das Gerüst war nach 4 Tagen bereits wieder abgebaut und die PV Panels waren montiert. Wir waren beeindruckt!\nDie Kommunikation war transparent und unkompliziert. Auch mit den Partnern wie bspw. der Firma Amiet sind wir rundum zufrieden.\nHerzlichen Dank an das ganze Team!",
+        "time": 1753382257,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "MARKUS F.",
+        "author_photo": "/images/reviews/bernhard-ag-utzenstorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Bernhard AG hat für uns eine 8 kWp PV-Anlage auf ein bestehendes Dach geplant und installiert. Im Rahmen der Offertstellung hat man uns sehr gut beraten, alle unsere Fragen beantwortet und zu einem konkurrenzfähigem Preis angeboten.\nDie Ausführung war für uns ein ‘Rundum sorglos Packet’. Die Bernhard AG kümmerte sich um alle Termine, Anmeldungen und den Rückvergütungsantrag.\nDie Arbeiten wurden von einem sehr freundlichen und kompetenten Team durchgeführt. Als Bauherr ist man froh, dass das Team nicht nur versteht die PV-Module korrekt zu installieren, sondern als Dachdecker auch die Konstruktion des Ziegel- und des Blechdaches versteht.\nDie von Bernhard beigezogene Elektrofirma hat ihre Arbeiten an den Leitungen, dem Elektroverteiler, den Geräten und die Instruktion ebenfalls tadellos durchgeführt.\nZum Abschluss erhielten wir eine umfassende Dokumentation der Anlage.",
+        "time": 1760431873,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Eddy Stempfel",
+        "author_photo": "/images/reviews/bernhard-ag-utzenstorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir durften im März 2026 eine von der Firma Bernhard AG geplante und installierte PV-Aufdachanlage 13.35 kWp inkl. Batteriespeicher 12.6 kWh in Betrieb nehmen. Wir waren rundum zufrieden. Die Beratung, Termintreue und Ausführung waren professionell und sehr speditiv. Speziell danken möchten wir Herrn Jonas Schneider für die kompetente Arbeit mit seinem sehr freundlichen Team.\nWir können die Firma Bernhard AG bestens empfehlen.\nNochmals ein Dankeschön an alle Mitwirkenden.\nE. Stempfel und Y. Polli",
+        "time": 1774625465,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Markus Hurni",
+        "author_photo": "/images/reviews/bernhard-ag-utzenstorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Besten Dank an die Firma Bernhard AG, wir sind mit allem sehr zufrieden. Vom ersten Kontakt, über die Offerte bis hin zur Fertigstellung der Anlage inkl. der sehr gut koordinierten Zusammenarbeit mit allen anderen Handwerkern, alles lief unkompliziert und professionell ab. Sehr empfehlenswert",
+        "time": 1746716108,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

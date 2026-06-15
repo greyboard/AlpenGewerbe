@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJWS3iT6jHhEcRX6ZbElS6WgE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Helmut Lettenbichler",
+        "author_photo": "/images/reviews/zindel-gruppe-ag-baumeister-graubuendens-chur/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Sehr Freundliche Leute.",
+        "time": 1612701916,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Elzbieta Skowronek",
+        "author_photo": "/images/reviews/zindel-gruppe-ag-baumeister-graubuendens-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Großes Bauunternehmen, leicht verständlich, großer Parkplatz",
+        "time": 1748776095,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adriano Vitacca",
+        "author_photo": "/images/reviews/zindel-gruppe-ag-baumeister-graubuendens-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1750925826,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "José Carlos Pinheiro Moura Pinheiro Moura",
+        "author_photo": "/images/reviews/zindel-gruppe-ag-baumeister-graubuendens-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739132451,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rönci",
+        "author_photo": "/images/reviews/zindel-gruppe-ag-baumeister-graubuendens-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710442417,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMd-B0t5ujkcRPgK-TyOaMds",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: 07:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 68,
+    "reviews": [
+      {
+        "author_name": "Slijepcevic Ajdin",
+        "author_photo": "/images/reviews/peinture-express-sa-entreprise-de-peinture-a-fribourg-avry/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnell, sauber und sehr kontaktfreudig. Nur so kann man die Persönlichkeiten hinter dem Unternehmen beschreiben! Vielen dank für die hoch professionelle Arbeit. Freundliche Grüsse",
+        "time": 1578522540,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Steffen Thomas",
+        "author_photo": "/images/reviews/peinture-express-sa-entreprise-de-peinture-a-fribourg-avry/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit und ein gutes Miteinander. Peinture-Express empfehlen wir gerne weiter. Termingetreu und professionell.",
+        "time": 1660569230,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Medina Denic",
+        "author_photo": "/images/reviews/peinture-express-sa-entreprise-de-peinture-a-fribourg-avry/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr pünktlich und professionell",
+        "time": 1548532400,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Laure Dutoit",
+        "author_photo": "/images/reviews/peinture-express-sa-entreprise-de-peinture-a-fribourg-avry/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Peinture Express hat die Außenfassade unseres Hauses neu gestrichen und wir sind mit der Arbeit sehr zufrieden: professionell, sehr gründlich, sauber und freundlich. Sie hatten bereits die Innenräume gestrichen und wir sind froh, dass wir sie wieder beauftragt haben!",
+        "time": 1780215010,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Laurent Pillet",
+        "author_photo": "/images/reviews/peinture-express-sa-entreprise-de-peinture-a-fribourg-avry/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fassadenrenovierung (Einfamilienhaus)\n\nWir sind mit dem neuen Anstrich der Fassade unseres Einfamilienhauses sehr zufrieden. Von Anfang an gingen die Inhaber sehr auf unsere Wünsche ein, und die Kommunikation war hervorragend. Ihre freundliche Art trug maßgeblich zur angenehmen Projektabwicklung bei.\n\nDie Arbeiten waren umfangreich, da die Fassaden alt und der Originalanstrich stark verblasst waren. Trotzdem wurden alle gewünschten Ausbesserungen sorgfältig ausgeführt. Wir erhielten zudem eine ausgezeichnete Beratung zu den verschiedenen Methoden der Fassadenrenovierung, was uns Vertrauen in die getroffenen technischen Entscheidungen gab.\n\nDas Endergebnis wertet das Erscheinungsbild des gesamten Hauses deutlich auf. Eine professionelle und qualitativ hochwertige Arbeit, ausgeführt von echten Profis, die wir uneingeschränkt empfehlen.",
+        "time": 1765879128,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

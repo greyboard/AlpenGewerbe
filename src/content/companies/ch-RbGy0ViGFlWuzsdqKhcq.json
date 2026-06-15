@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJU1buZICAmkcRsib3qpQNdms",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Mark Bosshard",
+        "author_photo": "/images/reviews/holz-peyer-gmbh-thayngen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super unkompliziert alles online rasch abgewickelt - der digitalste Schreiner der Schweiz! Und erst noch super Qualität und Preis - empfehle ich gerne weiter.",
+        "time": 1718874598,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gabriella Coronelli",
+        "author_photo": "/images/reviews/holz-peyer-gmbh-thayngen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vom Erstkontakt bis zur Ausführung ein zuvorkommendes, professionelles und kundenorienteres Vorgehen. Das Ergebnis übertraf unsere Vorstellung. Kann ich wärmstens und ohne jegliche Vorbehalte bestens weiterempfehlen.",
+        "time": 1696835227,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Karim Hamdaoui",
+        "author_photo": "/images/reviews/holz-peyer-gmbh-thayngen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "„Das Unternehmen Holz Peyer hat bei uns 2 Kellerwände isoliert und im selben Raum einen Boden verlegt. Die Isolation ist super und die Wärme bleibt jetzt im Raum. Holz Peyer ist ein sehr zuverlässiges und professionelles Unternehmen. Alles wurde so umgesetzt wie vereinbart. Ich kann mit gutem Gewissen diese Firma wärmstens weiterempfehlen. ”\nK. H. Matzingen",
+        "time": 1674205891,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Besor Tahiri",
+        "author_photo": "/images/reviews/holz-peyer-gmbh-thayngen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswerter Schreiner mit exzellenter handwerklicher Arbeit und hervorragendem Kundenservice!",
+        "time": 1687183145,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yannick Stampfli",
+        "author_photo": "/images/reviews/holz-peyer-gmbh-thayngen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1555993295,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

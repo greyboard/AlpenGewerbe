@@ -1,7 +1,7 @@
 {
   "id": "ch-IoZm17mCDrZxj6wM7vK9",
   "slug": "schenini-sa-cadro",
-  "name": "Schenini SA",
+  "name": "SCHENINI SA",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,39 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJvygESpsthEcRuxLLdudyUEo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Renato Binetti",
+        "author_photo": "/images/reviews/schenini-sa-cadro/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Ich kenne die oben genannte Firma und halte sie für fachlich kompetent, gut organisiert und seriös. Ich kann sie für alle metallurgischen Arbeiten jedem empfehlen, der Wert auf Kunstwerke legt.",
+        "time": 1493938478,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Gloria Curti",
+        "author_photo": "/images/reviews/schenini-sa-cadro/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1747396006,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

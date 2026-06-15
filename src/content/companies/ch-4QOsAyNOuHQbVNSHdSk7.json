@@ -26,5 +26,55 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAYHzTKbHhEcR430cWB06JK8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Celine",
+        "author_photo": "/images/reviews/maler-donato-grecuccio-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Donato führt seine Arbeit sauber aus und ist sowohl beruflich als auch persönlich ein grossartiger Mensch. Er ist definitiv die richtige Wahl als Maler.",
+        "time": 1760195882,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Cocco Nelly",
+        "author_photo": "/images/reviews/maler-donato-grecuccio-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Maler Donato hat einen fantastischen Job gemacht! Die Arbeiten wurden schnell, sauber und professionell durchgeführt - ich bin sehr begeistert!",
+        "time": 1705609968,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marcus Felsner",
+        "author_photo": "/images/reviews/maler-donato-grecuccio-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711443786,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "VNXPO",
+        "author_photo": "/images/reviews/maler-donato-grecuccio-chur/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1494143065,
+        "relative_time_description": "vor 9 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

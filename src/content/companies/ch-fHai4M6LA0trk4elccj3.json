@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJRbERnpIbm0cR3e9OFNjTXsA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 36,
+    "reviews": [
+      {
+        "author_name": "Michael Lorenzi",
+        "author_photo": "/images/reviews/lugina-garten-gmbh-goldach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich und gute Beratung und Vorschläge. Man spürt die Hingabe und den Drang ein gutes Ergebnis für den Kunden zu liefern.\n\nUnser neuer Eingangsbereich in Naturstein in Wildschnitt ist sehr schön geworden.",
+        "time": 1742840523,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kurt Schibli",
+        "author_photo": "/images/reviews/lugina-garten-gmbh-goldach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Lugina Gartenbau hat unseren Sitzplatz zu unseren vollsten Zufriedenheit umgebaut.",
+        "time": 1774021730,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Arnold Luli",
+        "author_photo": "/images/reviews/lugina-garten-gmbh-goldach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mega freundlicher Familienbetrieb, sehr hilfsbereit und zuverlässig.\nKann man wirklich jedem Empfehlen 👍 Top Arbeit",
+        "time": 1726159432,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudia",
+        "author_photo": "/images/reviews/lugina-garten-gmbh-goldach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Angefangen von der Beratung, den Ideen, die eingebracht wurden, über die Ausführung und schlussendlich das Endresultat kann ich das Unternehmen sehr empfehlen.",
+        "time": 1779442274,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Samir Seaydoun",
+        "author_photo": "/images/reviews/lugina-garten-gmbh-goldach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der Arbeit von Lugina Garten! Die Hecke aus Forsythien und Glanzmispeln wurde perfekt umgesetzt, alles sieht wunderschön und sehr gepflegt aus. Von der ersten Beratung bis zur Ausführung war alles professionell, freundlich und zuverlässig. Man merkt, dass hier mit Herz und Fachwissen gearbeitet wird. Absolut empfehlenswert.\nVielen Dank für die tolle Arbeit!",
+        "time": 1743453462,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

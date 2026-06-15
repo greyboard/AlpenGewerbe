@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJK1hf2y5OhUcRALY7uxAiddU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Silvia Holdener",
+        "author_photo": "/images/reviews/schreinerei-von-rickenbach-ag-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nette und unkomplizierte Kommunikation, hohe fachliche Kompetenz und volle Transparenz während des gesamten Auftrags. Während der Ausführung der Arbeiten waren wir ausser Haus und konnten uns voll auf das Team der Schreinerei Von Rickenbach verlassen. Die Arbeiten wurden sauber, sorgfältig und hervorragend ausgeführt. Auch die Koordination mit der externen Firma hat bestens funktioniert. Besonders geschätzt haben wir die Nachfrage am Abend, ob alles zu unserer Zufriedenheit erledigt wurde. Vielen Dank für die tolle Arbeitsausführung!",
+        "time": 1779959780,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Renato Kryenbühl",
+        "author_photo": "/images/reviews/schreinerei-von-rickenbach-ag-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben uns bei unserem Neubauprojekt sehr gut und kompetent Betreut gefühlt. Das Team der Schreinerei von Rickenbach arbeitet mit innovativen Lösungen und viel Freude am Handwerk. Jederzeit gerne wieder…",
+        "time": 1706622066,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Manuel Horat",
+        "author_photo": "/images/reviews/schreinerei-von-rickenbach-ag-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind begeistert von der Schreinerei von Rickenbach. Der Badumbau inkl. Massanfertigungen wurde fachlich top und zur vollsten Zufriedenheit ausgeführt. Freundliches Team, Traum-Ergebnis. Danke euch!",
+        "time": 1780604598,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Giuseppe Mauro",
+        "author_photo": "/images/reviews/schreinerei-von-rickenbach-ag-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Spitze 👍👍",
+        "time": 1761037391,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Mike70 Kaufmann",
+        "author_photo": "/images/reviews/schreinerei-von-rickenbach-ag-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1778359357,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,55 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJW4qXN52ohEcRNT7gGnwl2ug",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Annamaria Vogt",
+        "author_photo": "/images/reviews/j-fretz-gmbh-spenglerei-bedachungen-solaranlagen-klosters-serneus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr guati arbet,fair",
+        "time": 1681999678,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Michal Pecháček",
+        "author_photo": "/images/reviews/j-fretz-gmbh-spenglerei-bedachungen-solaranlagen-klosters-serneus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1694441582,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Simi Sicherli",
+        "author_photo": "/images/reviews/j-fretz-gmbh-spenglerei-bedachungen-solaranlagen-klosters-serneus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1647020068,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Aguia13",
+        "author_photo": "/images/reviews/j-fretz-gmbh-spenglerei-bedachungen-solaranlagen-klosters-serneus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1515416397,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

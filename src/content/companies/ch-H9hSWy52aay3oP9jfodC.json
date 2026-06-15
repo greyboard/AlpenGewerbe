@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJpc-92nA1hEcR8JXsadQGn7c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Luigi Caglia",
+        "author_photo": "/images/reviews/mazzei-piastrellista-sagl-sant-antonino/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Funktioniert einwandfrei und hat tolle Preise.",
+        "time": 1514364485,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Walter Garcia",
+        "author_photo": "/images/reviews/mazzei-piastrellista-sagl-sant-antonino/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Freundlich, schnell und professionell",
+        "time": 1600326905,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nicholas Bassi",
+        "author_photo": "/images/reviews/mazzei-piastrellista-sagl-sant-antonino/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr, sehr schön",
+        "time": 1519815728,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "francesco casarucci",
+        "author_photo": "/images/reviews/mazzei-piastrellista-sagl-sant-antonino/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1607874122,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tiago Gomes",
+        "author_photo": "/images/reviews/mazzei-piastrellista-sagl-sant-antonino/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576562542,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

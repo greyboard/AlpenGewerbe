@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjSJqjjdljEcRf8BEJEwa5bM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 09:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Isabelle Vulliet Rieder",
+        "author_photo": "/images/reviews/borella-vogue-decoration-filles-geneve/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Ich habe keine Antwort auf meine Anfrage erhalten...",
+        "time": 1645613230,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "isabella Coda Bompiani",
+        "author_photo": "/images/reviews/borella-vogue-decoration-filles-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein Beispiel für Perfektion und effizienten Service.",
+        "time": 1604246462,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "FX CHARMOILLE",
+        "author_photo": "/images/reviews/borella-vogue-decoration-filles-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Profis. Ich empfehle sie.",
+        "time": 1618574681,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dimitri Tsacopoulos",
+        "author_photo": "/images/reviews/borella-vogue-decoration-filles-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1772021552,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Manon Roquette",
+        "author_photo": "/images/reviews/borella-vogue-decoration-filles-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1555670173,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

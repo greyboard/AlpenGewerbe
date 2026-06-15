@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT3j93xe4kUcRbFmdsjbUf0E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Jonis GmbH",
+        "author_photo": "/images/reviews/matra-ag-muenchenstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr saubere Arbeiten. Gepflegt auftreten\nGuter Preis.\nIch empfehle diese Firma gerne weiter.\nDankeschön ans Team und besonders an Frau Galliker.\nBis zum nächsten mal für unsere Fassade.\nMit freundlichen Grüßen",
+        "time": 1678800555,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christa Rem",
+        "author_photo": "/images/reviews/matra-ag-muenchenstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit, faire Preisgestaltung und pünktliche Fertigstellung!",
+        "time": 1731673066,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "K B",
+        "author_photo": "/images/reviews/matra-ag-muenchenstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Beratung. Toller Service. Kann man wärmstens weiterempfehlen. Danke an Markus für den top support!",
+        "time": 1652799176,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Noemi Dual Garcia",
+        "author_photo": "/images/reviews/matra-ag-muenchenstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Es ist wunderbar, ein Haus mit solch einer Präzision und Perfektion zu bauen. Ich möchte unbedingt selbst bauen; wenn Sie mir etwas beibringen, bin ich für alles offen – Bauen, Entwerfen, Streichen, Dekorieren usw. Vielen Dank.",
+        "time": 1702795031,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "N. H",
+        "author_photo": "/images/reviews/matra-ag-muenchenstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676213743,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJcxNKFXF_kEcR4HLnkR1Q9LM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–17:00 Uhr",
+    "Dienstag: 07:15–17:00 Uhr",
+    "Mittwoch: 07:15–17:00 Uhr",
+    "Donnerstag: 07:15–17:00 Uhr",
+    "Freitag: 07:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "F S",
+        "author_photo": "/images/reviews/wildberger-sanitaer-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Der hochdeutsch sprechende Sanitär der kam, war sehr, sehr unfreundlich.. nein, da kann man wirklich guten Gewissens sagen: extrem frech!\n\nAufgrund der schlimmen Erfahrung eindeutig keine Empfehlung diesen Sanitär zu beauftragen!",
+        "time": 1753880385,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Judith Sommersonne",
+        "author_photo": "/images/reviews/wildberger-sanitaer-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wildberger Sanitär kommt rasch bei Problemen, berät kompetent, leistet gute Arbeit und hat angemessene Preise. Ich kann dieses Unternehmen mit bestem Gewissen weiterempfehlen 😊",
+        "time": 1635368874,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ernst Eggenberger",
+        "author_photo": "/images/reviews/wildberger-sanitaer-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Firma mit erfahrenen Installateuren.",
+        "time": 1641275810,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "David Schellenberg",
+        "author_photo": "/images/reviews/wildberger-sanitaer-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hübsch",
+        "time": 1565227223,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Tsomo Samphel",
+        "author_photo": "/images/reviews/wildberger-sanitaer-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1741274699,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

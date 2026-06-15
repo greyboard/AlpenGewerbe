@@ -26,5 +26,22 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJpzlOCzNljEcRBVJ89MtncN8",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Lorenzo Ferraro",
+        "author_photo": "/images/reviews/pascal-maurer-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1605370458,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

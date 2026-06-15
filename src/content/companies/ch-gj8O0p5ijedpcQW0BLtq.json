@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzb69-fz3j0cR89gp5snjoRE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "ROELLI TEC AG",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-stans-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team von und mit Simon Rölli nimmt jede Herausforderung an. Mit Begeisterung und Innovationsfreude leisten sie saubere Arbeit zu fairen, transparenten Preisen! 100% Empfehlung.",
+        "time": 1763648504,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Marco Lastro",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-stans-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Elektriker.. gute Beratung und faire Preise    konnte kurzfristig für einen Notfall unser Problem beheben. Sehr gerne wieder..",
+        "time": 1554106079,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Walter Diebold",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-stans-stans/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompetent, Spedition und zuverlässig",
+        "time": 1697020680,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Silvan Hess",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-stans-stans/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Freundlich",
+        "time": 1650904446,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Martin Heeb",
+        "author_photo": "/images/reviews/frey-cie-elektro-ag-stans-stans/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Die Servicezeiten sind langsam: 1/5 Sterne. Effiziente Techniker fehlen. Die Kosten für kleine Reparaturen übersteigen oft die tatsächliche Arbeitseinsparungslosigkeit hinaus. Schlussendlich mache ich mich wünschen, dass Frey Cie Elektro AG Stans sich mehr auf Qualität und",
+        "time": 1779786959,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

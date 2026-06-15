@@ -26,5 +26,22 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJc9ct_YX7j0cRzKn1P-VagJc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Michael Ha.",
+        "author_photo": "/images/reviews/achermann-kurt-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575287558,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

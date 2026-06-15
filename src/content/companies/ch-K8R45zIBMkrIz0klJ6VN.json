@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6V4E5L8gjkcRgBF-mBeXTtA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Hebu H",
+        "author_photo": "/images/reviews/kaempfer-bedachungs-ag-grenchen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Professinelles Dachdeckergeschäft\nmit hohem Qualitätsanspruch.\nKonnte mit dem Team Kämpfer unser 100 jähriges Mehrfamilien Haus perfekt renovieren und mit einer Indachsolar-Anlage\nergänzen.",
+        "time": 1689191034,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mirco Scheidegger",
+        "author_photo": "/images/reviews/kaempfer-bedachungs-ag-grenchen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580543069,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Franz Kämpfer",
+        "author_photo": "/images/reviews/kaempfer-bedachungs-ag-grenchen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Abendessen",
+        "time": 1597766557,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marc Binggeli",
+        "author_photo": "/images/reviews/kaempfer-bedachungs-ag-grenchen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1590915997,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "B. W.",
+        "author_photo": "/images/reviews/kaempfer-bedachungs-ag-grenchen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739519987,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

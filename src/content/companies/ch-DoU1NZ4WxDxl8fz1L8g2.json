@@ -26,5 +26,31 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJT41HAU_FmkcRlmFxwMNB8sc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–22:00 Uhr",
+    "Dienstag: 07:00–22:00 Uhr",
+    "Mittwoch: 07:00–22:00 Uhr",
+    "Donnerstag: 07:00–22:00 Uhr",
+    "Freitag: 07:00–22:00 Uhr",
+    "Samstag: 07:00–22:00 Uhr",
+    "Sonntag: 07:00–22:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "a. ahmadii",
+        "author_photo": "/images/reviews/elexons-gebertingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin absolut begeistert! Gestern Abend gegen 22:00 Uhr gab es bei uns im ganzen Haus plötzlich einen totalen Stromausfall. Zuerst dachten wir, es sei nur eine kleine Sicherung, aber nichts ging mehr – der Herd, das Licht, alles tot. In so einer Situation gerät man echt kurz in Panik.\n\nIch habe dann nach einem Notdienst Elektriker in der Nähe gesucht und bin auf Elexons gestossen. Obwohl es schon spät war, war der Techniker super freundlich am Telefon und innert 40 Minuten bei uns. Er hat sofort gemerkt, dass es einen Kurzschluss bei der Hauptleitung im Keller gab, weil die alte Verkabelung total marode war.\n\nWas mir besonders gefallen hat: Er hat nicht nur das Problem gelöst, damit wir wieder Strom haben, sondern hat mir auch direkt erklärt, wie wir solche Defekte in Zukunft vermeiden können. Man merkt einfach, dass hier echte Profis am Werk sind, die ihr Handwerk verstehen. Sauber, schnell und preislich absolut fair für einen Elektro Notdienst in der Schweiz.\n\nWer einen kompetenten Elektriker Notdienst braucht, der nicht nur abkassiert, sondern wirklich hilft, ist hier goldrichtig. Vielen Dank für die nächtliche Rettung! 5 Sterne sind eigentlich zu wenig!",
+        "time": 1766560809,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

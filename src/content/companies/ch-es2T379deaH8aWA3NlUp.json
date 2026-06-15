@@ -26,5 +26,38 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJISmbvZUfm0cR26r1qljSufE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Pergola Line",
+        "author_photo": "/images/reviews/kuratli-gartenbau-teufen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Suchen Sie eine neue Idee für den Garten oder möchten Sie etwas neu Gestalten?\nWir können die \"Kuratli Gartenbau\" Firma sehr empfehlen für eine freundliche und kompetente Beratung.",
+        "time": 1773502321,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Aleksandar Lazarevic",
+        "author_photo": "/images/reviews/kuratli-gartenbau-teufen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Mitarbeiter.\nSuper Beratung und Planung für Ihre\nGartenpflege und Gestaltung.",
+        "time": 1615284292,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nathanael Horst",
+        "author_photo": "/images/reviews/kuratli-gartenbau-teufen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1692350237,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

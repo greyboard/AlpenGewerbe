@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJVweHbwC5kUcRvxhDJFz30j4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Mario Sarić",
+        "author_photo": "/images/reviews/aquatherm-installationen-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit von Mladen und seinem Team sehr zufrieden. Er hat sämtliche Sanitärarbeiten in unserem Beauty-Salon professionell und zuverlässig ausgeführt – von der Küche über die Waschbecken im Pediküre-Bereich bis hin zum Anschluss der Waschmaschine und der gesamten Badezimmerinstallation.\n\nDie Arbeit wurde sauber, präzise und termingerecht erledigt. Gerade bei umfangreichen Projekten ist es enorm wichtig, einen kompetenten und vertrauenswürdigen Partner an seiner Seite zu haben. Genau das haben wir hier gefunden.\n\nWir können ihn uneingeschränkt weiterempfehlen und werden auch in Zukunft gerne wieder mit ihm zusammenarbeiten.",
+        "time": 1778702937,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Oliver Graner",
+        "author_photo": "/images/reviews/aquatherm-installationen-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit unserer Badezimmerrenovierung. Professionelle, zuverlässige und hochwertige Arbeit von\nAnfang bis Ende. Das Ergebnis hat unsere Erwartungen übertroffen. Sehr empfehlenswert!",
+        "time": 1776353856,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Francesca Penna",
+        "author_photo": "/images/reviews/aquatherm-installationen-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Aquatherm hat den Tag gerettet! Schnell, professionell und zuverlässig! Aquatherm hat mir in meiner Notlage mit den Rohrleitungen aus der Patsche geholfen. Sehr zu empfehlen!",
+        "time": 1772715653,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Danilo M.",
+        "author_photo": "/images/reviews/aquatherm-installationen-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Auftrag für Einbau einer neuer Wärmepumpe haben wir vergeben. Arbeit wurde sehr sauber, pünktlich und zur vollster Zufriedenheit ausgeführt. Kann Herr Mirjanic nur empfehlen.",
+        "time": 1761665748,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Vladimir Suica",
+        "author_photo": "/images/reviews/aquatherm-installationen-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir können Aquatherm Installationen GmbH nur empfehlen. Sie haben bei uns die Bäder zu voller Zufriedenheit renoviert. Vor allem die Kommunikation sowie die Einhaltung des Terminplans.",
+        "time": 1780745103,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

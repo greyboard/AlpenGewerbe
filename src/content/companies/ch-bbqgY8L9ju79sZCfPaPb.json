@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJWdXEElJjkcR4sNBcjNyFwg",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "La Shiva",
+        "author_photo": "/images/reviews/reusser-dach-fassaden-ag-muehlethurnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr professionel, ehrlich und hilfsbereit! Herzlichen Dank für die langjährige Betreuung!",
+        "time": 1779829953,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Samuel Brechbühler",
+        "author_photo": "/images/reviews/reusser-dach-fassaden-ag-muehlethurnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Service, Planung, Umsetzung eine ganz andere Liga als die meisten Handwerker.\nFür Arbeiten auf dem Dach und PV Anlage gebe ich gerne meine Empfehlung. Grösses Merci an Köbu und das Team",
+        "time": 1765465613,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Marcel Rothacher",
+        "author_photo": "/images/reviews/reusser-dach-fassaden-ag-muehlethurnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr angenehmer Kontakt, hilfsbereit und lösungsorientiert. Preis/Leistung ist fair!\nArbeit wurde fachgerecht und sauber ausgeführt. Gerne wieder...",
+        "time": 1624359028,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "jordi christa",
+        "author_photo": "/images/reviews/reusser-dach-fassaden-ag-muehlethurnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr guter und Kompetenter Service.Herzlichen Dank und gerne wieder.",
+        "time": 1667292193,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Walther Mischler",
+        "author_photo": "/images/reviews/reusser-dach-fassaden-ag-muehlethurnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Klasse Firma sehr freundlicher Empfang kompetente Beratung",
+        "time": 1666084987,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

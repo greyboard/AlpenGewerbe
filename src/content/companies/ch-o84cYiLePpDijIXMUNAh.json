@@ -26,5 +26,22 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJb8CrezlOhUcRUpl9YgdnCZU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Manuela Mettler",
+        "author_photo": "/images/reviews/maler-della-valle-michele-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnell, preiswert und zuverlässig",
+        "time": 1672337967,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

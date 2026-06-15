@@ -26,5 +26,22 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJHWDBwKo5jkcRIw6wZNg0Sug",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Quick Asian Food Bern",
+        "author_photo": "/images/reviews/edelkeramik-keramische-wand-zollikofen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762169889,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0aW_azTfmkcRKFUwErMfe-M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Giustizieri Vito",
+        "author_photo": "/images/reviews/malergeschaeft-langenauer-gmbh-urnaesch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent",
+        "time": 1714539370,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Isabelle Pfändler",
+        "author_photo": "/images/reviews/malergeschaeft-langenauer-gmbh-urnaesch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711903177,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patrick Rohner",
+        "author_photo": "/images/reviews/malergeschaeft-langenauer-gmbh-urnaesch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1671470844,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

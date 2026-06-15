@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJlX-NdBo5jkcRSuqoY7c1Ayk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Oliver Sutter",
+        "author_photo": "/images/reviews/haustechnik-bern-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann die Firma Haustechnik Bern uneingeschränkt empfehlen! Des Service ist prompt und kompetent und das Team ist sehr freundlich und flexibel. Spezielle erwähnen möchte ich hier Herr Idrizi,  der mehrere Aufträge in unsere Kinder- und Jugendpraxis Worb zu unserer vollen Zufriedenheit erledigt hat. Herr Idrizi  Ist sogar notfallmässig nach Thun gefahren um spezielle Thermostaten für uns zu organisieren.  Ein überdurchschnittlicher Service! Vielen Dank an das ganze Team! Oliver Sutter",
+        "time": 1766682406,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Hugo Boerlin",
+        "author_photo": "/images/reviews/haustechnik-bern-ag-bern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Zuerst Offerte machen lassen wir hattten Probleme mit dem Geberit Syphone in der Duschwanne, der hat sehr hart zum herausnehmen vor einiger zeit kam ein monteur hier der mit den Strassenschuhen in die Duschwanne stieg und dann sagte alles in Ordnung , es ist immer ein Unterschied ob der monteur ein schwinger ( Morxer ) ist oder ein Fotograph Jetzt nach mehr als einem Jahr hab ich wieder ein Mail an die Firma gesendet, Die Firma war sehr speditiv innert kurzer zeit kam jemand und der sagte auch es ist alles gut. Ein par tage später kam die Rechnung von über 100.-sFr. warum hat man mich nicht zum vornherein nicht invormiert dass diese Syphone hart sind im demontierten und wieder montieren. Es dut mir leid wenn sie wissen dass diese Sypone schwierig sind im ausbau wie im einbau bestehe ich darauf dass der Chef das Persöhnlich mitteilt.",
+        "time": 1725177790,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrick Roost",
+        "author_photo": "/images/reviews/haustechnik-bern-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Zusammenarbeit, Beratung, Verkauf und Ausführung. Einfache, schnelle Auftragsabwicklung.\nIn Qualität, Quantität und Kommunikation  ein Super Partner, seit Jahren.\nDanke!",
+        "time": 1701413666,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Adrian Faust",
+        "author_photo": "/images/reviews/haustechnik-bern-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich bedanke mich für die tolle Partnerschaft und wünsche euch weiterhin viel Erfolg.",
+        "time": 1613982225,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Rays Ibrahim",
+        "author_photo": "/images/reviews/haustechnik-bern-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1589572502,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

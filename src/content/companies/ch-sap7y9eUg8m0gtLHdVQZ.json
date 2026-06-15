@@ -26,5 +26,30 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq9v6jc25kUcRQKCRtMnGpm0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Roland Voigt",
+        "author_photo": "/images/reviews/fischer-r-m-ag-bedachungen-basel/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Sowas unfreundliches am telefon",
+        "time": 1603715448,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "vinnipoo erath",
+        "author_photo": "/images/reviews/fischer-r-m-ag-bedachungen-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774972544,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,47 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJGdSRwPuzhEcRScyJveWT1I0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Edwin Achermann",
+        "author_photo": "/images/reviews/mathis-plattenbelaege-schiers-schiers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Unternehmen führt die Aufträge termingerecht und in hoher Präzision mit lokal ausgebildetem Fachpersonal aus. Die Abrechnung erfolgt offertgerecht und Mehrleistungen werden fair abgerechnet. Es werden ausgewiesene Qualitätsprodukte eingesetzt und verarbeitet. Die Beurteilung basiert auf persönliche Erfahrung für Nasszellensanierung vergebene Platten- und Verputz- und Kittarbeiten, für die ich das Unternehmen wärmstens empfehlen kann.",
+        "time": 1719146277,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nicole Rappo",
+        "author_photo": "/images/reviews/mathis-plattenbelaege-schiers-schiers/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wunderbare Firma\nTOP ARBEIT!!!!! Vielen Dank",
+        "time": 1698146059,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Simon Kuster",
+        "author_photo": "/images/reviews/mathis-plattenbelaege-schiers-schiers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1621426138,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

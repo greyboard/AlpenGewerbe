@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJf3yE-N81j0cR7DJ7yWRVY4Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Olivier Horvath",
+        "author_photo": "/images/reviews/e-in-albon-ag-zermatt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gutes Team. Saubere Arbeit. Immer wieder. Dankeschön",
+        "time": 1632395074,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Alexander Sarbach",
+        "author_photo": "/images/reviews/e-in-albon-ag-zermatt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1637871125,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Stefan Imhof",
+        "author_photo": "/images/reviews/e-in-albon-ag-zermatt/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1638525526,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Harald Mayenzet",
+        "author_photo": "/images/reviews/e-in-albon-ag-zermatt/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1709810241,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "mohamed henni",
+        "author_photo": "/images/reviews/e-in-albon-ag-zermatt/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1686682264,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

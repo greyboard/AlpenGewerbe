@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0WpbwoPUkUcRZIOC24PzQ6E",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Nico Mühlberger",
+        "author_photo": "/images/reviews/ms-bedachungen-fassadenbau-gmbh-niederbipp/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fachlich und Berufsehre ganz oben an der Spitze.\nTolles Team mit super Vorarbeiter.\nDie Zusammenarbeit unter Berufskollegen war perfekt , gerne wieder.",
+        "time": 1666670862,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniel Jobin",
+        "author_photo": "/images/reviews/ms-bedachungen-fassadenbau-gmbh-niederbipp/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Hat bei uns diverse Arbeiten erledigt. Wir waren und sind immer sehr zufrieden.\nBesten Dank für die großartige Arbeit.",
+        "time": 1651824552,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Kevin Fluri",
+        "author_photo": "/images/reviews/ms-bedachungen-fassadenbau-gmbh-niederbipp/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Firma. Ob Bedachung oder Fassadenbau alles sehr empfehlenswert.",
+        "time": 1729867346,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bero AG",
+        "author_photo": "/images/reviews/ms-bedachungen-fassadenbau-gmbh-niederbipp/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell und zuverlässig",
+        "time": 1669529575,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "sandro lüthi",
+        "author_photo": "/images/reviews/ms-bedachungen-fassadenbau-gmbh-niederbipp/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676048890,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

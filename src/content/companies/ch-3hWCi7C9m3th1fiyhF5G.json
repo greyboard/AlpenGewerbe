@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJsR0p0cU7kEcR3HDUbyfPo2M",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Claudine Blum",
+        "author_photo": "/images/reviews/beat-rhiner-kundenmaurer-niedergoesgen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Speditive Auftragsvergabe und -Ausführung und sehr gute Arbeit. Sehr zu empfehlen!",
+        "time": 1774385310,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Michael Rhiner",
+        "author_photo": "/images/reviews/beat-rhiner-kundenmaurer-niedergoesgen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Firma 😃👍 pünktlich und zuverlässig",
+        "time": 1769946173,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Daniel Müller",
+        "author_photo": "/images/reviews/beat-rhiner-kundenmaurer-niedergoesgen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma B. Rhiner hat bei meinem Grossprojekt im Frühjahr 2023 (Komplett Keller Aussenwand Sanierung) unseres 100-jährigen Zweifamilienhaus einwandfreie Arbeit in kurzer Zeit umgesetzt. Die Kundenmaurer-Arbeiten, kann ich gerne weiter empfehlen. D.& R. Müller, Nd. Gösgen",
+        "time": 1764785893,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Natal Felder",
+        "author_photo": "/images/reviews/beat-rhiner-kundenmaurer-niedergoesgen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Perfekte Arbeit, vielen Dank nochmals!",
+        "time": 1767026266,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "peter Tschan",
+        "author_photo": "/images/reviews/beat-rhiner-kundenmaurer-niedergoesgen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute und termingerechte Arbeit.",
+        "time": 1779783755,
+        "relative_time_description": "vor 2 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJv9kYb8_gmkcRYWz9asYgTtA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:50 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:50 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Erina Vukasinovic",
+        "author_photo": "/images/reviews/schreinerei-kuenzle-gossau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut begeistert von der Arbeit der Schreinerei Künzle! Unser neues Badezimmer ist nicht nur funktional, sondern auch ein echtes Schmuckstück geworden. Die Beratung war professionell, die Umsetzung sehr präzise und das Team stets freundlich und zuverlässig. Man merkt, dass hier mit Leidenschaft und handwerklichem Können gearbeitet wird. Herzlichen Dank für die tolle Arbeit – wir können die Schreinerei uneingeschränkt weiterempfehlen!”",
+        "time": 1747944041,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gini DiPa",
+        "author_photo": "/images/reviews/schreinerei-kuenzle-gossau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr schnelle und unkomplizierte Abwicklung. Wir mussten einen Unterschrank in der Küche ersetzen. Der Service war super! Die Besichtigung erfolgte zeitnah und der Schrank wurde innerhalb von nicht mal zwei Tagen demontiert und wieder eingebaut. Sehr saubere und professionelle Arbeit. Gerne wieder!",
+        "time": 1770321020,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Markus Baumgartner",
+        "author_photo": "/images/reviews/schreinerei-kuenzle-gossau/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Wir hatten eine komplexe, kleine Herausforderung ( Geländerersatz in einem alten Haus -> leichte, moderne Gestaltung), welche in einer sehr konstruktiven Zusammenarbeit gelöst worden ist. Herzlichen Dank für das gelungene Werk😀👍👏",
+        "time": 1760774869,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Elisabeth Peter-Roth",
+        "author_photo": "/images/reviews/schreinerei-kuenzle-gossau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich wollte nur unsere Tischplatte abschleifen lassen. Bei der Besprechung vor Ort wurde mir angeboten, diese am Nachmittag abzuholen. Bereits nach zwei Tagen durfte ich mich an der perfekt ausgeführten Arbeit erfreuen. Die Firma Künzle ist nur zu empfehlen.",
+        "time": 1758528114,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "F. Eisenlohr",
+        "author_photo": "/images/reviews/schreinerei-kuenzle-gossau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Liebes Schreinerei Künzle Team, lieber Hans\n\nVielen herzlichen Dank für euren super und stets zuvorkommenden Einsatz bei uns! Die Küche sowie die Badmöbel wurden exakt nach ünseren Wünschen verarbeitet!\n\nWir können euch auf jeden Fall weiterempfehlen!",
+        "time": 1692259504,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

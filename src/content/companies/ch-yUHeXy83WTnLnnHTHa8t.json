@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJPanTygXKkUcRC9uO1b3ZX6k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 37,
+    "reviews": [
+      {
+        "author_name": "Claude Matter",
+        "author_photo": "/images/reviews/w-wolfgang-ag-frenkendorf/reviewer_1.jpg",
+        "rating": 1,
+        "text": "19. Juni 2024\n\nHimmeltraurige Firma geworden! Passt in die heutige Zeit.\n\nDer Auftrag lautete:\nZwei Gläser gemäss unterschiedlichen vorgängig abgegebenen Schablonen bei der Annahme (Anmeldung/Büro), herzustellen und anschliessend härten zu lassen. Zeitspanne gemäss der Dame an der Annahme, rund zwei Wochen. Nach drei Wochen selber nachfragt, obwohl sämtliche Kontaktdaten vorhanden waren.\nDann fings an, x Vertröstungen und Ausreden. Jedes mal waren die Gründe der Verzögerung anders, von Zerstörung bei der Überführung von Härterei, zurück in die Filiale Frenkendorf, bis hin zu, der Chauffeur hätte diese vergessen zu laden von St. Gallen (Härterei) nach Frenkendorf. Nach rund drei Monate im Verbund Vertröstungen per Telefon, erhielten wir auf dem Postweg die Rechnung, für eine Dienstleistung und Produkt die nie erfolgte. So weit so gut,  letzt endlich kam die Wahrheit ans Licht. Beim bestehen darauf zur Abholung der beiden Vorlagen Schablone (Eigentum), dass die nicht mehr auffindbar seien.",
+        "time": 1718793495,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marianne Goldenberger",
+        "author_photo": "/images/reviews/w-wolfgang-ag-frenkendorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Alles sehr gut .Netter Verkäufer klappte alles sehr gut",
+        "time": 1608638148,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Florian Fahrenbach",
+        "author_photo": "/images/reviews/w-wolfgang-ag-frenkendorf/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Diese Firma hat ein Fenster mit Katzentür geliefert. Ein Glaswagen dieser Firma stand zwei Monate (Mitte Oktober bis Mitte Dezember) vor unserem Küchenfenster. Wir mussten mehrmals anrufen bitten und drohen, bis der Wagen abgeholt wurde. Diese Firma hält nicht das, was Sie verspricht.",
+        "time": 1671810096,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Atelier Kirchgasse",
+        "author_photo": "/images/reviews/w-wolfgang-ag-frenkendorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden.  Leistung un Preis.",
+        "time": 1763483724,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Dave Preissel",
+        "author_photo": "/images/reviews/w-wolfgang-ag-frenkendorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hier wird man immer äusserst freundlich und zuvorkommend empfangen und beraten.\nHier nimmt man sich Zeit für die Beratung und man spürt das familiäre Klima trotz viel Betrieb.\nKeine Hektik und kein Stress.\nIch darf diese Glaserei nur wärmstens empfehlen.",
+        "time": 1592498751,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

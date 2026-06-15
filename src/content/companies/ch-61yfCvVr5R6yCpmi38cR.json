@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvXd61QR5kEcRbOGjBtZikno",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Florian Freimark",
+        "author_photo": "/images/reviews/elektro-haas-jestetten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, zuverlässig und professionell! Elektro Haas ist immer zur Stelle, wenn man Hilfe braucht – schnell, kompetent und freundlich. Absolut empfehlenswert, egal ob Reparatur oder Neuinstallation. Fünf Sterne!",
+        "time": 1744484057,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sera Fino (jolino)",
+        "author_photo": "/images/reviews/elektro-haas-jestetten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma hat kürzlich im Wohnhaus meiner WEG die Hauptverteilung incl. Zähler neu installiert.\nIch bedanke mich beim Team der Firma Elektro-Haas für die sehr gute neu installierte Anlage!\nDie alte, aus den 1970ern Jahren stammende Anlage entsprach wirklich nicht mehr dem aktuellen Stand der Technik.",
+        "time": 1740507486,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tobias Baube",
+        "author_photo": "/images/reviews/elektro-haas-jestetten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr greifbarer Fachbetrieb. Auch Bestandsinstallationen waren bei der Beratung kein Problem. Bei der Beratung werden wirklich die (Sonder-)Wünsche des Kunden berücksichtigt.\nFirma ist definitiv auf dem Stand der Technik und beschäftigt sich auch mit Messeneuheiten und gibt Eindrücke und Entwicklungen hierzu.\nSollten weitere Gewerke bei der Realisierung des Vorhabens (in unserem besonderen Fall Wallboxstele mit innenliegender Wasserinstallation gewünscht sein), wird auch hier darauf eingegangen.\n\nTelefonisch gut erreichbar, realistische Terminnennungen und Preise transparent und im Rahmen des Angebotes.\nGeduldiger Firmenleiter, freundliche Verwaltung und kompetente Mitarbeiter.\n\nWir freuen uns auf weitere Projekte :-)",
+        "time": 1706462349,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dirk Brückel",
+        "author_photo": "/images/reviews/elektro-haas-jestetten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kontaktaufnahme und Terminvereinbarung sehr nett, Beratung vor Ort kompetent und der Situation ( bestehende Haustechnik, Platz etc.) Würden berücksichtig. Angebot kommt noch.",
+        "time": 1674984674,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Autocenter Lottstetten",
+        "author_photo": "/images/reviews/elektro-haas-jestetten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute und vor allem Zuverlässige Fachfirma im Bereich Strom und PV. Nur zum Empfehlen",
+        "time": 1702029525,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

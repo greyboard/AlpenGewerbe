@@ -25,5 +25,39 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJP4ve9p4xm0cRLFkxb17THOQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Daniel Augsburger",
+        "author_photo": "/images/reviews/kaufmann-walter-ag-schaan/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben nach 2 Wochen Ferien festgestellt, dass kein Warmwasser kommt. Ein Anruf, und dies am Samstagabend, und Herr Kaufmann ist persönlich innerhalb von 30 Minuten vorbeigekommen, war sehr freundlich und hat das Problem behoben",
+        "time": 1665850795,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Carmen Schalhas",
+        "author_photo": "/images/reviews/kaufmann-walter-ag-schaan/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnell und perfekt",
+        "time": 1646823241,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

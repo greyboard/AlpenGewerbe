@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJa-GzkzeAmkcRRHhZx4P1j3k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–17:30 Uhr",
+    "Samstag: 09:00–14:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 176,
+    "reviews": [
+      {
+        "author_name": "Marisa",
+        "author_photo": "/images/reviews/scheffmacher-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Malerarbeiten in unseren Suiten, Zimmern sowie in den öffentlichen Bereichen wurden von der Scheffmacher AG zu unserer vollsten Zufriedenheit ausgeführt. Die Ausführung war präzise, zuverlässig, schnell und von hoher Qualität. Wir schätzen die professionelle Zusammenarbeit sehr und werden auch in Zukunft wieder die Dienstleistung der Scheffmacher AG in Anspruch nehmen.",
+        "time": 1759478749,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Florian Dieterle",
+        "author_photo": "/images/reviews/scheffmacher-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Qualität und Effizient der Malerarbeiten.  Empfehlen speziell Herrn A. D.",
+        "time": 1780415778,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Christina Müller",
+        "author_photo": "/images/reviews/scheffmacher-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle und kompetente Abwicklung unseres Auftrags. Auch die Beratung war top; kann ich weiterempfehlen.",
+        "time": 1775561413,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Peter Dübendorfer",
+        "author_photo": "/images/reviews/scheffmacher-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kurzfristig einsatzbereit, top Arbeit abgeliefert, freundlich und unkompliziert - kann ich wärmstens empfehlen!",
+        "time": 1778526197,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Carmen Di Criscio",
+        "author_photo": "/images/reviews/scheffmacher-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Während eines Kundengespräch/Beratung, wurde ich mitten im Satz stehen gelassen und ein andere Kunde wurde bedient ( Einkäufe einkassiert).\nDas war das letzte Mal das ich in diesem Geschäft einkaufen war! So etwas muss ich mir nicht bieten lassen…",
+        "time": 1751457490,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

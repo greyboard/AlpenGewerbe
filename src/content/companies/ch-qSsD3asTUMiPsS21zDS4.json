@@ -1,7 +1,7 @@
 {
   "id": "ch-qSsD3asTUMiPsS21zDS4",
   "slug": "meviplex-sarl-constructions-metalliques-et-vitrerie-conthey",
-  "name": "Meviplex Sàrl Constructions métalliques et vitrerie",
+  "name": "Meviplex Sàrl",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9U-etAzdjkcRTlVQAa2XwnI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "SAEA",
+        "author_photo": "/images/reviews/meviplex-sarl-constructions-metalliques-et-vitrerie-conthey/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit und Expertise! Ein wirklich einzigartiges Projekt! Wir beauftragten Meviplex mit einem komplexen Projekt, das die Installation eines 14 Meter langen Kunstwerks umfasste! Das Projekt wurde brillant umgesetzt!",
+        "time": 1725445029,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Robin Udry",
+        "author_photo": "/images/reviews/meviplex-sarl-constructions-metalliques-et-vitrerie-conthey/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professionell und schnell ausgeführte Arbeiten, niedrige Preise und vor allem ein perfektes Verständnis für die Bedürfnisse des Kunden. Ich kann es nur wärmstens empfehlen!",
+        "time": 1725606989,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Arnaud LIDY",
+        "author_photo": "/images/reviews/meviplex-sarl-constructions-metalliques-et-vitrerie-conthey/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Meviplex ist ein hervorragender Schlüsseldienst und Glasereibetrieb; die Qualität ihrer Arbeit ist sehr hoch.\nHerr Constantin und sein Team sind sehr professionell und freundlich; ich kann sie wärmstens empfehlen!",
+        "time": 1724822097,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Moulin",
+        "author_photo": "/images/reviews/meviplex-sarl-constructions-metalliques-et-vitrerie-conthey/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein seriöses und professionelles Unternehmen.\n\nHochwertige Arbeit.\nExzellenter Service.\nIch kann sie wärmstens empfehlen!",
+        "time": 1725475427,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Maria Abou",
+        "author_photo": "/images/reviews/meviplex-sarl-constructions-metalliques-et-vitrerie-conthey/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle Firma, schnell und professionell! Sehr gute Kundenbeziehungen",
+        "time": 1725446768,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

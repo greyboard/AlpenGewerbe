@@ -26,5 +26,22 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJw4Dq5yremkcRlPZExY98ncU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Thomas Reuther",
+        "author_photo": "/images/reviews/klinker-spezialbau-ag-herisau/reviewer_1.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1511370476,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

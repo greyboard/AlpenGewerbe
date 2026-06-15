@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJca-gvk8BkEcRqddAQI7bpjc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Khalid Tannir",
+        "author_photo": "/images/reviews/elektro-helvetia-ag-risch-rotkreuz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr Kompetente Firma, Super Mitarbeiter.\nRasche Abwicklung und saubere Arbeit",
+        "time": 1735309041,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kathrin Lenz",
+        "author_photo": "/images/reviews/elektro-helvetia-ag-risch-rotkreuz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Kompetent und Freundlich :-) Danke für den guten Service!",
+        "time": 1713476503,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "J B",
+        "author_photo": "/images/reviews/elektro-helvetia-ag-risch-rotkreuz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top! Sehr freundlich und professionell.",
+        "time": 1713524843,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ilberim Djaferi",
+        "author_photo": "/images/reviews/elektro-helvetia-ag-risch-rotkreuz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetenter Partner, nur zu empfehlen.",
+        "time": 1724910370,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sara Brand",
+        "author_photo": "/images/reviews/elektro-helvetia-ag-risch-rotkreuz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und freundlich",
+        "time": 1713540337,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

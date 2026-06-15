@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJnQdlbRrpkUcRLjO6Ajegimg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–19:00 Uhr",
+    "Dienstag: 08:00–19:00 Uhr",
+    "Mittwoch: 08:00–19:00 Uhr",
+    "Donnerstag: 08:00–19:00 Uhr",
+    "Freitag: 08:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Zoé",
+        "author_photo": "/images/reviews/aquatherm-courroux-sarl-courroux/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Diese Firma wurde von unserer Agentur beauftragt. Ich zweifle nicht an ihrer Kompetenz, aber die Mitarbeiter sind sehr unhöflich und betreten unsere Wohnung, ohne uns zu begrüßen oder den Grund ihres Besuchs zu erklären. Sie ziehen ihre Schuhe nicht aus, sprechen nicht mit uns und verlangen unsere Wohnungsschlüssel, um angeblich „etwas zu erledigen“. Hier besteht Verbesserungsbedarf.",
+        "time": 1705591608,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Lena A.",
+        "author_photo": "/images/reviews/aquatherm-courroux-sarl-courroux/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein sehr seriöses Unternehmen, das auf unsere Bedürfnisse einging und uns vom Anfang bis zum Ende unseres Projekts unterstützte. Ich kann es wärmstens empfehlen.",
+        "time": 1732360902,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Drilon Loshi",
+        "author_photo": "/images/reviews/aquatherm-courroux-sarl-courroux/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kann dieses Unternehmen für verschiedene und große Projekte in Ihrem Zuhause wärmstens empfehlen. Wir schätzen ihre Professionalität und ihr Fachwissen.",
+        "time": 1658298129,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mergim Berisha",
+        "author_photo": "/images/reviews/aquatherm-courroux-sarl-courroux/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1635337771,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Albert Mustafa",
+        "author_photo": "/images/reviews/aquatherm-courroux-sarl-courroux/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1743787023,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

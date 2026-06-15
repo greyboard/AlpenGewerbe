@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJwVsAE-grjkcRZFgVvpvOdZE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Lana Turchanska",
+        "author_photo": "/images/reviews/suemi-schreinerei-gmbh-herzogenbuchsee/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen herzlichen Dank für den Austausch der Fenster.\nDie Arbeit wurde sehr sorgfältig, professionell, sauber und schnell ausgeführt.\nBereits am Abend hatten wir das Gefühl, als hätten wir schon immer diese neuen Fenster gehabt – wir haben ganz vergessen, dass hier vorher alte Fenster waren.\nNochmals vielen Dank für die hervorragende Arbeit!",
+        "time": 1773132784,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Karin Schoop",
+        "author_photo": "/images/reviews/suemi-schreinerei-gmbh-herzogenbuchsee/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit den Leistungen der Sümi Schreinerei. Alles lief reibungslos vom ersten Gespräch bis zur Montage. Das Team war professionell und freundlich. Qualität der Arbeit und Liebe zum Detail haben uns beeindruckt. Massgefertigte Möbel und Insektenschutz passen perfekt und übertreffen Erwartungen. Flexibel und lösungsorientiert bei Änderungen! Empfehlen die Sümi Schreinerei wärmsten weiter und werden ihre Dienste definitiv wieder in Anspruch nehmen!",
+        "time": 1716487542,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Suji Swarna Nagaratnam",
+        "author_photo": "/images/reviews/suemi-schreinerei-gmbh-herzogenbuchsee/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden mit der professionellen Arbeit und der interdisziplinären Abstimmung mit unserer Bauleitung. Unsere Extrawünsche wurden jederzeit berücksichtigt und wunderbar umgesetzt. Die Arbeit war schnell, sauber und handwerklich auf sehr hohem Niveau. Sowohl die Küche als auch der Einbauschrank wurden hervorragend geplant und umgesetzt. Klare Empfehlung unsererseits.",
+        "time": 1768775095,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Thomas Arnet",
+        "author_photo": "/images/reviews/suemi-schreinerei-gmbh-herzogenbuchsee/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Von meiner Idee im Kopf, über die Skizzierung bis zur Ausführung und Montage der Möbel durch die Schreinerei eine tadellose, lösungsorientierte Zusammenarbeit. Wunderbares Resultat zu einem akzeptablen Preis. Sehr empfehlenswerte Schreinerei für individuelle Gestaltung. Danke!",
+        "time": 1612300904,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Thomas Aebersold",
+        "author_photo": "/images/reviews/suemi-schreinerei-gmbh-herzogenbuchsee/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir lassen regelmässig Platten CNC-fräsen und sind beeindruckt über die tolle Beratung, Qualität und Zuverlässigkeit. Absolut empfehlenswert.",
+        "time": 1764926217,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

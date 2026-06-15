@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJkd22Dgnxj0cRGQ4XRmeQ9os",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.8,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Xselsius 777",
+        "author_photo": "/images/reviews/buergi-ag-alpnach-alpnach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mit Bürgi AG sehr gute erfahrung gesammelt. Die sind nette und profesionell Leute die auf Sicherheit achten auf der Baustelle und für alle Mitarbeiter da sind. Weiter so.",
+        "time": 1763457344,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Kari Graf",
+        "author_photo": "/images/reviews/buergi-ag-alpnach-alpnach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nicht nur am Bau die Besten, sondern für die Kundschaft allzeit bereit. Auch an speziellen Anlässen da zu sein. Gratuliere zu 90 Jahre und weiter so.",
+        "time": 1717170460,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Valentino",
+        "author_photo": "/images/reviews/buergi-ag-alpnach-alpnach/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Bauunternehmung im Hoch und Tiefbau, gute Angestellte in Engelberg",
+        "time": 1567850495,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Edwin Lüthold",
+        "author_photo": "/images/reviews/buergi-ag-alpnach-alpnach/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1712684436,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mece Strumicaa",
+        "author_photo": "/images/reviews/buergi-ag-alpnach-alpnach/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1629131472,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

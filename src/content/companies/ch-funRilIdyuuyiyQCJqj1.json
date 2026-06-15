@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-SOW1UCqmkcRDN2iOpWOju0",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "C. K.",
+        "author_photo": "/images/reviews/maler-blaser-team-ag-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr guter Maler in Baar, Zug & Region. Top Malereibetrieb, freundliches Personal und kundenorientierte Dienstleistung. Sehr professionell. Weiter so.",
+        "time": 1695231167,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Blandine Raemy",
+        "author_photo": "/images/reviews/maler-blaser-team-ag-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Natur Kalkwände sind wunderschön geworden. Herzlichen Dank für die ausgezeichnete Arbeit, es war schön mit Ihnen zu arbeiten und ich empfehle Sie sehr gerne weiter.  Blandine Raemy",
+        "time": 1681638033,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "iMi Private",
+        "author_photo": "/images/reviews/maler-blaser-team-ag-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super nettes Team und qualitativ hochwertige Arbeiten. Vor allem ihr Know-How über fugenlose Bodenbeläge hat uns überzeugt.",
+        "time": 1526483553,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Heinrich Innenausstattung AG",
+        "author_photo": "/images/reviews/maler-blaser-team-ag-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke für die tolle Zusammenarbeit, immer wieder gerne!",
+        "time": 1768042863,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Forchini Thomas",
+        "author_photo": "/images/reviews/maler-blaser-team-ag-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Exellenter Malerbetrieb\nVielfälltig Sauber und sehr zuverlässig\nKundenfreundlich",
+        "time": 1528631735,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

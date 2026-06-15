@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJV5QUI9x-kEcRd2HryVfFdCc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: 09:00–13:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Werner Reiher",
+        "author_photo": "/images/reviews/schreinerei-nussberger-beringen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schreinerei mitten im Herzen von Beringen 👍",
+        "time": 1559627496,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Yael Steuble",
+        "author_photo": "/images/reviews/schreinerei-nussberger-beringen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770884220,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

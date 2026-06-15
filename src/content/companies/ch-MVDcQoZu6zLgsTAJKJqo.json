@@ -26,5 +26,47 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJZzdqU8XZjUcREpyRdLw4QPM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Marc Muller",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjXaHAw3ItCk5j7gQ4T5Hg8u4MP8gl6ry-leOhxKUeXFiXTfr6F0Jg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "text": "Ein sehr freundlicher Kleinbetrieb. Sie haben mir schnell geholfen und ein Maschinenteil geschweißt. Tadellose Arbeit und hervorragende Erreichbarkeit. Vielen Dank!",
+        "time": 1737979980,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nostra Pizza - Estavayer",
+        "author_photo": "/images/reviews/zenuni-sarl-estavayer-le-lac/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1781133896,
+        "relative_time_description": "in der letzten Woche"
+      },
+      {
+        "author_name": "Qendresa Koqinaj",
+        "author_photo": "/images/reviews/zenuni-sarl-estavayer-le-lac/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1739300631,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,38 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJUdOXeFOZjkcR0Ye8eU3fVWQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Christian R.",
+        "author_photo": "/images/reviews/grept-carrelage-port-valais/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bad- und WC-Renovierung, tadellose Arbeit, schnell und effizient, sehr entgegenkommend und kundenorientiert, strikte Einhaltung des Angebots, erstklassiger Service, herzlichen Dank!",
+        "time": 1764056449,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Hohenauer Maryline",
+        "author_photo": "/images/reviews/grept-carrelage-port-valais/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Es ist immer wieder eine Freude, mit Grept zusammenzuarbeiten! Sorgfältige Arbeit, hervorragende Beratung, effizient und preisgetreu. Wir freuen uns auf die weitere Zusammenarbeit! Vielen Dank.",
+        "time": 1732692386,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yann Cebron",
+        "author_photo": "/images/reviews/grept-carrelage-port-valais/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1707657847,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

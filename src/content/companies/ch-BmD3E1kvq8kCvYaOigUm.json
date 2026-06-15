@@ -26,5 +26,54 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJP8CRr8vdhEcRpXlfRdNr2l4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "stimm-gabel",
+        "author_photo": "/images/reviews/cathomen-haustechnik-ag-laax/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Ferienhaus seit 60 Jahren hier in Laax und sind sehr dankbar für die Unterstützung der Firma Cathomen. Wenn man nicht immer vor Ort ist, ist man darauf angewiesen, dass alle Probleme zeitnah, selbstständig und fachmännisch gelöst werden, was bei dieser Firma immer der Fall ist.\nHerzlichen Dank ans ganze Team.",
+        "time": 1736508071,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Zwyssig",
+        "author_photo": "/images/reviews/cathomen-haustechnik-ag-laax/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Perfekter, schneller und freundlicher Service in einem Notfall. Sie waren in 30 Minuten vor Ort. Kann nur weiter empfohlen werden!",
+        "time": 1671618902,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sylvaine Schellenberg",
+        "author_photo": "/images/reviews/cathomen-haustechnik-ag-laax/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Grossartige Firma, toller Service, ist auch nach der Installation einer neuen Heizung jederzeit für den Kunden da. Sehr empfehlenswert!",
+        "time": 1719502775,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Leo Schuler",
+        "author_photo": "/images/reviews/cathomen-haustechnik-ag-laax/reviewer_4.jpg",
+        "rating": 5,
+        "text": "zuverlässig, freundlich und sehr gute Arbeit. Kann ich nur empfehlen",
+        "time": 1735306886,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Pascal Waldburger",
+        "author_photo": "/images/reviews/cathomen-haustechnik-ag-laax/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Job. Immer freundlich und schnell zur Stelle.",
+        "time": 1731475878,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

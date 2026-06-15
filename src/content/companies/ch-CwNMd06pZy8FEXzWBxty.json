@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJI90uJDfyj0cRhKQBQk4Tp6U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Giancarlo Sax",
+        "author_photo": "/images/reviews/mueller-die-fachschreinerei-ag-sarnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Schreinerei! 👌\n\nVon Anfang bis Ende hat einfach alles gepasst – super unkomplizierter Kontakt, saubere Arbeit und ein richtig starkes Ergebnis. Man merkt sofort, dass hier Profis am Werk sind, die ihr Handwerk verstehen und mit Leidenschaft dabei sind.\n\nWas ich besonders cool finde: Müller Die Fachschreinerei ist nicht nur für Kunden top, sondern auch als Arbeitgeber richtig vorbildlich. Gute Arbeitsbedingungen, ein wertschätzender Umgang im Team und man sieht, dass hier bewusst in die Zukunft investiert wird – sei es in moderne Technik oder in die Mitarbeitenden selbst.\n\nSo macht Handwerk heute Spass! Kann ich wirklich nur weiterempfehlen 👍",
+        "time": 1780408018,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Yves Durrer",
+        "author_photo": "/images/reviews/mueller-die-fachschreinerei-ag-sarnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667220292,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Azad Azun",
+        "author_photo": "/images/reviews/mueller-die-fachschreinerei-ag-sarnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1593947086,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Copopaxi TV",
+        "author_photo": "/images/reviews/mueller-die-fachschreinerei-ag-sarnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1504812747,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Kilian Läubli",
+        "author_photo": "/images/reviews/mueller-die-fachschreinerei-ag-sarnen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1500209963,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJvx_AF0GqmkcRluRlhbrY7kc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 12:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 12:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 12:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 12:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Thomas und Mavi",
+        "author_photo": "/images/reviews/rossi-aregger-ag-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir möchten uns für die kompetente und sorgfältig ausgeführte Gipserarbeit bedanken. Es war keine leichte Aufgabe, sei es wegen unseren abgerundeten Wänden, wie auch wegen dem nicht haftenden Untergrund.\nHerzlichen Dank an ihre 2 Mitarbeiter👍🏻welche diese Aufgabe souverän gemeistert haben👍🏻\nWir erfreuen uns täglich an ihrer schönen Arbeit😃",
+        "time": 1763900836,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Y M",
+        "author_photo": "/images/reviews/rossi-aregger-ag-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank Rossi Aregger für die perfekte Kernsanierung! Wir hatten erschwerte Bedingungen aufgrund eines Umbaus. Wände und Decken sehr krumm. Dann auch noch Streiflicht für gewisse Wandlampen zu lösen. Spezielle Übergänge und einen eigens entwickeltes Cheminée Konzept zu lösen. Die Bäder mit Fliese und einem Bio Naturputzübergang. Dann Auskofferungen für Klimaanalagen etc.. Selbst anderen Unternehmen ist diese saubere Arbeit aufgefallen. DANKE!! Ich werde Euch wärmstens weiterempfehlen.",
+        "time": 1684484748,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sven Möller (Bagira1912)",
+        "author_photo": "/images/reviews/rossi-aregger-ag-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Beratung. Die Angestellten sind nicht nur super freundlich sondern arbeiten auch noch sauber und sind sehr zuverlässig. Sehr empfehlenswert",
+        "time": 1471670730,
+        "relative_time_description": "vor 9 Jahren"
+      },
+      {
+        "author_name": "Martin Heinis",
+        "author_photo": "/images/reviews/rossi-aregger-ag-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr guter und kompetenter Gipser. Fachlich und menschlich top !",
+        "time": 1750765289,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Domenico Raguseo",
+        "author_photo": "/images/reviews/rossi-aregger-ag-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine der besten Unterschriften der Schweiz",
+        "time": 1770982278,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

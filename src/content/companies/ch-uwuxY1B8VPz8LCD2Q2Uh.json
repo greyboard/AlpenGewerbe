@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJr8lOoEh8kEcRcL22KyUw4L0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "martin friedrich",
+        "author_photo": "/images/reviews/hans-kuebler-maurerarbeiten-siblingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr saubere und professionelle Maurerarbeiten an unserem Haus",
+        "time": 1755456881,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Hans Kübler",
+        "author_photo": "/images/reviews/hans-kuebler-maurerarbeiten-siblingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1512896864,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

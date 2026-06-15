@@ -26,5 +26,22 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJCQRQRc3fmkcRDLXL1XOXGSU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Ralf Daberkow",
+        "author_photo": "/images/reviews/bedachungen-fassadenbau-preisig-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1582909373,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

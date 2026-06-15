@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJnWrTnlA6jkcRoDyIJOyeR68",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Heiko Voss",
+        "author_photo": "/images/reviews/jost-metallbau-ag-zollikofen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Firma mit super Mitarbeiter",
+        "time": 1559178622,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Oliver Schwab",
+        "author_photo": "/images/reviews/jost-metallbau-ag-zollikofen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600674369,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Raul MJR",
+        "author_photo": "/images/reviews/jost-metallbau-ag-zollikofen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1591822002,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Swiss Dani",
+        "author_photo": "/images/reviews/jost-metallbau-ag-zollikofen/reviewer_4.jpg",
+        "rating": 2,
+        "text": "",
+        "time": 1553424457,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Renato Derler",
+        "author_photo": "/images/reviews/jost-metallbau-ag-zollikofen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1462807025,
+        "relative_time_description": "vor 10 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

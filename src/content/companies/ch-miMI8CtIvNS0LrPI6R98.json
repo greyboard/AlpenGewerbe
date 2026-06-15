@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJa-eAJuEthUcRL1MatIRpt2w",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Zoltán Nyulasi",
+        "author_photo": "/images/reviews/saniatec-oberurnen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben Herrn Festeris bereits mehrmals für Reparaturen in unserer Wohnung engagiert und sind jedes Mal äußerst zufrieden mit seiner Arbeit. Alle durchgeführten Reparaturen funktionieren einwandfrei. Wir schätzen seine Zuverlässigkeit und die hohe Qualität seiner Arbeit sehr und empfehlen ihn daher uneingeschränkt weiter.",
+        "time": 1720887495,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Miriam Licht",
+        "author_photo": "/images/reviews/saniatec-oberurnen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich musste meine Waschmaschine anschließen. Der Handwerker war sehr pünktlich,  zuverlässig,  sehr gute Arbeit geleistet. Sehr hilfsbereit. Er hat mir gute Tips gegeben. Er hat alles nochmal s kontrolliert. Ich war sehr zufrieden, sehr zu empfehlen. Vielen Dank",
+        "time": 1673769505,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mihály Both",
+        "author_photo": "/images/reviews/saniatec-oberurnen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr nett, sehr pünktlich, sehr zuverlässig, sehr professionell! Ich kann ihn uneingeschränkt empfehlen!",
+        "time": 1746986725,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Just Me",
+        "author_photo": "/images/reviews/saniatec-oberurnen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643652836,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

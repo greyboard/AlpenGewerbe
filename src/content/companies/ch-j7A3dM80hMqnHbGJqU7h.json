@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJBy9mDuIbm0cR9H4u7GZ5CnI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Jacqueline Egger",
+        "author_photo": "/images/reviews/dach-zenuni-gmbh-heiden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit, sehr kompetent und aufmerksam, koordiniert hervorragend, hinterlässt die Baustelle immer ordentlich, ist stehts freundlich und fleissig und  die Qualität seiner Ausführungen sind immer top.\nZusammengefasst: Ich kann Dach Zenuni GbmH wärmstens empfehlen und bin mit den ausgeführten Arbeiten sehr zufrieden.",
+        "time": 1742901495,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Krste Paketov",
+        "author_photo": "/images/reviews/dach-zenuni-gmbh-heiden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann Dach Zenuni GbmH uneingeschränkt weiterempfehlen. Die Handwerker arbeiteten schnell, präzise und hinterliessen die Baustelle stets sauber. Besonders beeindruckt hat mich die transparente Kommunikation und die fachkundige Beratung während des gesamten Projekts. Das Preis-Leistungs-Verhältnis stimmt absolut und die Qualität der Arbeit ist hervorragend. Insgesamt ein verlässlicher Partner für alle Dachdeckerarbeiten\n\nDanke an das ganze Team Dach Zenuni 🤝🏽",
+        "time": 1717959532,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Karin",
+        "author_photo": "/images/reviews/dach-zenuni-gmbh-heiden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Dach Zenuni hat unser Dach schnell und kompetent in Ordnung gebracht. Beratung und Preis stimmen und die Arbeit wurde sauber ausgeführt. Das Dach ist nun wieder dicht - danke!",
+        "time": 1723661384,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Fadda",
+        "author_photo": "/images/reviews/dach-zenuni-gmbh-heiden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente Beratung.\nBin mit der Arbeit sehr zufrieden, vielen dank.",
+        "time": 1742414665,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adrian Winiger",
+        "author_photo": "/images/reviews/dach-zenuni-gmbh-heiden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Arbeit und weiter zu empfehlen!",
+        "time": 1707331365,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

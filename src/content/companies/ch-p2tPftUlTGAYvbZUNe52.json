@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJm6N5_Bq5kUcRpzDF9TGGqgw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "D Mond",
+        "author_photo": "/images/reviews/schneider-sutter-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schneider & Sutter ist immer zur Stelle, wenn man sie braucht – gefühlt schneller da als die Heizung warm wird 😄\n\nVielen Dank für den hervorragenden, zuverlässigen und freundlichen Service. Man merkt sofort, dass hier Profis am Werk sind.\n\nAuch in Zukunft werde ich mich direkt an euch wenden, wenn die Heizung in der Wohnung wieder einmal beschliesst, spontan in den Winterschlaf zu gehen. Danke für die schnelle Hilfe und den top Einsatz!",
+        "time": 1778829294,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Aleksandar Andic",
+        "author_photo": "/images/reviews/schneider-sutter-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Als Haustechnikplanungsbüro arbeiten wir seit einiger Zeit mit der Firma Schneider + Sutter AG zusammen und können nur Positives berichten. Die Zusammenarbeit ist stets professionell, zuverlässig und geprägt von einem hohen technischen Verständnis. Besonders hervorzuheben ist die saubere und termingerechte Ausführung der Heizungsinstallationen – selbst bei komplexen Projekten werden die Planungsanforderungen präzise umgesetzt.\n\nDie Monteure und Projektleiter von Schneider + Sutter AG überzeugen durch Fachwissen, Engagement und eine lösungsorientierte Arbeitsweise. Abstimmungen auf der Baustelle verlaufen reibungslos, Kommunikation ist klar und transparent. Auch Änderungen oder Sonderwünsche werden flexibel und kompetent umgesetzt, was die Zusammenarbeit enorm erleichtert.\n\nSchneider + Sutter AG ist für uns ein Partner, auf den man sich jederzeit verlassen kann – sowohl technisch als auch menschlich.",
+        "time": 1760534833,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "childrensfoodtime",
+        "author_photo": "/images/reviews/schneider-sutter-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schneller, sauberer Einbau der Wärmepumpe und sehr kompetente Beratung. Vielen Dank für die tolle Arbeit!",
+        "time": 1770207806,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Milos Colovic",
+        "author_photo": "/images/reviews/schneider-sutter-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Schneider & Sutter AG hat mir ausgezeichnete Sanitär-Dienstleistungen geboten. Ihr Fachwissen, ihre Professionalität und ihre pünktliche Arbeit haben mich beeindruckt. Ich war mit ihrem freundlichen Kundenservice und ihrer effizienten Arbeitsweise äußerst zufrieden. Ich kann diese Firma jedem empfehlen, der qualitativ hochwertige Sanitärarbeiten sucht.",
+        "time": 1691500362,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Betonmischer Chappechääs",
+        "author_photo": "/images/reviews/schneider-sutter-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Apaco-Fernwärmestation wurde sauber eingebaut :))",
+        "time": 1770283484,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJWYjQVDflj0cRBakP_ae5xMc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–16:30 Uhr",
+    "Dienstag: 07:30–16:30 Uhr",
+    "Mittwoch: 07:30–16:30 Uhr",
+    "Donnerstag: 07:30–16:30 Uhr",
+    "Freitag: 07:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Jen Jans",
+        "author_photo": "/images/reviews/fliesen-reichelt-gmbh-malters/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Reichelt und sein Team haben super professionell, engagiert und flink gearbeitet. Das Ergebnis ist wirklich top und ich bin so dankbar, da wirklich mitgedacht wurde und das Team mich auch bei den anderen Themen am Bau super unterstützt, beraten und mir egal wo ausgeholfen hat. Rundum zufrieden und nur weiterzuempfehlen!",
+        "time": 1759831052,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "San Bu",
+        "author_photo": "/images/reviews/fliesen-reichelt-gmbh-malters/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Flissen Reichelt GmbH ist sehr zuverlässig, arbeitet sauber, hält sich an vereinbarte Termine, ist engagiert und informiert genau über den Stand der Baustelle. TOP! Gerne wieder!\nAuf jeder Fall würden wir Fliessen Reichelt GmbH weiterempfehlen.",
+        "time": 1701616769,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Aurelio Parodi",
+        "author_photo": "/images/reviews/fliesen-reichelt-gmbh-malters/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Fliesen Reichelt hat wie offeriert eine ausgezeichnete Arbeit geleistet. Matthias Reichelt der Geschäftsführer kennt sich in seinem Fach gut aus und hat bei uns >120 m² Naturstein verlegt im Grossformat und auf Gehrung. die Kommunikation war stets schnell und einfach. Bei schwierigeren Situationen hat er einiges recherchiert und kam mit guten Lösungen. Ich kann ihn nur weiter empfehlen!",
+        "time": 1690717808,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Małgorzata Cz.",
+        "author_photo": "/images/reviews/fliesen-reichelt-gmbh-malters/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professionell, pünktlich,freundlich und zuverlässig. Firma Fliesen Reichelt GmbH können wir weiter empfehlen.",
+        "time": 1715544375,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Hansruedi Weiss",
+        "author_photo": "/images/reviews/fliesen-reichelt-gmbh-malters/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich. Exakte und zügige arbitsweise. Sehr Fachkopetent. Wir sind sehr zufrieden.",
+        "time": 1706035472,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

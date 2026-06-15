@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJP8-uxUB_kEcRvdI-awvs_cY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: 09:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.1,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Cuno Kuenzler",
+        "author_photo": "/images/reviews/gipser-ortiz-gmbh-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nelson Ortiz ist ein perfekter Gipser. Seit vielen Jahren hat er in unserem Haus sehr gute Arbeit geleistet. Speditiv, unkompliziert und sehr sauber. Danke der Gipser Ortiz GmbH!",
+        "time": 1739267417,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Justin Plunkett",
+        "author_photo": "/images/reviews/gipser-ortiz-gmbh-schaffhausen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich werde die Bewertung nicht entfernen. Wenn Sie keine genauen Aufzeichnungen über Ihre Kunden führen können, würde ich es nicht bekannt geben. Herr Ortiz war einfach unhöflich und unprofessionell. Nachdem er mit der Arbeit begonnen hatte, die besprochen war, versuchte er, die Preise drastisch zu erhöhen. Als ich dagegen protestierte, verließ er die Baustelle und die Arbeit wurde nicht abgeschlossen. Ich würde mich von dieser Firma fernhalten.",
+        "time": 1738597263,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mo Gu",
+        "author_photo": "/images/reviews/gipser-ortiz-gmbh-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Seit Jahren führt Herr Ortiz Gipser- und andere Arbeiten für uns aus. Stets in der gleichen guten und geschätzten Qualität. Gerne immer wieder. Danke.",
+        "time": 1739275164,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcel",
+        "author_photo": "/images/reviews/gipser-ortiz-gmbh-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige und saubere Arbeit. Freundliches Team und professionelle Ausführung. Gerne wieder!",
+        "time": 1738687300,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Thomas Flammer",
+        "author_photo": "/images/reviews/gipser-ortiz-gmbh-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gerne realisiere ich meine Umbau- und Renovationsprojekte mit dieser Firma. Saubere Arbeit, effizient und sehr gute Qualität.",
+        "time": 1776425487,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

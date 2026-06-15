@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJexc3OW-rmkcRdEto2H91OGQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "romanoCH",
+        "author_photo": "/images/reviews/maler-zug-farb-und-raumdesign-steffi-hohberg-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Beratung / Top Ausführung der Malerarbeiten / Top Preis 6*",
+        "time": 1558688044,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "klunia klunia",
+        "author_photo": "/images/reviews/maler-zug-farb-und-raumdesign-steffi-hohberg-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1700504241,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJZSfnC0X3mkcRteleYP9eX2c",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Erika Haspel",
+        "author_photo": "/images/reviews/koenig-heizungstechnik-kreuzlingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Beratung alles neu Vermessen und pünktlich wie vereinbart zum Termin erschienen . Ausbau der alten Gasheizung mit ein paar Herausforderungen top gemeistert. Am Nachmittag die neue Heizung mit Montage neuer Leitungen rein. Herr König hat ein unglaubliches Tempo vorgelegt und meine Heizung konnte Abends um 16:45 in Betrieb genommen werden. War total Happy er und sein Team haben ein toller Job gemacht.Heizungsbedienung wurde sehr verständlich erklärt.\nAlles Top und immer schön Warm.\nKann jederzeit und mit bestem Gewissen die Firma König empfehlen. Danke für diese super Leistung.",
+        "time": 1739037382,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "H K",
+        "author_photo": "/images/reviews/koenig-heizungstechnik-kreuzlingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben durch Königs neue Radiatoren im ganzen Haus einbauen sowie gewisse neue Leitungen legen lassen und eine Trockenbodenheizung in einem Raum verbauen lassen. Daneben wurden noch Anschlüsse für eine spätere Wärmepumpe gelegt. Wir sind total zufrieden und können die Firma sehr empfehlen. Uns wurden sehr gute Vorschläge gemacht, verschiedene Varianten aufgezeigt, gut abgewogen zwischen erneuern und behalten sowie natürlich sehr sauber und zuverlässig gearbeitet. Herzlichen Dank.",
+        "time": 1681548228,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kathrin Klitsch",
+        "author_photo": "/images/reviews/koenig-heizungstechnik-kreuzlingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma König kontaktiert, weil wir ein aktuelles Problem mit der Heizung hatten. Noch am selben Tag fand der Termin statt und das Problem wurde schnell analysiert und prompt erledigt.\nTop Service, Schnelligkeit, ehrliches Handwerk  und sehr freundlich.\nWas will man mehr - vielen Dank :-)\nKönnen die Firma nur jedem ans Herz legen!",
+        "time": 1539188802,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Albert Krasniqi",
+        "author_photo": "/images/reviews/koenig-heizungstechnik-kreuzlingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die neue Wärmepumpe wurde sauber und speditiv montiert und in Betrieb gesetzt. Sie funktioniert einwandfrei und wir konnten unsere Heizkosten dadurch erheblich reduzieren. Vielen Dank",
+        "time": 1700775057,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Mathias Wetzel",
+        "author_photo": "/images/reviews/koenig-heizungstechnik-kreuzlingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Superschneller Service, perfekt und zuverlässig.\nHeizpumpe war defekt, Anruf 09.30 Uhr, Pumpe in etwas mehr als einer Stunde gewechselt!",
+        "time": 1648630980,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

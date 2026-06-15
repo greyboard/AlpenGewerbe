@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJQYmk3euRmkcRcrXfwUqpXVM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "H.R. Stone",
+        "author_photo": "/images/reviews/burger-stahlbau-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Cooles Team !\nSehr freundliche und kompetente Mitarbeiter 👍🏼",
+        "time": 1775734194,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Silvan Jeger",
+        "author_photo": "/images/reviews/burger-stahlbau-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir durften spontan unseren Kompanieabend im WK bei Burger Stahlbau AG verbringen. Sehr unkompliziert,hilfsbereit,unglaublich freundlich und grosszügig. So macht es einfach Spass😃. Besten Dank,die Rttg KP 4/1",
+        "time": 1695939715,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrea Stark",
+        "author_photo": "/images/reviews/burger-stahlbau-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionell, freundlich, motivierte Mitarbeiter und ein sympathischer Chef,\nKann ich mit gutem Gewissen weiterempfehlen.",
+        "time": 1738068046,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Family Guy",
+        "author_photo": "/images/reviews/burger-stahlbau-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Unternehmung! Sehr empfehlenswerter Partner.",
+        "time": 1730716267,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adi Egloff",
+        "author_photo": "/images/reviews/burger-stahlbau-ag-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlich, kompetent und unkompliziert",
+        "time": 1603195057,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

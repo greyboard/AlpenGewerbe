@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJxxNX5BNChUcRuBeVEE7zMc4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Christoph Hölscher",
+        "author_photo": "/images/reviews/schreinerei-beeler-ag-erstfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind super zufrieden, neben der Qualität des extra für uns und nach sondermass konstruierten Möbelstücks, wurde die Montage zuverlässig & absolut sauber durchgeführt.\n\nMit Herrn Beat Bissig hat man einen kompetenten und sympathischen Ansprechpartner.",
+        "time": 1763760925,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Lea Hüsler",
+        "author_photo": "/images/reviews/schreinerei-beeler-ag-erstfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank für die perfekte Arbeit der Treppe und des Geländers. Sehr zu empfehlen!",
+        "time": 1712933826,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Klaus Beeler",
+        "author_photo": "/images/reviews/schreinerei-beeler-ag-erstfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service. Schöne Produkte aus eigener Produktion. Verschiedene Massivholztische, Bänke, Hocker. Schöne Einbauküchen. Ca. 25 verschiedene Treppenmodelle. Bettgestelle aus Massivholz und Hüslernestinhalt.",
+        "time": 1680376953,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Michael Burkhardt",
+        "author_photo": "/images/reviews/schreinerei-beeler-ag-erstfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Danke für die perfekte Arbeit. Hammer Service und top Leute. Sie sind zu 100% auf unsere Wünsche eingegangen und haben alles zu unserer besten Zufriedenheit erledigt. Ein grosses Dankeschön an das ganze Team, weiter so! 💪🏻",
+        "time": 1645636018,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Adrian Wipfli",
+        "author_photo": "/images/reviews/schreinerei-beeler-ag-erstfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service durch das Team der Herren Bissig. Hoher Qualitätsstandart!",
+        "time": 1646409835,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

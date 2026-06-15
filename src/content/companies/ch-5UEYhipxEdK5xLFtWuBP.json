@@ -26,5 +26,55 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJk9lZbCLwjkcRH7QGXFNo4Y8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Bangerter Gartenbau AG - Gstaad",
+        "author_photo": "/images/reviews/bangerter-gartenbau-ag-gstaad-gstaad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlich willkommen bei Bangerter Gartenbau AG\n\nBangerter Gartenbau AG in Gstaad, Berner Oberland, ist Ihr Partner für Gartengestaltungs- und Gartenunterhaltsarbeiten aller Art. Zu unseren Kunden zählen Privatpersonen, Architekten, Vereine und die öffentliche Hand.\n\nDas Team besteht aus 10 Personen mit dem Geschäftsführer Kaspar Bangerter und dem Stv. Geschäftsführer Pascal Bangerter.\n\nDer Familienbetrieb wurde 1988 gegründet, wird seither konstant ausgebaut und blickt nun auf über 25 Jahre Fachwissen und Erfahrung zurück.\n\nWir sind Mitglied in den Berufsverbänden Jardin Suisse",
+        "time": 1401957704,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "m bichsel",
+        "author_photo": "/images/reviews/bangerter-gartenbau-ag-gstaad-gstaad/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Sehr exakte zuvorkommende Arbeit",
+        "time": 1399282582,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Robert Neth",
+        "author_photo": "/images/reviews/bangerter-gartenbau-ag-gstaad-gstaad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1655306471,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sascha Jakob",
+        "author_photo": "/images/reviews/bangerter-gartenbau-ag-gstaad-gstaad/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1514309827,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

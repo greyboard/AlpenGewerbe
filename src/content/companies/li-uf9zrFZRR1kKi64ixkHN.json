@@ -25,5 +25,22 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJA9OTZYczm0cRY9eo3eMTIek",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Thomas Willi",
+        "author_photo": "/images/reviews/dr-schriner-triesen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top! Ein muss für Fans der schönen Möbel!",
+        "time": 1614269644,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

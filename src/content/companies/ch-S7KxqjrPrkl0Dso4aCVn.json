@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJWc2XVh0hm0cRLH8UOif_SnU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Philipp",
+        "author_photo": "/images/reviews/haas-malerdesign-gmbh-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert! Er hat bei uns im Haus verschiedene Malerarbeiten ausgeführt. Besonders begeistert sind wir von der Wandgestaltung im Wohnzimmer, genau nach unseren Vorstellungen und mit viel Liebe zum Detail umgesetzt. Während der gesamten Arbeit war er stets freundlich und kundenorientiert. Wir sind mit dem Ergebnis sehr zufrieden und können ihn absolut weiterempfehlen.",
+        "time": 1773083747,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Marco Bruderer",
+        "author_photo": "/images/reviews/haas-malerdesign-gmbh-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen Dank an das gesamte Haas Malerdesign-Team für die hervorragende Arbeit und die zuvorkommende Kommunikation über das gesamte Projekt hinweg. Wir bedanken uns ganz herzlich!",
+        "time": 1772990892,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Jana Fitzi",
+        "author_photo": "/images/reviews/haas-malerdesign-gmbh-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wenn en Moler denn de Michi!\nZuverlässig, schnell, eifachi und super Kommunikation und grandiosi Ergebnis.",
+        "time": 1750186348,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Sutter Christian",
+        "author_photo": "/images/reviews/haas-malerdesign-gmbh-appenzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr effiziente Beratung und super Ausführung",
+        "time": 1746030959,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Antonio Aliquò",
+        "author_photo": "/images/reviews/haas-malerdesign-gmbh-appenzell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Adresse für Malerarbeiten.",
+        "time": 1740565633,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

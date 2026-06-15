@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJaWOsmMVqjkcRUuiC7yyY1qE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: 07:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Stefan Vidić",
+        "author_photo": "/images/reviews/morina-group-malerei-und-gipserei-gmbh-boesingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Maler- und Gipserfirma Morina hat hervorragende Arbeit geleistet. Das Team war professionell, freundlich und sehr kompetent. Die Qualität der Arbeit war erstklassig, alles wurde mit höchster Präzision und Sorgfalt ausgeführt. Besonders hervorzuheben ist die Sauberkeit während und nach den Arbeiten. Zudem wurden alle Termine pünktlich eingehalten und die Preise waren fair und transparent. Ich kann die Firma Morina uneingeschränkt empfehlen. Vielen Dank für den tollen Service!",
+        "time": 1721553541,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mathael Mori",
+        "author_photo": "/images/reviews/morina-group-malerei-und-gipserei-gmbh-boesingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Firma: Ich haben vom Trockenbau, Gipserarbeiten und Malerarbeiten alles mit Moria Group gemacht und sie haben hervorragende Arbeit geleistet. Gerne empfehlen ich sie weiter und danken ihnen für die tolle Arbeit! :)",
+        "time": 1664607236,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Adrian Aliu",
+        "author_photo": "/images/reviews/morina-group-malerei-und-gipserei-gmbh-boesingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Morina Group hat verschieden Malerarbeiten in meiner neuen Wohnung vorgenommen. Ich bin mit der Arbeit sehr zufrieden.\nDie Qualität ist top! Kann jedem die Morina Group empfehlen!\n\nVielen Dank :)",
+        "time": 1682424775,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christian Marti",
+        "author_photo": "/images/reviews/morina-group-malerei-und-gipserei-gmbh-boesingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Morina Group GmbH hat unsere Erwartungen in jeder Hinsicht übertroffen! Ihr Engagement für Qualität und Professionalität ist unübertroffen. Von der ersten Kontaktaufnahme bis zur Fertigstellung unseres Projekts waren sie äußerst zuverlässig und effizient. Die Handwerker waren höchst kompetent und haben unsere Malerei- und Gipsereiarbeiten mit äusserster Präzision ausgeführt. Die Ergebnisse sprechen für sich – unser Zuhause erstrahlt in neuem Glanz! Wir können die Morina Group GmbH uneingeschränkt empfehlen und werden sie für zukünftige Projekte sicher wieder in Betracht ziehen.",
+        "time": 1710512523,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Raymond Reddington",
+        "author_photo": "/images/reviews/morina-group-malerei-und-gipserei-gmbh-boesingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Herren haben meine Fassade gereinigt und gestrichen. Ich bin sehr zufrieden!",
+        "time": 1728909876,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

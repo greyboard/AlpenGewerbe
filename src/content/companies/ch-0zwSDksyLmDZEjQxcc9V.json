@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJZzuzNoMdm0cRtHuWyDnzbnU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Frank Geisser",
+        "author_photo": "/images/reviews/glaswerk-design-ag-wittenbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐ Einfach herausragend!\n\nIch bin absolut begeistert von der Zusammenarbeit mit der Glaswerk AG. Von der ersten Beratung bis zur finalen Umsetzung war alles professionell, transparent und auf höchstem Niveau. Das Team von Pascal hat nicht nur mit Fachkompetenz überzeugt, sondern auch mit kreativen Lösungen, die perfekt auf unsere Bedürfnisse abgestimmt waren.\n\nDie Präzision der Arbeit sprechen für sich – das Ergebnis hat unsere Erwartungen übertroffen! Besonders beeindruckt hat mich die Zuverlässigkeit und Termintreue, was in der heutigen Zeit leider nicht selbstverständlich ist.\n\nEin grosses Dankeschön an das gesamte Team – ich kann die Glaswerk AG uneingeschränkt weiterempfehlen und freue mich auf zukünftige Projekte!\n\nKlare Empfehlung für alle, die Wert auf tolle Zusammenarbeit Professionalität und Innovation legen.",
+        "time": 1735811700,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "claudia Köchli",
+        "author_photo": "/images/reviews/glaswerk-design-ag-wittenbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit! Freundlich und unkompliziert! Weiter so💪",
+        "time": 1749812414,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Janos Klak",
+        "author_photo": "/images/reviews/glaswerk-design-ag-wittenbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sali Jungs, ich wollte nochmals vielen Dank sagen für eure super Arbeit. Unsere Küche mit der farbigen Küchenrückwand sieht aus wie neu! 👍🏻🙂",
+        "time": 1580757958,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Adriano Bresciani",
+        "author_photo": "/images/reviews/glaswerk-design-ag-wittenbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Glas Bude,\nseriöse, kompetente und qulifizierte Mitarbeiter.",
+        "time": 1598514422,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Udo Oliver Böhnke",
+        "author_photo": "/images/reviews/glaswerk-design-ag-wittenbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super nettes,freundliches Personal !",
+        "time": 1656396066,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

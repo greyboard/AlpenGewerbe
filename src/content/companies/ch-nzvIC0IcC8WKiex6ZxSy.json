@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJR6M1OmsNkEcRk9yiyGde0fQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–16:30 Uhr",
+    "Dienstag: 07:00–16:30 Uhr",
+    "Mittwoch: 07:00–16:30 Uhr",
+    "Donnerstag: 07:00–16:30 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.2,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "Lucas Mueller",
+        "author_photo": "/images/reviews/hans-brun-ag-heizung-und-sanitaer-buchs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir empfehlen die Hans Brun AG wärmstens für alle Sanitärbedürfnisse. Ihre Liebe zum Detail und ihr Engagement für Qualität sind in ihrer Arbeit offensichtlich. Unsere neue Fussbodenheizung im Badezimmer ist ein Traum!",
+        "time": 1758600467,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Kiwan Othman",
+        "author_photo": "/images/reviews/hans-brun-ag-heizung-und-sanitaer-buchs/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Es verdient weniger als einen Stern.\nIch hatte einen Termin mit der Firma vereinbart, aber sie ist nicht erschienen. Ich habe zweimal bei der Firma angerufen und sie hat mir gesagt, dass sie sich verspäten würde, aber sie ist nicht gekommen.",
+        "time": 1762363276,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Karan Dhillon",
+        "author_photo": "/images/reviews/hans-brun-ag-heizung-und-sanitaer-buchs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben die Dienstleistung und den Service seit September 2024 mehrfach im Bereich Heizung und Sanitär in Anspruch genommen und waren stets im vollen Umfang zufrieden. Angefangen vom Kundenmanagement und Betreuung bis hin zu den durch die Handwerker ausgeführten Arbeiten sind unsere Erwartungen stets übertroffen worden. Wir können die Firma und ihre Mitarbeiter mit ruhigen Gewissen und wärmstens weiterempfehlen. Die Arbeiten wurden aufmerksam und umsichtig ausgeführt und es wurden Kleinigkeiten, die nicht vereinbart waren, nebenbei mit ausgeführt. Sehr gern wieder.",
+        "time": 1743603399,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Felix",
+        "author_photo": "/images/reviews/hans-brun-ag-heizung-und-sanitaer-buchs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut zufrieden mit der Arbeit der Firma Hans Brun AG bei unserem Neubau! Luca war jederzeit ansprechbar, bei den Planungen wurde uns alles ausführlich erläutert und vor allem hat alles prima geklappt!\n\nAuch während der Bauphase waren die Jungs von Hans Brun AG auf der Baustelle immer ansprechbar und die Arbeit ging ohne grosse Probleme voran und falls es doch mal was zu klären gab, wurde alles unkompliziert geregelt!\n\nWir würden jederzeit wieder mit der Firma Hans Brun AG zusammenarbeiten und können sie uneingeschränkt weiterempfehlen!!! Top Arbeit und stets freundlicher Kontakt!!!",
+        "time": 1743505581,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Andrew Zeller",
+        "author_photo": "/images/reviews/hans-brun-ag-heizung-und-sanitaer-buchs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir hatten heute einen Notfall mit Wassereinbruch. Hans Brun AG hat uns schnell und professionell unterstützt und das Problem innert kürzester Zeit gelöst. Der Mitarbeiter vor Ort war sehr engagiert und unkompliziert.",
+        "time": 1750946031,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

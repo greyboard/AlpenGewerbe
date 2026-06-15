@@ -26,5 +26,55 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJs8bJxmE3jkcRLCtMupBj9wk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Naresh kumar Arjunan",
+        "author_photo": "/images/reviews/y-s-maler-gipser-team-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Maler haben hervorragende Arbeit geleistet – zuverlässig, sauber und mit top Ergebnis, absolut empfehlenswert!",
+        "time": 1757311638,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Susanne",
+        "author_photo": "/images/reviews/y-s-maler-gipser-team-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Guri hat die Arbeiten in einem katastrophalen Zustand von einem Vorgänger übernommen. Hat alle Arbeiten sehr zuverlässig erledigt. gute Ideen, saubere Ausführung. Perfektes Zeitmanagement\nKann ich nur empfehlen. werde gerne wieder Herrn Guri für weitere Arbeiten verpflichten.",
+        "time": 1760174265,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "avni Berisha",
+        "author_photo": "/images/reviews/y-s-maler-gipser-team-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1757278848,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "UnknownGamer",
+        "author_photo": "/images/reviews/y-s-maler-gipser-team-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1757276920,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

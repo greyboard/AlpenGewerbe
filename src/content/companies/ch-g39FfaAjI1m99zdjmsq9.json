@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJGZZV6aoDkEcRpTERtQSbhYw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Rolf Haas",
+        "author_photo": "/images/reviews/arnold-dach-gmbh-fenkrieden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundlich und kompetent. Gerne wieder beim nächsten Projekt.",
+        "time": 1664826158,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Mike Landolt",
+        "author_photo": "/images/reviews/arnold-dach-gmbh-fenkrieden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma fürs Dach. Freundlich und Kundenorientiert.",
+        "time": 1558005632,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Lyn Wild",
+        "author_photo": "/images/reviews/arnold-dach-gmbh-fenkrieden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Effiziente Arbeit und freundliche Mitarbeiter",
+        "time": 1629282925,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Hanspeter Brügger",
+        "author_photo": "/images/reviews/arnold-dach-gmbh-fenkrieden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Besten empfohlen",
+        "time": 1573385202,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Yara Oberegger",
+        "author_photo": "/images/reviews/arnold-dach-gmbh-fenkrieden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1691440342,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

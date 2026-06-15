@@ -1,7 +1,7 @@
 {
   "id": "ch-ITlV6UEJN1Vl38B9l36o",
   "slug": "creativ-gipser-muenchenstein",
-  "name": "creativ-Gipser",
+  "name": "Creativ Gipser GmbH",
   "branchen": [
     "gipser"
   ],
@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJW85TDSm4kUcRb_IPh5lsPyg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Simone Jordan-Leurs",
+        "author_photo": "/images/reviews/creativ-gipser-muenchenstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Creativ Gipser im wahrsten Sinne des Wortes!! Denn Kreativität war bei der Instandsetzung unseres 110 Jahre alten Hauses in mehrfacher Hinsicht gefragt! Wir bedanken uns herzlich bei Herrn Roberto Barbosa und seinem Team für die tollen Arbeiten, die Freundlichkeit, Hilfsbereitschaft, Unterstützung und Lösungsfindung, fachmännische Beratung, Zuverlässigkeit und und und! Es war uns eine Freude, unser Haus mit eurer Hilfe zum Strahlen zu bringen.\nHerzlichen Dank! Simone und John",
+        "time": 1773653601,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "José Manuel Lopez",
+        "author_photo": "/images/reviews/creativ-gipser-muenchenstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben unser Haus vor einigen Monaten komplett renoviert. Sämtliche Innen- und Fassadenarbeiten (Aussenisolaition) wurden von der Firma gemacht. Sehr professionelle Firma mit einen sehr guten Preis-Leistungs-Verhältnis, sowie sehr engagierte und flexible Geschäftsführer. Würde ich sofort weiter empfehlen. Auch alle Anforderungen welche von der Minergie Stelle angefordert wurden korrekt ausgeführt.\nGerne empfehle ich die Firma weiter.",
+        "time": 1646301636,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "K J",
+        "author_photo": "/images/reviews/creativ-gipser-muenchenstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben zwei Bäder renoviert, und ihre Arbeit ist top. Sie arbeiten hart und halten alles gut organisiert und sauber. Zuverlässige Qualität und Mitarbeiter. Wir empfehlen diese Firma weiter.",
+        "time": 1685709377,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Patrick Murer",
+        "author_photo": "/images/reviews/creativ-gipser-muenchenstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wunderbare Arbeit! Sauber und qualitativ hochwertig! Vielen Dank!",
+        "time": 1582132383,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Daniel und Sandra Hammer",
+        "author_photo": "/images/reviews/creativ-gipser-muenchenstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr sauber und professionell. Top Arbeit.",
+        "time": 1645021340,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

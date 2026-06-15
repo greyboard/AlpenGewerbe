@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJgQ_RGD8fj0cRmtMvdCrhYB0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 87,
+    "reviews": [
+      {
+        "author_name": "Theo Noetzli",
+        "author_photo": "/images/reviews/glassmania-sierre/reviewer_1.jpg",
+        "rating": 5,
+        "text": "lieferung pünktlich und vollständig, sichere verpackung, bequeme zahlung, preis-/leistungsverhältnis sehr gut, qualität stimmt, grosse online auswahl",
+        "time": 1766570062,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Philipp Drechsel",
+        "author_photo": "/images/reviews/glassmania-sierre/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Topp Service, superschnelle Lieferung und einwandfreie, qualitativ hochwertige Ware.",
+        "time": 1768809698,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "HellsKitchen Brewery",
+        "author_photo": "/images/reviews/glassmania-sierre/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Toller Services und top Qualität. Wir sind sehr zufrieden. Gläser wurden innert 10 Tagen geliefert und waren perfekt verpackt. Immer wieder gerne. Danke vielmals MyGlass.ch. Bierige Grüsse, HellsKitchen Brewery",
+        "time": 1570799787,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Daniela Scheidegger",
+        "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocIPDz6Ykjm6rDKICtY8RWK97JnpgAdK9gB8k11ih2ENr0I_XA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "Tolle Beratung via Telefon. Kundenorientiert und gut erreichbar",
+        "time": 1769630254,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Gideon Megert",
+        "author_photo": "/images/reviews/glassmania-sierre/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Meine Frau und ich wurden von MyGlass herausragend gut bedient. Da die von uns gewünschten Gläser schon ausverkauft waren, wurden wir äusserst fachkompetent und herzlich an eine zusätzliche Verkausstelle hingewiesen. Wir freuen uns enorm über die neuen Gläser.\n\nZudem war das „fête de Vignerons“ gigantisch. So wird uns dieses Fest mit unsern schönen Gläsern noch Jahre in guter Erinnerung bleiben.\n\nSollten wir irgendwann wieder spezielle Gläser benötigen, dann nur MyGlass.",
+        "time": 1564578255,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-fd4tY14suk26LYlFk3cx",
   "slug": "el-top-sa-les-acacias",
-  "name": "EL TOP SA",
+  "name": "EL TOP",
   "branchen": [
     "elektriker"
   ],
@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJH64mHthxqkER1vnRYg0Rl6U",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 24,
+    "reviews": [
+      {
+        "author_name": "Magui Herbettaz",
+        "author_photo": "/images/reviews/el-top-sa-les-acacias/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Exzellenter Service, sehr freundlich, schnell und sauber. Der Monteur hat unseren Badezimmerschrank im Handumdrehen und sehr organisiert ausgetauscht. Auch die Terminplanung war gut. Ein effizientes Unternehmen.",
+        "time": 1660544376,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Natalya Khandromai",
+        "author_photo": "/images/reviews/el-top-sa-les-acacias/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Das unverantwortlichste Unternehmen, das ich je gesehen habe.",
+        "time": 1760081869,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Raphaël B",
+        "author_photo": "/images/reviews/el-top-sa-les-acacias/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sie haben alle Elektroarbeiten in meiner Wohnung in Parc-des-Crêts ausgeführt. Sie haben alle Normen eingehalten, die Kabel farbcodiert, beschriftet und die Dokumentation perfekt ausgeführt. Ich habe nicht übertrieben, hätte es aber angesichts der Qualität ihrer Arbeit durchaus tun können.",
+        "time": 1698434605,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gabriel Esteban",
+        "author_photo": "/images/reviews/el-top-sa-les-acacias/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Professionell, effizient und exzellenter Kundenservice. Ich kann sie wärmstens empfehlen!",
+        "time": 1741256804,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ZUPSHOW",
+        "author_photo": "/images/reviews/el-top-sa-les-acacias/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sie sind die besten!",
+        "time": 1535360259,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

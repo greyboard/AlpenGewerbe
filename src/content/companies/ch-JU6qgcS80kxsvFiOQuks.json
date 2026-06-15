@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ3D8x8zSmkcRveNWpr8Gfs0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Georges Fischer",
+        "author_photo": "/images/reviews/elmer-blumer-ag-mollis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswert! elmer + blumer haben die Arbeiten zuverlässig, sauber und mit viel Fachwissen erledigt. Das Team ist freundlich und professionell – ich bin rundum zufrieden.",
+        "time": 1755585693,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "De Dietiker",
+        "author_photo": "/images/reviews/elmer-blumer-ag-mollis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der geleisteten Arbeit der elmer + blumer. Sehr professionelles Team und eine qualitativ hochwertige Arbeit wurde geleistet.\nIch kann das Unternehmen in allen Belangen herzlichst weiterempfehlen wenn es um Bedachungen, Spenglerarbeiten, Fassaden und Renovationen geht.\n\nDie Zusammenarbeit verlief reibungslos und ich freue mich auf das nächste gemeiname Projekt.",
+        "time": 1605784548,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Nora Schötz",
+        "author_photo": "/images/reviews/elmer-blumer-ag-mollis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Innerhalb von zwei Wochen hat mein Haus ein komplettes Dach mit Isolation und schönen Dachfenstern bekommen. Ich bin sehr glücklich und zufrieden mit der Arbeit und kann die Firma Elmer + Blumer AG in jedem Fall weiter empfehlen.",
+        "time": 1685366101,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Zannier",
+        "author_photo": "/images/reviews/elmer-blumer-ag-mollis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein zuverlässiges und kompetentes Unternehmen welches saubere Arbeit abliefert.",
+        "time": 1683265947,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "martin thut",
+        "author_photo": "/images/reviews/elmer-blumer-ag-mollis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundlicher -kompetenter Betrieb . Qualität 1a.",
+        "time": 1575739757,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

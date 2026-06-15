@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJp4Lt1MjtmkcRU7SrN2ZSqQQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Juerg Hasler",
+        "author_photo": "/images/reviews/anobia-holzbau-gmbh-maerwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit der Firma  Anobia ein „Holz100“ Haus gebaut. Wird sind mit der Arbeit, dem Team und deren Arbeitsweise super zufrieden. Sie arbeiten präzise, ruhig, speditiv und haben die Termine stets eingehalten. Wir schätzten die gute und ehrliche Beratung. Anobia empfehlen wie gerne als kompetenten Holzbauer weiter\nEsthi & Jürg",
+        "time": 1767890827,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "silvan schallenberg",
+        "author_photo": "/images/reviews/anobia-holzbau-gmbh-maerwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässig, Kompetent, Sehr Empfehlenswert!\nMit dem Team zusammenzuarbeiten hat grosse Freude bereitet",
+        "time": 1636833463,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Steffi Scheiwiler",
+        "author_photo": "/images/reviews/anobia-holzbau-gmbh-maerwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Es ist ein sehr kompetentes und zuverlässiges Team. Es war alles perfekt. Besser geht nicht.",
+        "time": 1633871240,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sandra Aeschbacher",
+        "author_photo": "/images/reviews/anobia-holzbau-gmbh-maerwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "sehr zuverlässiges und sympathisches Team. Nur zu empfehlen!",
+        "time": 1632721257,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sandro Aeschbacher",
+        "author_photo": "/images/reviews/anobia-holzbau-gmbh-maerwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "dynamisches junges Team welches qualitativ hochstehende Arbeit ausführt, kann ich nur weiterempfehlen!",
+        "time": 1632171100,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

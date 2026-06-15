@@ -26,5 +26,63 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ8CIw_KnNY4REYrZka1Mujk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Raffael Greminger",
+        "author_photo": "/images/reviews/simonetta-gipserwerk-gmbh-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben eine Wand zwischen Küche und Esszimmer entfernt und danach waren umfangreiche Gipserarbeiten nötig. Daniele hat uns positiv überrascht. Er hat die Arbeit früher, schneller und günstiger Ausgeführt als geplant. Schon bei der ersten Besichtigung vor Ort war er uns sehr symphatisch. Während den Arbeiten hat er uns dann sehr gute Lösungsvorschläge für andere kleine \"Problemstellen\" vorgeschlagen. Wir können Ihn gerne weiterempfehlen.",
+        "time": 1715003197,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "M. A.",
+        "author_photo": "/images/reviews/simonetta-gipserwerk-gmbh-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann Daniele wärmstens empfehlen. Er hat mein Badezimmer im Büro renoviert, und ich muss sagen, er hat eine hervorragende Leistung erbracht. Die durchgeführten Arbeiten umfassten das Anbringen von Rigips-Platten und das Neuverputzen der Wände. Die Arbeit wurde äusserst sauber und effizient ausgeführt.\nEs ist zweifellos das WERK eines erstklassigen GIPSERS.\nDer Name \"GIPSERWERK\" ist absolut verdient!",
+        "time": 1698071204,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andrea Simonetta",
+        "author_photo": "/images/reviews/simonetta-gipserwerk-gmbh-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super kompetent, geniale Arbeit.Bringt gute Ideen und Vorschläge mit.",
+        "time": 1697978589,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Toni Franco",
+        "author_photo": "/images/reviews/simonetta-gipserwerk-gmbh-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Pünktlich und Kompetent",
+        "time": 1697714823,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "alessio gerbino",
+        "author_photo": "/images/reviews/simonetta-gipserwerk-gmbh-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1667222629,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

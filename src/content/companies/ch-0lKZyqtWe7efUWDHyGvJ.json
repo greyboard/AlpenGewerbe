@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJJbXVljsLkEcROcuNlGdDoyU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "R Graf",
+        "author_photo": "/images/reviews/monn-kundenmaurer-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Beratung. Zuverlässige, fachgerechte und saubere Ausführung. Sehr empfehlenswert",
+        "time": 1737392343,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Giovanni Brusetti",
+        "author_photo": "/images/reviews/monn-kundenmaurer-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Großartig",
+        "time": 1707205931,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

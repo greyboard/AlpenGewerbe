@@ -26,5 +26,54 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJsb1idWB_kEcRLj7ZsHdiiHQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Müsterli",
+        "author_photo": "/images/reviews/alec-megel-plattenleger-neuhausen-am-rheinfall/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute exakte Arbeit. Herr Mégel ist sehr freundlich und sympathisch.\nWir haben ihn empfohlen bekommen und werden ihn sicher , wenn wir etwas haben wieder anfragen.",
+        "time": 1624552751,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Markus Frei",
+        "author_photo": "/images/reviews/alec-megel-plattenleger-neuhausen-am-rheinfall/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässig und genau hat er uns bei unserem Badezimmer-Umbau unterstützt. Jederzeit wieder meine Wahl! Herzlichen Dank für Deine professionelle Arbeit.",
+        "time": 1550769187,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Thomas Roth",
+        "author_photo": "/images/reviews/alec-megel-plattenleger-neuhausen-am-rheinfall/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir sind vollauf Begeistert von der erbrachten Arbeit und Qualität. Preisleistung ist zu 100% gegeben.\n\nDanke für die top Arbeit",
+        "time": 1760295328,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "SHLiquid 82",
+        "author_photo": "/images/reviews/alec-megel-plattenleger-neuhausen-am-rheinfall/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Qualitativ äusserst hochstehend. Man erkennt in seiner angebotenen Dienstleistung sofort seine ausserordentlichen Fachkentnisse. Bei einem weiteren Umbau direkt wieder.",
+        "time": 1603572120,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Peter Mégel",
+        "author_photo": "/images/reviews/alec-megel-plattenleger-neuhausen-am-rheinfall/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit in unserem Badezimmer mit Boden-Plattenlegen und Wand-Fugen erneuern.",
+        "time": 1502354565,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

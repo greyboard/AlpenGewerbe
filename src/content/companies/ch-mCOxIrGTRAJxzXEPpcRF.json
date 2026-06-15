@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJw33v0WngmkcRoAM7wyCg5Nc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Adrian Bruderer",
+        "author_photo": "/images/reviews/bruderer-bau-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Arbeiter sehr freundlich und kompetent. Preis-Leistung stimmt. Gerne wieder!",
+        "time": 1659346121,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stanislaw Piatkiewicz",
+        "author_photo": "/images/reviews/bruderer-bau-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Firma.",
+        "time": 1722501282,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michel Weber",
+        "author_photo": "/images/reviews/bruderer-bau-st-gallen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Einmal und nie wieder!\nFür diese Firma müssten Minussterne erfunden werden.",
+        "time": 1655903242,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marc Zambelli",
+        "author_photo": "/images/reviews/bruderer-bau-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1734766654,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Samuel Müller",
+        "author_photo": "/images/reviews/bruderer-bau-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1729259160,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

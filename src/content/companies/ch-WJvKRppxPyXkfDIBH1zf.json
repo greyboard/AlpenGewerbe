@@ -1,7 +1,7 @@
 {
   "id": "ch-WJvKRppxPyXkfDIBH1zf",
   "slug": "art-du-jardin-zbinden-sa-paysagiste-fribourg-suisse-bourguillon",
-  "name": "Art du Jardin Zbinden SA - Paysagiste Fribourg Suisse",
+  "name": "Art du Jardin Zbinden SA",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJSzPg3x9pjkcR3_VSMC_WZow",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Caecilia Bohny",
+        "author_photo": "/images/reviews/art-du-jardin-zbinden-sa-paysagiste-fribourg-suisse-bourguillon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine Website, auf der Sie sich einen guten Überblick über das verschaffen können, was Sie für Ihren Garten benötigen.",
+        "time": 1691924487,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Daniel „Homme des bois“ Schmutz",
+        "author_photo": "/images/reviews/art-du-jardin-zbinden-sa-paysagiste-fribourg-suisse-bourguillon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein Qualitätsunternehmen, eine hervorragende Leistung!!!",
+        "time": 1565162393,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Joel Dias S",
+        "author_photo": "/images/reviews/art-du-jardin-zbinden-sa-paysagiste-fribourg-suisse-bourguillon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr empfehlenswerter Landschaftsgärtner!",
+        "time": 1513507517,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Marjan Georgiev",
+        "author_photo": "/images/reviews/art-du-jardin-zbinden-sa-paysagiste-fribourg-suisse-bourguillon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676057276,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "C. Schaller",
+        "author_photo": "/images/reviews/art-du-jardin-zbinden-sa-paysagiste-fribourg-suisse-bourguillon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1765878028,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

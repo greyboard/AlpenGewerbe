@@ -26,5 +26,47 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJg49otnjMhEcRo-7AmNzow9M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Sabina Bollhalder",
+        "author_photo": "/images/reviews/remo-s-bodenbelaege-remo-moser-bad-ragaz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit, freundlich, schnell und der Preis stimmt. Wir waren sehr zufrieden und haben demnächst wieder einen Auftrag für Remo.",
+        "time": 1668270637,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Adrian",
+        "author_photo": "/images/reviews/remo-s-bodenbelaege-remo-moser-bad-ragaz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gute Qualität. Fairer Preis. Pünktliche Ausführung. Gerne wieder bei anderer Gelegenheit.",
+        "time": 1632313498,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marc Winkler",
+        "author_photo": "/images/reviews/remo-s-bodenbelaege-remo-moser-bad-ragaz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1576516236,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9YZG267HhEcR74Y0zL2xwpM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Margret Marincolo (MISSION: LOVE)",
+        "author_photo": "/images/reviews/dominik-bonauer-malt-so-malt-anders-eidg-dipl-malermeister-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein \"Maler\", der seine Berufung lebt:\nVon der Beratung bis zur Ausführung exzellent. Dominik ist zuvorkommend, blitzschnell und hilfsbereit. Er ist in meinen Favoriten gespeichert.",
+        "time": 1734170060,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Monika Mark",
+        "author_photo": "/images/reviews/dominik-bonauer-malt-so-malt-anders-eidg-dipl-malermeister-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super gute Beratung. Kennt sich gut mit Farbnuancen aus.  Professionelle und saubere Arbeit. Auch für sehr komplizierte Aufträge findet er Lösungen. Diesen Maler kann ich wärmstens empfehlen.",
+        "time": 1732442322,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudia Schwinn",
+        "author_photo": "/images/reviews/dominik-bonauer-malt-so-malt-anders-eidg-dipl-malermeister-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Fantastische, ausdrucksstarke und farbintensive Steinbock-Wandmalerei, die professionell nach Kundenwunsch umgesetzt wurde und jeden Tag grosse Freude bereitet. Sehr empfehlenswert.",
+        "time": 1648978825,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrizia Geisser",
+        "author_photo": "/images/reviews/dominik-bonauer-malt-so-malt-anders-eidg-dipl-malermeister-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr sympathisch und freundlich. Professionelle und sehr saubere Arbeit. Ebenfalls effizient und gut organisiert. Ein Auge zum Detail. Sehr fairer Preis. Können diese Fachperson sehr weiter empfehlen! Einfach Top!",
+        "time": 1588312831,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Stefan Tenner",
+        "author_photo": "/images/reviews/dominik-bonauer-malt-so-malt-anders-eidg-dipl-malermeister-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1697993524,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJhzGf8uDLmkcRbT8v-_ccp2A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Roland Kaiser",
+        "author_photo": "/images/reviews/malerfachbetrieb-janser-gmbh-buttikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "seit über 20 Jahren immer wieder Arbeiten ausgeführt mit Janser, Top Arbeiten mit langjährigem Spitzenpersonal!\nImmer gerne wieder. MfG Roland Kaiser",
+        "time": 1662627619,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Glasmanufaktur Buttikon AG",
+        "author_photo": "/images/reviews/malerfachbetrieb-janser-gmbh-buttikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Service, super Arbeiten, super schnell.\nTolle Zusammenarbeit seit vielen, vielen Jahren.",
+        "time": 1630995806,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Fabrizio Grande",
+        "author_photo": "/images/reviews/malerfachbetrieb-janser-gmbh-buttikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Immer freundlich und Fachmännische Auskunft super 👍",
+        "time": 1583915680,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "René Gubler",
+        "author_photo": "/images/reviews/malerfachbetrieb-janser-gmbh-buttikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715678031,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Olivia Broder",
+        "author_photo": "/images/reviews/malerfachbetrieb-janser-gmbh-buttikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1706553996,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

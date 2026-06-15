@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJBTu5SjONmkcRQe6SE1Bqg_k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Edi Lazraj",
+        "author_photo": "/images/reviews/thur-haustechnik-ag-frauenfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der ersten Beratung bis zur finalen Ausführung hat alles reibungslos funktioniert und ich bin rundum zufrieden mit Thur-Haustechnik. Die Beratung war kompetent und freundlich, auf meine Wünsche wurde jederzeit eingegangen. Die Arbeiten wurden pünktlich und sauber ausgeführt, das Ergebnis überzeugt. Besonders hervorheben möchte ich auch die gute Erreichbarkeit – bei Rückfragen bekam ich schnell eine Antwort.\nKlare Weiterempfehlung.",
+        "time": 1747944748,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Kevin Hoenger",
+        "author_photo": "/images/reviews/thur-haustechnik-ag-frauenfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Florian von der Thur Haustechnik AG hat bei mir einen super Job gemacht. Sehr unkomplizierte, einfache Kommunikation zur Auftragsabklärung. Zudem habe ich es geschätzt, dass er vor Offertenerstellung persönlich vorbeikam, um sich die Situation anzuschauen. Würde definitiv wieder zu ihm gehen für einen weiteren Auftrag.",
+        "time": 1711100854,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gianluca Luhr",
+        "author_photo": "/images/reviews/thur-haustechnik-ag-frauenfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super firma, kompetent, zuvorkommend und immer zur stelle wenn sie gebraucht werden",
+        "time": 1751806947,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Denis Thaqi",
+        "author_photo": "/images/reviews/thur-haustechnik-ag-frauenfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Eine Top Firma, schnell und sehr freundlich. Sehr zu empfehlen!",
+        "time": 1751806718,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "B K",
+        "author_photo": "/images/reviews/thur-haustechnik-ag-frauenfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Einwandfreie Arbeit vom ersten Telefonat bis zum Endtermin vor Ort.\nSehr zuvorkommend Freundlich, zuverlässig und kompetent. Herzlichen Dank!",
+        "time": 1701684642,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

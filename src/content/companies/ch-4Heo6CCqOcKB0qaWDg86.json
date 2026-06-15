@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJjfoIi8e5kUcRAPTL5FfvdeE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "suli simsek",
+        "author_photo": "/images/reviews/spenglerei-stratmann-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliches kompetentes auftreten.\nJede Frage wurde zeitnah beantwortet.\nWir als Familie hatten immer das Gefühl nicht alleine zu sein während den Arbeiten.\nArbeiten wurde wie terminiert abgeschlossen keine Extra Kosten oder unnötiges verzögern der Arbeiten.\nSind froh das wir uns für dieses Unternehmen entschieden haben.",
+        "time": 1768477213,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Tumay AG",
+        "author_photo": "/images/reviews/spenglerei-stratmann-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit der Firma Spenglerei Stratmann arbeiten wir sehr gerne und oft zusammen.\nHerr Stratmann ist sehr fachkundigt und weiss was er macht.",
+        "time": 1737451603,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Hunke",
+        "author_photo": "/images/reviews/spenglerei-stratmann-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Symphatischer und netter Kontakt.",
+        "time": 1730131178,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Chaushev Todor",
+        "author_photo": "/images/reviews/spenglerei-stratmann-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hochwertige Dienstleistungen👌👌👌",
+        "time": 1751667233,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Michael Stratmann",
+        "author_photo": "/images/reviews/spenglerei-stratmann-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "TipTop!!!",
+        "time": 1737573447,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

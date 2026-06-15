@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJZ3KevNBqjkcRrYl69AQ6XmY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Melanie Bernauer",
+        "author_photo": "/images/reviews/merat-sanitaer-gmbh-boesingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank euch allen für diesen tollen Service. Ihr habt grossartige Arbeit geleistet. Die Badewanne wurde schnell und sauber ausgetauscht mit super Beratung. Vielen herzlichen Dank.\n\nGanz liebe Grüsse und schöne Festtage\nFamilie A.",
+        "time": 1765789788,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Yvette Muff",
+        "author_photo": "/images/reviews/merat-sanitaer-gmbh-boesingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Mérat GmbH hat den Umbau unseres Badzimmers ausgeführt. Philippe Mérat hat die Koordination und Projektleitung übernommen und hat uns von den ersten Überlegungen bis zum Abschluss gut begleitet und unterstützt. Die Arbeiten wurden mit hoher Qualität ausgeführt. Die Mitarbeitenden waren sehr höflich und zuvorkommend. Auch Administration für die Planung der Umsetzung war sehr effizient, transparent und gut verständlich. Die Rechnungstellung erfolge sehr zeitnah und in guter Transparenz. Gerne werden wir Mérat GmbH weiterempfehlen und bei weiteren Projekten wieder als Partner wählen.",
+        "time": 1706696406,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Heinz Frank",
+        "author_photo": "/images/reviews/merat-sanitaer-gmbh-boesingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Mérat GmbH hat die Renovation unseres Badezimmers  ausgeführt. Nebst den sanitären Einrichtungen hat Philippe Mérat die Koordinationsaufgaben des Projektes übernommen. Diese Aufgaben und die Kommunikation unter den Beteiligten wurden mustergültig gelöst. Die Arbeiten wurden qualitativ und terminlich zu unserer vollsten Zufriedenheit ausgeführt. Die kreativen Lösungsvorschläge und die Beratungsqualität waren für uns sehr wertvoll. Die Unternehmung verfügt über eine effiziente Administration. Die Rechnungsstellung erfolgt zeitnah, detailliert und in voller Transparenz. Für die bevorstehende Renovation der übrigen Nasszellen werden wir die Firma Mérat wiederum sehr gerne berücksichtigen und bestens weiter empfehlen.",
+        "time": 1662838308,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "David Schmutz",
+        "author_photo": "/images/reviews/merat-sanitaer-gmbh-boesingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige Firma die Inhabergeführt ist, wir haben immer perfekt ausgeführte Sanitärarbeiten und können die Firma weiter empfehlen.",
+        "time": 1748424804,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lukas Rogowski",
+        "author_photo": "/images/reviews/merat-sanitaer-gmbh-boesingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetenter Fachbetrieb, gute Beratung und professionelle Ausführung. Absolut zu empfehlen!",
+        "time": 1648919006,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

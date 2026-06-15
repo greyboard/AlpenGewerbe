@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJsTmraJdRhUcRq7tNb2xiFFY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Fabian Deed",
+        "author_photo": "/images/reviews/rsb-haustechnik-heizung-und-sanitaer-gmbh-seewen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma RSB hat von der Planung, bis zur Endmontage der Heizung und Sanitärinstallation eine hervorragende Leistung erbracht.\nSie gingen auf die Wünsche des Kunden ein und ergänzten meine Ideen (Nischen Beleuchtung)\nAuch die Zusammenarbeit war top, kann die Firma nur weiterempfehlen.\nForher nachher☺️",
+        "time": 1628012640,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Mar Rai",
+        "author_photo": "/images/reviews/rsb-haustechnik-heizung-und-sanitaer-gmbh-seewen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolles Unternehmen aus Schwyz / Seewen! RSB hat bei unserem Hausumbau die komplette Sanitär- sowie Heizungsinstallation (Bodenheizung mit Fernwärmeanschluss) gemacht. Wir sind mehr als zufrieden. Die Mitarbeiter haben Freude an der Arbeit mit einer guten Portion Humor & wissen, was sie tun. Terminlich hat auch alles gepasst. Sehr empfehlenswert!",
+        "time": 1615321590,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Thomas Reichmuth",
+        "author_photo": "/images/reviews/rsb-haustechnik-heizung-und-sanitaer-gmbh-seewen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mit der Firma RSB-Haustechnik war ich überaus sehr zufrieden.\nDer Geschäftsführer denkt mit, macht sinnvolle Vorschläge und alles entspricht seinen Aussagen und Offerten.\nEinsatz, Pünktichkeit, Sauberkeit, Preise und Termine stimmten jederzeit.\nDiese Firma kann und werde ich mit sehr gutem Gewissen weiterempfehlen.\nVielen Dank nochmals Rico für deine tolle Arbeit.",
+        "time": 1633681655,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Gianni Fornasiero",
+        "author_photo": "/images/reviews/rsb-haustechnik-heizung-und-sanitaer-gmbh-seewen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden mit den erbrachten Leistungen. Seriöse, kompetente Vorabklärungen und eine fachgerechte, saubere und speditive Ausführung der Arbeiten haben zum rundum zufrieden stellenden Ergebnis geführt. Das ganze Team ist sehr sympathisch, kompetent, fachlich auf der Höhe und sehr seriös, kurz eine sehr verantwortungsvolle, kundenfreundliche Einstellung des gesamten Teams. Kann ich nur weiter empfehlen.",
+        "time": 1667727405,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Theodor Keiser",
+        "author_photo": "/images/reviews/rsb-haustechnik-heizung-und-sanitaer-gmbh-seewen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Firma und ihre Angestellten sind sehr kompetent, äusserst zuverlässig, professionell und termintreu. Der Kunde ist hier noch König und die Firma ein echter Partner. Sie haben uns zu unserer vollsten Zufriedenheit unsere alte Ölheizung durch eine Erdsonden-Heizung ersetzt und neben Beratung auch die Koordination der verschiedenen Zulieferer übernommen. Ich kann die RSB mit vollster Überzeugung weiterempfehlen.",
+        "time": 1696007701,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

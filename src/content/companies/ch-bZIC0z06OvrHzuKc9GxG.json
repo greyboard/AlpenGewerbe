@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJaSObA6b7j0cRoCNItErqj3A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Nici y los quatro bichitos",
+        "author_photo": "/images/reviews/wm-plattenbelaege-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Erfahrung mit dieser Firma. Saubere und genaue Arbeit. Vielen Dank",
+        "time": 1522244893,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Sami Zattal",
+        "author_photo": "/images/reviews/wm-plattenbelaege-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr saubere Arbeit, war stehts zuverlässig. Gerne wieder 👍",
+        "time": 1712075074,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nathanael Eberle",
+        "author_photo": "/images/reviews/wm-plattenbelaege-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777371330,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Romana Fluri",
+        "author_photo": "/images/reviews/wm-plattenbelaege-gmbh-luzern/reviewer_4.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1545165761,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Raffaele Benice",
+        "author_photo": "/images/reviews/wm-plattenbelaege-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1517399508,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJX7cVVbGhmkcRLS48V_wuxQ4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Bruno Weber",
+        "author_photo": "/images/reviews/s-a-elektro-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit\nVielen Dank an die Firma S&A Elektro",
+        "time": 1762448125,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Peppe S",
+        "author_photo": "/images/reviews/s-a-elektro-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seriose und Fachkompetente Firma",
+        "time": 1771579786,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Snjezana Juric",
+        "author_photo": "/images/reviews/s-a-elektro-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Supper schnelle und top leistung\nImmer da wen man sie braucht..\nSehr Fachlich und Kompetent.\nSehr zu empfehlen...",
+        "time": 1779038238,
+        "relative_time_description": "vor 4 Wochen"
+      },
+      {
+        "author_name": "Polo Vice",
+        "author_photo": "/images/reviews/s-a-elektro-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1760501752,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "mario fabekovec",
+        "author_photo": "/images/reviews/s-a-elektro-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1678740900,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJJWdBdigLkEcRMX2Emg48ZzU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Josef Da'ss",
+        "author_photo": "/images/reviews/kaelin-sanitaer-heizung-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Arbeit von Firma Kälin Sanitär und Heizung AG. Der Service -Techniker Herr Sabani war immer Pünktlich, Freundlich und Zuverlässig. Herzlichen Dank für die tolle Arbeit.",
+        "time": 1759923763,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "bruno de lima",
+        "author_photo": "/images/reviews/kaelin-sanitaer-heizung-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma Kälin Sanitär für die Planung und Projektleitung unseres umfangreichen Umbaus beauftragt, bei dem mehrere Bäder und Küchen in unserem Haus renoviert wurden. Von der ersten Beratung bis zur finalen Umsetzung hat das Team von Kälin Sanitär durchweg hervorragende Arbeit geleistet.\n\nDie Planung war äusserst professionell und auf unsere individuellen Wünsche abgestimmt. Die Mitarbeiter waren stets freundlich, kompetent und haben uns durch den gesamten Prozess begleitet. Besonders hervorheben möchten wir die transparente Kommunikation und die regelmäßigen Updates, die uns das Gefühl gaben, immer gut informiert zu sein.\n\nDie Umsetzung der Arbeiten verlief reibungslos und termingerecht. Wir waren beeindruckt von der handwerklichen Qualität und der Liebe zum Detail, die in jedes Projekt eingeflossen sind. Jedes Bad und jede Küche wurde mit viel Sorgfalt gestaltet und erfüllt nun unsere Erwartungen mehr als erwartet.\n\nEin grosses Dankeschön an das gesamte Team von Kälin Sanitär für den tollen Einsatz und die professionelle Unterstützung! Wir können die Firma weiterempfehlen und würden jederzeit wieder mit ihnen zusammenarbeiten.",
+        "time": 1744293569,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Robert",
+        "author_photo": "/images/reviews/kaelin-sanitaer-heizung-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hier sind Profis am Werk: Zuverlässig, fachlich kompetent, freundlich und fair. Sie haben unsere neue Heizung installiert sowie diverse Sanitäranpassungen durchgeführt und wir waren immer sehr zufrieden.",
+        "time": 1751457976,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Vladimir Kolenaty",
+        "author_photo": "/images/reviews/kaelin-sanitaer-heizung-ag-zuerich/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Die Sanitär Firma Kälin hat uns beim Wohnungsumbau ein wunderbares neues Bad samt separatem WC installiert und auch die Zusammenarbeit mit der Firma Zekaj für Maurer- und Maler-Arbeiten hat sehr gut geklappt. Mitarbeiter Mediji alles gut koordiniert und hat auch zusätzliche Sonderaufgaben übernommen.",
+        "time": 1753646353,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Amanda-Jane Shand",
+        "author_photo": "/images/reviews/kaelin-sanitaer-heizung-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "KÄLIN SANITÄR\nSehr sehr zufrieden\nfreundlich hilfsbereit pünktlich. Das team arbeitet sehr effizient,  Kann ich weiter empfehlen.",
+        "time": 1762943967,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

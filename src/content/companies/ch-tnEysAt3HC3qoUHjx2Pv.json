@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJX4Lq50jgmkcRD0xxQDBhblo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Aleksandar Panic",
+        "author_photo": "/images/reviews/edy-haeller-haus-und-baedertechnik-ag-abtwil-sg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und zuverlässig!\nImmer wieder gerne",
+        "time": 1756883513,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Remo Schelb",
+        "author_photo": "/images/reviews/edy-haeller-haus-und-baedertechnik-ag-abtwil-sg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Truppe. Voll motiviert und begeistert bei der Sache!",
+        "time": 1640263883,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Roman Haeni Senior",
+        "author_photo": "/images/reviews/edy-haeller-haus-und-baedertechnik-ag-abtwil-sg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Kompedente gute Mitarbeiter!",
+        "time": 1638438926,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Janik Egger",
+        "author_photo": "/images/reviews/edy-haeller-haus-und-baedertechnik-ag-abtwil-sg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hat einen guten 2.lehrjahrstift",
+        "time": 1402669410,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Miso Dragojevic",
+        "author_photo": "/images/reviews/edy-haeller-haus-und-baedertechnik-ag-abtwil-sg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1712598994,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJTzYbtrHDhEcRx5Z9XGFjMlc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Diego Krättli",
+        "author_photo": "/images/reviews/elektro-zueger-tamins-rhaezuens-ag-rhaezuens/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein Unternehmen, bei dem die Inhaber noch selber Hand anlegen und Top Qualität abliefern. Die Mitarbeiter verstehen ihr Handwerk und arbeiten sehr sauber. Ein Unternehmen, das ich sehr empfehlen kann.",
+        "time": 1692176951,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Carmen Gredig",
+        "author_photo": "/images/reviews/elektro-zueger-tamins-rhaezuens-ag-rhaezuens/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent und freundlich.  Konnte sogar perfekt per Telefon helfen.",
+        "time": 1695301281,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Emanuel Caluzi",
+        "author_photo": "/images/reviews/elektro-zueger-tamins-rhaezuens-ag-rhaezuens/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute kompetente Arbeit.",
+        "time": 1612184641,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Frank S",
+        "author_photo": "/images/reviews/elektro-zueger-tamins-rhaezuens-ag-rhaezuens/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1740592690,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eveline Caspar",
+        "author_photo": "/images/reviews/elektro-zueger-tamins-rhaezuens-ag-rhaezuens/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1736507468,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

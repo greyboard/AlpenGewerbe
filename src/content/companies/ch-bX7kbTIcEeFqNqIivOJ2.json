@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJG-Nfg1jKkUcRg2AFw0bLb0k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 29,
+    "reviews": [
+      {
+        "author_name": "ThomasD",
+        "author_photo": "/images/reviews/wahl-glas-und-metallbau-ag-liestal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben uns für Wahl Glas- und Metallbau entschieden und sind mit der Zusammenarbeit sehr zufrieden. Besonders hervorheben möchten wir den Einsatz von Schraubfundamenten – eine saubere, schnelle und nachhaltige Lösung, die den Baufortschritt deutlich beschleunigt hat. Die Ausführung war präzise, zuverlässig und termingerecht. Wir können Wahl Glas- und Metallbau uneingeschränkt weiterempfehlen.",
+        "time": 1752565087,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Mathias Mikes",
+        "author_photo": "/images/reviews/wahl-glas-und-metallbau-ag-liestal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Wahl Metallbau AG hat bei unserer Mutter eine segmentierte Balkonverglasung montiert. Schon im höheren Alter, hatte sie Mühe die Schiebeelemente zu öffnen. Das Team von Wahl hat unter der Leitung von Orlando Bürki solange getüfftelt, bis das System perfekt lief. Mama ist glücklich und geniesst ihren Balkon umso mehr.\nVon Offerte über Baueingabe bis Erstelllung hat alles reibungslos geklappt. Grossen Dank. Wir können das Unternehmen wärmstens empfehlen.",
+        "time": 1745749021,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Vogel",
+        "author_photo": "/images/reviews/wahl-glas-und-metallbau-ag-liestal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unsere Ideen für einen Wintergarten aufgenommen und uns in der Planung kreativ unterstützt. Höchste Qualität in der Umsetzung. Engagiertes, motiviertes und kompetentes Team. Besser geht nicht. Vielen Dank. Wir geniessen jeden Tag diesen neu gewonnenen Raum.",
+        "time": 1686728042,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Steve H.",
+        "author_photo": "/images/reviews/wahl-glas-und-metallbau-ag-liestal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben ein Geländer für unseren Sitzplatz bei der Wahl Glas- und Metallbau AG bestellt. Die Arbeit wurde sauber und termingerecht ausgeführt und das Ergebnis entspricht unseren Erwartungen. Der gesamte Ablauf war unkompliziert und das Team war freundlich. Wir sind zufrieden und können die Firma weiterempfehlen.",
+        "time": 1732027155,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Reto Pusterla",
+        "author_photo": "/images/reviews/wahl-glas-und-metallbau-ag-liestal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Prompter, unkomplizierter Service, sehr freundliches und hilfsbereites Personal. Gerne wieder!",
+        "time": 1768333934,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

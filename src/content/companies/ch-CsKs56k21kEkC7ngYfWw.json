@@ -26,5 +26,31 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJtUo6oP8njkcRbhHP309VFOw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:30 Uhr",
+    "Samstag: 07:00–12:00 Uhr, 13:00–18:30 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Andre P. Kramer",
+        "author_photo": "/images/reviews/schneider-garten-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gartenbau Schneider hat mich absolut überzeugt! Das Team war äusserst sympathisch und ging kreativ auf meine Wünsche ein. Die Liebe zum Detail ist lobenswert. Mein Garten hat sich von einer „Geröllhalde“ in eine Oase zum Wohlfühlen verwandelt. Ich kann Gartenbau Schneider nur wärmstens empfehlen und werde sie definitiv weiterempfehlen!",
+        "time": 1691136885,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

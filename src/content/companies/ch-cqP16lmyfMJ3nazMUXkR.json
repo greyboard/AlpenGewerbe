@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJkSuIiVP8mkcRicXtLEWZz7o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "ralph osterwalder",
+        "author_photo": "/images/reviews/gartenpflege-fischer-kesswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "David hat bei uns einen super Job gemacht, freundlich kompetent und unkompliziert.\nImmer wieder gerne\nGruss Ralph",
+        "time": 1760290071,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Nicole Ebneter",
+        "author_photo": "/images/reviews/gartenpflege-fischer-kesswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "David ist sehr freundlich, speditiv und macht einen super Job. Ich bin sehr zufrieden und kann ihn nur weiterempfehlen.\n\nBrigitte Ebneter",
+        "time": 1759218616,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Edith Ganter",
+        "author_photo": "/images/reviews/gartenpflege-fischer-kesswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gartenbau Fischer kann ich nur empfehlen. Absolut zuverlässig, kompetent und qualitativ sehr überzeugend. Ein tolles Unternehmen. Werde ich auf jeden Fall weiter empfehlen und auch sofort wieder berücksichtigen. Vielen herzlichen Dank.",
+        "time": 1685889934,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nic „Nicole D.“ D.",
+        "author_photo": "/images/reviews/gartenpflege-fischer-kesswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Firma Fischer hat bereits einige Aufträge (Terassen-Platten verlegen, Rollrasen,...) in unserem Garten ausgeführt. Die Aufträge wurden immer schnell und sehr schön nach unseren Wünschen umgesetzt.",
+        "time": 1745596081,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Franz Schneider",
+        "author_photo": "/images/reviews/gartenpflege-fischer-kesswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten sind sauber und werden effizient durchgeführt. Haben bei mir schon div. Arbeiten gemacht (z.B. Einfassungen aus Cortensenstahl, etc): Ich war immer sehr zufrieden.\nDiese Firma kann ich sehr empfehlen!",
+        "time": 1743522987,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

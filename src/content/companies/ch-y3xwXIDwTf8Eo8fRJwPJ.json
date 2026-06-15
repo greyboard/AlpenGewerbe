@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJg4a0gDremkcRUfuO5nyPuLQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Dimitris Tsachakis",
+        "author_photo": "/images/reviews/brander-sanitaer-gmbh-herisau-st-gallen-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Service! Nochmals vielen Dank an den Mitarbeiter, welcher am 02.06.2026 um 13:15 Uhr in meiner Küche den Heißwasseranschluss zu meiner vollsten Zufriedenheit repariert hat. Es tut gut zu wissen, dass es Profis gibt, auf die man sich zu 100% verlassen kann!",
+        "time": 1780401941,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "VISAVIS IMMOBILIEN",
+        "author_photo": "/images/reviews/brander-sanitaer-gmbh-herisau-st-gallen-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir arbeiten bereits seit längerem mit Herr Brander zusammen und waren bis jetzt immer sehr zufrieden. Herr Brander hat sich immer an die gemeinsam getroffenen Vereinbarung gehalten. Sehr zu empfehlen!",
+        "time": 1606900159,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Tschibis GmbH",
+        "author_photo": "/images/reviews/brander-sanitaer-gmbh-herisau-st-gallen-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service Marcel, vielen herzlichen Dank für die rasche Hilfe!\nSehr kompetent, zuverlässig und freundlich.",
+        "time": 1762531734,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Tamara Marin",
+        "author_photo": "/images/reviews/brander-sanitaer-gmbh-herisau-st-gallen-herisau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Durch die Empfehlung eines Bekannten haben wir die Firma Sanitär Brander beauftragt, den Umbau für unser Bad in Angriff zu nehmen. Die Vorbesprechung lief reibungslos ab und wir wurden kompetent beraten. Die Arbeiten wurden rasch und präzise ausgeführt. Wir können Herr Brander wärmstens weiterempfehlen. Vielen Dank für die super Arbeit.",
+        "time": 1631438154,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bruno Zoller",
+        "author_photo": "/images/reviews/brander-sanitaer-gmbh-herisau-st-gallen-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Renovation unserer 2 Badezimmer hat bestens geklappt. Die Arbeiten wurden Professionell, sauber und fristgerecht erledigt. Schade, dass zur Zeit keine weiteren Arbeiten mehr zu machen sind, denn da käme für uns nur ein Partnerunternehmen in Frage, nämlich - Brander Sanitär GmbH, Herisau",
+        "time": 1644432653,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

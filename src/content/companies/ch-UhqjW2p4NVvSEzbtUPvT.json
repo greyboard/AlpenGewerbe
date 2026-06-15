@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5aeF8IAKkEcRVs0_iwCavAA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Ron Kastrati",
+        "author_photo": "/images/reviews/chr-mueller-co-tiefbau-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben für den Tiefbau rund um unser Eigenheim in Winterthur mit Müller Chr. & Co Tiefbau AG zusammengearbeitet – und sind absolut begeistert!\nDie Beratung war von Anfang an top: kompetent, ehrlich und auf unsere Wünsche abgestimmt. Die ganze Abwicklung verlief unkompliziert und professionell. Man merkt sofort, dass hier Erfahrung und Handschlagqualität zählen.\nVielen Dank an das ganze Team, klare Weiterempfehlung!",
+        "time": 1751052633,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Jetnor Mamudi",
+        "author_photo": "/images/reviews/chr-mueller-co-tiefbau-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann die Chr. Müller + Co Hochbau + Tiefbau AG nur wärmstens empfehlen! Die Zusammenarbeit war durchweg hervorragend. Das Team überzeugt durch Professionalität, Fachkompetenz und transparente Kommunikation. Die Qualität der Arbeit, sowohl im Hoch- als auch im Tiefbau, ist erstklassig. Besonders beeindruckt hat mich die Flexibilität und Kundenorientierung der Mitarbeiter. Wer eine zuverlässige Baufirma sucht, ist hier genau richtig! Ein großes Dankeschön an das gesamte Team für die tolle Umsetzung meines Projekts!",
+        "time": 1743761267,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Labinot Dauti",
+        "author_photo": "/images/reviews/chr-mueller-co-tiefbau-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Chr. Müller + Co Hochbau AG überzeugt durch exzellente Handwerkskunst und präzise Ausführung. Pünktliche Fertigstellung und erstklassige Bauqualität zeichnen das Unternehmen aus. Eine zuverlässige Wahl für jedes Bauprojekt!",
+        "time": 1743760196,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Eron Krasniqi",
+        "author_photo": "/images/reviews/chr-mueller-co-tiefbau-ag-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Empfehlenswert!",
+        "time": 1524242581,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Jose Luis Lorenzo Agrafojo",
+        "author_photo": "/images/reviews/chr-mueller-co-tiefbau-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1731878025,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

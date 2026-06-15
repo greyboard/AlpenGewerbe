@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJP_pF-JELkEcR43q8uuGaZcU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 321,
+    "reviews": [
+      {
+        "author_name": "Sebastian Patzwaldt",
+        "author_photo": "/images/reviews/schreiner48-ag-schlieren/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben bereits mehrere Aufträge an Schreiner 48 vergeben und waren jedes Mal sehr zufrieden. Besonders überzeugt haben uns die kompetente Beratung in der Offertphase durch Herrn Aeberhard sowie die fachgerechte und professionelle Ausführung durch sein Team. Zuverlässig, kompetent und sehr empfehlenswert – wir können Schreiner 48 bestens weiterempfehlen.",
+        "time": 1777451660,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "José Fontanil",
+        "author_photo": "/images/reviews/schreiner48-ag-schlieren/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Am Sonntag unser gebrochenes Dachfenster gesichert. Sehr angenehm und professionell. Vielen, herzlichen Dank!",
+        "time": 1768742036,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "S. T",
+        "author_photo": "/images/reviews/schreiner48-ag-schlieren/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Katastrophal!\n\nSeit mittlerweile drei Monaten warten wir auf ein Teil, das von der Firma bestellt wurde. Einen Termin zu erhalten dauerte zusätzlich nochmals einen Monat – angeblich wegen Personalmangels. Nach einem gefühlten halben Jahr erschien der Handwerker endlich wieder, nur um uns mitzuteilen, dass das falsche Teil bestellt wurde.\n\nSo eine Unprofessionalität habe ich noch nie erlebt! Ich kann diese Firma absolut nicht weiterempfehlen. Ausgewählt wurde sie übrigens nicht von uns, sondern von Wincasa – dennoch ist das für uns als Kunden äusserst mühsam und schlichtweg unakzeptabel.\n\nSehr enttäuschend!",
+        "time": 1771175714,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Business Traveller",
+        "author_photo": "/images/reviews/schreiner48-ag-schlieren/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir hatten eine Intervention ausserhalb der ordentlichen Oeffnungszeiten und wurde  kompetent und sehr schnell dabei unterstützt das Problem zu lösen.\nAbsolut freundliche Mitarbeiter und faire Preise dazu.\nIch kann diese Firma mit gutem Gewissen empfehlen.",
+        "time": 1767161768,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Frédéric Sturzenegger",
+        "author_photo": "/images/reviews/schreiner48-ag-schlieren/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Diese Firma ist nicht empfehlenswert.\nUngehobeltes und arrogantes Personal.\nPünktlichkeit ist ein Fremdwort.",
+        "time": 1772019387,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

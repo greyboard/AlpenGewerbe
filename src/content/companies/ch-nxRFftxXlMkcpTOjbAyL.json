@@ -1,7 +1,7 @@
 {
   "id": "ch-nxRFftxXlMkcpTOjbAyL",
   "slug": "ts-malergeschaeft-gmbh-basel-basel",
-  "name": "TS. Malergeschäft GmbH, Basel",
+  "name": "TS. Malergeschäft Basel",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJuf5wedK5kUcRsIh2V1NbVKw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–19:00 Uhr",
+    "Dienstag: 07:00–19:00 Uhr",
+    "Mittwoch: 07:00–19:00 Uhr",
+    "Donnerstag: 07:00–19:00 Uhr",
+    "Freitag: 07:00–19:00 Uhr",
+    "Samstag: 07:00–19:00 Uhr",
+    "Sonntag: 07:00–19:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 76,
+    "reviews": [
+      {
+        "author_name": "Emanuel G",
+        "author_photo": "/images/reviews/ts-malergeschaeft-gmbh-basel-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben das TS Malergeschäft Basel bei unserem Hausumbau engagiert und waren sehr zufrieden. Timo bringt viel Erfahrung mit und hat uns sehr gute Tipps zur Farbwahl und zum Vorgehen gegeben. Die Arbeiten waren schnell, sauber und unkompliziert, die Kommunikation jederzeit top und lösungsorientiert. Klare Empfehlung!",
+        "time": 1766423431,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Studio Dayuma",
+        "author_photo": "/images/reviews/ts-malergeschaeft-gmbh-basel-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind überaus zufrieden mit der Zusammenarbeit mit dem TS-Teams! Wir haben schnell und unkompliziert eine wunderschöne \"Logowand\" in unseres Pole Studio bekommen. Es ist ein echter Hingucker und ein toller Hintergrund für Fotos! Wir freuen uns auch weitere Projekte mit TS. Malergeschäft anzugehen.",
+        "time": 1688143310,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "- BaselStar",
+        "author_photo": "/images/reviews/ts-malergeschaeft-gmbh-basel-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Malarbeiten in unserem Haus wurden zu unserer absoluten Zufriedenheit erledigt. Ein grosses Dankeschön an Timo & sein Team für die speditive und qualitative Arbeit, ebenso für die Flexibilität. Super Service zu mehr als fairen Preisen.",
+        "time": 1752152999,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Fabio Colombo",
+        "author_photo": "/images/reviews/ts-malergeschaeft-gmbh-basel-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe privat sowie mit meiner Firma bereits mehrere Aufträge an Timo und sein Team vergeben. Ich war jedes mal zu 100% zufrieden und kann das TS. Malergeschäft mit gutem Gewissen weiterempfehlen.",
+        "time": 1740083335,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Isabella Zanger",
+        "author_photo": "/images/reviews/ts-malergeschaeft-gmbh-basel-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein sehr zuverlässiges und kompetentes Malergeschäft. Schnelle Kommunikation und alles lief gemäss Planung. Ich habe die Fassade streichen lassen, es musste vieles ausgebessert werden. Das Haus ist wunderschön geworden.",
+        "time": 1750251442,
+        "relative_time_description": "vor 12 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

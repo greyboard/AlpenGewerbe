@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJOzJ-yjs9m0cRU3cLMDIacBY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:15–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Gery Keller",
+        "author_photo": "/images/reviews/kisling-haustechnik-gmbh-eichberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit Marcel Kisling nur gute Erfahrungen gemacht. Alles wird sofort erledigt, nur zu empfehlen.",
+        "time": 1765794215,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "aum aum",
+        "author_photo": "/images/reviews/kisling-haustechnik-gmbh-eichberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Habe von A-Z und auch bei Unvorhergesehenheiten immer nur Positiverfahrungen gemacht. Kann ich uneingeschränkt weiter empfehlen.",
+        "time": 1769502958,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Daniel Hutter",
+        "author_photo": "/images/reviews/kisling-haustechnik-gmbh-eichberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Habe in meiner Firma die undichte, alte Druckluftleitung durch eine neue Leitung ersetzen lassen, Resultat absolut dicht. Durch diese Massnahme haben wir ca. 10000 Kw Stunden Strom weniger verbraucht. Fazit top Beratung durch Marcel Kisling und top Arbeitsausführung durch das Team.\n\nKann ich nur weiterempfehlen.",
+        "time": 1745698742,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Arlette Wüst",
+        "author_photo": "/images/reviews/kisling-haustechnik-gmbh-eichberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gutes Preis- Leistungsverhältnis & das Team hält was es verspricht. Top Qualität bei Badrenovationen/Badumbau. Wärmstens zu empfehlen!",
+        "time": 1632037312,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Andrea Höppner",
+        "author_photo": "/images/reviews/kisling-haustechnik-gmbh-eichberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr gut, schnell, kompetent . Super Team",
+        "time": 1593968694,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

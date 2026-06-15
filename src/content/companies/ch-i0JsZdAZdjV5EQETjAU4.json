@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJhQxEFJ_9j0cRltKUCJ3rkJU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 44,
+    "reviews": [
+      {
+        "author_name": "Sandra Salzgeber-Karlen",
+        "author_photo": "/images/reviews/ihre-macher-ag-eschenbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nach einem Einbruch war Herr Küng sofort zur Stelle und hat ein super Provisorium von unserer zerbrochenen Schiebetür gemacht. Ebenfalls die folgenden Arbeiten wurden speditiv, sauber und zu unserer vollsten Zufriedenheit erstellt. Vielen Dank an Herr und Frau Küng",
+        "time": 1769770942,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Sandra Schmid",
+        "author_photo": "/images/reviews/ihre-macher-ag-eschenbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe Mückennetze machen lasse. Immer wieder. Super gute Professionelle Beratung und sehr freundlich. Lieferung super schnell und alles perfekt Montiert und sauber gearbeitet. Danke Roli und Sonia👍🏼☀️. Kann Sie sehr weiter Empfehlen.",
+        "time": 1707723856,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tena Ivancic",
+        "author_photo": "/images/reviews/ihre-macher-ag-eschenbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Liebe Sonia, lieber Roland\n\nWir sind mit unserem neuen Schrank sehr zufrieden! Danke für die schnelle Planung und Umsetzung. Wir empfehlen Ihre Macher AG sehr gerne weiter und kommen für künftige Anfragen gerne wieder auf euch zu.",
+        "time": 1734370853,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Franz Nussbaumer",
+        "author_photo": "/images/reviews/ihre-macher-ag-eschenbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnelle, kompetente, einwandfreie Erledigung jedes Auftages der die Firma \"Ihre Macher\" für uns erledigt hat. Jeder Zeit bestens zu Empfehlen!",
+        "time": 1697786830,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicole Jost",
+        "author_photo": "/images/reviews/ihre-macher-ag-eschenbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Firma Ihre Macher AG können wir zu 100% empfehlen. Man merkt, sie arbeiten mit Leidenschaft und sehr genau. Sie haben bei uns zwei Fenster ersetzt und das waren bestimmt nicht die letzten. Man wird auch sehr gut beraten. Macht weiter so 👍…",
+        "time": 1747118728,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

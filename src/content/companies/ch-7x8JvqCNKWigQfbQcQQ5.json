@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJF-_b2nE3jkcRaLfvzO83MeY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Paul Wyss",
+        "author_photo": "/images/reviews/malerei-rolli-ag-liebefeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Mit Rolli klappt es immer erstklassig ! Termine werden gehalten, Arbeit immer auf sehr hohem Niveau, kompetente Mitarbeiter, Baustellen sauber, faire Rechnung am Schluss, was will  man mehr!\nWyss Bauleitung seit 10 Jahren glückliche Zusammenarbeit mit Malerei Rolli",
+        "time": 1761902499,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Nick Knecht",
+        "author_photo": "/images/reviews/malerei-rolli-ag-liebefeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Malerei Rolli macht eine hervorragende Arbeit. Sehr professionelle Ausführungen und ein freundliches Team. Wir sind mit dem Ergebnis sehr zufrieden und können die Firma uneingeschränkt empfehlen!",
+        "time": 1745512690,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "E. W.",
+        "author_photo": "/images/reviews/malerei-rolli-ag-liebefeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Kontakt, unkomplizierte Terminvereinbarung, kompetente Erklärung der benötigten Arbeitsschritte und saubere Ausführung der Arbeit. – Gerne wieder!",
+        "time": 1745420448,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Therese Schild Spycher",
+        "author_photo": "/images/reviews/malerei-rolli-ag-liebefeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute Erreichbarkeit (rascher Rückruf), kompetente Beratung, saubere Ausführung, pünktliche Fertigstellung, und alles war unkompliziert.\nDas Ergebnis und die Rechnung entsprachen genau dem Vereinbarten. Wir sind rundum zufrieden.",
+        "time": 1684866872,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Stephan Oberli",
+        "author_photo": "/images/reviews/malerei-rolli-ag-liebefeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Beratung, professionelle Ausführung. Arbeiten sauber, halten was Sie versprechen. Arbeiten mit ökologischen Produkten. Gutes Preis - Leistungsverhältnis. Gerne ein andermal wieder.",
+        "time": 1676980500,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

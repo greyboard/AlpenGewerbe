@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJISGQWxS5kUcRpVzt59lVHO8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Monika Prack",
+        "author_photo": "/images/reviews/schneider-schneider-maleratelier-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind seit Jahren immer wieder sehr zufrieden mit den sorgfältig und jeweils rasch  ausgeführten Malerarbeiten. Zudem sind die Mitarbeitenden und auch der Chef sympathisch und umgänglich. Wir können diesen Betrieb bestens weiterempfehlen.",
+        "time": 1718979739,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Daniel Hunke",
+        "author_photo": "/images/reviews/schneider-schneider-maleratelier-gmbh-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vielen lieben Dank für die schnelle und unkomplizierte Einsatzbereitschaft...\nDie Qualität ist besser als erwartet. Für mich die Rolex unter den Malern....\nDanke nochmal Daniel, und einen lieben Gruss an dein Team .... jederzeit wieder..",
+        "time": 1714661345,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "K Schmid",
+        "author_photo": "/images/reviews/schneider-schneider-maleratelier-gmbh-basel/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Uns wurden 3 ½ Stunden Abdeckung in Rechnung gestellt, die wir nicht nachvollziehen können. Wie auf dem Foto ersichtlich hat das Auslegen der Tücher keine 10 Minuten beansprucht. Auf Beschwerden unsererseits wurde nicht eingegangen, nur darauf hingewiesen, sie wären schon grosszügig mit der Berechnung der Anfahrt gewesen.\nHier würden wir keine Malerarbeit mehr in Auftrag geben, dies ist für uns unseriös!",
+        "time": 1691328084,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sheila Wong Chong",
+        "author_photo": "/images/reviews/schneider-schneider-maleratelier-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wie immer absolute Top-Leistung zu einem ansprechenden Preis. Für Malerarbeiten auf jeden Fall jederzeit empfehlenswert. Sehr gute Qualität und ökologische Farben. Tipptopp!",
+        "time": 1687431404,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "J D",
+        "author_photo": "/images/reviews/schneider-schneider-maleratelier-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Ausführung des Auftrags sehr zufrieden. Die Arbeiten wurden zeitnah und professionell für einen angemessenen Preis erledigt.\nHerzlichen Dank, immer gerne wieder mal :-)",
+        "time": 1687431404,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

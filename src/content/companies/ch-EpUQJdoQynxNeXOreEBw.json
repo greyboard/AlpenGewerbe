@@ -1,7 +1,7 @@
 {
   "id": "ch-EpUQJdoQynxNeXOreEBw",
   "slug": "charpente-menuiserie-tschaeppaet-moret-s-a-cornaux",
-  "name": "Charpente Menuiserie Tschäppät & Moret S.A.",
+  "name": "Charpente Menuiserie Tschäppät S.A.",
   "branchen": [
     "zimmermann"
   ],
@@ -26,5 +26,55 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6UzkGyoPjkcRgI7NrhGRd6A",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Maire Adrien",
+        "author_photo": "/images/reviews/charpente-menuiserie-tschaeppaet-moret-s-a-cornaux/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Qualitativ hochwertige Arbeit, kompetente Beratung und ein Unternehmen, das unsere Fragen stets freundlich beantwortet hat. Zudem wurde das Budget eingehalten. Wir können sie uneingeschränkt empfehlen.",
+        "time": 1772823674,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sandra Germann",
+        "author_photo": "/images/reviews/charpente-menuiserie-tschaeppaet-moret-s-a-cornaux/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Dämmung unseres Dachbodens (inklusive Austausch der Felma-Treppe) wurde sehr schnell und mit hervorragender Beratung durchgeführt. Die Firma war sehr hilfsbereit, immer erreichbar und hat Wort gehalten! Ich kann sie uneingeschränkt empfehlen.",
+        "time": 1709883035,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabrice Widmer",
+        "author_photo": "/images/reviews/charpente-menuiserie-tschaeppaet-moret-s-a-cornaux/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein herzlicher Empfang und die Leistungen haben meine Erwartungen voll und ganz erfüllt; ich kann es wärmstens empfehlen. Mit freundlichen Grüßen",
+        "time": 1758197479,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Sven Gindraux",
+        "author_photo": "/images/reviews/charpente-menuiserie-tschaeppaet-moret-s-a-cornaux/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1566828537,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

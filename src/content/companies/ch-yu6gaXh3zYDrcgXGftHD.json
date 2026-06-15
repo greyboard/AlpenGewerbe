@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJPfsxDVyTmkcRR6wpdkCMZuE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Andrea Lippuner",
+        "author_photo": "/images/reviews/werder-schreinerei-ag-waengi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben die Schreinerei Werder bereits für vier Projekte (Wohnzimmer, Garderobe, Küche und Büro) beauftragt und waren jedes Mal von Beratung bis zur Ausführung hin absolut begeistert.\nBeginnend mit einer ersten Planung im Büro und abgeschlossen mit der perfekten Umsetzung bei uns zu Hause: Da stimmt einfach alles.\nDie intensive Beratung war immer kompetent, kreativ und konsequent auf unsere Wünsche ausgerichtet. Die unterschiedlichen Optionen wurden hilfreich in 3D visualisiert und dienten so als anschauliche Entscheidungsgrundlage zur Ermittlung der optimalen Lösung.\nZusammenfassend lässt sich sagen: Die Schreinerei Werder bietet gewissenhaften, menschlich sehr angenehmen und termingerechten Service; fachlich auf höchstem Niveau und mit viel Liebe zum Detail!",
+        "time": 1772525255,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Giovanni Lauretani",
+        "author_photo": "/images/reviews/werder-schreinerei-ag-waengi/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Trotz einer falschen Aufnahme der Masse durch den Chef lief alles sehr angenehm ab. Der Kontakt war freundlich und die Lösung wurde unkompliziert gefunden. Fehler passieren, wo gehobelt wird, fallen Späne 😉 Wichtig ist, wie man damit umgeht, und das hat hier wirklich sehr gut funktioniert. Insgesamt sehr sympathisch und empfehlenswert.",
+        "time": 1772039518,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Ercan Bas",
+        "author_photo": "/images/reviews/werder-schreinerei-ag-waengi/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben bei unserer Renovation mit der Schreinerei Werder zusammengearbeitet und sind restlos begeistert. Schon in der Angebotsphase wurden wir exzellent beraten; die Lösungsansätze waren kreativ und das Angebot sehr persönlich auf unsere Wünsche zugeschnitten.\n\nAuch während der Ausführung fühlten wir uns beim Projektleiter und dem gesamten Team in den besten Händen. Die Abwicklung war hochprofessionell und absolut termingerecht. Besonders beeindruckt hat uns, dass selbst kurzfristige Änderungswünsche während der Bauphase äusserst lösungsorientiert und zuvorkommend umgesetzt wurden.\nDie Monteure vor Ort arbeiteten zudem sehr sauber und waren jederzeit freundlich.\n\nFazit: Die Ausführung war zu unserer vollsten Zufriedenheit. Wir würden die Schreinerei Werder jederzeit wieder beauftragen und können sie wärmstens weiterempfehlen. Vielen Dank für die tolle Arbeit!",
+        "time": 1771505113,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Liliane Elspass",
+        "author_photo": "/images/reviews/werder-schreinerei-ag-waengi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vom ersten Kontakt, über die Besprechungen vor Ort, der Planung, bis hin zur Projektbegleitung, Umsetzung und Ausführung verlief jeder Schritt hochqualitativ. Die Transparenz der Planungsschritte war jederzeit gegeben wie auch die Termintreue.\n\nLuca und Dario Werder haben ein Flair für stilvolle Interieurs und ingeniöse Ideen mit der notwendigen Akribie für Planungsdetails. Ihnen steht ein Team von spezialisierten Fachleuten zur Seite, die Handwerkskunst vom Feinsten umzusetzen wissen.\n\nVon Design, Ästhetik, Materialauswahl über Qualitäts- und Nachhaltigkeitsbewusstsein und dem Ideenreichtum sind wir begeistert. Wir haben zwei Projekte umgesetzt und sind inspiriert, unser Zuhause weiter zu optimieren und individuell gestalten zu lassen. Wir empfehlen die Werder Schreinerei jederzeit sehr gerne weiter.",
+        "time": 1766003982,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Through the Lens",
+        "author_photo": "/images/reviews/werder-schreinerei-ag-waengi/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service von Anfang bis Ende. Luca und sein Team zeigten höchste Professionalität während des gesamten Ablaufs. Sie kamen pünktlich, arbeiteten effizient und lieferten ein einwandfreies Ergebnis. Jeder Schritt wurde mit Sorgfalt ausgeführt, und die Qualität ihrer Arbeit ist beeindruckend – sauber, präzise und perfekt verarbeitet. Ich kann Luca und seine Schneiderei uneingeschränkt weiterempfehlen.",
+        "time": 1760951473,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

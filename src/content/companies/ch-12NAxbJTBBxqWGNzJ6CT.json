@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3Y-B2J85jkcRiUz7eZcGpR8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 41,
+    "reviews": [
+      {
+        "author_name": "pelschin altun",
+        "author_photo": "/images/reviews/witschi-malerei-gipserei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Witschi Malerei empfehle ich allen, die reibungslose, effiziente und präzise Ergebnisse erwarten. Der Geschäftsführer sowie die Mitarbeiter sind sehr freundlich, professionell und zuverlässig. Die Arbeiten wurden termingerecht und in hoher Qualität ausgeführt. Ich bin mit dem Resultat sehr zufrieden und würde die Firma jederzeit weiterempfehlen.",
+        "time": 1768566583,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Müller Godel",
+        "author_photo": "/images/reviews/witschi-malerei-gipserei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, pünktlich und sauber ausgeführt. Sehr empfehlenswert!",
+        "time": 1768827944,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Jessica Kuiper",
+        "author_photo": "/images/reviews/witschi-malerei-gipserei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Saubere und sorgfältige Arbeit. Die Maler arbeiten ruhig und präzies und sind ausserdem sehr freundlich. Preis- Leistung sehr gut.",
+        "time": 1767358600,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Badr Hussein",
+        "author_photo": "/images/reviews/witschi-malerei-gipserei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr zuverlässige und professionelle Firma. Die Arbeiten wurden sauber, termingerecht und mit viel Sorgfalt ausgeführt. Besonders beeindruckt hat mich die freundliche Kommunikation und das saubere Endergebnis. Absolut empfehlenswert!",
+        "time": 1757855719,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Daniel",
+        "author_photo": "/images/reviews/witschi-malerei-gipserei-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Qualitativ hochwertige Arbeit und sehr zuverlässig. Vielen Dank!",
+        "time": 1768828180,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

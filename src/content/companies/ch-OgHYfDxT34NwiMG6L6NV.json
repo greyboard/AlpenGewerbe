@@ -1,7 +1,7 @@
 {
   "id": "ch-OgHYfDxT34NwiMG6L6NV",
   "slug": "carpenter-m-kessler-zuerich",
-  "name": "Carpenter M. Kessler",
+  "name": "Schreinerei Kessler AG",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ92T-v_UJkEcREmbRvP9DA2k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "judith halter",
+        "author_photo": "/images/reviews/carpenter-m-kessler-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Kessler hat bei uns drei Schränke (2x Schlafzimmer, 1x Büro) nach Mass montiert. Die Arbeiten wurden genau nach unseren Wünschen umgesetzt, termingerecht und sorgfältig montiert. Wir sind sehr zufrieden mit den Arbeiten und können die Schreinerei mit den hilfsbereiten und freundlichen Mitarbeitenden sehr empfehlen.",
+        "time": 1760362325,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Ursula Döring",
+        "author_photo": "/images/reviews/carpenter-m-kessler-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben bei der Schreinerei Kessler unseren Balkonschrank, den wir uns schon lange wünschten, nach Mass herstellen lassen. Mit dem Resultat sind wir sehr zufrieden. Der gute Service, die professionelle Beratung, die sorgfältige Arbeit und die freundlichen Mitarbeiter können wir nur weiterempfehlen.",
+        "time": 1765034190,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "WoMo Kabine",
+        "author_photo": "/images/reviews/carpenter-m-kessler-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Diese Schreinerei ehemalig Held und Co gibt es schon seit mehr als 60 Jahren. Sie hat sicher die Berechtigung als KMU in diesem Hinterhof weiterhin zu existieren. Ich wünsche dem Besitzer weiterhin viel Erfolg! ein ehemaliger Lehrling und Möberschreiner.",
+        "time": 1742861540,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Olga Russenberger",
+        "author_photo": "/images/reviews/carpenter-m-kessler-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Schreinerei und macht perfekte Arbeit. Sehr freundliche Mitarbeiter",
+        "time": 1664777260,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Federico Lucca",
+        "author_photo": "/images/reviews/carpenter-m-kessler-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundliches und hilfsbereites Personal. Die Durchfahrt für LKWs ist etwas eng. Wichtig: Nehmen Sie die richtige Autobahnausfahrt: Ausfahrt Brunau! Dann rechts unter der Bahnlinie hindurch, links vor der Autobahnunterführung, weiter auf der Staatsstraße 4 bis zur Zurlindenstraße, dort links abbiegen und gleich darauf wieder links in die Dubstraße.",
+        "time": 1729699099,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPXk5EaDHhEcR3dbLhtyYe2Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:45 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:30–18:00 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Helmut Lettenbichler",
+        "author_photo": "/images/reviews/elektro-meier-chur-ag-chur/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Sehr freundliches Personal gerne wieder. 👍",
+        "time": 1615202301,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "ALBERTO TAMBORINI",
+        "author_photo": "/images/reviews/elektro-meier-chur-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top service. Danke",
+        "time": 1692176964,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Marco",
+        "author_photo": "/images/reviews/elektro-meier-chur-ag-chur/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Leider kein Postversand an Private, sonst okay",
+        "time": 1594205964,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Reto Brot",
+        "author_photo": "/images/reviews/elektro-meier-chur-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schneller und guter Service.",
+        "time": 1684090590,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Alfred Schneller",
+        "author_photo": "/images/reviews/elektro-meier-chur-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1723556978,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

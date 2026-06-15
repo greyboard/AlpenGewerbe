@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJt--7ExvYkUcRQ4AnijwdsHk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Desiree Zurbrügg-Michel",
+        "author_photo": "/images/reviews/schaad-ag-luterbach-luterbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Freundliche und sachkundige Arbeiter. Alles schnell und sauber erledigt. Immer wieder gerne.",
+        "time": 1688751301,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Amanda Seiler",
+        "author_photo": "/images/reviews/schaad-ag-luterbach-luterbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben von der Schaad AG eine Wärmepumpe installieren lassen und sind rundum zufrieden. Der Service war super, sehr sympathisch und kompetent. Alles hat perfekt geklappt und die Arbeiten wurden sauber und zuverlässig ausgeführt. Wir können die Firma Schaad AG definitiv weiterempfehlen!",
+        "time": 1779962177,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Jessica Beutler",
+        "author_photo": "/images/reviews/schaad-ag-luterbach-luterbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top-Service 👍",
+        "time": 1688765945,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Kaya Ogan",
+        "author_photo": "/images/reviews/schaad-ag-luterbach-luterbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769501483,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "fiona. s",
+        "author_photo": "/images/reviews/schaad-ag-luterbach-luterbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1766525706,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

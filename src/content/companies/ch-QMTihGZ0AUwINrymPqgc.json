@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJMSEEPk_3j0cRRjQkKN6EIpU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Felix Odermatt",
+        "author_photo": "/images/reviews/maler-schmid-martin-gmbh-stansstad/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Arbeit 👍💪",
+        "time": 1770538145,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Anja Zemp",
+        "author_photo": "/images/reviews/maler-schmid-martin-gmbh-stansstad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769711355,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Gisela Plankenbüchler",
+        "author_photo": "/images/reviews/maler-schmid-martin-gmbh-stansstad/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769100074,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Nicolas",
+        "author_photo": "/images/reviews/maler-schmid-martin-gmbh-stansstad/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1764689660,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Abel Haileab",
+        "author_photo": "/images/reviews/maler-schmid-martin-gmbh-stansstad/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1764689267,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

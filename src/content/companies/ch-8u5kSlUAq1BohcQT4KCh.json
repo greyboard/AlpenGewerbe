@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9xWCLAoUjkcRCRlwKuuNFWE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–15:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.4,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Franziska Wyrsch",
+        "author_photo": "/images/reviews/schwab-heizung-sanitaer-klima-ag-kerzers/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Heute morgen wegen defektem WC-Spülkasten angerufen. Nach dem Mittag war ein sehr freundlicher Mitarbeiter vor Ort und hat das Problem in kurzer Zeit gelöst.\nSuper Dienstleistung 👍🏻👍🏻👍🏻\nSehr empfehlenswert.\nHerzlichen Dank.",
+        "time": 1776253186,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Stephan Bolliger",
+        "author_photo": "/images/reviews/schwab-heizung-sanitaer-klima-ag-kerzers/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Bereits zweimal angerufen und um einen Rückruf und weitere Informationen gebeten. Scheinen es nicht nötig zu haben einen guten Service zu bieten.",
+        "time": 1767903079,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Stephbe",
+        "author_photo": "/images/reviews/schwab-heizung-sanitaer-klima-ag-kerzers/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma Schwab ist unser Sanitär. Er kommt sofort, wenn man ihn dringend braucht. Freundliche und speditive Hilfe am Telefon. Freundliche und sehr sauber arbeitende Mitarbeiter.  Die vor 15 Jahren empfohlenen und eingebauten Systeme funktionieren gut. Wir bleiben der Firma treu.",
+        "time": 1683007702,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Manuela Boss",
+        "author_photo": "/images/reviews/schwab-heizung-sanitaer-klima-ag-kerzers/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Leider warten wir seit 6 Wochen auf einen Rückruf für einen Termin, mitlerweile haben wir eine Überschwemmung und x Mal versucht anzurufen ohne Erfolg, wahrscheinlich ist unsere Nummer so bekannt das man gar nicht mehr Abnimmt! Wir haben jetzt jemand gefunden der sofort zur Stelle war, schade, denn wir wollten jemand aus der Umgebung.",
+        "time": 1675145182,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Medina Pedro",
+        "author_photo": "/images/reviews/schwab-heizung-sanitaer-klima-ag-kerzers/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionalität, Qualität, Zuverlässigkeit\nBadsanierung: Herr Meer hat die Koordination der Arbeiten übernommen und hervorragend gemacht: Grosses Kompliment und ein noch grösseres Dankschön.\nDas Resultat lässt sich sehen lassen.",
+        "time": 1661928660,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

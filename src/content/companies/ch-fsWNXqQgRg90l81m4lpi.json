@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJTym9IZ4AkEcRqXfS99pC8hw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–11:45 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Arwed Bamert",
+        "author_photo": "/images/reviews/frenademez-ag-steinhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Qualität, Zuverlässigkeit und Freundlichkeit",
+        "time": 1499883500,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Bla Müller",
+        "author_photo": "/images/reviews/frenademez-ag-steinhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1635531741,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Tina S",
+        "author_photo": "/images/reviews/frenademez-ag-steinhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705828548,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pablo Hunziker",
+        "author_photo": "/images/reviews/frenademez-ag-steinhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1575039516,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Vai Me",
+        "author_photo": "/images/reviews/frenademez-ag-steinhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1507136034,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ1WFLEA73j0cRst_wPtBT_f0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Markus Zürcher",
+        "author_photo": "/images/reviews/clemens-christen-bau-gmbh-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma ist ich sehr zu empfehlen.",
+        "time": 1759070766,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Cheikh Abdullah",
+        "author_photo": "/images/reviews/clemens-christen-bau-gmbh-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr gut",
+        "time": 1674579700,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

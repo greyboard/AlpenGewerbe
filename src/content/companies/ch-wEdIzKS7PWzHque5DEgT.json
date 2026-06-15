@@ -26,5 +26,30 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJXy0k2Fgem0cR1SXmscSdKxc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Peter Schwarz",
+        "author_photo": "/images/reviews/plaettli-g-w-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und rasche Erledigung des Auftrages inkl. Beantwortung vieler Fragen meinerseits. Erlefigt haben 2 super Handwerker alles zu meiner besten Zufriedenheit. Kann ich nur weiter empfehlen. Vielen Dank",
+        "time": 1653520640,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Vedat Ardic",
+        "author_photo": "/images/reviews/plaettli-g-w-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1638457513,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

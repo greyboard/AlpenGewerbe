@@ -26,5 +26,38 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJPbjxH0Hpj0cRATj6DBgQE8c",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Michael Röösli",
+        "author_photo": "/images/reviews/vogel-bodenbelaege-ag-hasle/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Bodenleger – versteht sein Handwerk!\nDie Firma hat bei mir hervorragende Arbeit geleistet. Der Boden wurde sauber, präzise und mit viel Fachwissen verlegt. Das Ergebnis überzeugt auf ganzer Linie und ich bin wirklich zufrieden.\n\nGanz nach dem Motto: „Ist der Boden dran – ruf den Vogel an.“\nIch kann diese Firma mit bestem Gewissen weiterempfehlen.",
+        "time": 1771356829,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Sina Pascal Bucher Ruedin",
+        "author_photo": "/images/reviews/vogel-bodenbelaege-ag-hasle/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Raphael hat uns beim Umbau super beraten und trotz schwierigen Vorbedingungen (grössere Lücken im Boden nach Wand- und Regalabbruch) eine tolle Lösung gefunden. Zudem ist er auch ein versierter Fugentechniker und offen für die Wünsche der Auftraggeberschaft. Ein sehr empfehlenswerter Handwerker aus der Region.",
+        "time": 1736263062,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Urs Bachmann",
+        "author_photo": "/images/reviews/vogel-bodenbelaege-ag-hasle/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1713561642,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

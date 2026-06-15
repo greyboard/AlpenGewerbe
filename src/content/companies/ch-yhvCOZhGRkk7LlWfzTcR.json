@@ -26,5 +26,54 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJRcy9tZpDhUcRmvGV9JkSEpE",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Anita Cathomen",
+        "author_photo": "/images/reviews/gamma-gartenraum-gmbh-erstfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Immer wieder gerne",
+        "time": 1674977811,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Hans Oevelen",
+        "author_photo": "/images/reviews/gamma-gartenraum-gmbh-erstfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Hilfe",
+        "time": 1628676786,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Eli",
+        "author_photo": "/images/reviews/gamma-gartenraum-gmbh-erstfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769272801,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Therese Stadler",
+        "author_photo": "/images/reviews/gamma-gartenraum-gmbh-erstfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1723536531,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matteo Zwyssig",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjUN3k610_9xnOQnUG7ArVVUnVK8IeSbMuXeTEobEFbdu1AKrkKZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "text": "",
+        "time": 1682245253,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

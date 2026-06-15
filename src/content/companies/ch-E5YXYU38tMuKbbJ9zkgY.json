@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJA-VdFGQpjkcR-qFuvBiBtBI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 35,
+    "reviews": [
+      {
+        "author_name": "Florian Ramadani",
+        "author_photo": "/images/reviews/oberli-gartenbau-ag-subingen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "bin jedes Mal aufs Neue begeistert. Projektleiter Eric Aloisi hat eine hohe fachliche Kompetenz, saubere Ausführung und ein ausgeprägtes Gespür für Gestaltung und Details. Absprachen funktionieren reibungslos, Termine werden eingehalten und die Qualität der Arbeit ist konstant auf Top-Niveau. Eine klare Empfehlung!",
+        "time": 1769606220,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Özkan Kösker",
+        "author_photo": "/images/reviews/oberli-gartenbau-ag-subingen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein Erlebnis von der Planung bis zur Vollendung des Projekts!\nWir haben mit Oberli Gartenbau AG unseren Garten komplett neu gestaltet und sind in das Endergebnis völlig verliebt.\nIn der Planungsphase war es uns sehr wichtig, dass wir geführt werden, da wir als Laien etwas Mühe hatten, uns das Ganze vorzustellen, und da fühlten wir uns komplett abgeholt. Das gesamte Team ist absolut freundlich, authentisch und verständnisvoll. Während des gesamten Projekts fühlten wir die Emotionen und den Berufsstolz beim gesamten Team.\nDanke nochmals für alles!\nIch kann Oberli Gartenbau AG ohne jeglichen Zweifel weiterempfehlen.",
+        "time": 1760692129,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Maler- Gipser Atelier GmbH Dillon",
+        "author_photo": "/images/reviews/oberli-gartenbau-ag-subingen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein herzliches Dankeschön an das ganze Team der Oberli Gartenbau AG. Sehr flexibel, kompetent, super TEAM und immer perfekte Ausführung. Top👌",
+        "time": 1762452860,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Marco Stettler",
+        "author_photo": "/images/reviews/oberli-gartenbau-ag-subingen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Liebes Oberli Gartenbauteam, herzlichen Dank für euren Topservice, dem Olivenbaum gefällt es sehr gut am neuen Standort :-). Ihr habt dies wie immer sehr professionell gemacht und die gute Stimmung in eurem Team ist ansteckend. Wir wünschen euch ein schönes Wochenende, herzliche Grüsse Marco & Erika",
+        "time": 1751631786,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Christian",
+        "author_photo": "/images/reviews/oberli-gartenbau-ag-subingen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir bedanken uns bei Oberli Gartenbau AG für die getätigten Gartenarbeiten, welche zu unserer vollsten Zufriedenheit ausgeführt wurden. Wir können Oberli Gartenbau AG nur empfehlen. Die Mitarbeitenden sind engagiert, motiviert, professionell und die Kommunikation bei der Planung und Durchführung war unkompliziert. Gerne wieder!",
+        "time": 1740945126,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

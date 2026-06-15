@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4bRnijpPhUcRMxdOkt2yymY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–17:00 Uhr",
+    "Dienstag: 06:45–17:00 Uhr",
+    "Mittwoch: 06:45–17:00 Uhr",
+    "Donnerstag: 06:45–17:00 Uhr",
+    "Freitag: 06:45–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Lukas Imhof",
+        "author_photo": "/images/reviews/inderbitzin-ag-muotathal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nette, kompetente Besprechung",
+        "time": 1617025963,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "PALU",
+        "author_photo": "/images/reviews/inderbitzin-ag-muotathal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top leute und Firma",
+        "time": 1517569809,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Adrian Guggisberg",
+        "author_photo": "/images/reviews/inderbitzin-ag-muotathal/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Betrieb und Top Beratung.\nExzellente Produkte und Schärfservice, fachlich auf Top-Niveau.",
+        "time": 1777887115,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Erich Schelbert",
+        "author_photo": "/images/reviews/inderbitzin-ag-muotathal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1774536048,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "yanick heinzer",
+        "author_photo": "/images/reviews/inderbitzin-ag-muotathal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1751884280,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

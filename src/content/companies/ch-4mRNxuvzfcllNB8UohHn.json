@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJNaBMxFpRhUcRh1igRQmdrtI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–12:00 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Samuel Schnellmann",
+        "author_photo": "/images/reviews/franz-lipp-schreinerei-kuechen-goldau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "2023 hat uns Franz Lipp bei der Renovation unserer Wohnung unterstützt. Solide Arbeit, pragmatischer Ansatz, tolle und praktische Vorschläge ohne aufdringlich zu sein, breites Netzwerk an qualitativ hochwertigen Handwerkern (Elektriker, Sanitär, Bodenleger etc.) für Arbeiten ausserhalb seines Fachbereichs. Würde ihn jederzeit wieder engagieren.",
+        "time": 1735156438,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "maruuu maruuu",
+        "author_photo": "/images/reviews/franz-lipp-schreinerei-kuechen-goldau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ein Visionär! Bravo, danke für die super Beratung und Ausführung.",
+        "time": 1592302337,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Beat Ziegler",
+        "author_photo": "/images/reviews/franz-lipp-schreinerei-kuechen-goldau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1629288339,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Herbert Süess",
+        "author_photo": "/images/reviews/franz-lipp-schreinerei-kuechen-goldau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1602955775,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fabian Odermatt",
+        "author_photo": "/images/reviews/franz-lipp-schreinerei-kuechen-goldau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1583336208,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "ch-stU6aGftLmxxuoCfbo99",
   "slug": "reiss-reber-landscaping-ag-zuerich",
-  "name": "Reiss & Reber landscaping AG",
+  "name": "Reiss & Reber Gartenbau und Landschaftsbau AG",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ97YHvRkLkEcRkUYaH0d0Tnc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Joel Neukom",
+        "author_photo": "/images/reviews/reiss-reber-landscaping-ag-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben dank Herr Reiss die richtigen Granit Pflastersteine für eine bestehende Pflästerung gefunden. Das ganze war sehr unkompliziert und schnell. Vielen Dank!",
+        "time": 1778647972,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Flo Siegi",
+        "author_photo": "/images/reviews/reiss-reber-landscaping-ag-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Brauchte früh morgens Pannenhilfe und fand diese hier. Sehr hilfsbereites und gut gelauntes Team! Danke",
+        "time": 1758084117,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Isabelle von Niederhäusern",
+        "author_photo": "/images/reviews/reiss-reber-landscaping-ag-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die wunderschöne Terrasse. Beat Reiss kam extra nach Laax mit einer Auswahl an Platten, damit ich vor Ort und bei Tageslicht die für mich richtige Auswahl treffen konnte. Innerhalb von 3 Tagen hat das Team die Platten ausgetauscht und eine super Arbeit gemacht. Ich freue mich sehr.",
+        "time": 1529409935,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Daniel Mueller",
+        "author_photo": "/images/reviews/reiss-reber-landscaping-ag-zuerich/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Nach über einem Monat Wartefrist immer noch keine Offerte erhalten. Wenn sie so arbeiten, bin ich froh, dass ich keine Offerte und somit auch keinen Vertrag mit Ihnen eingegangen bin. Nicht empfehlenswert.",
+        "time": 1622716629,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Oecasa Verwaltung GmbH",
+        "author_photo": "/images/reviews/reiss-reber-landscaping-ag-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Firma\nTop Mitarbeiter\nTop Arbeit\nTop Preis-Leistung\nIch kann euch nur weiterempfehlen!\nMacht weiter solche tolle Gärten und Terrassen wie unsere;)\n\nLiebe Grüsse\n\nDebby",
+        "time": 1535554021,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

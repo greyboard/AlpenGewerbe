@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJud3ukno2jkcRQ8EAPl93O48",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Beat von Känel",
+        "author_photo": "/images/reviews/schreinerei-a-eicher-gmbh-fuer-ihre-traeume-aus-holz-vielbringen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Eicher hat uns Outdoorschiebetüren installiert.\nDie einfache und unkomplizierte Projektabwicklung und die Preisleistung sind sensationell.\nDie Schiebetüren haben uns diesen Sommer bereits viel Freude bereitet.\nGenau so stellen wir uns Handwerksdienstleistung vor.\nMerci Ändu und Team so machts Freude.",
+        "time": 1764863755,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "C. Meier",
+        "author_photo": "/images/reviews/schreinerei-a-eicher-gmbh-fuer-ihre-traeume-aus-holz-vielbringen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Pragmatisch - Praktisch - Sehr gut!\n\nDamit wir unser Klimagerät in der ganzen Wohnung einsetzen können, hat uns die Schreinerei A. Eicher GmbH eine äusserst pragmatische Lösung vorgeschlagen und umgesetzt.\n\nVon einem sehr sympathischen Monteur vor Ort eingepasst. Fertig.\n\nGenau so muss es sein. Vielen Dank Andreas Eicher und Team.",
+        "time": 1749821520,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "peter schneider",
+        "author_photo": "/images/reviews/schreinerei-a-eicher-gmbh-fuer-ihre-traeume-aus-holz-vielbringen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Andreas Eicher und sein Team fertigen aus Holz alles was das Herz begehrt mit perfektem Service.\n\nWir benötigten jetzt nur kleine Sachen. Einmal 3 Ecktablare um in der Kellertreppenecke mehr Ablageplatz zu schaffen und einmal 2 massgeschneiderte Holzteile um die Pergola ohne Stützen schöner platzieren zu können.\n\nBeide Kleinaufträge wurden perfekt bearbeitet und dazu auch mitgedacht mit Fragen zur Platzierung etc.\n\nIch hoffe wir brauchen bald wieder was (Grösseres),damit wir uns vom Service der schreinerei a. eicher gmbh wieder begeistern lassen können.",
+        "time": 1751365873,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Brigitte Lotti",
+        "author_photo": "/images/reviews/schreinerei-a-eicher-gmbh-fuer-ihre-traeume-aus-holz-vielbringen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Schreinerei Eicher ist sehr kompetent, inovativ, kreativ und sehr sehr kundenfreundlich! Immer wieder gerne...\nVielen Dank für meine Küche und den schönen Eichenboden!\nCoiffure blue",
+        "time": 1720336973,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nelly Herzig",
+        "author_photo": "/images/reviews/schreinerei-a-eicher-gmbh-fuer-ihre-traeume-aus-holz-vielbringen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Im Rahmen von Arbeiten in einer Liegenschaft (Wohnblock) war 1 Team bestehend aus einem Fachmann und vermutlich 2 Lernenden ganztags beschäftigt. Die Arbeiten wurden speditiv, sorgfältig und sauber erledigt. Der Umgang vom Fachmann mit den Lernenden war jederzeit freundlich und aufmerksam. Das hat mich sehr beeindruckt.",
+        "time": 1655370703,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

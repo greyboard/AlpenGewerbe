@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJZVfMpKS5kUcRYq01ef2Am1I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Fotohaus Wolf AG",
+        "author_photo": "/images/reviews/hepp-ag-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wunderschönes neues Parkett wurde effizient und flexibel gelegt.\nHerzlichen Dank für die unkomplizierte Ausführung, der Folgeauftrag ist euch gewiss!",
+        "time": 1753811939,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Claudia Imgrüth",
+        "author_photo": "/images/reviews/hepp-ag-basel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Beratung eine tolle Zusammenarbeit kann ich sehr empfehlen wussten anfangs nicht was wir wollten nun sind wir absolut glücklich 🥰danke",
+        "time": 1758743120,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Paul",
+        "author_photo": "/images/reviews/hepp-ag-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1716279431,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Natascha Eisenhut",
+        "author_photo": "/images/reviews/hepp-ag-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696520131,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "boby meiers",
+        "author_photo": "/images/reviews/hepp-ag-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1608179254,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

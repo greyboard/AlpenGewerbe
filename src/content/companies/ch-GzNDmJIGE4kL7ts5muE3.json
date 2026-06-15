@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJe5dpQS7IhUcR19LNh1hm1xk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "M CR",
+        "author_photo": "/images/reviews/ses-controlli-sagl-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Blitzschneller, kompetenter und fantastischer Service!",
+        "time": 1686305343,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Giulio curti",
+        "author_photo": "/images/reviews/ses-controlli-sagl-locarno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1757657834,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Alessandro Pagani",
+        "author_photo": "/images/reviews/ses-controlli-sagl-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1748322594,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manolo 1411",
+        "author_photo": "/images/reviews/ses-controlli-sagl-locarno/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1727503749,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Nenad Radivojevic",
+        "author_photo": "/images/reviews/ses-controlli-sagl-locarno/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1706292463,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

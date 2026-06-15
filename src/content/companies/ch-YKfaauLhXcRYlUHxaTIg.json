@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJmQHNQ_E-jkcRJOxjj3m96zQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Armond Selmani",
+        "author_photo": "/images/reviews/boehlen-landschaftsbau-gmbh-frauenkappelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich junges Team. Versteht etwas von seinem Handwerk!",
+        "time": 1694764132,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patrick Grüter",
+        "author_photo": "/images/reviews/boehlen-landschaftsbau-gmbh-frauenkappelen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top, saubere Arbeit!",
+        "time": 1689364758,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Uwe Baumann",
+        "author_photo": "/images/reviews/boehlen-landschaftsbau-gmbh-frauenkappelen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Klasse Arbeit, Danke!",
+        "time": 1662311074,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marian Bartek",
+        "author_photo": "/images/reviews/boehlen-landschaftsbau-gmbh-frauenkappelen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1682356477,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Carlos Garrido",
+        "author_photo": "/images/reviews/boehlen-landschaftsbau-gmbh-frauenkappelen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1773691234,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

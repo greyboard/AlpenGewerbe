@@ -26,5 +26,38 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ4d0Nk2VljEcRd_J90aa4c-k",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.7,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Baroukh Abadi",
+        "author_photo": "/images/reviews/glaser-keller-liesel-geneve/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Notariate, die man unbedingt meiden sollte!\n\nErstens akzeptieren sie nur Barzahlungen, was im Jahr 2024 völlig ungewöhnlich und inakzeptabel ist.\n\nZweitens ist die Sekretärin offensichtlich völlig falsch informiert. Sie gab mir falsche Informationen und behauptete dann, diese seien „unbeabsichtigt“ gewesen.\n\nSie versicherte mir, dass beglaubigte Passkopien unabhängig vom Notar 50 CHF kosten. Da mir dieser Preis horrend erschien, erkundigte ich mich bei den Notaren in der Rue du Rhône 29 (eine Kanzlei, die ich wärmstens empfehlen kann). Sie bestätigten mir freundlicherweise, dass ihr Tarif 35 CHF pro Kopie beträgt. Sie erklärten, dass jeder Notar seine eigenen Preise festlegt, es aber eine Mindest- und Höchstpreisspanne gibt.\n\nAußerdem beträgt die Kuriergebühr für das Anbringen von Apostillen im Kanzleibüro 50 CHF, während sie in der Rue du Rhône 29 nur 20 CHF beträgt.\n\nIch empfehle Ihnen dringend, beide Agenturen anzurufen, um die Preise zu vergleichen und sich eine eigene Meinung zu bilden.\n\nKurz gesagt: Diese Agentur sollte unbedingt gemieden werden. Schade, dass man bei Google keine negative Bewertung abgeben kann!",
+        "time": 1721244671,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jefa",
+        "author_photo": "/images/reviews/glaser-keller-liesel-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Empfang! Ich wurde sogar auf Deutsch bedient.",
+        "time": 1769700206,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Philippe Crippa",
+        "author_photo": "/images/reviews/glaser-keller-liesel-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715267315,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

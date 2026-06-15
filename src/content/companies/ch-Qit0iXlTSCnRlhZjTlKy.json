@@ -1,7 +1,7 @@
 {
   "id": "ch-Qit0iXlTSCnRlhZjTlKy",
   "slug": "joda-metalcostruzioni-sa-arbedo-castione",
-  "name": "Joda Metalcostruzioni SA",
+  "name": "Joda Metalcostruzioni Sa",
   "branchen": [
     "metallbau"
   ],
@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJl4TSrJ8yhEcRM6IAiPZyqKM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Michelangelo Manduci",
+        "author_photo": "/images/reviews/joda-metalcostruzioni-sa-arbedo-castione/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetent und zuverlässig. Kann nur weiterempfehlen.",
+        "time": 1675322897,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Igor Tona",
+        "author_photo": "/images/reviews/joda-metalcostruzioni-sa-arbedo-castione/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit JODA METALCOSTRUZIONE ist stets ein Vergnügen. Das Unternehmen zeichnet sich durch die hohe Qualität seiner Arbeit und die Zuverlässigkeit seines Teams aus, das stets erreichbar ist und auf jedes Detail achtet. Die Präzision beim Bauen und die Einhaltung von Fristen machen sie zu einem exzellenten Partner. Uneingeschränkt empfehlenswert für alle, die Expertise und Professionalität im Metallbau suchen!",
+        "time": 1730309872,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Cesare Fernandes Augusto",
+        "author_photo": "/images/reviews/joda-metalcostruzioni-sa-arbedo-castione/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für Ihre Aufmerksamkeit! Sehr freundlich, professionell und detailorientiert!",
+        "time": 1698396943,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Roby R",
+        "author_photo": "/images/reviews/joda-metalcostruzioni-sa-arbedo-castione/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Auf Auskunftsanfrage einfach keine Reaktion",
+        "time": 1716281960,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Şemsettin KARACA",
+        "author_photo": "/images/reviews/joda-metalcostruzioni-sa-arbedo-castione/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundliches Personal, erfahrenes Team. Vielen Dank, gracia 😊",
+        "time": 1779209499,
+        "relative_time_description": "vor 3 Wochen"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJX8h1zIRDhUcR586hhtLe6Fk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Paul Walker",
+        "author_photo": "/images/reviews/von-wyl-gmbh-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Firma empfehlenswert. Von Wyl GmbH haben für mich das Dach neu gemacht  und die Fassade + Spengler Arbeiten. Sehr gute Arbeit bin sehr zufrieden.",
+        "time": 1580419731,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Hu Ke",
+        "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjXzOfXp7nyCdiejKdBJDOjgnDxaaedfuzG7szRtM8OAOMpf55Yv=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "text": "Sehr gute Erfahrung gemacht. Freundlich und zuverlässig. Kann ich weiterempfehlen!",
+        "time": 1571845119,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "T",
+        "author_photo": "/images/reviews/von-wyl-gmbh-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Unkompliziert und kompetent, kann man nur empfehlen.",
+        "time": 1706107558,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jrene Walker",
+        "author_photo": "/images/reviews/von-wyl-gmbh-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1580419422,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Bruno Ribeiro",
+        "author_photo": "/images/reviews/von-wyl-gmbh-altdorf/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1558079728,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

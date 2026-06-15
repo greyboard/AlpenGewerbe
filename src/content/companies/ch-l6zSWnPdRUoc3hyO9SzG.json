@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJN5xNJzr2j0cRBg6bQnm5YEg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Renato Iten",
+        "author_photo": "/images/reviews/a-l-holzbau-ag-beratung-planung-dallenwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schön, dass es Holzbauer gibt die soviel wie möglich mit Schweizer Holz arbeiten.",
+        "time": 1546798369,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Conrad Wagner",
+        "author_photo": "/images/reviews/a-l-holzbau-ag-beratung-planung-dallenwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "... die Unterwaldner Biere werden immer besser. Die Konsumenten immer vielfältiger ...",
+        "time": 1540118396,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Robert Hess",
+        "author_photo": "/images/reviews/a-l-holzbau-ag-beratung-planung-dallenwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Höchst professioneller Fachbetrieb",
+        "time": 1517936003,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Priska Scheuber",
+        "author_photo": "/images/reviews/a-l-holzbau-ag-beratung-planung-dallenwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bürer Steg 👍👍👍",
+        "time": 1749750545,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Julia Berlinger",
+        "author_photo": "/images/reviews/a-l-holzbau-ag-beratung-planung-dallenwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1540051299,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

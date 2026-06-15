@@ -26,5 +26,31 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJOwd-zQTKhEcRrpz1w4VbTdI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Hanspeter Kundert",
+        "author_photo": "/images/reviews/bianchi-silvio-heizung-gmbh-malans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Superschneller Austausch des 32jährigen Heizkessels durch einen neuen Edelstahl-Brennwertheizkessel Müba 100% Swissmade (Kombinierbar mit Solar) in nur 3 Tagen zu Winterszeit. Man konnte jeden Tag heizen, obwohl die Heizungsanlage umgebaut werden musste.Dazu gehörten Arbeiten wie Abgasleitung(Kamin) Betonieren, Elektrik, Isolationen etc.\nHerr Bianchi und sein Sohn arbeiteten professionell und speditiv zu einem fixen Pauschaltarif ohne Mehrkosten. Ich kann diese Firma nur weiterempfehlen.Mr.Solar aus Igis",
+        "time": 1553764853,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

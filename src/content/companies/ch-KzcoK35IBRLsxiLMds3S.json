@@ -26,5 +26,30 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJK6sPaDahmkcR8qD6yHjABQQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Gambilluminated",
+        "author_photo": "/images/reviews/living-mindful-maurer-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nur eine Sitzung hat gereicht, damit ich grosse Sprünge im Leben mache.. danke Remo!",
+        "time": 1698750926,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dennis Noordhoek",
+        "author_photo": "/images/reviews/living-mindful-maurer-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mein kürzliches Coaching mit Remo war eine transformative Erfahrung. Es war perfekt auf meine Bedürfnisse zugeschnitten und hat mich optimal auf die wichtige Aufgabe der Moderation einer Großveranstaltung vorbereitet. Seine fachkundige Anleitung war maßgeblich daran beteiligt, meine Kommunikationsfähigkeiten zu verbessern. So konnte ich meine Botschaft wirkungsvoll vermitteln und gleichzeitig meine Lampenfieber deutlich reduzieren. Das Coaching war nicht nur lehrreich, sondern hat mir auch sehr viel Spaß gemacht. Remos gewinnende Persönlichkeit und sein kooperativer Ansatz haben den Lernprozess effektiv und angenehm gestaltet. Ich kann Remo jedem wärmstens empfehlen, der seine Präsentations- und Kommunikationsfähigkeiten verbessern möchte.",
+        "time": 1699255971,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

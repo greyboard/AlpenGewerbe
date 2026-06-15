@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJNX87f9s5jkcRwgoqRssMzjM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 66,
+    "reviews": [
+      {
+        "author_name": "Chere Photography",
+        "author_photo": "/images/reviews/lelli-herzog-elektro-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Extrem zuverlässig, freundlich und schnell! Ist direkt auf meine Wünsche eingegangen und hat mein Zuhause im Nu verschönert und mit Licht erfüllt. Auch die Planung des Termins war sehr flexibel und unkompliziert! Der Kontakt war ehrlich und einfach.\nKann ich nur weiterempfehlen!!\nDanke viel mals!",
+        "time": 1764924297,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Villars Marie-Anne",
+        "author_photo": "/images/reviews/lelli-herzog-elektro-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Meine Deckenlampen hängen – und zwar perfekt!\nTermin super schnell und flexibel, Elektriker pünktlich, sympathisch und extrem sorgfältig. Kurz gesagt: Licht an, Sorgen aus.\nSehr zufrieden und eine klare Weiterempfehlung. Jederzeit gerne wieder!",
+        "time": 1768641258,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Alice Rotondo",
+        "author_photo": "/images/reviews/lelli-herzog-elektro-gmbh-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service von Lelli-Herzog Elektro GmbH! Sehr freundlich, pünktlich und professionell. Die Arbeit wurde schnell, sauber und zuverlässig erledigt. Preis-Leistung top. Kann ich absolut weiterempfehlen!",
+        "time": 1768803799,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Miguel Demyanenko",
+        "author_photo": "/images/reviews/lelli-herzog-elektro-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Transparent, kommunikativ und freundlich! Ich habe sehr gerne mit Fabio und seiner Mannschaft gearbeitet und werde es in Zukunft auch tun👍\nDie geleistete Arbeit ist Top und lösungsorientiert, definitiv weiter zu empfehlen!",
+        "time": 1765447337,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Sarah Ruchti",
+        "author_photo": "/images/reviews/lelli-herzog-elektro-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Meine Lampen wurden zu meiner vollen Zufriedenheit montiert. Das Team arbeitet sauber, pünktlich (überpünktlich ;-)) und ist sehr rücksichtsvoll. Tiptop, würde ich wieder engagieren.",
+        "time": 1776848942,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

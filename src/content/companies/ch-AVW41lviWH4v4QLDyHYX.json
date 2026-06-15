@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJSQIfiqE-kEcR8-g65Yai3i0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "sokoli xeni",
+        "author_photo": "/images/reviews/maurer-treuhand-ag-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "ZUM EMFEHLEN SIND SUPER NET UND KORREKT SEHR SEHR ZUFRIDE MFG",
+        "time": 1530086635,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "XENI XENI",
+        "author_photo": "/images/reviews/maurer-treuhand-ag-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr sehr sehr professionell 😀",
+        "time": 1586951068,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

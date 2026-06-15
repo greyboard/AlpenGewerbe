@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJS-Sf0-U9kEcRl3-jHjiYUXs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 18,
+    "reviews": [
+      {
+        "author_name": "Björn Sundin",
+        "author_photo": "/images/reviews/s-a-maler-gmbh-aarau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Im Rahmen der Renovierung unserer Eigentumswohnung im Herbst 2025 haben wir Herrn Gashi mit der Sanierung der Wände und dem Neuanstrich der kompletten Wohnung beauftragt. Wir sind mit der Arbeit sehr zufrieden, Herr Gashi arbeitet kompetent und pünktlich. Die Kommunikation war unkompliziert, freundlich und offen und wir wurden gut beraten. Wir können Herrn Gashi nur weiterempfehlen!",
+        "time": 1768298735,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Barbara Salewski",
+        "author_photo": "/images/reviews/s-a-maler-gmbh-aarau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir konnten ein grosses Projekt mit Herr Gashi realisieren. Wir wurden kompetent beraten und Herr Gashi stand uns in vielen Bereichen mit Rat und Tat zu Seite.\nWir haben über 60m2 Boden mit Beton ciré überzogen, eine Eckwand tapeziert und Silikonfugen (wo er die perfekte Fugenfarbe fand) machen lassen. Das Engagement, die Arbeitsmoral und Präzision von Herr Gashi ist beeindruckend,wir können ihn zu 100% weiterempfehlen!",
+        "time": 1749319867,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sven Sulser",
+        "author_photo": "/images/reviews/s-a-maler-gmbh-aarau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Gashi hat bei uns die Wände des WC's in Beton Ciré ausgeführt. In der Umgebung ist es generell eher schwierig einen solchen fugenlosen Wandbelag zu finden (kann ich nur empfehlen). Wir sind mehr als nur Zufrieden mit dem Resultat und alles fängt halt schon bei der Beratung an.. Sehr sympathisch und zuverlässig, Dankeschön! :)",
+        "time": 1671367754,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jan Brunner",
+        "author_photo": "/images/reviews/s-a-maler-gmbh-aarau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetente Beratung.\nFaire Preise.\nQualitativ gute Arbeit.\nSchnelle Ausführung.\nImmer wieder gerne!",
+        "time": 1754678116,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Lukas Gubler",
+        "author_photo": "/images/reviews/s-a-maler-gmbh-aarau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Gashi hat alle Innenwände meiner Wohnung mitsamt der Decke frisch gestrichen. Die Beratung, Zuverlässigkeit und Qualität der Arbeit hätte ich mir nicht besser vorstellen können. Ausserdem ist er super sympathisch und bietet echt faire Preise! Weiter so👍🏻",
+        "time": 1653525175,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJlwFZK4ERjkcRmnB487TlYhc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Scho Si",
+        "author_photo": "/images/reviews/kurz-technik-gmbh-muentschemier/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Positiv: Superqualität, sehr professioneller Einbau, freundliche, hilfsbereite und kompetente Mitarbeiter\n\nDie Fliegengitter wurden perfekt ausgemessen und innerhalb der versprochenen Lieferzeit montiert. Und dank dem empfohlenen Geflecht sind sie nahezu unsichtbar👍",
+        "time": 1695195417,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Verena Schori",
+        "author_photo": "/images/reviews/kurz-technik-gmbh-muentschemier/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Kurz Technik GmbH können wir in jeglicher Hinsicht wärmstens empfehlen. Die ausgeführten Arbeiten wurden zu unserer vollsten Zufriedenheit ausgeführt.",
+        "time": 1640181761,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Edi Etter",
+        "author_photo": "/images/reviews/kurz-technik-gmbh-muentschemier/reviewer_3.jpg",
+        "rating": 5,
+        "text": "TOP geleistete Arbeit mit den Fliegenschutzgitter von der Firma Kurz. Ich bin mehr als zufrieden mit dem Resultat.",
+        "time": 1629975353,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Joe Schwab",
+        "author_photo": "/images/reviews/kurz-technik-gmbh-muentschemier/reviewer_4.jpg",
+        "rating": 5,
+        "text": "💪🏽 wie immer top arbeit! Vielen Dank!",
+        "time": 1687861577,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michel Gentile",
+        "author_photo": "/images/reviews/kurz-technik-gmbh-muentschemier/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schnell, fründlich und kompetent!",
+        "time": 1664173418,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

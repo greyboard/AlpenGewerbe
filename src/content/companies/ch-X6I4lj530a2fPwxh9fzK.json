@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJbQ6Nt_vWkUcR0Q50LBamZS8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr",
+    "Freitag: 07:30–11:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Lukas Bieri",
+        "author_photo": "/images/reviews/viktor-wyss-ag-flumenthal/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Als Bauleiter konnte ich im Amthaus 2 in Solothurn in Zusammenarbeit mit der Viktor Wyss ag ein tolles Projekt realisieren. Besonders gefreut hat mich die Sauberkeit, die auch unter schwierigen Bedingungen bedingungslos durchgesetzt wurde, was gerade bei einem Bauprojekt mit laufendem Bürobetrieb unerlässlich ist.  Erwähnenswert ist auch die Flexibilität der Gipser und der Geschäftsleitung, die bereit waren, den anspruchsvollen Terminplan umzusetzen und immer eine passende Lösung anzubieten hatten.\nIn diesem Sinne  bedanke ich mich und freue ich mich auf weitere gemeinsame Projekte. Das Unternehmen kann ich jederzeit weiterempfehlen.",
+        "time": 1663270595,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Denise Sauser-Zuber",
+        "author_photo": "/images/reviews/viktor-wyss-ag-flumenthal/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetente Handwerker, sehr freundliche Leute, saubere Arbeitsweise,  fachlich sehr gute Qualität und Beratung",
+        "time": 1642849837,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "MESSER WOHNEN",
+        "author_photo": "/images/reviews/viktor-wyss-ag-flumenthal/reviewer_3.jpg",
+        "rating": 4,
+        "text": "gute Beratung, gute Arbeit & faire Preise",
+        "time": 1517291641,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "mattias muster",
+        "author_photo": "/images/reviews/viktor-wyss-ag-flumenthal/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr motiviertes Team saubere Arbeit",
+        "time": 1520778603,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "XSTEINshop",
+        "author_photo": "/images/reviews/viktor-wyss-ag-flumenthal/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Klasse Team - Klasse Beratung",
+        "time": 1547135411,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

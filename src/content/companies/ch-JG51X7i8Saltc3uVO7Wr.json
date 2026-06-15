@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJidFSLw0yhEcRuDdYa1ByECc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:30 Uhr",
+    "Dienstag: 07:00–18:30 Uhr",
+    "Mittwoch: 07:00–18:30 Uhr",
+    "Donnerstag: 07:00–18:30 Uhr",
+    "Freitag: 07:00–18:30 Uhr",
+    "Samstag: 07:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Anna Manfrina",
+        "author_photo": "/images/reviews/shala-piastrelle-lugano/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Shala zeichnet sich durch Zuverlässigkeit und Professionalität aus. Herr Blerim arbeitet präzise und zuverlässig und löst jedes Problem umgehend. Absolut empfehlenswert!",
+        "time": 1779621220,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Annette Ebner",
+        "author_photo": "/images/reviews/shala-piastrelle-lugano/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Das Engagement von Herrn Shala ist mehr als außergewöhnlich. Seine Beratung und die Ausführung sind absolut einwandfrei und haben meine Erwartungen übertroffen. Es ist schön zu sehen, dass es noch zuverlässige Händler gibt, die sich für ihre Kunden einsetzen. Ich kann Shala Tiles uneingeschränkt weiterempfehlen.",
+        "time": 1657043638,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Joël Raissle",
+        "author_photo": "/images/reviews/shala-piastrelle-lugano/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Cordiale, professionale e puntuale. 5 stelle meritate, spero che possiamo continuare a lavorare insieme in altre occasioni. Grazie ancora",
+        "time": 1767442963,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Monika Ruggeri",
+        "author_photo": "/images/reviews/shala-piastrelle-lugano/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein echter Profi: seriös, ordentlich, sauber und pünktlich. Wir sind mit dem Ergebnis sehr zufrieden und können ihn wärmstens empfehlen!",
+        "time": 1711141199,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Giuseppe Di Presa",
+        "author_photo": "/images/reviews/shala-piastrelle-lugano/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Shala erwies sich als zuverlässig und ehrlich, pünktlich und präzise und gab uns von Anfang an sehr kompetente Ratschläge. Er arbeitete preisgünstig, sauber und ordentlich und erledigte die Arbeit einwandfrei und termingerecht. Ich kann ihn jedem wärmstens empfehlen, der einen erfahrenen Fliesenleger benötigt.",
+        "time": 1673356026,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

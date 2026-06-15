@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJewxGYjTfmkcRXycfLXZAGs4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Urs Frick",
+        "author_photo": "/images/reviews/passeri-heizung-urnaesch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herzlichen Dank, ihr macht einen super Job, sehr angenehmes Team und sorgfältiges, gekonntes Arbeiten. Es hat alles geklappt die Wärmepumpe läuft",
+        "time": 1749858048,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "W. M.",
+        "author_photo": "/images/reviews/passeri-heizung-urnaesch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Service, hohes Fachwissen und zuverlässig. Können auch handwerkliche Arbeiten erledigen die nicht zu ihrem Kerngeschäft gehören und das mit erstaunlichen Präzision. Faires Preis-/Leistungsverhältnis. Freundliches Team. Auch zu unkonventionellen Zeiten erreichbar.",
+        "time": 1658669560,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Daniela Grob",
+        "author_photo": "/images/reviews/passeri-heizung-urnaesch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Toller und prompter Service bei der Firma Passeri. Sehr nette und kompetente Fachleute. Empfehlenswert.",
+        "time": 1737906148,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "BMW325mtech",
+        "author_photo": "/images/reviews/passeri-heizung-urnaesch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Haben Sie Probleme mit der Heizung die Herren Passeri lösen ihr Anliegen mit bravour.",
+        "time": 1609536126,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "The Virtual",
+        "author_photo": "/images/reviews/passeri-heizung-urnaesch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Team aus Vater&Sohn einfach prima  👍🏼",
+        "time": 1564605695,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

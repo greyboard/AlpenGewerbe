@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJqT_XKVppj0cRJaaReT0jR7g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:30 Uhr",
+    "Dienstag: 07:30–11:30 Uhr",
+    "Mittwoch: 07:30–11:30 Uhr",
+    "Donnerstag: 07:30–11:30 Uhr",
+    "Freitag: 07:30–11:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Marc Briggeler",
+        "author_photo": "/images/reviews/brennwall-ag-brig-glis/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top-Service und Kundenerlebnis auf Augenhöhe\nBrennwall war bei uns vor Ort, um die bestehende Anlage zu prüfen und Einstellungen vorzunehmen. Man hat sich Zeit genommen, mir alles verständlich zu erklären – inklusive Funktionsweise, Optimierung und Einstellungen für ressourcenschonenden Betrieb. Besonders positiv: keine Verkaufsmasche, sondern ehrliche Beratung und direkter Mehrwert. Ich fühlte mich als Kunde absolut ernst genommen. So stellt man sich kompetenten und kundenorientierten Service vor – danke Michael",
+        "time": 1750318977,
+        "relative_time_description": "vor 12 Monaten"
+      },
+      {
+        "author_name": "Ebener Rudolf",
+        "author_photo": "/images/reviews/brennwall-ag-brig-glis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top\nUnkompliziert.\nKompetent.\nUnd!!\nAngestellte sind sehr freundlich.\nWeiter so!\nDanke, für den schnellen Service.",
+        "time": 1701084697,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Martin Blatter",
+        "author_photo": "/images/reviews/brennwall-ag-brig-glis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ausgezeichnete telefonische Hilfe. Kamen dann aber sehr schnell nach Hause.",
+        "time": 1672507807,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lomasi Nico",
+        "author_photo": "/images/reviews/brennwall-ag-brig-glis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hier arbeiten absolute Herzblut Techniker!",
+        "time": 1636220488,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Reto Zurbriggen",
+        "author_photo": "/images/reviews/brennwall-ag-brig-glis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1736190526,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJoS1KnSq4kUcRfhsuT2ZHTPo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 69,
+    "reviews": [
+      {
+        "author_name": "Monika Breitenmoser",
+        "author_photo": "/images/reviews/luethi-haustechnik-ag-birsfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service.\nSchwimmer kaputt Wc.\nAm Morgen angerufen um 11.00 schon vor Ort.\nVor 10 1/2 Jahren Bad neu umgebaut mit Lüthi Sanitär.\nMilan bester Service Techniker.\nImmer eine Freude ihn zu sehen.\nDanke",
+        "time": 1778582536,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Emre can Taha",
+        "author_photo": "/images/reviews/luethi-haustechnik-ag-birsfelden/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Die Lüthi-Haustechnik AG hat mir enttäuschend unterüberschattete Leistungen geliefert. Der technische Experte kam nicht pünktlich und die Qualität des Geräts war mangelhaft. In meiner Meinung sollte diese Firma ihre Standards verbessern, sonst riskiert man den Kundenvert",
+        "time": 1779344314,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Artemain",
+        "author_photo": "/images/reviews/luethi-haustechnik-ag-birsfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Betrieb! Termine werden zügig angesetzt, die Mitarbeitenden erscheinen pünktlich auf die Minute und beraten sehr kompetent bzw. nehmen sich Zeit für die Kundschaft. Sehr zu empfehlen.",
+        "time": 1771318438,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "reisevogel",
+        "author_photo": "/images/reviews/luethi-haustechnik-ag-birsfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein neues Badzimmer auf kleinstem Raum inklusive Planung und Ausführung auf höchstem Niveau. Wir sind sehr zufrieden mit dem Resultat.",
+        "time": 1711026131,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Sebastian Schreiber",
+        "author_photo": "/images/reviews/luethi-haustechnik-ag-birsfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Absolut zu empfehlen. Kompetente Beratung und Bauleitung Termine werden eingehalten und top Personal vor Ort. Dies war unser zweiter Badumbau und wenn es einen nächsten gibt, werden wir auf jeden Fall wieder mit Lüthi zusammenarbeiten 👌👍",
+        "time": 1743704512,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

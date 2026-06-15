@@ -26,5 +26,39 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJv4goofHfg40RWYEbYxrjitY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Melo",
+        "author_photo": "/images/reviews/marzo-gips-bad-ragaz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mehr als zufrieden mit der Arbeit von Cristian!\nSehr zuverlässig, sauber gearbeitet und absolut professionell.\nDie Qualität ist top und alle Termine wurden eingehalten.\nKann ich nur weiterempfehlen, jederzeit wieder ;-)",
+        "time": 1777709798,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Tresolution Webdesign & Marketing Agentur",
+        "author_photo": "/images/reviews/marzo-gips-bad-ragaz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1777709254,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

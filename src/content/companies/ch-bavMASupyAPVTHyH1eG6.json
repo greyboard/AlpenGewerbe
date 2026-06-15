@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7dcNBq8BkEcRI2uStKcwmvA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Adrian Hofer",
+        "author_photo": "/images/reviews/neumueller-gaerten-gmbh-huenenberg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin sehr zufrieden mit der gesamten Arbeit. Von der Planung bis zur Ausführung hat alles gepasst. Ich empfehle dieses Junge, dynamische und stets motivierte Team an alle weiter.",
+        "time": 1686304116,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "C C",
+        "author_photo": "/images/reviews/neumueller-gaerten-gmbh-huenenberg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Michel und sein Team sind sehr professionell und haben eine ausgezeichnete Arbeit geleistet. Sie haben unsere Platten schnell und sorgfältig verlegt und dabei alle unsere Anforderungen erfüllt. Wir sind sehr zufrieden mit der Arbeit, die er für uns geleistet hat und würden ihn jederzeit wieder engagieren.",
+        "time": 1681369474,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Catherine Crowden",
+        "author_photo": "/images/reviews/neumueller-gaerten-gmbh-huenenberg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben lange gesucht nach einem Gartenbauer, der mit kreativer Konzeptarbeit und professioneller Umsetzung aufwarten kann. Mit Michel und seinem Team haben wir diesen Partner gefunden: ein wunderschönes Gartendesign mit viel Platz für die heimische Tierwelt, gekonnt gebaut und mit handwerklichem Können umgesetzt. Das Team vor Ort hat auch für heikle Stellen Lösungen gefunden und die Kommunikation auf der Baustelle gemeistert. Das Team von Neumüller Gärten bleibt uns erhalten: sie übernehmen den regelmässigen Gartenunterhalt.",
+        "time": 1687890819,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Patrick Oppliger",
+        "author_photo": "/images/reviews/neumueller-gaerten-gmbh-huenenberg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Junges, dynamisches Team mit hoher Fachkompetenz. Der perfekte Partner für Ihren Garten.",
+        "time": 1674654621,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Simon Kilchmann",
+        "author_photo": "/images/reviews/neumueller-gaerten-gmbh-huenenberg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Michel und sein Team zeichnen sich durch Kreativität und Leidenschaft aus! Grossartige Mannschaft!",
+        "time": 1615209473,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

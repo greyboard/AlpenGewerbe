@@ -1,7 +1,7 @@
 {
   "id": "ch-1ZlDs5dHUQLjBSQIRl8H",
   "slug": "pasinelli-francesco-sa-locarno",
-  "name": "Pasinelli Francesco SA",
+  "name": "Francesco Pasinelli SA",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJnwFgNT3IhUcR23D4PTc5t1Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Jonathan Copes",
+        "author_photo": "/images/reviews/pasinelli-francesco-sa-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit ihrer Professionalität und Höflichkeit rundum zufrieden!",
+        "time": 1771437085,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Nenad Radivojevic",
+        "author_photo": "/images/reviews/pasinelli-francesco-sa-locarno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Eines der besten Unternehmen im Tessin,\nHöchste Professionalität!",
+        "time": 1600180902,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marco Del Monte",
+        "author_photo": "/images/reviews/pasinelli-francesco-sa-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Positive Erfahrung, freundliches und zuvorkommendes Personal",
+        "time": 1542291958,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Rafael Xaiz",
+        "author_photo": "/images/reviews/pasinelli-francesco-sa-locarno/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Spitze!",
+        "time": 1548322464,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Vespaliengarage F.G. Forte",
+        "author_photo": "/images/reviews/pasinelli-francesco-sa-locarno/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Spitze",
+        "time": 1780656175,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

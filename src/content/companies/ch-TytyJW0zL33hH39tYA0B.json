@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJWWy2SwMOjkcR9lBQffidBiU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Gérald Rappo",
+        "author_photo": "/images/reviews/otter-sanitaertechnik-gmbh-ins/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Nur zu empfehlen! Wir hatten einen Mischer auszutauschen und dies natürlich kurz vor dem Wochenende. Herr Otter hat den Ersatz super rasch organisiert. Gerne wieder.",
+        "time": 1772213921,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Stefan Jenni",
+        "author_photo": "/images/reviews/otter-sanitaertechnik-gmbh-ins/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Für den Um- und Ausbau unseres Bauernhaus aus dem Jahre 1830 benötigten wir einen kompetenten Partner im Bereich der Sanitären Installationen. Mit der Otter Sanitärtechnik GmbH fanden wir einen kleinen Familienbetrieb, welcher innovative Lösungen für unkonventionelle \"Baustellen\" präsentierte und zu unserer vollsten Zufriedenheit ausführte.\nWir empfehlen die Firma wärmstens weiter!",
+        "time": 1739301372,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yannick Steiner",
+        "author_photo": "/images/reviews/otter-sanitaertechnik-gmbh-ins/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Habe mein Bad umgebaut und mehrere Offerten zukommen lassen und die Otter Sanitärtechnik GmbH war die preisleistungstärkste. Hatte zuerst Zweifel wegen der schlechten Rezesion doch diese bewahrheitete sich nicht. Top Arbeit genau zu diesen Konditionen wie abgemacht.",
+        "time": 1737573678,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "David Hefti",
+        "author_photo": "/images/reviews/otter-sanitaertechnik-gmbh-ins/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein zuverlässiger und kompetenter Partner. Wir durften bereits mehrere Projekte gemeinsam realisieren und waren jedes Mal begeistert. Freundlicher Service, qualitativ hochwertige Arbeit und absolute Professionalität zeichnen dieses Unternehmen aus. Sehr empfehlenswert.",
+        "time": 1738586072,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tinu Heiniger",
+        "author_photo": "/images/reviews/otter-sanitaertechnik-gmbh-ins/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Ich habe noch nie eine negative Rezension gemacht. Hier möchte ich aber andere warnen nicht den Fehler zu machen bei dieser Firma einen Auftrag ausführen zu lassen. Sie werden über jedes Mass ungebührlich über den Tisch gezogen. Material wurde verrechnet, welches in diesem Auftrag nicht verbaut wurde. Arbeitsschritte und Zeiten werden versteckt und intransparent doppelt abgerechnet. Das Material wird überteuert verrechnet. Ein zweiter Sanitär musste die Rechnung eine halbe Stunde studieren, um alle „Stolperfallen“ auszumachen. Frechheit ist hier untertrieben. Lassen Sie sich nicht hinters Licht führen.\nRechnung des Wasserhahnes lag zu Beginn bei 800.- !\nDrei Fachmänner kamen insgesamt auf einen Ausführungsbetrag zwischen 250.- und max. 350.-\nDer Sanitär wird sicher eigene Argumente liefern, aber das Bild des Auftrages spricht definitiv für sich.",
+        "time": 1713114999,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

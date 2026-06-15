@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJz6jobvrxmkcRamh491VQaD0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Frederik Widmer",
+        "author_photo": "/images/reviews/bornhauser-ag-holzbau-weinfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service. Zuvorkommend & kompetent! Sehr empfehlenswert.",
+        "time": 1771239803,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Nils Koster",
+        "author_photo": "/images/reviews/bornhauser-ag-holzbau-weinfelden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Bornhauser Holzbau? Ja, unbedingt.\nIch wurde sehr freundlich mit meinem Problem empfangen und mir wurde umgehend geholfen. Die Aufgabe war sehr kompliziert doch sie wurde speditiv und mit sehr hoher Qualität erledigt. Ich war sehr froh um die Hilfe dieser Firma und werde wieder vorbei gehen mit meinem nächsten Problem/nächster Aufgabe in verbindung mit Holz.\nBornhauser Holzbau hat mich überzeugt.",
+        "time": 1652898155,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Demian Gürler",
+        "author_photo": "/images/reviews/bornhauser-ag-holzbau-weinfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Überaus zuvorkommend und sehr hilfsbereit",
+        "time": 1767099697,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Glovital AG",
+        "author_photo": "/images/reviews/bornhauser-ag-holzbau-weinfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir empfehlen die Firma Bornhauser aus Weinfelden. Wir schätzen die tolle Zusammenarbeit und bedanken uns , euch bei einige Projekten unterstützen zu dürfen. Vielen Dank",
+        "time": 1675410802,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "P H",
+        "author_photo": "/images/reviews/bornhauser-ag-holzbau-weinfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super. Der Eigentümer ist sehr freundlich und hilfsbereit. Immer wieder !",
+        "time": 1653155300,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

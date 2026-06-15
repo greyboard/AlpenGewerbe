@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJ5WaAUJUVm0cR_V5j16Jwwc4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–17:00 Uhr",
+    "Dienstag: 09:00–17:00 Uhr",
+    "Mittwoch: 09:00–17:00 Uhr",
+    "Donnerstag: 09:00–17:00 Uhr",
+    "Freitag: 09:00–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Samuel Zuberbühler",
+        "author_photo": "/images/reviews/greytone-keramik-by-ata-diepoldsau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben mit der Firma bereits mehrere – teils auch größere – Projekte realisiert und sind rundum zufrieden. Herr Ömer Ata hält stets sein Wort, ist absolut zuverlässig und erscheint pünktlich zu den vereinbarten Terminen. Die Preisabsprachen wurden immer exakt eingehalten, was heutzutage leider keine Selbstverständlichkeit ist. Das Preis-Leistungs-Verhältnis ist insgesamt sehr gut. Auch die Qualität der ausgeführten Arbeiten überzeugt – kleinere Mängel wurden umgehend und ohne Diskussion behoben. Klare Empfehlung für alle, die Wert auf professionelle Fliesenarbeiten und eine vertrauensvolle Zusammenarbeit legen!",
+        "time": 1748257596,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michele Pappa",
+        "author_photo": "/images/reviews/greytone-keramik-by-ata-diepoldsau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super arbeit danke viel Mal...",
+        "time": 1716649130,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "sejdi helshani",
+        "author_photo": "/images/reviews/greytone-keramik-by-ata-diepoldsau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1716649374,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nazlican Hepsagir",
+        "author_photo": "/images/reviews/greytone-keramik-by-ata-diepoldsau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710361603,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "ömer ata",
+        "author_photo": "/images/reviews/greytone-keramik-by-ata-diepoldsau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710249638,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

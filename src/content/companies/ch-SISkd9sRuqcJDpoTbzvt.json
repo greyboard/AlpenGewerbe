@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJzyKNl-47jkcRX5sCh2H8k0k",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Christian Gassner",
+        "author_photo": "/images/reviews/malerei-roger-vuille-gmbh-meikirch/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Maler.....sehr zu empfehlen!",
+        "time": 1673331529,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beat Hegg",
+        "author_photo": "/images/reviews/malerei-roger-vuille-gmbh-meikirch/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionelle Arbeiten. .\nVon der Beratung, Auftragsabwicklung, Fachkundigkeit und dem Einhalten der Termine bin ich sehr zufrieden und kann die Firma bestens weiterempfehlen.\n\nBeste Grüsse Beat",
+        "time": 1773906122,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Silvia Stettler",
+        "author_photo": "/images/reviews/malerei-roger-vuille-gmbh-meikirch/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich war sehr zufrieden mit der Arbeit, Kompetent, exakt. Sehr Angenehm, ich kann die Malerei weiterempfehlen!",
+        "time": 1774826692,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Beat Käser",
+        "author_photo": "/images/reviews/malerei-roger-vuille-gmbh-meikirch/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden immer termingerecht, zuverlässig und mit sehr guter Qualität ausgeführt.\nRoger Vuille hat verschieden Arbeiten im Innen- und Aussenbereich ausgeführt und ich kann die Firma sehr empfehlen.",
+        "time": 1774862368,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "rettix",
+        "author_photo": "/images/reviews/malerei-roger-vuille-gmbh-meikirch/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben kürzlich umfangreiche Malerarbeiten in unserem Einfamilienhaus ausführen lassen, Die Qualität hat perfekt gepasst, die Termine und Kosten wurden eingehalten, die Zusammenarbeit war angenehme - jederzeit gerne wieder!",
+        "time": 1773681407,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

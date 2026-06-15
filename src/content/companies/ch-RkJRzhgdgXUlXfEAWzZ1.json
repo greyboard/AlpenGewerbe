@@ -26,5 +26,55 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJFwliStmOmkcRc5PO0YMIv6E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Petra Müllner",
+        "author_photo": "/images/reviews/reutimann-gartengestaltung-gmbh-eschenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben super Erfahrung gemacht.Super,schnelle Arbeit,sehr freundlich,saubere Arbeit,sehr flexibel,man fühlt sich sehr gut aufgehoben,sehr gerne weiter empfehlen,wir sind begeistert,jeder Zeit wieder.🌞👍😊👍",
+        "time": 1687186805,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Polo Vice",
+        "author_photo": "/images/reviews/reutimann-gartengestaltung-gmbh-eschenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1759728258,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Carlos Perez",
+        "author_photo": "/images/reviews/reutimann-gartengestaltung-gmbh-eschenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1555680780,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Salvatore Falconeri",
+        "author_photo": "/images/reviews/reutimann-gartengestaltung-gmbh-eschenz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1642654382,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

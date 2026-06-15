@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJkd0KqBSSj0cRjp_GlDYshIE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 3,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Gasser Benjamin",
+        "author_photo": "/images/reviews/gamal-lungern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragend",
+        "time": 1607874343,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Roger Henz",
+        "author_photo": "/images/reviews/gamal-lungern/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Also",
+        "time": 1762973783,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

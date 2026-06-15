@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJEyyrjQv8j0cRw4nvTMFgraY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 36,
+    "reviews": [
+      {
+        "author_name": "Dominik Baumann",
+        "author_photo": "/images/reviews/schindler-gaerten-gmbh-gaertner-gartenbau-gartenbauunternehmen-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Leistung! Sehr empfehlenswerter Gartenbau und -unterhaltsbetrieb mit einem hervorragendem Preis-Leistungs-Verhältnis. Danke für die super Arbeit.",
+        "time": 1773665443,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Steinbock78 Squirrel",
+        "author_photo": "/images/reviews/schindler-gaerten-gmbh-gaertner-gartenbau-gartenbauunternehmen-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sympathisches, kompetentes Team. Schindler Gärten haben unseren kleinen Garten in eine richtige Wohlfühloase verwandelt. Jederzeit wieder!",
+        "time": 1752649617,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Michael Weber",
+        "author_photo": "/images/reviews/schindler-gaerten-gmbh-gaertner-gartenbau-gartenbauunternehmen-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Perfekt von A bis Z…\nSehr sympathisches Team und perfekte Arbeit.\nWir wurden kompetent beraten und konnten all unsere Wünsche einbringen.\nImmer wieder gerne…",
+        "time": 1745409719,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Simon Erni",
+        "author_photo": "/images/reviews/schindler-gaerten-gmbh-gaertner-gartenbau-gartenbauunternehmen-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Arbeite mit Schindler Gärten war hervorragend.\nDie Termine wurden am Vortag nochmals bestätigt, Arbeitsende jeweils zurückgemeldet und bebildert. So konnten die Folgearbeiten nahtlos ausgeführt und das Bauprogramm perfekt eingehalten werden.\nWir danken für die großartige Zusammenarbeiten und empfehlen Euch gerne weiter.",
+        "time": 1697795419,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Philippe",
+        "author_photo": "/images/reviews/schindler-gaerten-gmbh-gaertner-gartenbau-gartenbauunternehmen-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Kompetente und sehr nette Gartenbauer. Leisteten bei uns saubere, schöne, effiziente und zuverlässige Arbeit. Terminplan und Budget wurden gut eingehalten trotz erschwerten Zugangsbedingungen. Vollständige Neugestaltung unseres Gartens wurde gemäss Plan einer Gartendesignerin umgesetzt und zusätzliche praktische Ideen realisiert. Super schön gebaute Trockenmauer aus Naturstein! Eine tolle Arbeit der Gebrüder Schindler und unser neue Garten macht riesig Freude. Die ersten Frühlingsblumen blühen schon! Neue Projekte werden wir gerne wieder mit Schindler Gärten realisieren.",
+        "time": 1741627568,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

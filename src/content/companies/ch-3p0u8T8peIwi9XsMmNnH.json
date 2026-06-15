@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJQYKuKG-qmkcRgDlUJGUPV2Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–00:00 Uhr",
+    "Dienstag: Geschlossen",
+    "Mittwoch: Geschlossen",
+    "Donnerstag: 09:00–00:00 Uhr",
+    "Freitag: 09:00–00:00 Uhr",
+    "Samstag: 09:00–00:00 Uhr",
+    "Sonntag: 09:00–00:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 568,
+    "reviews": [
+      {
+        "author_name": "Tatjana Hauser",
+        "author_photo": "/images/reviews/wirtschaft-freimann-zug/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Das Essen fanden wir alles super.\nAber der Service geht gar nicht von dem Kellner. Wenn man was fragt bekommt man nur schnippische antworten und man fühlte sich gar nicht willkommen. Leider sehr schade da es auch sehr schön dort ist aber so wie er mit den Gäste umgeht, geht gar nicht.",
+        "time": 1772953458,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Toni Huwiler",
+        "author_photo": "/images/reviews/wirtschaft-freimann-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "April 2025. wir waren gut 30 Personen mit Kinder. Das Essen war sehr fein, Service hat tadellos geklappt vom Aperos bis zum Kaffee. Aussenbereich ist auch toll Gartenwirtschaft - Kinderspielplatz - Bauernhof der zum Restaurant gehört- genügend Parkplätze und Spaziermöglichkeit. Gerne wieder.",
+        "time": 1745493449,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Yvonne Rust Ohashi",
+        "author_photo": "/images/reviews/wirtschaft-freimann-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Seit Jahren netter und freundlicher Sevice, sehr feine Küche mit eigenen Produkten, auf Änderungswünsche wird eingegangen ohne Preisaufschlag. Heimelig innen und aussen toller Gartensitzplatz.\nSo nah von der Stadt und doch schon ländlich, immer wieder gerne. Auch meine Gäste sind immer begeistert und sehr zufrieden.",
+        "time": 1758127032,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Hannes",
+        "author_photo": "/images/reviews/wirtschaft-freimann-zug/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Gut besuchtes, ursprüngliches, authentisches Schweizer Restaurant in ländlicher Lage, etwas was es im Kanton Zug nicht mehr viel gibt, darum sicher auch etwas besonderes. Fleisch vom eigenen Hof. Bekannt für Schweinefleisch. Es gibt aber auch Kalb, Beef, Fischknusperli. Portionen gross, alles sehr gut, Gemüse auf dem Teller hat gefehlt. Bedienung schnell und freundlich. Vegetarier und Veganer werden in diesem Restaurant nicht glücklich 😉",
+        "time": 1678602175,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Theresia Lütolf",
+        "author_photo": "/images/reviews/wirtschaft-freimann-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir waren mit einer Gruppe anwesend und hatten das Vergnügen, ein sehr feines Fondue geniessen zu dürfen. Das war wirklich sehr lecker, die Portion genug und der Preis moderat. Ganz herzlichen Dank für den guten Service!",
+        "time": 1766273391,
+        "relative_time_description": "vor 5 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

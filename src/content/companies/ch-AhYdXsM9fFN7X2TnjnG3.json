@@ -26,5 +26,31 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJBY-pq3UKkEcRtqwU96ZM4Rc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Davood Farshi",
+        "author_photo": "/images/reviews/t-vogelsang-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Der Geschäftsführer ist eine sehr angenehme Person. Mit so einer Person kann man gut arbeiten. Sie haben bei uns die gesamte Baumeisrterarbeiten der Totalrenovation gemacht. Wir sind zufrieden. Gerne wieder!",
+        "time": 1569325256,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

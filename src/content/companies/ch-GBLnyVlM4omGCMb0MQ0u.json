@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJkWSFCQfHhEcRjjK3dlVX9E4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–11:50 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–11:50 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Nadine Monsch",
+        "author_photo": "/images/reviews/de-stefani-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und freundliche Mitarbeiter. Die Arbeit wurde sauber und ordentlich ausgeführt. Das Team war jederzeit erreichbar und stand uns mit Rat und Tat zur Seite. Absolut zuverlässig, kann ich uneingeschränkt weiterempfehlen.",
+        "time": 1760679881,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Petra Staub",
+        "author_photo": "/images/reviews/de-stefani-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Es wurde alles Planmässig erledigt, gute Zusammenarbeit mit den zusätzlichen Firmen , saubere Arbeit geleistet. Gutes Team und immer erreichbar. Danke für alles...",
+        "time": 1747724185,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Albert Weber",
+        "author_photo": "/images/reviews/de-stefani-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Monteur. Hat sich 1 Tag nach der Arbeit erkundet, ob alles zum Besten sei. Sehr gerne wieder. Danke",
+        "time": 1747754362,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Renzo Casanova",
+        "author_photo": "/images/reviews/de-stefani-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Badezimmer Umbau\nTopArbeit immer wieder gerne... Kann man nur Weiterempfehlen 👌",
+        "time": 1754676952,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Giulian Mirer",
+        "author_photo": "/images/reviews/de-stefani-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr familiärer Betrieb, freundliche Mitarbeiter 👍🏻",
+        "time": 1742217641,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

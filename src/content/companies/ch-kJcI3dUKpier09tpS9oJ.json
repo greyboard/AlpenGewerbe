@@ -1,7 +1,7 @@
 {
   "id": "ch-kJcI3dUKpier09tpS9oJ",
   "slug": "schreiner-pinacho-in-st-gallen-st-gallen",
-  "name": "Schreiner PINACHO in St. Gallen",
+  "name": "Schreinerei PINACHO in St. Gallen",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ_bMrbBUfm0cRrn_xjnGHFz8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 17,
+    "reviews": [
+      {
+        "author_name": "Theresa Nösser",
+        "author_photo": "/images/reviews/schreiner-pinacho-in-st-gallen-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher und kompetenter Schreiner! Er hat mir super und richtig schnell mit meiner Couch geholfen und eine tolle Lösung gefunden. Man merkt sofort, dass er sein Handwerk versteht. Ich kann Herrn Pinacho wärmstens empfehlen und werde ihn beim nächsten Mal auf jeden Fall wieder engagieren!",
+        "time": 1769090109,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Monika G",
+        "author_photo": "/images/reviews/schreiner-pinacho-in-st-gallen-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Pinacho hat uns eine Ikea-Küche aufgebaut und eingebaut. Seine Arbeit ist hervorragend. Es waren noch einige herausfordernde Schreinerarbeiten zu erledigen, diese wurden zu unserer vollsten Zufriedenheit gelöst. Wir freuen uns täglich ab dieser wunderschönen Küche, die so exakt eingebaut wurde. Preis/Leistung war super.",
+        "time": 1661110347,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nemanja Stojanovic",
+        "author_photo": "/images/reviews/schreiner-pinacho-in-st-gallen-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Pinacho ist ein ausgezeichneter Schreiner und hat die notwendigen, sehr spezifischen Arbeiten perfekt erledigt.\nAusserdem ist er enorm freundlich, entgegenkommend und hilfsbereit, weshalb wir sein Unternehmen absolut empfehlen können!",
+        "time": 1729197645,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dorothea F",
+        "author_photo": "/images/reviews/schreiner-pinacho-in-st-gallen-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Pinacho macht fabelhafte Möbel. Wir haben sehr viel von ihm fertigen lassen und haben immer individuelle, top professionelle und hoch qualitative Möbel erhalten. Wir sind sehr zufrieden und können ihn mit 5Sternen weiterempfehlen.",
+        "time": 1694379845,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Nicole Solenthaler",
+        "author_photo": "/images/reviews/schreiner-pinacho-in-st-gallen-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Von der Planung zur Realisation, von A-Z ein top Service.\nWir haben eine neue Küche bei Silviano machen lassen und es hat alles wunderbar funktioniert! Schnell, speditiv, sehr sauber und genau. Super Arbeit, wir haben viel Freude daran! Ich kann Ihn nur weiterempfehlen.\nHerzlichen Dank Nicole",
+        "time": 1653849315,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,55 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ-1o0TWMZjkcRy4FaOVWeY2s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Sandro Kocher",
+        "author_photo": "/images/reviews/gfeller-ag-ipsach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sanitärinstal. kompetent, sympatisch, unkompliziert und speditiv. Guter Service gerne wieder.",
+        "time": 1713764177,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "remo beyeler",
+        "author_photo": "/images/reviews/gfeller-ag-ipsach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1769529450,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Claudia Krebs",
+        "author_photo": "/images/reviews/gfeller-ag-ipsach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1696398329,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Erika Joray Urech",
+        "author_photo": "/images/reviews/gfeller-ag-ipsach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1562609830,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ76W8calkjEcRWMVC1S0Wt7M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Sonntag: 07:30–12:00 Uhr, 13:00–17:30 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Jorge Cardoso",
+        "author_photo": "/images/reviews/murner-sa-aire/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin mit dieser Bodenlegerfirma überaus zufrieden! Vom ersten Kontakt an war das Team professionell, aufmerksam und beantwortete alle meine Fragen. Die Muster kamen schnell an, und die Auswahl war vielfältig und von sehr hoher Qualität. Der Kundenservice war während des gesamten Prozesses tadellos, die Kommunikation reibungslos und transparent. Der Boden wurde termingerecht, mit akribischer Handwerkskunst und perfektem Finish verlegt. Ich kann diese Firma aufgrund ihrer Professionalität, ihres Fachwissens und ihrer Liebe zum Detail wärmstens empfehlen. Unser Zuhause hat sich komplett verwandelt, und wir sind begeistert!",
+        "time": 1730576426,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Matthieu Rahier",
+        "author_photo": "/images/reviews/murner-sa-aire/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Ich habe mit dieser Firma schlechte Erfahrungen gemacht. Anfangs waren wir begeistert, aber nachdem wir über einen Monat auf Muster gewartet haben – trotz mehrerer Versprechungen – haben wir immer noch nichts erhalten. Die Kommunikation ist zudem sehr verwirrend, daher werden wir uns für unseren Bodenbelag nach einer anderen Firma umsehen.",
+        "time": 1726699385,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "antonio silva",
+        "author_photo": "/images/reviews/murner-sa-aire/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1717527611,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Yazk_ Tv",
+        "author_photo": "/images/reviews/murner-sa-aire/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1715066965,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Local Search",
+        "author_photo": "/images/reviews/murner-sa-aire/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1561713715,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

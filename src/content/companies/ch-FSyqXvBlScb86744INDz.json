@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ09Lb8fhNjkcRFWvj9SD_9ZM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Roland Schaad",
+        "author_photo": "/images/reviews/lfv-bedachungen-ag-muri-bei-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "….eine bewertung mit 5 sternen (6) sagt ja alles.\n1. freundlich\n2. pünktlich\n3. gute qualität der verbauten materialien\n4. professionelle arbeit\n5. sauber\n6. kosten transparent\n\n….schon die erste kontaktaufnahme am telephon ist absolut freundlich, stand termingerecht und pünktlich da. erklärt die bevorstehenden arbeiten auch einem nicht dachdecker absolut verständlich, und alle fragen werden professionell erklärt und beantwortet. ich kann diese firma wirklich nur weiter empfehlen.",
+        "time": 1646812694,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sascha SaXer",
+        "author_photo": "/images/reviews/lfv-bedachungen-ag-muri-bei-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben die Firma als sehr kompetent und zuverlässig erlebt. Netter Kontakt mit dem ganzen Team und eine pünktliche Ausführung bei den von uns verwalteten Liegenschaften. Wir und unsere Eigentümer sind sehr zufrieden mit der getätigten Arbeit. Herzlichen Dank vom Saxer Immobilien & Verwaltungen Team.",
+        "time": 1664550075,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Andres Hunziker",
+        "author_photo": "/images/reviews/lfv-bedachungen-ag-muri-bei-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Firma zeichnet sich aus durch sehr saubere und effiziente Arbeit!\nAlle Abmachungen (Material, Massnahmen, Fristen) – die einfach und klar kommuniziert wurden – wurden eingehalten. Und besonders erfreulich war, dass der geplante Zeitrahmen, in der die Reparatur erfolgen sollte, bei weitem unterschritten wurde (2 statt angekündeter 3 Wochen).\nBesonders auch, dass sich im Laufe der Tage und Begegnungen ein sehr warmes und menschlich sympathisches Verhältnis mit uns als Kunden entwickelte.\n\nFazit: Ohne Einschränkungen sehr empfehlenswert!",
+        "time": 1655900311,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "endrit nika",
+        "author_photo": "/images/reviews/lfv-bedachungen-ag-muri-bei-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und exakt in der Ausführung. Hilfsbereit. Helfen auch, wenn es Mängel bei anderen Handwerkern gibt. Die Firma LFV ist unglaublich professionell und fair. Weiter so!",
+        "time": 1661502620,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marco Steiner",
+        "author_photo": "/images/reviews/lfv-bedachungen-ag-muri-bei-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein tolles Team mit sehr freundlichen und hilfsbereiten Mitarbeitern, die sich Zeit für eine ausführliche und kundenorientierte Beratung nehmen. Super Service – auf jeden Fall zu empfehlen!",
+        "time": 1748415683,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

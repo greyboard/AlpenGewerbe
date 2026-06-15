@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0yrBicrkmkcRAc3HBLJbDdc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Monika Baumgartner-Altenburger",
+        "author_photo": "/images/reviews/von-arx-gaerten-amriswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wunderschöne Anlagen.Sehr freundlicher Herr von Arx.Nimmt sich Zeit für die Kundenwünsche.",
+        "time": 1572335706,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sabine Nupnau",
+        "author_photo": "/images/reviews/von-arx-gaerten-amriswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1557475649,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Martin Jäger",
+        "author_photo": "/images/reviews/von-arx-gaerten-amriswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1691586010,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Kluibenschädl",
+        "author_photo": "/images/reviews/von-arx-gaerten-amriswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1562090364,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Norbert Müller",
+        "author_photo": "/images/reviews/von-arx-gaerten-amriswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1559549631,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

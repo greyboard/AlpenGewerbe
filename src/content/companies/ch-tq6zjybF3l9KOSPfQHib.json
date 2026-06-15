@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJz-QkNEQTkEcRKBMpevP1Niw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 26,
+    "reviews": [
+      {
+        "author_name": "Susanne Ballmer",
+        "author_photo": "/images/reviews/schoop-co-ag-baden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Arbeiten wurden sehr professionell, effizient und lösungsorientiert durchgeführt. Die Kommunikation erfolgte stets zeitnah und zuverlässig. Würde die Firma Schoop jederzeit wieder beschäftigen und kann sie nur wärmstens weiterempfehlen.",
+        "time": 1779728747,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Andreas Fiersbach",
+        "author_photo": "/images/reviews/schoop-co-ag-baden/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompliment für die neue Website! Sie ist sehr modern, kundenfreundlich und dienstleistungsorientiert gestaltet.\nHier fühlt man sich als Kunde sofort abgeholt und bestens informiert.",
+        "time": 1772703319,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Jürgen Brommundt",
+        "author_photo": "/images/reviews/schoop-co-ag-baden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schoop hat uns Wege und Parkplatz neu gemacht. Sehr kompetent und professionell von der Angebotserstellung, Beratung über die Abwicklung bis zum Abschluss. Flexibel in der Ausführung als wir auf die Genehmigung noch warten mussten wegen der Sommerferien - kostenneutral, sehr fair.",
+        "time": 1733172270,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Domino Lehmann",
+        "author_photo": "/images/reviews/schoop-co-ag-baden/reviewer_4.jpg",
+        "rating": 2,
+        "text": "Unterdurchschnittliche Qualität bei der Arbeit. Erst proaktive Kommunikation, nachdem erneut darauf hingewiesen wurde. Selbst einfachste Arbeiten wie Jäten werden nicht in genügender Qualität und nur oberflächlich ausgeführt. Vermutlich ist das Interesse an einem Vertrag für den Unterhalt wichtiger. Bleibt die Frage, ob man nur dem Werkvertrag die Schuld zuschiebt und den Namen für die mangelhafte Arbeitsqualität opfert oder ob es nicht besser wäre, manchen Auftrag nicht anzunehmen, dafür seinen Namen für Qualität zu stehen.",
+        "time": 1725825885,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "R Teo (RT)",
+        "author_photo": "/images/reviews/schoop-co-ag-baden/reviewer_5.jpg",
+        "rating": 4,
+        "text": "Wir haben ein Flachdach erneuert. Sehr gute Arbeiter. Bei der Projektleitung und Koordination sind einige Sachen untergegangen. Darum nur 4 Sterne. Sonst sind wir zufrieden.",
+        "time": 1694861802,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

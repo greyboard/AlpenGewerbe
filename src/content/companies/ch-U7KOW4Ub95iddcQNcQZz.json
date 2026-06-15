@@ -26,5 +26,54 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2wPGQHNDhUcR5o1lLOiyOkI",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Jasmin Poletti",
+        "author_photo": "/images/reviews/wyrsch-oswald-schreinerei-gmbh-attinghausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kleine aber feine Schreinerei. Sehr unkompliziert, persönlich schnelle und gute Arbeit zu einem fairen Preis. Sie haben bei uns die ganze Praxiseinrichtung zu unserer vollsten Zufriedenheit gemacht! Danke!",
+        "time": 1762180103,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Benjamin Bissig",
+        "author_photo": "/images/reviews/wyrsch-oswald-schreinerei-gmbh-attinghausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "👍👍👍",
+        "time": 1725301736,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mike Reichmuth",
+        "author_photo": "/images/reviews/wyrsch-oswald-schreinerei-gmbh-attinghausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Toparbeit",
+        "time": 1774680771,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Fernando Rodríguez",
+        "author_photo": "/images/reviews/wyrsch-oswald-schreinerei-gmbh-attinghausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1685906010,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Fabian Wyrsch",
+        "author_photo": "/images/reviews/wyrsch-oswald-schreinerei-gmbh-attinghausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1594217772,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

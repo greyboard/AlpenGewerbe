@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVaVRXvE3jkcRpVhMoS24tmk",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Beatrice Kobel",
+        "author_photo": "/images/reviews/serin-parkett-gmbh-parkett-und-bodenleger-in-kehrsatz-bei-bern-kehrsatz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Abschleifen und neu versiegeln von Parkettboden. Streichen der Wände. Gute und freundliche Kontaktaufnahme, schnelle, saubere und schöne Arbeiten. Preis-Leistungs-Verhältnis sehr stimmig. Wir sind sehr zufrieden",
+        "time": 1716968602,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Urs Fasel",
+        "author_photo": "/images/reviews/serin-parkett-gmbh-parkett-und-bodenleger-in-kehrsatz-bei-bern-kehrsatz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, pünktlich und sehr saubere Arbeit - wir sind hochzufrieden!",
+        "time": 1649244125,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "mustafa Serin",
+        "author_photo": "/images/reviews/serin-parkett-gmbh-parkett-und-bodenleger-in-kehrsatz-bei-bern-kehrsatz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1747900005,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lara Serin",
+        "author_photo": "/images/reviews/serin-parkett-gmbh-parkett-und-bodenleger-in-kehrsatz-bei-bern-kehrsatz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1705792864,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Arzu Serin",
+        "author_photo": "/images/reviews/serin-parkett-gmbh-parkett-und-bodenleger-in-kehrsatz-bei-bern-kehrsatz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1570364010,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

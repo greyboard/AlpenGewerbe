@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ37WmvN56jEcR9hT7-iY3A5E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Nikolaos Sakkos",
+        "author_photo": "/images/reviews/jp-schweizer-sa-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei mir zu Hause wurden Sichtschutzfolien angebracht. Ein sehr gutes Team (Diego und Joel), effizient und professionell. Ich kann sie wärmstens empfehlen.",
+        "time": 1758886565,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Timothe Balz",
+        "author_photo": "/images/reviews/jp-schweizer-sa-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe meine Autoscheiben tönen lassen. Wunderschönes Ergebnis, professionelles Team, guter Kundenservice und die Tönung hält lange. Ich kann sie nur empfehlen.",
+        "time": 1756720723,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "So C",
+        "author_photo": "/images/reviews/jp-schweizer-sa-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hochwertiger und professioneller Service sowohl in Büros als auch auf Baustellen.",
+        "time": 1770913085,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "A C",
+        "author_photo": "/images/reviews/jp-schweizer-sa-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein bemerkenswert ethisches und professionelles Unternehmen.\n\nHerr Gobet nahm sich die Zeit, die Baustelle zu besichtigen, um mein Projekt zu verstehen, und unterbreitete zahlreiche Vorschläge, ohne dabei jemals aufdringlich zu sein. Er räumte schließlich ein, dass die Installation von Fensterfolie zwar effektiv wäre, aber aufgrund der Ästhetik an diesem Standort wahrscheinlich nicht ratsam.\n\nAus unserem Gespräch ging deutlich hervor, dass das Unternehmen über hohe Fachkompetenz und langjährige Erfahrung verfügt und somit einen qualitativ hochwertigen und langfristigen Service garantieren kann.\n\nIch würde sie definitiv anderen, möglicherweise günstigeren Alternativen und anderen Generalunternehmern vorziehen, die alles anbieten.",
+        "time": 1737723361,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "HORNUNG TINA",
+        "author_photo": "/images/reviews/jp-schweizer-sa-carouge/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein professionelles Team und ein hervorragendes Preis-Leistungs-Verhältnis! Meine Küche wurde in kürzester Zeit komplett renoviert. Perfekt, absolut empfehlenswert.",
+        "time": 1546856945,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

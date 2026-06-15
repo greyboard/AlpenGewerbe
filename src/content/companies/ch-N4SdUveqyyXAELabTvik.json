@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpZ0xS_WBmkcRnmF8DhWS56s",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Carola Kaulfers",
+        "author_photo": "/images/reviews/eckert-parkett-schlatt/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Danke Vitali für alles! Ganz viele wunderschöne Böden haben wir nun! Wenn wir könnten, gäbe es noch mehr Sterne! Echt tolle, sorgfältige, termingerechte und qualitativ super Arbeit! Wir sind begeistert und empfehlen Eckert Parkett sehr gerne weiter!",
+        "time": 1753198517,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Isabell N.",
+        "author_photo": "/images/reviews/eckert-parkett-schlatt/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Verleger, gute Beratung. Herr Eckert arbeitet absolut zuverlässig, sauber und höchst professionell. Sehr freundlicher Kontakt. Preis Leistung ist top, gerne wieder.",
+        "time": 1710020214,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Krieger Alexander",
+        "author_photo": "/images/reviews/eckert-parkett-schlatt/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Eckert hat unsere Haustreppen, Parkettboden, Sockelleisen renoviert bzw.verlegt.\nEr arbeitet sehr akkurat und sauber. :)\nWir waren sehr zufrieden mit seiner Leistung.\n100% Weiterempfehlung",
+        "time": 1674334127,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Kirill P.",
+        "author_photo": "/images/reviews/eckert-parkett-schlatt/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Beratung war sehr detailliert und ein Angebot ging schnell mit einem hervorragenden Preis-Leistungs-Verhältnis. Herr Eckert war sehr kompetent und überzeugte uns. Kann ich nur weiterempfehlen!",
+        "time": 1674317060,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

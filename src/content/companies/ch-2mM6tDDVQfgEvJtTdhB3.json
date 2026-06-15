@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq9EKdzqAmkcRDuOkFvGdxAs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Marc Wehrli",
+        "author_photo": "/images/reviews/reichle-elektro-ag-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei unserer Grossbaustelle TOP arbeit geleistet DANKE für alles!",
+        "time": 1766514405,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Roland Hurtig",
+        "author_photo": "/images/reviews/reichle-elektro-ag-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kleiner übersichtlicher Laden mit allem was es braucht.Mit vielen regionalen guten Prudukten.Freundliches Personal.Lange Öffnungszeiten",
+        "time": 1625130794,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Patrick Fischer",
+        "author_photo": "/images/reviews/reichle-elektro-ag-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service. Da arbeiten freundliche und kompetente Leute.",
+        "time": 1660238510,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Pasupathy Dharmarajah",
+        "author_photo": "/images/reviews/reichle-elektro-ag-schaffhausen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "ich will etwas machen und bekomme teuer nicht nette leute",
+        "time": 1595532562,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alfonso Monturano",
+        "author_photo": "/images/reviews/reichle-elektro-ag-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr hilfreich",
+        "time": 1780307792,
+        "relative_time_description": "vor einer Woche"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJI4SMA30vm0cRsq3BMWffwBc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:30–19:00 Uhr",
+    "Dienstag: 06:30–19:00 Uhr",
+    "Mittwoch: 06:30–19:00 Uhr",
+    "Donnerstag: 06:30–19:00 Uhr",
+    "Freitag: 06:30–19:00 Uhr",
+    "Samstag: 06:30–19:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Chris Bowles",
+        "author_photo": "/images/reviews/walt-bau-gmbh-wildhaus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sind mit der Arbeit von Nils und seinem Team sehr zufrieden. Sie haben sehr proaktiv informiert, pragmatische Lösungen gefunden und sauber gearbeitet.\nDas 60 jährige Dach unseres Ferienhauses ist nun endlich isoliert und mit einem schönen Aluminium-Dach gedeckt.\nWir können Nils und sein Team wärmsten weiter empfehlen.",
+        "time": 1764952658,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Andreas Ziener",
+        "author_photo": "/images/reviews/walt-bau-gmbh-wildhaus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Gute Arbeit und zur Freude des Bauherrn direkt im Anschluss an die Betonarbeiten die Flachdachabdichtung angefangen und komplett fertig gemacht. So macht Bauen Spass!",
+        "time": 1760907076,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Thomas Egli",
+        "author_photo": "/images/reviews/walt-bau-gmbh-wildhaus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1771511705,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Vivienne Forrer",
+        "author_photo": "/images/reviews/walt-bau-gmbh-wildhaus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1762442998,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Marco Bollhalder",
+        "author_photo": "/images/reviews/walt-bau-gmbh-wildhaus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1760799160,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

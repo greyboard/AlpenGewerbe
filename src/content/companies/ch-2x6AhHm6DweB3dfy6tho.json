@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJmYNQiyBPhUcRF5zJvy4j3Yg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: Geschlossen",
+    "Dienstag: 13:30–18:00 Uhr",
+    "Mittwoch: 13:30–18:00 Uhr",
+    "Donnerstag: 13:30–18:00 Uhr",
+    "Freitag: 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Simon Inderbitzin",
+        "author_photo": "/images/reviews/atelier-ceramo-gmbh-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super Leute gerne wieder. Am besten geht mal vorbei und seht selbst Ihr werdet begeistert sein.",
+        "time": 1582759990,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Philökolog",
+        "author_photo": "/images/reviews/atelier-ceramo-gmbh-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sympathische, kompetente und engagierte Beratung. Lösungen und kreative Ideen rund um Boden- und Wandverkleidung.",
+        "time": 1531497441,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Christian Annen",
+        "author_photo": "/images/reviews/atelier-ceramo-gmbh-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und fachkundige Beratung.",
+        "time": 1599162573,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Elisabeth Hager",
+        "author_photo": "/images/reviews/atelier-ceramo-gmbh-ibach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Gute , kometente , freundliche Beratung",
+        "time": 1567240873,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Alex Hensler",
+        "author_photo": "/images/reviews/atelier-ceramo-gmbh-ibach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1635316029,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

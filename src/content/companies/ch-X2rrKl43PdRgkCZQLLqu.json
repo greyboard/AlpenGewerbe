@@ -1,7 +1,7 @@
 {
   "id": "ch-X2rrKl43PdRgkCZQLLqu",
   "slug": "maerki-sa-locarno",
-  "name": "Märki SA",
+  "name": "Märki Sa",
   "branchen": [
     "sanitaer"
   ],
@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJrwxSIzPIhUcRxP-zewTK8hs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Walter H",
+        "author_photo": "/images/reviews/maerki-sa-locarno/reviewer_1.jpg",
+        "rating": 5,
+        "text": "In unserer Ferienwohnung klemmt der Heizungshahn.\nEin Anruf bei der Firma Märki und eine halbe Stunde später war ein Mitarbeiter vor Ort.\nSuper Dienstleistung, super Firma.\nGerne wieder.\nBesten Dank.",
+        "time": 1761302291,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "IKOS Management",
+        "author_photo": "/images/reviews/maerki-sa-locarno/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mehrere Aufträge wurden mit hohe Kompetenz\nausgeführt, die Planung sowie Ausführung wird ohne unterbrecher durchgezogen\n\nAbsolut zu empfehlen\n\nFreundliche Grüße\n\nIKOS Management AG",
+        "time": 1592948642,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Bruno Bertschi",
+        "author_photo": "/images/reviews/maerki-sa-locarno/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Gut und professionell",
+        "time": 1696584215,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pietro Meschio",
+        "author_photo": "/images/reviews/maerki-sa-locarno/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich empfehle den sehr guten technischen Support.",
+        "time": 1554044099,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "myriam d'amico",
+        "author_photo": "/images/reviews/maerki-sa-locarno/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643667529,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2cEzyuE4jkcRy--7ciyONOc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Guerino Guerino",
+        "author_photo": "/images/reviews/koenig-haustechnik-und-service-ag-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolles Team und super Atmosphäre!\nIch bin wirklich beeindruckt vom Umgang bei König Haustechnik. Die Mitarbeiter sind durchweg freundlich, bodenständig und begegnen einem auf Augenhöhe.\n\nMan merkt sofort, dass das Betriebsklima stimmt die Kommunikation ist unkompliziert, ehrlich und immer sehr angenehm. Ein Team, bei dem man sich als Mensch einfach gut aufgehoben fühlt. Absolut empfehlenswert allein wegen der sympathischen Art!",
+        "time": 1771831390,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Albertin Werner",
+        "author_photo": "/images/reviews/koenig-haustechnik-und-service-ag-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma König Haustechnik ist \"königlich\" Wir mussten unsere Gasheizung ersetzen. Vom Preis und der Leistung von diversen Offerten, haben wir uns für die Firma König entschieden. Die Projektleitung (Markus Hofer) und die Ausführung der Mitarbeiter war professionell, freundlich und fachkompetent! Es wurde sauber gearbeitet und bei offenen Fragen wurde uns immer alles erklärt.\nTop Firma und Danke für Ihren Einsatz!",
+        "time": 1748360023,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Urs Grüter",
+        "author_photo": "/images/reviews/koenig-haustechnik-und-service-ag-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "König Haustechnik AG ist einer unserer top Grünbeck- Partner die Ihr Handwerk verstehen und ein verlässlicher Partner für Vertrieb, Montage, Inbetriebnahme und Service an unseren Grünbeck- Produkten!\nWir freuen uns über weiterhin tolle Zusammenarbeit!",
+        "time": 1753773562,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Fabienne Aebi",
+        "author_photo": "/images/reviews/koenig-haustechnik-und-service-ag-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir waren mit den Dienstleistungen (jährlicher Brennerservice, Tankrevision und Störungsbehebungen) der König Haustechnik und Service AG immer sehr zufrieden. Die Mitarbeiter sind hilfsbereit, freundlich, fachkompetent und sehr kundenorientiert. Danke für Ihren Einsatz.",
+        "time": 1746171061,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Dave Mürner",
+        "author_photo": "/images/reviews/koenig-haustechnik-und-service-ag-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die König Haustechnik und Service AG - mit Markus Hofer als Projektleiter - hat unsere zweijährige Heizungsanlage nach einigen Herausforderungen während der Erstinstallation des Vorgängers, mit Bravour aufgerüstet und soweit erneuert, dass wir nun als 6-köpfige Familie durchwegs ein warmes Haus und warmes Duschwasser haben. Danke herzlich - auch allen Monteuren!",
+        "time": 1732721722,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

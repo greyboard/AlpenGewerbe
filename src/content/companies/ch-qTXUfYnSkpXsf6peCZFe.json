@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJOVHpO7x_kEcRhBPzTB_qYAg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 33,
+    "reviews": [
+      {
+        "author_name": "Nadine Sigrist",
+        "author_photo": "/images/reviews/bollinger-bauspenglerei-san-anlagen-ag-sanitaer-spengler-solar-dachdecker-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben durchwegs sehr gute Erfahrungen gemacht. Wann immer etwas erledigt werden muss, erhält man rasch und unkompliziert Unterstützung. Die Mitarbeitenden sind stets freundlich, kompetent und lösungsorientiert. Vielen Dank für den zuverlässigen Service – so wünscht man sich eine Zusammenarbeit. Nadine Sigrist, Löhningen",
+        "time": 1771486275,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Hans Rudolf Widmer",
+        "author_photo": "/images/reviews/bollinger-bauspenglerei-san-anlagen-ag-sanitaer-spengler-solar-dachdecker-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Leider musste das Geberit Aquaclean nach unerwartet eher kurzer Lebensdauer (keine Ersatzteile) viel zu früh ersetzt werden. Die Beratung war professionell, der Servicemonteuer war kompetent und sehr freundlich.",
+        "time": 1751483734,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Ardita Galetti",
+        "author_photo": "/images/reviews/bollinger-bauspenglerei-san-anlagen-ag-sanitaer-spengler-solar-dachdecker-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Coole Truppe die auch unter schweren Bedingungen die Arbeit erledigt haben und stets freundlich geblieben sind.",
+        "time": 1734790782,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Bdkxvdie Vdixvdid",
+        "author_photo": "/images/reviews/bollinger-bauspenglerei-san-anlagen-ag-sanitaer-spengler-solar-dachdecker-schaffhausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Beste Firma schütz mit ihren Autos vor Blitzern. Mitarbeiter des Monats. 💪",
+        "time": 1760774654,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "F. Forster",
+        "author_photo": "/images/reviews/bollinger-bauspenglerei-san-anlagen-ag-sanitaer-spengler-solar-dachdecker-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Bei der Bollinger GmbH bin ich immer wieder beeindruckt von ihrem herausragenden Service. Die Mitarbeiter von Bollinger GmbH gehen stets über das Normale hinaus, um sicherzustellen, dass unsere Anliegen schnell und effizient bearbeitet werden. Eine uneingeschränkte Weiterempfehlung!",
+        "time": 1710857630,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

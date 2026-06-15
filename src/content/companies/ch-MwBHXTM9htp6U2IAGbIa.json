@@ -26,5 +26,39 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJIaQT7i_fmkcRT__FJvk1Rts",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Josip Lovrić",
+        "author_photo": "/images/reviews/beat-paul-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1749206212,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Stefan Gyseler",
+        "author_photo": "/images/reviews/beat-paul-herisau/reviewer_2.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1686853381,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

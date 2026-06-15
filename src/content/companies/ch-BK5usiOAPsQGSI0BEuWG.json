@@ -26,5 +26,63 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ70-WZi-4kUcR12r1t5km4is",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Patrick Cattelan (Catty)",
+        "author_photo": "/images/reviews/aeschlimann-bedachungen-gmbh-basel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Kompetent und zuverlässig.\nAufgeschlossen, freundlich und zuvorkommend.",
+        "time": 1541067613,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Noel",
+        "author_photo": "/images/reviews/aeschlimann-bedachungen-gmbh-basel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Unprofessionell.",
+        "time": 1704310063,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alexander Müller",
+        "author_photo": "/images/reviews/aeschlimann-bedachungen-gmbh-basel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1666732899,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nicole Rüegger",
+        "author_photo": "/images/reviews/aeschlimann-bedachungen-gmbh-basel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1643746631,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "HALIL KUL XALLO",
+        "author_photo": "/images/reviews/aeschlimann-bedachungen-gmbh-basel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1698752850,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

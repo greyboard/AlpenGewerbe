@@ -1,7 +1,7 @@
 {
   "id": "ch-o7R0tANi5P6CgbKiBShI",
   "slug": "entreprise-gil-yanez-sa-geneve-parquet-nettoyage-geneve",
-  "name": "Entreprise Gil Yanez SA Genève - Parquet & Nettoyage",
+  "name": "Entreprise de nettoyage Gil Yanez",
   "branchen": [
     "bodenleger"
   ],
@@ -26,5 +26,55 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJEauw5c9kjEcRxgsWa1EhG68",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–16:00 Uhr",
+    "Dienstag: 08:00–16:00 Uhr",
+    "Mittwoch: 08:00–16:00 Uhr",
+    "Donnerstag: 08:00–16:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Steuermann B Anne",
+        "author_photo": "/images/reviews/entreprise-gil-yanez-sa-geneve-parquet-nettoyage-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Schnell und effizient. Hervorragende Beratung bei der Auswahl des richtigen Bodenbelags für ein schönes Ergebnis.\n\nSehr empfehlenswert.",
+        "time": 1758901311,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Raphaël Pinto",
+        "author_photo": "/images/reviews/entreprise-gil-yanez-sa-geneve-parquet-nettoyage-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter Service, absolut empfehlenswert!",
+        "time": 1756128798,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "David Braha",
+        "author_photo": "/images/reviews/entreprise-gil-yanez-sa-geneve-parquet-nettoyage-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Toll",
+        "time": 1764972642,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Laurent Pegaitaz",
+        "author_photo": "/images/reviews/entreprise-gil-yanez-sa-geneve-parquet-nettoyage-geneve/reviewer_4.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1449876585,
+        "relative_time_description": "vor 10 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

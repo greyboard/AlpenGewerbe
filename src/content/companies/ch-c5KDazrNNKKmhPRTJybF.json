@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJt4uBoNw9kEcRiKjj5EcjM2I",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Benjamin Keller",
+        "author_photo": "/images/reviews/fremet-ag-hunzenschwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe für einen Terassenumbau als Neukunde ein Geländer bei Fremet bestellt. Ich bin von der Offertstellung über die Ausführung bis zur Abrechnung vollends zufrieden.\nÜbersichtliche, detaillierte Offerte mit Skizze und Beispielfotos, seriöse Massaufnahme und Konstruktion, tadelloses Produkt, freundliche und sauber arbeitende Monteure.\nIch fühlte mich als interessierter Laie mit meinen Fragen und Vorschlägen immer ernst genommen und respektiert.\nGrosses Lob an das ganze Team! Es ist immer eine Freude, mit Profis zu arbeiten.",
+        "time": 1719310926,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Carmen K.",
+        "author_photo": "/images/reviews/fremet-ag-hunzenschwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "während unseres Neubaus haben wir nur positive Erfahrungen gemacht. Zuverlässiger Service, Arbeit zu guter Qualität und vor Ort  immer sehr freundliche Mitarbeitende. Zudem ein offenes Ohr für individuelle Ideen wie die Sonderanfertigung eines beleuchteten Handlaufs und eine für uns perfekte Umsetzung.",
+        "time": 1706953390,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Jan Kutschera",
+        "author_photo": "/images/reviews/fremet-ag-hunzenschwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Social Media Auftritt!",
+        "time": 1640868222,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Luzius",
+        "author_photo": "/images/reviews/fremet-ag-hunzenschwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "bester metallbauer",
+        "time": 1510571878,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Serge Spenlé",
+        "author_photo": "/images/reviews/fremet-ag-hunzenschwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1676900519,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

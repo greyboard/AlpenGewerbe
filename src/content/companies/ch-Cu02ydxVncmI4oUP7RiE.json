@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJz7RZnaIAkEcRgG7_XSOy6qA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 28,
+    "reviews": [
+      {
+        "author_name": "Hasan Kalender",
+        "author_photo": "/images/reviews/glaserei-felber-gmbh-baar/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hervorragender Service – absolute Empfehlung!\nNotfallmässig musste ich eine Fensterscheibe ersetzen lassen und wandte mich an die Glaserei Felber GmbH in Baar. Was ich dort erleben durfte, hat meine Erwartungen bei weitem übertroffen!\nTrotz der kurzfristigen Situation wurde die Arbeit umgehend und höchst professionell ausgeführt – das ist keineswegs selbstverständlich. Die ganze Abwicklung war geprägt von grosser Kundenfreundlichkeit, Kompetenz und Effizienz.\nEin grosses Kompliment an die Geschäftsführung und das gesamte Team – hier wird echte Dienstleistungsqualität gelebt!\nIch kann die Glaserei Felber GmbH mit bestem Gewissen wärmstens weiterempfehlen.\nHasan Kalender",
+        "time": 1757093808,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Franz-Xaver Herger",
+        "author_photo": "/images/reviews/glaserei-felber-gmbh-baar/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir liessen bei der Firma Felber die Küchenrückwand herstellen, mit Hintergrundbild, beleuchtet und mit Dimmer bedienbar. Wir sind sehr zufrieden mit der Arbeit, der Kommunikation und der Fertigstellung. Herr Tomislav Barac hat uns auf kompetente Art beraten und informiert, alles stimmig ausgemessen, sodass die rel. grosse Glaswand (200 cm x 75 cm) problemlos eingebaut werden konnte. Wir sind sehr zufrieden und werden diese Firma gerne weiterempfehlen.",
+        "time": 1737615334,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Urs Preisig",
+        "author_photo": "/images/reviews/glaserei-felber-gmbh-baar/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir haben in der Wohnung eine rund 170 x 230 cm Glasschiebetüre einbauen lassen. Die Abwicklung und Ausführung war sehr professionel und gut. Ebenfalls perfekt war die vorgängige Objektberatung und die rasche Umsetzung des ganzen Projektes. Kann nur empfohlen werden...",
+        "time": 1646380981,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Paul Hug",
+        "author_photo": "/images/reviews/glaserei-felber-gmbh-baar/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir sind zu 100% zufrieden mit unserer Cover Balkonverglasung. Einfachste Bedienung, unauffällig. Perfekt montiert. Alles bestens.",
+        "time": 1656940874,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Ralf Leschke",
+        "author_photo": "/images/reviews/glaserei-felber-gmbh-baar/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Nochmals ganz herzlichen Dank. Von der Offerte bis zur Ausführung, eine absolute PERFEKTE Arbeit. Super Monteure!!!",
+        "time": 1722885988,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

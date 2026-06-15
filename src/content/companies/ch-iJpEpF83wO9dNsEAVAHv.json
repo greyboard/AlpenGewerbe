@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJpdxL3dlDhUcR2RCJVFW9JqQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "fabian mayer",
+        "author_photo": "/images/reviews/maler-roli-altdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Super freundlich, gute Ideen, schnelle Umsetzung, Preis-Leistung top!",
+        "time": 1737548252,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Besa Aschwanden",
+        "author_photo": "/images/reviews/maler-roli-altdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einfach super😍 Mega Preisleistungsverhältnis  ... QUALITÄT DIE WIRKLICH SICHTBAR BLEIBT.   TOP👍",
+        "time": 1554400483,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Roger Huber",
+        "author_photo": "/images/reviews/maler-roli-altdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Qualität die sichtbar bleibt",
+        "time": 1498421350,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Roger Huber",
+        "author_photo": "/images/reviews/maler-roli-altdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1664120503,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Nick Kempf",
+        "author_photo": "/images/reviews/maler-roli-altdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1568109314,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJcxJXf4z3j0cR7fyP0LcjcnQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Rast Sandro",
+        "author_photo": "/images/reviews/bircher-sanitaere-anlagen-ag-ennetbuergen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unseren Badumbau mit Bircher Sanitär umgesetzt. Die Termine wurden proaktiv avisiert und das Ergebnis gefällt. Ebenfalls war die Beratung zielorientiert, ehrlich und auf unsere Bedürfnisse abgestimmt.",
+        "time": 1767993696,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Flavio Eicher",
+        "author_photo": "/images/reviews/bircher-sanitaere-anlagen-ag-ennetbuergen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vorbildliche Planung und Ausführung der Arbeiten beim Umbau unserer Nasszellen. Von der Planung, Beratung bis zur Umsetzung fachlich kompetent und qualitativ einwandfrei umgesetzt. Freundliche und fachlich erfahrene Mitarbeiter. Vor allem die Bauleitung durch Herrn Toni Odermatt wurde vollends zu unserer Zufriedenheit wahrgenommen. Kann die Firma Bircher Sanitäre Anlagen AG bestens empfehlen.",
+        "time": 1600276606,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Matthias Stalder",
+        "author_photo": "/images/reviews/bircher-sanitaere-anlagen-ag-ennetbuergen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr Professionelles Unternehmen. Nimmt sich Zeit für die genaue Planung und handelt bei Problemen sehr rasch. Haben 3 Bäder komplett umbauen lassen und sind sehr zufrieden. Würde Bircher Sanitäre Anlagen und besonders auch Herr Odermatt so wie das ganze Team jedem enpfehlen.\nBesten Dank.",
+        "time": 1610786118,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Werner Biner",
+        "author_photo": "/images/reviews/bircher-sanitaere-anlagen-ag-ennetbuergen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Sanitäre Bircher AG hat einen zuvorkommenden und unkomlizierten Kundenservice sowie kompetente und sehr motivierte Mitarbeitende. Ich kann die Firma bestens weiterempfehlen.",
+        "time": 1696948832,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Christen",
+        "author_photo": "/images/reviews/bircher-sanitaere-anlagen-ag-ennetbuergen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Professionell, sehr freundlicher und angenehmer Kontakt, hohe Fachkompetenz, saubere und einwandfreie Arbeit - gerne wieder! :-)",
+        "time": 1661715345,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

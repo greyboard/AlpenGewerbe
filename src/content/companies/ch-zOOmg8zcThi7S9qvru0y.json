@@ -26,5 +26,47 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJy0d153whm0cRsSRci5bzbKc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Evelyne H.",
+        "author_photo": "/images/reviews/gassner-garten-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr persönliche Beratung mit super Ideen. Wunderschöne Visualisierung. Top Ausführung. Wir haben unseren Traumgarten erhalten.",
+        "time": 1705005496,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "fuecu 79",
+        "author_photo": "/images/reviews/gassner-garten-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1641843793,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "gaby gassner",
+        "author_photo": "/images/reviews/gassner-garten-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1626996307,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

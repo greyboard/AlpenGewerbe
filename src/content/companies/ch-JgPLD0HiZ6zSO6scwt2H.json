@@ -26,5 +26,39 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJj2wgdGCmhEcRH7u601RKp9Q",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Katrin Berger",
+        "author_photo": "/images/reviews/pitschen-schreinerei-davos/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Zuverlässige unkomplizierte Zusammenarbeit, mit einem besonderen Gespür für den Kunden und Kreativität bis ins kleinste Detail.\nIch kann die Pitschen Schreinerei nur weiterempfehlen und ein Blick in ihre Homepage lohnt sich sehr.\nVielen Dank für die schöne Zusammenarbeit.",
+        "time": 1637669998,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Christian Giddey",
+        "author_photo": "/images/reviews/pitschen-schreinerei-davos/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1733338756,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

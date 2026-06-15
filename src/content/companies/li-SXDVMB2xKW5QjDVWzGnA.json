@@ -25,5 +25,38 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJqXmVoQ07m0cR49hg4ACnh3A",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Jan Keller",
+        "author_photo": "/images/reviews/platta-heeb-anstalt-ruggell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Saubere Arbeit und freundliche Crew. Vielen Dank!",
+        "time": 1706171934,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Heeb",
+        "author_photo": "/images/reviews/platta-heeb-anstalt-ruggell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Zuverlässige Pünktlichkeit Genauigkeit",
+        "time": 1779734017,
+        "relative_time_description": "vor 2 Wochen"
+      },
+      {
+        "author_name": "Nicole Kaiser",
+        "author_photo": "/images/reviews/platta-heeb-anstalt-ruggell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1689432369,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8TFBAr_yj0cRmg9FD2Wizu8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "René Hug",
+        "author_photo": "/images/reviews/karl-rohrer-ag-sachseln/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben nun den zweiten Auftrag von Türen und Fenster bei der Karl Rohr AG machen lassen und es war einfach tadellos. Die Qualität stimmt, die Ausführung reibungslos und zeitgenau abgeschlossen, einfach super, danke!\nBei nächsten Aufträgen nur Karl Rohr AG Sachseln.",
+        "time": 1762531763,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Monika Flury",
+        "author_photo": "/images/reviews/karl-rohrer-ag-sachseln/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma Karl Rohrer AG hat uns bei unserer Küchen-Komplettsanierung sowie den diversen damit zusammenhängenden Renovationen sehr kompetent beraten und alle Termine koordiniert. Das aufgestellte Team hat jahrelange Erfahrung und arbeitet sehr sauber und kompetent.",
+        "time": 1728578055,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jonas Raess",
+        "author_photo": "/images/reviews/karl-rohrer-ag-sachseln/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich bin super zufrieden mit den Schreinerarbeiten, von Anfang bis Ende war die Zusammenarbeit sehr kundenorientiert und angenehm. Ausführung auch top!",
+        "time": 1761129423,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Guido Parpan",
+        "author_photo": "/images/reviews/karl-rohrer-ag-sachseln/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Stefan Wigger hat uns in der Fenstersanierung im Ferienhaus Krienseregg hervorragend beraten und sein Montageteam alle Arbeiten professionell umgesetzt. Herzlichen Dank an die Karl Rohrer AG!",
+        "time": 1737370903,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Sandra Eberli",
+        "author_photo": "/images/reviews/karl-rohrer-ag-sachseln/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super tolle Arbeit. Sehr freundliche Mitarbeiter. Die Fenster wurden super schön ausgetauscht, immer gerne wieder",
+        "time": 1778781042,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

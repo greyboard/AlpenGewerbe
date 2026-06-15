@@ -26,5 +26,47 @@
     "Dachdämmung",
     "Photovoltaik-Montage",
     "Dachrinnenreinigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq6omqHAfm0cRKjFRmOJTND0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Carine Städler",
+        "author_photo": "/images/reviews/zuest-bedachungen-ag-niederteufen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein Unternehmen das mit sehr viel Herzblut arbeitet. SCHNELL, SAUBER, ZUVERLÄSSIG  und natürlich äusserst FREUNDLICH\nMarcel Züst (Inhaber der Firma) ist sehr kompetent.\nVielen lieben DANK für die Überraschung soeben.\nDer Präsentkorb war eine riesen Überraschung.\nDiese Firma ist SEHR EMPFEHLENSWERT",
+        "time": 1607611391,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniel Frischknecht",
+        "author_photo": "/images/reviews/zuest-bedachungen-ag-niederteufen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1600524557,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Ralph Schiess",
+        "author_photo": "/images/reviews/zuest-bedachungen-ag-niederteufen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1563984062,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

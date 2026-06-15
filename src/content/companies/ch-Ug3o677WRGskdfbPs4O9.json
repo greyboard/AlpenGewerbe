@@ -26,5 +26,30 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJwVG8Gw33j0cRJek6rC0nPVc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Joel Bayard",
+        "author_photo": "/images/reviews/spenglerei-sepp-odermatt-ag-stans/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1658416266,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Roberto Vecchia",
+        "author_photo": "/images/reviews/spenglerei-sepp-odermatt-ag-stans/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1566907090,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

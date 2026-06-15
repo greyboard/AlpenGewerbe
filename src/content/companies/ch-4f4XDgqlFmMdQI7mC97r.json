@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJSSUpJLm3kUcRAhQQBAYLt68",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:30–16:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:30–15:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Daniele Fuoco (Garage FUOCO)",
+        "author_photo": "/images/reviews/jakob-gutknecht-ag-muttenz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Gutknecht-Team beeindruckte mich durchweg mit professioneller Planung und engagierter Unterstützung bei der Ideensuche. Die Umsetzung erfolgte präzise und termingerecht, wodurch meine Erwartungen übertroffen wurden. Empfehlenswert für qualitativ hochwertige Metallbauarbeiten.",
+        "time": 1708192416,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Markus Burger-Vénuat",
+        "author_photo": "/images/reviews/jakob-gutknecht-ag-muttenz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mir hänn vor viele Joohre e Rampe lo mache loh vo dere Firma.\nDenn mir hänn sehr vieli, älteri Gescht, wo nümme sehr guet z'Fuess sin, oder wo mit em Rollator oder mit em Rollschtuhl wänn zu uns cho. Die Rampe isch e super Sach. Jede Daag hänn mmir Komplimänt vo unserne Gescht. Das wird so gschetzt. Und alles isch immer no wie neu. Eifach Perfekt! E Riesekomplimänt andie Firma, wo uns sinerzyt in chürzischter Frischt die Rampe vor em Igang inschtalliert hett. Mit beschte Empfehlige vom Restaurant Bohrerhof in Allschwil",
+        "time": 1724420792,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Walter Grossmann",
+        "author_photo": "/images/reviews/jakob-gutknecht-ag-muttenz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Geht auch für einen kleinen Auftrag auf den Kunden ein. Vertrauenswürdige, kompetente Beratung.\nPräzise, saubere Fertigung in der Zeit.",
+        "time": 1779019221,
+        "relative_time_description": "vor 4 Wochen"
+      },
+      {
+        "author_name": "Julia Nussbaumer",
+        "author_photo": "/images/reviews/jakob-gutknecht-ag-muttenz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Abwicklung von A bis Z. Wir haben einen Handlauf für unsere Aussentreppe von Jakob Gutknecht AG herstellen und montieren lassen. Es war eine Empfehlung von unserem Nachbarn. Wir sind top zufrieden. Bei der Besichtigung für die Offertstellung bei uns zu Hause konnten wir alle unsere Fragen klären, die Offerte wurde dann auf unsere Wünsche zugeschnitten. Die Kommunikation rund um die Terminplanung war sehr unkompliziert. Der Handlauf wurde effizient und gut montiert. Wir sind sehr zufrieden und würden sofort wieder bestellen.",
+        "time": 1773235637,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Luca Suter",
+        "author_photo": "/images/reviews/jakob-gutknecht-ag-muttenz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1614632497,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

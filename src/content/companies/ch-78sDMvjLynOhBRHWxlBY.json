@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJfzVU2KD_j0cRaU3Wd8ft0cY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Dienstag: 09:00–17:30 Uhr",
+    "Mittwoch: 09:00–17:30 Uhr",
+    "Donnerstag: 09:00–17:30 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Bettina",
+        "author_photo": "/images/reviews/zimmermann-buesten-ibach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe bei Chantal fünf Hosen anpassen lassen und sie passen alle perfekt. Der Service war sehr freundlich und unkompliziert. Ich kann die Schneiderei nur weiterempfehlen. Jederzeit wieder!",
+        "time": 1748892919,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Lukas Dürr",
+        "author_photo": "/images/reviews/zimmermann-buesten-ibach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Schneiderei, mega freundlich! Komme sehr gerne wieder hierher. 10/10! Auch mega herzig eingerichtet.\nHaben Stand heute Montag bis Donnerstag geöffnet!",
+        "time": 1774882816,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Fabian",
+        "author_photo": "/images/reviews/zimmermann-buesten-ibach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1710512946,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

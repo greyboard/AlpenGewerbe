@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJq0Yx1y3TmkcR63Td6PFSPEQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:30 Uhr",
+    "Dienstag: 07:30–17:30 Uhr",
+    "Mittwoch: 07:30–17:30 Uhr",
+    "Donnerstag: 07:30–17:30 Uhr",
+    "Freitag: 07:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Reto Canepa",
+        "author_photo": "/images/reviews/maler-phoenix-glarus/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Uneingeschränkt empfehlenswert!\n\nDie Malergeschäft Phönix Fo GmbH in Näfels hat unser Haus komplett innen und aussen gestrichen, zusätzlich Tapezierarbeiten ausgeführt sowie sämtliche Gipserarbeiten verantwortet. Von der Planung bis zur Ausführung war alles durchgehend professionell und sauber umgesetzt.\n\nDie Arbeiten wurden termingerecht, sorgfältig und in sehr hoher Qualität ausgeführt – das Endergebnis ist absolut einwandfrei. Besonders positiv hervorzuheben ist, dass kleinere Korrekturen nach der ersten Heizperiode völlig unkompliziert und anstandslos ausgebessert wurden. Das zeugt von echtem Qualitätsbewusstsein und Verantwortung gegenüber dem Kunden.\n\nDas Preis-Leistungs-Verhältnis ist top. Der Geschäftsführer überzeugt durch seine sehr ruhige, angenehme und zuvorkommende Art, ist zuverlässig, lösungsorientiert und jederzeit ansprechbar.\n\nEin herzliches Dankeschön für die hervorragende Arbeit – jederzeit gerne wieder und wärmstens zu empfehlen!",
+        "time": 1770825444,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Swen Ottiger",
+        "author_photo": "/images/reviews/maler-phoenix-glarus/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Maler, gute Beratung. Viel fallt von Möglichkeiten und er ist sehr gut erreichbar. Gerade in der Region Glarnerland geniesst er einen guten Ruf, wie wir gerne feststellen durften. Können wir gerne auch als Immobilienverwaltung weiterempfehlen. Toll, dass es noch solche Unternehmen gibt.",
+        "time": 1762851097,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Batil Shamoun",
+        "author_photo": "/images/reviews/maler-phoenix-glarus/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein grosses Dankeschön an Firas für die hervorragende Reinigung des Holzbodens auf meinem Balkon. Die Arbeit war äusserst sorgfältig und professionell, der Balkon wirkt jetzt wirklich wie neu. Danke für diesen großartigen Einsatz 🙏🏻🙏🏻☺️",
+        "time": 1773485706,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Pommeranz Andre",
+        "author_photo": "/images/reviews/maler-phoenix-glarus/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir können jedem aus dem Glarnerland Ihn als Maler weiter empfehlen. Von der 1. Kontaktaufnahme bis hin zur Auftragsabwicklung verlief alles top. Gerne wieder.",
+        "time": 1762898635,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Seiecht Mitjenny",
+        "author_photo": "/images/reviews/maler-phoenix-glarus/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Herr Othman ist ein super professioneller Maler, er ist mit Herz und Niere dabei und das Ergebnis ist immer top. 👏🏻 weiter so.",
+        "time": 1719483863,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

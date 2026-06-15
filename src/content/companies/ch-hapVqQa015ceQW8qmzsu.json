@@ -1,7 +1,7 @@
 {
   "id": "ch-hapVqQa015ceQW8qmzsu",
   "slug": "fribourg-university-botanical-garden-fribourg",
-  "name": "Fribourg University Botanical Garden",
+  "name": "Botanischer Garten der Universität Freiburg",
   "branchen": [
     "gartenbau"
   ],
@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJCWymnytpjkcR2_qIdGFi7bc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: 08:00–18:00 Uhr",
+    "Sonntag: 08:00–18:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 637,
+    "reviews": [
+      {
+        "author_name": "Madeleine Gundlak",
+        "author_photo": "/images/reviews/fribourg-university-botanical-garden-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Botanische Garten ist ein besonderer Ort voller Vielfalt und Ruhe. Überall entdeckt man Pflanzen aus verschiedensten Regionen – von exotisch bis heimisch, jede mit ihrer eigenen Geschichte.\n\nDie Wege führen durch liebevoll angelegte Bereiche, mal sonnig, mal schattig, immer gut gepflegt. Man spürt sofort: Hier steckt Herz und Wissen drin.\n\nEs ist ein Ort zum Durchatmen, Staunen und einfach Sein. Still, grün, fast magisch – und definitiv einen Besuch wert.",
+        "time": 1754068875,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Sonja Bächler",
+        "author_photo": "/images/reviews/fribourg-university-botanical-garden-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Der botanische Garten ist ein Ausflug wert. Die Pflanzen sind alle sehr gut angeschrieben. Es war trotz schlechtem Wetter interessant.",
+        "time": 1755627956,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "haga tysja",
+        "author_photo": "/images/reviews/fribourg-university-botanical-garden-fribourg/reviewer_3.jpg",
+        "rating": 3,
+        "text": "Der Heilpflanzengarten ist recht klein, aber schön. Vor allem hat es hier sehr schöne 'Gelbe Enziane', die man so selten sieht. Auch hat es viele verschiedene Salbeiarten in Töpfen ausgestellt.\nDer Rest des Gartens fand ich weniger interessant und auch nicht ganz klar im Aufbau (abgesegen von der rein geometrisch angelegten Form). Aber alles ist gut gepflegt.\nZur Mittagszeit war der Park voller Studis.",
+        "time": 1720424692,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Peter Pan",
+        "author_photo": "/images/reviews/fribourg-university-botanical-garden-fribourg/reviewer_4.jpg",
+        "rating": 4,
+        "text": "Friedlicher Park in dem die meisten Pflanzen zweisprachig beschriftet sind. Wer Gräser und ihre lateinischen Namen lernen muss, findet hier ein grosses Spektrum.",
+        "time": 1671376393,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Turicum 17",
+        "author_photo": "/images/reviews/fribourg-university-botanical-garden-fribourg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Hat mir gut gefallen. Ich komme bestimmt im Frühjahr und Sommer nocheinmal.",
+        "time": 1546782966,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

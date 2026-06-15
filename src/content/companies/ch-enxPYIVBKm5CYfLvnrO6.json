@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3zVWpRi4kUcRooA1OjX6Y64",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "Uli Kitcatt",
+        "author_photo": "/images/reviews/seiler-metallbau-ag-muenchenstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Gute Beratung, sehr professionele Bearbeitung, speditiv und qualität.",
+        "time": 1597073650,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Mario Lombardi",
+        "author_photo": "/images/reviews/seiler-metallbau-ag-muenchenstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr kundenorientiert und freundlich.",
+        "time": 1581423732,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Andreas Gut",
+        "author_photo": "/images/reviews/seiler-metallbau-ag-muenchenstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tip tope Firma",
+        "time": 1600341312,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Francesco A.",
+        "author_photo": "/images/reviews/seiler-metallbau-ag-muenchenstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1618070234,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Peter Stalder",
+        "author_photo": "/images/reviews/seiler-metallbau-ag-muenchenstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1604318391,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

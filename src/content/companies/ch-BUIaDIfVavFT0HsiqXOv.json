@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJcaONbGdljEcRLq6RRtI5C3g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–20:00 Uhr",
+    "Dienstag: 07:30–20:00 Uhr",
+    "Mittwoch: 07:30–20:00 Uhr",
+    "Donnerstag: 07:30–20:00 Uhr",
+    "Freitag: 07:30–20:00 Uhr",
+    "Samstag: 09:00–19:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 32,
+    "reviews": [
+      {
+        "author_name": "Amel Bentata",
+        "author_photo": "/images/reviews/artizy-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Artizy ist ein junges, familiengeführtes Unternehmen, das mir bei der Renovierung meiner Wohnung geholfen hat. Die Zusammenarbeit war sehr angenehm; sie sind äußerst professionell, ehrlich und fleißig! Das Ergebnis ist fantastisch! Vielen Dank, Artizy, und ich freue mich schon auf die zukünftige Zusammenarbeit bei einem weiteren Projekt. Ich kann diese Firma uneingeschränkt weiterempfehlen!",
+        "time": 1735378504,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Cedric Ponnaz",
+        "author_photo": "/images/reviews/artizy-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe diese Firma für die Renovierung meiner Wohnung beauftragt, war mir aber sehr unsicher, welche Materialien verbaut werden sollten. Sie konnten mich beraten, Termine wurden eingehalten und die Arbeiten wurden so sauber und sorgfältig ausgeführt, dass ich sehr bald über eine neue Zusammenarbeit mit dieser Firma nachdenke. Ich kann diese qualifizierten Leute wärmstens empfehlen.",
+        "time": 1622711766,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "CLX Work",
+        "author_photo": "/images/reviews/artizy-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "So viel Effizienz habe ich selten erlebt! Wir waren etwas in Eile – die schnelle Reaktion von Artizy war die erste sehr angenehme Überraschung: Der Kostenvoranschlag kam innerhalb weniger Stunden. Das Preis-Leistungs-Verhältnis war hervorragend. Die Arbeiten umfassten verschiedene Gewerke (Streichen, Verlegen von Parkett, Lieferung bzw. Montage einer Revisionsklappe für das Heizungsventil, Reparatur von Fenstergriffen, Installation einer Türklingel usw.). Mit Artizy lief alles reibungslos, ohne Kompromisse bei der Qualität! Schnell, effizient und professionell. Vielen Dank!",
+        "time": 1605195917,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Fabienne",
+        "author_photo": "/images/reviews/artizy-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Dank Artizy konnte ich meine Renovierungsarbeiten abschließen! Florentin und sein gesamtes Team sind sehr effizient, professionell und geben hervorragende Ratschläge. Außerdem sind sie sehr freundlich! Ich bin ihnen sehr dankbar und werde sie definitiv für zukünftige Renovierungsprojekte wieder beauftragen.",
+        "time": 1679064410,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "JJ N",
+        "author_photo": "/images/reviews/artizy-geneve/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Das Unternehmen ist unprofessionell. Sie kamen, um das Projekt zu bewerten und versprachen, innerhalb weniger Tage ein Angebot zu schicken, verschwanden aber. Ich rief an und sie sagten, sie würden sich bei uns melden, taten es aber nie. Sie haben viel Zeit verschwendet. Meiden Sie sie.",
+        "time": 1700643899,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

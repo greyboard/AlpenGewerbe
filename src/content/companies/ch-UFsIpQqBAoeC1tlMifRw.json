@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJSSRZkXJ8g0cR3KaYBkPm_n8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Dorothea Hegner",
+        "author_photo": "/images/reviews/schumacher-ag-pontresina/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Auswahl. Phantastische fachliche Beratung. Aussergewöhnlich guter Kundenservice. Bestes Kundenerlebnis. Vielen Dank!",
+        "time": 1746037712,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "CY KU",
+        "author_photo": "/images/reviews/schumacher-ag-pontresina/reviewer_2.jpg",
+        "rating": 5,
+        "text": "100% empfehlenswert. Sehr gute und fachkundige Beratung.",
+        "time": 1749051215,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Raffaele Conidi",
+        "author_photo": "/images/reviews/schumacher-ag-pontresina/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlicher Chef und Chefin. Die Arbeiten werden sensationell & termingerecht erledigt. Kann ich nur weiterempfehlen!\nLiebe Grüsse Emil & Carina!!!",
+        "time": 1702579118,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gian Fadri Meng",
+        "author_photo": "/images/reviews/schumacher-ag-pontresina/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Arbeit geleistet!",
+        "time": 1658811631,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Sebastian Felinski",
+        "author_photo": "/images/reviews/schumacher-ag-pontresina/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Die Besten der Besten 💪💪💪",
+        "time": 1731915829,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

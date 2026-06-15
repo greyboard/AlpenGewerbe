@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJpQbsy2_7j0cRsKIAVlvIQLg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 70,
+    "reviews": [
+      {
+        "author_name": "Eda Ökdem",
+        "author_photo": "/images/reviews/heini-ag-luzern-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein wunderbarer Blumenladen! Mein Mann überrascht mich immer wieder mit außergewöhnlich schönen Blumen von hier, und sie bleiben unglaublich lange frisch. Die Qualität und der Service sind einfach erstklassig – absolut empfehlenswert!",
+        "time": 1743518249,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tizian Flückiger",
+        "author_photo": "/images/reviews/heini-ag-luzern-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Meine Frau und ich haben diesen Sommer unser Hochzeitsfest in der Heini AG gefeiert. Die Location ist extrem schön und wurde unkompliziert genau nach unseren Wünschen hergerichtet. Für uns war es zum organisieren sehr leicht, da Location, Küche, Getränke und Florist alles unter einem Dach ist. Der Kundenservice von der Organisation bis und mit dem gesammten Fest war super gut und immer sehr freundlich.\n\nJeder der ein Fest plant, sollte es sich überlegen das in der Heini AG zu machen. Wir können es nur empfehlen.",
+        "time": 1659281224,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Arian A",
+        "author_photo": "/images/reviews/heini-ag-luzern-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Am 1. September ist Tag der Schweizer Blumen und dieses Blumenhaus hat in Luzern verstreut wunderschön bepflanzte Gefäße aufgestellt mit einer netten Notiz. Unglaublich schöner Akt, der große Freude macht. Danke für diese tolle Tat!",
+        "time": 1725182148,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Adrian Wyss",
+        "author_photo": "/images/reviews/heini-ag-luzern-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Nicht nur Gärtnerei. Super Eventlokal.  Diplomfeier NDS dort durchgeführt.  Grandioses Ambiente.  Hervorragender Apero.  Tolle Bedienung und freundliches Personal.  Kann ich nur empfehlen. .",
+        "time": 1716151910,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gianni Supino",
+        "author_photo": "/images/reviews/heini-ag-luzern-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir hatten das Vergnügen, unser geschäftliches Jahresessen hier durchzuführen. Die Organisation verlief reibungslos und am Tag X hat alles geklappt. Leckeres Essen, guter Service, schön eingerichtet mit - natürlich erwartet 😉 - sehr schönen Blumen. Danke Heini AG!",
+        "time": 1739004326,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

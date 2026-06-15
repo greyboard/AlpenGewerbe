@@ -26,5 +26,39 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ8ZRuDOvhmkcREAc3kL_0sPU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:30–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Joel van Haaften",
+        "author_photo": "/images/reviews/meibau-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr genauer Handwerker! Geht auf Kundenwünsche ein und hat uns mit seinem fundierten Fachwissen professionell Beraten.\nPreis-Leistung Top! Jederzeit würden wir ihn wiedernehmen!\nNur weiterzuempfehlen!",
+        "time": 1734722157,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Timon Wanner",
+        "author_photo": "/images/reviews/meibau-herisau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Mit der Arbeit von Mathias bin ich sehr zufrieden! Präzise, zuverlässig und sauber – genau so stellt man sich einen guten Handwerker vor. Absolut empfehlenswert!",
+        "time": 1735472819,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

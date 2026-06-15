@@ -26,5 +26,30 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJYZJOEoz3j0cRRvumn0Dg2R4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Annemarie Odermatt",
+        "author_photo": "/images/reviews/wyrsch-bruno-ag-ennetbuergen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Tolle Firma,gute und zuverlässige Arbeit. Zu jeder Zeit empfehlungswert",
+        "time": 1625570777,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Bianca Wyrsch",
+        "author_photo": "/images/reviews/wyrsch-bruno-ag-ennetbuergen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1568125973,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

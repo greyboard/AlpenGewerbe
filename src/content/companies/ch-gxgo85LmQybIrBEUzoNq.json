@@ -26,5 +26,22 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJE_pE-ywYj0cRAVAHMGAKmsk",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Toni Tauer",
+        "author_photo": "/images/reviews/metry-holzbau-susten-susten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1761178374,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

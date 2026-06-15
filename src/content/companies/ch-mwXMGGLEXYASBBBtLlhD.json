@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJv9Hg5jzhmkcRp6O6G8eK3TA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Alexander Volck",
+        "author_photo": "/images/reviews/engeler-ag-glaswelt-andwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Vielen Dank für die gute Beratung und die hervorragende Arbeit an unseren alten Bleiglasfenstern! Wir sind sehr zufrieden und dankbar für den sympathischen Kontakt und die perfekte Ausführung. DANKE!!",
+        "time": 1620889088,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Raffael Schmid",
+        "author_photo": "/images/reviews/engeler-ag-glaswelt-andwil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Beste Adresse wenn es um rund um Glasbearbeitung, Kunstverglasungen, moderne Kunst und deren Beratung geht!!! Seit Jahrzehnten geniessen wir die überaus gute und professionelle Zusammenarbeit.",
+        "time": 1626277190,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Marcel Hartmeier",
+        "author_photo": "/images/reviews/engeler-ag-glaswelt-andwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gute Beratung und Zusammenarbeit. Die fertigen Glasfenster mit den Jugendstil Blumenornamenten übertreffen unsere Erwartungen bei weitem!",
+        "time": 1654337278,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Niclas Stoehr",
+        "author_photo": "/images/reviews/engeler-ag-glaswelt-andwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Engeler hat mich äusserst freundlich und informativ durch seine Ausstellung geführt.",
+        "time": 1747209167,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "B B",
+        "author_photo": "/images/reviews/engeler-ag-glaswelt-andwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service, top Produkte\nGerne wieder",
+        "time": 1696624015,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

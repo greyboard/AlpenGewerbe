@@ -26,5 +26,54 @@
     "Stuckreparatur",
     "Deckengestaltung",
     "Kellerabdichtung"
-  ]
+  ],
+  "googlePlaceId": "ChIJc-qw6QLHhUcR_VdlswMOGa4",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Feed Backer",
+        "author_photo": "/images/reviews/schlub-davide-brissago/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Die Firma Schlub Painter hat bei uns zu Hause hervorragende Arbeit zu einem sehr fairen Preis geleistet. Absolut empfehlenswert!",
+        "time": 1772733981,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "aldo gallo",
+        "author_photo": "/images/reviews/schlub-davide-brissago/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seriös und professionell",
+        "time": 1605256655,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Marianne Kürsteiner",
+        "author_photo": "/images/reviews/schlub-davide-brissago/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Super Service.. .",
+        "time": 1685940561,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Vincenzo Greco",
+        "author_photo": "/images/reviews/schlub-davide-brissago/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1692708692,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Davide Sala",
+        "author_photo": "/images/reviews/schlub-davide-brissago/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1690836266,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

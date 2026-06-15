@@ -26,5 +26,39 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJRcJE9upEhUcRpVavmo45ygw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "Martina Walker",
+        "author_photo": "/images/reviews/malergeschaeft-lemmel-gmbh-flueelen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Arbeiten sehr zuverlässig und sauber ausgeführt. Danke",
+        "time": 1635667467,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Klaus Beeler",
+        "author_photo": "/images/reviews/malergeschaeft-lemmel-gmbh-flueelen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1711206246,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

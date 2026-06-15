@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJszhdRh21kUcRMCxZqydyepQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Corinna Kläy",
+        "author_photo": "/images/reviews/h-s-glas-gmbh-fuellinsdorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr freundliche und top Beratung und speditive Ausführung……Ich kann ihn wärmstens weiterempfehlen, wenn sie gute Arbeit wollen👍👍👍\nHerzlichen Dank für die neue wunderschöne Glastischplatte🙏🏻",
+        "time": 1757488990,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Gabi Zambach",
+        "author_photo": "/images/reviews/h-s-glas-gmbh-fuellinsdorf/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die neue Küchenrückwand aus Glas von H&S Glas sieht super aus. Danke an Herrn Schär für die perfekte Montage und gute Beratung.",
+        "time": 1755534562,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Martin Schwab",
+        "author_photo": "/images/reviews/h-s-glas-gmbh-fuellinsdorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Herr Schär hat uns perfekt beraten und eine sehr schöne Duschtrennwand eingebaut. Preis -Leistung ist sehr gut und seine freundliche und zuverlässige Art können wir sehr empfehlen. Vielen Dank",
+        "time": 1761987797,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Maike Anderson",
+        "author_photo": "/images/reviews/h-s-glas-gmbh-fuellinsdorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma H&S Glas hat uns eine wunderschöne Küchenrückwand montiert. Wir waren mit allem sehr zufrieden.\nVon der Planung bis zur Ausführung war alles sehr professionell, präzise und schnell durchgeführt.\nWir können Herrn Lukas Schär von Herzen weiterempfehlen.",
+        "time": 1710267351,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Andreas Pfoster",
+        "author_photo": "/images/reviews/h-s-glas-gmbh-fuellinsdorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir sind sehr zufrieden und werden H&S Glas auch weiterempfehlen. Vielen Dank",
+        "time": 1753886737,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

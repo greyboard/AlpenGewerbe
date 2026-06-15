@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJO9Bz0PUem0cRbYdTHV31chU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 13:45–17:00 Uhr",
+    "Dienstag: 08:00–11:45 Uhr, 13:45–17:00 Uhr",
+    "Mittwoch: 08:00–11:45 Uhr, 13:45–17:00 Uhr",
+    "Donnerstag: 08:00–11:45 Uhr, 13:45–17:00 Uhr",
+    "Freitag: 08:00–11:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 21,
+    "reviews": [
+      {
+        "author_name": "Marc Konecnik",
+        "author_photo": "/images/reviews/elektro-morger-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Elektro-Morger hat im Rahmen eines Sanierungsprojektes die Elektroinstallation einer grösseren Halle geprüft und zugleich einen Fehler in der automatischen Beleuchtungssteuerung gefunden. Dieser wurde auch gleich behoben, sodass die Beleuchtung jetzt wieder mit maximaler Energieeffizienz läuft.\nDie Arbeiten wurden speditiv und mit grosser Sorgfalt erledigt.\nDie Dokumentation der Anlage wurde nachgeführt und stand mir wenige Tage später digital zur Verfügung.\n\nDie Rechnung war sogar etwas tiefer als die Offerte, Preis/Leistung ist somit sehr gut. Top!",
+        "time": 1771190924,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Luc Cúlliz",
+        "author_photo": "/images/reviews/elektro-morger-ag-st-gallen/reviewer_2.jpg",
+        "rating": 1,
+        "text": "War nicht zufriede. habe Morger bestellt für eine lampen montieren bei tochter. Lampe war in 5 min fertig doch in rechnung war halbe stunde arbeitsweg und 15 min arbeit mit stundenlohn von 120 fr/stunde . Das ist viel zu teuer um eine lampe mit zwei schraube befestigen. Werde nicht wieder diese firma bestellen ist nich zu empfehlen",
+        "time": 1770708108,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Kiran Agosti",
+        "author_photo": "/images/reviews/elektro-morger-ag-st-gallen/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Leider eine sehr enttäuschende Erfahrung. Der Elektriker war nur sehr kurz vor Ort und die tatsächliche Arbeitszeit war minimal. Trotzdem wurde uns ein voller Stundensatz berechnet, obwohl auf der Website oder in den Allgemeinen Geschäftsbedingungen kein Hinweis auf eine Mindestverrechnung zu finden war. Die Anfahrtszeit wurde zusätzlich separat berechnet. Insgesamt wirkt das Preis-Leistungs-Verhältnis völlig unverhältnismäßig und intransparent. Ich würde diesen Service in Zukunft nicht noch einmal in Anspruch nehmen.",
+        "time": 1744117229,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Michèle Inauen",
+        "author_photo": "/images/reviews/elektro-morger-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Perfekter Service. Mein Anliegen wurde schnell, sauber und profesionell erledigt. Sehr kompetentes, höfliches und hiilfsbeteite Fachpersonal. Kann ich nur empfelen. ⭐️⭐️⭐️⭐️⭐️⭐️",
+        "time": 1749126301,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Emma M.",
+        "author_photo": "/images/reviews/elektro-morger-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wer auf seiner Webseite ein Foto des Haustiers unter der Kategorie „Team“ zeigt, ist mir schon mal von Grund auf sympathisch. Und ich wurde nicht enttäuscht! Elektro Morger hat bei uns sechs Lampen (inkl. grosser Hängelampe) montiert – in nicht einmal einer halben Stunde! Der Fachmann und sein Lernender waren kompetent, zügig und äusserst freundlich und zuvorkommend. Sie fragten, ob sie eine Maske tragen sollen, obwohl die Coronamassnahmen längst aufgehoben waren. Top! Und das alles zu einem mehr als fairen Preis. Absolute Empfehlung!",
+        "time": 1653374525,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

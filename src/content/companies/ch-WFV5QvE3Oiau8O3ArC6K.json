@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJw5JXoYPgmkcR6egjMlmY5_U",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Thomas Bachmann",
+        "author_photo": "/images/reviews/waldburger-gartenbau-herisau/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Bei der Arbeit in Eggersriet beobachtete ich drei Angestellte der Firma Waldburger Gartenbau. Sie leistete superArbeit. Man merkte auch das die Teamarbeit stimmte. Eine Frage beantworten die sehr nett. Für solche Personen kann ein Unternehmen sehr dankbar sein. Auch die Kinder hatten Spass beim zusehen. Da kommt der Spruch Arbeiten ist schön ich könnte stundenlang zu sehen",
+        "time": 1741806200,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Markus Schönbächler",
+        "author_photo": "/images/reviews/waldburger-gartenbau-herisau/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Geschäftsleitung sollte Dringend an der Fahrpraxis der Mitarbeiter feilen!\nSo wie es scheint haben die neuen Pritschenwagen nur 3Gänge.\nInnerorts 55, Ausserorts 55, Super Werbung!",
+        "time": 1717166186,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "HUS",
+        "author_photo": "/images/reviews/waldburger-gartenbau-herisau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit, sehr zuvorkommende Kommunikation, gerne wieder.",
+        "time": 1768566909,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Sabrina Corazza",
+        "author_photo": "/images/reviews/waldburger-gartenbau-herisau/reviewer_4.jpg",
+        "rating": 1,
+        "text": "Sehr schlechte Erfahrung mit Waldburger. So sieht der sogennante \"Rasen\" aus, den Waldburger mir gepflanzt hat. Mehr Unkraut als sonst irgendwas.",
+        "time": 1623305286,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Hp W",
+        "author_photo": "/images/reviews/waldburger-gartenbau-herisau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wirklich schöne Gärten. Die Landschaftgärtner berstehen Ihren Beruf. Geht vorbei lasst Euch beraten.👍👍",
+        "time": 1626786098,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

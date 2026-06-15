@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJ48rBUEbqhEcRrQiMI5Fd7AA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 12,
+    "reviews": [
+      {
+        "author_name": "Ibrahima Kone",
+        "author_photo": "/images/reviews/j-rizzi-ag-cazis/reviewer_1.jpg",
+        "rating": 4,
+        "text": "Ich bing neue hier",
+        "time": 1657007579,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lacuna Garage",
+        "author_photo": "/images/reviews/j-rizzi-ag-cazis/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Firma und Team",
+        "time": 1654842356,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Carlos Manuel Gomes Dos Santos",
+        "author_photo": "/images/reviews/j-rizzi-ag-cazis/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top 👌",
+        "time": 1618140057,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Daniel Rusan",
+        "author_photo": "/images/reviews/j-rizzi-ag-cazis/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1663584595,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Lile Khazalia",
+        "author_photo": "/images/reviews/j-rizzi-ag-cazis/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1662127018,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

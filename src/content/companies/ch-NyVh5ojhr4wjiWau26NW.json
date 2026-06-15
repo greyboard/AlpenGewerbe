@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJcxOBS07ZkUcRUp0NhaU6QbM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: Geschlossen",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Laura Müller",
+        "author_photo": "/images/reviews/elektro-kamberi-grenchen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Alle Aufträge wurden zu unserer vollsten Zufriedenheit erledigt. Die Elektriker sind sehr freundlich und zuvorkommend. Es wird sehr effizient und professionell gearbeitet. Bei künftigen Problemen oder Projekten werden wir sicher wieder Elektro Kamberi anrufen. Vielen Dank für die tolle Arbeit!",
+        "time": 1710260935,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "B Asani",
+        "author_photo": "/images/reviews/elektro-kamberi-grenchen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich kann Elektro Kamberi nur wärmstens empfehlen! Der Service war von Anfang bis Ende hervorragend. Das Team ist äußerst professionell, freundlich und sehr kompetent. Sie haben alle meine Fragen geduldig beantwortet und mir geholfen, die besten Lösungen für meine Bedürfnisse zu finden.\n\nDie Installation unserer neuen Elektroanlage verlief reibungslos und wurde termingerecht abgeschlossen. Besonders beeindruckt hat mich die Sauberkeit und Sorgfalt, mit der die Mitarbeiter gearbeitet haben. Sie haben darauf geachtet, dass alles perfekt funktioniert und sind auch nach Abschluss der Arbeiten für Fragen und Unterstützung verfügbar gewesen.\n\nEin großes Lob an Elektro Kamberi für die erstklassige Arbeit und den tollen Kundenservice! Ich werde definitiv wieder auf sie zurückkommen und kann sie ohne Vorbehalt weiterempfehlen.\n\nBeste Grüsse\nAsani",
+        "time": 1719532078,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Arianit Krasniqi",
+        "author_photo": "/images/reviews/elektro-kamberi-grenchen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Exzellente Qualität und hervorragende Kompetenz!\nEin Mann der weiss, von was er spricht!\nVielen Dank für das Umrüsten der Telefonanlage.\nElektro Kamberi kann ich definitiv nur weiter empfehlen.\nTOP Adresse!!!",
+        "time": 1710342993,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dina Amira",
+        "author_photo": "/images/reviews/elektro-kamberi-grenchen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service!\nSchnell, kompetent, höflich, sauber und noch dazu ein super Preis-Leistungsverhältnis.\nWerden (bei Bedarf) bestimmt wieder Elektro Kamberi beauftragen!",
+        "time": 1646408492,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sarah Noemi",
+        "author_photo": "/images/reviews/elektro-kamberi-grenchen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Elektro Kamberi hat sich via Renovero mit einem Angebot auf eine Ausschreibung gemeldet und bereits wenige Tage später bei mir Zuhause eine Deckenlampe neu bzw. besser befestigt. Die Arbeit wurde perfekt und zu meiner vollsten Zufriedenheit ausgeführt.",
+        "time": 1649769257,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

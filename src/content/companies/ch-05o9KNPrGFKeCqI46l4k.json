@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJH4DNNcofm0cRa4DGi06yGt8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "Peter Brassel",
+        "author_photo": "/images/reviews/sanitaer-lago-gmbh-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Fünf Sterne erteile ich mit einem guten Gewissen an die Sanitär- Firma LaGo GmbH in St.Gallen. Die fachmännische  Arbeitsweise, wie sie Giorgio (Jorge) Laguardia an den Tag legte, kann nur gelobt werden. Kompetenz, Zuverlässigkeit und entsprechende Berufserfahrung von Herrn Laguardia konnte ich bei der Installation einer Duschtoilette wahrnehmen. Somit werde ich bei zukünftigen Sanitär- Problembehebungen und- oder Neuinstallationen sehr gerne die Firme LaGo Gmbh beauftragen.",
+        "time": 1768587490,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "The mai8 -",
+        "author_photo": "/images/reviews/sanitaer-lago-gmbh-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "saubere schnelle arbeit top.",
+        "time": 1736518112,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Fabio Rupper",
+        "author_photo": "/images/reviews/sanitaer-lago-gmbh-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "top firma und symphatisches personal!",
+        "time": 1652448990,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Ralph Eggenberger",
+        "author_photo": "/images/reviews/sanitaer-lago-gmbh-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Geschäft !!!!",
+        "time": 1758124210,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Brigitte Preisig",
+        "author_photo": "/images/reviews/sanitaer-lago-gmbh-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Service. Kompetentes und zuverlässig Team 🙌",
+        "time": 1777659344,
+        "relative_time_description": "vor einem Monat"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

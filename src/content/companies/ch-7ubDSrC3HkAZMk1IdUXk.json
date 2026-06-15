@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJQeFZD0B-laQRySz988DdIAQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Philipp Ettlin",
+        "author_photo": "/images/reviews/saniswiss-haustechnik-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich habe mein Badezimmer von der Saniswiss Haustechnik umbauen lassen.\n\nIch bin sehr zufrieden mit der Arbeit.\nHöflicher und zuvorkommender Service.\nSaubere und schnelle Arbeit, top Qualität mit Garantie.\nKann ich nur weiterempfehlen.\n\nVielen lieben Dank an Herr Kasami",
+        "time": 1710964976,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dominik",
+        "author_photo": "/images/reviews/saniswiss-haustechnik-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden! Der Handwerker war pünktlich, freundlich und hat professionelle, qualitativ hochwertige Arbeit geleistet. Das Badezimmer sieht jetzt top aus, und das alles zu einem fairen Preis. Kann ihn nur weiterempfehlen!",
+        "time": 1728997494,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Gini Fetija",
+        "author_photo": "/images/reviews/saniswiss-haustechnik-gmbh-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr Kompetent, ich bedanke mich an Ilir Kasami sowie den Bruder Ardit Kasami für den tollen Service! Dank euch hatten wir nur kurzzeitig einen Aussetzer im Office und meine Firma hat wieder frisches Wasser! Danke das wir euch so kurzfristig spät Abends rufen konnten!",
+        "time": 1726240160,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jasna Kamber",
+        "author_photo": "/images/reviews/saniswiss-haustechnik-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sie waren sehr schnell da und haben es super gemacht.\nIch würde sie auf jeden Fall weiterempfehlen.\nDankeschön",
+        "time": 1749831261,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hp Senn",
+        "author_photo": "/images/reviews/saniswiss-haustechnik-gmbh-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Vielen Dank! Wir könnten nach der Verletzung der Heisswasserleitung innert zwei Stunden die Hausversorgungsleitung wieder in Betrieb nehmen.",
+        "time": 1699008206,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -25,5 +25,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJJ9AjnzQwm0cR6CpwXj4-Wc0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "Jessica Mikulovic",
+        "author_photo": "/images/reviews/hsh-installationstechnik-ag-buchs/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hatten letzte Woche und heute einen Servicemitarbeiter der Firma bei uns.\nSehr kompetent nett und hilfsbereit.\nAuch wenn es etwas verspätung gibt es wird sofort bescheid gegeben was ich total super finde.\n\nDer Mitarbeiter ist so zuverlässig. Und hatte auch Geduld und Verständniss mit meinem Kleinkind. Ich bin sehr positiv überrascht gewesen über die Kommunikation des Mitarbeiters und die schnelle Lösung. Kann ich wirklich weiterempfehlen.",
+        "time": 1733178213,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "T Jey",
+        "author_photo": "/images/reviews/hsh-installationstechnik-ag-buchs/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Firma: HSH Installationstechnik AG\n\nTätigkeit:  Sanitärinstallationen /-Planung, Heizungsinstallationen /-\nPlanung, Bad- / Heizung-Renovationen, Notfall-Service,\nLüftungstechnik /-Planung,\n\nMan findet fachkundiges Personal, die Aufträge zügig bearbeitet und die auf alle Möglichen Sonderwünsche seiner Kunden eingeht. Die Kosten sind Marktgerecht und nicht überhöht, sondern eher Günstig im Vergleich und man erhält Qualitativ Hochwertige Produkte und fachkundige Arbeitsausführungen.\n\nIch kann guten Gewissens diese Firma empfehlen, falls man ein Umbau oder Neubau plant.\n\nBesonderes: Die Firma besitzt einen Showroom in Sennwald, bei der Partner Firma Saniplan, falls man was visuelles braucht oder eine Sauna / Pool intigrieren will.",
+        "time": 1501966418,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Heizungsspezialist. Das Schweizer Such- und Infoportal rund um das Thema Heizung.",
+        "author_photo": "/images/reviews/hsh-installationstechnik-ag-buchs/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wohlfühlwärme, immer genug warmes Wasser zum Duschen und Baden – und das sommers wie winters: Moderne Lebensqualität in den eigenen vier Wänden bedeutet nicht zuletzt eine funktionierende Heizung. Ich empfehle die Firma HSH Installationstechnik AG aus Buchs. Kompetent, Qualitätsbewusst und Kundenfreundlich.",
+        "time": 1402763278,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Kevin Oehri",
+        "author_photo": "/images/reviews/hsh-installationstechnik-ag-buchs/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr guter und zuverlässiger Service.",
+        "time": 1618588960,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Starc Kraffthausen",
+        "author_photo": "/images/reviews/hsh-installationstechnik-ag-buchs/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Pikettdienst schnell, freundlich, gut.",
+        "time": 1607112098,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

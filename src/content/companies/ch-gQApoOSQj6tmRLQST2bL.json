@@ -26,5 +26,54 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJ7clW_IT8j0cRcauj5eNdJHo",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 6,
+    "reviews": [
+      {
+        "author_name": "David Lupp",
+        "author_photo": "/images/reviews/kempf-metallbau-gmbh-emmen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Unkompliziert, schnell und hochwertige Installation eines Aussentreppengeländer durch das Team von Herr Hofer.\nWir sind sehr zufrieden und empfehlen Kempf Metallbau gerne weiter.",
+        "time": 1715002406,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Vital Kopp",
+        "author_photo": "/images/reviews/kempf-metallbau-gmbh-emmen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Coole Service",
+        "time": 1593945218,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Alice Hofer",
+        "author_photo": "/images/reviews/kempf-metallbau-gmbh-emmen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1648635083,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Dominik Strassel",
+        "author_photo": "/images/reviews/kempf-metallbau-gmbh-emmen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1636710972,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Matthias arnold",
+        "author_photo": "/images/reviews/kempf-metallbau-gmbh-emmen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1614090935,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

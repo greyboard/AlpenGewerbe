@@ -1,7 +1,7 @@
 {
   "id": "ch-Bs8OOo3uCCMxZtoNTQif",
   "slug": "visez-juste-peinture-home-covering-geneve",
-  "name": "Visez-Juste ! Peinture - Home Covering",
+  "name": "Mr. Giuseppe Agueci",
   "branchen": [
     "maler"
   ],
@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVYGoCtR6jEcRAYkToDxIcdI",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–18:00 Uhr",
+    "Dienstag: 08:00–18:00 Uhr",
+    "Mittwoch: 08:00–18:00 Uhr",
+    "Donnerstag: 08:00–18:00 Uhr",
+    "Freitag: 08:00–18:00 Uhr",
+    "Samstag: 08:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 25,
+    "reviews": [
+      {
+        "author_name": "Peguet Nicolas",
+        "author_photo": "/images/reviews/visez-juste-peinture-home-covering-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Excellente expérience !\nUn travail de grande qualité, réalisé avec sérieux et professionnalisme. Il est à l’écoute, réactif et soigneux dans les moindres détails. Je suis très satisfait du résultat et je le recommande sans hésitation à tout le monde.",
+        "time": 1768906475,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Fred",
+        "author_photo": "/images/reviews/visez-juste-peinture-home-covering-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich habe die Dienste von Herrn Agueci schon mehrmals in Anspruch genommen.\nIch wurde nie enttäuscht, seine Beratung war stets hervorragend. Seine Arbeit ist tadellos, er ist hilfsbereit, immer erreichbar und freundlich.",
+        "time": 1767905895,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Martine Moreschi",
+        "author_photo": "/images/reviews/visez-juste-peinture-home-covering-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ein echter Profi mit jahrelanger Erfahrung, Kreativität, Fantasie und einer ausgeprägten Lösungsorientierung! Er hat ein Netz angebracht, damit meine 12.000 Franken teure Katze nicht wegfliegt! Und obendrein ist er witzig – ein echter Pluspunkt, wenn man fünf Stunden lang einen Handwerker braucht!",
+        "time": 1735052973,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Roméo",
+        "author_photo": "/images/reviews/visez-juste-peinture-home-covering-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Hervorragende Arbeit! Vladimir ist sehr professionell und gewissenhaft, und das Ergebnis ist makellos. Ich kann seine Dienste wärmstens empfehlen.",
+        "time": 1767861020,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Luis Fernandes",
+        "author_photo": "/images/reviews/visez-juste-peinture-home-covering-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein Unternehmen, das ernsthaft arbeitet und über sehr kompetente Mitarbeiter verfügt.",
+        "time": 1765629349,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

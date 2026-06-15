@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJYxsy92_HkUcRxx5hizk8pn8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Andreas Benseler",
+        "author_photo": "/images/reviews/paul-gschwind-ag-therwil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut top Baufirma. Die Bau-Arbeit wurde pünktlich, sorgfältig und exakt zu unserer vollsten Zufriedenheit ausgeführt. Jederzeit würde ich die Firma wieder beauftragen und kann sie absolut empfehlen!",
+        "time": 1606981238,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Gebse 187",
+        "author_photo": "/images/reviews/paul-gschwind-ag-therwil/reviewer_2.jpg",
+        "rating": 4,
+        "text": "Gute Baufirma",
+        "time": 1654515513,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Peter Brodmann",
+        "author_photo": "/images/reviews/paul-gschwind-ag-therwil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1596662926,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Annik Grob",
+        "author_photo": "/images/reviews/paul-gschwind-ag-therwil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1731092915,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rahel grob",
+        "author_photo": "/images/reviews/paul-gschwind-ag-therwil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1716498821,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

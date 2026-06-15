@@ -26,5 +26,47 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ393FFQAfm0cRJ-vcJPoeHF0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–17:00 Uhr",
+    "Dienstag: 08:00–17:00 Uhr",
+    "Mittwoch: 08:00–17:00 Uhr",
+    "Donnerstag: 08:00–17:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 3,
+    "reviews": [
+      {
+        "author_name": "Zistli Steinegg",
+        "author_photo": "/images/reviews/mk-holzbau-teufen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einfach top! Michi und sein Team haben bei unserem älteren Haus eine super Arbeit geleistet. Er hat sofort erkannt, worauf es ankommt, und uns mit seinem Fachwissen und seiner Erfahrung bestens beraten. Die Kommunikation und die ganze Büez war unkompliziert, freundlich und ehrlich!! Auch menschlich passt es einfach, hier wird nicht einfach \"Arbeit verkauft\" sondern mit viel Freude, Herzblut und Wissen \"mitgedacht\" und beraten! Wir sind rundum zufrieden und werden auch unsere nächsten Projekte sehr gerne wieder mit Michi & Team planen. Von uns 5 Sterne! Merci Michi!",
+        "time": 1756959425,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Uschi Völke",
+        "author_photo": "/images/reviews/mk-holzbau-teufen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zuvorkommend äusserst kompetent und unkompliziert\nEmpfelenswert 👍",
+        "time": 1694609522,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Tobias Bornhütter",
+        "author_photo": "/images/reviews/mk-holzbau-teufen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1756383387,
+        "relative_time_description": "vor 9 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

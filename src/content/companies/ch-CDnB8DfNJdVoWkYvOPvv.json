@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJ0Rc1mxY7kEcRVbcoorxrT5Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Brischit Schaerer",
+        "author_photo": "/images/reviews/maler-kraemer-gmbh-erlinsbach/reviewer_1.jpg",
+        "rating": 5,
+        "text": "„Ausgezeichnete, saubere und präzise Arbeit. Auch der persönliche Umgang ist sehr angenehm. Ich freue mich auf die weiteren Projekte.",
+        "time": 1759215177,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Martin Keller",
+        "author_photo": "/images/reviews/maler-kraemer-gmbh-erlinsbach/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einwandfreie und saubere Arbeit sowie rasche Erledigung! Jens weiss genau was er macht und übt seinen Job auch gern aus, das spürt man. Wir sind sehr sehr zufrieden und können ihn zweifelsfrei weiterempfehlen. Auch die Administration läuft unkompliziert und sympathisch. Top Firma! 👍😎",
+        "time": 1763253173,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "Ralph Grieder",
+        "author_photo": "/images/reviews/maler-kraemer-gmbh-erlinsbach/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hausfassade\nSehr gute Malerarbeit, zuverlässig und angenehme Kommunikation.\nFantastisches Preis-Leistungsverhältnis.\nEmpfehle Herrn Krämer sehr gerne weiter.",
+        "time": 1744386533,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Milena Widmer",
+        "author_photo": "/images/reviews/maler-kraemer-gmbh-erlinsbach/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Hausfassade machen lassen. Sehr schöne Arbeit, wir sind sehr zufrieden und können die Firma sehr empfehlen.",
+        "time": 1758721460,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Cindya Fiore",
+        "author_photo": "/images/reviews/maler-kraemer-gmbh-erlinsbach/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Freundliche und kompetente Beratung.  Preiswerte und saubere Arbeit. Wir können Herr Krämer weiterempfehlen.",
+        "time": 1686159067,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

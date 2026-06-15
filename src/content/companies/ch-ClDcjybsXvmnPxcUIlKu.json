@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJT0Mo2mnFkUcROSzjhYPhCM4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:15–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 46,
+    "reviews": [
+      {
+        "author_name": "Patrick Hausner",
+        "author_photo": "/images/reviews/heizwert-ag-muenchenstein/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Heute durfte ich von der Firma Heizwert AG meine Lambda Wärmepumpe und den Hygienespeicher offiziell übernehmen. Der Ersatz meiner alten Ölheizung inkl. Demontage des Stahl-Öltanks und aller Nebenarbeiten sind absolut problemlos über die Bühne gegangen. Vom ersten Kontakt mit der Firma Heizwert über die Beratung, Offertstellung, Offertbereinigung und Realisierung – für mich als Auftraggeber einfach eine rundum sorglose Sache. Ein riesengrosses DANKESCHÖN und LOB an die Firma Heizwert AG, alle beteiligten Subunternehmen und vor allem an alle direkt vor Ort beteiligten Personen für ihre tolle Arbeit - es gibt ihn noch, den äusserst wertvolen Handwerkerstolz! Weiter so!",
+        "time": 1774524769,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Heinz Steiner",
+        "author_photo": "/images/reviews/heizwert-ag-muenchenstein/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Vor 5 Jahren habe ich von der Firma Heizwert meine Ölheizung auf eine Wärmepumpenheizung umbauen lassen. Und  soeben wurde ein Service inkl. Boilerentkalkung und durchgeführt.  Ausserdem musste die Ursache für eine Durchflussstörung eruiert und behoben werden. Alle Arbeiten wurden sehr fachkundig, engagiert, sauber, freundlich, pünktlich, effizient und erfolgreich durchgeführt. Ich kann diese Firma somit uneingeschränkt weiterempfehlen.",
+        "time": 1768669604,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Daniel Hofer",
+        "author_photo": "/images/reviews/heizwert-ag-muenchenstein/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mit der Firma Heizwert AG haben wir den idealen Partner für die Sanierung unserer Heizung gefunden. Von der Beratung bis zur Inbetriebnahme der Heizung (Luft/Wasser-Wärmepumpe) waren wir ausserordentlich zufrieden.\nWir haben wie versprochen ein Sorglospaket bekommen (Terminplanung und -einhaltung, Koordination mit Partnerfirmen wie Gärtner, Elektriker, beantragen von Fördergeldern etc.). Alle beteiligten Personen waren sehr kompetent und stets freundlich. Unser besonderer Dank gilt Herrn Vögtli, Frau Hug und Herrn Seidel.\nWir können die Firma Heizwert AG mit voller Überzeugung weiterempfehlen.",
+        "time": 1764668551,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Andres Gartmann",
+        "author_photo": "/images/reviews/heizwert-ag-muenchenstein/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Die Firma Heizwert AG hat bei uns in einem EFH eine Erdwärmepumpe installiert. Sie haben uns von der ersten Beratung bis zur Abnahme der neuen Heizanlage rundum überzeugt. Alle Arbeiten wurden sauber, fristgerecht und mit einer grossen Kundenfokusierung und Freundlichkeit ausgeführt. Wir danken dem ganzen Team der Heizwert AG für Ihre tolle Arbeit.",
+        "time": 1764540235,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Simon Probst",
+        "author_photo": "/images/reviews/heizwert-ag-muenchenstein/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Heizung erneuern lassen. Die Arbeit war sehr professionell und sauber, Termine wurden zuverlässig eingehalten. Besonders gefallen hat uns die klare Kommunikation – alle Fragen wurden verständlich beantwortet. Leistung: Absolut empfehlenswert.\nEinen besonderen Dank geht an Herr Vögtli und Frau Deola sowie Herr Weber die sich stetig um unsere Anliegen und Fragen gekümmert haben. Ich wünsche dem ganzen Heizwert Team alles gute für die Zukunft.",
+        "time": 1764362435,
+        "relative_time_description": "vor 6 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

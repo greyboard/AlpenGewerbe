@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ33lRUC3nmkcRlG5QXCcFLOQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 15,
+    "reviews": [
+      {
+        "author_name": "Mario Jost",
+        "author_photo": "/images/reviews/albin-service-ag-24h-sanitaer-notdienst-ablauf-kanalreinigung-kanalsanierung-bautrocknung-leckortung-gossau/reviewer_1.jpg",
+        "rating": 2,
+        "text": "Schneller Einsatz vor Ort, arbeit gut ausgeführt aber leider sehr teuer. Die Herren waren nach etwa 30min fertig. Die Fahrzeit und die Arbeitszeit decken sich auf der Rechnung problemlos. Dafür habe ich 268.- bezahlt was auch komplett im Rahmen ist. Dann wird aber für Materialaufwand (Maschinen) nochmals heftige 170.- draufgeschalgen was das Total nach Mehrwertsteuer auf fast 500.- bringt. Ein stolzer preis für 30min Einsatz.",
+        "time": 1760347748,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Marco Doerflinger",
+        "author_photo": "/images/reviews/albin-service-ag-24h-sanitaer-notdienst-ablauf-kanalreinigung-kanalsanierung-bautrocknung-leckortung-gossau/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sie waren schnell vor Ort. Unkompliziert das Problem schnell und Fachmännisch erkannt. Gute Beratung um das Problem definitiv zu lösen.",
+        "time": 1748718082,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Hans Keller",
+        "author_photo": "/images/reviews/albin-service-ag-24h-sanitaer-notdienst-ablauf-kanalreinigung-kanalsanierung-bautrocknung-leckortung-gossau/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr freundlich und kompetent!\nAbfluss macht wieder, was er soll….\nZum weiter empfehlen!",
+        "time": 1747064768,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ramona Boehm",
+        "author_photo": "/images/reviews/albin-service-ag-24h-sanitaer-notdienst-ablauf-kanalreinigung-kanalsanierung-bautrocknung-leckortung-gossau/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schneller Einsatz vor Ort.\nFreundliche und kompetente Mitarbeiter.\nKann ich nur weiterempfehlen.",
+        "time": 1746649875,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Paolo Savino",
+        "author_photo": "/images/reviews/albin-service-ag-24h-sanitaer-notdienst-ablauf-kanalreinigung-kanalsanierung-bautrocknung-leckortung-gossau/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Gute Erreichbarkeit mit Beratung am Sonntag.Montag morgen wurde das Problem fachmännisch gelöst.",
+        "time": 1746793386,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

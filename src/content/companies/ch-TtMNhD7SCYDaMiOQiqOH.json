@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJVeq_YU8vjEcRbsNW8oXa1TQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "D B",
+        "author_photo": "/images/reviews/renov-domus-sarl-epalinges/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben Renov-Domus Sàrl mit den Renovierungsarbeiten in unserem neuen Haus beauftragt. Wir sind mit dem Ergebnis und dem äußerst professionellen Service während des gesamten Projekts sehr zufrieden. Vom ersten Kontakt an hatten wir vollstes Vertrauen in die Firma; wir wurden hervorragend beraten und der Zeitplan wurde perfekt eingehalten. Die Malerarbeiten sind makellos, die Parkettrenovierung ist exzellent, die Elektroinstallationen sind perfekt und das Projektmanagement-Team war effizient, kompetent und stets aufmerksam. Ein herzliches Dankeschön an das gesamte Team; wir sind sehr dankbar für die gelungene Renovierung. Wir können die Dienstleistungen von Renov-Domus Sàrl uneingeschränkt empfehlen.",
+        "time": 1765397145,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Vincent Abrezol",
+        "author_photo": "/images/reviews/renov-domus-sarl-epalinges/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Renov Domus ist ein seriöses, professionelles und zuverlässiges Unternehmen. Die Arbeiten werden sorgfältig, termingerecht und mit viel Liebe zum Detail ausgeführt. Das Team ist jederzeit erreichbar, aufmerksam und vertrauenswürdig. Ich kann ihre Dienste für jedes Renovierungsprojekt wärmstens empfehlen.",
+        "time": 1757403127,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Davide Vazzari",
+        "author_photo": "/images/reviews/renov-domus-sarl-epalinges/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Renov-Domus hat uns während unseres gesamten Badsanierungsprojekts hervorragend unterstützt.\n\nEs handelt sich um ein renommiertes und zuverlässiges Unternehmen. Die Arbeiten wurden präzise und innerhalb des vereinbarten Zeitrahmens ausgeführt. Bei Fragen war jederzeit jemand erreichbar.\n\nDarüber hinaus haben wir Herrn Autelitanos Beratung hinsichtlich der Planung und der Stilauswahl sehr geschätzt.",
+        "time": 1754720404,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Isabelle Barthe",
+        "author_photo": "/images/reviews/renov-domus-sarl-epalinges/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich habe RenovDomus mit der Komplettrenovierung meiner Wohnung beauftragt und war mit den Leistungen und der Ausführung der Arbeiten sehr zufrieden. Das Ergebnis ist fantastisch! Die Angebote wurden eingehalten, die Preise waren angemessen, die Qualität hervorragend, und es gab keinerlei Probleme auf der Baustelle, da Herr Autelitano sich um alles gekümmert hat.\n\nIch danke dem gesamten Team für seine Professionalität.",
+        "time": 1690014748,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Olivier MARLETAZ",
+        "author_photo": "/images/reviews/renov-domus-sarl-epalinges/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Fantastischer Service, hochprofessionelle Beratung und eine Auswahl hochwertiger Materialien. Die Arbeiten wurden termingerecht und einwandfrei ausgeführt. Die Mitarbeiter und der Inhaber waren effizient, freundlich, sorgfältig und jederzeit für zusätzliche Arbeiten erreichbar. Kurz gesagt: Wir können Renov Domus uneingeschränkt empfehlen; Erfolg und Zufriedenheit sind garantiert.",
+        "time": 1749191804,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

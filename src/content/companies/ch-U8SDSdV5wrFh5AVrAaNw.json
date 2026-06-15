@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJezyhtsQ5jkcRVY-HsdAOXFU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Dr. Julian Ramcke",
+        "author_photo": "/images/reviews/stiftsgarten-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Der Stiftsgarten mit dem beiliegenden Stiftsgebäude ist ein wunderschöner und gepflegter Garten mitten in der Stadt. Die Lage am Hang ist perfekt für Pflanzen, die Sonne lieben.",
+        "time": 1759559494,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Anja Günter",
+        "author_photo": "/images/reviews/stiftsgarten-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wunderschöner Garten mit viel Herz im Sinne von pro specia rara und vielen weiteren nachhaltigen Konzepten geführt, mit tollen Events",
+        "time": 1725650902,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "ที่สุด ของหัวใจ",
+        "author_photo": "/images/reviews/stiftsgarten-bern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe sehr viele pflanzen kennengelernt und wir haben zusamenmen gekocht.  sehr viel spass gehabt.  LILYS team",
+        "time": 1699556635,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Fabian Ringwald",
+        "author_photo": "/images/reviews/stiftsgarten-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein kleines Paradies im Herzen der Stadt. Offen und einladend, geführt von einem tollen Team - der perfekte Ort für einen schönen Sommeranlass in familiärer Atmosphäre.",
+        "time": 1693734796,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Dorothee Kuhlmann",
+        "author_photo": "/images/reviews/stiftsgarten-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein Naturparadies im Herzen der Hauptstadt",
+        "time": 1528735484,
+        "relative_time_description": "vor 8 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

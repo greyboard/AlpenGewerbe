@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJAQDkY_C7mkcRg9avUid2Umo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: 08:00–12:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 62,
+    "reviews": [
+      {
+        "author_name": "O. Kofler",
+        "author_photo": "/images/reviews/phil-maurer-malermeister-gmbh-wetzikon/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ein Künstler mit dem Auge für das gewisse Etwas:\nPhil Maurer hat unser Café gestrichen – exakt, zuverlässig, präzise und rundum professionell. Die Zusammenarbeit war äußerst angenehm.\nGanz herzlichen Dank, Phil.\nMit bestem Gewissen wärmstens zu empfehlen.",
+        "time": 1765130819,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Karlos",
+        "author_photo": "/images/reviews/phil-maurer-malermeister-gmbh-wetzikon/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seit mehreren Jahren arbeiten wir mit Phil Maurer und seinem Malerteam zusammen. Jeder Auftrag wird zu unserer 100 %-igen Zufriedenheit erledigt. Dank der spürbaren Leidenschaft für schöne Farbgestaltung sind auch die Ergebnisse erstklassig. Wir erfreuen uns jeden Tag an den sauber ausgeführten Arbeiten, durch die die Qualität und Leuchtkraft der hochwertigen Farben voll zur Geltung kommt.",
+        "time": 1765187242,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Dorian Huber",
+        "author_photo": "/images/reviews/phil-maurer-malermeister-gmbh-wetzikon/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Phil Maurer und sein Team führen seit vielen Jahren zuverlässig und fachkundig anspruchsvolle Maler- und Tapeziererarbeiten für uns und unsere anspruchsvollen Kunden aus. Das Team ist stets freundlich, bemüht und hilfsbereit. Eine Empfehlung verdient auf jeden Fall 5 Sterne. Dorian Huber (Interiors AG).",
+        "time": 1765117578,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "thom 1279",
+        "author_photo": "/images/reviews/phil-maurer-malermeister-gmbh-wetzikon/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit auf ganzer Linie! Man merkt sofort, dass hier mit Fachwissen, Sorgfalt und Leidenschaft gearbeitet wird. Termine wurden eingehalten, alles wurde verständlich erklärt und das Ergebnis übertrifft unsere Erwartungen. Vielen Dank für die hervorragende Arbeit!",
+        "time": 1766080312,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Silvan Köppel",
+        "author_photo": "/images/reviews/phil-maurer-malermeister-gmbh-wetzikon/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Beratung, mega kompetente Durchführung des ganzen Umbaues. Wir sind sehr happy!",
+        "time": 1772871195,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

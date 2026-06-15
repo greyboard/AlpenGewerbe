@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJG8qzW-M9jkcR2UMVihKcj3M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–11:15 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–11:45 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–11:45 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Dave",
+        "author_photo": "/images/reviews/regioglas-gmbh-schuepfen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir hatten einen Auftrag zu einem Einbau von einer Katzentüre in ein Sicherheitsglas zu vergeben. Wir haben uns für die Firma Regio Glas entschieden. Was eine super Entscheidung war. Herr Meyer hat uns die alte Scheibe aus und die Neue Scheibe fachgerecht eingebaut. Sehr angenehmer Kontakt. Empfehle ich sehr gerne weiter!.\nDanke für die Super Arbeit Top!",
+        "time": 1560978738,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Brigitte Wölbert",
+        "author_photo": "/images/reviews/regioglas-gmbh-schuepfen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Herr Mayer hat uns im Vorfeld sehr fachlich und kompetent beraten und begleitet für das Aussuchen/Ausmessen/Bestellen/Einbau einer grossen qualitativ sehr guten grossen Hundeklappe passend für unsere Terrassentüre.\nAlles ist reibungslos, schnell, fachlich kompetent und völlig unkompliziert noch vor Weihnachten von Herr Meyer mit Helfer eingebaut worden.\nEr war uns eine grosse Hilfe bei der Auswahl der Klappe und was überhaupt möglich war, - unser Hund- und Katzenrudel danken es ihm.\nWir sind mit der geleisteten Arbeit sehr zufrieden, jederzeit wieder, kann ihn nur weiterempfehlen Preis und Leistungsverhältnis Top .\nAch ja noch erwähnenswert: Er hat einen guten Draht zu Hund und Katz.",
+        "time": 1578395291,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "rou w",
+        "author_photo": "/images/reviews/regioglas-gmbh-schuepfen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Dienstleistung, Schnell & Zuverlässig!\nKann ich gerne weiterempfehlen!",
+        "time": 1739989409,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "dinoegli",
+        "author_photo": "/images/reviews/regioglas-gmbh-schuepfen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Flexibel, pünktlich und zuverlässig. Hat unseren Sturmschaden schnell instandgesetzt und alles sauber und aufgeräumt hinterlassen (das machen auch nicht alle). :-)",
+        "time": 1607352389,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Martin Stooss",
+        "author_photo": "/images/reviews/regioglas-gmbh-schuepfen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent, qualitativ Top und liefert pünktlich. Ich arbeite schon länger mit Regio Glas zusammen und werde dies auch in Zukunft tun.",
+        "time": 1628064995,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

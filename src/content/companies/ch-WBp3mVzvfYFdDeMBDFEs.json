@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJxwG-VKf7j0cR4zNe05qWaOM",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:15–11:45 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:15–11:45 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Avdyl Gashi",
+        "author_photo": "/images/reviews/schaerli-elektro-com-ag-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Besonderes:\n- der Kunde steht immer im Fokus\n- sehr lösungsorientiert\n- sehr schnelle Reaktionszeit\n- partnerschaftliche Betreuung\n- man ist immer auf den laufenden gehalten, bei der Auftragsausführung\n- sehr faire Kostenabwicklung\n\nEinsatz:\n- sehr flexibel & engagiert\n- man wird sogar von der Geschäftsführung persönlich betreut und wertgeschätzt\n- Vereinvarungen werden sehr ernst genomen\n\nVielen Dank für Ihren unermüdlichen Einsatz.\n\nFreundliche Grüsse\n\nwandeler & Gashi IMMOBILIEN",
+        "time": 1699100206,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Karin Stocker",
+        "author_photo": "/images/reviews/schaerli-elektro-com-ag-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Top Fachpersonal. Sehr gutes Preis/Leistungsverhältnis.",
+        "time": 1678385447,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Christian Lötscher (CHL-Fotografie)",
+        "author_photo": "/images/reviews/schaerli-elektro-com-ag-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Freudlicher und Professioneller Kontakt.",
+        "time": 1702968476,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Martin Schäfer",
+        "author_photo": "/images/reviews/schaerli-elektro-com-ag-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Schnell und zuverlässig.",
+        "time": 1686415113,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "jelena markocevic",
+        "author_photo": "/images/reviews/schaerli-elektro-com-ag-luzern/reviewer_5.jpg",
+        "rating": 1,
+        "text": "Unprofessionell",
+        "time": 1674671015,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

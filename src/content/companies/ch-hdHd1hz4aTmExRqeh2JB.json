@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJx8NQiW3HhEcRV5vTJbJ4NhQ",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:15–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:15–15:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Ruza J",
+        "author_photo": "/images/reviews/joerimann-schreinerei-ag-chur/reviewer_1.jpg",
+        "rating": 5,
+        "text": "⭐️⭐️⭐️⭐️⭐️\n\nIch kann die Schreinerei Jörimann nur wärmstens empfehlen! Von der ersten Kontaktaufnahme bis zur finalen Montage war der gesamte Prozess äußerst professionell und angenehm. Das Team war sehr freundlich und hat sich viel Zeit genommen, um meine Wünsche und Vorstellungen zu verstehen.",
+        "time": 1733427105,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Mike Mascaro",
+        "author_photo": "/images/reviews/joerimann-schreinerei-ag-chur/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Von der Beratung bis zur Auftragsabwicklung hat alles gepasst und das Ergebnis kann sich wirklich sehen lassen. Tolle Firma, professionelle Leute und das Preis-/Leistungsverhältnis stimmt. Ich kann die Firma Jörimann mit gutem Gewissen weiterempfehlen.",
+        "time": 1697733377,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ivan Hrdina",
+        "author_photo": "/images/reviews/joerimann-schreinerei-ag-chur/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Anpassungen von Tür und Balkontüren hat Herr Hüppin ausgeführt.\nEr hat eine hervorragende Arbeit geleistet. Sehr kompetent, freundlich und flexibel. Kompliment!!!\nWir werden sicher die Firma Jörimann bei Bedarf immer als erste Adresse wählen. Und unsere Freunde werden wir ebenfalls informieren.\nIch habe Herr Hüppin gefragt ob es eine Art Feedback gibt (manche Firmen fragen immer nach). Er hat gemeint:  so was gibt es nicht. OK.\nTrotzdem, wenn Sie eine Referenz brauchen, dann können Sie sich sicher an uns wenden.\nEs gibt es doch, eben via Google.",
+        "time": 1568794965,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Marina Lukic",
+        "author_photo": "/images/reviews/joerimann-schreinerei-ag-chur/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Toller Küchen-Showroom vor Ort. Für mich hat sich der Weg von Kreuzlingen TG nach Chur gelohnt. Die komplette Auftragsabwicklung lief unkompliziert und professionell. Kann ich nur weiterempfehlen!!",
+        "time": 1558700085,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Roman K. (Roman)",
+        "author_photo": "/images/reviews/joerimann-schreinerei-ag-chur/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Danke für die sehr schnelle, \"notfallmässige\" Umsetzung meines Projekts.\nHerr Hüppin war sehr freundlich und kompetent. Gerne wieder.",
+        "time": 1651148419,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

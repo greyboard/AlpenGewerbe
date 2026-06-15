@@ -1,7 +1,7 @@
 {
   "id": "ch-0lriFoBzcnuP5uAaoHjt",
   "slug": "schreinerei-daniel-hafner-solothurn",
-  "name": "Schreinerei Daniel Hafner",
+  "name": "Mr. Daniel Hafner",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,31 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJOWmGM_3XkUcR_THiEd5_ee8",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–18:00 Uhr",
+    "Dienstag: 07:30–18:00 Uhr",
+    "Mittwoch: 07:30–18:00 Uhr",
+    "Donnerstag: 07:30–18:00 Uhr",
+    "Freitag: 07:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 1,
+    "reviews": [
+      {
+        "author_name": "Minire Limoni",
+        "author_photo": "/images/reviews/schreinerei-daniel-hafner-solothurn/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1607699919,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

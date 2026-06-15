@@ -26,5 +26,63 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJITQ69i_7mkcR6j42WY5jenU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:00–19:00 Uhr",
+    "Dienstag: 06:00–19:00 Uhr",
+    "Mittwoch: 06:00–19:00 Uhr",
+    "Donnerstag: 06:00–19:00 Uhr",
+    "Freitag: 06:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Sergio and Sandro",
+        "author_photo": "/images/reviews/rohner-bau-gmbh-engishofen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1682697039,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "AlphaLimaPapa",
+        "author_photo": "/images/reviews/rohner-bau-gmbh-engishofen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770279054,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Mr Benutzernamenlos",
+        "author_photo": "/images/reviews/rohner-bau-gmbh-engishofen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1757745036,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Lovis Iseli",
+        "author_photo": "/images/reviews/rohner-bau-gmbh-engishofen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1616846388,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Dario Millan",
+        "author_photo": "/images/reviews/rohner-bau-gmbh-engishofen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1564517132,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

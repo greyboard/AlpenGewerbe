@@ -25,5 +25,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJa0Pnv7zLhEcRyZOZqHD9alc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:00–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 10,
+    "reviews": [
+      {
+        "author_name": "The_Shield89",
+        "author_photo": "/images/reviews/hans-zehnder-ag-maienfeld/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich bin voll und ganz begeistert von der Leistung der Firma Zehnder.\nMarcel hat die Regendusche perfekt montiert und hat mir fachmännisch Auskunft über alle fragen gegeben.\nWerde gerne in Zukunft wieder denn Service in Anspruch nehmen.",
+        "time": 1747819320,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Marcel Bürkli",
+        "author_photo": "/images/reviews/hans-zehnder-ag-maienfeld/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir empfehlen die Firma allen, die kompetente Meinung  für Renovation oder Neubau für ihre WC oder Badezimmer brauchen. Die Ausführung und die gute Teamarbeit sind auf  höchstem Niveau.",
+        "time": 1762271140,
+        "relative_time_description": "vor 7 Monaten"
+      },
+      {
+        "author_name": "A. Caduliduff",
+        "author_photo": "/images/reviews/hans-zehnder-ag-maienfeld/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wer ein Bad mit Wohlfühlcharakter möchte, ist bei der Hans Zehnder AG an der richtigen Adresse! Schon bei der Planung unseres Umbaus wurden wir sehr kompetent beraten und es wurde auf alle unsere Fragen eingegangen. Verschiedene Vorschläge und Ideen wurden uns präsentiert und durch die Visualisierung konnten wir uns direkt vorstellen, wie es schliesslich aussehen wird. Auch bei der Umsetzung hat alles reibungslos geklappt. Wir sind sehr zufrieden und würden die Hans Zehnder AG vorbehaltlos empfehlen!",
+        "time": 1675179380,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Johann Peter",
+        "author_photo": "/images/reviews/hans-zehnder-ag-maienfeld/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Sehr gute Handwerker kann man gut weiter empfehlen für alles rund um Haustechnik...Wasser, Heizung, Dach und Solaranlagen,  eben alles rund um und im Haus.",
+        "time": 1513076573,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Mike Koestli",
+        "author_photo": "/images/reviews/hans-zehnder-ag-maienfeld/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1753161909,
+        "relative_time_description": "vor 10 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

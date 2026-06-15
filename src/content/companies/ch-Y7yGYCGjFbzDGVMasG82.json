@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJGxbC0ej_j0cR8ULLw6vEMqw",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 06:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 06:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 06:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 06:30–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Johannes Ego",
+        "author_photo": "/images/reviews/schreinerei-arnold-ag-meierskappel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich hatte das Vergnügen, mit der Schreinerei Arnold AG zusammenzuarbeiten, um eine Empfangstheke mit Arbeitsfläche zu gestalten, und ich kann nur Positives berichten. Von der ersten Kontaktaufnahme bis zur finalen Installation war der Service durchweg professionell und freundlich.\n\nDie Qualität der Arbeit war beeindruckend. Die verwendeten Materialien sind hochwertig und die Verarbeitung zeugt von handwerklichem Können. Die Empfangstheke wurde termingerecht geliefert und installiert, was für mich als Unternehmen von großer Bedeutung war.\n\nInsgesamt kann ich die Schreinerei Arnold AG uneingeschränkt empfehlen. Ihre Kombination aus Fachkompetenz, Qualität und Kundenservice ist herausragend.",
+        "time": 1742985419,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Patrik König",
+        "author_photo": "/images/reviews/schreinerei-arnold-ag-meierskappel/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tolles Team. Danke Roman für den schönen Auftrag der Möbelrollladen.\nDUpro AG",
+        "time": 1778594787,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "christian Schuler",
+        "author_photo": "/images/reviews/schreinerei-arnold-ag-meierskappel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich kenne denn Leo schon lange er ist von unserem Dorf.\nUnd führt die Schreinerei Arnold AG.\n\nHabe ihn angefragt ob er uns hier was schönes rein machen kann.\n\nSehr speditive Ausführung super Team von der ganzen Schreinerei💪😀\n\nAm Montag kommt schon die Küchen Abdeckung rein.\nIch kann sie nur weiterempfehlen👌",
+        "time": 1709313280,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Elisabeth Wyss",
+        "author_photo": "/images/reviews/schreinerei-arnold-ag-meierskappel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bei uns musste ein Türgriff ersetzt werden. Die Arbeit wurde schnell und sauber ausgeführt, der Mitarbeiter (Hr. Beeler) war sehr freundlich. Ich werde mich gerne wieder an die Schreinerei Arnold wenden!",
+        "time": 1699606754,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Alexander Paul",
+        "author_photo": "/images/reviews/schreinerei-arnold-ag-meierskappel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service / Preis Leistung Top / Lösungsorientiert / Termin und Ausführung Top",
+        "time": 1761023102,
+        "relative_time_description": "vor 7 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

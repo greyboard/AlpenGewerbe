@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJu0BSZNV6jEcR4vhsoF2DF9M",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–16:45 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Melanie Philipp",
+        "author_photo": "/images/reviews/costa-sa-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Arbeit von COSTA SA äußerst zufrieden.\n\nDas Projekt (neue Küche) wurde mit großer Sorgfalt, Präzision und Professionalität ausgeführt.\n\nDieses Unternehmen arbeitet mit KOOK CUISINES SA zusammen, die wir ebenfalls empfehlen.\n\nEin engagierter und leidenschaftlicher Handwerker, den wir uneingeschränkt empfehlen.",
+        "time": 1779131244,
+        "relative_time_description": "vor 3 Wochen"
+      },
+      {
+        "author_name": "Stéphane Schorderet",
+        "author_photo": "/images/reviews/costa-sa-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Tadelloser Service und ein ehrliches Team!",
+        "time": 1556629941,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Gerard Fraisse",
+        "author_photo": "/images/reviews/costa-sa-geneve/reviewer_3.jpg",
+        "rating": 4,
+        "text": "Es lebe die Automobilausstellung!",
+        "time": 1561280156,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Sofiya Mudrokha",
+        "author_photo": "/images/reviews/costa-sa-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1680176691,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Flavio Ferreira",
+        "author_photo": "/images/reviews/costa-sa-geneve/reviewer_5.jpg",
+        "rating": 1,
+        "text": "",
+        "time": 1636736721,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

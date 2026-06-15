@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ3eMHme-qmkcReXqHxg1Wfoo",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 07:30–11:45 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 07:30–11:45 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.5,
+    "user_ratings_total": 13,
+    "reviews": [
+      {
+        "author_name": "Naomi nednoemi",
+        "author_photo": "/images/reviews/wickart-ag-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr kompetente und freundliche Mitarbeitende. Preis-Leistungsverhältnis stimmt absolut. Ich würde bei diversen sanitären Anliegen jederzeit wieder auf die Wickart AG zugehen! Besten Dank.",
+        "time": 1619242887,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Margaretha Gubernale",
+        "author_photo": "/images/reviews/wickart-ag-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Kompetent ausgeführteArbeit, basierend auf langjähriger Tätigkeit, freundliche und schnelleBedienung, gutes Preisverhältnis. Jetzt in Rotkreuz.",
+        "time": 1675153379,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Muhamet Kqiku",
+        "author_photo": "/images/reviews/wickart-ag-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Die Zusammenarbeit mit der Firma Wickart AG bereitet mir sehr viel Freude und ich freue mich immer wieder auf ein Wiedersehen.\nBeste Grüsse",
+        "time": 1574059568,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Claude Winter",
+        "author_photo": "/images/reviews/wickart-ag-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service!!\nProfessionelle und zuverlässige Arbeitskräfte",
+        "time": 1574892445,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Albert Muhadri",
+        "author_photo": "/images/reviews/wickart-ag-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super schnell, profesionell und freundlich!",
+        "time": 1547849947,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

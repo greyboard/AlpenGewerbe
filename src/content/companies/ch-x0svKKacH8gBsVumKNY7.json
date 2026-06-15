@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJUTvY_IsvhUcRGQ6AOZvb0dc",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Philipp Luzi",
+        "author_photo": "/images/reviews/abart-a-gmbh-mitloedi/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Als Möbelrollladenlieferant der Abart A. GmbH bedanken wir uns für die stehts freundliche, unkomplizierte und gute Zusammenarbeit. So macht das Spass. Vielen Dank und bis zum nächsten Mal.",
+        "time": 1770717428,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Irène Spicher",
+        "author_photo": "/images/reviews/abart-a-gmbh-mitloedi/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Es war alles dabei:\n- kompetente Beratung verbunden mit dem Aufzeigen von Vor- und vor allem von Nachteilen, die mir nicht bewusst waren;\n- Eingehen auf meine Vorstellungen;\n- Einbau von Gadgets, auf die ich nie gekommen wäre und demnach dem fachlichen Erfahrungsschatz verdanke;\n- unkompliziertes Realisieren meiner Änderungswünsche im Entstehungsprozess;\n- Sorgfalt in der Ausführung und Zuverlässigkeit punkto Termineinhaltung;\n- wunderbares, qualitativ hochstehendes Resultat, das mich täglich freut!",
+        "time": 1630416995,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Victor",
+        "author_photo": "/images/reviews/abart-a-gmbh-mitloedi/reviewer_3.jpg",
+        "rating": 2,
+        "text": "Abgemachte Kücheneinrichtungen wurden vom Chef nicht weitergleitet. Verantwortung wurden auf den Kunden abgewälzt,",
+        "time": 1748199759,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Manuel Krieg",
+        "author_photo": "/images/reviews/abart-a-gmbh-mitloedi/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1770706128,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Theodor Bögeholz",
+        "author_photo": "/images/reviews/abart-a-gmbh-mitloedi/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1717923472,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

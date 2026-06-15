@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJ9_kJqSxQhUcRvoc0NkKEK5Y",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: 08:00–16:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 37,
+    "reviews": [
+      {
+        "author_name": "Matt. H. Ultraboy (matthewultraboy)",
+        "author_photo": "/images/reviews/nideroest-gaertner-ag-brunnen-sz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr bemühtes freundliches Personal, welches einem wirklich jeden Dekorationswunsch erfüllen möchte. Man fühlt sich sehr gut wahrgenommen und hat zu jeder Zeit einen Ansprechpartner, der einen über den Stand auf dem laufenden hält.\nDie Blumen selbst waren schön und genau wie besprochen angerichtet mit einem erkennbaren Auge fürs Detail kurzum hervorragende Arbeit.",
+        "time": 1571552993,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Harry Suter",
+        "author_photo": "/images/reviews/nideroest-gaertner-ag-brunnen-sz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Leicht gestresstes Personal. Sehr schöner Laden mit grosser Auswahl an Pflanzen aller Arten für drinnen und draussen. Empfehlenswerte Gärtnerei!",
+        "time": 1665007572,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Michael Rottmann",
+        "author_photo": "/images/reviews/nideroest-gaertner-ag-brunnen-sz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eine der schönsten Gärtnereien, die ich kenne. Wunderbar angelegt und übersichtlich, tolle Beratung.",
+        "time": 1721407052,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Isabelle Rottmann",
+        "author_photo": "/images/reviews/nideroest-gaertner-ag-brunnen-sz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Tolles Angebot, sehr freundliche und kompetente Beratung, gerne wieder!",
+        "time": 1721229936,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Claudia Cest la vie (Tigerli)",
+        "author_photo": "/images/reviews/nideroest-gaertner-ag-brunnen-sz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Eine sehr gute und freundliche Gärtnerei. Kann ich nur weiter empfehlen",
+        "time": 1557576042,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

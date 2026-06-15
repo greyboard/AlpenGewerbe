@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJK5lynTcojkcRDAy7TuQ39Rg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:30–17:00 Uhr",
+    "Dienstag: 07:30–17:00 Uhr",
+    "Mittwoch: 07:30–17:00 Uhr",
+    "Donnerstag: 07:30–17:00 Uhr",
+    "Freitag: 07:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 40,
+    "reviews": [
+      {
+        "author_name": "Magdalena Rieder",
+        "author_photo": "/images/reviews/sergio-lo-stanco-elektro-ag-biberist/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann Lo Stanco nur weiterempfehlen. Wir hatten gestern Abend einen Stromausfall im halben Haus inklusive Kühlschrank, das ist bei dieser Hitze ganz unpraktisch. 15 Minuten nach meinem Anruf war ein Mitarbeiter hier und weiter 15 Minuten später war das Problem gelöst. Der Mitarbeiter war äusserst freundlich und kompetent. Ich bin vollumfänglich zu frieden.",
+        "time": 1750740622,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "Gisela Imbach",
+        "author_photo": "/images/reviews/sergio-lo-stanco-elektro-ag-biberist/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Professioneller Dienstleister. Immer wieder gerne.",
+        "time": 1769590500,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "Vladimir x1x",
+        "author_photo": "/images/reviews/sergio-lo-stanco-elektro-ag-biberist/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Mitarbeiter parken auf Besucherparkplätzen wie zum Beispiel in Grenchen an der Schlachthausstrasse und dies schon seit sehr langer Zeit...  wenn man dann als Bewohner Besucher empfangen möchte, haben diese keinen Platz. Bitte sagen Sie Ihren Mitarbeitenden, sie sollen dies unterlassen...",
+        "time": 1730215521,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Ramona Stampfli",
+        "author_photo": "/images/reviews/sergio-lo-stanco-elektro-ag-biberist/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Vielen herzlichen Dank für die schnelle Hilfe, die freundliche telefonische Beratung, Vermittlung & den perfekten Service. Wir bleiben gerne Kunden!",
+        "time": 1753971200,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Yves Daumüller",
+        "author_photo": "/images/reviews/sergio-lo-stanco-elektro-ag-biberist/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein sehr guter Arbeitgeber! Tolles Team, faire Bedingungen und zahlreiche Entwicklungsmöglichkeiten. Sehr empfehlenswert!",
+        "time": 1728639072,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

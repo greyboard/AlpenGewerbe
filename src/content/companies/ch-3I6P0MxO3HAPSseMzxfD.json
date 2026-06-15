@@ -26,5 +26,54 @@
     "Abbrucharbeiten",
     "Fundamentbau",
     "Renovation"
-  ]
+  ],
+  "googlePlaceId": "ChIJye3MfSr5j0cR6bqGaWOLeKU",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.3,
+    "user_ratings_total": 30,
+    "reviews": [
+      {
+        "author_name": "Rene Niederberger",
+        "author_photo": "/images/reviews/spag-schnyder-pluess-ag-stansstad/reviewer_1.jpg",
+        "rating": 1,
+        "text": "Haben bei mir die Garageneinfahrt asphaltiert. Jedoch ging er in einem Jahr kaputt. Die Reparatur wurde sehr lieblos duchgeführt. Auch dieser Asphalt hielt nur ein Jahr. Für mich ist diese Firma für solche Arbeiten nicht geeignet.",
+        "time": 1517980881,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Mike Waldispühl",
+        "author_photo": "/images/reviews/spag-schnyder-pluess-ag-stansstad/reviewer_2.jpg",
+        "rating": 5,
+        "text": "War mein Lehrbetrieb und ist nach wie vor eine sehr gute Strassen- und Tiefbau Firma",
+        "time": 1689258841,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Miss Pink",
+        "author_photo": "/images/reviews/spag-schnyder-pluess-ag-stansstad/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Pfusch, pfusch, pfusch und nochmehr pfusch!!! Sehr unprofessioneller und unfreundlicher Polier! Nie Wieder!",
+        "time": 1661436569,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Wanderlust",
+        "author_photo": "/images/reviews/spag-schnyder-pluess-ag-stansstad/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Grosses, schönes Areal",
+        "time": 1563454527,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Ivo Amaral",
+        "author_photo": "/images/reviews/spag-schnyder-pluess-ag-stansstad/reviewer_5.jpg",
+        "rating": 1,
+        "text": "5 -",
+        "time": 1773856548,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

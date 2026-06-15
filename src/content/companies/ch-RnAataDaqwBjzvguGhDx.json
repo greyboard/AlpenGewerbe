@@ -26,5 +26,63 @@
     "Dachausbau",
     "Aufstockung",
     "Umbau & Sanierung"
-  ]
+  ],
+  "googlePlaceId": "ChIJVVWF_feqmkcRzyvmjPQ9lGs",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–16:00 Uhr",
+    "Dienstag: Geschlossen",
+    "Mittwoch: 08:00–12:00 Uhr, 13:30–19:00 Uhr",
+    "Donnerstag: 08:00–16:00 Uhr",
+    "Freitag: 08:00–12:00 Uhr, 13:30–17:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 3.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Deniza Ianev",
+        "author_photo": "/images/reviews/remy-zimmermann-zug/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich fühle mich hier seit Jahren bestens betreut. Der Arzt nimmt sich immer Zeit, erklärt verständlich und geht auf alle Fragen ein. Man merkt, dass er viel Erfahrung hat und gleichzeitig eine sehr ruhige, freundliche Art. Auch das Praxisteam ist hilfsbereit und gut organisiert – man bekommt schnell Termine und fühlt sich willkommen. Ich habe volles Vertrauen und kann die Praxis uneingeschränkt empfehlen.",
+        "time": 1757490349,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Only Good News! LW",
+        "author_photo": "/images/reviews/remy-zimmermann-zug/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Seit sechs Jahren bin ich Patientin von Dr. Zimmermann. Zu ihm bin ich auf Empfehlung befreundeter Ärzte gekommen, nachdem ich eine enttäuschende und bittere Erfahrung mit einer Gynäkologin in Baar gemacht hatte (schlechte Diagnostik, Nachlässigkeit beim Kaiserschnitt, was mich zwei weitere Operationen und den Verlust der Muttermilch gekostet hat).\n\nDr. Zimmermann ist höchst kompetent, professionell, einfühlsam und taktvoll. Schwangerschaft, Geburt, jährliche Kontrollen, Eiseninjektionen, eine ambulante Operation im Spital – all das habe ich unter seiner umfassenden Betreuung erlebt und war nie enttäuscht. Er ist ein Fachmann auf seinem Gebiet und einfach ein sehr guter Mensch mit großem Herzen.\n\nMehrere meiner Kolleginnen und Freundinnen sind ebenfalls zu ihm gewechselt, haben ihre Schwangerschaft und Geburt unter seiner Betreuung erlebt und sind ebenfalls glücklich, seine Patientinnen zu sein. Ich kann nur anderen Frauen, die zögern, zu einem männlichen Gynäkologen zu gehen, weil sie zu schüchtern oder gehemmt sind, raten, meinen Fehler nicht zu wiederholen und (von Anfang an) ihre Gefühle zu überwinden. Setzen Sie nicht Ihr Leben und Ihre Gesundheit (und die Ihres Kindes) aufs Spiel – gehen Sie zu einem Profi.\n\nIch wünsche Dr. Zimmermann noch viele Jahre im Beruf – zum Wohl seiner Patientinnen und ihrer Familien. Ein riesiges menschliches Dankeschön für alles an Sie, Doktor!",
+        "time": 1746022932,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Corinne Schmid",
+        "author_photo": "/images/reviews/remy-zimmermann-zug/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Sehr gutes Einfühlvermögen und äusserst kompetent. Habe unter anderem die Spirale zum 4ten Mal gewechselt, meine Angst ist immer sehr gross bei diesem Termin. Hatte alle Schritte erklärt und darauf hingewiesen, bevor Schmerzen entstehen konnten. Das Erste Mal, dass ich ohne jegliche Nachwehen die Praxis verliess und auch danach komplett Schmerzfrei war. Bevor Ihr lange sucht in meinem Empfinden der beste Frauenarzt den man finden kann. Danke nochmals herzlichst.",
+        "time": 1683127892,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Erin Lily Maynard",
+        "author_photo": "/images/reviews/remy-zimmermann-zug/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Arzt, super Team. Sehr willkommend und empathisch.",
+        "time": 1693042305,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Ernst Attinger",
+        "author_photo": "/images/reviews/remy-zimmermann-zug/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Exzellenter Arzt, der komplizierte medizinische Vorgänge leicht verständlich erklären kann.",
+        "time": 1626253506,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

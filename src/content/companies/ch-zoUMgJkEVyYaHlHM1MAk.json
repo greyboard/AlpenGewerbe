@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJLaAWLGU3jkcRNQBXDbZjhrA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–13:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Marion Roth",
+        "author_photo": "/images/reviews/di-stefano-elektro-gmbh-bern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service! Ein Telefon und der Chef persönlich ist vor Ort gekommen und hat mir mit grosser Fachkompetenz super weitergeholfen. Ich kann Herr Di Stefano\nund sein ganzes Team absolut weiterempfehlen! Super kompetent und freundlich in einem, was will man mehr!",
+        "time": 1780560999,
+        "relative_time_description": "vor einer Woche"
+      },
+      {
+        "author_name": "Andreas",
+        "author_photo": "/images/reviews/di-stefano-elektro-gmbh-bern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Super Firma!\nKontaktnahme hat problemlos geklappt. Nach 24h war Herr Di Stefanio bei uns und hat uns hervorragend beraten. Nicht zu seinen Gunsten, denn was wir ursprünglich gewollt hatten, hätte ihn 1 Tag beschäftigt - so aber können wir es selber machen und es kostet uns nichts.\n\nPS: Ich verstehe die unten stehende 1* Review überhaupt nicht.",
+        "time": 1756286554,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Ivan Hirt",
+        "author_photo": "/images/reviews/di-stefano-elektro-gmbh-bern/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Na ja, bei all den tollen Rezensionen hier nun meine Bewertung! Da eine Sicherung bei meinem Transferator defekt war, ruf ich an um diese zu wechseln zu lassen! Ich wurde vom Besitzer dazu aufgefordert, ich könne dies selber machen, es käme mich billiger! Wahrscheinlich war es nicht lukrativ genug fürs Geschäft! Dort rufe ich nie mehr an! Definitiv nicht! So führt man kein Geschäft! Meiner Meinung nach sollten auch \"kleinere Aufträge\" wahrgenommen werden!",
+        "time": 1642285201,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Andrin Beutler",
+        "author_photo": "/images/reviews/di-stefano-elektro-gmbh-bern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Herr Di Stefano hat mir rasch und unkompliziert bei meinem Problem mit der Installation eines LED-Dimmers geholfen. Dafür bin ich dankbar und kann die Firma weiterempfehlen!",
+        "time": 1652943314,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Sanela",
+        "author_photo": "/images/reviews/di-stefano-elektro-gmbh-bern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere bestehende Elektroinstallation in einem EFH durch die Firma Di Stefano Elektro komplett erneuern lassen. Dabei durften wir eine professionelle Beratung vor dem Umbau geniessen. Unsere Anfragen vor, während als auch danach wurden stets beantwortet. Die Mitarbeiter waren sehr pünktlich, die Qualität 1A und das Preis-Leistungs-Verhältnis top. Wir können das Unternehmen mit voller Überzeugung weiterempfehlen.",
+        "time": 1588073313,
+        "relative_time_description": "vor 6 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

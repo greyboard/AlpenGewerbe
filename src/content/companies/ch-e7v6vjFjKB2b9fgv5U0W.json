@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2Rz9eSFljEcRvl544U8fd0g",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–19:00 Uhr",
+    "Dienstag: 09:00–19:00 Uhr",
+    "Mittwoch: 09:00–19:00 Uhr",
+    "Donnerstag: 09:00–19:00 Uhr",
+    "Freitag: 09:00–19:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 178,
+    "reviews": [
+      {
+        "author_name": "Tee O.",
+        "author_photo": "/images/reviews/ecocity-sanitaire-sarl-geneve/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir sind mit der Installation unserer Waschmaschine sehr zufrieden. Die Kommunikation war vom ersten Kontakt an hervorragend. Paul war jederzeit erreichbar und hat schnell geantwortet. Die Arbeit ist tadellos, wurde mit großer Sorgfalt ausgeführt und der Preis war sehr angemessen. Wir können ihn uneingeschränkt empfehlen!",
+        "time": 1763738446,
+        "relative_time_description": "vor 6 Monaten"
+      },
+      {
+        "author_name": "Deborah Matray",
+        "author_photo": "/images/reviews/ecocity-sanitaire-sarl-geneve/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Ich war von der Schnelligkeit und Qualität des Services begeistert. Ich erhielt fast umgehend eine Antwort auf meine WhatsApp-Nachricht, und die Arbeit war innerhalb weniger Stunden erledigt. Ich kann diese Firma uneingeschränkt empfehlen und werde ihre Dienste bei Bedarf sicher wieder in Anspruch nehmen.",
+        "time": 1777323866,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Janice Wong",
+        "author_photo": "/images/reviews/ecocity-sanitaire-sarl-geneve/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Dies ist meine erste Rezension, aber ich wollte meine Erfahrung unbedingt teilen. Eine schwere Vase fiel versehentlich in meine Toilette und verursachte ein Loch. Ich befürchtete, sie mindestens eine Woche lang nicht benutzen zu können. Nachdem ich die positiven Bewertungen für Ecocity Sanitaire gelesen hatte, beschloss ich, Kontakt aufzunehmen. Ich war positiv überrascht, wie schnell sie reagierten, und innerhalb eines Tages hatte ich eine brandneue Toilette. Ich bin sehr dankbar für ihre Effizienz und würde sie in Zukunft definitiv wieder in Betracht ziehen. Vielen Dank, Ecocity!",
+        "time": 1759484663,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Mathieu Wehren",
+        "author_photo": "/images/reviews/ecocity-sanitaire-sarl-geneve/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wirklich sehr zufrieden mit dem Service von Ecocity! Unsere Waschmaschine wurde schnell angeschlossen und wir erhielten zu einem sehr günstigen Preis ein Zertifikat für die Hausverwaltung. Außerdem kommt der sehr freundliche Installateur entweder mit dem Lastenfahrrad oder dem Elektrotransporter, was mir sehr gut gefällt. Ich kann sie nur empfehlen; eine tolle Entdeckung.",
+        "time": 1721046128,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Josette VENTRUTO",
+        "author_photo": "/images/reviews/ecocity-sanitaire-sarl-geneve/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ich bin mit der Schnelligkeit, der Servicequalität und der Pünktlichkeit sehr zufrieden.\n\nIch kann ihren Service wärmstens empfehlen.\n\nJV.",
+        "time": 1752839962,
+        "relative_time_description": "vor 11 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

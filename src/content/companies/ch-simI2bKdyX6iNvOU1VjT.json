@@ -26,5 +26,63 @@
     "Gartenunterhalt",
     "Naturstein & Pflasterung",
     "Schwimmteich & Biotop"
-  ]
+  ],
+  "googlePlaceId": "ChIJL2u5FY3hkUcRl8hxi2CRB74",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:30 Uhr",
+    "Dienstag: 07:00–17:30 Uhr",
+    "Mittwoch: 07:00–17:30 Uhr",
+    "Donnerstag: 07:00–17:30 Uhr",
+    "Freitag: 07:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Maud Casali",
+        "author_photo": "/images/reviews/aellig-paysages-sa-valbirse/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Aellig hat unsere Grünflächen komplett saniert – von Erdarbeiten und Landschaftsgestaltung bis hin zur Planierung. Sowohl die Preise als auch die Qualität waren hervorragend, alle Fristen wurden eingehalten und jedes Problem wurde mehr als zufriedenstellend und umgehend gelöst. Das Team ist dynamisch und äußerst professionell. Herr Baume, der Projektleiter, hat uns exzellent beraten, und Herr Chevrolet, der die gesamte Abwicklung koordinierte, hat uns mit bemerkenswerter Aufmerksamkeit und Flexibilität unterstützt. Auch lange nach Abschluss der Arbeiten steht er uns weiterhin zur Verfügung und gibt uns gerne Ratschläge. Verdiente 5 Sterne!",
+        "time": 1756813937,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Gaïane DEMUR",
+        "author_photo": "/images/reviews/aellig-paysages-sa-valbirse/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Engagierte und professionelle Mitarbeiter. Stets sehr entgegenkommend und kreativ.",
+        "time": 1693422339,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pierre-André Lerch",
+        "author_photo": "/images/reviews/aellig-paysages-sa-valbirse/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Erstklassig, ein Spitzenteam!!!",
+        "time": 1666387186,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Marcel Kauer",
+        "author_photo": "/images/reviews/aellig-paysages-sa-valbirse/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1658345518,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Denis Fahrni",
+        "author_photo": "/images/reviews/aellig-paysages-sa-valbirse/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1758550336,
+        "relative_time_description": "vor 8 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

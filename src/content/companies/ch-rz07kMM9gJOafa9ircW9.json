@@ -26,5 +26,55 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJ6ZocNvN7jEcRoV92QfNeT_o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Adeela Terrien",
+        "author_photo": "/images/reviews/glass-swiss-carouge/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben drei Badezimmer, eines davon mit Badewanne. Wir wünschten uns eine Drehtür, und trotz des ungewöhnlichen Grundrisses unseres Badezimmers hat Ayed alles darangesetzt, uns genau das gewünschte Ergebnis zu liefern.\n\nWir bestellten außerdem zwei Duschkabinen, von denen eine einen Ausschnitt erforderte. Die Installation wurde hervorragend ausgeführt. Der Service war sehr schnell, und der Kundendienst war exzellent und äußerst professionell. Ich kann Swiss Glass uneingeschränkt empfehlen.",
+        "time": 1778683228,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "MARIA T",
+        "author_photo": "/images/reviews/glass-swiss-carouge/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Insgesamt eine großartige Erfahrung und tadellose Arbeit.",
+        "time": 1775657812,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Carol Loque",
+        "author_photo": "/images/reviews/glass-swiss-carouge/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionalität, Schnelligkeit und Präzision zeichnen ihre Arbeit aus. Tadellose Sorgfalt und Sauberkeit garantieren Sicherheit und Zuverlässigkeit. Sehr empfehlenswert.",
+        "time": 1775658054,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Florence Leblond",
+        "author_photo": "/images/reviews/glass-swiss-carouge/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Wir haben Glass Swiss mit dem Einbau einer Duschabtrennung beauftragt.\n\nDas Projekt war aufgrund der Gegebenheiten alles andere als einfach, aber Glass Swiss hat uns wertvolle Tipps gegeben, war sehr hilfsbereit und wir sind jetzt begeistert von unserer Duschabtrennung. Ich kann diese Firma uneingeschränkt empfehlen.",
+        "time": 1775546514,
+        "relative_time_description": "vor 2 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,54 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJNX5Lclz7j0cRuVpQrtKi5ws",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 7,
+    "reviews": [
+      {
+        "author_name": "Armin Schnider",
+        "author_photo": "/images/reviews/maler-walker-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Herr Walker ist ein freundlicher und aufgestellter Mensch, der seine Arbeiten gewissenhaft und sauber erledigt. Ich kann Herrn Walker nur weiterempfehlen, auch immer wieder gerne, falls wir wieder einen Maler brauchen.",
+        "time": 1651173844,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Matosevic Daniel",
+        "author_photo": "/images/reviews/maler-walker-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nur Qualität zählt",
+        "time": 1546262423,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "attila galicz",
+        "author_photo": "/images/reviews/maler-walker-luzern/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Tolle Arbeit.",
+        "time": 1542926443,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Artan Zenuni",
+        "author_photo": "/images/reviews/maler-walker-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Top Arbeit!",
+        "time": 1576680558,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Raphael Walker",
+        "author_photo": "/images/reviews/maler-walker-luzern/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1717661413,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

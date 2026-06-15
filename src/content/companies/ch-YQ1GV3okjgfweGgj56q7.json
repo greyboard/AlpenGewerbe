@@ -26,5 +26,63 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJowOswmfgmkcR49I0PPI2TIE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "nadine hobi",
+        "author_photo": "/images/reviews/das-malerteam-ag-st-gallen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Jakob war vor einigen Tagen bei uns vor Ort und wir waren mit seiner Arbeit sehr zufrieden. Wir können die Firma nur weiterempfehlen.",
+        "time": 1756576311,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Capos 70",
+        "author_photo": "/images/reviews/das-malerteam-ag-st-gallen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir haben eine Offerte angefragt und diese innert 24 Std. erhalten. Der Aussendienst ist absolut kompetent und man merkt die grosse Erfahrung die vorhanden ist. Weiter so, das ist topklasse!",
+        "time": 1696402898,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Antonio Aliquò",
+        "author_photo": "/images/reviews/das-malerteam-ag-st-gallen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Professionell und kundennah",
+        "time": 1708349828,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Gábor Finta",
+        "author_photo": "/images/reviews/das-malerteam-ag-st-gallen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Cool",
+        "time": 1687598793,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pierre Oster (ROWILUX GMBH)",
+        "author_photo": "/images/reviews/das-malerteam-ag-st-gallen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Spitze",
+        "time": 1668450227,
+        "relative_time_description": "vor 3 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

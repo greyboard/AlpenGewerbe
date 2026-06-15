@@ -26,5 +26,63 @@
     "Briefkastenanlagen",
     "Fenstergitter",
     "Schlosserarbeiten"
-  ]
+  ],
+  "googlePlaceId": "ChIJOTheuIBPhUcR9icDSaXTn78",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:30 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 20,
+    "reviews": [
+      {
+        "author_name": "Rosmary Weiss",
+        "author_photo": "/images/reviews/faessler-ag-metallbau-schwyz/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Von der Planung bis zur Umsetzung war die Zusammenarbeit mit der Fässler AG Metallbau absolut top. Alle Interaktionen erfolgten auf Augenhöhe, was in heutiger Zeit nicht selbstverständlich ist. Die Monteure waren nicht nur äusserst zuvorkommend, sondern auch mit Leidenschaft bei der Arbeit, was sich in der Qualität und der Ausführung der Treppe widerspiegelt. Ich kann die Fässler AG Metallbau uneingeschränkt weiterempfehlen und werde bei künftigem Bedarf sicherlich wieder auf dieses kompetente Team zurückkommen.",
+        "time": 1700060146,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Beat Marmy",
+        "author_photo": "/images/reviews/faessler-ag-metallbau-schwyz/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Danke Marcel für die unkomplizierte Beratung vor Ort und die Bereitschaft die finale Ausführung des Geländers anzupassen.\nInstallation ohne Probleme - ausgeführt zu meiner Zufriedenheit.\nDanke und Gruß, Beat",
+        "time": 1702235754,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Chris Ditze-Stephan",
+        "author_photo": "/images/reviews/faessler-ag-metallbau-schwyz/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir hatten eine große, schwere Balkonverglasung zu ersetzten. Alles zügig, unkompliziert und in guter Qualität erledigt. Besten Dank und gern wieder.",
+        "time": 1685015445,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "AF Zgraggen",
+        "author_photo": "/images/reviews/faessler-ag-metallbau-schwyz/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ausgezeichneter und schneller Service von Fässler AG, gute Kommunikation und sehr hohe Schweizer Qualität / Präzision. Sehr zu empfehlen.",
+        "time": 1676316032,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Brigitte Renk",
+        "author_photo": "/images/reviews/faessler-ag-metallbau-schwyz/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Perfekte Qualität in Planung, Konstruktion und Lieferung des Fässler‘s Team\nAuch die Tessiner sind begeistert\nToni Bürgler",
+        "time": 1648722935,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

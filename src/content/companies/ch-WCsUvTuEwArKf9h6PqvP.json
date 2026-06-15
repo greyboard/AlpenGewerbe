@@ -26,5 +26,63 @@
     "Bodenrenovierung",
     "Epoxidbeschichtung",
     "Trittschalldämmung"
-  ]
+  ],
+  "googlePlaceId": "ChIJAWLrpusXm0cRt-eEUthSvCA",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 11,
+    "reviews": [
+      {
+        "author_name": "René Bosshard",
+        "author_photo": "/images/reviews/sng-bodenvision-ihr-bodenleger-fuer-rheintal-st-gallen-appenzell-oberegg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Eine sehr kompetente Firma\nzuverlässig,pünktlich und die Arbeit mit sehr viel Erfahrung durchgeführt.\nSie haben neue Korkböden verlegt und Holztreppen von Teppichen befreit und richtig schön versiegelt.\nEine super Arbeit und können diese Firma nur weiterempfehlen.",
+        "time": 1730879646,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Moritz Seiler",
+        "author_photo": "/images/reviews/sng-bodenvision-ihr-bodenleger-fuer-rheintal-st-gallen-appenzell-oberegg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr professionell und speditiv, wir haben schon einige Projekte zusammen realisiert und ich war immer sehr zufrieden. Auch die Administration und die Kommunikation läuft sehr speditiv und unkompliziert und dass ist nicht selbstverständlich bei allen Handwerkern. Vielen Dank Ramon und Team",
+        "time": 1730884633,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "marco sommer",
+        "author_photo": "/images/reviews/sng-bodenvision-ihr-bodenleger-fuer-rheintal-st-gallen-appenzell-oberegg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Ich habe diverse Zimmer und Bäder und eine Wohnung machen lassen. Die Beratung und Arbeitsausführung war Top und sehr speditiv.\nIch freue mich schon auf unser nächstes Projekt",
+        "time": 1738322857,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Rolly Spirig",
+        "author_photo": "/images/reviews/sng-bodenvision-ihr-bodenleger-fuer-rheintal-st-gallen-appenzell-oberegg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Einwandfreie und saubere Arbeit, tolle Zusammenarbeit. Vielen Dank",
+        "time": 1757492209,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Franziska Binder",
+        "author_photo": "/images/reviews/sng-bodenvision-ihr-bodenleger-fuer-rheintal-st-gallen-appenzell-oberegg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Sehr kompetent und saubere Arbeit ,flexibel und sofortige Rückmeldung. Preis-Leistung stimmt, würde SNG sofort weiter entpfehlen.",
+        "time": 1737572156,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

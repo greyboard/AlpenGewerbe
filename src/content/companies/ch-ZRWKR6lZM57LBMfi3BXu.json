@@ -26,5 +26,63 @@
     "Spiegel",
     "Sicherheitsglas",
     "Glaserservice & Notfallreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJeVTEsZmLmkcRyU5NcYwnYSU",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 09:00–18:00 Uhr",
+    "Dienstag: 09:00–18:00 Uhr",
+    "Mittwoch: 09:00–18:00 Uhr",
+    "Donnerstag: 09:00–18:00 Uhr",
+    "Freitag: 09:00–18:00 Uhr",
+    "Samstag: 09:00–18:00 Uhr",
+    "Sonntag: 09:00–18:00 Uhr"
+  ],
+  "ratingCached": {
+    "rating": 4.6,
+    "user_ratings_total": 197,
+    "reviews": [
+      {
+        "author_name": "Carsten Lauer",
+        "author_photo": "/images/reviews/glaser-obst-gemuesehof-moos/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Einfach super. Frisches Gemüse und Obst von umliegenden Feldern. Wunderschöner Laden mit riesiger Auswahl zu erstaunlich günstigen Preisen und immer freundliches und liebevolles Personal. Gehe einfach gerne hin. Vielen lieben Dank.",
+        "time": 1775224441,
+        "relative_time_description": "vor 2 Monaten"
+      },
+      {
+        "author_name": "Olga",
+        "author_photo": "/images/reviews/glaser-obst-gemuesehof-moos/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Nagelneu und wunderbar!\nSo ein schöner Laden in der Gegend!\nNicht nur für frisches Obst und Gemüse aus der Region.... sondern auch für andere Produkte wie Marmeladen und eine große Auswahl an Getränken! Es gibt auch eine Bäckerei und ein gemütliches Café.\nDie heiße Schoki ist super!!  😋\nGut, schöne Geschäfte in der Gegend zu haben 👍",
+        "time": 1674208377,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "No name",
+        "author_photo": "/images/reviews/glaser-obst-gemuesehof-moos/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Wir waren seit Jahren Kunden bei Glaser, bevor der tolle  Laden entstand, ich weiß nicht ob die ältere  Dame die Inhaberin ist , in jedem Fall immer ein super Service!!  ist einmal der Salat zu klein kriegt man schon mal einen dazu...\nWir kommen regelmäßig aus Radolfzell am Sonntag  nach Iznang, und kaufen dort ein ...es ist einfach immer ein frische Erlebnis an Gemüse Vielfalt!!  Es macht Freude durchzustöbern...\nSelbst meine heißgeliebten Artischocken kriegt man dort gegen Herbst...\nIch kann diesen Laden mit Café nur empfehlen!!..( Ok der Kuchen schon ein bissl teuer ,aber auch gut teilbar)",
+        "time": 1760734321,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Siegfried Glatz",
+        "author_photo": "/images/reviews/glaser-obst-gemuesehof-moos/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Waren heute mit unseren E-BIKES hier zum Kaffeetrinken mit Zwetschgenstreusel bzw. Neuer Wein mit Dinnerle. Naturlich haben wir auch eine Tüte mit Trauben und Birnen mitgenommen.\nAuf dem Fest am Sonntag in Weiler haben wir bereits einen 5 KG Sack mit roten Büllen hier gekauft.\nBisher alles bestens.\nWir kommen bestimmt wieder.",
+        "time": 1759938762,
+        "relative_time_description": "vor 8 Monaten"
+      },
+      {
+        "author_name": "Miri&Tobi Sch.",
+        "author_photo": "/images/reviews/glaser-obst-gemuesehof-moos/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Tolle, superfrische, regionalen Produkte. Toller laden. Wir sind begeistert. 😄 Hier gibt es leckere Zwiebeln von der Höri.",
+        "time": 1700675871,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

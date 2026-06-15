@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJIU3NCdqsmkcR9b03fdbNOq0",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Dienstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Mittwoch: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Donnerstag: 08:00–11:30 Uhr, 13:30–17:00 Uhr",
+    "Freitag: 08:00–11:30 Uhr, 13:30–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 14,
+    "reviews": [
+      {
+        "author_name": "Erns Baumann",
+        "author_photo": "/images/reviews/blattmann-und-odermatt-ag-morgarten/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben unsere Träume von einer Wunschküche  durch Euch erfüllen lassen  .Vom ersten Besuch bis zum Schluss  eine super Beratung und Betreuung. Die Verarbeitung von den edlen Materialien bis ins Detail sauber und präzise verarbeitet. Wir sind jeden Tag begeistert und freuen uns",
+        "time": 1725480542,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "André Müller",
+        "author_photo": "/images/reviews/blattmann-und-odermatt-ag-morgarten/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Die Beratung war perfekt, auf unsere Wünsche wurde darauf eingegangen und praktische Tipps bekamen wir auch.\nBei der Montage wurde sehr sauber gearbeitet.\nWeiter so!",
+        "time": 1765972351,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "SH",
+        "author_photo": "/images/reviews/blattmann-und-odermatt-ag-morgarten/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Von der 1. Beratung bis zur Montage alles super. Tolles Unternehmen. Wir wünschen weiterhin viel Erfolg und dass noch viele Küchenträume wahr werden.",
+        "time": 1526968238,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Mark Grüring",
+        "author_photo": "/images/reviews/blattmann-und-odermatt-ag-morgarten/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ein sehr gut geführter, äusserst moderner Küchenbau und Schreinereibetrieb. Sehr gute Qualität, kompetente Mitarbeitende und äusserst kreative Küchendesigner.\nSehr empfehlenswert!",
+        "time": 1514437532,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Philipp Abegg",
+        "author_photo": "/images/reviews/blattmann-und-odermatt-ag-morgarten/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wie immer super 😋",
+        "time": 1547754751,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

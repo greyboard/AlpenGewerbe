@@ -26,5 +26,63 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJLYXtRtcojkcR2VuxEcrABsE",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "Roxanna Lehmann",
+        "author_photo": "/images/reviews/as-stuber-znl-der-sergio-lo-stanco-elektro-ag-utzenstorf/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr sehr freundliche und kompetente Elektriker! Sind effizient und kundenfreundlich. Hier ist der Kunde wirklich noch König!",
+        "time": 1742672957,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Jakob Schaaf",
+        "author_photo": "/images/reviews/as-stuber-znl-der-sergio-lo-stanco-elektro-ag-utzenstorf/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Berechnet Leistung die man nicht gefordert hat.\n\nEine Offerte soll jetzt 810 chf Kosten Achtung!!!\n\nHerr Stuber hat andere Vorstellung als manch anderer.",
+        "time": 1402126015,
+        "relative_time_description": "vor 12 Jahren"
+      },
+      {
+        "author_name": "Hanspi Schär",
+        "author_photo": "/images/reviews/as-stuber-znl-der-sergio-lo-stanco-elektro-ag-utzenstorf/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Eine Firma,  die auch kleinere Aufträge und Reparaturen, schnell, freundlich und in guter Qualität, zu einem fairen Preis ausführt. Merci bis zum nächsten Mal.",
+        "time": 1570453779,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Chez Sven I Studios and Apartments Lohn",
+        "author_photo": "/images/reviews/as-stuber-znl-der-sergio-lo-stanco-elektro-ag-utzenstorf/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Kompetente Mitarbeiter, Qualität, Preis und Leistung stimmen. Tolle Beratung.",
+        "time": 1510740089,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Christine Schwarz",
+        "author_photo": "/images/reviews/as-stuber-znl-der-sergio-lo-stanco-elektro-ag-utzenstorf/reviewer_5.jpg",
+        "rating": 5,
+        "text": "kompetent und freundlich. faire beratung, empfehle ich sehr gerne weiter😊",
+        "time": 1547495754,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

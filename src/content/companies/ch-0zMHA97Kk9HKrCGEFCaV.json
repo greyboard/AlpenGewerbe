@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJjXwI0Bllj0cRTyt4tC6-k8E",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 24 Stunden geöffnet",
+    "Dienstag: 24 Stunden geöffnet",
+    "Mittwoch: 24 Stunden geöffnet",
+    "Donnerstag: 24 Stunden geöffnet",
+    "Freitag: 24 Stunden geöffnet",
+    "Samstag: 24 Stunden geöffnet",
+    "Sonntag: 24 Stunden geöffnet"
+  ],
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 88,
+    "reviews": [
+      {
+        "author_name": "Elmar",
+        "author_photo": "/images/reviews/saha-haustechnik-dein-24-stunden-notfall-service-fuer-boiler-entkalken-und-sanitaer-und-heizung-in-der-region-brugg-hausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Hr. Yildiz liefert Qualität, ist sehr kompetent und man kann sich auf ihn und seine Arbeit verlassen. Wir haben ihn schon öfters für Service und Reparaturen angefragt und seine Arbeit war immer zu unser vollsten Zufriedenheit. Saha ist absolut zum weiterempfehlen. Vielen Dank Hr. Yildiz und bis bald.",
+        "time": 1776607232,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Margrit Saxer",
+        "author_photo": "/images/reviews/saha-haustechnik-dein-24-stunden-notfall-service-fuer-boiler-entkalken-und-sanitaer-und-heizung-in-der-region-brugg-hausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut begeistert! SaHa Haustechnik hat unser Bad perfekt geplant und unsere Wünsche genau verstanden. Die Beratung war super kompetent und zielführend. Besonders beeindruckt hat uns die Umsetzung: Alles lief pünktlich, sauber und handwerklich auf höchstem Niveau. Das Ergebnis ist ein modernes Bad, das uns jeden Tag Freude macht. Ein großes Dankeschön an das ganze Team – wir empfehlen euch gerne weiter!",
+        "time": 1768209203,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Beat",
+        "author_photo": "/images/reviews/saha-haustechnik-dein-24-stunden-notfall-service-fuer-boiler-entkalken-und-sanitaer-und-heizung-in-der-region-brugg-hausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Schnell, freundlich und sauber - und dies am Tag vor Weihnachten. Auf den ersten Blick war „nur“ der Abfluss des Spülbeckens In der Küche verstopft. Doch es stellte sich heraus, dass eine Kanalreinigung zwingend notwendig war und dass der ganze Siphon ausgetauscht werden musste, da der Kunststoff an einigen Stellen brach. Ich bin äusserst zufrieden mit der Qualität der ausgeführten Arbeiten.",
+        "time": 1766435305,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Maya Bürki",
+        "author_photo": "/images/reviews/saha-haustechnik-dein-24-stunden-notfall-service-fuer-boiler-entkalken-und-sanitaer-und-heizung-in-der-region-brugg-hausen/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Bin sehr zufrieden mit seiner kompetenten Beratung. Fehler bei unserer Bodenheizung wurde sehr schnell gefunden u behoben. Trotz Feierabend nahm sich Herr Yldiz die Zeit zu kommen.Die Firma SaHa Haustechnik können wir bestens weiter empfehlen. Vielen herzlichen Dank!",
+        "time": 1767971832,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Nelly Imhof",
+        "author_photo": "/images/reviews/saha-haustechnik-dein-24-stunden-notfall-service-fuer-boiler-entkalken-und-sanitaer-und-heizung-in-der-region-brugg-hausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Super Service, sofort telefonischen Kontakt nach einer Mail Anfrage. Pünktlich vor Ort und sauber gearbeitet.\nKann ich nur empfehlen.",
+        "time": 1770634516,
+        "relative_time_description": "vor 4 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJj6xFHY4PkEcR3FaLTM4vthg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 08:30–16:30 Uhr",
+    "Dienstag: 08:00–16:30 Uhr",
+    "Mittwoch: 08:00–16:30 Uhr",
+    "Donnerstag: 08:00–16:00 Uhr",
+    "Freitag: 08:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 33,
+    "reviews": [
+      {
+        "author_name": "Daite Giger",
+        "author_photo": "/images/reviews/schmid-gebaeudetechnik-gmbh-zuerich/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Das Team arbeitet äusserst professionell, zuverlässig und mit hoher Qualität. Von der Planung bis zur Umsetzung wurde alles sauber, termingerecht und effizient ausgeführt.",
+        "time": 1778173912,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Mathyas W",
+        "author_photo": "/images/reviews/schmid-gebaeudetechnik-gmbh-zuerich/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Einfach alles perfekt 🤩 wir bedanken uns bei der Firma Schmid für die angenehme Zusammenarbeit.",
+        "time": 1690189931,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Petar Franjic",
+        "author_photo": "/images/reviews/schmid-gebaeudetechnik-gmbh-zuerich/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Echt super Kontakt – total nett und hilfsbereit! Ich hab angerufen und sofort eine klare, verständliche Antwort bekommen. Kein langes Warten, einfach direkt jemand dran, der sich auskennt. So macht Service Spass – danke nochmal!",
+        "time": 1747164966,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Tharmes Siva",
+        "author_photo": "/images/reviews/schmid-gebaeudetechnik-gmbh-zuerich/reviewer_4.jpg",
+        "rating": 5,
+        "text": "kompetent, pünktlich und qualitativ hochwertige Ausführung.",
+        "time": 1777404021,
+        "relative_time_description": "vor einem Monat"
+      },
+      {
+        "author_name": "Wolfgang Elkuch",
+        "author_photo": "/images/reviews/schmid-gebaeudetechnik-gmbh-zuerich/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Wir haben immer toll zusammengearbeitet . Es war eine freundschaftliche Zusammenarbeit entstanden. Voll Vertrauen .\nIch hoffe das mein Nachfolger diesselbe Erfahrung machen darf\nAlles Gute für Eure Zukunft .\nElkuch Lüftungstechnik\nFL 9492 Eschen\n\nWolfgang Elkuch",
+        "time": 1690128028,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

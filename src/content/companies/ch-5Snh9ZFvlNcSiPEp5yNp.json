@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJKVlZEKRBl6URp4HqoW6bV4o",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–18:00 Uhr",
+    "Dienstag: 07:00–18:00 Uhr",
+    "Mittwoch: 07:00–18:00 Uhr",
+    "Donnerstag: 07:00–18:00 Uhr",
+    "Freitag: 07:00–18:00 Uhr",
+    "Samstag: 07:00–18:00 Uhr",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 47,
+    "reviews": [
+      {
+        "author_name": "Yannick Barbey",
+        "author_photo": "/images/reviews/frilow-bureau-d-etude-et-expert-cecb-fribourg/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann diese Firma nur empfehlen! Ihr Team ist dynamisch und kompetent und wird Sie bei Ihren Projekten zur Energieeinsparung und finanziellen Optimierung effektiv unterstützen.",
+        "time": 1772552029,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Nicolas Gomez",
+        "author_photo": "/images/reviews/frilow-bureau-d-etude-et-expert-cecb-fribourg/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Sehr zufrieden mit der Unterstützung von Frilow. Das Team ist aufmerksam, seriös und nimmt sich wirklich Zeit, den Prozess zu erklären. Ihre Energieanalyse war für uns sehr hilfreich, um effektivere Lösungen zu finden. Ein zuverlässiger und menschlicher Service, den ich uneingeschränkt empfehle!",
+        "time": 1745847581,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "Esteban Bongard",
+        "author_photo": "/images/reviews/frilow-bureau-d-etude-et-expert-cecb-fribourg/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Hervorragend! Ich hatte das Vergnügen, mit Daniel und Moreno zusammenzuarbeiten. Sehr professionell, ich empfehle sie uneingeschränkt.",
+        "time": 1772602214,
+        "relative_time_description": "vor 3 Monaten"
+      },
+      {
+        "author_name": "Loris Rinchetti",
+        "author_photo": "/images/reviews/frilow-bureau-d-etude-et-expert-cecb-fribourg/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Ich kann Frilow für Ihre Wärmebewertungsprojekte, CECB-Zertifikate und CVS-Studien wärmstens empfehlen. Ihr technisches Know-how, ihre Professionalität und die Qualität ihrer Energieberatung machen sie zum idealen Partner für die erfolgreiche Umsetzung Ihrer Projekte und die langfristige Wertsteigerung Ihrer Anlagen.",
+        "time": 1745861437,
+        "relative_time_description": "vor einem Jahr"
+      },
+      {
+        "author_name": "prila ciao",
+        "author_photo": "/images/reviews/frilow-bureau-d-etude-et-expert-cecb-fribourg/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Ein hervorragendes, dynamisches und professionelles Team. Erstklassige CVS-Beratung. Reaktionsschnell und effizient.",
+        "time": 1772564667,
+        "relative_time_description": "vor 3 Monaten"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

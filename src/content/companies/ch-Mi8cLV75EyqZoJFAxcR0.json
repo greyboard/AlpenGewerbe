@@ -26,5 +26,30 @@
     "Holzschutzanstrich",
     "Farbberatung",
     "Grafittibeseitigung"
-  ]
+  ],
+  "googlePlaceId": "ChIJv9isJ4f3j0cRLlW2YFIhlvw",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 2,
+    "reviews": [
+      {
+        "author_name": "ZG 7505",
+        "author_photo": "/images/reviews/maler-fritz-bossard-gmbh-ennetbuergen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr saubere Malerarbeiten! Sehr zu empfehlen!",
+        "time": 1525672745,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Fritz Zbinden",
+        "author_photo": "/images/reviews/maler-fritz-bossard-gmbh-ennetbuergen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1745747854,
+        "relative_time_description": "vor einem Jahr"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

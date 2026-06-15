@@ -26,5 +26,54 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJ2YwcXurBhEcR9ryuqtHuBWc",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.2,
+    "user_ratings_total": 9,
+    "reviews": [
+      {
+        "author_name": "Emanuel Caluzi",
+        "author_photo": "/images/reviews/camiu-haustechnik-ag-tumegl/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Sehr gute Haustechnikfirma. Grosses Fachwissen und persönliche Beratung.\nImmer am Puls der Technik.",
+        "time": 1659646579,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Beat Hatz",
+        "author_photo": "/images/reviews/camiu-haustechnik-ag-tumegl/reviewer_2.jpg",
+        "rating": 5,
+        "text": "sehr fair und zuverlässig",
+        "time": 1573168801,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Airam",
+        "author_photo": "/images/reviews/camiu-haustechnik-ag-tumegl/reviewer_3.jpg",
+        "rating": 1,
+        "text": "Rechnungen werden nicht bezahlt ! ! !",
+        "time": 1681393923,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Seth Buchli",
+        "author_photo": "/images/reviews/camiu-haustechnik-ag-tumegl/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Super Service",
+        "time": 1624870393,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Reto Brot",
+        "author_photo": "/images/reviews/camiu-haustechnik-ag-tumegl/reviewer_5.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1698299855,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

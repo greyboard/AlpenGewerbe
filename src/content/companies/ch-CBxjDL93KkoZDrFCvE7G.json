@@ -26,5 +26,63 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJL3A08S25kUcRxXIBdwZkJmg",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–17:00 Uhr",
+    "Freitag: 07:00–12:00 Uhr, 13:00–16:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.9,
+    "user_ratings_total": 16,
+    "reviews": [
+      {
+        "author_name": "Reber Marc",
+        "author_photo": "/images/reviews/hr-haustechnik-birsfelden/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Wir haben uns für eine neue Küche entschieden und hierbei hat uns die HR Haustechnik in punkto Sanitärarbeiten tatkräftig unterstütz, wofür wir dem gesamten Team sehr dankbar sind. Preisleistung top, zuverlässig und freundlich, einfach 💪🏼 Gerne immer wieder und nur zu empfehlen.",
+        "time": 1709237240,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Michel Bonnemain",
+        "author_photo": "/images/reviews/hr-haustechnik-birsfelden/reviewer_2.jpg",
+        "rating": 3,
+        "text": "Soweit gute Arbeit, wenn auch nachgebessert werden musste, weil Verschraubungen mangelhaft waren. Mail- und Telefonkontakt unzuverlässig. Anfragen werden nicht bearbeitet (Rechnungskopie).\nAnsonsten erlebte ich den Kontakt als freundlich und zuvorkommend.",
+        "time": 1770838318,
+        "relative_time_description": "vor 4 Monaten"
+      },
+      {
+        "author_name": "doris steiner",
+        "author_photo": "/images/reviews/hr-haustechnik-birsfelden/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Top Arbeit – sehr zufrieden!\nDie HR Haustechnik AG hat hervorragende Arbeit (Heizanlage sowie Sanitärarbeiten) geleistet – schnell, sauber und zuverlässig. Die Kommunikation war freundlich und professionell. Alles wurde termingerecht und in bester Qualität erledigt. Ich kann die Firma sehr empfehlen.",
+        "time": 1757004146,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Danny Ristov",
+        "author_photo": "/images/reviews/hr-haustechnik-birsfelden/reviewer_4.jpg",
+        "rating": 5,
+        "text": "TOP Beratung!\nEnthärtungsanlage montiert bin sehr zufrieden mit Herr Hrskanovic.\nTop Preise, saubere Montage und tolle Arbeit gelistet.\nKann ich nur weiterempfehlen.\nDanke nochmals",
+        "time": 1710418283,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "M32 eNZO",
+        "author_photo": "/images/reviews/hr-haustechnik-birsfelden/reviewer_5.jpg",
+        "rating": 5,
+        "text": "HR Haustechnik hat eine herausragende Leistung bei unserer Badsanierung erbracht. Von der Produktwahl über die Terminierung bis zur Fertigstellung waren wir von Anfang bis Ende positiv überrascht. Das Gesamtpaket war im Preis inbegriffen, und wir sind äußerst zufrieden. Wir empfehlen HR Haustechnik gerne weiter. Vielen Dank!",
+        "time": 1705662699,
+        "relative_time_description": "vor 2 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

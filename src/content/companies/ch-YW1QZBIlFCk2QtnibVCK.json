@@ -26,5 +26,46 @@
     "Solarthermie",
     "Gasheizung",
     "Wartung & Service"
-  ]
+  ],
+  "googlePlaceId": "ChIJYzM47Fr7j0cRSrwva-kGMbQ",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "reviews": [
+      {
+        "author_name": "Optik Unternährer",
+        "author_photo": "/images/reviews/erni-markus-gmbh-luzern/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Top Service und immer zur Stelle, wenn die Heizung nicht mehr will.\nSuper faire Preise und freundliche Mitarbeiter",
+        "time": 1588937842,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Holz-Graf Graf",
+        "author_photo": "/images/reviews/erni-markus-gmbh-luzern/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1716827442,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Edith Schneider",
+        "author_photo": "/images/reviews/erni-markus-gmbh-luzern/reviewer_3.jpg",
+        "rating": 4,
+        "text": "",
+        "time": 1707847033,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "sineia Gomez da Rosa",
+        "author_photo": "/images/reviews/erni-markus-gmbh-luzern/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1613511723,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

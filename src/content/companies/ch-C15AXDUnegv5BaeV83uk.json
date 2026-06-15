@@ -26,5 +26,63 @@
     "Wasseraufbereitung",
     "Leckortung",
     "Boileraustausch"
-  ]
+  ],
+  "googlePlaceId": "ChIJYbMKuF1_kEcRO-Y8ii5xia4",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+    "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.7,
+    "user_ratings_total": 19,
+    "reviews": [
+      {
+        "author_name": "Anita Brunner",
+        "author_photo": "/images/reviews/max-mueller-sanitaer-schaffhausen/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Ich kann Max Müller Sanitär nur wärmstens empfehlen! Die gesamte Erfahrung war absolut fantastisch, von Anfang bis Ende. Die Kommunikation war einfach top - jeder Anruf und jede E-Mail wurde prompt beantwortet und alle Details wurden gründlich besprochen. Es war wirklich beruhigend zu wissen, dass ich immer auf dem neuesten Stand war und dass alle meine Fragen und Anliegen ernst genommen wurden.\n\nDie Umsetzung der Renovierung war einfach perfekt. Das Team war äusserst professionell und effizient und hat einen grossartigen Job gemacht. Sie haben sich um jeden einzelnen Aspekt der Renovierung gekümmert und dafür gesorgt, dass alles nach meinen Vorstellungen umgesetzt wurde. Das Ergebnis ist einfach atemberaubend - mein Bad sieht jetzt aus wie aus einem Hochglanzmagazin!\n\nWas das Team jedoch wirklich auszeichnet, ist ihre Freundlichkeit und ihr Engagement. Sie waren immer höflich und zuvorkommend und haben sehr sauber  gearbeitet.\n\nAlles in allem war meine Erfahrung mit Max Müller Sanitär absolut professionell und stressfrei. Ich bin mehr als zufrieden mit dem Ergebnis und kann sie nur jedem wärmstens empfehlen, der eine Renovierung im Sanitärbereich plant. Sie werden es nicht bereuen!\nVielen lieben Dank",
+        "time": 1701975978,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Vera Ulmer",
+        "author_photo": "/images/reviews/max-mueller-sanitaer-schaffhausen/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Wir sind absolut zufrieden und empfehlen Müller Sanitär gerne weiter! Die Mitarbeitenden sind äusserst freundlich, arbeiten exakt und sorgfältig. Die Aufträge wurden immer sehr schnell zu unserer vollsten Zufriedenheit ausgeführt. Weitere Aufträge werden wir künftig gerne wieder mit Müller Sanitär planen. Top!",
+        "time": 1754645035,
+        "relative_time_description": "vor 10 Monaten"
+      },
+      {
+        "author_name": "Matthias Hess",
+        "author_photo": "/images/reviews/max-mueller-sanitaer-schaffhausen/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mein Sanitär-Problem wurde innert 5 Minuten speditiv erledigt. Schön, dass es diese Art von Service heute noch gibt. Vielen Dank!",
+        "time": 1755791826,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Paul Efford",
+        "author_photo": "/images/reviews/max-mueller-sanitaer-schaffhausen/reviewer_4.jpg",
+        "rating": 1,
+        "text": "PERSÖNLICHE MEINUNG über meine schlechte Erfahrung mit diesem Unternehmen.\nWir hatten einen verbindlichen schriftlichen Kostenvoranschlag für die Reparatur sowohl der Toilette als auch der Heizung vereinbart. Allerdings wollte oder konnte er die Arbeiten nicht gemäss seinem ursprünglichen Angebot durchführen und verlangte stattdessen einen höheren Preis. Da wir mit dieser Änderung nicht einverstanden waren, haben wir den Vertrag gekündigt, und er stellt uns nun Reise- und Materialkosten sowie Arbeitsstunden für Arbeiten in Rechnung, die weit von unserer Zufriedenheit entfernt sind und deren Kosten weit höher sind, als sie es gewesen wären, wenn die Reparatur gemäss dem Angebot durchgeführt worden wäre. Dies erscheint mir persönlich unehrlich, und ich werde in Zukunft jede geschäftliche Beziehung mit diesem Unternehmen vermeiden, da es mir scheint, dass dieser Herr schriftliche Vereinbarungen nicht ernst nimmt.",
+        "time": 1696226054,
+        "relative_time_description": "vor 2 Jahren"
+      },
+      {
+        "author_name": "Pat Von",
+        "author_photo": "/images/reviews/max-mueller-sanitaer-schaffhausen/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Schnelle und tadellose Erledigung meines Spühlkastenproblems.\nSehr freundlicher und engagierter Mitarbeiter.\nHerzlichen dank an Herr Herzog.\nGerne wieder!!\nPatrick Vonarburg, Beringen",
+        "time": 1648806812,
+        "relative_time_description": "vor 4 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

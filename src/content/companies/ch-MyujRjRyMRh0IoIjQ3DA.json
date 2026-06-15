@@ -26,5 +26,54 @@
     "Wärmepumpeninstallation",
     "Aussenbeleuchtung",
     "Unterverteilung"
-  ]
+  ],
+  "googlePlaceId": "ChIJny4E71btj0cRmetjjslqRjY",
+  "google_fetched": true,
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 8,
+    "reviews": [
+      {
+        "author_name": "Valentin Fanger",
+        "author_photo": "/images/reviews/amstrom-ag-giswil/reviewer_1.jpg",
+        "rating": 5,
+        "text": "sehr kompetent und überaus freundlich, sehr hilfsbereit. top firma!!!",
+        "time": 1565708693,
+        "relative_time_description": "vor 6 Jahren"
+      },
+      {
+        "author_name": "Herbert Gurtner",
+        "author_photo": "/images/reviews/amstrom-ag-giswil/reviewer_2.jpg",
+        "rating": 5,
+        "text": "Schnell freundlich 😊",
+        "time": 1518245245,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Marvin",
+        "author_photo": "/images/reviews/amstrom-ag-giswil/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Cool",
+        "time": 1506709513,
+        "relative_time_description": "vor 8 Jahren"
+      },
+      {
+        "author_name": "Carina Halter",
+        "author_photo": "/images/reviews/amstrom-ag-giswil/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1635342631,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Michi von Ah",
+        "author_photo": "/images/reviews/amstrom-ag-giswil/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1596655454,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

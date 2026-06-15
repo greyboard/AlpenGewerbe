@@ -26,5 +26,63 @@
     "Fugensanierung",
     "Duschbereich",
     "Küchenspiegel"
-  ]
+  ],
+  "googlePlaceId": "ChIJYT_iJj8ZjkcRWA-DByOL6JY",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 07:00–17:00 Uhr",
+    "Dienstag: 07:00–17:00 Uhr",
+    "Mittwoch: 07:00–17:00 Uhr",
+    "Donnerstag: 07:00–17:00 Uhr",
+    "Freitag: 07:00–17:00 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 4.4,
+    "user_ratings_total": 23,
+    "reviews": [
+      {
+        "author_name": "LM 1488",
+        "author_photo": "/images/reviews/c-frossard-sarl-carrelages-fliesenleger-biel/reviewer_1.jpg",
+        "rating": 5,
+        "text": "Absolut empfehlenswert!\n\nIch bin rundum zufrieden mit der Arbeit von C. Frossard Sàrl. Die Ausführung erfolgte sehr kurzfristig nach Auftragserteilung und in hervorragender Qualität. Saubere, präzise Arbeit, professionelle Abwicklung und freundliche Kommunikation. Jederzeit wieder!",
+        "time": 1766001020,
+        "relative_time_description": "vor 5 Monaten"
+      },
+      {
+        "author_name": "Matias Belfiore",
+        "author_photo": "/images/reviews/c-frossard-sarl-carrelages-fliesenleger-biel/reviewer_2.jpg",
+        "rating": 1,
+        "text": "Oder nicht mit dieser Firma zu tun haben. Sehr hohe Preise. Die Mitarbeiter sind nicht professionell. Nicht zuverlässig. Ich empfehle nicht",
+        "time": 1750406737,
+        "relative_time_description": "vor 11 Monaten"
+      },
+      {
+        "author_name": "X. Salihi",
+        "author_photo": "/images/reviews/c-frossard-sarl-carrelages-fliesenleger-biel/reviewer_3.jpg",
+        "rating": 5,
+        "text": "Mein Partner wenn es um Renovierungsarbeiten geht.",
+        "time": 1756306107,
+        "relative_time_description": "vor 9 Monaten"
+      },
+      {
+        "author_name": "Andreas Stalder",
+        "author_photo": "/images/reviews/c-frossard-sarl-carrelages-fliesenleger-biel/reviewer_4.jpg",
+        "rating": 5,
+        "text": "Der beste Kundenmaurer und Plattenleger der Region!!!",
+        "time": 1670961306,
+        "relative_time_description": "vor 3 Jahren"
+      },
+      {
+        "author_name": "Jonas Siegenthaler",
+        "author_photo": "/images/reviews/c-frossard-sarl-carrelages-fliesenleger-biel/reviewer_5.jpg",
+        "rating": 5,
+        "text": "Top Arbeiten, freundlicher Service",
+        "time": 1603357317,
+        "relative_time_description": "vor 5 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }

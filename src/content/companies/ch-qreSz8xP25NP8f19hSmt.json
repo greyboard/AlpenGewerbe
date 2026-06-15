@@ -1,7 +1,7 @@
 {
   "id": "ch-qreSz8xP25NP8f19hSmt",
   "slug": "baumann-holzbau-appenzell",
-  "name": "Baumann Holzbau",
+  "name": "Baumann Holzbau Appenzell GmbH",
   "branchen": [
     "schreiner"
   ],
@@ -26,5 +26,63 @@
     "Treppenbau",
     "Badmöbel",
     "Holzreparatur"
-  ]
+  ],
+  "googlePlaceId": "ChIJq4nbYwshm0cRt52a87jVNow",
+  "google_fetched": true,
+  "openingHours": [
+    "Montag: 06:45–12:00 Uhr, 13:15–17:30 Uhr",
+    "Dienstag: 06:45–12:00 Uhr, 13:15–17:30 Uhr",
+    "Mittwoch: 06:45–12:00 Uhr, 13:15–17:30 Uhr",
+    "Donnerstag: 06:45–12:00 Uhr, 13:15–17:30 Uhr",
+    "Freitag: 06:45–12:00 Uhr, 13:15–16:30 Uhr",
+    "Samstag: Geschlossen",
+    "Sonntag: Geschlossen"
+  ],
+  "ratingCached": {
+    "rating": 5,
+    "user_ratings_total": 5,
+    "reviews": [
+      {
+        "author_name": "Thomas Willi",
+        "author_photo": "/images/reviews/baumann-holzbau-appenzell/reviewer_1.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1649436776,
+        "relative_time_description": "vor 4 Jahren"
+      },
+      {
+        "author_name": "Corina Baumann",
+        "author_photo": "/images/reviews/baumann-holzbau-appenzell/reviewer_2.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1607539338,
+        "relative_time_description": "vor 5 Jahren"
+      },
+      {
+        "author_name": "Bruno Graf",
+        "author_photo": "/images/reviews/baumann-holzbau-appenzell/reviewer_3.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1545065671,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Manuela Schuppisser",
+        "author_photo": "/images/reviews/baumann-holzbau-appenzell/reviewer_4.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1539769417,
+        "relative_time_description": "vor 7 Jahren"
+      },
+      {
+        "author_name": "Emil Fuchs",
+        "author_photo": "/images/reviews/baumann-holzbau-appenzell/reviewer_5.jpg",
+        "rating": 5,
+        "text": "",
+        "time": 1529560517,
+        "relative_time_description": "vor 7 Jahren"
+      }
+    ],
+    "last_updated": "2026-06-15"
+  }
 }
