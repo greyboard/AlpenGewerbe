@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
 import { seoTexts, seoFallback } from '../../../config/seoTexts.js';
+import { branchenLabel } from '../../../config/branchenLabels';
 
 function toSlug(str: string) {
   return str.trim().toLowerCase()
@@ -60,7 +61,7 @@ export async function getStaticPaths() {
 }
 
 const { ortLabel, ortSlug, land, branche, companies } = Astro.props;
-const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
+const brancheLabel = branchenLabel(branche);
 
 const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;
 const heroText = (seoEntry.heroText ?? seoFallback.heroText)
@@ -79,7 +80,7 @@ const heroText = (seoEntry.heroText ?? seoFallback.heroText)
         <li aria-hidden="true">›</li>
         <li><a href={`/region/${ortSlug}/`} class="hover:text-(--color-primary) transition-colors">{ortLabel}</a></li>
         <li aria-hidden="true">›</li>
-        <li class="text-(--color-text) font-medium capitalize">{branche}</li>
+        <li class="text-(--color-text) font-medium">{brancheLabel}</li>
       </ol>
     </div>
   </nav>
@@ -90,7 +91,7 @@ const heroText = (seoEntry.heroText ?? seoFallback.heroText)
         <span class="text-xl">{land === 'LI' ? '🇱🇮' : '🇨🇭'}</span>
         <span>{ortLabel}</span>
         <span aria-hidden="true">›</span>
-        <span class="capitalize">{branche}</span>
+        <span>{brancheLabel}</span>
       </div>
       <h1 class="text-white mb-3">{brancheLabel} in {ortLabel}</h1>
       <p class="text-white/80 text-base max-w-2xl mb-3">{heroText}</p>
@@ -112,8 +113,8 @@ const heroText = (seoEntry.heroText ?? seoFallback.heroText)
       <a href={`/${branche}/`}
          class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm font-medium
                 bg-white border border-(--color-border) text-(--color-text)
-                hover:border-(--color-primary) hover:text-(--color-primary) transition-colors capitalize">
-        Alle {branche} in der Schweiz
+                hover:border-(--color-primary) hover:text-(--color-primary) transition-colors">
+        Alle {brancheLabel} in der Schweiz
       </a>
     </div>
   </section>

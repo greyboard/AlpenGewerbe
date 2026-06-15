@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import CompanyCard from '../../components/CompanyCard.astro';
 import { seoTexts, seoFallback } from '../../config/seoTexts.js';
+import { branchenLabel } from '../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const companies = await getCollection('companies');
@@ -21,7 +22,7 @@ export async function getStaticPaths() {
 
 const { branche, companies } = Astro.props;
 const orte = [...new Set(companies.map((c) => c.adresse.ort.toLowerCase().replace(/\s+/g, '-')))];
-const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
+const brancheLabel = branchenLabel(branche);
 
 const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;
 const heroText = (seoEntry.heroText ?? seoFallback.heroText)
@@ -39,7 +40,7 @@ const heroText = (seoEntry.heroText ?? seoFallback.heroText)
       <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
         <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
         <li aria-hidden="true">›</li>
-        <li class="text-(--color-text) font-medium capitalize" aria-current="page">{branche}</li>
+        <li class="text-(--color-text) font-medium" aria-current="page">{brancheLabel}</li>
       </ol>
     </div>
   </nav>
@@ -68,8 +69,8 @@ const heroText = (seoEntry.heroText ?? seoFallback.heroText)
           {orte.map((ort) => (
             <a href={`/${branche}/${ort}/`}
                class="px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-(--color-border)
-                      text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors capitalize">
-              {ort.replace(/-/g, ' ')}
+                      text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors">
+              {ort.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
             </a>
           ))}
         </div>

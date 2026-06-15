@@ -4,6 +4,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
 import { CH_KANTONE } from '../../../data/kantone';
 import { seoTexts, seoFallback } from '../../../config/seoTexts.js';
+import { branchenLabel } from '../../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const { CH_KANTONE } = await import('../../../data/kantone');
@@ -40,7 +41,7 @@ export async function getStaticPaths() {
 }
 
 const { kantonName, kürzel, kantonSlug, branche, companies } = Astro.props;
-const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
+const brancheLabel = branchenLabel(branche);
 
 const seoEntry = seoTexts[branche as keyof typeof seoTexts] ?? seoFallback;
 const heroText = (seoEntry.heroText ?? seoFallback.heroText)
@@ -75,7 +76,7 @@ function ortSlug(ort: string) {
         <li aria-hidden="true">›</li>
         <li><a href={`/kanton/${kantonSlug}/`} class="hover:text-(--color-primary) transition-colors">{kantonName}</a></li>
         <li aria-hidden="true">›</li>
-        <li class="text-(--color-text) font-medium capitalize">{branche}</li>
+        <li class="text-(--color-text) font-medium">{brancheLabel}</li>
       </ol>
     </div>
   </nav>
@@ -87,7 +88,7 @@ function ortSlug(ort: string) {
         <span class="bg-white/15 px-2 py-0.5 rounded text-xs font-bold tracking-wider">{kürzel}</span>
         <span>{kantonName}</span>
         <span aria-hidden="true">›</span>
-        <span class="capitalize">{branche}</span>
+        <span>{brancheLabel}</span>
       </div>
       <h1 class="text-white mb-3">{brancheLabel} im Kanton {kantonName}</h1>
       <p class="text-white/80 text-base max-w-2xl mb-3">{heroText}</p>

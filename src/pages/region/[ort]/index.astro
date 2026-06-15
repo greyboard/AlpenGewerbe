@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
+import { branchenLabel } from '../../../config/branchenLabels';
 
 function toSlug(str: string) {
   return str.trim().toLowerCase()
@@ -99,8 +100,8 @@ const isSchweizOverview = ortLabel === 'Schweiz';
           {topBranchen.map(([branche, count]) => (
             <a href={`/region/${ortSlug}/${branche}/`}
                class="px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-(--color-border)
-                      text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors capitalize">
-              {branche} <span class="text-(--color-text-muted) text-xs">({count})</span>
+                      text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors">
+              {branchenLabel(branche)} <span class="text-(--color-text-muted) text-xs">({count})</span>
             </a>
           ))}
         </div>

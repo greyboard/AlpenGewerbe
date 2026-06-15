@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import CompanyCard from '../../../components/CompanyCard.astro';
 import { CH_KANTONE } from '../../../data/kantone';
+import { branchenLabel } from '../../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const { CH_KANTONE } = await import('../../../data/kantone');
@@ -95,8 +96,8 @@ function ortSlug(ort: string) {
               {topBranchen.map(([branche, count]) => (
                 <a href={`/kanton/${Astro.params.kanton}/${branche}/`}
                    class="px-2.5 py-1 rounded-full text-xs font-medium bg-white border border-(--color-border)
-                          text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors capitalize">
-                  {branche} ({count})
+                          text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors">
+                  {branchenLabel(branche)} ({count})
                 </a>
               ))}
             </div>

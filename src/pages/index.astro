@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { CH_KANTONE } from '../data/kantone';
+import { branchenLabel } from '../config/branchenLabels';
 
 const companies    = await getCollection('companies');
 const companiesData = companies.map((e) => e.data);
@@ -16,6 +17,21 @@ for (const c of companiesData) {
 const topBranchen = [...branchenCount.entries()]
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8);
+
+const topBranchenMitOrte = topBranchen.map(([branche, count]) => {
+  const ortCount = new Map<string, number>();
+  for (const c of companiesData) {
+    if (c.branchen.includes(branche)) {
+      const ort = c.adresse.ort;
+      ortCount.set(ort, (ortCount.get(ort) ?? 0) + 1);
+    }
+  }
+  const topOrte = [...ortCount.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5)
+    .map(([ort]) => ({ name: ort, slug: ort.toLowerCase().replace(/\s+/g, '-') }));
+  return { branche, count, topOrte };
+});
 
 // Firmen pro Kanton zählen
 const kantonCount = new Map<string, number>();
@@ -144,11 +160,11 @@ const defaultIcon = 'M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5';
 
       <!-- Schnelllinks -->
       <div class="flex flex-wrap justify-center gap-2 mt-6">
-        {topBranchen.slice(0, 5).map(([branche]) => (
+        {[...branchenCount.entries()].sort((a, b) => a[0].localeCompare(b[0], 'de')).map(([branche]) => (
           <a href={`/${branche}/`}
              class="px-3 py-1.5 rounded-full bg-white/15 text-white/90 text-sm font-medium
-                    hover:bg-white/25 transition-colors capitalize">
-            {branche}
+                    hover:bg-white/25 transition-colors">
+            {branchenLabel(branche)}
           </a>
         ))}
       </div>
@@ -172,23 +188,38 @@ const defaultIcon = 'M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5';
       </div>
 
       <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 stagger-children">
-        {topBranchen.map(([branche, count]) => (
-          <a href={`/${branche}/`}
-             class="group bg-white rounded-2xl border border-transparent shadow-sm
-                    hover:shadow-xl hover:-translate-y-1 hover:border-(--color-primary)/20
-                    p-5 animate-on-scroll transition-all duration-300">
-            <div class="w-10 h-10 rounded-xl bg-(--color-primary)/8 flex items-center justify-center mb-3
-                        group-hover:bg-(--color-primary)/15 transition-colors">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1E5C35" stroke-width="1.75"
-                   stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d={branchenIcons[branche] ?? defaultIcon}/>
-              </svg>
-            </div>
-            <h3 class="text-(--color-text) text-base capitalize mb-0.5 group-hover:text-(--color-primary) transition-colors font-semibold">
-              {branche}
-            </h3>
-            <p class="text-xs text-(--color-text-muted)">{count} {count === 1 ? 'Betrieb' : 'Betriebe'}</p>
-          </a>
+        {topBranchenMitOrte.map(({ branche, count, topOrte }) => (
+          <div class="group bg-white rounded-2xl border border-transparent shadow-sm
+                      hover:shadow-xl hover:-translate-y-1 hover:border-(--color-primary)/20
+                      p-5 animate-on-scroll transition-all duration-300">
+            <a href={`/${branche}/`} class="block">
+              <div class="w-10 h-10 rounded-xl bg-(--color-primary)/8 flex items-center justify-center mb-3
+                          group-hover:bg-(--color-primary)/15 transition-colors">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1E5C35" stroke-width="1.75"
+                     stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <path d={branchenIcons[branche] ?? defaultIcon}/>
+                </svg>
+              </div>
+              <h3 class="text-(--color-text) text-base mb-0.5 group-hover:text-(--color-primary) transition-colors font-semibold">
+                {branchenLabel(branche)}
+              </h3>
+              <p class="text-xs text-(--color-text-muted)">{count} {count === 1 ? 'Betrieb' : 'Betriebe'}</p>
+            </a>
+            {topOrte.length > 0 && (
+              <div class="mt-3 pt-3 border-t border-(--color-border)">
+              <ul class="space-y-0.5">
+                {topOrte.map(({ name, slug }) => (
+                  <li>
+                    <a href={`/${branche}/${slug}/`}
+                       class="text-xs text-(--color-text-muted) hover:text-(--color-primary) transition-colors">
+                      {branchenLabel(branche)} in {name}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+              </div>
+            )}
+          </div>
         ))}
       </div>
     </div>
@@ -332,7 +363,7 @@ const defaultIcon = 'M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5';
            </div>`
         : '';
       const badges = item.branchen.slice(0, 2).map(
-        (b) => `<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-[#1E5C35]/5 text-[#1A5230] capitalize">${b}</span>`
+        (b) => `<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-[#1E5C35]/5 text-[#1A5230]">${b.charAt(0).toUpperCase() + b.slice(1)}</span>`
       ).join('');
       return `
         <article class="group bg-white rounded-2xl border border-transparent shadow-sm

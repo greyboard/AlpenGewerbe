@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import LocalBusinessSchema from '../../components/LocalBusinessSchema.astro';
+import { branchenLabel } from '../../config/branchenLabels';
 
 export async function getStaticPaths() {
   const companies = await getCollection('companies');
@@ -71,8 +72,8 @@ const showDescription = description && (accountStatus === 'business' || accountS
         <li aria-hidden="true">›</li>
         {branchen[0] && (
           <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-            <a href={`/${branchen[0]}/`} itemprop="item" class="hover:text-(--color-primary) transition-colors capitalize">
-              <span itemprop="name">{branchen[0]}</span>
+            <a href={`/${branchen[0]}/`} itemprop="item" class="hover:text-(--color-primary) transition-colors">
+              <span itemprop="name">{branchenLabel(branchen[0])}</span>
             </a>
             <meta itemprop="position" content="2" />
           </li>
@@ -95,9 +96,9 @@ const showDescription = description && (accountStatus === 'business' || accountS
             <a
               href={`/${b}/`}
               class="inline-block px-3 py-1 rounded-full text-xs font-semibold bg-(--color-surface-alt)
-                     text-(--color-primary-text) hover:bg-(--color-primary) hover:text-white transition-colors capitalize"
+                     text-(--color-primary-text) hover:bg-(--color-primary) hover:text-white transition-colors"
             >
-              {b}
+              {branchenLabel(b)}
             </a>
           ))}
         </div>

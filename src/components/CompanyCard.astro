@@ -1,4 +1,6 @@
 ---
+import { branchenLabel } from '../config/branchenLabels';
+
 interface Props {
   name: string;
   slug: string;
@@ -30,8 +32,8 @@ const ratingStars = rating ? Math.round(rating) : 0;
     <div class="flex flex-wrap gap-1.5 mb-3">
       {branchen.slice(0, 2).map((b) => (
         <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium
-                     bg-(--color-primary)/5 text-(--color-primary-text) capitalize">
-          {b}
+                     bg-(--color-primary)/5 text-(--color-primary-text)">
+          {branchenLabel(b)}
         </span>
       ))}
       {branchen.length > 2 && (
