@@ -1,0 +1,30 @@
+{
+  "id": "ch-odnyHtR6aWJItIX2d0PA",
+  "slug": "leu-elektro-gmbh-schaffhausen",
+  "name": "Leu Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hochstrasse 361",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526434330",
+    "email": "info@leu-elektro.ch",
+    "webseite": "https://www.leu-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

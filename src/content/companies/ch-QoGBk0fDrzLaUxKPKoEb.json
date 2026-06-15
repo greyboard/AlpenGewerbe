@@ -1,0 +1,30 @@
+{
+  "id": "ch-QoGBk0fDrzLaUxKPKoEb",
+  "slug": "ig-glas-gmbh-triengen",
+  "name": "IG Glas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Schützenstrasse 12",
+    "plz": "6234",
+    "ort": "Triengen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41419331530",
+    "email": "info@ig-glas.ch",
+    "webseite": "https://ig-glas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

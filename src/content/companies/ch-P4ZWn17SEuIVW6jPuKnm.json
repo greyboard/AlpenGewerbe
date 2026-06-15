@@ -1,0 +1,30 @@
+{
+  "id": "ch-P4ZWn17SEuIVW6jPuKnm",
+  "slug": "pinoja-impianti-sa-losone",
+  "name": "Pinoja impianti sa",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Municipio 12",
+    "plz": "6616",
+    "ort": "Losone",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917913020",
+    "email": "elettro@depi.ch",
+    "webseite": "https://pinoja-impianti.digitalone.site"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

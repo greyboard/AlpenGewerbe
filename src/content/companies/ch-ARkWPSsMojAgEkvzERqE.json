@@ -1,0 +1,30 @@
+{
+  "id": "ch-ARkWPSsMojAgEkvzERqE",
+  "slug": "sergio-lo-stanco-elektro-ag-biberist",
+  "name": "Sergio Lo Stanco Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 8",
+    "plz": "4562",
+    "ort": "Biberist",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326712020",
+    "email": "info@lostanco.ch",
+    "webseite": "https://www.lostanco.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

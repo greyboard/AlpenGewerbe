@@ -1,0 +1,30 @@
+{
+  "id": "ch-Dly8LnVdwUenM73Fi6vZ",
+  "slug": "jendly-ag-duedingen",
+  "name": "Jendly AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 22A",
+    "plz": "3186",
+    "ort": "Düdingen",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264923535",
+    "email": "schreinerei@jendly.ch",
+    "webseite": "https://www.jendly.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

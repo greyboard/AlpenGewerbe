@@ -1,0 +1,30 @@
+{
+  "id": "ch-xfJkvdr6uBWTQRJyMH0f",
+  "slug": "pirker-electricite-sa-geneve",
+  "name": "Pirker Electricité SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue des Vollandes 21",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227364646",
+    "email": "info@pirkersa.ch",
+    "webseite": "https://www.pirkersa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

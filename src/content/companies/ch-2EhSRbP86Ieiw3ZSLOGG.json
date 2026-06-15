@@ -1,0 +1,30 @@
+{
+  "id": "ch-2EhSRbP86Ieiw3ZSLOGG",
+  "slug": "maler-jakupovic-gmbh-basel",
+  "name": "Maler Jakupovic GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Klybeckstrasse 53",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763709504",
+    "email": "mail@ww-design.ch",
+    "webseite": "https://www.maler-jakupovic.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

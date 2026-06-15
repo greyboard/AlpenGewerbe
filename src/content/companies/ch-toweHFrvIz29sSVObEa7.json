@@ -1,0 +1,30 @@
+{
+  "id": "ch-toweHFrvIz29sSVObEa7",
+  "slug": "mathys-goetschmann-ag-bern",
+  "name": "Mathys + Götschmann AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Scheibenstrasse 58",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313113434",
+    "email": "info@mathysgoetschmann.ch",
+    "webseite": "https://www.mathysgoetschmann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

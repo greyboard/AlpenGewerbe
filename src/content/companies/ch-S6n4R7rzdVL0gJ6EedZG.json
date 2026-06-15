@@ -1,0 +1,30 @@
+{
+  "id": "ch-S6n4R7rzdVL0gJ6EedZG",
+  "slug": "golden-brick-bauunternehmung-zuerich-zuerich",
+  "name": "Golden Brick Bauunternehmung - Zürich",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wydäckerring 85",
+    "plz": "8047",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41783104291",
+    "email": "info@goldenbrick.ch",
+    "webseite": "https://www.goldenbrick.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

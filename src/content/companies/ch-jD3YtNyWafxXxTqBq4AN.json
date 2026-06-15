@@ -1,0 +1,30 @@
+{
+  "id": "ch-jD3YtNyWafxXxTqBq4AN",
+  "slug": "eberli-ag-sarnen",
+  "name": "Eberli AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Kägiswilerstrasse 15",
+    "plz": "6060",
+    "ort": "Sarnen",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416663848",
+    "email": "info@eberli-ag.ch",
+    "webseite": "https://www.eberli-ag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-uM9hLwhiNUSonjNN4a6f",
+  "slug": "dachweltbau-frenkendorf",
+  "name": "Dachweltbau",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Eggstrasse 17",
+    "plz": "4402",
+    "ort": "Frenkendorf",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41779567422",
+    "email": "kontakt@dachweltbau.ch",
+    "webseite": "https://dachweltbau.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

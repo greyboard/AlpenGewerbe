@@ -1,0 +1,30 @@
+{
+  "id": "ch-3Eg3JK22LU3vCZMkemH5",
+  "slug": "swiss-metallbau-ag-goldach",
+  "name": "Swiss Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Felbenstrasse 13",
+    "plz": "9403",
+    "ort": "Goldach",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41718449700",
+    "email": "info@swiss-metallbau.ch",
+    "webseite": "https://www.swiss-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-zg62zVengvVDIWAKg2IV",
+  "slug": "blatter-gmbh-sauber-geheizt-liestal",
+  "name": "Blatter GmbH sauber geheizt",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Erzenbergstrasse 11",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615112575",
+    "email": "info@blatter-heizung.ch",
+    "webseite": "https://www.blatter-heizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

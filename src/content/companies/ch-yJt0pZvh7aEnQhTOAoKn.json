@@ -1,0 +1,30 @@
+{
+  "id": "ch-yJt0pZvh7aEnQhTOAoKn",
+  "slug": "palatini-ag-malergeschaeft-st-gallen",
+  "name": "Palatini AG Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Fürstenlandstrasse 103",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712774467",
+    "email": "info@palatini-ag.ch",
+    "webseite": "https://www.palatini-ag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

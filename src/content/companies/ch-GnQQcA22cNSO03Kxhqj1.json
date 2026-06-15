@@ -1,0 +1,30 @@
+{
+  "id": "ch-GnQQcA22cNSO03Kxhqj1",
+  "slug": "einfach-garten-gmbh-kaegiswil",
+  "name": "einfach-garten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kernmatt 5",
+    "plz": "6056",
+    "ort": "Kägiswil",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792180817",
+    "email": "christof@einfach-garten.ch",
+    "webseite": "https://einfach-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

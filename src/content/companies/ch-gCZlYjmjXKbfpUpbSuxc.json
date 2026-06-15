@@ -1,0 +1,30 @@
+{
+  "id": "ch-gCZlYjmjXKbfpUpbSuxc",
+  "slug": "voltis-energies-sarl-villars-sur-glane",
+  "name": "Voltis Energies Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte du Platy 10A",
+    "plz": "1752",
+    "ort": "Villars-sur-Glâne",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264013333",
+    "email": "info@voltis-energies.ch",
+    "webseite": "https://www.voltis-energies.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

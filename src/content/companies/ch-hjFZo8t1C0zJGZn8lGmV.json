@@ -1,0 +1,30 @@
+{
+  "id": "ch-hjFZo8t1C0zJGZn8lGmV",
+  "slug": "ags-sanitaer-und-heizung-gmbh-daeniken",
+  "name": "AGS Sanitär und Heizung GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 14",
+    "plz": "4658",
+    "ort": "Däniken",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798017070",
+    "email": "info@ags-sanitaer-heizung.ch",
+    "webseite": "https://www.ags-sanitaer-heizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

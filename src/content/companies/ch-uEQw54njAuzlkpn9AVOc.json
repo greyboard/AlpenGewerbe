@@ -1,0 +1,30 @@
+{
+  "id": "ch-uEQw54njAuzlkpn9AVOc",
+  "slug": "graf-sanitaer-heizung-ag-horw",
+  "name": "Graf Sanitär Heizung AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Wegmattstrasse 39",
+    "plz": "6048",
+    "ort": "Horw",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413408888",
+    "email": "kontakt@sanigraf.ch",
+    "webseite": "https://www.sanigraf.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

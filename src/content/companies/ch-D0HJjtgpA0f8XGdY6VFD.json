@@ -1,0 +1,30 @@
+{
+  "id": "ch-D0HJjtgpA0f8XGdY6VFD",
+  "slug": "tp-holzbau-gmbh-steckborn",
+  "name": "TP Holzbau GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Grondweg",
+    "plz": "8266",
+    "ort": "Steckborn",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527471177",
+    "email": "info@tp-holzbau.ch",
+    "webseite": "https://tp-holzbau.ch/kontakt-tp-holzbau-ermatingen"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

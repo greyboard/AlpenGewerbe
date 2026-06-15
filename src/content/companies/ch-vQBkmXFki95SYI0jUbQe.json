@@ -1,0 +1,30 @@
+{
+  "id": "ch-vQBkmXFki95SYI0jUbQe",
+  "slug": "rohn-elektro-unternehmen-ag-bellach",
+  "name": "Rohn Elektro-Unternehmen AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 27",
+    "plz": "4512",
+    "ort": "Bellach",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326181818",
+    "email": "info@rohn.ch",
+    "webseite": "https://www.rohn.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

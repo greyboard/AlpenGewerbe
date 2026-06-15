@@ -1,0 +1,30 @@
+{
+  "id": "ch-63OqHFHl1kfFkQNbzjmW",
+  "slug": "beli-maler-gipser-gmbh-bern",
+  "name": "BELI Maler & Gipser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Seftigenstrasse 41",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41327530322",
+    "email": "info@beli-malergipser.ch",
+    "webseite": "https://www.beli-malergipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

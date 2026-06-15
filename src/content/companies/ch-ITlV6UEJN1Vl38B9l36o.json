@@ -1,0 +1,30 @@
+{
+  "id": "ch-ITlV6UEJN1Vl38B9l36o",
+  "slug": "creativ-gipser-muenchenstein",
+  "name": "creativ-Gipser",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Genuastrasse 4",
+    "plz": "4142",
+    "ort": "Münchenstein",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613113737",
+    "email": "info@creativ-gipser.ch",
+    "webseite": "https://www.creativ-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

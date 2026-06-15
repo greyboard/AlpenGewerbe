@@ -1,0 +1,30 @@
+{
+  "id": "ch-OPCTRalHdQnS97e39MQB",
+  "slug": "cadotsch-malergeschaeft-gmbh-savognin",
+  "name": "Cadotsch Malergeschäft GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Veia Somareiva 13",
+    "plz": "7460",
+    "ort": "Savognin",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796296656",
+    "email": "info@maler-cadotsch.ch",
+    "webseite": "https://www.maler-cadotsch.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

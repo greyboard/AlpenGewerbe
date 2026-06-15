@@ -1,0 +1,30 @@
+{
+  "id": "ch-61yfCvVr5R6yCpmi38cR",
+  "slug": "elektro-haas-jestetten",
+  "name": "Elektro Haas",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hohentwielstraße 8",
+    "plz": "79798",
+    "ort": "Jestetten",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+4977457268",
+    "email": "info@elektrohaas.online",
+    "webseite": "https://www.elektrohaas.online"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

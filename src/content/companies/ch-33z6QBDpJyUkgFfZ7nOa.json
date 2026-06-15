@@ -1,0 +1,30 @@
+{
+  "id": "ch-33z6QBDpJyUkgFfZ7nOa",
+  "slug": "th-inauen-ag-waldkirch",
+  "name": "Th. Inauen AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Neubrunnstrasse 2A",
+    "plz": "9205",
+    "ort": "Waldkirch",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714346737",
+    "email": "info@inauenheizung.ch",
+    "webseite": "https://www.inauenheizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

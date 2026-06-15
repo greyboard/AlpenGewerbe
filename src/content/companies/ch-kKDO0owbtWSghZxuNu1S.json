@@ -1,0 +1,30 @@
+{
+  "id": "ch-kKDO0owbtWSghZxuNu1S",
+  "slug": "hs-team-ag-alpnach",
+  "name": "HS Team AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Brünigstrasse 16",
+    "plz": "6055",
+    "ort": "Alpnach",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416701111",
+    "email": "info@hs-team.ch",
+    "webseite": "https://www.hs-team.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

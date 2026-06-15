@@ -1,0 +1,30 @@
+{
+  "id": "ch-m2NTr0kM9LrmJja9U9Ri",
+  "slug": "a-h-maurer-gartenbau-gmbh-diessenhofen",
+  "name": "A. + H. Maurer Gartenbau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Rhyäcker 9",
+    "plz": "8253",
+    "ort": "Diessenhofen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526573381",
+    "email": "info@maurergartenbau.ch",
+    "webseite": "https://www.maurergartenbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

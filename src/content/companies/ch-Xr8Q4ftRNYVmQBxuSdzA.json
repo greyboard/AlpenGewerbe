@@ -1,0 +1,30 @@
+{
+  "id": "ch-Xr8Q4ftRNYVmQBxuSdzA",
+  "slug": "schreinerei-stierli-giswil",
+  "name": "Schreinerei Stierli",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 39",
+    "plz": "6074",
+    "ort": "Giswil",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792707932",
+    "email": "info@schreinerei-stierli.ch",
+    "webseite": "https://schreinerei-stierli.ch/kontakt"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

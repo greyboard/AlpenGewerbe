@@ -1,0 +1,30 @@
+{
+  "id": "ch-KixI887Utp8kpuT8xldn",
+  "slug": "garten-und-bau-bernhardsgruetter-ag-arnegg",
+  "name": "Garten und Bau Bernhardsgrütter AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Schmiedgasse 3",
+    "plz": "9212",
+    "ort": "Arnegg",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713850888",
+    "email": "info@gartenundbau.ch",
+    "webseite": "https://www.gartenundbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

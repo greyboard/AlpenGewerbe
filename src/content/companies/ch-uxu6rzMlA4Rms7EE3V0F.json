@@ -1,0 +1,30 @@
+{
+  "id": "ch-uxu6rzMlA4Rms7EE3V0F",
+  "slug": "w-s-elektro-ag-aarau",
+  "name": "W + S Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Lindenweg 4",
+    "plz": "5032",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628346060",
+    "email": "elektro@ws-ag.ch",
+    "webseite": "https://www.ws-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

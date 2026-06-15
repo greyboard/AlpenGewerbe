@@ -1,0 +1,30 @@
+{
+  "id": "ch-HHbEMf6wqrYEdUBwkGyY",
+  "slug": "anderegg-allround-kundenmaurer-oberwil",
+  "name": "ANDEREGG Allround Kundenmaurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Libellenstrasse 21",
+    "plz": "4104",
+    "ort": "Oberwil",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796525745",
+    "email": "info@anderegg-allround.ch",
+    "webseite": "https://www.anderegg-allround.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

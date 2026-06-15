@@ -1,0 +1,30 @@
+{
+  "id": "ch-J0tUsQc2tvArkpCZDxyX",
+  "slug": "glaserei-glasservice24-ch-zuerich",
+  "name": "Glaserei glasservice24.ch",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Michelstrasse 26",
+    "plz": "8049",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444634444",
+    "email": "info@abcitydienst.ch",
+    "webseite": "https://www.glasservice24.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

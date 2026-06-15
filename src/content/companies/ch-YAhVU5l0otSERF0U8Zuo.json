@@ -1,0 +1,30 @@
+{
+  "id": "ch-YAhVU5l0otSERF0U8Zuo",
+  "slug": "avdili-elektro-gmbh-glarus",
+  "name": "Avdili Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Stampfgasse 44",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556441166",
+    "email": "info@avdili-elektro.ch",
+    "webseite": "https://www.avdili-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

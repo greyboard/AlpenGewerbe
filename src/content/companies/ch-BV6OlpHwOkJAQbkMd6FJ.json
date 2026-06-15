@@ -1,0 +1,30 @@
+{
+  "id": "ch-BV6OlpHwOkJAQbkMd6FJ",
+  "slug": "zehnder-garten-gmbh-einsiedeln",
+  "name": "zehnder-garten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Bennauerstrasse 46",
+    "plz": "8836",
+    "ort": "Einsiedeln",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554123400",
+    "email": "info@zehnder-garten.ch",
+    "webseite": "https://www.zehnder-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-W3EYVzKaPjWVEKG2angw",
+  "slug": "zemp-sanitaer-ag-luzern",
+  "name": "Zemp Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rothenring 9",
+    "plz": "6015",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412603337",
+    "email": "info@zempsanitaer.ch",
+    "webseite": "https://www.zempsanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-XipXvBa2AAwIBQn7gYVW",
+  "slug": "baubuero-zimmermann-wuersch-ennetbuergen",
+  "name": "Baubüro Zimmermann & Würsch",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Alte G. 2",
+    "plz": "6373",
+    "ort": "Ennetbürgen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416208808",
+    "email": "info@baubuerogmbh.ch",
+    "webseite": "https://www.baubuerogmbh.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

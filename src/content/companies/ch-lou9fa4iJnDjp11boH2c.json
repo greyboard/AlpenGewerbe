@@ -1,0 +1,30 @@
+{
+  "id": "ch-lou9fa4iJnDjp11boH2c",
+  "slug": "haefelin-ag-frauenfeld",
+  "name": "Häfelin AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Algisserstrasse 6",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527250505",
+    "email": "info@haefelin-ag.ch",
+    "webseite": "https://www.haefelin-ag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

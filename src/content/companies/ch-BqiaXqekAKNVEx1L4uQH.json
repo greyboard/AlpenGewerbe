@@ -1,0 +1,30 @@
+{
+  "id": "ch-BqiaXqekAKNVEx1L4uQH",
+  "slug": "bless-ag-erstfeld",
+  "name": "Bless AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Bärenbodenweg 17",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418802115",
+    "email": "info@blessag.ch",
+    "webseite": "https://www.blessag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

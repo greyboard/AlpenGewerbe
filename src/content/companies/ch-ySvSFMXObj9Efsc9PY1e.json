@@ -1,0 +1,30 @@
+{
+  "id": "ch-ySvSFMXObj9Efsc9PY1e",
+  "slug": "gehatec-ag-hasle-bei-burgdorf",
+  "name": "gehatec ag",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Thunstrasse 3",
+    "plz": "3415",
+    "ort": "Hasle bei Burgdorf",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41344608888",
+    "email": "info@gehatec.ch",
+    "webseite": "https://gehatec.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

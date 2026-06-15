@@ -1,0 +1,30 @@
+{
+  "id": "ch-xPAjOFXXuvR9waZCCnwQ",
+  "slug": "gerold-kaelin-ag-glarus",
+  "name": "Gerold Kälin AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Ygrubenstrasse 38",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556401650",
+    "email": "kaelinag@bluewin.ch",
+    "webseite": "https://www.kaelin-ag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

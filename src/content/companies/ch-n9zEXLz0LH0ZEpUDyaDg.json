@@ -1,0 +1,30 @@
+{
+  "id": "ch-n9zEXLz0LH0ZEpUDyaDg",
+  "slug": "dr-med-simon-zimmermann-zuerich",
+  "name": "Dr. med. Simon Zimmermann",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Brandschenkestrasse 45",
+    "plz": "8002",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782618288",
+    "email": "info@theswissnose.ch",
+    "webseite": "https://www.theswissnose.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Y8eLcl5lDkpFUZpzevpi",
+  "slug": "brissoni-ag-elektro-telekommunikation-luzern",
+  "name": "Brissoni AG Elektro + Telekommunikation",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Friedentalstrasse 41A",
+    "plz": "6004",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414220606",
+    "email": "mail@elektro-brissoni.ch",
+    "webseite": "https://www.elektro-brissoni.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

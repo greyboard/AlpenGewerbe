@@ -1,0 +1,30 @@
+{
+  "id": "ch-e64bdj5qDvAN8QAutYt3",
+  "slug": "achermann-schreinerei-ag-stans",
+  "name": "Achermann Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Aemättlihof 102",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416106181",
+    "email": "info@achermann-schreinerei.ch",
+    "webseite": "https://www.achermann-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

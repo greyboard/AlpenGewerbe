@@ -1,0 +1,30 @@
+{
+  "id": "ch-bhZc5hBvFoehE7xsIxJd",
+  "slug": "lm-bau-und-renovationen-gmbh-thalwil",
+  "name": "LM Bau und Renovationen GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Zürcherstrasse 61",
+    "plz": "8800",
+    "ort": "Thalwil",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41447241310",
+    "email": "info@lm-bau-renovationen.ch",
+    "webseite": "https://www.lm-bau-renovationen.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

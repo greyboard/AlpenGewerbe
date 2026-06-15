@@ -1,0 +1,30 @@
+{
+  "id": "ch-OItcgZGOH0LCx4N97Clm",
+  "slug": "valli-ag-strassenbau-buchs",
+  "name": "Valli AG Strassenbau",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Pulverhausweg 11",
+    "plz": "5033",
+    "ort": "Buchs",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628378000",
+    "email": "info@valli-bau.ch",
+    "webseite": "https://www.valli-strassenbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

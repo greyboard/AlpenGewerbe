@@ -1,0 +1,30 @@
+{
+  "id": "ch-J5t3j8w7E5SxHiuhjxbC",
+  "slug": "haeuptli-ag-berg",
+  "name": "Häuptli AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 9",
+    "plz": "8572",
+    "ort": "Berg",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716380638",
+    "email": "info@haeuptli-elektro.ch",
+    "webseite": "https://www.haeuptli-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

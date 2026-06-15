@@ -1,0 +1,30 @@
+{
+  "id": "ch-nG9fIyX71YGAHNSAKTWS",
+  "slug": "idromax-sanitari-riscaldamenti-sagl-bellinzona",
+  "name": "Idromax Sanitari-Riscaldamenti Sagl",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Via Parco 6",
+    "plz": "6500",
+    "ort": "Bellinzona",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41918257600",
+    "email": "idromax@bluewin.ch",
+    "webseite": "https://www.idromax.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

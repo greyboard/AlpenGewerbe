@@ -1,0 +1,30 @@
+{
+  "id": "ch-9nbcvrV669tRoiQatCxZ",
+  "slug": "colorado-maler-ag-chur",
+  "name": "Colorado Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Grossbruggerweg 3",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812840800",
+    "email": "info@colorado-maler.ch",
+    "webseite": "https://www.colorado-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

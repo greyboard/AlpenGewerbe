@@ -1,0 +1,30 @@
+{
+  "id": "ch-BFX0jtD7K2P4bEWxxIcN",
+  "slug": "maler-horat-ibach",
+  "name": "Maler Horat",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Neumattweg 7",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418114269",
+    "email": "horat@regiomaler.ch",
+    "webseite": "https://www.maler-horat.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

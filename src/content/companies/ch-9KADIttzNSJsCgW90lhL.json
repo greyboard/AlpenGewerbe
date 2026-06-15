@@ -1,0 +1,30 @@
+{
+  "id": "ch-9KADIttzNSJsCgW90lhL",
+  "slug": "grosch-sa-geneve",
+  "name": "Grosch SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rue de la Coulouvrenière 15",
+    "plz": "1204",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223290511",
+    "email": "20info@grosch-sa.ch",
+    "webseite": "https://plomberiegrosch.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

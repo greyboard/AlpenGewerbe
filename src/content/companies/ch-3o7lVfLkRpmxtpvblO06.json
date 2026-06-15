@@ -1,0 +1,30 @@
+{
+  "id": "ch-3o7lVfLkRpmxtpvblO06",
+  "slug": "solesa-sa-fribourg",
+  "name": "Solesa SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Chem. de Bonlieu 1",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264201215",
+    "email": "simon.gillioz@solesa.ch",
+    "webseite": "https://www.solesa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

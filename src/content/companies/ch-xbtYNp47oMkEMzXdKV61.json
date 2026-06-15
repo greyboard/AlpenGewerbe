@@ -1,0 +1,30 @@
+{
+  "id": "ch-xbtYNp47oMkEMzXdKV61",
+  "slug": "bng-renovation-sarl-entreprise-generale-de-renovation-vaud-et-geneve-etoy",
+  "name": "BNG Rénovation Sàrl | Entreprise générale de rénovation | Vaud et Genève",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "En Courta Rama 4",
+    "plz": "1163",
+    "ort": "Etoy",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41216255566",
+    "email": "info@bng-renovation.ch",
+    "webseite": "https://www.bng-renovation.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

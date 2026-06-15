@@ -1,0 +1,30 @@
+{
+  "id": "ch-UBATwXLBVxMLGc0sA7pz",
+  "slug": "dach-plus-mehr-gmbh-bern",
+  "name": "Dach plus mehr GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Fellerstrasse 30/3270",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799516585",
+    "email": "info@dachplusmehr.ch",
+    "webseite": "https://dachplusmehr.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

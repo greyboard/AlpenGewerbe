@@ -1,0 +1,30 @@
+{
+  "id": "ch-8dO6SlVB6P7qu8L7fPKE",
+  "slug": "arche-bau-battel-gmbh-schaffhausen",
+  "name": "Arche Bau Battel GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Mühlentalstrasse 243",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526253466",
+    "email": "info@archebau.ch",
+    "webseite": "https://www.archebau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

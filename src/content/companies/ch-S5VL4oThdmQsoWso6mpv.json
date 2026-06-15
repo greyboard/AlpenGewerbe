@@ -1,0 +1,30 @@
+{
+  "id": "ch-S5VL4oThdmQsoWso6mpv",
+  "slug": "pluriservices-sarl-geneve",
+  "name": "PluriServices Sàrl",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rue Zurlinden 6",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795238709",
+    "email": "contact@pluri-services.ch",
+    "webseite": "https://www.pluri-services.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

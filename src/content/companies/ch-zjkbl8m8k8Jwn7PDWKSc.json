@@ -1,0 +1,30 @@
+{
+  "id": "ch-zjkbl8m8k8Jwn7PDWKSc",
+  "slug": "emelec-sa-givisiez",
+  "name": "EMELEC SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte André Piller 18",
+    "plz": "1762",
+    "ort": "Givisiez",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264661000",
+    "email": "info@emelec.ch",
+    "webseite": "https://yellow.local.ch/d/aLxvJudh6j62g2bGRcw6aQ"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

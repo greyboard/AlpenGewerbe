@@ -1,0 +1,30 @@
+{
+  "id": "ch-7pXEgSmzdsUc9Me2ebbQ",
+  "slug": "jufero-ag-solothurn",
+  "name": "Jufero AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Benedikt-Hugi-Strasse 21",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782055854",
+    "email": "info@jufero.ch",
+    "webseite": "https://jufero.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

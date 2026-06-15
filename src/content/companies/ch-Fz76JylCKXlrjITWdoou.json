@@ -1,0 +1,30 @@
+{
+  "id": "ch-Fz76JylCKXlrjITWdoou",
+  "slug": "burkhalter-elektrotechnik-ag-schaffhausen",
+  "name": "Burkhalter Elektrotechnik AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rheinweg 1A",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526200808",
+    "email": "info@bu-schaffhausen.ch",
+    "webseite": "https://www.bu-schaffhausen.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

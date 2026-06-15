@@ -1,0 +1,30 @@
+{
+  "id": "ch-Pz2hx9dHSprduXyQL4A5",
+  "slug": "etm-elektro-ag-ihr-elektriker-im-raum-schaffhausen-schaffhausen",
+  "name": "ETM Elektro AG – Ihr Elektriker im Raum Schaffhausen",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schweizersbildstrasse 32",
+    "plz": "8207",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41525101640",
+    "email": "info@etm-elektro.ch",
+    "webseite": "https://etm-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-12NAxbJTBBxqWGNzJ6CT",
+  "slug": "witschi-malerei-gipserei-bern",
+  "name": "Witschi Malerei Gipserei",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Neuhausweg 19",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41315572147",
+    "email": "info@witschi-malerei.ch",
+    "webseite": "https://www.witschimalerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

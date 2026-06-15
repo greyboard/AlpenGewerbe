@@ -1,0 +1,30 @@
+{
+  "id": "ch-jA1KlozXEXIjwcQnLq9V",
+  "slug": "prof-dr-med-christoph-maurer-solothurn",
+  "name": "Prof. Dr. med. Christoph Maurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Leopoldstrasse 5",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326221700",
+    "email": "praxis.maurer@hin.ch",
+    "webseite": "https://mdz-aare.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

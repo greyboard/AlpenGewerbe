@@ -1,0 +1,30 @@
+{
+  "id": "ch-1wkeStZaG3awCWqQMpOT",
+  "slug": "ateliers-ehrismann-sa-carouge",
+  "name": "Ateliers Ehrismann SA",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rue François-Meunier 11",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223044820",
+    "email": "adm@ateliers-ehrismann.ch",
+    "webseite": "https://www.ateliers-ehrismann.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

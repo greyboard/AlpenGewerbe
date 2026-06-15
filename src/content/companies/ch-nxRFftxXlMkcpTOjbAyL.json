@@ -1,0 +1,30 @@
+{
+  "id": "ch-nxRFftxXlMkcpTOjbAyL",
+  "slug": "ts-malergeschaeft-gmbh-basel-basel",
+  "name": "TS. Malergeschäft GmbH, Basel",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bechburgerstrasse 1",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615540906",
+    "email": "info@malergeschaeft-basel.ch",
+    "webseite": "https://malergeschaeft-basel.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

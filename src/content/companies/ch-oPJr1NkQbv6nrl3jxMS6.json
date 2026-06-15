@@ -1,0 +1,30 @@
+{
+  "id": "ch-oPJr1NkQbv6nrl3jxMS6",
+  "slug": "sp-malerei-gmbh-bern",
+  "name": "SP Malerei GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 444",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794834733",
+    "email": "info@sp-malerei.ch",
+    "webseite": "https://www.sp-malerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

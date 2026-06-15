@@ -1,0 +1,30 @@
+{
+  "id": "ch-wrkxMeMbodjds0FPxS5U",
+  "slug": "meister-stahlbau-ag-wittenbach",
+  "name": "Meister Stahlbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hofenstrasse 22",
+    "plz": "9300",
+    "ort": "Wittenbach",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712923333",
+    "email": "info@meister-stahlbau.ch",
+    "webseite": "https://www.meister-stahlbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

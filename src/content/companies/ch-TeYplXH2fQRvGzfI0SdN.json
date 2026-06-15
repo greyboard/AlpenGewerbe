@@ -1,0 +1,30 @@
+{
+  "id": "ch-TeYplXH2fQRvGzfI0SdN",
+  "slug": "amoled-elektro-ag-buchrain",
+  "name": "Amoled Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kantonsstrasse 13",
+    "plz": "6033",
+    "ort": "Buchrain",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415112530",
+    "email": "info@amoled.ch",
+    "webseite": "https://amoled.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

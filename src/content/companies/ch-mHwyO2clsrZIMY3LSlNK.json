@@ -1,0 +1,30 @@
+{
+  "id": "ch-mHwyO2clsrZIMY3LSlNK",
+  "slug": "elektro-savoldelli-ag-savognin",
+  "name": "Elektro Savoldelli AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Veia Sur Ual 13",
+    "plz": "7460",
+    "ort": "Savognin",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816842020",
+    "email": "info@elektro-savoldelli.ch",
+    "webseite": "https://www.elektro-savoldelli.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

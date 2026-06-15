@@ -1,0 +1,30 @@
+{
+  "id": "ch-TPZgieRIvYTQDEVuZGRU",
+  "slug": "bernardini-bauunternehmung-gmbh-malans",
+  "name": "Bernardini Bauunternehmung GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Zeughausstrasse 5",
+    "plz": "7208",
+    "ort": "Malans",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813224417",
+    "email": "info@bernardini-bau.ch",
+    "webseite": "https://bernardini-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

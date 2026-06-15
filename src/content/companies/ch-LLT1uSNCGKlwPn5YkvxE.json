@@ -1,0 +1,30 @@
+{
+  "id": "ch-LLT1uSNCGKlwPn5YkvxE",
+  "slug": "maler-hardegger-gmbh-flims",
+  "name": "Maler Hardegger GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Punt la Reisga 1",
+    "plz": "7017",
+    "ort": "Flims",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41819367050",
+    "email": "info@malerhardegger.ch",
+    "webseite": "https://www.malerhardegger.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

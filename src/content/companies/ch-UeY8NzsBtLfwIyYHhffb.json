@@ -1,0 +1,30 @@
+{
+  "id": "ch-UeY8NzsBtLfwIyYHhffb",
+  "slug": "elektro-schuler-germann-ag-mollis",
+  "name": "Elektro Schuler & Germann AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Vorderdorfstrasse 57",
+    "plz": "8753",
+    "ort": "Mollis",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556223355",
+    "email": "info@esgmollis.ch",
+    "webseite": "https://esgmollis.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

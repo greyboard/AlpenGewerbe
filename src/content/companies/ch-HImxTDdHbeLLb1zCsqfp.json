@@ -1,0 +1,30 @@
+{
+  "id": "ch-HImxTDdHbeLLb1zCsqfp",
+  "slug": "malergenossenschaft-basel-basel",
+  "name": "Malergenossenschaft Basel",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Wanderstrasse 36",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612728252",
+    "email": "info@mg-basel.ch",
+    "webseite": "https://www.mg-basel.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-e7v6vjFjKB2b9fgv5U0W",
+  "slug": "ecocity-sanitaire-sarl-geneve",
+  "name": "Ecocity Sanitaire Sàrl",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rue des Eaux-Vives 14",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791791207",
+    "email": "info@ecocitysanitaire.ch",
+    "webseite": "https://www.ecocitysanitaire.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

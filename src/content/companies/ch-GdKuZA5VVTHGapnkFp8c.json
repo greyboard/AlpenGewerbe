@@ -1,0 +1,30 @@
+{
+  "id": "ch-GdKuZA5VVTHGapnkFp8c",
+  "slug": "sauter-malerwerkstaette-und-raumgestaltung-gmbh-schaffhausen",
+  "name": "SAUTER Malerwerkstätte und Raumgestaltung GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Alte G. 4",
+    "plz": "8203",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526259125",
+    "email": "info@sauter-malermeister.ch",
+    "webseite": "https://www.sauter-malermeister.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-fGjNXTnFi7bEfZYlTDn7",
+  "slug": "mombelli-co-solothurn-solothurn",
+  "name": "Mombelli & Co. Solothurn",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Zuchwilerstrasse 4",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326222247",
+    "email": "info@mombelli-co.ch",
+    "webseite": "https://www.mombelli-co.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

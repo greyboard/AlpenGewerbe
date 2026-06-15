@@ -1,0 +1,30 @@
+{
+  "id": "ch-Giew2voHYBrHm1xzasTo",
+  "slug": "kundenmaurer-florian-imhof-gmbh-ins",
+  "name": "Kundenmaurer Florian Imhof GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Erlachstrasse 10",
+    "plz": "3232",
+    "ort": "Ins",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798275287",
+    "email": "info@imhof-kundenmaurer.ch",
+    "webseite": "https://imhof-kundenmaurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

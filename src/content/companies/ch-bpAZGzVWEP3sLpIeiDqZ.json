@@ -1,0 +1,30 @@
+{
+  "id": "ch-bpAZGzVWEP3sLpIeiDqZ",
+  "slug": "wallimann-ag-ennetbuergen",
+  "name": "Wallimann AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Aumühlestrasse 14",
+    "plz": "6373",
+    "ort": "Ennetbürgen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416201487",
+    "email": "akrobat@wallimann-ag.ch",
+    "webseite": "https://www.wallimann-ag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-9BnlWoYgBtaxXaDZVBDY",
+  "slug": "eisenegger-fenster-gmbh-harenwilen",
+  "name": "Eisenegger Fenster GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Buchschorenstrasse 10",
+    "plz": "8553",
+    "ort": "Harenwilen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786465000",
+    "email": "info@eisenegger-fenster.ch",
+    "webseite": "https://www.eisenegger-fenster.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

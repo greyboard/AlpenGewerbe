@@ -1,0 +1,30 @@
+{
+  "id": "ch-Ne2TCSiOMcaDFeF0tNcf",
+  "slug": "vetsch-gaerten-ag-waeldi",
+  "name": "Vetsch Gärten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hohenrain 1",
+    "plz": "8564",
+    "ort": "Wäldi",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764167947",
+    "email": "info@vetsch-gaerten.ch",
+    "webseite": "https://www.vetsch-gaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

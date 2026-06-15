@@ -1,0 +1,30 @@
+{
+  "id": "ch-PTtG0oM8S71uJj4ftzQn",
+  "slug": "telecomnet-gmbh-zug",
+  "name": "TeleComNet GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Chamerstrasse 172",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412444446",
+    "email": "info@telecom-net.ch",
+    "webseite": "https://telecom-net.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

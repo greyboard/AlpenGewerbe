@@ -1,0 +1,30 @@
+{
+  "id": "ch-mYCwjUdbnCwOGL8jousU",
+  "slug": "mock-technik-in-holz-ag-engelburg",
+  "name": "Mock-Technik in Holz AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Egelsrütistrasse 8",
+    "plz": "9032",
+    "ort": "Engelburg",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712779104",
+    "email": "info@holzmock.ch",
+    "webseite": "https://www.holzmock.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-wgcFaWdz0uwA4LCT8JbV",
+  "slug": "glaserei-silvan-lenzburg",
+  "name": "Glaserei Silvan",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Zelgmatte 9A",
+    "plz": "5600",
+    "ort": "Lenzburg",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764238761",
+    "email": "info@glasereisilvan.ch",
+    "webseite": "https://www.glasereisilvan.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

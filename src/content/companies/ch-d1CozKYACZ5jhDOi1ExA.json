@@ -1,0 +1,30 @@
+{
+  "id": "ch-d1CozKYACZ5jhDOi1ExA",
+  "slug": "eleganti-bauunternehmung-ag-emmen",
+  "name": "Eleganti Bauunternehmung AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Emmenweidstrasse 90",
+    "plz": "6020",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412607770",
+    "email": "info@eleganti.lu",
+    "webseite": "https://www.eleganti-bauunternehmung.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-enxPYIVBKm5CYfLvnrO6",
+  "slug": "seiler-metallbau-ag-muenchenstein",
+  "name": "Seiler Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rainstrasse 5",
+    "plz": "4142",
+    "ort": "Münchenstein",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614112222",
+    "email": "info@seiler-metallbau.ch",
+    "webseite": "https://seiler-metallbau.com"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

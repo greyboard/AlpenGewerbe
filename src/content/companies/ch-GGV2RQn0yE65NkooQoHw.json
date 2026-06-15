@@ -1,0 +1,30 @@
+{
+  "id": "ch-GGV2RQn0yE65NkooQoHw",
+  "slug": "greco-inside-gmbh-sarnen",
+  "name": "Greco Inside GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Brünigstrasse 109",
+    "plz": "6060",
+    "ort": "Sarnen",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782312002",
+    "email": "info@greco-inside.ch",
+    "webseite": "https://www.greco-inside.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-zZkto43gSgWbKI01btvm",
+  "slug": "gehri-holzbau-ag-vinelz",
+  "name": "Gehri Holzbau AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Gasse 35",
+    "plz": "3234",
+    "ort": "Vinelz",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323381117",
+    "email": "info@gehri-holzbau.ch",
+    "webseite": "https://www.gehri-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-ehswB4StZAnCZW04xNeY",
+  "slug": "albert-faeh-gmbh-luzern",
+  "name": "Albert Fäh GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte O 24B",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413605850",
+    "email": "info@faeh-parkett.ch",
+    "webseite": "https://www.faeh-parkett.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

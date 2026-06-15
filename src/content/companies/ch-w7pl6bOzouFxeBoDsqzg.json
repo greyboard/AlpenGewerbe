@@ -1,0 +1,30 @@
+{
+  "id": "ch-w7pl6bOzouFxeBoDsqzg",
+  "slug": "bernegger-elektro-ag-ennenda",
+  "name": "Bernegger Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Obere Allmeind 1",
+    "plz": "8755",
+    "ort": "Ennenda",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556454141",
+    "email": "info@bernegger.ch",
+    "webseite": "https://www.bernegger.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

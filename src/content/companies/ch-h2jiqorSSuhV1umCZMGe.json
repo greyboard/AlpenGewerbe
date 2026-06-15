@@ -1,0 +1,30 @@
+{
+  "id": "ch-h2jiqorSSuhV1umCZMGe",
+  "slug": "grichting-valterio-electro-sa-sion",
+  "name": "Grichting & Valterio Electro SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte des Iles 38",
+    "plz": "1950",
+    "ort": "Sion",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279481414",
+    "email": "sion@grichting-valterio.ch",
+    "webseite": "https://www.grichting-valterio.ch/fr"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

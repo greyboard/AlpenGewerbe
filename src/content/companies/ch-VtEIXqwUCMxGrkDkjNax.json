@@ -1,0 +1,30 @@
+{
+  "id": "ch-VtEIXqwUCMxGrkDkjNax",
+  "slug": "elektro-rhyner-ag-glarus",
+  "name": "Elektro Rhyner AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Buchholzstrasse 56",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556453366",
+    "email": "info@erag.ch",
+    "webseite": "https://www.erag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

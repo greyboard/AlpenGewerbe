@@ -1,0 +1,30 @@
+{
+  "id": "ch-oTH2TJ3VeEvms7NAbpK6",
+  "slug": "jost-spenglerei-ag-bern",
+  "name": "Jost Spenglerei AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Mattenhofstrasse 33",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313817035",
+    "email": "info@jostspenglertechnik.ch",
+    "webseite": "https://www.jostspenglertechnik.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

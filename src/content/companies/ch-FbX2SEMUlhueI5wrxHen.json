@@ -1,0 +1,30 @@
+{
+  "id": "ch-FbX2SEMUlhueI5wrxHen",
+  "slug": "mo-metall-gmbh-schwyz",
+  "name": "MO metall GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Weidhuobli 25",
+    "plz": "6430",
+    "ort": "Schwyz",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418103293",
+    "email": "info@mometall.ch",
+    "webseite": "https://www.mometall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

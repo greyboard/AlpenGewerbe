@@ -1,0 +1,30 @@
+{
+  "id": "ch-uOtWsCYFqsnbaIJ1C4dy",
+  "slug": "camenzind-gartenbau-planung-ag-gersau",
+  "name": "Camenzind Gartenbau & Planung AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Gschwendstrasse 3",
+    "plz": "6442",
+    "ort": "Gersau",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418281140",
+    "email": "info@camenzind-gartenbau.ch",
+    "webseite": "https://www.camenzind-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

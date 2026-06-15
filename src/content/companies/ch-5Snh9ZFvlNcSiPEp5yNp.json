@@ -1,0 +1,30 @@
+{
+  "id": "ch-5Snh9ZFvlNcSiPEp5yNp",
+  "slug": "frilow-bureau-d-etude-et-expert-cecb-fribourg",
+  "name": "Frilow - Bureau d'étude et expert CECB",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rue de la Fonderie 8",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774017596",
+    "email": "contact@frilow.ch",
+    "webseite": "https://www.frilow.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

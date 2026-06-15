@@ -1,0 +1,30 @@
+{
+  "id": "ch-APuBmQFiEhrYGsewy78c",
+  "slug": "andre-brunner-baut-gestaltet-pflegt-gaerten-zug",
+  "name": "André Brunner baut gestaltet pflegt Gärten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Letzi 33",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794082242",
+    "email": "info@brunner-gartenbau.ch",
+    "webseite": "https://brunner-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

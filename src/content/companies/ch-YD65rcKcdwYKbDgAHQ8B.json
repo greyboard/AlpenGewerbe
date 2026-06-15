@@ -1,0 +1,30 @@
+{
+  "id": "ch-YD65rcKcdwYKbDgAHQ8B",
+  "slug": "albertin-g-ag-chur",
+  "name": "Albertin G. AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ringstrasse 35D",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812846797",
+    "email": "e.albertin@bluewin.ch",
+    "webseite": "https://yellow.local.ch/d/C2vKi_jSbXPO4cZ94B1G8Q"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

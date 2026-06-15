@@ -1,0 +1,30 @@
+{
+  "id": "ch-YfGP4MH6cHczBxiRbjNl",
+  "slug": "wanner-sanitaer-gmbh-zuerich",
+  "name": "Wanner Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Förrlibuckstrasse 110",
+    "plz": "8005",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442727664",
+    "email": "info@wanner-sanitaer.ch",
+    "webseite": "https://www.wanner-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-sx984ESbSlrAUDYiZzcq",
+  "slug": "marti-holzbau-gmbh-schwanden",
+  "name": "Marti Holzbau GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Schwimmbadstrasse 1",
+    "plz": "8762",
+    "ort": "Schwanden",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794212431",
+    "email": "info@marti-holzbau.de",
+    "webseite": "https://www.marti-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

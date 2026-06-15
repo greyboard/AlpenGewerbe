@@ -1,0 +1,30 @@
+{
+  "id": "ch-AhYdXsM9fFN7X2TnjnG3",
+  "slug": "t-vogelsang-gmbh-zuerich",
+  "name": "T. Vogelsang GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Beckenhofstrasse 70",
+    "plz": "8006",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788080002",
+    "email": "tv@maurervogelsang.ch",
+    "webseite": "https://maurervogelsang.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

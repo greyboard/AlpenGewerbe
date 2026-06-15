@@ -1,0 +1,30 @@
+{
+  "id": "ch-Q6WqMcK8njPeoejWhqPC",
+  "slug": "gartenabo-von-der-lippe-jeuss",
+  "name": "GartenAbo von der Lippe",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 44",
+    "plz": "1793",
+    "ort": "Jeuss",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797239768",
+    "email": "info@garten-im-griff.ch",
+    "webseite": "https://garten-im-griff.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-ORaMz3TZau3FrsrtdnRr",
+  "slug": "vogel-gartenbau-ag-bern",
+  "name": "Vogel Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Ziegelackerstrasse 10",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319922200",
+    "email": "info@vogel-galabau.ch",
+    "webseite": "https://www.vogel-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

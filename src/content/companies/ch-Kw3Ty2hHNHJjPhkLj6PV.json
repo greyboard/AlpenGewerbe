@@ -1,0 +1,30 @@
+{
+  "id": "ch-Kw3Ty2hHNHJjPhkLj6PV",
+  "slug": "maurerarbeiten-mesquita-gmbh-mammern",
+  "name": "Maurerarbeiten Mesquita GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hechlerstrasse 3",
+    "plz": "8265",
+    "ort": "Mammern",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764267050",
+    "email": "info@mesquita.ch",
+    "webseite": "https://www.mesquita-gmbh.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

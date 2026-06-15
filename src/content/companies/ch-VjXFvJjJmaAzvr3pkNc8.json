@@ -1,0 +1,30 @@
+{
+  "id": "ch-VjXFvJjJmaAzvr3pkNc8",
+  "slug": "franz-weinberger-sanitaertechnik-gmbh-zug",
+  "name": "Franz Weinberger Sanitärtechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Grienbachstrasse 11",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798237639",
+    "email": "franz@weinberger-sanitaer.ch",
+    "webseite": "https://weinberger-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

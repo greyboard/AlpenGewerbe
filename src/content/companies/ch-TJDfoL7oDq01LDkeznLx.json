@@ -1,0 +1,30 @@
+{
+  "id": "ch-TJDfoL7oDq01LDkeznLx",
+  "slug": "elektro-planzer-ag-altdorf",
+  "name": "Elektro Planzer AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 27",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418720707",
+    "email": "info@elektroplanzer.ch",
+    "webseite": "https://elektroplanzer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

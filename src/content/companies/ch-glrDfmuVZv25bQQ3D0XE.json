@@ -1,0 +1,30 @@
+{
+  "id": "ch-glrDfmuVZv25bQQ3D0XE",
+  "slug": "crivelli-gartenbau-st-gallen",
+  "name": "Crivelli Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Obere Friedhofstrasse 10",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712601437",
+    "email": "info@crivelli-garten.ch",
+    "webseite": "https://crivelli-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

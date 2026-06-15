@@ -1,0 +1,30 @@
+{
+  "id": "ch-Vod7u6dzyJILJH8abupG",
+  "slug": "ams-malergeschaeft-gmbh-zuerich",
+  "name": "Ams Malergeschäft GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Stationsstrasse 53",
+    "plz": "8003",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797935090",
+    "email": "info@maler-ams.ch",
+    "webseite": "https://www.ams-malergeschaeft.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

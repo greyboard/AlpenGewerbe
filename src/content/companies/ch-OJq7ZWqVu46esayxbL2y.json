@@ -1,0 +1,30 @@
+{
+  "id": "ch-OJq7ZWqVu46esayxbL2y",
+  "slug": "schreinerei-signoretti-basel",
+  "name": "Schreinerei Signoretti",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Schützenmattstrasse 19",
+    "plz": "4051",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764610928",
+    "email": "info@schreinerei-signoretti.ch",
+    "webseite": "https://www.schreinerei-signoretti.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

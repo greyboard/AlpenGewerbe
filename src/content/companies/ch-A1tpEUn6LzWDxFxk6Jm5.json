@@ -1,0 +1,30 @@
+{
+  "id": "ch-A1tpEUn6LzWDxFxk6Jm5",
+  "slug": "kaufmann-malergeschaeft-gmbh-kerzers",
+  "name": "Kaufmann Malergeschäft GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Moosgasse 20A",
+    "plz": "3210",
+    "ort": "Kerzers",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317556736",
+    "email": "info@malerei-kaufmann.ch",
+    "webseite": "https://www.malerei-kaufmann.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

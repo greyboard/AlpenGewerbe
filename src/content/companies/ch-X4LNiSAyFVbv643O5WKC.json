@@ -1,0 +1,30 @@
+{
+  "id": "ch-X4LNiSAyFVbv643O5WKC",
+  "slug": "dach-mueggler-ag-gossau",
+  "name": "dach müggler ag",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Bischofszellerstrasse 21",
+    "plz": "9200",
+    "ort": "Gossau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714331175",
+    "email": "dachmueggler@bluewin.ch",
+    "webseite": "https://www.dachmueggler.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

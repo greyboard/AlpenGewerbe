@@ -1,0 +1,30 @@
+{
+  "id": "ch-A1g4dL0E4SxrNdBLuDzn",
+  "slug": "equilino-ag-davos-platz",
+  "name": "Equilino AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Talstrasse 39",
+    "plz": "7270",
+    "ort": "Davos Platz",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41814134218",
+    "email": "kontakt@equilino.ch",
+    "webseite": "https://www.equilino.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

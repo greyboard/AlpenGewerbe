@@ -1,0 +1,30 @@
+{
+  "id": "ch-YG6FYvCBKn4mOw7FWZTc",
+  "slug": "tosam-gartenbau-appenzell-appenzell",
+  "name": "Tosam Gartenbau Appenzell",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Zielstrasse 25",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717870164",
+    "email": "stiftung@tosam.ch",
+    "webseite": "https://www.tosam.ch/angebot/tosam-gartenbau"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

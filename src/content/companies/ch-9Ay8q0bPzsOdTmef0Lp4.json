@@ -1,0 +1,30 @@
+{
+  "id": "ch-9Ay8q0bPzsOdTmef0Lp4",
+  "slug": "gebrueder-zotti-gmbh-st-gallen",
+  "name": "Gebrüder Zotti GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Buchstrasse 39",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712201090",
+    "email": "info@zotti-heizungen.ch",
+    "webseite": "https://www.zotti-heizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

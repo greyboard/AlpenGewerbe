@@ -1,0 +1,30 @@
+{
+  "id": "ch-FQU7j9xLLWCfz47XPUaZ",
+  "slug": "marti-ag-bern-moosseedorf",
+  "name": "Marti AG Bern",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 13",
+    "plz": "3302",
+    "ort": "Moosseedorf",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318584444",
+    "email": "bern@martiag.ch",
+    "webseite": "https://www.marti-bern.ch/de"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

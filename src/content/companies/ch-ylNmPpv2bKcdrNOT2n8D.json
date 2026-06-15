@@ -1,0 +1,30 @@
+{
+  "id": "ch-ylNmPpv2bKcdrNOT2n8D",
+  "slug": "studer-soehne-elektro-ag-visp",
+  "name": "Studer Söhne Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Pomonastrasse 6",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279481313",
+    "email": "office@studersoehne.ch",
+    "webseite": "https://www.studersoehne.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

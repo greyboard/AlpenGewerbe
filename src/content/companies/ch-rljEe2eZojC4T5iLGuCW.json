@@ -1,0 +1,30 @@
+{
+  "id": "ch-rljEe2eZojC4T5iLGuCW",
+  "slug": "malerei-blaser-gmbh-bern",
+  "name": "Malerei Blaser GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bümplizstrasse 150",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319911689",
+    "email": "info@malereiblaser.ch",
+    "webseite": "https://www.malereiblaser.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-hdHd1hz4aTmExRqeh2JB",
+  "slug": "joerimann-schreinerei-ag-chur",
+  "name": "Jörimann Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Weststrasse 8",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812523381",
+    "email": "info@joerimann-schreinerei.ch",
+    "webseite": "https://www.joerimann-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

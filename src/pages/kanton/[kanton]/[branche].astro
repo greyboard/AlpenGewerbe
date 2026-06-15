@@ -1,0 +1,150 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import CompanyCard from '../../../components/CompanyCard.astro';
+import { CH_KANTONE } from '../../../data/kantone';
+
+export async function getStaticPaths() {
+  const { CH_KANTONE } = await import('../../../data/kantone');
+  const companies = await getCollection('companies');
+
+  const paths = [];
+
+  for (const { name: kantonName, kürzel, slug: kantonSlug } of CH_KANTONE) {
+    const kantonCompanies = companies.filter(
+      e => (e.data.adresse as any).kanton === kantonName
+    );
+
+    // Alle Branchen in diesem Kanton ermitteln
+    const branchen = new Set<string>();
+    for (const e of kantonCompanies) {
+      for (const b of e.data.branchen) branchen.add(b);
+    }
+
+    for (const branche of branchen) {
+      const filtered = kantonCompanies
+        .filter(e => e.data.branchen.includes(branche))
+        .map(e => e.data);
+
+      if (filtered.length === 0) continue;
+
+      paths.push({
+        params: { kanton: kantonSlug, branche },
+        props:  { kantonName, kürzel, kantonSlug, branche, companies: filtered },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { kantonName, kürzel, kantonSlug, branche, companies } = Astro.props;
+const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
+
+// Top-Städte in Kanton + Branche
+const orteCount = new Map<string, number>();
+for (const c of companies) {
+  const ort = c.adresse.ort?.trim();
+  if (ort) orteCount.set(ort, (orteCount.get(ort) ?? 0) + 1);
+}
+const topOrte = [...orteCount.entries()].sort((a, b) => b[1] - a[1]);
+
+function ortSlug(ort: string) {
+  return ort.toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+---
+
+<BaseLayout
+  title={`${brancheLabel} Kanton ${kantonName} (${kürzel}) – AlpenGewerbe`}
+  description={`${companies.length} ${brancheLabel}-Betriebe im Kanton ${kantonName}. Kontakt, Adressen und Bewertungen auf AlpenGewerbe.`}
+>
+  <!-- Breadcrumb -->
+  <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+      <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
+        <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
+        <li aria-hidden="true">›</li>
+        <li><a href={`/kanton/${kantonSlug}/`} class="hover:text-(--color-primary) transition-colors">{kantonName}</a></li>
+        <li aria-hidden="true">›</li>
+        <li class="text-(--color-text) font-medium capitalize">{branche}</li>
+      </ol>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center gap-2 mb-3 text-white/60 text-sm font-medium">
+        <span class="bg-white/15 px-2 py-0.5 rounded text-xs font-bold tracking-wider">{kürzel}</span>
+        <span>{kantonName}</span>
+        <span aria-hidden="true">›</span>
+        <span class="capitalize">{branche}</span>
+      </div>
+      <h1 class="text-white mb-3">{brancheLabel} im Kanton {kantonName}</h1>
+      <p class="text-white/70 text-lg max-w-xl">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} gefunden.
+      </p>
+
+      {topOrte.length > 1 && (
+        <div class="flex flex-wrap gap-2 mt-5">
+          {topOrte.slice(0, 6).map(([ort, count]) => (
+            <a href={`/${branche}/${ortSlug(ort)}/`}
+               class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-white/80
+                      text-sm font-medium hover:bg-white/20 transition-colors">
+              {ort}
+              <span class="text-white/50 text-xs">{count}</span>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Stadtfilter -->
+  {topOrte.length > 1 && (
+    <section class="bg-(--color-surface-alt) border-b border-(--color-border) py-4">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        <p class="text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2">Nach Stadt filtern</p>
+        <div class="flex flex-wrap gap-2">
+          <a href={`/kanton/${kantonSlug}/${branche}/`}
+             class="px-3 py-1.5 rounded-full text-sm font-medium bg-(--color-primary) text-white">
+            Alle
+          </a>
+          {topOrte.map(([ort, count]) => (
+            <a href={`/${branche}/${ortSlug(ort)}/`}
+               class="px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-(--color-border)
+                      text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors">
+              {ort} ({count})
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Betriebsliste -->
+  <section class="py-10 lg:py-14 bg-[#F9FAFB]">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
+        {companies.map((company) => (
+          <div class="animate-on-scroll">
+            <CompanyCard
+              name={company.name}
+              slug={company.slug}
+              branchen={company.branchen}
+              ort={company.adresse.ort}
+              plz={company.adresse.plz}
+              land={company.adresse.land}
+              rating={company.ratingCached?.rating}
+              reviewCount={company.ratingCached?.user_ratings_total}
+            />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

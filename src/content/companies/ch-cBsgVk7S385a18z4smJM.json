@@ -1,0 +1,30 @@
+{
+  "id": "ch-cBsgVk7S385a18z4smJM",
+  "slug": "naepflin-sanitaer-service24-emmetten",
+  "name": "näpflin sanitär-service24",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Kohltalstrasse 6",
+    "plz": "6376",
+    "ort": "Emmetten",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416205200",
+    "email": "kontakt@sanitaer-service24.ch",
+    "webseite": "https://sanitaer-service24.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

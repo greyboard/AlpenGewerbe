@@ -1,0 +1,30 @@
+{
+  "id": "ch-wBdNq3zpIedae6WaG3ni",
+  "slug": "sepp-fuchs-gmbh-unteriberg",
+  "name": "Sepp Fuchs GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Industrie 4",
+    "plz": "8842",
+    "ort": "Unteriberg",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554223855",
+    "email": "info@mueller-maschinenbau.ch",
+    "webseite": "https://www.sepp-fuchs.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

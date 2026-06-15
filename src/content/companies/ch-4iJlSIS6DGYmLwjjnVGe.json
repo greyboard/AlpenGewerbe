@@ -1,0 +1,30 @@
+{
+  "id": "ch-4iJlSIS6DGYmLwjjnVGe",
+  "slug": "unternaehrer-justin-ag-basel",
+  "name": "Unternährer Justin AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hegenheimerstrasse 97",
+    "plz": "4055",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613827272",
+    "email": "email@unternaehrer-ag.ch",
+    "webseite": "https://www.unternaehrer-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

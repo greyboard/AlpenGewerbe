@@ -1,0 +1,30 @@
+{
+  "id": "ch-NhwP4OoYwseweD1zjEa5",
+  "slug": "sparkingranch-st-gallen",
+  "name": "Sparkingranch",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Zürcherstrasse 60",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792668091",
+    "email": "hr@sparkingranch.com",
+    "webseite": "https://www.sparkingranch.com"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

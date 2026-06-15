@@ -1,0 +1,30 @@
+{
+  "id": "ch-adTzpc4cuEggnYHsolD6",
+  "slug": "schreinerei-eisenhut-ag-herisau",
+  "name": "Schreinerei Eisenhut AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Güetli 2",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713511132",
+    "email": "s.eisenhut@schreinerei-eisenhut.ch",
+    "webseite": "https://www.schreinerei-eisenhut.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

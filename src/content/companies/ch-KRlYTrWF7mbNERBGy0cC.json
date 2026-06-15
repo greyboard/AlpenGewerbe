@@ -1,0 +1,30 @@
+{
+  "id": "ch-KRlYTrWF7mbNERBGy0cC",
+  "slug": "ts-lightning-gmbh-bern",
+  "name": "TS Lightning GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Zikadenweg 26",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318491903",
+    "email": "m.tschannen@ts-l.ch",
+    "webseite": "https://www.ts-l.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

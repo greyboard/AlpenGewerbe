@@ -1,0 +1,30 @@
+{
+  "id": "ch-mheiEUxgNKWC4SuAxYs0",
+  "slug": "malergeschaeft-luis-veiga-belp",
+  "name": "Malergeschäft Luis Veiga",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hohburgstrasse 10a",
+    "plz": "3123",
+    "ort": "Belp",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798265882",
+    "email": "info@maler-veiga.ch",
+    "webseite": "https://www.maler-veiga.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

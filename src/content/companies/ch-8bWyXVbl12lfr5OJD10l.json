@@ -1,0 +1,30 @@
+{
+  "id": "ch-8bWyXVbl12lfr5OJD10l",
+  "slug": "heizungsmacher-ag-bern",
+  "name": "Heizungsmacher AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Spitalgasse 28",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313053200",
+    "email": "info@heizungsmacher.ch",
+    "webseite": "https://www.heizungsmacher.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

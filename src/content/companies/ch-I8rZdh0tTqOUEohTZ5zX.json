@@ -1,0 +1,30 @@
+{
+  "id": "ch-I8rZdh0tTqOUEohTZ5zX",
+  "slug": "amos-ag-malermeister-gipser-zuerich-zuerich",
+  "name": "Amos AG - Malermeister & Gipser Zürich",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Fraumünsterstrasse 17",
+    "plz": "8001",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712550021",
+    "email": "info@amosag.ch",
+    "webseite": "https://amosag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

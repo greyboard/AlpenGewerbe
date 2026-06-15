@@ -1,0 +1,30 @@
+{
+  "id": "ch-5HIrZD5zylxFDC8LLFbl",
+  "slug": "dachbau-gehring-ag-zuerich",
+  "name": "Dachbau Gehring AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Schwellistrasse 70",
+    "plz": "8052",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443011424",
+    "email": "thgehring@bluewin.ch",
+    "webseite": "https://www.dachbaugehring.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

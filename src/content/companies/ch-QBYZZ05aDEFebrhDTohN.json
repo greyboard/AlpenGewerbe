@@ -1,0 +1,30 @@
+{
+  "id": "ch-QBYZZ05aDEFebrhDTohN",
+  "slug": "elektro-betschart-home-biel",
+  "name": "elektro betschart: Home",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Brüggstrasse 64",
+    "plz": "2503",
+    "ort": "Biel",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799363130",
+    "email": "info@elektro-betschart.ch",
+    "webseite": "https://www.elektro-betschart.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

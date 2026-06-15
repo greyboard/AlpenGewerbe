@@ -1,0 +1,30 @@
+{
+  "id": "ch-D2yRXqEJow3udXGBwJVM",
+  "slug": "altorfer-elektro-frauenfeld",
+  "name": "Altorfer- Elektro",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Wellhauserweg 41",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527211929",
+    "email": "info@altorfer-elektro.ch",
+    "webseite": "https://www.altorfer-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-tYdSV4I1MJPjj37linVx",
+  "slug": "n-tecservices-sarl-cernier",
+  "name": "n-tecservices Sàrl",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Rte de la Taille 7",
+    "plz": "2053",
+    "ort": "Cernier",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41328531313",
+    "email": "info@ntecservices.ch",
+    "webseite": "https://www.ntecservices.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

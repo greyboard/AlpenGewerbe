@@ -1,0 +1,30 @@
+{
+  "id": "ch-XvXsTaPa7jZUAucVz8RO",
+  "slug": "elektro-fries-gmbh-dallenwil",
+  "name": "Elektro Fries GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Dammstrasse 2",
+    "plz": "6383",
+    "ort": "Dallenwil",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416281010",
+    "email": "info@elektrofries.ch",
+    "webseite": "https://www.elektrofries.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

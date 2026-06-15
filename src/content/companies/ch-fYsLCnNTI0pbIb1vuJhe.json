@@ -1,0 +1,30 @@
+{
+  "id": "ch-fYsLCnNTI0pbIb1vuJhe",
+  "slug": "hofer-sanitaer-gmbh-trogen",
+  "name": "Hofer Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Grund 1",
+    "plz": "9043",
+    "ort": "Trogen",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713441313",
+    "email": "info@sanitaerhofer.ch",
+    "webseite": "https://www.sanitaerhofer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

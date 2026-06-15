@@ -1,0 +1,30 @@
+{
+  "id": "ch-SJ5ABiJSsJG8tSCsIDrV",
+  "slug": "robyr-electricite-sarl-corin",
+  "name": "Robyr Electricité Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte de Crans-Montana 51",
+    "plz": "3960",
+    "ort": "Corin",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274553385",
+    "email": "info@robyrelectricite.ch",
+    "webseite": "https://www.robyrelectricite.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4054084752264944082"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

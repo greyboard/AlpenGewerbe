@@ -1,0 +1,30 @@
+{
+  "id": "ch-wJjFZ0TjWjcAXpjRNK6j",
+  "slug": "malerfachbetrieb-janser-gmbh-buttikon",
+  "name": "Malerfachbetrieb Janser GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kantonsstrasse 42",
+    "plz": "8863",
+    "ort": "Buttikon",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554403855",
+    "email": "info@malerjanser.ch",
+    "webseite": "https://www.malerjanser.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

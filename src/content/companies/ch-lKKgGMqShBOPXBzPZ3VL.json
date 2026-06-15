@@ -1,0 +1,30 @@
+{
+  "id": "ch-lKKgGMqShBOPXBzPZ3VL",
+  "slug": "zeberg-ag-baar",
+  "name": "Zeberg AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Blickensdorferstrasse 8A",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417614931",
+    "email": "info@zeberg.ch",
+    "webseite": "https://www.zeberg.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

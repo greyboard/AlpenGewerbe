@@ -1,0 +1,30 @@
+{
+  "id": "ch-UbbZT8LwMaX5OMznwnTi",
+  "slug": "murri-ag-burgdorf-burgdorf",
+  "name": "Murri AG Burgdorf",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Buchmattstrasse 44",
+    "plz": "3400",
+    "ort": "Burgdorf",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41344231738",
+    "email": "info@murri-ag.ch",
+    "webseite": "https://www.murri-ag.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

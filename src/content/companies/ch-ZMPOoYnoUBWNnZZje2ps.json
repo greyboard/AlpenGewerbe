@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZMPOoYnoUBWNnZZje2ps",
+  "slug": "az-armierungen-ag-st-gallen",
+  "name": "AZ Armierungen AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Letzistrasse 25",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713102480",
+    "email": "info@az-armierungen.ch",
+    "webseite": "https://www.az-armierungen.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

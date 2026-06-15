@@ -1,0 +1,30 @@
+{
+  "id": "ch-kDS8seuzNJqXeJGQh69P",
+  "slug": "schwenter-gartenunterhalt-aesch",
+  "name": "Schwenter Gartenunterhalt",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kirschgartenstrasse 20",
+    "plz": "4147",
+    "ort": "Aesch",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774791296",
+    "email": "info@schwenter-garten.ch",
+    "webseite": "https://schwenter-gartenunterhalt.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

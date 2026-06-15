@@ -1,0 +1,30 @@
+{
+  "id": "ch-3IpA33pCJX0Z1oEgj2ji",
+  "slug": "arnold-gartenbau-ag-zug",
+  "name": "Arnold Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Baarerstrasse 46",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417416512",
+    "email": "schmid@arnoldgartenbau.ch",
+    "webseite": "https://arnoldgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

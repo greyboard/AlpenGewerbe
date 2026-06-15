@@ -1,0 +1,30 @@
+{
+  "id": "ch-4gXXHZ69XWwnYgV5AcAz",
+  "slug": "favre-fernand-sa-riddes",
+  "name": "Favre Fernand SA",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Chemin de l'Avenir 1",
+    "plz": "1908",
+    "ort": "Riddes",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41273066170",
+    "email": "info@ff-sa.ch",
+    "webseite": "https://www.ff-sa.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

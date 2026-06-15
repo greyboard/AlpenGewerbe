@@ -1,0 +1,30 @@
+{
+  "id": "ch-XwUJ1C7xGJUJYYD44CEe",
+  "slug": "mc-maler-mehr-als-nur-farbe-neuheim",
+  "name": "MC Maler - Mehr als nur Farbe",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 3",
+    "plz": "6345",
+    "ort": "Neuheim",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+436642110585",
+    "email": "maler@mail.ch",
+    "webseite": "https://mc-maler.com"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

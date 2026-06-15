@@ -1,0 +1,30 @@
+{
+  "id": "ch-PA9CXzzbiPIh1govKZhC",
+  "slug": "werder-elektro-ag-grenchen",
+  "name": "Werder Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Niklaus Wengistrasse 105",
+    "plz": "2540",
+    "ort": "Grenchen",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326443232",
+    "email": "info@werderelektro.ch",
+    "webseite": "https://www.werderelektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

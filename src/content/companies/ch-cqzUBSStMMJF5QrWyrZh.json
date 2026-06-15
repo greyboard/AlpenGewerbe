@@ -1,0 +1,30 @@
+{
+  "id": "ch-cqzUBSStMMJF5QrWyrZh",
+  "slug": "gebr-brun-ag-uri-erstfeld",
+  "name": "GEBR. BRUN AG Uri",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Breiteli 20a",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418704880",
+    "email": "info@brunbau.ch",
+    "webseite": "https://www.brunbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

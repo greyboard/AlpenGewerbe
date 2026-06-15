@@ -1,0 +1,30 @@
+{
+  "id": "ch-VkOYbJMGcyRxRwy2YAFL",
+  "slug": "cavegn-ag-savognin",
+  "name": "Cavegn AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Stradung 44",
+    "plz": "7460",
+    "ort": "Savognin",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816591111",
+    "email": "info@cavegn.swiss",
+    "webseite": "https://www.cavegnag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

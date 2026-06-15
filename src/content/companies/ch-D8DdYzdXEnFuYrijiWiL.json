@@ -1,0 +1,30 @@
+{
+  "id": "ch-D8DdYzdXEnFuYrijiWiL",
+  "slug": "ivo-stark-tiefbau-eggersriet",
+  "name": "Ivo Stark Tiefbau",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Säntisstrasse 12",
+    "plz": "9034",
+    "ort": "Eggersriet",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794096254",
+    "email": "ivostark@bluewin.ch",
+    "webseite": "https://www.starktiefbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

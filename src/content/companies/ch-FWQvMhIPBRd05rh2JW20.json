@@ -1,0 +1,30 @@
+{
+  "id": "ch-FWQvMhIPBRd05rh2JW20",
+  "slug": "malerei-brandt-ag-chur",
+  "name": "Malerei Brandt AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Masanserstrasse 233",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793036830",
+    "email": "malereibrandt@bluewin.ch",
+    "webseite": "https://www.malerei-brandt.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

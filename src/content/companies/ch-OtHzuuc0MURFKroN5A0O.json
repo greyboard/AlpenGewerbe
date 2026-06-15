@@ -1,0 +1,30 @@
+{
+  "id": "ch-OtHzuuc0MURFKroN5A0O",
+  "slug": "sieber-elektro-kradolf-schoenenberg",
+  "name": "Sieber Elektro",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Oberdorf 20",
+    "plz": "9215",
+    "ort": "Kradolf-Schönenberg",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41715300341",
+    "email": "info@sieber-elektro.ch",
+    "webseite": "https://www.sieber-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-MlGASju6XGzeimNXZRhH",
+  "slug": "glarhus-gmbh-glarus",
+  "name": "GLARHUS GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Gemeindehauspl. 3",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556531177",
+    "email": "info@glarhus.ch",
+    "webseite": "https://www.glarhus.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

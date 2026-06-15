@@ -1,0 +1,30 @@
+{
+  "id": "ch-9fEQbEemZMjeeT5Yslkb",
+  "slug": "elektro-hoernlimann-ag-waengi",
+  "name": "Elektro Hörnlimann AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Wiesengrundstrasse 19",
+    "plz": "9545",
+    "ort": "Wängi",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41523781814",
+    "email": "info@hoernlimann.ch",
+    "webseite": "https://www.hoernlimann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

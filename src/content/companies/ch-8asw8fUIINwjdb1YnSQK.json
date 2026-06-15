@@ -1,0 +1,30 @@
+{
+  "id": "ch-8asw8fUIINwjdb1YnSQK",
+  "slug": "wuermli-bau-gmbh-guettingen",
+  "name": "Würmli Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 11",
+    "plz": "8594",
+    "ort": "Güttingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714127000",
+    "email": "info@wuermli-bau.ch",
+    "webseite": "https://www.wuermli-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

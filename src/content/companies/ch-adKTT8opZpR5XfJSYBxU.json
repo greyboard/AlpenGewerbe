@@ -1,0 +1,30 @@
+{
+  "id": "ch-adKTT8opZpR5XfJSYBxU",
+  "slug": "wapp-sanitaer-heizung-gmbh-galmiz",
+  "name": "Wapp Sanitär + Heizung GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 27",
+    "plz": "3285",
+    "ort": "Galmiz",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266701036",
+    "email": "nicolas.michel@sensemail.ch",
+    "webseite": "https://www.wapp-sanitär-heizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

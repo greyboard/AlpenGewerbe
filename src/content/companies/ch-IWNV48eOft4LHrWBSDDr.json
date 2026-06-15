@@ -1,0 +1,30 @@
+{
+  "id": "ch-IWNV48eOft4LHrWBSDDr",
+  "slug": "nikova-bau-gmbh-basel",
+  "name": "Nikova Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Neuweilerstrasse 60",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618216244",
+    "email": "20info@nikova-bau.ch",
+    "webseite": "https://www.nikova-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

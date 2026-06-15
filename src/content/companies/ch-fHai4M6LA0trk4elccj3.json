@@ -1,0 +1,30 @@
+{
+  "id": "ch-fHai4M6LA0trk4elccj3",
+  "slug": "lugina-garten-gmbh-goldach",
+  "name": "Lugina Garten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Löwenstrasse 1",
+    "plz": "9403",
+    "ort": "Goldach",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763171105",
+    "email": "info@lugina-garten.ch",
+    "webseite": "https://www.lugina-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

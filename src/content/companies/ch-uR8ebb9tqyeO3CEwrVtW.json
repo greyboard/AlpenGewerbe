@@ -1,0 +1,30 @@
+{
+  "id": "ch-uR8ebb9tqyeO3CEwrVtW",
+  "slug": "wyss-birchler-gmbh-zuerich",
+  "name": "Wyss Birchler GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Heinrichstrasse 210",
+    "plz": "8005",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799216661",
+    "email": "info@wyssbirchler.ch",
+    "webseite": "https://www.wyssbirchler.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

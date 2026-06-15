@@ -1,0 +1,30 @@
+{
+  "id": "ch-VmvDPK42aZtgFMJO5jOH",
+  "slug": "ms-marco-schaeffler-baugeschaeft-ag-oberwil",
+  "name": "MS Marco Schäffler Baugeschäft AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Sägestrasse 4",
+    "plz": "4104",
+    "ort": "Oberwil",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614217011",
+    "email": "info@schaefflerag.ch",
+    "webseite": "https://www.schaefflerag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-xGfugwo3iaqU5D3GR0uI",
+  "slug": "baumann-electro-ag-st-gallen",
+  "name": "Baumann Electro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Breitfeldstrasse 10",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713118888",
+    "email": "info@baumann-electro.ch",
+    "webseite": "https://www.baumann-electro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-KrioGrtvWfJGc224W9bD",
+  "slug": "bertschi-ag-gartenbau-bottmingen",
+  "name": "Bertschi AG Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Talholzstrasse 35",
+    "plz": "4103",
+    "ort": "Bottmingen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614069777",
+    "email": "gartenbau@bertschi-ag.ch",
+    "webseite": "https://www.bertschi-ag.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

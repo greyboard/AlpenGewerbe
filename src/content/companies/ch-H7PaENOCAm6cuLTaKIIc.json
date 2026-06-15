@@ -1,0 +1,30 @@
+{
+  "id": "ch-H7PaENOCAm6cuLTaKIIc",
+  "slug": "stalder-bau-ag-hasle",
+  "name": "Stalder Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 15A",
+    "plz": "6166",
+    "ort": "Hasle",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414842685",
+    "email": "info@stalderbauag.ch",
+    "webseite": "https://www.stalderbauag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

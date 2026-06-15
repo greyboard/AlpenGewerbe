@@ -1,0 +1,30 @@
+{
+  "id": "ch-beWRC2WInfpYPWTHdbsy",
+  "slug": "aare-elektro-solothurn-ag-biberist",
+  "name": "Aare Elektro Solothurn AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Burgunderstrasse 13",
+    "plz": "4562",
+    "ort": "Biberist",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326258000",
+    "email": "info@aare-elektro.ch",
+    "webseite": "https://www.aare-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

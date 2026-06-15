@@ -1,0 +1,30 @@
+{
+  "id": "ch-SeYfJn3xru9OIjPEYDSo",
+  "slug": "maler-beti-gmbh-zuerich",
+  "name": "Maler Beti GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Breitensteinstrasse 20",
+    "plz": "8037",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792672865",
+    "email": "info@malerbeti.ch",
+    "webseite": "https://www.malerbeti.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

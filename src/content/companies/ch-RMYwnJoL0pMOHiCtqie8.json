@@ -1,0 +1,30 @@
+{
+  "id": "ch-RMYwnJoL0pMOHiCtqie8",
+  "slug": "merz-egger-ag-st-gallen",
+  "name": "merz+egger ag",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Wehrstrasse 2",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713100041",
+    "email": "info@merzegger.ch",
+    "webseite": "https://www.merzegger.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

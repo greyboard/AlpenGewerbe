@@ -1,0 +1,30 @@
+{
+  "id": "ch-yNvH9vc7MBIF0LgJ4Bpl",
+  "slug": "maeder-metallbau-gmbh-neuenegg",
+  "name": "Maeder Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Sensebrücke 13",
+    "plz": "3175",
+    "ort": "Neuenegg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317410007",
+    "email": "info@maedermetallbau.ch",
+    "webseite": "https://www.maedermetallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-5L5Iw0t1qsQmoFXXvwso",
+  "slug": "schmid-gebaeudetechnik-gmbh-zuerich",
+  "name": "Schmid Gebäudetechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Max-Högger-Strasse 6",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41566313001",
+    "email": "info@gebaeudetechnik-schmid.ch",
+    "webseite": "https://www.gebaeudetechnik-schmid.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

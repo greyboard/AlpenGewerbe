@@ -1,0 +1,30 @@
+{
+  "id": "ch-QDkXvPastV1OWQq1WztA",
+  "slug": "flimser-sanitaer-flims-dorf",
+  "name": "Flimser Sanitär",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via Tarbin 6A",
+    "plz": "7017",
+    "ort": "Flims Dorf",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774366511",
+    "email": "info@flimser-sanitaer.ch",
+    "webseite": "https://www.flimser-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

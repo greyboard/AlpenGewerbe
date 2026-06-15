@@ -1,0 +1,30 @@
+{
+  "id": "ch-IShr5IcYdIINs2PxA8Pm",
+  "slug": "maurer-coatti-unterentfelden",
+  "name": "Maurer Coatti",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Werkhofstrasse 8",
+    "plz": "5035",
+    "ort": "Unterentfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787884196",
+    "email": "maurercoatti@gmail.com",
+    "webseite": "https://www.maurer-coatti.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

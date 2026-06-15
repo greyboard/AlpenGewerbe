@@ -1,0 +1,30 @@
+{
+  "id": "ch-SSCVFsogZmUIvsh3O9V5",
+  "slug": "adam-schreinerei-ag-oberdorf",
+  "name": "Adam Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Weissensteinstrasse 115",
+    "plz": "4515",
+    "ort": "Oberdorf",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326221769",
+    "email": "info@adam-schreinerei.ch",
+    "webseite": "https://www.adam-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

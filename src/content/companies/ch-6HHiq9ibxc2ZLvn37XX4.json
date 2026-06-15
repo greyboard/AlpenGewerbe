@@ -1,0 +1,30 @@
+{
+  "id": "ch-6HHiq9ibxc2ZLvn37XX4",
+  "slug": "swisspaints-group-sarl-meyrin",
+  "name": "SWISSPAINTS GROUP SÀRL",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Chem. du Grand-Puits 66",
+    "plz": "1217",
+    "ort": "Meyrin",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786681219",
+    "email": "contact@swisspaints.ch",
+    "webseite": "https://www.swisspaints.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

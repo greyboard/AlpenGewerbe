@@ -1,0 +1,30 @@
+{
+  "id": "ch-lggb4x0Yxmmucz3Tb6iy",
+  "slug": "alain-electroservice-sarl-fribourg",
+  "name": "Alain Electroservice Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Chem. de la Colline 1",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264816660",
+    "email": "info@alain-electroservice.com",
+    "webseite": "https://alain-electroservice.com"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-UtZK4Mo0mp1hLw7TEiK0",
+  "slug": "jakob-ag-gipser-oberburg",
+  "name": "Jakob AG Gipser-",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Emmentalstrasse 127",
+    "plz": "3414",
+    "ort": "Oberburg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41344229202",
+    "email": "jakob-ag@bluewin.ch",
+    "webseite": "https://www.gipsundfarbe.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

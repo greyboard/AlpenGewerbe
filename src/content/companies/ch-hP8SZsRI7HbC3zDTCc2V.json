@@ -1,0 +1,30 @@
+{
+  "id": "ch-hP8SZsRI7HbC3zDTCc2V",
+  "slug": "hugger-ag-busswil-tg",
+  "name": "Hugger AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 60",
+    "plz": "8371",
+    "ort": "Busswil TG",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41719234410",
+    "email": "info@hugger-gipser.ch",
+    "webseite": "https://www.hugger-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

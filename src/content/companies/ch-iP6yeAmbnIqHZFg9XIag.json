@@ -1,0 +1,30 @@
+{
+  "id": "ch-iP6yeAmbnIqHZFg9XIag",
+  "slug": "mds-haustechnik-gmbh-sanitaer-luzern-luzern",
+  "name": "MDS Haustechnik GmbH - Sanitär Luzern",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Thorenbergstrasse 47",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412504044",
+    "email": "info@mds-haustechnik.ch",
+    "webseite": "https://www.mds-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

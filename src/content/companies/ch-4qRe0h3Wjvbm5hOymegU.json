@@ -1,0 +1,30 @@
+{
+  "id": "ch-4qRe0h3Wjvbm5hOymegU",
+  "slug": "faessler-malergeschaeft-unteriberg",
+  "name": "Fässler Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Waagtalstrasse 18",
+    "plz": "8842",
+    "ort": "Unteriberg",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798442347",
+    "email": "info@malerfaessler.ch",
+    "webseite": "https://www.malerfaessler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

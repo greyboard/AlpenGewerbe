@@ -1,0 +1,30 @@
+{
+  "id": "ch-LjsHH93sUAKxp2BxRXVN",
+  "slug": "karl-stuessi-sanitaer-ag-glarus",
+  "name": "Karl Stüssi Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Buchholzstrasse 34",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556406494",
+    "email": "info@stuessiag.ch",
+    "webseite": "https://www.stuessiag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

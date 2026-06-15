@@ -1,0 +1,30 @@
+{
+  "id": "ch-f0A6pPoiivbVCjRCr9Fg",
+  "slug": "steimle-fenster-ag-bern",
+  "name": "Steimle Fenster AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rosenweg 38",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313791414",
+    "email": "info@steimlefenster.ch",
+    "webseite": "https://www.steimlefenster.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

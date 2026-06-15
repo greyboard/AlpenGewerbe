@@ -1,0 +1,30 @@
+{
+  "id": "ch-UviLdqutfrP8KyCsMwBB",
+  "slug": "schudel-roofing-zuerich",
+  "name": "Schudel roofing",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Affolternstrasse 177",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443119384",
+    "email": "info@schudel-bedachungen.ch",
+    "webseite": "https://www.schudel-bedachungen.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

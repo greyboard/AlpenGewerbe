@@ -1,0 +1,30 @@
+{
+  "id": "ch-HjQ2YPc9FjPkonpJg9Ma",
+  "slug": "hadorn-maler-gipser-gmbh-aarau",
+  "name": "Hadorn Maler Gipser GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bachmattweg 18",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791766161",
+    "email": "info@malderhadorn.ch",
+    "webseite": "https://malerhadorn.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

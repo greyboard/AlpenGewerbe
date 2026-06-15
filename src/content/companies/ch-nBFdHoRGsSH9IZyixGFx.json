@@ -1,0 +1,30 @@
+{
+  "id": "ch-nBFdHoRGsSH9IZyixGFx",
+  "slug": "gipsergeschaeft-kradolfer-gmbh-weinfelden",
+  "name": "Gipsergeschäft Kradolfer GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Wilerstrasse 22",
+    "plz": "8570",
+    "ort": "Weinfelden",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716263080",
+    "email": "info@kradolfer.ch",
+    "webseite": "https://www.kradolfer.ch/startseite"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

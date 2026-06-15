@@ -1,0 +1,30 @@
+{
+  "id": "ch-PRKLk7t4W7oAi7aeQZVp",
+  "slug": "grossmann-brauchli-ag-schaffhausen",
+  "name": "Grossmann Brauchli AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Unterstadt 15",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526330505",
+    "email": "info@grossmannbrauchli.chgrossmannbrauchli.ch",
+    "webseite": "https://www.grossmannbrauchli.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

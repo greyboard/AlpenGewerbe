@@ -1,0 +1,30 @@
+{
+  "id": "ch-QJPYoonN02I19IZEVUno",
+  "slug": "aez-ag-zuerich",
+  "name": "AEZ AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Hohlstrasse 409",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444976020",
+    "email": "info@aez.ch",
+    "webseite": "https://www.aez.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

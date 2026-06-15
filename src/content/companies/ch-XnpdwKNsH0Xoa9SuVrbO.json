@@ -1,0 +1,30 @@
+{
+  "id": "ch-XnpdwKNsH0Xoa9SuVrbO",
+  "slug": "stocker-sanitaer-ag-reinach",
+  "name": "Stocker Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Duggingerstrasse 20",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617122590",
+    "email": "info@stocker-sanitaer.ch",
+    "webseite": "https://www.stocker-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

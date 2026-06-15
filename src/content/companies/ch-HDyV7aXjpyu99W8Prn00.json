@@ -1,0 +1,30 @@
+{
+  "id": "ch-HDyV7aXjpyu99W8Prn00",
+  "slug": "hurni-gaerten-gmbh-liebistorf",
+  "name": "Hurni Gärten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "3213 Liebistorf",
+    "plz": "3213",
+    "ort": "Liebistorf",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788403844",
+    "email": "richard@hurni-gaerten.ch",
+    "webseite": "https://www.hurni-gaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

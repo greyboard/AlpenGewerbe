@@ -1,0 +1,30 @@
+{
+  "id": "ch-0oWpLdAlxV5n90xAXiAN",
+  "slug": "innocenti-gartenbau-basel",
+  "name": "Innocenti Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hagenaustrasse 16",
+    "plz": "4056",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795228677",
+    "email": "info@innocenti-gartenbau.ch",
+    "webseite": "https://www.innocenti-gartenbau.ch/#"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

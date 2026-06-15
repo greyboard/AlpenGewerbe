@@ -1,0 +1,30 @@
+{
+  "id": "ch-BfnqaA3ffQOI9gSqxiT6",
+  "slug": "power-tech-elektro-gmbh-boeckten",
+  "name": "Power Tech Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 49",
+    "plz": "4461",
+    "ort": "Böckten",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795212403",
+    "email": "info@powertechelektrogmbh.ch",
+    "webseite": "https://www.powertechelektrogmbh.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

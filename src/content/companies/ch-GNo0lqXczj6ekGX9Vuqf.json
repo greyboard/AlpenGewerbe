@@ -1,0 +1,30 @@
+{
+  "id": "ch-GNo0lqXczj6ekGX9Vuqf",
+  "slug": "kaeser-p-malergeschaeft-ag-st-gallen",
+  "name": "Käser P. Malergeschäft AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bruggwaldstrasse 10",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712786131",
+    "email": "info@pkaeser.ch",
+    "webseite": "https://www.pkaeser.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

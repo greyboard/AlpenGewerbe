@@ -1,0 +1,30 @@
+{
+  "id": "ch-yyVJF9ZMfVRkn97GAx2w",
+  "slug": "maurer-motos-ag-rohr",
+  "name": "Maurer Motos AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Gartenstrasse 21",
+    "plz": "5032",
+    "ort": "Rohr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628239474",
+    "email": "info@maurermotos.ch",
+    "webseite": "https://www.maurermotos.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-NyVh5ojhr4wjiWau26NW",
+  "slug": "elektro-kamberi-grenchen",
+  "name": "Elektro Kamberi",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Archstrasse 37",
+    "plz": "2540",
+    "ort": "Grenchen",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764477641",
+    "email": "info@elektrokamberi.ch",
+    "webseite": "https://www.elektrokamberi.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-20YaSW8eaMjNWecdpCxq",
+  "slug": "arnoux-construction-metallique-sa-les-bois",
+  "name": "Arnoux Construction Métallique SA",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rue de l'Orée 21",
+    "plz": "2336",
+    "ort": "Les Bois",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41329531222",
+    "email": "contact@acm-sa.ch",
+    "webseite": "https://www.acm-sa.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

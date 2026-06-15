@@ -1,0 +1,30 @@
+{
+  "id": "ch-NQXlJBmYkNetmQaVDAqF",
+  "slug": "schoenholzer-elektro-ag-sulgen",
+  "name": "Schönholzer Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bleiken 38",
+    "plz": "8583",
+    "ort": "Sulgen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716449944",
+    "email": "info@schoenholzer.ch",
+    "webseite": "https://www.schoenholzer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

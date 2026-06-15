@@ -1,0 +1,30 @@
+{
+  "id": "ch-FQXxiUBoxOYCsUzMNxe2",
+  "slug": "a1-flachdach-gmbh-basel",
+  "name": "A1 Flachdach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Spalenring 17",
+    "plz": "4055",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795160024",
+    "email": "info@a1-flachdach.ch",
+    "webseite": "https://a1-flachdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-yyG6jNDPe0cVTp5TTRsp",
+  "slug": "gips-solution-ag-zuerich",
+  "name": "Gips Solution AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Schaffhauserstrasse 550",
+    "plz": "8052",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443091288",
+    "email": "info@gipssolutionag.ch",
+    "webseite": "https://www.gipssolutionag.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

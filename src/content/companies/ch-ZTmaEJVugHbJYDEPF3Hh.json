@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZTmaEJVugHbJYDEPF3Hh",
+  "slug": "leos-glas-zug-baar",
+  "name": "Leos Glas Zug",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Baarermattstrasse 19",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417609090",
+    "email": "info@leosglas.ch",
+    "webseite": "https://leosglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

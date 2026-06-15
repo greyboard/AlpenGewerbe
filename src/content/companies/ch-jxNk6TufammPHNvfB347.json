@@ -1,0 +1,30 @@
+{
+  "id": "ch-jxNk6TufammPHNvfB347",
+  "slug": "aqua-tech-sarl-geneve",
+  "name": "Aqua & Tech Sàrl",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Bd Georges-Favon 19",
+    "plz": "1204",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41225564727",
+    "email": "info@aqua-and-tech.ch",
+    "webseite": "https://aqua-and-tech.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

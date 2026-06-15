@@ -1,0 +1,30 @@
+{
+  "id": "ch-JTyk1O7N2Ht5KzdAHvOl",
+  "slug": "steiner-schreinerei-gmbh-erlen",
+  "name": "Steiner Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Kümmertshauserstrasse 2",
+    "plz": "8586",
+    "ort": "Erlen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716481070",
+    "email": "steiner.erlen@bluewin.ch",
+    "webseite": "https://www.steiner-erlen.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

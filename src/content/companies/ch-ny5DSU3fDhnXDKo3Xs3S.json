@@ -1,0 +1,30 @@
+{
+  "id": "ch-ny5DSU3fDhnXDKo3Xs3S",
+  "slug": "es-holzhandwerk-gmbh-zuerich",
+  "name": "ES-Holzhandwerk GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Ueberlandstrasse 49",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443508585",
+    "email": "info@es-holzhandwerk.ch",
+    "webseite": "https://www.es-holzhandwerk.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

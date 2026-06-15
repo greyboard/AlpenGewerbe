@@ -1,0 +1,30 @@
+{
+  "id": "ch-g39FfaAjI1m99zdjmsq9",
+  "slug": "arnold-dach-gmbh-fenkrieden",
+  "name": "Arnold Dach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Küttig 2",
+    "plz": "5645",
+    "ort": "Fenkrieden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417117771",
+    "email": "info@arnold-dach.ch",
+    "webseite": "https://www.arnold-dach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

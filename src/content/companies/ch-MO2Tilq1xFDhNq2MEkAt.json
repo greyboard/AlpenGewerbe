@@ -1,0 +1,30 @@
+{
+  "id": "ch-MO2Tilq1xFDhNq2MEkAt",
+  "slug": "elektro-ulmann-appenzell",
+  "name": "Elektro Ulmann",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptgasse 3",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717871115",
+    "email": "info@elektro-ulmann.ch",
+    "webseite": "https://www.elektro-ulmann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-oZCHIShnKtpwWaMpZYnv",
+  "slug": "fliesi-gmbh-gossau",
+  "name": "Fliesi GmbH",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "St. Gallerstrasse 133",
+    "plz": "9200",
+    "ort": "Gossau",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41767666662",
+    "email": "info@fliesi.ch",
+    "webseite": "https://www.fliesi.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

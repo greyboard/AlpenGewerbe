@@ -1,0 +1,30 @@
+{
+  "id": "ch-0CQjuB76K4FCLLCRe857",
+  "slug": "bcs-sa-neuchatel",
+  "name": "BCS SA",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Rue des Draizes 3",
+    "plz": "2000",
+    "ort": "Neuchâtel",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41327329800",
+    "email": "office@bcs-facades.ch",
+    "webseite": "https://www.bcs-facades.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-TytyJW0zL33hH39tYA0B",
+  "slug": "otter-sanitaertechnik-gmbh-ins",
+  "name": "Otter Sanitärtechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Fauggersweg 43",
+    "plz": "3232",
+    "ort": "Ins",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323134210",
+    "email": "sch@otter-santech.ch",
+    "webseite": "https://otter-sanitaertechnik.digitalone.site"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

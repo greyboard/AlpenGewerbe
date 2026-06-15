@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZVipGkd0PODHMwrbSOTz",
+  "slug": "bead-bau-gmbh-kundenmaurer-basel",
+  "name": "BEAD BAU GmbH Kundenmaurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Holeestrasse 1",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763741198",
+    "email": "info@beadbau.ch",
+    "webseite": "https://beadbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-WrbKominjl1oKuTOJNHi",
+  "slug": "ls-elektro-gmbh-weesen",
+  "name": "LS-Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hirschengutstrasse 3",
+    "plz": "8872",
+    "ort": "Weesen",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556161016",
+    "email": "info@ls-elektro.ch",
+    "webseite": "https://ls-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

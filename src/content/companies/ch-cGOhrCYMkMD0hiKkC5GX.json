@@ -1,0 +1,30 @@
+{
+  "id": "ch-cGOhrCYMkMD0hiKkC5GX",
+  "slug": "glasex-gmbh-mels",
+  "name": "GlasEx GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Zeughausstrasse 10",
+    "plz": "8887",
+    "ort": "Mels",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41817201144",
+    "email": "info@glasex-suisse.ch",
+    "webseite": "https://www.glasex.swiss"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

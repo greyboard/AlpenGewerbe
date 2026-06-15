@@ -1,0 +1,30 @@
+{
+  "id": "ch-Jojm36eJu0vqUtDNFjUR",
+  "slug": "malerei-mueggler-ag-romanshorn",
+  "name": "Malerei Müggler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kastaudenstrasse 1",
+    "plz": "8590",
+    "ort": "Romanshorn",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714633191",
+    "email": "postmaster@malerei-mueggler.ch",
+    "webseite": "https://www.malerei-mueggler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

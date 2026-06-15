@@ -1,0 +1,30 @@
+{
+  "id": "ch-MVDcQoZu6zLgsTAJKJqo",
+  "slug": "zenuni-sarl-estavayer-le-lac",
+  "name": "Zenuni Sàrl",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Le Piolet 45",
+    "plz": "1470",
+    "ort": "Estavayer-le-Lac",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266634590",
+    "email": "info@zenuni-sarl.ch",
+    "webseite": "https://www.zenuni-sarl.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

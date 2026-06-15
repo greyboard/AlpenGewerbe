@@ -1,0 +1,30 @@
+{
+  "id": "ch-gIF8Zp9KA1G4vkh9NWBR",
+  "slug": "niedermann-ag-baar-baar",
+  "name": "Niedermann AG, Baar",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Langgasse 53",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417661313",
+    "email": "haustech@niedermann-ag.ch",
+    "webseite": "https://www.niedermann-ag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

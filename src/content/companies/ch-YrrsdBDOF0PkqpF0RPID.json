@@ -1,0 +1,30 @@
+{
+  "id": "ch-YrrsdBDOF0PkqpF0RPID",
+  "slug": "dimo-sanitaer-gmbh-niederdorf",
+  "name": "DIMO Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Dorfgasse 4B",
+    "plz": "4435",
+    "ort": "Niederdorf",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619631080",
+    "email": "info@dimo.ch",
+    "webseite": "https://www.dimo.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-7Wc4GndaGzD48CGU7K6s",
+  "slug": "woodtech-gmbh-steinen",
+  "name": "Woodtech GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Dorfpl. 1",
+    "plz": "6422",
+    "ort": "Steinen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764999272",
+    "email": "info@woodtech-hediger.ch",
+    "webseite": "https://woodtech.digitalone.site"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

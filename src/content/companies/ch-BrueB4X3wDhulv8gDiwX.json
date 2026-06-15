@@ -1,0 +1,30 @@
+{
+  "id": "ch-BrueB4X3wDhulv8gDiwX",
+  "slug": "hartmann-metallbau-ag-saas-im-praettigau",
+  "name": "Hartmann Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 5",
+    "plz": "7247",
+    "ort": "Saas im Prättigau",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813321763",
+    "email": "info@hartmann-metallbau.ch",
+    "webseite": "https://www.hartmann-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-lPUV0NX040BSPaiE1cFd",
+  "slug": "kundenmaurer-teufen",
+  "name": "Kundenmaurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Ebni 15",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713331590",
+    "email": "kontakt@mettler-tanner.ch",
+    "webseite": "https://kundenmaurer.ch/kontakt"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-92EfSHsAWNGjnCeRnTfc",
+  "slug": "elektro-stettler-felben-wellhausen",
+  "name": "Elektro Stettler",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bruggackerstrasse 2",
+    "plz": "8552",
+    "ort": "Felben-Wellhausen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527404333",
+    "email": "elektrostettler@gmail.com",
+    "webseite": "https://yellow.local.ch/d/1EbUnliVZCw-d71WPd-XWQ"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

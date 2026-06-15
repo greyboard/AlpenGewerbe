@@ -1,0 +1,30 @@
+{
+  "id": "ch-avKAAvmAOR8XlB6sM20F",
+  "slug": "beqiri-partner-ag-basel",
+  "name": "Beqiri Partner AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Lyon-Strasse 40",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613310004",
+    "email": "info@beqiripartner.ch",
+    "webseite": "https://www.beqiripartner.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

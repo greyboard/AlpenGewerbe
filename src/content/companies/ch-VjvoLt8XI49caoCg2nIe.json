@@ -1,0 +1,30 @@
+{
+  "id": "ch-VjvoLt8XI49caoCg2nIe",
+  "slug": "ruedi-distel-ag-luzern",
+  "name": "Ruedi Distel AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Moosmattstrasse 20C",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413184118",
+    "email": "info@distelag.ch",
+    "webseite": "https://www.distelag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

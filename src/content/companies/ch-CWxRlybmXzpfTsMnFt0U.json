@@ -1,0 +1,30 @@
+{
+  "id": "ch-CWxRlybmXzpfTsMnFt0U",
+  "slug": "elektrizitaetswerk-altdorf-ag-altdorf",
+  "name": "Elektrizitätswerk Altdorf AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Herrengasse 1",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418750875",
+    "email": "mail@energieuri.ch",
+    "webseite": "https://www.energieuri.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

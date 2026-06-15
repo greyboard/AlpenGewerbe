@@ -1,0 +1,30 @@
+{
+  "id": "ch-BK5usiOAPsQGSI0BEuWG",
+  "slug": "aeschlimann-bedachungen-gmbh-basel",
+  "name": "Aeschlimann Bedachungen GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rütimeyerstrasse 70",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613222080",
+    "email": "maeschlimann@aeschlimann-dach.ch",
+    "webseite": "https://www.aeschlimann-dach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

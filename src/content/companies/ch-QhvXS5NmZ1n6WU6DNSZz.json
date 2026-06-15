@@ -1,0 +1,30 @@
+{
+  "id": "ch-QhvXS5NmZ1n6WU6DNSZz",
+  "slug": "gartenbau-tessin-lavertezzo",
+  "name": "Gartenbau Tessin",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Via Cantonale 48",
+    "plz": "6595",
+    "ort": "Lavertezzo",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793731516",
+    "email": "info@gartenbau-tessin.ch",
+    "webseite": "https://gartenbau-tessin.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

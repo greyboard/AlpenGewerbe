@@ -1,0 +1,30 @@
+{
+  "id": "ch-NGbGrKTIMHgf4JdglR0x",
+  "slug": "cm-flachdach-gmbh-basel",
+  "name": "CM-Flachdach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Dornacherstrasse 176",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763758122",
+    "email": "info@cm-flachdach.ch",
+    "webseite": "https://www.cm-flachdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

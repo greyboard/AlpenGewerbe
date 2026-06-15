@@ -1,0 +1,30 @@
+{
+  "id": "ch-UEOJGlJPVAiVM1TycIsu",
+  "slug": "maler-haas-ag-felben-wellhausen",
+  "name": "Maler Haas AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Römerstrasse 18",
+    "plz": "8552",
+    "ort": "Felben-Wellhausen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527651383",
+    "email": "20haas.maler@bluewin.ch",
+    "webseite": "https://www.haas-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

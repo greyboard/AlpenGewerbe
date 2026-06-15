@@ -1,0 +1,30 @@
+{
+  "id": "ch-Ax6hru99GMvai9vG5YKc",
+  "slug": "mettler-ag-luzern",
+  "name": "Mettler AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte 17",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413207420",
+    "email": "info@mettler-trockenbau.ch",
+    "webseite": "https://www.mettler-trockenbau.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

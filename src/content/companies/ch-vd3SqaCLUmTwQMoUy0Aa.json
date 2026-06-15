@@ -1,0 +1,30 @@
+{
+  "id": "ch-vd3SqaCLUmTwQMoUy0Aa",
+  "slug": "maler-design-gmbh-arth",
+  "name": "Maler-Design GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kirchfeldstrasse 12",
+    "plz": "6415",
+    "ort": "Arth",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799488321",
+    "email": "info@malerdesign.ch",
+    "webseite": "https://www.malerdesign.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

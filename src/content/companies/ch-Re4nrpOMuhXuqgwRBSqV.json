@@ -1,0 +1,30 @@
+{
+  "id": "ch-Re4nrpOMuhXuqgwRBSqV",
+  "slug": "renggli-schreinerei-ag-basel",
+  "name": "Renggli Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Walkeweg 71",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613733780",
+    "email": "info@schreinerei-renggli.ch",
+    "webseite": "https://www.schreinerei-renggli.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

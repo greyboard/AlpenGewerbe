@@ -1,0 +1,30 @@
+{
+  "id": "ch-48JFitcQj2WP0EUcQZ1J",
+  "slug": "gerber-guentlisberger-ag-riehen",
+  "name": "Gerber + Güntlisberger AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Lörracherstrasse 40",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616468060",
+    "email": "info@g-und-g.ch",
+    "webseite": "https://www.g-und-g.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

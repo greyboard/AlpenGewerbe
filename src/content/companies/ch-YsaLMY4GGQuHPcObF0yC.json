@@ -1,0 +1,30 @@
+{
+  "id": "ch-YsaLMY4GGQuHPcObF0yC",
+  "slug": "luetolf-malergeschaeft-fuellinsdorf",
+  "name": "Lütolf Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Werkstatt 5 und 6",
+    "plz": "4414",
+    "ort": "Füllinsdorf",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619239602",
+    "email": "info@luetolf-malergeschaeft.ch",
+    "webseite": "https://luetolf-malergeschaeft.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-GPvOJgdAV21RqAgQfIPN",
+  "slug": "securelec-vaud-sa-ecublens",
+  "name": "Securelec Vaud SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Chem. du Suchet 5",
+    "plz": "1024",
+    "ort": "Ecublens",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41216328020",
+    "email": "securelec-vd@securelec.ch",
+    "webseite": "https://vaud.securelec.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

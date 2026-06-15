@@ -1,0 +1,30 @@
+{
+  "id": "ch-CxozjCFQENAWqR8yvLB6",
+  "slug": "rsb-haustechnik-heizung-und-sanitaer-gmbh-seewen",
+  "name": "RSB-Haustechnik Heizung und Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 128",
+    "plz": "6423",
+    "ort": "Seewen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418100231",
+    "email": "info@rsb-haustechnik.ch",
+    "webseite": "https://rsb-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

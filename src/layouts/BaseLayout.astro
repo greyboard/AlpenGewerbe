@@ -1,0 +1,247 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  noIndex?: boolean;
+}
+
+const { title, description = 'Das Branchenbuch für Handwerk und Gewerbe in der Alpenregion.', noIndex = false } = Astro.props;
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
+---
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  {noIndex && <meta name="robots" content="noindex, nofollow" />}
+  <link rel="canonical" href={canonicalUrl} />
+  <link rel="icon" href="/favicon.ico" />
+  <slot name="head" />
+</head>
+<body>
+
+  <!-- ══ HEADER ══════════════════════════════════════════════════════════ -->
+  <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-(--color-border) shadow-sm">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16 lg:h-18">
+
+        <!-- Logo -->
+        <a href="/" class="flex items-center gap-2.5 group" aria-label="AlpenGewerbe – Startseite">
+          <svg width="32" height="32" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+            <!-- Berg-Silhouette -->
+            <polygon points="16,4 28,26 4,26" fill="#1E5C35" opacity="0.9"/>
+            <polygon points="8,16 16,6 24,16 20,26 12,26" fill="#2D7F4A" opacity="0.6"/>
+            <!-- Schneekappe -->
+            <polygon points="16,4 20,12 12,12" fill="white" opacity="0.85"/>
+          </svg>
+          <span class="font-heading font-800 text-xl text-(--color-text) tracking-tight">
+            Alpen<span class="text-(--color-primary)">Gewerbe</span>
+          </span>
+        </a>
+
+        <!-- Desktop-Navigation -->
+        <nav class="hidden lg:flex items-center gap-8" aria-label="Hauptnavigation">
+          <a href="/schreiner/" class="text-sm font-medium text-(--color-text-muted) hover:text-(--color-primary) transition-colors">
+            Branchen
+          </a>
+          <a href="/schreiner/vaduz/" class="text-sm font-medium text-(--color-text-muted) hover:text-(--color-primary) transition-colors">
+            Regionen
+          </a>
+          <a href="/betrieb/" class="text-sm font-medium text-(--color-text-muted) hover:text-(--color-primary) transition-colors">
+            Für Betriebe
+          </a>
+        </nav>
+
+        <!-- Rechte Seite: Suche + CTA -->
+        <div class="hidden lg:flex items-center gap-3">
+          <!-- Mini-Suche -->
+          <form action="/suche/" method="get" class="relative" role="search">
+            <label for="header-search" class="sr-only">Betrieb suchen</label>
+            <input
+              id="header-search"
+              name="q"
+              type="search"
+              placeholder="Betrieb suchen…"
+              class="w-52 pl-9 pr-4 py-2 text-sm rounded-lg border border-(--color-border) bg-(--color-surface)
+                     placeholder:text-(--color-text-muted) text-(--color-text)
+                     focus:outline-none focus:border-(--color-primary) focus:ring-1 focus:ring-(--color-primary)/30
+                     transition-all"
+            />
+            <svg class="absolute left-2.5 top-1/2 -translate-y-1/2 text-(--color-text-muted) pointer-events-none"
+                 width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                 aria-hidden="true">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+            </svg>
+          </form>
+
+          <!-- CTA: Betrieb eintragen -->
+          <a href="/betrieb/eintragen/"
+             class="inline-flex items-center gap-1.5 bg-(--color-accent) text-white px-4 py-2 rounded-lg text-sm font-semibold
+                    transition-all duration-200 hover:bg-(--color-accent-dark) hover:shadow-md">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <path d="M12 5v14M5 12h14"/>
+            </svg>
+            Betrieb eintragen
+          </a>
+        </div>
+
+        <!-- Mobile: Hamburger -->
+        <button
+          id="mobile-menu-btn"
+          type="button"
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          aria-label="Menü öffnen"
+          class="lg:hidden flex items-center justify-center w-10 h-10 rounded-lg
+                 text-(--color-text-muted) hover:text-(--color-primary) hover:bg-(--color-surface) transition-colors"
+        >
+          <svg id="icon-open"  width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+          <svg id="icon-close" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+               class="hidden" aria-hidden="true">
+            <path d="M18 6 6 18M6 6l12 12"/>
+          </svg>
+        </button>
+
+      </div>
+    </div>
+
+    <!-- Mobile-Menü -->
+    <div id="mobile-menu" class="hidden lg:hidden border-t border-(--color-border) bg-white">
+      <nav class="max-w-7xl mx-auto px-4 py-4 flex flex-col gap-1" aria-label="Mobile Navigation">
+        <a href="/schreiner/"       class="px-3 py-2.5 rounded-lg text-sm font-medium text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">Branchen</a>
+        <a href="/schreiner/vaduz/" class="px-3 py-2.5 rounded-lg text-sm font-medium text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">Regionen</a>
+        <a href="/betrieb/"         class="px-3 py-2.5 rounded-lg text-sm font-medium text-(--color-text) hover:bg-(--color-surface) hover:text-(--color-primary) transition-colors">Für Betriebe</a>
+        <div class="pt-2 pb-1 border-t border-(--color-border) mt-2">
+          <a href="/betrieb/eintragen/"
+             class="flex items-center justify-center gap-2 bg-(--color-accent) text-white px-4 py-2.5 rounded-lg text-sm font-semibold
+                    hover:bg-(--color-accent-dark) transition-colors">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <path d="M12 5v14M5 12h14"/>
+            </svg>
+            Betrieb eintragen
+          </a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ══ MAIN CONTENT ════════════════════════════════════════════════════ -->
+  <main>
+    <slot />
+  </main>
+
+  <!-- ══ FOOTER ══════════════════════════════════════════════════════════ -->
+  <footer class="bg-(--color-section-dark) text-white">
+
+    <!-- Haupt-Footer -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 lg:py-16">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-[1.6fr_1fr_1fr] gap-10 lg:gap-14">
+
+        <!-- Spalte 1: Marke + Beschreibung -->
+        <div>
+          <a href="/" class="flex items-center gap-2.5 mb-4 group" aria-label="AlpenGewerbe – Startseite">
+            <svg width="30" height="30" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+              <polygon points="16,4 28,26 4,26" fill="#2D7F4A" opacity="0.9"/>
+              <polygon points="8,16 16,6 24,16 20,26 12,26" fill="#4CAF70" opacity="0.5"/>
+              <polygon points="16,4 20,12 12,12" fill="white" opacity="0.7"/>
+            </svg>
+            <span class="font-heading font-bold text-lg text-white tracking-tight">
+              Alpen<span class="text-(--color-primary-light)">Gewerbe</span>
+            </span>
+          </a>
+          <p class="text-sm text-white/60 leading-relaxed max-w-xs">
+            Das Branchenbuch für Handwerk und Gewerbe in der Schweiz und Liechtenstein.
+          </p>
+          <!-- Länder-Badges -->
+          <div class="flex items-center gap-2 mt-5">
+            <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/10 text-xs text-white/70 font-medium">
+              🇨🇭 Schweiz
+            </span>
+            <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/10 text-xs text-white/70 font-medium">
+              🇱🇮 Liechtenstein
+            </span>
+          </div>
+        </div>
+
+        <!-- Spalte 2: Branchen -->
+        <div>
+          <h3 class="text-white text-sm font-semibold uppercase tracking-widest mb-4">Top-Branchen</h3>
+          <ul class="space-y-2.5 text-sm text-white/60">
+            <li><a href="/schreiner/"     class="hover:text-white transition-colors">Schreiner</a></li>
+            <li><a href="/elektriker/"    class="hover:text-white transition-colors">Elektriker</a></li>
+            <li><a href="/maler/"         class="hover:text-white transition-colors">Maler</a></li>
+            <li><a href="/sanitaer/"      class="hover:text-white transition-colors">Sanitär</a></li>
+            <li><a href="/dachdecker/"    class="hover:text-white transition-colors">Dachdecker</a></li>
+            <li><a href="/heizung/"       class="hover:text-white transition-colors">Heizungsbau</a></li>
+          </ul>
+        </div>
+
+        <!-- Spalte 3: Info + Rechtliches -->
+        <div>
+          <h3 class="text-white text-sm font-semibold uppercase tracking-widest mb-4">Informationen</h3>
+          <ul class="space-y-2.5 text-sm text-white/60">
+            <li><a href="/betrieb/eintragen/"  class="hover:text-white transition-colors">Betrieb eintragen</a></li>
+            <li><a href="/ueber-uns/"          class="hover:text-white transition-colors">Über AlpenGewerbe</a></li>
+            <li><a href="/kontakt/"            class="hover:text-white transition-colors">Kontakt</a></li>
+            <li class="pt-2 border-t border-white/10 mt-1">
+              <a href="/impressum/"            class="hover:text-white transition-colors">Impressum</a>
+            </li>
+            <li><a href="/datenschutz/"        class="hover:text-white transition-colors">Datenschutz</a></li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Footer-Bar -->
+    <div class="border-t border-white/10">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-white/40">
+        <p>© {new Date().getFullYear()} AlpenGewerbe. Alle Rechte vorbehalten.</p>
+        <p>Handwerk & Gewerbe in der Alpenregion</p>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- ══ SCRIPTS ═════════════════════════════════════════════════════════ -->
+  <script is:inline>
+    // Mobile-Menü Toggle
+    const btn  = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    const iconOpen  = document.getElementById('icon-open');
+    const iconClose = document.getElementById('icon-close');
+
+    btn?.addEventListener('click', () => {
+      const expanded = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!expanded));
+      menu?.classList.toggle('hidden');
+      iconOpen?.classList.toggle('hidden');
+      iconClose?.classList.toggle('hidden');
+    });
+
+    // IntersectionObserver für Scroll-Animationen
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.1, rootMargin: '0px 0px -40px 0px' }
+    );
+
+    document.querySelectorAll('.animate-on-scroll').forEach((el) => observer.observe(el));
+  </script>
+
+</body>
+</html>

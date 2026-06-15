@@ -1,0 +1,30 @@
+{
+  "id": "ch-2aoDfrEFgvCXCIHYApQs",
+  "slug": "lienher-s-a-savagnier",
+  "name": "Lienher S.A.",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rue des Corbes 27",
+    "plz": "2065",
+    "ort": "Savagnier",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41328532324",
+    "email": "info@lienher.ch",
+    "webseite": "https://lienher.ch/site"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

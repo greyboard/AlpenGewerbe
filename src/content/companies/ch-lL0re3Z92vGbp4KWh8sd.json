@@ -1,0 +1,30 @@
+{
+  "id": "ch-lL0re3Z92vGbp4KWh8sd",
+  "slug": "elektro-p-baenziger-gmbh-st-gallen",
+  "name": "Elektro P.Bänziger GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hochwachtstrasse 1B",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41715236666",
+    "email": "info@elektro-baenziger.ch",
+    "webseite": "https://www.elektro-baenziger.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-0SKn1axJeNmlmmCk5CoE",
+  "slug": "keiser-waser-ag-zug",
+  "name": "Keiser + Waser AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gartenstadt 2",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417430444",
+    "email": "info@novaverso.ch",
+    "webseite": "https://www.kwzug.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

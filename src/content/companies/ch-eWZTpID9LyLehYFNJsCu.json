@@ -1,0 +1,30 @@
+{
+  "id": "ch-eWZTpID9LyLehYFNJsCu",
+  "slug": "schlosserei-troegli-ag-altdorf",
+  "name": "Schlosserei Trögli AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 32",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418705970",
+    "email": "info@troegliag.ch",
+    "webseite": "https://www.troegliag.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

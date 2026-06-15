@@ -1,0 +1,30 @@
+{
+  "id": "ch-2MWZlgWS0e1c1pKPYvGV",
+  "slug": "elektro-kuster-st-gallen-gmbh-st-gallen",
+  "name": "Elektro Kuster St. Gallen GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Fürstenlandstrasse 101",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712601905",
+    "email": "info@elektro-kuster.ch",
+    "webseite": "https://www.elektro-kuster.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-6oEevfzRGicnWvuxlaZv",
+  "slug": "ak-chauffage-genf",
+  "name": "Ak chauffage",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "42 Bis",
+    "plz": "1202",
+    "ort": "Genf",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227963821",
+    "email": "info@ak-chauffage.ch",
+    "webseite": "https://ak-chauffage.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

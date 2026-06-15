@@ -1,0 +1,30 @@
+{
+  "id": "ch-sLJpwFk2aNUJ9la9dRcK",
+  "slug": "maler-freunde-gmbh-zuerich",
+  "name": "Maler Freunde GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Albisstrasse 125",
+    "plz": "8038",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445589290",
+    "email": "info@maler-freunde.ch",
+    "webseite": "https://www.maler-freunde.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-leuY6Av82dIcjjLB00IV",
+  "slug": "von-arx-gaerten-amriswil",
+  "name": "von Arx Gärten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Oberdorf",
+    "plz": "8580",
+    "ort": "Amriswil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714100880",
+    "email": "info@vonarx-gaerten.ch",
+    "webseite": "https://www.vonarx-gaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

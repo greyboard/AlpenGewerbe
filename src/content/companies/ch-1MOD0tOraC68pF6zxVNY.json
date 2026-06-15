@@ -1,0 +1,30 @@
+{
+  "id": "ch-1MOD0tOraC68pF6zxVNY",
+  "slug": "boog-schreinerei-ag-huenenberg",
+  "name": "Boog Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Alte St. Wolfgangstrasse 10",
+    "plz": "6331",
+    "ort": "Hünenberg",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417801253",
+    "email": "info@boog-schreinerei.ch",
+    "webseite": "https://boog-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

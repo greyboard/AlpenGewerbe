@@ -1,0 +1,30 @@
+{
+  "id": "ch-4Vm5lMXH45WqnduHXcna",
+  "slug": "schaller-elektro-ag-murten",
+  "name": "Schaller Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Tavelweg 10",
+    "plz": "3280",
+    "ort": "Murten",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266701544",
+    "email": "schaller.elektro@bluewin.ch",
+    "webseite": "https://www.schaller-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

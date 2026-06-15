@@ -1,0 +1,30 @@
+{
+  "id": "ch-rLer5CFGq5giqK4wcDBd",
+  "slug": "spiess-schreiner-reparaturservice-liebefeld",
+  "name": "Spiess Schreiner & Reparaturservice",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Schwarzenburgstrasse 142",
+    "plz": "3097",
+    "ort": "Liebefeld",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796518192",
+    "email": "info@spiess-holz.ch",
+    "webseite": "https://www.spiess-holz.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

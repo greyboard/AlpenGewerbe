@@ -1,0 +1,30 @@
+{
+  "id": "ch-dQlZIibXDn67GuJXEqzH",
+  "slug": "maler-klee-kreuzlingen-kreuzlingen",
+  "name": "Maler Klee, Kreuzlingen",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Weiherstrasse 56",
+    "plz": "8280",
+    "ort": "Kreuzlingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792024078",
+    "email": "info@maler-klee.ch",
+    "webseite": "https://maler-klee.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

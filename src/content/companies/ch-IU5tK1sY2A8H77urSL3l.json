@@ -1,0 +1,30 @@
+{
+  "id": "ch-IU5tK1sY2A8H77urSL3l",
+  "slug": "malerhandwerk-keller-ag-st-gallen",
+  "name": "Malerhandwerk Keller AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kolosseumstrasse 25A",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41718774010",
+    "email": "info@malerhandwerkkeller.ch",
+    "webseite": "https://malerhandwerkkeller.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

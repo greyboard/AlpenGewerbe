@@ -1,0 +1,30 @@
+{
+  "id": "ch-MnOPHXBAgF9FqvB9ETfV",
+  "slug": "a-elektro-ag-heiden",
+  "name": "A+ Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Obereggerstrasse 48",
+    "plz": "9410",
+    "ort": "Heiden",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41718917000",
+    "email": "info@apluselektro.ch",
+    "webseite": "https://apluselektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

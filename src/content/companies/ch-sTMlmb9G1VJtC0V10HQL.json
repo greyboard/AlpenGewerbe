@@ -1,0 +1,30 @@
+{
+  "id": "ch-sTMlmb9G1VJtC0V10HQL",
+  "slug": "s-baumgartner-sanitaer-gmbh-jegenstorf",
+  "name": "S. Baumgartner Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Zuzwilstrasse 32",
+    "plz": "3303",
+    "ort": "Jegenstorf",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41315568081",
+    "email": "info@baumgartnersanitaer.ch",
+    "webseite": "https://www.baumgartnersanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

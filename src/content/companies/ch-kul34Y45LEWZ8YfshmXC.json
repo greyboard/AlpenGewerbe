@@ -1,0 +1,30 @@
+{
+  "id": "ch-kul34Y45LEWZ8YfshmXC",
+  "slug": "maler-bieri-ag-scherz",
+  "name": "Maler Bieri AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Unterdorfstrasse 100",
+    "plz": "5246",
+    "ort": "Scherz",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564418089",
+    "email": "info@malerbieri.ch",
+    "webseite": "https://www.malerbieri.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

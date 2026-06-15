@@ -1,0 +1,30 @@
+{
+  "id": "ch-BMXlppXcs5jA9kUsMDgG",
+  "slug": "hinter-maler-ag-sachseln",
+  "name": "HINTER MALER AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Brünigstrasse 126A",
+    "plz": "6072",
+    "ort": "Sachseln",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416602833",
+    "email": "kontakt@malerhinter.ch",
+    "webseite": "https://www.malerhinter.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

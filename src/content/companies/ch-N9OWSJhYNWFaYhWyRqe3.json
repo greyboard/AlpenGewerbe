@@ -1,0 +1,30 @@
+{
+  "id": "ch-N9OWSJhYNWFaYhWyRqe3",
+  "slug": "glaser-baupartner-ag-basel",
+  "name": "Glaser Baupartner AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Allschwilerstrasse 35",
+    "plz": "4055",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612815181",
+    "email": "contact@glaserbaupartner.ch",
+    "webseite": "https://www.glaserbaupartner.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

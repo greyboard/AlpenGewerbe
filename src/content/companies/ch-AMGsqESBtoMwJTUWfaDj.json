@@ -1,0 +1,30 @@
+{
+  "id": "ch-AMGsqESBtoMwJTUWfaDj",
+  "slug": "braegger-bau-ag-klosters-serneus",
+  "name": "Brägger Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Serneuserstrasse 21B",
+    "plz": "7249",
+    "ort": "Klosters-Serneus",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764190326",
+    "email": "mywebsite@localsearch.ch",
+    "webseite": "https://www.braegger-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

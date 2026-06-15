@@ -1,0 +1,30 @@
+{
+  "id": "ch-jfPEQobJtlC6gDsH4hQr",
+  "slug": "gartenbau-lienert-gmbh-guettingen",
+  "name": "Gartenbau Lienert GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Winterlishof 2",
+    "plz": "8594",
+    "ort": "Güttingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796449855",
+    "email": "info@gartenbau-lienert.ch",
+    "webseite": "https://www.gartenbau-lienert.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

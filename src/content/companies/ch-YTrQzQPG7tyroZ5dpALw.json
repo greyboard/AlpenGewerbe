@@ -1,0 +1,30 @@
+{
+  "id": "ch-YTrQzQPG7tyroZ5dpALw",
+  "slug": "elektro-naegelin-ag-frenkendorf",
+  "name": "Elektro Naegelin AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Güterstrasse 10",
+    "plz": "4402",
+    "ort": "Frenkendorf",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619012626",
+    "email": "info@elektro-naegelin.ch",
+    "webseite": "https://www.elektro-naegelin.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

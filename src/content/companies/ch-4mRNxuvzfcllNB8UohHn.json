@@ -1,0 +1,30 @@
+{
+  "id": "ch-4mRNxuvzfcllNB8UohHn",
+  "slug": "franz-lipp-schreinerei-kuechen-goldau",
+  "name": "Franz Lipp Schreinerei & Küchen",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 87",
+    "plz": "6410",
+    "ort": "Goldau",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418553610",
+    "email": "info@schreinerei-lipp.ch",
+    "webseite": "https://www.schreinerei-lipp.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

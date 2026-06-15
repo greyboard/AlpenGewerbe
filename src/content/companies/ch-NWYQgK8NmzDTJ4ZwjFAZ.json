@@ -1,0 +1,30 @@
+{
+  "id": "ch-NWYQgK8NmzDTJ4ZwjFAZ",
+  "slug": "sanitaer-isler-am-pilatus-emmenbruecke",
+  "name": "Sanitär Isler am Pilatus",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Schönbühlring 68",
+    "plz": "6020",
+    "ort": "Emmenbrücke",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41784409399",
+    "email": "service@sisap.ch",
+    "webseite": "https://www.sisap.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

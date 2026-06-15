@@ -1,0 +1,30 @@
+{
+  "id": "ch-Te3QBncHvXVzdlMVBizc",
+  "slug": "sanitaer-rohr-service-schluesselservice-bern",
+  "name": "Sanitär/ Rohr-Service/ Schlüsselservice",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Spitalgasse 24",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41315520726",
+    "email": "office@sanitar24h.ch",
+    "webseite": "https://sanitar24h.ch/sanitar-bern"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

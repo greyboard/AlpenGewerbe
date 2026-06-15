@@ -1,0 +1,30 @@
+{
+  "id": "ch-KwkEg5rwSsWgvaeIYDLv",
+  "slug": "malerbetrieb-schneider-neuenburg-am-rhein",
+  "name": "Malerbetrieb Schneider",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Elsässer Weg 11",
+    "plz": "79395",
+    "ort": "Neuenburg am Rhein",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+491716285652",
+    "email": "info@malerbetrieb-schneider.org",
+    "webseite": "https://www.malerbetrieb-schneider.org"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

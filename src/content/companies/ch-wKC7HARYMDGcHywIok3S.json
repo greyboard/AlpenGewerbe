@@ -1,0 +1,30 @@
+{
+  "id": "ch-wKC7HARYMDGcHywIok3S",
+  "slug": "jrn-controle-electrique-jonas-rufino-neres-stettler-tramelan",
+  "name": "JRN Contrôle Électrique, Jonas Rufino Neres Stettler",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue de la Printanière 42",
+    "plz": "2720",
+    "ort": "Tramelan",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774953517",
+    "email": "info@jrn-controle-electrique.ch",
+    "webseite": "https://www.jrn-controle-electrique.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

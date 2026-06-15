@@ -1,0 +1,30 @@
+{
+  "id": "ch-5hQn2IZG8zAZ2QhwmFp9",
+  "slug": "murer-busreisen-gmbh-baar",
+  "name": "Murer Busreisen GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Gulmmatt 1",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417607383",
+    "email": "info@murer-reisen.ch",
+    "webseite": "https://www.murer-reisen.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

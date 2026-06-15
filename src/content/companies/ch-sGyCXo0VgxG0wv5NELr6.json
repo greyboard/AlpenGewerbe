@@ -1,0 +1,30 @@
+{
+  "id": "ch-sGyCXo0VgxG0wv5NELr6",
+  "slug": "kleiner-bau-gmbh-glarus",
+  "name": "Kleiner Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Stampfgasse 44",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796562752",
+    "email": "info@kleiner-bau.ch",
+    "webseite": "https://www.kleiner-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-P7YLZn6KO5MDlPNLpMzL",
+  "slug": "sallin-ag-tafers",
+  "name": "Sallin AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Schwarzseestrasse 22",
+    "plz": "1712",
+    "ort": "Tafers",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264947070",
+    "email": "info@sallin.ch",
+    "webseite": "https://www.sallin.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

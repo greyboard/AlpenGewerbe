@@ -1,0 +1,30 @@
+{
+  "id": "ch-v0tpt9q3sg47lbetM72L",
+  "slug": "maurer-praezisionsmechanik-gmbh-russikon",
+  "name": "Maurer Präzisionsmechanik GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Schickmattweg 9",
+    "plz": "8332",
+    "ort": "Russikon",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41449542860",
+    "email": "info@maurer-pm.ch",
+    "webseite": "https://www.maurer-pm.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-JU6qgcS80kxsvFiOQuks",
+  "slug": "elmer-blumer-ag-mollis",
+  "name": "elmer + blumer AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Zinggenstrasse 1",
+    "plz": "8753",
+    "ort": "Mollis",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556188080",
+    "email": "info@elmerblumer.ch",
+    "webseite": "https://www.elmerblumer.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

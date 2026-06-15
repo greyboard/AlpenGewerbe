@@ -1,0 +1,30 @@
+{
+  "id": "ch-cvwPg3QgyN55iSbPMwbd",
+  "slug": "stoop-ag-netstal",
+  "name": "Stoop AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Lerchenstrasse 24",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556409249",
+    "email": "schreinerei.stoop@bluewin.ch",
+    "webseite": "https://www.schreinerei-stoop.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-wNj5Qw1rKtPrFOva1GW1",
+  "slug": "morscher-ag-st-gallen",
+  "name": "Morscher AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Flurhofstrasse 22",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712446060",
+    "email": "info@bau-format.ch",
+    "webseite": "https://yellow.local.ch/d/jXeyL5lh6VuypQlDjdLeVg"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-FxLIZoonfGAK75sew6ue",
+  "slug": "express-eau-plombier-canton-de-geneve-geneve",
+  "name": "Express'EAU Plombier - Canton de Genève",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rue Ferdinand-Hodler 17",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799161274",
+    "email": "info@expresseau.com",
+    "webseite": "https://www.expresseau.com"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

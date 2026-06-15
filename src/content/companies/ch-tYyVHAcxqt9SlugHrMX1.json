@@ -1,0 +1,30 @@
+{
+  "id": "ch-tYyVHAcxqt9SlugHrMX1",
+  "slug": "holzbau-zimmerei-knoerndel-riehen",
+  "name": "Holzbau & Zimmerei Knörndel",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Kornfeldstrasse 27",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616012476",
+    "email": "info@knoerndel.ch",
+    "webseite": "https://www.knoerndel.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

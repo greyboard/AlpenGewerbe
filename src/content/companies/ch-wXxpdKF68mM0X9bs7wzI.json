@@ -1,0 +1,30 @@
+{
+  "id": "ch-wXxpdKF68mM0X9bs7wzI",
+  "slug": "schaeffer-fribourg",
+  "name": "Schaeffer",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rte des Daillettes 5",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264247125",
+    "email": "info@schaeffer-sa.ch",
+    "webseite": "https://schaeffer-sa.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

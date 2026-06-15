@@ -1,0 +1,30 @@
+{
+  "id": "ch-vxBKGQg1hX4u08ZKMxas",
+  "slug": "mh-bau-gmbh-aesch",
+  "name": "MH Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 25",
+    "plz": "4147",
+    "ort": "Aesch",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617412010",
+    "email": "aeschschweizinfo@mhbau.ch",
+    "webseite": "https://mhbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

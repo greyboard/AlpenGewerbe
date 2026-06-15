@@ -1,0 +1,30 @@
+{
+  "id": "ch-cWj7iVMm3b6CcpbftE8B",
+  "slug": "binni-gmbh-opfikon",
+  "name": "Binni GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Fabrikstrasse 17",
+    "plz": "8152",
+    "ort": "Opfikon",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41438189991",
+    "email": "info@binni.ch",
+    "webseite": "https://www.binni.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

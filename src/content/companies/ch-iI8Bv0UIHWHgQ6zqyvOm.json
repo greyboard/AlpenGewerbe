@@ -1,0 +1,30 @@
+{
+  "id": "ch-iI8Bv0UIHWHgQ6zqyvOm",
+  "slug": "thierry-meyer-gaerten-bern",
+  "name": "Thierry Meyer Gärten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Weingartstrasse 30",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765659889",
+    "email": "info@thierry-meyer-garten.ch",
+    "webseite": "https://www.thierry-meyer-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

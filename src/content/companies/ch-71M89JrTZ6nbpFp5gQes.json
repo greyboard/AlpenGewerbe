@@ -1,0 +1,30 @@
+{
+  "id": "ch-71M89JrTZ6nbpFp5gQes",
+  "slug": "pilatus-therm-ag-alpnach-dorf",
+  "name": "Pilatus Therm AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Brünigstrasse 2",
+    "plz": "6055",
+    "ort": "Alpnach Dorf",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416701124",
+    "email": "info@pilatus-therm.ch",
+    "webseite": "https://www.pilatus-therm.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

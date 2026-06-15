@@ -1,0 +1,30 @@
+{
+  "id": "ch-hBsyFRH160A5UthrW0Hi",
+  "slug": "zueri-holzbau-regensdorf",
+  "name": "Züri Holzbau",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Pumpwerkstrasse 41",
+    "plz": "8105",
+    "ort": "Regensdorf",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445258888",
+    "email": "info@zueriholzbau.ch",
+    "webseite": "https://zueriholzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

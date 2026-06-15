@@ -1,0 +1,30 @@
+{
+  "id": "ch-1g1u08YcYlUhfbQGALMY",
+  "slug": "a-meier-gartenbau-ag-hirschthal",
+  "name": "A. Meier Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Neumattstrasse 1",
+    "plz": "5042",
+    "ort": "Hirschthal",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627217171",
+    "email": "info@165.ch",
+    "webseite": "https://www.gartenbau-a-meier.ch/home"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-fkBFXH9tHaD5rqWp777f",
+  "slug": "maler-budget-gmbh-emmen",
+  "name": "Maler Budget GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Chörbli 1",
+    "plz": "6020",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795225222",
+    "email": "info@maler-budget.ch",
+    "webseite": "https://www.maler-budget.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

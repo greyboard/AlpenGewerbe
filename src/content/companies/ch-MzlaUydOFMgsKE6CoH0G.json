@@ -1,0 +1,30 @@
+{
+  "id": "ch-MzlaUydOFMgsKE6CoH0G",
+  "slug": "gartenbau-schalbetter-visp",
+  "name": "Gartenbau Schalbetter",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kantonsstrasse 57",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794473350",
+    "email": "info@gartenbau-schalbetter.ch",
+    "webseite": "https://www.gartenbau-schalbetter.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

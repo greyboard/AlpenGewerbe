@@ -1,0 +1,30 @@
+{
+  "id": "ch-pfL58SWz4FXN1jj19kVo",
+  "slug": "gaehler-gartenbau-ag-schwellbrunn",
+  "name": "Gähler Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Heimat 863",
+    "plz": "9103",
+    "ort": "Schwellbrunn",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713521262",
+    "email": "info@gartenbau-gaehler.ch",
+    "webseite": "https://www.gartenbau-gaehler.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-auj4WZkd516HVwU4fdSp",
+  "slug": "g-kopp-gmbh-appenzell",
+  "name": "G. Kopp GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rütistrasse 14",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717873438",
+    "email": "dani.kopp@gkopp.ch",
+    "webseite": "https://www.gkopp.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

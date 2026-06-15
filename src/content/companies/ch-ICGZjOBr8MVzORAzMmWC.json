@@ -1,0 +1,30 @@
+{
+  "id": "ch-ICGZjOBr8MVzORAzMmWC",
+  "slug": "schneider-schneider-maleratelier-gmbh-basel",
+  "name": "Schneider + Schneider Maleratelier GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Neuweilerstrasse 24",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613014767",
+    "email": "maler@schneiderundschneider.ch",
+    "webseite": "https://www.schneiderundschneider.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

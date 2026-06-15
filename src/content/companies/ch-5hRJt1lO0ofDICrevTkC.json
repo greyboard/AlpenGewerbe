@@ -1,0 +1,30 @@
+{
+  "id": "ch-5hRJt1lO0ofDICrevTkC",
+  "slug": "martin-hanimann-ag-st-gallen",
+  "name": "Martin Hanimann AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Taubenstrasse 6",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712449973",
+    "email": "info@martinhanimann.ch",
+    "webseite": "https://www.martinhanimann.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-bPauBSIFuSspghQUgxAd",
+  "slug": "robert-bey-gmbh-alpnach",
+  "name": "ROBERT BEY GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Brünigstrasse 46",
+    "plz": "6055",
+    "ort": "Alpnach",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797014722",
+    "email": "info@rb-metallbau.ch",
+    "webseite": "https://www.rb-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

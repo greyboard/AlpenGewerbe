@@ -1,0 +1,30 @@
+{
+  "id": "ch-spEkz7AplmhvCy1rxb4v",
+  "slug": "tischlerei-aldrup-solothurn",
+  "name": "Tischlerei Aldrup",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Dammstrasse 45",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762033060",
+    "email": "post@tischlerei.ch",
+    "webseite": "https://www.tischlerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-lbPXrRPPIX7YGqpvEwZS",
+  "slug": "schulthess-sanitaer-messen",
+  "name": "Schulthess Sanitär",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 38",
+    "plz": "3254",
+    "ort": "Messen",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317677376",
+    "email": "info@schulthess-sanitaer.ch",
+    "webseite": "https://schulthess-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

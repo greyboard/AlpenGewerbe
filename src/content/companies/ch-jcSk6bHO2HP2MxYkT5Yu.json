@@ -1,0 +1,30 @@
+{
+  "id": "ch-jcSk6bHO2HP2MxYkT5Yu",
+  "slug": "urech-garten-ag-chur",
+  "name": "Urech Garten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Heroldstrasse 25",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812869898",
+    "email": "info@urech-garten.ch",
+    "webseite": "https://www.urech-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

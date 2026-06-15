@@ -1,0 +1,30 @@
+{
+  "id": "ch-Xn8P7hPw0PhFFpVdujjR",
+  "slug": "haemmerli-waerme-gmbh-glarus",
+  "name": "Hämmerli Wärme GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Holenstein 21",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445055222",
+    "email": "hallo@heizenmitpellets.ch",
+    "webseite": "https://www.heizenmitpellets.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-fpR7hrW4gD2wMXyOk7or",
+  "slug": "elektro-hippenmeyer-ag-wiedlisbach",
+  "name": "Elektro Hippenmeyer AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 5",
+    "plz": "4537",
+    "ort": "Wiedlisbach",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326361010",
+    "email": "info@elektro-hippenmeyer.ch",
+    "webseite": "https://www.elektro-hippenmeyer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

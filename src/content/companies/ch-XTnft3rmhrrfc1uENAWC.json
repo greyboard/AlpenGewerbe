@@ -1,0 +1,30 @@
+{
+  "id": "ch-XTnft3rmhrrfc1uENAWC",
+  "slug": "kessler-gips-herisau",
+  "name": "Kessler Gips",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Erlenbach 589",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713513940",
+    "email": "info@kessler-gips.ch",
+    "webseite": "https://kessler-gips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-QwWXX8slHip1hPxj0ruk",
+  "slug": "j-rizzi-ag-cazis",
+  "name": "J. Rizzi AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 22",
+    "plz": "7408",
+    "ort": "Cazis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816500909",
+    "email": "kontakt@morgenluft.ch",
+    "webseite": "https://www.rizzi.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-olV03IW3OUx83gdsVe1O",
+  "slug": "swiss-maler-reinigungsservice-st-gallen",
+  "name": "Swiss Maler & Reinigungsservice",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "St. Jakob-Strasse 87",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786735299",
+    "email": "info@painting.com",
+    "webseite": "https://www.swissmalerservice.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

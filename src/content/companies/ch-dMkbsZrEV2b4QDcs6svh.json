@@ -1,0 +1,30 @@
+{
+  "id": "ch-dMkbsZrEV2b4QDcs6svh",
+  "slug": "elektrobaer-ag-zuerich",
+  "name": "ELEKTROBAER AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Apfelbaumstrasse 15",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443176666",
+    "email": "info@elektrobaer-group.ch",
+    "webseite": "https://www.elektrobaer-group.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

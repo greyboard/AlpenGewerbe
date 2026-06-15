@@ -1,0 +1,30 @@
+{
+  "id": "ch-09B4oy1NLNLkCVTUTHqi",
+  "slug": "saugy-schreinerteam-ag-lenk",
+  "name": "Saugy Schreinerteam AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Lenkstrasse 96",
+    "plz": "3775",
+    "ort": "Lenk",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337333535",
+    "email": "schreinerteam@saugy.ch",
+    "webseite": "https://www.schreinerei-lenk.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

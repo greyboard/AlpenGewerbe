@@ -1,0 +1,30 @@
+{
+  "id": "ch-fl25a6aLhz5WcCQhIyaj",
+  "slug": "scheuner-gartenbau-ag-bern",
+  "name": "Scheuner Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Alexandraweg 20",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313517576",
+    "email": "gaertner@bgb.ch",
+    "webseite": "https://www.gärtner.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

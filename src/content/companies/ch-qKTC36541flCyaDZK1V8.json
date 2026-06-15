@@ -1,0 +1,30 @@
+{
+  "id": "ch-qKTC36541flCyaDZK1V8",
+  "slug": "devanthery-electricite-sarl-sierre",
+  "name": "Devanthéry Electricité Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Av. du Général Guisan 15",
+    "plz": "3960",
+    "ort": "Sierre",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274556161",
+    "email": "celien@celiendev.ch",
+    "webseite": "https://devanthery-electricite.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

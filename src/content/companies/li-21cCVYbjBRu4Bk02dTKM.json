@@ -1,0 +1,29 @@
+{
+  "id": "li-21cCVYbjBRu4Bk02dTKM",
+  "slug": "malerei-frick-anstalt-schaan",
+  "name": "Malerei Frick Anstalt",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Tanzpl. 21",
+    "plz": "9494",
+    "ort": "Schaan",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232322882",
+    "email": "frick@malereifrick.li",
+    "webseite": "https://www.malereifrick.li"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

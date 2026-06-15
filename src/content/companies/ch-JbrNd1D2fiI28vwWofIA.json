@@ -1,0 +1,30 @@
+{
+  "id": "ch-JbrNd1D2fiI28vwWofIA",
+  "slug": "lautrejardin-cormerod",
+  "name": "lautrejardin",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chemin du Pontet 5",
+    "plz": "1721",
+    "ort": "Cormérod",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793011251",
+    "email": "info@lautrejardin.ch",
+    "webseite": "https://lautrejardin.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-68HZXxbUyA3rqMzg6qjS",
+  "slug": "hand-in-hand-ihr-malerteam-wittenwil",
+  "name": "Hand in Hand - Ihr Malerteam",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Wängistrasse 45",
+    "plz": "9547",
+    "ort": "Wittenwil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765374416",
+    "email": "info@handihand.ch",
+    "webseite": "https://handihand.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

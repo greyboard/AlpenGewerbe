@@ -1,0 +1,30 @@
+{
+  "id": "ch-1OykIIbqTR1HaTFrrBKN",
+  "slug": "alfred-broennimann-ag-dachdeckergeschaeft-riehen",
+  "name": "Alfred Brönnimann AG Dachdeckergeschäft",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rüchligweg 65",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612815412",
+    "email": "info@broennimann-bedachungen.ch",
+    "webseite": "https://www.broennimann-bedachungen.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

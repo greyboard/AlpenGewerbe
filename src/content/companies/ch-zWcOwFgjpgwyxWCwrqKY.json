@@ -1,0 +1,30 @@
+{
+  "id": "ch-zWcOwFgjpgwyxWCwrqKY",
+  "slug": "maler-phoenix-glarus",
+  "name": "Maler Phönix",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Stampfgasse 46",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792232513",
+    "email": "info@maler-gl.ch",
+    "webseite": "https://www.maler-gl.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

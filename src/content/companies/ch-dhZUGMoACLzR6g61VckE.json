@@ -1,0 +1,29 @@
+{
+  "id": "ch-dhZUGMoACLzR6g61VckE",
+  "slug": "maler-roland-roth-sennwald",
+  "name": "Maler Roland Roth",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Nordstrasse 3",
+    "plz": "9469",
+    "ort": "Sennwald",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797325066",
+    "email": "maler@rolandroth.ch",
+    "webseite": "https://www.malerrolandroth.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

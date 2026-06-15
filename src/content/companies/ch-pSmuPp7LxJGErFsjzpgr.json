@@ -1,0 +1,30 @@
+{
+  "id": "ch-pSmuPp7LxJGErFsjzpgr",
+  "slug": "xglas-ag-trimmis",
+  "name": "xglas ag",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Herawisweg 40",
+    "plz": "7203",
+    "ort": "Trimmis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812860444",
+    "email": "info@xglas.com",
+    "webseite": "https://www.xglas.com"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

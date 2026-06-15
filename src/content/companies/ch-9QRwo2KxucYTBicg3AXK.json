@@ -1,0 +1,30 @@
+{
+  "id": "ch-9QRwo2KxucYTBicg3AXK",
+  "slug": "karl-obrist-ag-neuheim",
+  "name": "Karl Obrist AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Edlibachstrasse 40",
+    "plz": "6345",
+    "ort": "Neuheim",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417552848",
+    "email": "info@obrist-sanitaer.ch",
+    "webseite": "https://www.obrist-sanitaer.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

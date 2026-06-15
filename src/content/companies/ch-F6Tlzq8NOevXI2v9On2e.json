@@ -1,0 +1,30 @@
+{
+  "id": "ch-F6Tlzq8NOevXI2v9On2e",
+  "slug": "abw-elektro-st-gallen",
+  "name": "abw elektro",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Oberstrasse 116A",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712770427",
+    "email": "info@abw-elektro.ch",
+    "webseite": "https://www.abw-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

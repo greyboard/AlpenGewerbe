@@ -1,0 +1,29 @@
+{
+  "id": "li-IanqyNjfRKhBjfv1DKPq",
+  "slug": "der-elektroinstallateur-michael-signer-weite",
+  "name": "Der Elektroinstallateur Michael Signer",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 64",
+    "plz": "9476",
+    "ort": "Weite",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+41817833906",
+    "email": "info@der-elektroinstallateur.ch",
+    "webseite": "https://www.der-elektroinstallateur.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

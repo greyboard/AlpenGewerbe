@@ -1,0 +1,30 @@
+{
+  "id": "ch-SXMinmuwd8a8o6G7cmxH",
+  "slug": "rey-ag-st-gallen",
+  "name": "Rey AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Zürcherstrasse 187",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712745656",
+    "email": "info@reyag.ch",
+    "webseite": "https://www.reyag.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

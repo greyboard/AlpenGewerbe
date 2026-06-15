@@ -1,0 +1,30 @@
+{
+  "id": "ch-LbZvYr79LrC8r4qw5Bw1",
+  "slug": "maibach-gartenbau-gmbh-safnern",
+  "name": "Maibach Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Gasse 27",
+    "plz": "2553",
+    "ort": "Safnern",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323551237",
+    "email": "info@maibachgartenbau.ch",
+    "webseite": "https://www.maibachgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

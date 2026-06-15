@@ -1,0 +1,30 @@
+{
+  "id": "ch-gFzTb7gZ1GtPaYsBgK5W",
+  "slug": "prodach-swiss-gmbh-chur",
+  "name": "ProDach Swiss GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Kornquaderweg 25",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796642440",
+    "email": "info@prodach.ch",
+    "webseite": "https://www.prodach.swiss"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

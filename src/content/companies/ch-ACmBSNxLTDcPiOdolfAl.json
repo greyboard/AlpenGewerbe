@@ -1,0 +1,30 @@
+{
+  "id": "ch-ACmBSNxLTDcPiOdolfAl",
+  "slug": "suligips-gmbh-rebstein",
+  "name": "SuliGips GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstr. 76",
+    "plz": "9445",
+    "ort": "Rebstein",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41715583881",
+    "email": "info@suligips.ch",
+    "webseite": "https://www.suligips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

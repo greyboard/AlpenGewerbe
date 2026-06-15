@@ -1,0 +1,30 @@
+{
+  "id": "ch-5vIKe6mCiUDI9orREJdA",
+  "slug": "stern-maleratelier-basel",
+  "name": "Stern Maleratelier",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Peter Rot-Strasse 123",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616917831",
+    "email": "info@sternmaler.ch",
+    "webseite": "https://www.sternmaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

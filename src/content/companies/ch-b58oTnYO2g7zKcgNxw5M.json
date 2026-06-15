@@ -1,0 +1,30 @@
+{
+  "id": "ch-b58oTnYO2g7zKcgNxw5M",
+  "slug": "garden-paysage-yves-favre-sa-granges",
+  "name": "Garden Paysage Yves Favre SA",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rte Crête d'Or 20",
+    "plz": "3977",
+    "ort": "Granges",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796280747",
+    "email": "info@gardenpaysagedb.ch",
+    "webseite": "https://www.garden-paysage.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-WBNws3VIPrkZER4HbUcm",
+  "slug": "stern-malergeschaeft-herisau",
+  "name": "Stern Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kasernenstrasse 80A",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787341260",
+    "email": "maler-stern@bluewin.ch",
+    "webseite": "https://www.maler-stern.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

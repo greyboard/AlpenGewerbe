@@ -1,0 +1,30 @@
+{
+  "id": "ch-FU6ca4PK2u7CSgHGY0Jt",
+  "slug": "virofer-metallbau-gmbh-brig-glis",
+  "name": "Virofer Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Holowistrasse 65",
+    "plz": "3902",
+    "ort": "Brig-Glis",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789158385",
+    "email": "info@virofer.ch",
+    "webseite": "https://www.virofer.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

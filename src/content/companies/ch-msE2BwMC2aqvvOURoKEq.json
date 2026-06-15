@@ -1,0 +1,30 @@
+{
+  "id": "ch-msE2BwMC2aqvvOURoKEq",
+  "slug": "amstutz-haustechnik-ag-zug",
+  "name": "Amstutz Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Schochenmühlestrasse 7",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415108050",
+    "email": "info@amstutz-haustechnik.ch",
+    "webseite": "https://www.amstutz-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

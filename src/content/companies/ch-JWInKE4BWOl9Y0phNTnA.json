@@ -1,0 +1,30 @@
+{
+  "id": "ch-JWInKE4BWOl9Y0phNTnA",
+  "slug": "fabians-garten-gmbh-buchs",
+  "name": "Fabians Garten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Krähstelstrasse 16",
+    "plz": "8107",
+    "ort": "Buchs",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763368515",
+    "email": "15admin@fabiansgarten.ch",
+    "webseite": "https://www.fabiansgarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

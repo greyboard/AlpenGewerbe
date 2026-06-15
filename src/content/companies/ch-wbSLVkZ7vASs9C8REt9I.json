@@ -1,0 +1,30 @@
+{
+  "id": "ch-wbSLVkZ7vASs9C8REt9I",
+  "slug": "elektrotech-grab-ag-rothenthurm",
+  "name": "Elektrotech Grab AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 10",
+    "plz": "6418",
+    "ort": "Rothenthurm",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418381178",
+    "email": "rothenthurm@elektrograb.ch",
+    "webseite": "https://www.elektrograb.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

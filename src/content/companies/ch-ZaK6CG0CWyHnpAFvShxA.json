@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZaK6CG0CWyHnpAFvShxA",
+  "slug": "sanitaer-ari-ag-basel",
+  "name": "Sanitär Ari AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Claragraben 135",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613338444",
+    "email": "hallo@picton-web.com",
+    "webseite": "https://www.ari.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

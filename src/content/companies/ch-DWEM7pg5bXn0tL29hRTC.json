@@ -1,0 +1,30 @@
+{
+  "id": "ch-DWEM7pg5bXn0tL29hRTC",
+  "slug": "aw-gaerten-gmbh-islikon",
+  "name": "AW Gärten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 66",
+    "plz": "8546",
+    "ort": "Islikon",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791926803",
+    "email": "wehrleandi@gmail.com",
+    "webseite": "https://www.awgaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

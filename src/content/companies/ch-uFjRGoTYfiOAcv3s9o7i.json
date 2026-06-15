@@ -1,0 +1,30 @@
+{
+  "id": "ch-uFjRGoTYfiOAcv3s9o7i",
+  "slug": "haustechplus-service-ag-zug",
+  "name": "Haustechplus Service AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Baarerstrasse 75",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417002222",
+    "email": "service@haustechplus.ch",
+    "webseite": "https://haustechplus.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

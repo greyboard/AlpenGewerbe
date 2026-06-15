@@ -1,0 +1,30 @@
+{
+  "id": "ch-xbN0HbQtOBptPgmeUqRq",
+  "slug": "voi-tech-bau-gmbh-root",
+  "name": "Voi-Tech Bau GmbH",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "Oberfeldstrasse 2",
+    "plz": "6037",
+    "ort": "Root",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762375579",
+    "email": "info@voitechbau.ch",
+    "webseite": "https://www.voitechbau.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-mf8hA71ZOkgS6ehp39LQ",
+  "slug": "green-gartenunternehmen-gmbh-luzern",
+  "name": "Green Gartenunternehmen GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Steinenstrasse 21",
+    "plz": "6004",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413720808",
+    "email": "info@green-garten.ch",
+    "webseite": "https://www.green-gartenunternehmen.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

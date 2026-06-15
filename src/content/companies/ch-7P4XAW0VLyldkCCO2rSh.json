@@ -1,0 +1,30 @@
+{
+  "id": "ch-7P4XAW0VLyldkCCO2rSh",
+  "slug": "basilisk-maler-gmbh-basel",
+  "name": "Basilisk Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Colmarerstrasse 28",
+    "plz": "4055",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795715255",
+    "email": "info@basilisk-maler.ch",
+    "webseite": "https://www.basilisk-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

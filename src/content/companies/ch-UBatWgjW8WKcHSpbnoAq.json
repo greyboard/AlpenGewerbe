@@ -1,0 +1,30 @@
+{
+  "id": "ch-UBatWgjW8WKcHSpbnoAq",
+  "slug": "joss-schreinerei-gmbh-ittigen",
+  "name": "Joss Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Halenfeldstrasse 1",
+    "plz": "3063",
+    "ort": "Ittigen",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319210678",
+    "email": "info@joss-schreiner.ch",
+    "webseite": "https://www.joss-schreiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

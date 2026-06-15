@@ -1,0 +1,30 @@
+{
+  "id": "ch-t1kYUhd1efDqcXJcSMvA",
+  "slug": "schreinerei-kuhn-ag-langrickenbach",
+  "name": "Schreinerei Kuhn AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Geienberg 3",
+    "plz": "8585",
+    "ort": "Langrickenbach",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714114141",
+    "email": "info@schreinereikuhn.ch",
+    "webseite": "https://schreinereikuhn.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

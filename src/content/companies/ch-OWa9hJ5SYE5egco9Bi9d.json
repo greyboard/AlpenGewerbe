@@ -1,0 +1,30 @@
+{
+  "id": "ch-OWa9hJ5SYE5egco9Bi9d",
+  "slug": "menuiserie-colaizzi-lancy",
+  "name": "Menuiserie Colaizzi",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rte des Jeunes 6",
+    "plz": "1212",
+    "ort": "Lancy",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795584457",
+    "email": "info@ecolaizzi.ch",
+    "webseite": "https://www.ecolaizzi.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

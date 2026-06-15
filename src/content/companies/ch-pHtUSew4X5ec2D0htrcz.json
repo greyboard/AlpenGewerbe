@@ -1,0 +1,30 @@
+{
+  "id": "ch-pHtUSew4X5ec2D0htrcz",
+  "slug": "graf-haustechnik-ag-hausen",
+  "name": "Graf Haustechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Liseliweg 2",
+    "plz": "5212",
+    "ort": "Hausen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564617500",
+    "email": "info@graf-haustechnik.ch",
+    "webseite": "https://www.graf-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

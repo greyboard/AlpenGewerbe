@@ -1,0 +1,30 @@
+{
+  "id": "ch-K5lrjWCvjF0Eiyyz0wZC",
+  "slug": "maurer-pascal-schaffhausen",
+  "name": "Maurer Pascal",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bachstrasse 38",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526247632",
+    "email": "visuell@hin.ch",
+    "webseite": "https://www.visuell.ch/maurer"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

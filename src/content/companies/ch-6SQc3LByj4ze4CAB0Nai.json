@@ -1,0 +1,30 @@
+{
+  "id": "ch-6SQc3LByj4ze4CAB0Nai",
+  "slug": "cerretti-kundenmaurer-ebikon",
+  "name": "Cerretti Kundenmaurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 23",
+    "plz": "6030",
+    "ort": "Ebikon",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798344982",
+    "email": "ninfo@cerretti.ch",
+    "webseite": "https://www.cerretti.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

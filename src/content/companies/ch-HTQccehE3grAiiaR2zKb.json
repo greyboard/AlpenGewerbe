@@ -1,0 +1,30 @@
+{
+  "id": "ch-HTQccehE3grAiiaR2zKb",
+  "slug": "schibli-elektrotechnik-ag-attinghausen",
+  "name": "Schibli Elektrotechnik AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Burgstrasse 28",
+    "plz": "6468",
+    "ort": "Attinghausen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418720303",
+    "email": "daniel.hehl@schibli.com",
+    "webseite": "https://uri.schibliag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

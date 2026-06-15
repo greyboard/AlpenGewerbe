@@ -1,0 +1,30 @@
+{
+  "id": "ch-qLFGrg7EFiJ3Ktr2Q2db",
+  "slug": "abdach-brig-glis",
+  "name": "ABDACH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Dammweg 77",
+    "plz": "3902",
+    "ort": "Brig-Glis",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279216818",
+    "email": "info@abdach.ch",
+    "webseite": "https://abdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

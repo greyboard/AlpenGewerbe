@@ -1,0 +1,30 @@
+{
+  "id": "ch-nxue00QYuMwLwQLflmu8",
+  "slug": "maintenance-zenuni-lechelles",
+  "name": "Maintenance Zenuni",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Rte de Fribourg 70",
+    "plz": "1773",
+    "ort": "Léchelles",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762436619",
+    "email": "d.zenuni@maintenancezenuni.com",
+    "webseite": "https://maintenancezenuni.digitalone.site"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

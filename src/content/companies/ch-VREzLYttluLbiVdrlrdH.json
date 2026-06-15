@@ -1,0 +1,30 @@
+{
+  "id": "ch-VREzLYttluLbiVdrlrdH",
+  "slug": "wb-haustechnik-kaminfegergeschaeft-gmbh-schaffhausen",
+  "name": "WB Haustechnik & Kaminfegergeschäft GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Kreuzgasse 5",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792735663",
+    "email": "wb-haustechnik@bluewin.ch",
+    "webseite": "https://wb-haustechnik-kaminfegergeschaeft.digitalone.site"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

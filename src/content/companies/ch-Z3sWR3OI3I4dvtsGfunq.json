@@ -1,0 +1,30 @@
+{
+  "id": "ch-Z3sWR3OI3I4dvtsGfunq",
+  "slug": "wetter-gipsergeschaeft-ag-zug",
+  "name": "Wetter Gipsergeschäft AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Fadenstrasse 28",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417403910",
+    "email": "info@gipser-wetter.ch",
+    "webseite": "https://www.gipser-wetter.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

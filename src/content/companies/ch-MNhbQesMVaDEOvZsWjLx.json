@@ -1,0 +1,30 @@
+{
+  "id": "ch-MNhbQesMVaDEOvZsWjLx",
+  "slug": "breitenstein-ag-zug",
+  "name": "Breitenstein AG",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Chamerstrasse 104",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417480200",
+    "email": "martin.mueller@breitenstein.ch",
+    "webseite": "https://www.breitenstein.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

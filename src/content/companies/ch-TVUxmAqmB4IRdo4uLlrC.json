@@ -1,0 +1,30 @@
+{
+  "id": "ch-TVUxmAqmB4IRdo4uLlrC",
+  "slug": "koenig-heizungstechnik-kreuzlingen",
+  "name": "König Heizungstechnik",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "König Peter",
+    "plz": "8280",
+    "ort": "Kreuzlingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716882233",
+    "email": "info@koenig-heizungen.ch",
+    "webseite": "https://www.koenig-heizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

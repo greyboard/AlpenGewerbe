@@ -1,0 +1,30 @@
+{
+  "id": "ch-KnN0iJCHFTsJo83ilifV",
+  "slug": "schneider-sanitaer-spenglerei-ag-pratteln",
+  "name": "Schneider Sanitär + Spenglerei AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 14",
+    "plz": "4133",
+    "ort": "Pratteln",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618279292",
+    "email": "info@schneider-sss.ch",
+    "webseite": "https://www.schneider-shs.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

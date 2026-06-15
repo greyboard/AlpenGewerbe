@@ -1,0 +1,30 @@
+{
+  "id": "ch-ll2R2p8lTfHUYhNCbLNf",
+  "slug": "rohner-bau-gmbh-engishofen",
+  "name": "Rohner Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Schulweg 1",
+    "plz": "8586",
+    "ort": "Engishofen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786441812",
+    "email": "rohnerbau@bluewin.ch",
+    "webseite": "https://www.rohner-bauunternehmung.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

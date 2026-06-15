@@ -1,0 +1,30 @@
+{
+  "id": "ch-EMcB0x6pOG5Z97AZLEm2",
+  "slug": "schlienger-maurer-gmbh-hellikon",
+  "name": "Schlienger & Maurer GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 64",
+    "plz": "4316",
+    "ort": "Hellikon",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795856074",
+    "email": "bau@schlienger-maurer.ch",
+    "webseite": "https://schlienger-maurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Lbti1UXWziv6xea6dfnd",
+  "slug": "elektro-e-schneider-ag-lenk",
+  "name": "Elektro E. Schneider AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Lenkstrasse 100",
+    "plz": "3775",
+    "ort": "Lenk",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337332277",
+    "email": "info@elektroschneiderag.ch",
+    "webseite": "https://elektroschneiderag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-DdTVmNLja1bt3nCb4u6R",
+  "slug": "schreinerei-schwab-system-ag-ins",
+  "name": "Schreinerei Schwab System AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Bielstrasse 13",
+    "plz": "3232",
+    "ort": "Ins",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323760000",
+    "email": "info@schreinerei-schwab.ch",
+    "webseite": "https://www.schreinerei-schwab.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

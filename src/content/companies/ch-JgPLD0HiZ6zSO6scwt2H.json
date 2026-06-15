@@ -1,0 +1,30 @@
+{
+  "id": "ch-JgPLD0HiZ6zSO6scwt2H",
+  "slug": "pitschen-schreinerei-davos",
+  "name": "Pitschen Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Herman Burchard Str. 1",
+    "plz": "7265",
+    "ort": "Davos",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796233539",
+    "email": "pitschenschreinerei@hispeed.ch",
+    "webseite": "https://www.pitschenschreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

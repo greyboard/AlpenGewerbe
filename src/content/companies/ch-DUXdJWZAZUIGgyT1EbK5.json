@@ -1,0 +1,30 @@
+{
+  "id": "ch-DUXdJWZAZUIGgyT1EbK5",
+  "slug": "elektro-jenny-ag-netstal",
+  "name": "Elektro Jenny AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Landstrasse 29",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556407303",
+    "email": "niko.grgic@elektro-jenny.ch",
+    "webseite": "https://www.elektrojenny.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

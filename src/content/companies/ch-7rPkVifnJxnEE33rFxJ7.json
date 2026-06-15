@@ -1,0 +1,30 @@
+{
+  "id": "ch-7rPkVifnJxnEE33rFxJ7",
+  "slug": "albis-glas-gmbh-affoltern-am-albis",
+  "name": "Albis-Glas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Alte Obfelderstrasse 68",
+    "plz": "8910",
+    "ort": "Affoltern am Albis",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41447768910",
+    "email": "info@albisglas.ch",
+    "webseite": "https://www.albis-glas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-kZNBdWB2tvG2Fp8Zr9xA",
+  "slug": "sl-baukeramik-gmbh-bern",
+  "name": "SL Baukeramik GmbH",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "Bottigenstrasse 2a",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41768012815",
+    "email": "info@slbaukeramik.ch",
+    "webseite": "https://www.slbaukeramik.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

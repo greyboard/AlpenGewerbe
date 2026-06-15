@@ -1,0 +1,30 @@
+{
+  "id": "ch-zFHogPxpc22pppqQ8WLk",
+  "slug": "wyss-aluhit-ag-luzern",
+  "name": "Wyss Aluhit AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte 9",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412591100",
+    "email": "info@wyssaluhit.ch",
+    "webseite": "https://www.wyssaluhit.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-2AG5TOqnVVdROtxUVmxJ",
+  "slug": "gebr-schelbert-ag-muotathal",
+  "name": "Gebr. Schelbert AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 168a",
+    "plz": "6436",
+    "ort": "Muotathal",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418302710",
+    "email": "info@schelbert-schraenke.ch",
+    "webseite": "https://www.schelbert-schraenke.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

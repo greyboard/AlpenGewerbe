@@ -1,0 +1,30 @@
+{
+  "id": "ch-MPG26pdIm48PtD9u5uA3",
+  "slug": "kuenzli-elektroinstallationen-gmbh-naefels",
+  "name": "Künzli Elektroinstallationen GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schwertgasse 5",
+    "plz": "8752",
+    "ort": "Näfels",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556223161",
+    "email": "info@kuenzli-elektro.ch",
+    "webseite": "https://www.kuenzli-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

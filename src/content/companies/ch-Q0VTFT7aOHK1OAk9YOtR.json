@@ -1,0 +1,30 @@
+{
+  "id": "ch-Q0VTFT7aOHK1OAk9YOtR",
+  "slug": "greenzuerich-gartenbau-ag-zuerich",
+  "name": "GreenZürich Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hardstrasse 7",
+    "plz": "8004",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444421505",
+    "email": "info@greenzuerich.ch",
+    "webseite": "https://www.greenzuerich.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-lVUPhpzv7yL8tW5ioGEZ",
+  "slug": "sata-ag-schattdorf",
+  "name": "SATA AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Rossgiessenstrasse 10",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418713535",
+    "email": "mail@sata-ag.ch",
+    "webseite": "https://sata-ag.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

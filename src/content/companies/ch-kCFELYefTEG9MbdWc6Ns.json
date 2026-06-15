@@ -1,0 +1,30 @@
+{
+  "id": "ch-kCFELYefTEG9MbdWc6Ns",
+  "slug": "wittwer-heizungen-ag-sulgen",
+  "name": "Wittwer Heizungen AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Kradolfstrasse 84",
+    "plz": "8583",
+    "ort": "Sulgen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716422864",
+    "email": "info@wittwerheizungen.ch",
+    "webseite": "https://www.wittwerheizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

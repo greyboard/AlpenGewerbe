@@ -1,0 +1,30 @@
+{
+  "id": "ch-aHu2VkKSqR7CQy7nK2Wf",
+  "slug": "gipser-art-gmbh-diessenhofen",
+  "name": "Gipser Art GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Ziegeleistrasse 6B",
+    "plz": "8253",
+    "ort": "Diessenhofen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795073100",
+    "email": "mail@gipserart.ch",
+    "webseite": "https://www.gipserart.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

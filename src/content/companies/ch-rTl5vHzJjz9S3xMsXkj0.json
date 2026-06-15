@@ -1,0 +1,30 @@
+{
+  "id": "ch-rTl5vHzJjz9S3xMsXkj0",
+  "slug": "heizomat-schweiz-ag-triengen",
+  "name": "Heizomat-Schweiz AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Schützenstrasse 8",
+    "plz": "6234",
+    "ort": "Triengen",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628243333",
+    "email": "info@heizomat.ch",
+    "webseite": "https://www.heizomat-schweiz.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-kmESVSbqCWDvqOUSXdog",
+  "slug": "mammone-ag-naters",
+  "name": "Mammone AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Sonnenstrasse 9",
+    "plz": "3904",
+    "ort": "Naters",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279234238",
+    "email": "mammone_ag@bluewin.ch",
+    "webseite": "https://www.mammoneag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

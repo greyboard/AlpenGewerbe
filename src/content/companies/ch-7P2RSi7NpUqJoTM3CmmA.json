@@ -1,0 +1,30 @@
+{
+  "id": "ch-7P2RSi7NpUqJoTM3CmmA",
+  "slug": "farbenkobold-schweiz-gmbh-appenzell",
+  "name": "FarbenKobold Schweiz GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Sandgrube 29",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41718887000",
+    "email": "office@farbenkobold.ch",
+    "webseite": "https://www.farbenkobold.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

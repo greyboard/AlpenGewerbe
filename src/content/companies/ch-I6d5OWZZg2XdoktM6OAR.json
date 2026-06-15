@@ -1,0 +1,30 @@
+{
+  "id": "ch-I6d5OWZZg2XdoktM6OAR",
+  "slug": "schoenenberger-soehne-ag-oberwil-bei-zug",
+  "name": "Schönenberger Söhne AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Brunnenmattstrasse 7",
+    "plz": "6317",
+    "ort": "Oberwil bei Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417112148",
+    "email": "info@gartenbau-schoenenberger.ch",
+    "webseite": "https://www.gartenbau-schoenenberger.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-HRXfOQaqy32AxXoe4jSl",
+  "slug": "slanzi-malen-gipsen-ag-giswil",
+  "name": "slanzi malen gipsen ag",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Mühlemattli 10",
+    "plz": "6074",
+    "ort": "Giswil",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416751060",
+    "email": "info@slanzi.ch",
+    "webseite": "https://www.slanzi.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

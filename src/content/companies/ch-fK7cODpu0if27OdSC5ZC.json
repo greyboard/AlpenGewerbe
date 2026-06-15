@@ -1,0 +1,30 @@
+{
+  "id": "ch-fK7cODpu0if27OdSC5ZC",
+  "slug": "marras-baugeschaeft-gmbh-bern-bern",
+  "name": "Marras Baugeschäft GmbH Bern",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Looslistrasse 53",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313718004",
+    "email": "marrasbaugeschaeft@bluewin.ch",
+    "webseite": "https://www.marrasbaugeschaeft.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

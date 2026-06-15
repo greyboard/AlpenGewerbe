@@ -1,0 +1,30 @@
+{
+  "id": "ch-mpl9WPRvlRsAPa8twMvP",
+  "slug": "uni-schreiner-ag-zuerich",
+  "name": "Uni Schreiner AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Rautistrasse 316",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444331058",
+    "email": "info@unischreiner.ch",
+    "webseite": "https://www.unischreiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

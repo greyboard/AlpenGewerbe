@@ -1,0 +1,30 @@
+{
+  "id": "ch-YHpTCmCUueICEybVogeD",
+  "slug": "agentur-fuer-gruenes-christoph-hess-zug",
+  "name": "Agentur für Grünes Christoph Hess",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 50",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417104373",
+    "email": "info@agenturfuergruenes.ch",
+    "webseite": "https://www.agenturfuergruenes.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

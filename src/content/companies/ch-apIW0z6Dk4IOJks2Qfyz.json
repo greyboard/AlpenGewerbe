@@ -1,0 +1,30 @@
+{
+  "id": "ch-apIW0z6Dk4IOJks2Qfyz",
+  "slug": "maurer-daniel-allschwil",
+  "name": "Maurer Daniel",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Obereckweg 10",
+    "plz": "4123",
+    "ort": "Allschwil",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612811870",
+    "email": "infoemail@dmaurer-architekt.gmx.ch",
+    "webseite": "https://www.dmaurer-architekt.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

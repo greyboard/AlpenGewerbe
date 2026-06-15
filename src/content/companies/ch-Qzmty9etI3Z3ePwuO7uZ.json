@@ -1,0 +1,30 @@
+{
+  "id": "ch-Qzmty9etI3Z3ePwuO7uZ",
+  "slug": "aa-plattenleger-gurmels",
+  "name": "AA Plattenleger",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Cordaststrasse 41",
+    "plz": "3212",
+    "ort": "Gurmels",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794655388",
+    "email": "info@aaplattenleger.ch",
+    "webseite": "https://aaplattenleger.ch/kontakt"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

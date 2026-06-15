@@ -1,0 +1,29 @@
+{
+  "id": "li-CIG9pgedVF9ey2XUbKOP",
+  "slug": "beck-elektro-ag-schaan",
+  "name": "Beck Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Birkenweg 7",
+    "plz": "9494",
+    "ort": "Schaan",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232301111",
+    "email": "office@beckelektro.com",
+    "webseite": "https://www.beckelektro.li/cms/kontakt-lageplan.html"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

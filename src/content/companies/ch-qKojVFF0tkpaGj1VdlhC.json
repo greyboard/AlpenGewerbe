@@ -1,0 +1,30 @@
+{
+  "id": "ch-qKojVFF0tkpaGj1VdlhC",
+  "slug": "raum-und-boden-gmbh-solothurn",
+  "name": "Raum und Boden GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Schanzenstrasse 7",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326216361",
+    "email": "info@raumundboden.ch",
+    "webseite": "https://www.raumundboden.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

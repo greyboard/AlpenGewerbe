@@ -1,0 +1,30 @@
+{
+  "id": "ch-2ZjSfalXd2TVEYcxkic3",
+  "slug": "zimmerei-wymann-gmbh-oberburg",
+  "name": "Zimmerei Wymann GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Lochbach 18",
+    "plz": "3414",
+    "ort": "Oberburg",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797020043",
+    "email": "mail@zimmerei-wymann.ch",
+    "webseite": "https://zimmerei-wymann.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

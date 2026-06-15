@@ -1,0 +1,30 @@
+{
+  "id": "ch-bXRxXXeFSFeDiXXvM4bf",
+  "slug": "maler-zenhaeusern-gmbh-liestal-liestal",
+  "name": "MALER Zenhäusern GmbH Liestal",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Benzburweg 18a",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619214513",
+    "email": "mail@malerzenhaeusern.ch",
+    "webseite": "https://www.malerzenhaeusern.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

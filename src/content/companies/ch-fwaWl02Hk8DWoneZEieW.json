@@ -1,0 +1,30 @@
+{
+  "id": "ch-fwaWl02Hk8DWoneZEieW",
+  "slug": "gallati-luzern",
+  "name": "Gallati",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte O 24 B",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412494070",
+    "email": "info@gallatiag.ch",
+    "webseite": "https://www.gallatiag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

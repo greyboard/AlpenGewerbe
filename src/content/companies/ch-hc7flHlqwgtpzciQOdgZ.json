@@ -1,0 +1,30 @@
+{
+  "id": "ch-hc7flHlqwgtpzciQOdgZ",
+  "slug": "frey-elektroanlagen-ag-schiers",
+  "name": "Frey Elektroanlagen AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schrabachstrasse 9",
+    "plz": "7220",
+    "ort": "Schiers",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813282662",
+    "email": "info@freyelektro.ch",
+    "webseite": "https://www.freyelektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

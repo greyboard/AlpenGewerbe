@@ -1,0 +1,30 @@
+{
+  "id": "ch-vvg3OfZMcyskDR3nX6Ht",
+  "slug": "a-b-flachdach-ag-reinach",
+  "name": "A + B Flachdach AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Sonnenweg 2",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613817000",
+    "email": "team@abflachdach.ch",
+    "webseite": "https://www.abflachdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

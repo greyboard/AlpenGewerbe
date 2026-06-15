@@ -1,0 +1,30 @@
+{
+  "id": "ch-Va7pTtfF96j9VkqMfIt0",
+  "slug": "basler-gipser-gmbh-basel",
+  "name": "Basler Gipser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Kleinhüningeranlage 60",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619111010",
+    "email": "info@baslergipser.ch",
+    "webseite": "https://www.baslergipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

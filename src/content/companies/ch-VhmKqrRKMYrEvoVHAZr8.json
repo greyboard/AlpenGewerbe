@@ -1,0 +1,30 @@
+{
+  "id": "ch-VhmKqrRKMYrEvoVHAZr8",
+  "slug": "marti-ag-bauunternehmung-buero-matt",
+  "name": "Marti AG Bauunternehmung Büro",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 725",
+    "plz": "8766",
+    "ort": "Matt",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556426042",
+    "email": "bauholding@martimatt.ch",
+    "webseite": "https://www.martimatt.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

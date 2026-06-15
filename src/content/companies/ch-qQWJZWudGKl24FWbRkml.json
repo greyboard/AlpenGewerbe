@@ -1,0 +1,30 @@
+{
+  "id": "ch-qQWJZWudGKl24FWbRkml",
+  "slug": "welt-aus-glas-gmbh-opfikon",
+  "name": "Welt aus Glas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rosenstrasse 5",
+    "plz": "8152",
+    "ort": "Opfikon",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41448033300",
+    "email": "info@weltausglas.ch",
+    "webseite": "https://weltausglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

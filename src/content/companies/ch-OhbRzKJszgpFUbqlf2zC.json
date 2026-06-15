@@ -1,0 +1,30 @@
+{
+  "id": "ch-OhbRzKJszgpFUbqlf2zC",
+  "slug": "hofer-e-ag-sanitaer-metallbau-muentschemier",
+  "name": "Hofer E. AG Sanitär & Metallbau",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Treitengasse 31",
+    "plz": "3225",
+    "ort": "Müntschemier",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323131525",
+    "email": "info@hofer.swiss",
+    "webseite": "https://www.hofer.swiss"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

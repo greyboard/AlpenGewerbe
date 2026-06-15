@@ -1,0 +1,30 @@
+{
+  "id": "ch-a2e1f0x3DIutiNQHbi1I",
+  "slug": "schreinerei-d-monn-muttenz",
+  "name": "Schreinerei D. Monn",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Stegackerstrasse 7",
+    "plz": "4132",
+    "ort": "Muttenz",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614619115",
+    "email": "info@monn-schreinerei.ch",
+    "webseite": "https://www.d-monn.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Wlh7q4FAtDgFCFpatYSM",
+  "slug": "cp-sanitaer-gmbh-basel",
+  "name": "CP Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Schönaustrasse 51",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617038472",
+    "email": "info@cp-sanitaer.ch",
+    "webseite": "https://www.cp-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

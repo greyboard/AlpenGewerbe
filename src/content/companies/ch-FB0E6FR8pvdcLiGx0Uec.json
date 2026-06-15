@@ -1,0 +1,30 @@
+{
+  "id": "ch-FB0E6FR8pvdcLiGx0Uec",
+  "slug": "schreinerei-werkstoffen-gmbh-huettwilen",
+  "name": "Schreinerei Werkstoffen GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 9",
+    "plz": "8536",
+    "ort": "Hüttwilen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527400023",
+    "email": "info@werkstoffen.ch",
+    "webseite": "https://www.werkstoffen.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-sBnywTteQ4HO8WETZhIJ",
+  "slug": "passeri-heizung-urnaesch",
+  "name": "Passeri Heizung",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Gerenstrasse 12",
+    "plz": "9107",
+    "ort": "Urnäsch",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713642315",
+    "email": "info@passeri-ar.ch",
+    "webseite": "https://www.passeri-ar.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

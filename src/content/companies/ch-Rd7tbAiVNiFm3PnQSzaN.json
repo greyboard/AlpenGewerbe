@@ -1,0 +1,30 @@
+{
+  "id": "ch-Rd7tbAiVNiFm3PnQSzaN",
+  "slug": "schlaefli-gartenbau-luterbach",
+  "name": "Schläfli Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Nordstrasse 13",
+    "plz": "4542",
+    "ort": "Luterbach",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326824309",
+    "email": "info@lerchdesign.ch",
+    "webseite": "https://www.schlaefligartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

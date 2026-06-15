@@ -1,0 +1,30 @@
+{
+  "id": "ch-gxJknGkd6EwntIDJxQ0f",
+  "slug": "aebischer-ag-plaffeien",
+  "name": "Aebischer AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Junkerweg 2",
+    "plz": "1716",
+    "ort": "Plaffeien",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264190419",
+    "email": "office@aebischerag.ch",
+    "webseite": "https://www.aebischerag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-cqP16lmyfMJ3nazMUXkR",
+  "slug": "gartenpflege-fischer-kesswil",
+  "name": "Gartenpflege-Fischer",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Seeweg 31",
+    "plz": "8593",
+    "ort": "Kesswil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797637504",
+    "email": "info@gartenpflege-fischer.ch",
+    "webseite": "https://gartenpflege-fischer.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

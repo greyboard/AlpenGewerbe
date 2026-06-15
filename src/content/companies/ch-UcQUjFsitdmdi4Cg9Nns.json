@@ -1,0 +1,30 @@
+{
+  "id": "ch-UcQUjFsitdmdi4Cg9Nns",
+  "slug": "roten-gartenbau-ag-brig-glis",
+  "name": "Roten Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Fabrikstrasse 1",
+    "plz": "3900",
+    "ort": "Brig-Glis",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795202400",
+    "email": "info@roten-gartenbau.ch",
+    "webseite": "https://www.roten-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

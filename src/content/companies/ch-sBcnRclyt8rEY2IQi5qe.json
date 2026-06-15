@@ -1,0 +1,30 @@
+{
+  "id": "ch-sBcnRclyt8rEY2IQi5qe",
+  "slug": "alpha-technik-sanitaer-heizung-gmbh-urdorf",
+  "name": "Alpha Technik Sanitär Heizung GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Schlierenstrasse 14",
+    "plz": "8902",
+    "ort": "Urdorf",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445559865",
+    "email": "support@webador.com",
+    "webseite": "https://www.alphasanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

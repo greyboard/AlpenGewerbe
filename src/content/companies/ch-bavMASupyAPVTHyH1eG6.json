@@ -1,0 +1,30 @@
+{
+  "id": "ch-bavMASupyAPVTHyH1eG6",
+  "slug": "neumueller-gaerten-gmbh-huenenberg",
+  "name": "Neumüller Gärten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Bösch 51",
+    "plz": "6331",
+    "ort": "Hünenberg",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417104741",
+    "email": "mail@neumuellergaerten.ch",
+    "webseite": "https://neumuellergaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

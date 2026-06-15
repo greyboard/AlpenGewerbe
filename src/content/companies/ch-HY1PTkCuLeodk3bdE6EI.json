@@ -1,0 +1,30 @@
+{
+  "id": "ch-HY1PTkCuLeodk3bdE6EI",
+  "slug": "stiller-hahn-haustechnik-gmbh-dallenwil",
+  "name": "Stiller Hahn Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Aawasserstrasse 2",
+    "plz": "6383",
+    "ort": "Dallenwil",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415357987",
+    "email": "info@stillerhahn.ch",
+    "webseite": "https://www.stillerhahn.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Ic7tMURwvIWdLSoKrDOI",
+  "slug": "castelli-ag-luzern-luzern",
+  "name": "Castelli AG Luzern",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Vonmattstrasse 44a",
+    "plz": "6003",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412406010",
+    "email": "info@malercastelli.ch",
+    "webseite": "https://www.malercastelli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

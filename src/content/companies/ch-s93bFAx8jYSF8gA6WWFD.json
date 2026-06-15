@@ -1,0 +1,30 @@
+{
+  "id": "ch-s93bFAx8jYSF8gA6WWFD",
+  "slug": "forster-gartenbau-ag-gaertner-von-eden-titterten",
+  "name": "Forster Gartenbau AG Gärtner von Eden",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kirchmattweg 20",
+    "plz": "4425",
+    "ort": "Titterten",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619411014",
+    "email": "info@forster-gartenbau.ch",
+    "webseite": "https://www.forster-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

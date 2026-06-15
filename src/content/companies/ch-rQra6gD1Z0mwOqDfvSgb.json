@@ -1,0 +1,30 @@
+{
+  "id": "ch-rQra6gD1Z0mwOqDfvSgb",
+  "slug": "auto-garage-zimmermann-ag-niederwangen-be",
+  "name": "Auto Garage Zimmermann AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 650",
+    "plz": "3172",
+    "ort": "Niederwangen BE",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319910455",
+    "email": "info@garagezimmermann.ch",
+    "webseite": "https://www.garagezimmermann.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-zr0HJI3EikcIXQmZuILU",
+  "slug": "wurtzel-gmbh-sanitaer-und-heizung-allschwil",
+  "name": "Wurtzel GmbH Sanitär und Heizung",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Binningerstrasse 116",
+    "plz": "4123",
+    "ort": "Allschwil",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788603946",
+    "email": "denis@wurtzel.ch",
+    "webseite": "https://www.wurtzel.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

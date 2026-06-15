@@ -1,0 +1,30 @@
+{
+  "id": "ch-fHK9iPSq4JDeW7wsZlYF",
+  "slug": "glas-form-switzerland-ag-ebikon",
+  "name": "glas&form Switzerland AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Luzernerstrasse 30",
+    "plz": "6030",
+    "ort": "Ebikon",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412404141",
+    "email": "info@glasundform.ch",
+    "webseite": "https://www.glasundform.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

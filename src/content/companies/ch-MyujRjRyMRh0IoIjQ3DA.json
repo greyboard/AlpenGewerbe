@@ -1,0 +1,30 @@
+{
+  "id": "ch-MyujRjRyMRh0IoIjQ3DA",
+  "slug": "amstrom-ag-giswil",
+  "name": "AMSTROM AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ried O 2",
+    "plz": "6074",
+    "ort": "Giswil",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416760909",
+    "email": "mvah@amstrom.ch",
+    "webseite": "https://amstrom.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

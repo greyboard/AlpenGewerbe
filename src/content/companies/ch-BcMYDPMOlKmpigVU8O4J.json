@@ -1,0 +1,30 @@
+{
+  "id": "ch-BcMYDPMOlKmpigVU8O4J",
+  "slug": "pio-s-glasi-gmbh-rothenburg",
+  "name": "Pio's Glasi GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Sonnmatthof 1",
+    "plz": "6023",
+    "ort": "Rothenburg",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412803412",
+    "email": "info@pios-glasi.ch",
+    "webseite": "https://www.pios-glasi.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

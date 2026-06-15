@@ -1,0 +1,30 @@
+{
+  "id": "ch-jxgk1W2AlY3IuXdpfcDS",
+  "slug": "sf-sanitaer-gmbh-biel",
+  "name": "SF-Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Mattenstrasse 153",
+    "plz": "2503",
+    "ort": "Biel",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41329322020",
+    "email": "info@sf-sanitaer.ch",
+    "webseite": "https://sf-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-0DHEv6MyTiWOFaiXY27V",
+  "slug": "obersee-metallbau-gmbh-wollerau",
+  "name": "Obersee Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Fürtistrasse 11",
+    "plz": "8832",
+    "ort": "Wollerau",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41446878484",
+    "email": "met@llbau.ch",
+    "webseite": "https://www.oberseemetallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

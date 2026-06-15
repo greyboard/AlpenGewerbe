@@ -1,0 +1,30 @@
+{
+  "id": "ch-RpLzqWBkORi3HhrdHnD5",
+  "slug": "elektro-b-bischofberger-weesen",
+  "name": "Elektro B Bischofberger",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Im Städtli 50",
+    "plz": "8872",
+    "ort": "Weesen",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556116060",
+    "email": "info@elektro-b.ch",
+    "webseite": "https://elektro-b.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

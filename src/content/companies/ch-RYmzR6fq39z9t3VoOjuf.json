@@ -1,0 +1,30 @@
+{
+  "id": "ch-RYmzR6fq39z9t3VoOjuf",
+  "slug": "hk-dach-gmbh-reigoldswil",
+  "name": "HK Dach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Unterbiel 27",
+    "plz": "4418",
+    "ort": "Reigoldswil",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763323148",
+    "email": "info@hkdach.ch",
+    "webseite": "https://www.hkdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

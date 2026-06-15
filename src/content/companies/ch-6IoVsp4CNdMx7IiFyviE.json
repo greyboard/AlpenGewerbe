@@ -1,0 +1,30 @@
+{
+  "id": "ch-6IoVsp4CNdMx7IiFyviE",
+  "slug": "bauarge-renovationen-gmbh-stein",
+  "name": "Bauarge Renovationen GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Sägehüsli 177",
+    "plz": "9063",
+    "ort": "Stein",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713672020",
+    "email": "info@bauarge.ch",
+    "webseite": "https://www.bauarge.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

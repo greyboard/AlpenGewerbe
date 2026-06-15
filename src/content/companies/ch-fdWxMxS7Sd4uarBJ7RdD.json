@@ -1,0 +1,30 @@
+{
+  "id": "ch-fdWxMxS7Sd4uarBJ7RdD",
+  "slug": "esc-electro-service-sa-saint-pierre-de-clages",
+  "name": "ESC Electro Service SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Route de Merdesson 3a",
+    "plz": "1955",
+    "ort": "Saint-Pierre-de-Clages",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41273062081",
+    "email": "info@esc-sa.ch",
+    "webseite": "https://www.esc-sa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

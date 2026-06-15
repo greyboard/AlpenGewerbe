@@ -1,0 +1,30 @@
+{
+  "id": "ch-RjIoxuFus3EgfbiKBZpt",
+  "slug": "sascha-sanitaer-gmbh-engelberg",
+  "name": "Sascha Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 15a",
+    "plz": "6390",
+    "ort": "Engelberg",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799467808",
+    "email": "info@sascha-sanitaer.ch",
+    "webseite": "https://www.sascha-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

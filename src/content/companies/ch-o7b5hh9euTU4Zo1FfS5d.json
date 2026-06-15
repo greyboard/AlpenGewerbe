@@ -1,0 +1,30 @@
+{
+  "id": "ch-o7b5hh9euTU4Zo1FfS5d",
+  "slug": "effitec-sa-echandens",
+  "name": "EFFITEC SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue des Artisans 10",
+    "plz": "1026",
+    "ort": "Echandens",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41848701000",
+    "email": "contact@effitec.ch",
+    "webseite": "https://www.effitec.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

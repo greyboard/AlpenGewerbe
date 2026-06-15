@@ -1,0 +1,30 @@
+{
+  "id": "ch-AZQ9m5VZyhCg9nniZwTm",
+  "slug": "schreinerei-schlaeppi-saanen",
+  "name": "Schreinerei Schläppi",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Grischbachstrasse 1",
+    "plz": "3792",
+    "ort": "Saanen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797877664",
+    "email": "marioschlaeppi@gmx.ch",
+    "webseite": "https://www.schreinereims.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

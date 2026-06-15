@@ -1,0 +1,30 @@
+{
+  "id": "ch-R6f8CjE6Cw5ht5EdLCJM",
+  "slug": "malergeschaeft-durrer-gmbh-kerns",
+  "name": "Malergeschäft Durrer GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Postpl. 4",
+    "plz": "6064",
+    "ort": "Kerns",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416603041",
+    "email": "ruedi.durrer@malerdurrer.ch",
+    "webseite": "https://www.malerdurrer.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

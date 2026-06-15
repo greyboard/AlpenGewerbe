@@ -1,0 +1,30 @@
+{
+  "id": "ch-GfuA0sG9fshEdNnM73w2",
+  "slug": "maurer-bischofberger-bau-gmbh-frauenfeld",
+  "name": "Maurer Bischofberger bau gmbh",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wellhauserweg 39a",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787361688",
+    "email": "info@db-bau.ch",
+    "webseite": "https://www.db-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

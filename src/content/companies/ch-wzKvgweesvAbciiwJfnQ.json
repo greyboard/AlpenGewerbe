@@ -1,0 +1,30 @@
+{
+  "id": "ch-wzKvgweesvAbciiwJfnQ",
+  "slug": "haeuslein-heiz-dich-gmbh-bern",
+  "name": "Häuslein heiz dich GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Sulgeneckstrasse 62",
+    "plz": "3005",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41315354754",
+    "email": "simon.weiss@hauslein.ch",
+    "webseite": "https://www.häuslein-heiz-dich.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-QeCuevdz7smeVVyNjrhR",
+  "slug": "ma-baugeschaeft-gmbh-zug",
+  "name": "MA Baugeschäft GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Ahornstrasse 4",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41767061112",
+    "email": "info@ma-baugeschaeft.ch",
+    "webseite": "https://www.ma-baugeschaeft.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

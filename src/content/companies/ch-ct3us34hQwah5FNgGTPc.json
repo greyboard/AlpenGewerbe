@@ -1,0 +1,30 @@
+{
+  "id": "ch-ct3us34hQwah5FNgGTPc",
+  "slug": "malergeschaeft-nieli-baar",
+  "name": "Malergeschäft Nieli",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Zugerstrasse 43",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792185410",
+    "email": "giuseppe@maler-nieli.ch",
+    "webseite": "https://www.maler-nieli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

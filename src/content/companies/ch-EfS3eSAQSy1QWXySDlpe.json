@@ -1,0 +1,30 @@
+{
+  "id": "ch-EfS3eSAQSy1QWXySDlpe",
+  "slug": "elektro-schatt-ag-unteriberg",
+  "name": "Elektro Schatt AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schmalzgrubenstrasse 39",
+    "plz": "8842",
+    "ort": "Unteriberg",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554141250",
+    "email": "info@elektro-schatt.ch",
+    "webseite": "https://www.elektro-schatt.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

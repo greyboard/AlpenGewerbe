@@ -1,0 +1,30 @@
+{
+  "id": "ch-YdYAz1oqBCyDeeMc4nYT",
+  "slug": "elektro-montandon-vinelz",
+  "name": "Elektro Montandon",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Insstrasse 28",
+    "plz": "3234",
+    "ort": "Vinelz",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323383535",
+    "email": "info@elektro-montandon.ch",
+    "webseite": "https://www.elektro-montandon.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-jB2I6Q7XQOtjAIcorp9E",
+  "slug": "tecnotetto-sa-vezia",
+  "name": "Tecnotetto SA",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Via al Mulino 4D",
+    "plz": "6943",
+    "ort": "Vezia",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41919668020",
+    "email": "info@tecnotetto.ch",
+    "webseite": "https://www.tecnotetto.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

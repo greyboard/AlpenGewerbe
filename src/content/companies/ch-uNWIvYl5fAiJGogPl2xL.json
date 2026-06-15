@@ -1,0 +1,30 @@
+{
+  "id": "ch-uNWIvYl5fAiJGogPl2xL",
+  "slug": "elektro-meier-chur-ag-chur",
+  "name": "Elektro Meier Chur AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Scalettastrasse 63",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812869494",
+    "email": "info@meier-chur.ch",
+    "webseite": "https://yellow.local.ch/d/F7PxvUiOQWtFVu4JU8DQEw"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

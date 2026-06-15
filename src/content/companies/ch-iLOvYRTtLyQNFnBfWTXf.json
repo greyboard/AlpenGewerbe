@@ -1,0 +1,30 @@
+{
+  "id": "ch-iLOvYRTtLyQNFnBfWTXf",
+  "slug": "sonnenburg-gaertnerei-schaffhausen",
+  "name": "Sonnenburg Gärtnerei",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sonnenburggutstrasse 51",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526252050",
+    "email": "info@sonnenburg-gaertnerei.ch",
+    "webseite": "https://www.sonnenburg-gaertnerei.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

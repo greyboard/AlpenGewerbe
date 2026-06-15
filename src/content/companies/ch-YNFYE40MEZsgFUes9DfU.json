@@ -1,0 +1,30 @@
+{
+  "id": "ch-YNFYE40MEZsgFUes9DfU",
+  "slug": "hersche-dach-ag-trimmis",
+  "name": "Hersche Dach AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Hersche Dach",
+    "plz": "7203",
+    "ort": "Trimmis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813538222",
+    "email": "info@hersche-dach.ch",
+    "webseite": "https://www.hersche-dach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

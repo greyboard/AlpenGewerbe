@@ -1,0 +1,30 @@
+{
+  "id": "ch-pjN5Wt6mb9ha3CUCo2M0",
+  "slug": "roofservice-gmbh-baar",
+  "name": "Roofservice GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Zugerstrasse 72",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41325101443",
+    "email": "info@roofservice.ch",
+    "webseite": "https://www.roofservice.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

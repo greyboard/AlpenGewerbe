@@ -1,0 +1,30 @@
+{
+  "id": "ch-W181sp0kShQoHTBgc3yR",
+  "slug": "maurer-ag-bern",
+  "name": "Maurer AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Schauplatzgasse 1",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313110606",
+    "email": "info@maurertravel.ch",
+    "webseite": "https://www.maurertravel.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

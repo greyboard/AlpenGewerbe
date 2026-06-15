@@ -1,0 +1,30 @@
+{
+  "id": "ch-P659JJmImHs8vM9l2zMA",
+  "slug": "schreinerei-widmer-buehler-ag-buehler",
+  "name": "Schreinerei Widmer Bühler AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Trogenerstrasse 33",
+    "plz": "9055",
+    "ort": "Bühler",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717918001",
+    "email": "info@schreinereiwidmer.ch",
+    "webseite": "https://www.schreinereiwidmer.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

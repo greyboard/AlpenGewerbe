@@ -1,0 +1,30 @@
+{
+  "id": "ch-z5EuaFpofwSxcYFKtK69",
+  "slug": "ziltener-ag-aarau",
+  "name": "ZILTENER AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Wässermattstrasse 2",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628364488",
+    "email": "info@ziltenermetall.ch",
+    "webseite": "https://www.ziltenermetall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

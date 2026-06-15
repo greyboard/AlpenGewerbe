@@ -1,0 +1,30 @@
+{
+  "id": "ch-jYPm8ZLyV6rlUdsmUukt",
+  "slug": "schreinerei-janzi-zweisimmen",
+  "name": "Schreinerei Janzi",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Thunstrasse 12",
+    "plz": "3770",
+    "ort": "Zweisimmen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795684425",
+    "email": "info@schreinerei-janzi.ch",
+    "webseite": "https://www.schreinerei-janzi.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

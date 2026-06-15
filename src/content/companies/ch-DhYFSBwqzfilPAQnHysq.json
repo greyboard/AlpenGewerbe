@@ -1,0 +1,30 @@
+{
+  "id": "ch-DhYFSBwqzfilPAQnHysq",
+  "slug": "marti-ag-solothurn-solothurn",
+  "name": "Marti AG Solothurn",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bielstrasse 102",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326250707",
+    "email": "info@marti-solothurn.ch",
+    "webseite": "https://www.marti-solothurn.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

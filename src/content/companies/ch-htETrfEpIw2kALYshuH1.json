@@ -1,0 +1,30 @@
+{
+  "id": "ch-htETrfEpIw2kALYshuH1",
+  "slug": "maurer-baumanagement-gmbh-langnau-im-emmental",
+  "name": "Maurer Baumanagement GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hinterdorfstrasse 22",
+    "plz": "3550",
+    "ort": "Langnau im Emmental",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798469293",
+    "email": "info@maurer-baumanagement.ch",
+    "webseite": "https://maurer-baumanagement.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

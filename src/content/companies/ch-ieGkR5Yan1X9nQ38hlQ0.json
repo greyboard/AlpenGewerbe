@@ -1,0 +1,30 @@
+{
+  "id": "ch-ieGkR5Yan1X9nQ38hlQ0",
+  "slug": "elvectra-sagl-bioggio",
+  "name": "Elvectra Sagl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Campagna 30",
+    "plz": "6934",
+    "ort": "Bioggio",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41919240030",
+    "email": "claudio.boiocchi@elvectra.ch",
+    "webseite": "https://www.elvectra.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

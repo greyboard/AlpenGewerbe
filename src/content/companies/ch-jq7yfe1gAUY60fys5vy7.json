@@ -1,0 +1,30 @@
+{
+  "id": "ch-jq7yfe1gAUY60fys5vy7",
+  "slug": "ruba-maler-graenichen",
+  "name": "RUBA Maler",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Vorstadtstrasse 6",
+    "plz": "5722",
+    "ort": "Gränichen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782438377",
+    "email": "20info@ruba-maler.ch",
+    "webseite": "https://ruba-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

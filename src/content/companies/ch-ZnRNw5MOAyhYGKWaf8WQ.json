@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZnRNw5MOAyhYGKWaf8WQ",
+  "slug": "daniel-siebothmoebelschreinerei-solothurn",
+  "name": "Daniel SiebothMöbelschreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Bielstrasse 69",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326227745",
+    "email": "mail@danielsieboth.ch",
+    "webseite": "https://www.danielsieboth.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

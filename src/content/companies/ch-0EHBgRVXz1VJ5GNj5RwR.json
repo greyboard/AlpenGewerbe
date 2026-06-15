@@ -1,0 +1,30 @@
+{
+  "id": "ch-0EHBgRVXz1VJ5GNj5RwR",
+  "slug": "gebrueder-hueber-gmbh-gartenbau-und-unterhalt-pratteln",
+  "name": "Gebrüder Hueber GmbH Gartenbau und Unterhalt",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sonnenweg 18",
+    "plz": "4133",
+    "ort": "Pratteln",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791984714",
+    "email": "info@gebrueder-hueber.ch",
+    "webseite": "https://www.gebrueder-hueber.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

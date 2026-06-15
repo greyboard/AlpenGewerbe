@@ -1,0 +1,30 @@
+{
+  "id": "ch-TN0xESula8VGixOGnR64",
+  "slug": "bieger-maler-gmbh-unterengstringen",
+  "name": "Bieger Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "St. Niklausstrasse 3",
+    "plz": "8103",
+    "ort": "Unterengstringen",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41449454400",
+    "email": "info@bieger-maler.ch",
+    "webseite": "https://www.bieger-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

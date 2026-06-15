@@ -1,0 +1,30 @@
+{
+  "id": "ch-DF9gDPZPpQDglUBTqDdg",
+  "slug": "gloor-metallbau-aarau",
+  "name": "Gloor Metallbau",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Tellistrasse 18",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628222147",
+    "email": "info@gloor-metallbau.ch",
+    "webseite": "https://www.gloor-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

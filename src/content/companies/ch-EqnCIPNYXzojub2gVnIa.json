@@ -1,0 +1,30 @@
+{
+  "id": "ch-EqnCIPNYXzojub2gVnIa",
+  "slug": "marti-sanitaer-gmbh-baar",
+  "name": "Marti Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Eschenweg 10",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796588115",
+    "email": "info@martisanitaer.ch",
+    "webseite": "https://www.martisanitär.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

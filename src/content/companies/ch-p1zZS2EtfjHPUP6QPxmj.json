@@ -1,0 +1,30 @@
+{
+  "id": "ch-p1zZS2EtfjHPUP6QPxmj",
+  "slug": "heusler-serge-sarl-courgenay",
+  "name": "Heusler Serge Sàrl",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Pré-Genez 17",
+    "plz": "2950",
+    "ort": "Courgenay",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797599116",
+    "email": "serge.heusler@bluewin.ch",
+    "webseite": "https://www.sergeheusler.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

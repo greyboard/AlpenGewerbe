@@ -1,0 +1,30 @@
+{
+  "id": "ch-MYXpjwfLl7CuSF8ea7GG",
+  "slug": "dani-renovation-entreprise-de-peinture-platrerie-carrelage-maconnerie-geneve",
+  "name": "DANI RENOVATION | entreprise de Peinture, Plâtrerie, Carrelage, Maçonnerie",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rue de Neuchâtel 16",
+    "plz": "1201",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223494343",
+    "email": "info@dani-renovation.ch",
+    "webseite": "https://www.dani-renovation.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

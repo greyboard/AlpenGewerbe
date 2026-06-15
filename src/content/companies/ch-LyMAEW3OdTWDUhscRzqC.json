@@ -1,0 +1,30 @@
+{
+  "id": "ch-LyMAEW3OdTWDUhscRzqC",
+  "slug": "mueller-maler-ag-magden",
+  "name": "Müller Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Brüelstrasse 31",
+    "plz": "4312",
+    "ort": "Magden",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618410441",
+    "email": "info@muellermaler.ch",
+    "webseite": "https://www.muellermaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

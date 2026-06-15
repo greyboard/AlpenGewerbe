@@ -1,0 +1,30 @@
+{
+  "id": "ch-oWCMiV4WabFDwFuojmyh",
+  "slug": "proof-gmbh-langnau-am-albis",
+  "name": "Proof GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Spinnereistrasse 12A",
+    "plz": "8135",
+    "ort": "Langnau am Albis",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442027474",
+    "email": "info@pro-roof.ch",
+    "webseite": "https://www.pro-roof.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

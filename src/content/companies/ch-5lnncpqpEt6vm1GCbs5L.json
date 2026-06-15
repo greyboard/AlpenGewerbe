@@ -1,0 +1,30 @@
+{
+  "id": "ch-5lnncpqpEt6vm1GCbs5L",
+  "slug": "maler-gipser-deldar-swiss-gmbh-aarau",
+  "name": "Maler & Gipser Deldar Swiss GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Aurorastrasse 24",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788300984",
+    "email": "info@deldarswiss.ch",
+    "webseite": "https://deldar-swiss.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

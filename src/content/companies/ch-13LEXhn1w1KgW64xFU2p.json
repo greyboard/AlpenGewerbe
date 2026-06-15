@@ -1,0 +1,30 @@
+{
+  "id": "ch-13LEXhn1w1KgW64xFU2p",
+  "slug": "aebli-ag-ennenda",
+  "name": "AEBLI AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gipserhütte 4",
+    "plz": "8755",
+    "ort": "Ennenda",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556401462",
+    "email": "aeblisanitaer@bluewin.ch",
+    "webseite": "https://www.aebli-ag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-4Q69v7hOyps4Lih3Ex5t",
+  "slug": "gregorio-toiture-sarl-palezieux",
+  "name": "Gregorio Toiture Sàrl",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rte de Grivaz 17",
+    "plz": "1607",
+    "ort": "Palézieux",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41219218767",
+    "email": "info@gregoriotoiture.com",
+    "webseite": "https://www.gregoriotoiture.com"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

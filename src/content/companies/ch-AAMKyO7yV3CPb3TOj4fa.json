@@ -1,0 +1,30 @@
+{
+  "id": "ch-AAMKyO7yV3CPb3TOj4fa",
+  "slug": "alpera-sa-installations-electriques-et-depannages-7-7-orsieres",
+  "name": "Alpera SA - Installations électriques et dépannages 7/7",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte du Saint-Bernard 4A",
+    "plz": "1937",
+    "ort": "Orsières",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41277833838",
+    "email": "info@alpera.ch",
+    "webseite": "https://www.alpera.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

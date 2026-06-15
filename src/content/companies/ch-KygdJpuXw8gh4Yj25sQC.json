@@ -1,0 +1,30 @@
+{
+  "id": "ch-KygdJpuXw8gh4Yj25sQC",
+  "slug": "schreinerei-imseng-ag-saas-fee",
+  "name": "Schreinerei Imseng AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Untere Dorfstrasse 25",
+    "plz": "3906",
+    "ort": "Saas-Fee",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279573636",
+    "email": "info@imseng-team.ch",
+    "webseite": "https://www.imseng-team.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-VFpzny5VTqBr5CcqK9L1",
+  "slug": "malergeschaeft-schillig-altdorf",
+  "name": "Malergeschäft Schillig",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Vogelsanggasse 12",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418702511",
+    "email": "info@malergeschaeft-schillig.ch",
+    "webseite": "https://www.malergeschaeft-schillig.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

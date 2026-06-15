@@ -1,0 +1,30 @@
+{
+  "id": "ch-of2JMYfNSXbLblOj8eNz",
+  "slug": "elektroplanung-glarus-nord-gmbh-mollis",
+  "name": "Elektroplanung Glarus-Nord GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Oberrütelistrasse 13",
+    "plz": "8753",
+    "ort": "Mollis",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556222050",
+    "email": "info@egn.swiss",
+    "webseite": "https://egn.swiss"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-sKn38zwW0ycdJ6doHZcJ",
+  "slug": "marcello-barcella-impresa-di-pittura-magadino",
+  "name": "Marcello Barcella - Impresa di pittura",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Cantonale 70",
+    "plz": "6573",
+    "ort": "Magadino",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792271825",
+    "email": "info@barcella.ch",
+    "webseite": "https://barcella.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-AuBjIc5Ju9Ajv27qqk4p",
+  "slug": "mk-gartenbau-gmbh-bubendorf",
+  "name": "MK Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wattwerkstrasse 2",
+    "plz": "4416",
+    "ort": "Bubendorf",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41622990557",
+    "email": "info@mk-gartenbau.ch",
+    "webseite": "https://mk-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

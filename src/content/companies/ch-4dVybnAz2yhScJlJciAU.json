@@ -1,0 +1,30 @@
+{
+  "id": "ch-4dVybnAz2yhScJlJciAU",
+  "slug": "maler-berger-gmbh-gruesch",
+  "name": "Maler Berger GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Fanaserstrasse 5",
+    "plz": "7214",
+    "ort": "Grüsch",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763774555",
+    "email": "maler.berger@gmx.ch",
+    "webseite": "https://maler-berger.digitalone.site"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-RBfhdf60DAIiyOaxmKZV",
+  "slug": "linth-heizungen-gmbh-naefels",
+  "name": "Linth Heizungen GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 35",
+    "plz": "8752",
+    "ort": "Näfels",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797562124",
+    "email": "kontakt@casitadelasalsa.ch",
+    "webseite": "https://www.linth-heizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

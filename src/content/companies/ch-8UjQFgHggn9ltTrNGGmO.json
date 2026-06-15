@@ -1,0 +1,30 @@
+{
+  "id": "ch-8UjQFgHggn9ltTrNGGmO",
+  "slug": "dirren-maler-und-gipser-gmbh-visp",
+  "name": "DIRREN Maler und Gipser GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Napoleonstrasse 30",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279462124",
+    "email": "info@malerei-dirren.ch",
+    "webseite": "https://www.malerei-dirren.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

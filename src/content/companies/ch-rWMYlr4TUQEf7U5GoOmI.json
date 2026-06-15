@@ -1,0 +1,30 @@
+{
+  "id": "ch-rWMYlr4TUQEf7U5GoOmI",
+  "slug": "knuesel-ag-elektroanlagen-stans",
+  "name": "Knüsel AG, Elektroanlagen",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Engelbergstrasse 46",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416101930",
+    "email": "verkauf@knueselstans.ch",
+    "webseite": "https://www.knueselstans.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

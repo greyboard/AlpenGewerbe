@@ -1,0 +1,30 @@
+{
+  "id": "ch-FSTs7vrB56L08N3ipCl2",
+  "slug": "msg-renovation-entreprise-generale-nyon-vaud-nyon",
+  "name": "MSG Rénovation - Entreprise Générale | Nyon, Vaud",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rte de Divonne 48",
+    "plz": "1260",
+    "ort": "Nyon",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796363327",
+    "email": "info@msg-renovation.ch",
+    "webseite": "https://www.msg-renovation.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

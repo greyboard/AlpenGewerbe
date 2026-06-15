@@ -1,0 +1,30 @@
+{
+  "id": "ch-OUFPpVuVnXhphjbZtRNz",
+  "slug": "maler-gehringer-ag-die-malermanufaktur-huenenberg",
+  "name": "Maler Gehringer AG / DIE Malermanufaktur",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Alter Hubelweg 4",
+    "plz": "6331",
+    "ort": "Hünenberg",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413720072",
+    "email": "r.gehringer@malergehringer.ch",
+    "webseite": "https://www.malergehringer.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

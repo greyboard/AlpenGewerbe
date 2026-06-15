@@ -1,0 +1,30 @@
+{
+  "id": "ch-5xvpjd2Le5wZzHgLgUbL",
+  "slug": "gipsergeschaeft-antonio-f-gmbh-st-gallen",
+  "name": "Gipsergeschäft Antonio F. GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Schachenstrasse 9",
+    "plz": "9016",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717939144",
+    "email": "info@antoniogips.ch",
+    "webseite": "https://www.antoniogips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

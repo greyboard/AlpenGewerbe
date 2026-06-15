@@ -1,0 +1,30 @@
+{
+  "id": "ch-bgjOd7h8jf10bNe4qpd6",
+  "slug": "buetler-elektro-telecom-ag-muri",
+  "name": "Bütler Elektro Telecom AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Pilatusstrasse 41",
+    "plz": "5630",
+    "ort": "Muri",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41566777010",
+    "email": "info@buetler-elektro.ch",
+    "webseite": "https://www.buetler-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

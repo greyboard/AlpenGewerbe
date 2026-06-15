@@ -1,0 +1,30 @@
+{
+  "id": "ch-5zwhOHrooPCNlOfsNaaV",
+  "slug": "heini-ag-luzern-luzern",
+  "name": "Heini AG Luzern",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sankt-Karli-Strasse 81",
+    "plz": "6004",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412403044",
+    "email": "info@heinigarten.ch",
+    "webseite": "https://www.heinigarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

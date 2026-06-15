@@ -1,0 +1,30 @@
+{
+  "id": "ch-D4hcAh23KKWOkQ1GIKkP",
+  "slug": "schreinerei-glutz-ag-herzogenbuchsee",
+  "name": "Schreinerei Glutz AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Sternenstrasse 41",
+    "plz": "3360",
+    "ort": "Herzogenbuchsee",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41629613829",
+    "email": "info@glutzag.ch",
+    "webseite": "https://www.glutzag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

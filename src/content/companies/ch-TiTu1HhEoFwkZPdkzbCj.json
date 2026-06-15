@@ -1,0 +1,30 @@
+{
+  "id": "ch-TiTu1HhEoFwkZPdkzbCj",
+  "slug": "elektro-raess-znl-der-elektro-bau-ag-rothrist-oberentfelden",
+  "name": "Elektro Räss, ZNL der Elektro-Bau AG Rothrist",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schönenwerderstrasse 15",
+    "plz": "5036",
+    "ort": "Oberentfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627372020",
+    "email": "info@elektroraess.ch",
+    "webseite": "https://www.elektroraess.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

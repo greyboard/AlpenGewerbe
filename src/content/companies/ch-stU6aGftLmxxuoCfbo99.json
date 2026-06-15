@@ -1,0 +1,30 @@
+{
+  "id": "ch-stU6aGftLmxxuoCfbo99",
+  "slug": "reiss-reber-landscaping-ag-zuerich",
+  "name": "Reiss & Reber landscaping AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Alte Mühlackerstrasse 25",
+    "plz": "8046",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443717766",
+    "email": "info@gartenspezialist.ch",
+    "webseite": "https://gartenspezialist.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

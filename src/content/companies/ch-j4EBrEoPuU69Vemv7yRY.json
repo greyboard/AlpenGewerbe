@@ -1,0 +1,30 @@
+{
+  "id": "ch-j4EBrEoPuU69Vemv7yRY",
+  "slug": "geomeo-service-sagl-contone",
+  "name": "GeoMeo Service Sagl",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via Cantonale 29",
+    "plz": "6594",
+    "ort": "Contone",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41918401330",
+    "email": "info@geomeo.ch",
+    "webseite": "https://www.geomeoservice.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

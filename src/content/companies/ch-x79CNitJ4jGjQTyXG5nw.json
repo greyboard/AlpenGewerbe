@@ -1,0 +1,30 @@
+{
+  "id": "ch-x79CNitJ4jGjQTyXG5nw",
+  "slug": "alba-gmbh-solothurn",
+  "name": "Alba GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Hans Huber-Strasse 41",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774488886",
+    "email": "joerin@alba-gmbh.ch",
+    "webseite": "https://www.alba-gmbh.ch/kontakt"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

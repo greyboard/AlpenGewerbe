@@ -1,0 +1,30 @@
+{
+  "id": "ch-D7LsopOkyX3XfZY4Hm70",
+  "slug": "malerei-r-mueller-gmbh-oberentfelden",
+  "name": "Malerei R. Müller GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Walther-Bürsten-Strasse 21",
+    "plz": "5036",
+    "ort": "Oberentfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774123145",
+    "email": "kontakt@malerei-rm.ch",
+    "webseite": "https://malerei-rm.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

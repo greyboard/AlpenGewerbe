@@ -1,0 +1,30 @@
+{
+  "id": "ch-8j3GYn0XEVPONnrajLSU",
+  "slug": "herzog-umbauten-ag-zuerich",
+  "name": "Herzog Umbauten AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Heinrichstrasse 177",
+    "plz": "8005",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443210890",
+    "email": "info@herzog-umbauten.ch",
+    "webseite": "https://www.herzog-umbauten.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

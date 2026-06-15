@@ -1,0 +1,30 @@
+{
+  "id": "ch-1B2AyMJQ7XYgfy7KkKHl",
+  "slug": "suppiger-raphael-landschaftsgaertner-engelberg",
+  "name": "Suppiger Raphael Landschaftsgärtner",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Terracestrasse 20",
+    "plz": "6390",
+    "ort": "Engelberg",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788812632",
+    "email": "sr.landschaftsgaertner@bluewin.ch",
+    "webseite": "https://www.suppiger-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

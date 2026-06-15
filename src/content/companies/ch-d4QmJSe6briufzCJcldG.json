@@ -1,0 +1,30 @@
+{
+  "id": "ch-d4QmJSe6briufzCJcldG",
+  "slug": "walker-bedachungen-zug",
+  "name": "Walker Bedachungen",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Weidhof",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417110405",
+    "email": "roger@walker-bedachungen.ch",
+    "webseite": "https://www.walker-bedachungen.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

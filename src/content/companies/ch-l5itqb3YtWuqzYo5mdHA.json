@@ -1,0 +1,30 @@
+{
+  "id": "ch-l5itqb3YtWuqzYo5mdHA",
+  "slug": "walker-rimag-ibach",
+  "name": "Walker RIMAG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Dammstrasse 12B",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418112255",
+    "email": "dummy@dummy.ch",
+    "webseite": "https://walkerrimag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

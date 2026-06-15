@@ -1,0 +1,30 @@
+{
+  "id": "ch-QXV5Dkn8RYnLLVEJeIfY",
+  "slug": "bsb-schreinerei-basel",
+  "name": "BSB Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Friedrich Miescher-Strasse 30",
+    "plz": "4002",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613267305",
+    "email": "info@bsb.ch",
+    "webseite": "https://schreinerei.bsb.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

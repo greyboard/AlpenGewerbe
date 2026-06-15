@@ -1,0 +1,30 @@
+{
+  "id": "ch-L2lzTq06KQvVOHnhoKQc",
+  "slug": "hepps-gmbh-silenen",
+  "name": "HEPPS GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Ruslistrasse 7",
+    "plz": "6473",
+    "ort": "Silenen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418810300",
+    "email": "info@hepps.ch",
+    "webseite": "https://www.hepps.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-RkJRzhgdgXUlXfEAWzZ1",
+  "slug": "reutimann-gartengestaltung-gmbh-eschenz",
+  "name": "Reutimann Gartengestaltung GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Frauenfelderstrasse 34",
+    "plz": "8264",
+    "ort": "Eschenz",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527403117",
+    "email": "info@reutimanngarten.ch",
+    "webseite": "https://www.reutimanngarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

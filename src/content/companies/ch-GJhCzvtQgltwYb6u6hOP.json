@@ -1,0 +1,30 @@
+{
+  "id": "ch-GJhCzvtQgltwYb6u6hOP",
+  "slug": "marcel-hufschmid-ag-zug",
+  "name": "Marcel Hufschmid AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 55",
+    "plz": "6302",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417696969",
+    "email": "info@hufschmid-elektro.ch",
+    "webseite": "https://www.hufschmid-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

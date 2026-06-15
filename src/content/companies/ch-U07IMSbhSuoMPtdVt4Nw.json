@@ -1,0 +1,30 @@
+{
+  "id": "ch-U07IMSbhSuoMPtdVt4Nw",
+  "slug": "aerni-elektro-ag-bern",
+  "name": "Aerni Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Weissensteinstrasse 33",
+    "plz": "3008",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313713031",
+    "email": "info@aernielektro.ch",
+    "webseite": "https://www.aernielektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

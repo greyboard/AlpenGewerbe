@@ -1,0 +1,30 @@
+{
+  "id": "ch-WyiCnN5383esg8rsgMFY",
+  "slug": "dkd-metallbau-waengi",
+  "name": "DKD Metallbau",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Michelsbühlstrasse 1",
+    "plz": "9545",
+    "ort": "Wängi",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41719664855",
+    "email": "info@dkd-waengi.ch",
+    "webseite": "https://dkd-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

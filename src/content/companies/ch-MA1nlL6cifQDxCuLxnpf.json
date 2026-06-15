@@ -1,0 +1,30 @@
+{
+  "id": "ch-MA1nlL6cifQDxCuLxnpf",
+  "slug": "thermo-energies-neuchatel",
+  "name": "Thermo-Energies",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Rue du Clos-des-Orphelins 2",
+    "plz": "2000",
+    "ort": "Neuchâtel",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41327251610",
+    "email": "thermo-energies@bluewin.ch",
+    "webseite": "https://yellow.local.ch/d/zZKi8mEk8kv0VMPOu6jR5w"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

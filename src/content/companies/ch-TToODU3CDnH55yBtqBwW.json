@@ -1,0 +1,30 @@
+{
+  "id": "ch-TToODU3CDnH55yBtqBwW",
+  "slug": "caviezel-ag-davos-platz",
+  "name": "Caviezel AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Brämabüelstrasse 4A",
+    "plz": "7270",
+    "ort": "Davos Platz",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41814100000",
+    "email": "info@caviezel-ag.ch",
+    "webseite": "https://www.caviezel-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

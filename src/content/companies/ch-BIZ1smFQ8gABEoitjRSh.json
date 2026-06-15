@@ -1,0 +1,30 @@
+{
+  "id": "ch-BIZ1smFQ8gABEoitjRSh",
+  "slug": "km-kuechenstudio-schreinerei-basel",
+  "name": "KM Küchenstudio & Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Solothurnerstrasse 69",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613611943",
+    "email": "info@km-kuechenstudio.ch",
+    "webseite": "https://www.km-kuechenstudio.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-zCXmFCiyZuYN6SvDCaSJ",
+  "slug": "maler-gipser-aloi-gmbh-chur",
+  "name": "Maler & Gipser Aloi GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Giacomettistrasse 75",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786687243",
+    "email": "info@maler-aloi.ch",
+    "webseite": "https://www.maler-aloi.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

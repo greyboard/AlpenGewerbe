@@ -1,0 +1,30 @@
+{
+  "id": "ch-wgyTr5qZOSvaMaWv38Ot",
+  "slug": "neff-electro-by-techcom-ch-st-gallen",
+  "name": "Neff Electro by TechCom.ch",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rosenbergstrasse 83",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41715110120",
+    "email": "info@techcom.chhandelsregister",
+    "webseite": "https://neffelectro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

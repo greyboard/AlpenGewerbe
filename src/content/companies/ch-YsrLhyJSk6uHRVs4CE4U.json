@@ -1,0 +1,30 @@
+{
+  "id": "ch-YsrLhyJSk6uHRVs4CE4U",
+  "slug": "maechler-haustechnik-ag-bern",
+  "name": "Mächler Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gerberngasse 23",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313115252",
+    "email": "info@maechler-bern.ch",
+    "webseite": "https://www.maechler-bern.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

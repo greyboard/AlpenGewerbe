@@ -1,0 +1,30 @@
+{
+  "id": "ch-jinjlYK97tWQqlRGitwy",
+  "slug": "scherler-ag-solothurn-solothurn",
+  "name": "Scherler AG Solothurn",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gibelinstrasse 25",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326258181",
+    "email": "mail@scherler-so.ch",
+    "webseite": "https://www.scherler-so.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

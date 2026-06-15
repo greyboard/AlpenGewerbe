@@ -1,0 +1,30 @@
+{
+  "id": "ch-OHuXQ9gjlEg2gsqrApRy",
+  "slug": "elektro-waser-ag-elektroplanung-elektroinstallationen-hergiswil",
+  "name": "Elektro Waser AG | Elektroplanung | Elektroinstallationen",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Seestrasse 127",
+    "plz": "6052",
+    "ort": "Hergiswil",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416326032",
+    "email": "admin@elektro-waser.ch",
+    "webseite": "https://www.elektro-waser.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

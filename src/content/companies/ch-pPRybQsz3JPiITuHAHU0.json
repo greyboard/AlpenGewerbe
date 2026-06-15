@@ -1,0 +1,30 @@
+{
+  "id": "ch-pPRybQsz3JPiITuHAHU0",
+  "slug": "bauhase-hellikon",
+  "name": "Bauhase",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Rebmatt 2",
+    "plz": "4316",
+    "ort": "Hellikon",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792676944",
+    "email": "bauhase@bluewin.ch",
+    "webseite": "https://bauhase.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

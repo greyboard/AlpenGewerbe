@@ -1,0 +1,30 @@
+{
+  "id": "ch-owsBAootKLcQJgGOVklI",
+  "slug": "neue-holzforum-ag-bern",
+  "name": "Neue Holzforum AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Marktgass-Passage",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319117777",
+    "email": "markus.mosimann@holzforum.ch",
+    "webseite": "https://www.holzforum.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

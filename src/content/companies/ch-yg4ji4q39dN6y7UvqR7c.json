@@ -1,0 +1,30 @@
+{
+  "id": "ch-yg4ji4q39dN6y7UvqR7c",
+  "slug": "wirth-gebaeudetechnik-ag-st-gallen",
+  "name": "Wirth Gebäudetechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Buchentalstrasse 27",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712433080",
+    "email": "info@wirth-gbt.ch",
+    "webseite": "https://www.wirth-gebaeudetechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

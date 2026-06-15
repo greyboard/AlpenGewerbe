@@ -1,0 +1,30 @@
+{
+  "id": "ch-oYlvGh441r1tXIEcjzIH",
+  "slug": "viamala-gartenbau-thusis",
+  "name": "viamala gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hasensprungstrasse 17",
+    "plz": "7430",
+    "ort": "Thusis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816510612",
+    "email": "info@viamala-gartenbau.ch",
+    "webseite": "https://www.viamala-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

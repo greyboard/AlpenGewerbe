@@ -1,0 +1,30 @@
+{
+  "id": "ch-a9601ETzAacuQ7OgfYCS",
+  "slug": "hengartner-jans-ag-steinhausen",
+  "name": "Hengartner + Jans AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Höfenstrasse 35",
+    "plz": "6312",
+    "ort": "Steinhausen",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417417888",
+    "email": "kontakt@hengartner-jans.ch",
+    "webseite": "https://hengartner-jans.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

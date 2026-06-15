@@ -1,0 +1,30 @@
+{
+  "id": "ch-SI5IgVAaYGLukYFWQlyP",
+  "slug": "fenster-keller-herisau",
+  "name": "Fenster Keller",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Alpsteinstrasse 41a",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713516967",
+    "email": "mail@business.com",
+    "webseite": "https://keller-fenster.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

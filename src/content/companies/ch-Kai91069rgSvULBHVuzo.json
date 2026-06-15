@@ -1,0 +1,30 @@
+{
+  "id": "ch-Kai91069rgSvULBHVuzo",
+  "slug": "elektro-gygax-ag-herzogenbuchsee",
+  "name": "Elektro Gygax AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 7",
+    "plz": "3360",
+    "ort": "Herzogenbuchsee",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41629615050",
+    "email": "info@elektro-gygax.ch",
+    "webseite": "https://www.elektro-gygax.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

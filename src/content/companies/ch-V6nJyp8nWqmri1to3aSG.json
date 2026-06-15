@@ -1,0 +1,30 @@
+{
+  "id": "ch-V6nJyp8nWqmri1to3aSG",
+  "slug": "maler-beck-gmbh-emmen",
+  "name": "Maler Beck Gmbh",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Emmenmattstrasse 23",
+    "plz": "6020",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41767464696",
+    "email": "info@malerbeck.ch",
+    "webseite": "https://www.malerbeck.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

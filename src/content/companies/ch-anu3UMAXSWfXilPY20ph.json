@@ -1,0 +1,30 @@
+{
+  "id": "ch-anu3UMAXSWfXilPY20ph",
+  "slug": "allset-electro-gmbh-basel",
+  "name": "Allset Electro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Fürstensteinerstrasse 47",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795556673",
+    "email": "info@allsetelectro.ch",
+    "webseite": "https://www.allsetelectro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

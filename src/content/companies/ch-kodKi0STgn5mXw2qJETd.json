@@ -1,0 +1,30 @@
+{
+  "id": "ch-kodKi0STgn5mXw2qJETd",
+  "slug": "schreiner-bueschlen-zuerich",
+  "name": "Schreiner Büschlen",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Zurlindenstrasse 215b",
+    "plz": "8003",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794661305",
+    "email": "info@schreinerbueschlen.ch",
+    "webseite": "https://www.schreinerbueschlen.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

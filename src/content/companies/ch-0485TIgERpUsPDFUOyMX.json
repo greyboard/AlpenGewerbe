@@ -1,0 +1,30 @@
+{
+  "id": "ch-0485TIgERpUsPDFUOyMX",
+  "slug": "mg-bauservice-gmbh-birr",
+  "name": "MG Bauservice GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wydenstrasse 14",
+    "plz": "5242",
+    "ort": "Birr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798988073",
+    "email": "info@mg-bauservice.ch",
+    "webseite": "https://mg-bauservice.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

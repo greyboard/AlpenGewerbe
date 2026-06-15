@@ -1,0 +1,30 @@
+{
+  "id": "ch-qf7QKowOl63Jp4sznCPt",
+  "slug": "krieg-bad-heizung-werkstatt-filiale-landquart",
+  "name": "Krieg Bad & Heizung (Werkstatt, Filiale)",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Freihofstrasse 11",
+    "plz": "7302",
+    "ort": "Landquart",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813221120",
+    "email": "info@krieg-bad.ch",
+    "webseite": "https://krieg-bad.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

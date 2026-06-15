@@ -1,0 +1,30 @@
+{
+  "id": "ch-funRilIdyuuyiyQCJqj1",
+  "slug": "maler-blaser-team-ag-baar",
+  "name": "Maler Blaser Team AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Oberneuhofstrasse 7",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417603830",
+    "email": "info@maler-blaser.ch",
+    "webseite": "https://www.maler-blaser.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

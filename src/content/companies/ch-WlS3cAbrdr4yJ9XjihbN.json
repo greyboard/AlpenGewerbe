@@ -1,0 +1,30 @@
+{
+  "id": "ch-WlS3cAbrdr4yJ9XjihbN",
+  "slug": "bsz-sanitaer-heizung-ag-zug",
+  "name": "BSZ Sanitär & Heizung AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gartenstadt 4",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417117779",
+    "email": "info@bsz-sanitaer.ch",
+    "webseite": "https://bsz-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-7oN3OeyMqUD8m662Danq",
+  "slug": "swissbat-sa-geneve",
+  "name": "SwissBat SA",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Av. de la Roseraie 38",
+    "plz": "1205",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787474462",
+    "email": "info@swissbatsa.ch",
+    "webseite": "https://swissbatvitrerie.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

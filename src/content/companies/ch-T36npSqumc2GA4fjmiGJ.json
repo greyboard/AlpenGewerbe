@@ -1,0 +1,30 @@
+{
+  "id": "ch-T36npSqumc2GA4fjmiGJ",
+  "slug": "maler-ackermann-weesen-weesen",
+  "name": "Maler Ackermann Weesen",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 59",
+    "plz": "8872",
+    "ort": "Weesen",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792472654",
+    "email": "info@maler-ackermann.ch",
+    "webseite": "https://www.maler-ackermann.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

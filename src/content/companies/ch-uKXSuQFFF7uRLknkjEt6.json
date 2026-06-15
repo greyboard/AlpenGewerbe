@@ -1,0 +1,30 @@
+{
+  "id": "ch-uKXSuQFFF7uRLknkjEt6",
+  "slug": "baumgartner-beckenried-gmbh-beckenried",
+  "name": "Baumgartner Beckenried GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rütenenstrasse 60",
+    "plz": "6375",
+    "ort": "Beckenried",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416202727",
+    "email": "beat@baumgartner-beckenried.ch",
+    "webseite": "https://www.baumgartner-beckenried.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

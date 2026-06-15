@@ -1,0 +1,30 @@
+{
+  "id": "ch-xIhrlaxTRB2d7RbBdW6R",
+  "slug": "glassmania-sierre",
+  "name": "Glassmania",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rue de l'Ile Falcon 21",
+    "plz": "3960",
+    "ort": "Sierre",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274512540",
+    "email": "hello@glassmania.com",
+    "webseite": "https://www.glassmania.com"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

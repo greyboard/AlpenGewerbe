@@ -1,0 +1,30 @@
+{
+  "id": "ch-HPZ6I1miLp2dopYhVxba",
+  "slug": "ogg-r-schreinerei-gmbh-thayngen",
+  "name": "Ogg R. Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Stockwiesenstrasse 38",
+    "plz": "8240",
+    "ort": "Thayngen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796332433",
+    "email": "roger.ogg@bluewin.ch",
+    "webseite": "https://www.ogg-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-5XxYxbgE1uc4vlf9tYBX",
+  "slug": "fmt-metallbau-ag-bettwiesen",
+  "name": "FMT Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 62",
+    "plz": "9553",
+    "ort": "Bettwiesen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41719111867",
+    "email": "info@fmt-metallbau.ch",
+    "webseite": "https://www.fmt-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

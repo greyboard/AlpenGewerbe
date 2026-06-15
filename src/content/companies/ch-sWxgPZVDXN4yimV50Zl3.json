@@ -1,0 +1,30 @@
+{
+  "id": "ch-sWxgPZVDXN4yimV50Zl3",
+  "slug": "portmann-h-gartenbau-gmbh-root",
+  "name": "Portmann H. Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Luzernerstrasse 27a",
+    "plz": "6037",
+    "ort": "Root",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414510480",
+    "email": "hubert@portmann-gartenbau.ch",
+    "webseite": "https://www.portmann-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

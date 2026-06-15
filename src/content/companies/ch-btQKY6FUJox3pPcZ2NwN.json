@@ -1,0 +1,30 @@
+{
+  "id": "ch-btQKY6FUJox3pPcZ2NwN",
+  "slug": "peinture-express-sa-entreprise-de-peinture-a-fribourg-avry",
+  "name": "Peinture-Express SA | Entreprise de peinture à Fribourg",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Avry-Bourg 8A",
+    "plz": "1754",
+    "ort": "Avry",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41265667010",
+    "email": "info@peinture-express.ch",
+    "webseite": "https://peinture-express.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

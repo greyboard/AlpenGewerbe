@@ -1,0 +1,30 @@
+{
+  "id": "ch-xBkcprGTsaV68VovyJfw",
+  "slug": "helfenstein-metallbau-ag-horw",
+  "name": "Helfenstein Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Technikumstrasse 8",
+    "plz": "6048",
+    "ort": "Horw",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413403222",
+    "email": "info@helfenstein-metallbau.ch",
+    "webseite": "https://www.helfenstein-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

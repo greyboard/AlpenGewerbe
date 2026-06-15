@@ -1,0 +1,30 @@
+{
+  "id": "ch-3p0u8T8peIwi9XsMmNnH",
+  "slug": "wirtschaft-freimann-zug",
+  "name": "Wirtschaft Freimann",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Letzi 27",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417413510",
+    "email": "sf@wirtschaft-freimann.ch",
+    "webseite": "https://www.wirtschaft-freimann.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

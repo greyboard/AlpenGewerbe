@@ -1,0 +1,30 @@
+{
+  "id": "ch-FT21nZiGT8HYR4RwsBd4",
+  "slug": "feritec-ag-erstfeld",
+  "name": "Feritec AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Breiteli 20a",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418747000",
+    "email": "info@feritec.ch",
+    "webseite": "https://feritec.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

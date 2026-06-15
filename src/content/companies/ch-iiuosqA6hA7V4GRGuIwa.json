@@ -1,0 +1,30 @@
+{
+  "id": "ch-iiuosqA6hA7V4GRGuIwa",
+  "slug": "schreinerei-stefan-keller-gmbh-altnau",
+  "name": "Schreinerei Stefan Keller GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Kaffeegasse 17",
+    "plz": "8595",
+    "ort": "Altnau",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792075039",
+    "email": "info@schreinereikeller.ch",
+    "webseite": "https://www.schreinereikeller.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-AHHBarUWzwe0iZCfamFh",
+  "slug": "moesching-bau-ag-gstaad",
+  "name": "Mösching Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Fürholzstrasse 8",
+    "plz": "3780",
+    "ort": "Gstaad",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337445656",
+    "email": "info@moeschingbau.ch",
+    "webseite": "https://www.moeschingbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

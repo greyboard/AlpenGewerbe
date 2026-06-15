@@ -1,0 +1,30 @@
+{
+  "id": "ch-Q9MW5Gcq421yb8xqQ4wd",
+  "slug": "baugeschaeft-liestal",
+  "name": "Baugeschäft",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Rösern 66",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792573073",
+    "email": "info@urferbau.ch",
+    "webseite": "https://www.urferbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

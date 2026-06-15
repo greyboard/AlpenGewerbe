@@ -1,0 +1,30 @@
+{
+  "id": "ch-cxL39b31H47ofhybQ1eh",
+  "slug": "parkett-schliff-zuerich-zuerich",
+  "name": "Parkett-Schliff Zürich",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Tessinerpl. 7",
+    "plz": "8002",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41435082388",
+    "email": "max@mustermann.de",
+    "webseite": "https://www.parkett-schliff.de/zurich.html"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

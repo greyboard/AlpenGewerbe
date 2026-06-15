@@ -1,0 +1,30 @@
+{
+  "id": "ch-h86LAFmjs15fOLteUhoB",
+  "slug": "goldinger-ag-wittenbach",
+  "name": "Goldinger AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 30",
+    "plz": "9300",
+    "ort": "Wittenbach",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712980039",
+    "email": "info@goldinger-ag.ch",
+    "webseite": "https://www.goldinger-ag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

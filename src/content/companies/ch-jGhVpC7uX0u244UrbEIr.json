@@ -1,0 +1,30 @@
+{
+  "id": "ch-jGhVpC7uX0u244UrbEIr",
+  "slug": "baumann-metallbau-ag-kriens",
+  "name": "Baumann Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Wyssmattstrasse 3",
+    "plz": "6010",
+    "ort": "Kriens",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413108560",
+    "email": "office@metallbau-luzern.ch",
+    "webseite": "https://www.metallbau-luzern.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

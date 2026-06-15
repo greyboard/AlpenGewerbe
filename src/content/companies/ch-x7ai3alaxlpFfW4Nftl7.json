@@ -1,0 +1,30 @@
+{
+  "id": "ch-x7ai3alaxlpFfW4Nftl7",
+  "slug": "pletscher-metallbau-ag-beringen",
+  "name": "Pletscher Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Trasadingerstrasse 103",
+    "plz": "8222",
+    "ort": "Beringen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526874272",
+    "email": "info@pletscher-metallbau.ch",
+    "webseite": "https://pletscher-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

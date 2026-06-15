@@ -1,0 +1,30 @@
+{
+  "id": "ch-w7p38TeHYXJU7oWyFcFE",
+  "slug": "maler-wild-gmbh-schafisheim",
+  "name": "Maler Wild GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Lenzburgerstrasse 3",
+    "plz": "5503",
+    "ort": "Schafisheim",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628923177",
+    "email": "info@malerwild.ch",
+    "webseite": "https://www.malerwild-gmbh.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

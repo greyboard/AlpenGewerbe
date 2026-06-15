@@ -1,0 +1,30 @@
+{
+  "id": "ch-PxSUkjac3zyHT4Uzgp29",
+  "slug": "mine-meyer-elektro-luzern",
+  "name": "Miné Meyer Elektro",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Süesswinkel 7",
+    "plz": "6004",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414190350",
+    "email": "info@mine-meyer.ch",
+    "webseite": "https://www.mine-meyer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-OH2QYYQVZBPDp0QaYKC3",
+  "slug": "glasteam-gmbh-doettingen",
+  "name": "Glasteam GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Surbtalstrasse 7",
+    "plz": "5312",
+    "ort": "Döttingen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41562454485",
+    "email": "glasteam@bluewin.ch",
+    "webseite": "https://www.das-glasteam.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

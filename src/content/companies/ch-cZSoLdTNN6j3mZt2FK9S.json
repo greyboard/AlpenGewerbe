@@ -1,0 +1,30 @@
+{
+  "id": "ch-cZSoLdTNN6j3mZt2FK9S",
+  "slug": "rrgl-baugeschaeft-gmbh-schwanden",
+  "name": "RRGL Baugeschäft GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Thonerstrasse 44",
+    "plz": "8762",
+    "ort": "Schwanden",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795114743",
+    "email": "info@rrgl.ch",
+    "webseite": "https://rrgl.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

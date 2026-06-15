@@ -1,0 +1,30 @@
+{
+  "id": "ch-MrCQDnJUup9fMyC3pLp3",
+  "slug": "maler-maeder-gmbh-ins",
+  "name": "Maler Mäder GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Müntschemiergasse 28",
+    "plz": "3232",
+    "ort": "Ins",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793434766",
+    "email": "info@maler-maeder.ch",
+    "webseite": "https://www.maler-maeder.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-thCye7YK5jseS7OdUokG",
+  "slug": "brueesch-ag-churwalden",
+  "name": "Brüesch AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 115",
+    "plz": "7075",
+    "ort": "Churwalden",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813821655",
+    "email": "info@brueeschag.ch",
+    "webseite": "https://www.brueeschag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

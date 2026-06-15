@@ -1,0 +1,30 @@
+{
+  "id": "ch-mSVUvyuAxaHmDFr1wbVb",
+  "slug": "wickart-ag-zug",
+  "name": "Wickart AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Grabenstrasse 22",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417264020",
+    "email": "info@wickart.ch",
+    "webseite": "https://www.wickart.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

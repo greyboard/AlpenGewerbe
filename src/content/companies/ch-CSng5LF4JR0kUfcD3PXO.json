@@ -1,0 +1,30 @@
+{
+  "id": "ch-CSng5LF4JR0kUfcD3PXO",
+  "slug": "endo-sagl-bioggio",
+  "name": "ENDO Sagl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Pradello 10",
+    "plz": "6934",
+    "ort": "Bioggio",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41912110110",
+    "email": "info@endotech.ch",
+    "webseite": "https://www.endotech.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

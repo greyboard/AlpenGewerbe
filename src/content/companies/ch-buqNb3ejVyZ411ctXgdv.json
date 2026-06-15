@@ -1,0 +1,30 @@
+{
+  "id": "ch-buqNb3ejVyZ411ctXgdv",
+  "slug": "wyder-gartenbau-ag-oberentfelden",
+  "name": "Wyder Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 20",
+    "plz": "5036",
+    "ort": "Oberentfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627248480",
+    "email": "80info@wyder-gartenbau.ch",
+    "webseite": "https://wyder-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

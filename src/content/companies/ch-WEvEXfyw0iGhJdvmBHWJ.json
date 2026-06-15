@@ -1,0 +1,30 @@
+{
+  "id": "ch-WEvEXfyw0iGhJdvmBHWJ",
+  "slug": "gebr-oser-ag-nenzlingen",
+  "name": "Gebr. Oser AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Baselstrasse 6",
+    "plz": "4224",
+    "ort": "Nenzlingen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617511618",
+    "email": "info@osergipser.ch",
+    "webseite": "https://osergipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

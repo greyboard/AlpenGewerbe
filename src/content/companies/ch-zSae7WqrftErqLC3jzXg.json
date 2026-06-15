@@ -1,0 +1,29 @@
+{
+  "id": "ch-zSae7WqrftErqLC3jzXg",
+  "slug": "werner-buechel-ag-ruethi",
+  "name": "Werner Büchel AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Austrasse 20",
+    "plz": "9464",
+    "ort": "Rüthi",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717677080",
+    "email": "info@buechel.ch",
+    "webseite": "https://www.buechel.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

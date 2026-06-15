@@ -1,0 +1,30 @@
+{
+  "id": "ch-gAp397upLJOF1HbpISTq",
+  "slug": "gebr-weber-ag-ostermundigen",
+  "name": "Gebr. Weber AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Waldheimstrasse 12",
+    "plz": "3072",
+    "ort": "Ostermundigen",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319311702",
+    "email": "info@gebrweberag.ch",
+    "webseite": "https://www.gebrweberag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

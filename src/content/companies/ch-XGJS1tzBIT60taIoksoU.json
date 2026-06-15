@@ -1,0 +1,30 @@
+{
+  "id": "ch-XGJS1tzBIT60taIoksoU",
+  "slug": "tapi-shop-werner-faeh-ag-glarus",
+  "name": "Tapi-Shop Werner Fäh AG",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Burgstrasse 75",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556405110",
+    "email": "tapishop@bluewin.ch",
+    "webseite": "https://www.tapi-shop.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

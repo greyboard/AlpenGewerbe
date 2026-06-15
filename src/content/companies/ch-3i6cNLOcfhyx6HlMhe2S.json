@@ -1,0 +1,30 @@
+{
+  "id": "ch-3i6cNLOcfhyx6HlMhe2S",
+  "slug": "garten-huter-gartenbau-gartenpflege-schaffhausen",
+  "name": "Garten-Huter Gartenbau & Gartenpflege",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sommerwiesstrasse 5",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526201616",
+    "email": "info@garten-huter.ch",
+    "webseite": "https://www.garten-huter.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

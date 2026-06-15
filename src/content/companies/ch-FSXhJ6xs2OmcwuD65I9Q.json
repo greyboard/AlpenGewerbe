@@ -1,0 +1,30 @@
+{
+  "id": "ch-FSXhJ6xs2OmcwuD65I9Q",
+  "slug": "malstark-dein-maler-und-mentor-bern",
+  "name": "Malstark - Dein Maler und Mentor",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Riedbachstrasse 74",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793850725",
+    "email": "mentor@malstark.ch",
+    "webseite": "https://www.malstark.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

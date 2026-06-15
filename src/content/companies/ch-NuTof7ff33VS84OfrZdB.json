@@ -1,0 +1,30 @@
+{
+  "id": "ch-NuTof7ff33VS84OfrZdB",
+  "slug": "af-dachtechnik-ag-thusis",
+  "name": "AF Dachtechnik AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Compognastrasse 15",
+    "plz": "7430",
+    "ort": "Thusis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816334848",
+    "email": "info@af-dachtechnik.ch",
+    "webseite": "https://af-dachtechnik.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

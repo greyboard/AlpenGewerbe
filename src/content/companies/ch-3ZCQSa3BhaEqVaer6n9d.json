@@ -1,0 +1,30 @@
+{
+  "id": "ch-3ZCQSa3BhaEqVaer6n9d",
+  "slug": "unique-haustechnik-gmbh-langendorf",
+  "name": "UNIQUE Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Gartenstrasse 11",
+    "plz": "4513",
+    "ort": "Langendorf",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765662863",
+    "email": "info@unique-haustechnik.ch",
+    "webseite": "https://www.unique-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

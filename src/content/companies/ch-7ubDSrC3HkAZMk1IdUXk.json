@@ -1,0 +1,30 @@
+{
+  "id": "ch-7ubDSrC3HkAZMk1IdUXk",
+  "slug": "saniswiss-haustechnik-gmbh-luzern",
+  "name": "SaniSwiss Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte O 26",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415592199",
+    "email": "info@saniswiss-ht.ch",
+    "webseite": "https://saniswiss-ht.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

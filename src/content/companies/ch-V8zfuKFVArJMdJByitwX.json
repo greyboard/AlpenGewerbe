@@ -1,0 +1,30 @@
+{
+  "id": "ch-V8zfuKFVArJMdJByitwX",
+  "slug": "kilchoer-metallbau-gmbh-gurmels",
+  "name": "Kilchör Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Allmendstrasse 22",
+    "plz": "3212",
+    "ort": "Gurmels",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266841731",
+    "email": "info@kilchoermetallbau.ch",
+    "webseite": "https://www.kilchoermetallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

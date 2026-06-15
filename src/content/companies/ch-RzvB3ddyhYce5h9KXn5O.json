@@ -1,0 +1,30 @@
+{
+  "id": "ch-RzvB3ddyhYce5h9KXn5O",
+  "slug": "schneider-sanitaires-carouge",
+  "name": "Schneider Sanitaires",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rte de Saint-Julien 44",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41228271010",
+    "email": "info@schneider-sanitaires.ch",
+    "webseite": "https://schneider-sanitaires.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-k7gr6UEEx5eDsZpbyIPk",
+  "slug": "feglas-ag-zuerich",
+  "name": "FeGlas AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Winterthurerstrasse 463",
+    "plz": "8051",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445859777",
+    "email": "info@feglas.ch",
+    "webseite": "https://www.feglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

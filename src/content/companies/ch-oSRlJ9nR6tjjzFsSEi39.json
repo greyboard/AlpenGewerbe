@@ -1,0 +1,30 @@
+{
+  "id": "ch-oSRlJ9nR6tjjzFsSEi39",
+  "slug": "gerber-bedachungen-zuerich",
+  "name": "Gerber Bedachungen",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Opfikonstrasse 147",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41433215729",
+    "email": "info@gerber-bedachungen.ch",
+    "webseite": "https://www.gerber-bedachungen.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

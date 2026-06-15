@@ -1,0 +1,29 @@
+{
+  "id": "li-fxQvCayv3ywYOiUjFw8w",
+  "slug": "instaplan-anstalt-balzers",
+  "name": "InstaPlan Anstalt",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Egerta 15",
+    "plz": "9496",
+    "ort": "Balzers",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4233882827",
+    "email": "instaplan@instaplan.li",
+    "webseite": "https://www.instaplan.li"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

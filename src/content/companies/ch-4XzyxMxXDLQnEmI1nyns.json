@@ -1,0 +1,30 @@
+{
+  "id": "ch-4XzyxMxXDLQnEmI1nyns",
+  "slug": "del-sesto-sa-losone",
+  "name": "Del Sesto SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via Rongia 6",
+    "plz": "6616",
+    "ort": "Losone",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917919645",
+    "email": "info@delsestosa.ch",
+    "webseite": "https://www.delsestosa.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

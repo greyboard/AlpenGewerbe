@@ -1,0 +1,29 @@
+{
+  "id": "li-H9RHV7tzwuKNM7BMSQjg",
+  "slug": "etavis-elcom-ag-vaduz",
+  "name": "ETAVIS ELCOM AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Fürst-Franz-Josef-Strasse 5",
+    "plz": "9490",
+    "ort": "Vaduz",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4233400200",
+    "email": "holding.ch@vinci-energies.com",
+    "webseite": "https://www.etavis.li"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

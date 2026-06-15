@@ -1,0 +1,30 @@
+{
+  "id": "ch-GzNDmJIGE4kL7ts5muE3",
+  "slug": "ses-controlli-sagl-locarno",
+  "name": "SES Controlli Sagl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Angelo Nessi 1",
+    "plz": "6600",
+    "ort": "Locarno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41848438438",
+    "email": "sescontrolli@ses.ch",
+    "webseite": "https://www.sescontrolli.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

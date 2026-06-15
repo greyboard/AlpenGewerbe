@@ -1,0 +1,30 @@
+{
+  "id": "ch-VcGsYqIzPLd68WDjzLTV",
+  "slug": "dg-haustechnik-gmbh-unterentfelden",
+  "name": "DG Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Kirchweg 14",
+    "plz": "5035",
+    "ort": "Unterentfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763405035",
+    "email": "info@dghaustechnik.ch",
+    "webseite": "https://www.dghaustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

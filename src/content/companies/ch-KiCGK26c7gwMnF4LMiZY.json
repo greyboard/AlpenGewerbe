@@ -1,0 +1,30 @@
+{
+  "id": "ch-KiCGK26c7gwMnF4LMiZY",
+  "slug": "juerg-marti-kundenmaurer-liestal",
+  "name": "Jürg Marti, Kundenmaurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Widmannstrasse 25",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619222134",
+    "email": "juerg@marti-kundenmaurer.ch",
+    "webseite": "https://www.marti-kundenmaurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

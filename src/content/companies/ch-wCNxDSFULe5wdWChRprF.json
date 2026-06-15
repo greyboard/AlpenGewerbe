@@ -1,0 +1,30 @@
+{
+  "id": "ch-wCNxDSFULe5wdWChRprF",
+  "slug": "schmid-hutter-ag-heizung-lueftung-klima-kaelte-schaffhausen",
+  "name": "Schmid Hutter AG- Heizung Lüftung Klima Kälte",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Mühlentalstrasse 278",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526872200",
+    "email": "info@schmid-hutter.swiss",
+    "webseite": "https://www.schmid-hutter.swiss"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

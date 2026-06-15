@@ -1,0 +1,30 @@
+{
+  "id": "ch-MEU4eZLvSFIOeodCAyi8",
+  "slug": "bahnsen-gartengestalter-gmbh-chur",
+  "name": "Bahnsen Gartengestalter GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kornquaderweg 25",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813538357",
+    "email": "kontakt@bahnsen.ch",
+    "webseite": "https://bahnsen.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

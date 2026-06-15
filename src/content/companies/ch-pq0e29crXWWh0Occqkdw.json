@@ -1,0 +1,30 @@
+{
+  "id": "ch-pq0e29crXWWh0Occqkdw",
+  "slug": "laube-sa-losone",
+  "name": "Laube SA",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Via ai Molini 2",
+    "plz": "6616",
+    "ort": "Losone",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917912955",
+    "email": "info@laube-sa.ch",
+    "webseite": "https://www.laube-sa.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

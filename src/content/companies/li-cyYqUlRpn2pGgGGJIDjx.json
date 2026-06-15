@@ -1,0 +1,29 @@
+{
+  "id": "li-cyYqUlRpn2pGgGGJIDjx",
+  "slug": "kurt-schneider-anstalt-schaan",
+  "name": "Kurt Schneider Anstalt",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Im alten Riet 121",
+    "plz": "9494",
+    "ort": "Schaan",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232320163",
+    "email": "info@kurtschneider.li",
+    "webseite": "https://www.kurtschneider.li"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

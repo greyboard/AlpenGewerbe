@@ -1,0 +1,30 @@
+{
+  "id": "ch-sHkPHYJOvjE4iLqpV1zE",
+  "slug": "sts-elektro-ag-kriens",
+  "name": "STS Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ringstrasse 27",
+    "plz": "6010",
+    "ort": "Kriens",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413298282",
+    "email": "info@stselektro.ch",
+    "webseite": "https://www.stselektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

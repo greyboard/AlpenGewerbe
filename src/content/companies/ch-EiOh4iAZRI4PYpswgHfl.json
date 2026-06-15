@@ -1,0 +1,30 @@
+{
+  "id": "ch-EiOh4iAZRI4PYpswgHfl",
+  "slug": "installer-michel-weber-solothurn",
+  "name": "Installer Michel & Weber",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Engestrasse 29",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326229239",
+    "email": "info@michel-weber.ch",
+    "webseite": "https://www.michel-weber.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

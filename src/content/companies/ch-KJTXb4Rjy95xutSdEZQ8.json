@@ -1,0 +1,30 @@
+{
+  "id": "ch-KJTXb4Rjy95xutSdEZQ8",
+  "slug": "elektro-schuler-ag-stansstad",
+  "name": "Elektro Schuler AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Zug 1",
+    "plz": "6362",
+    "ort": "Stansstad",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416120633",
+    "email": "elektro.schuler@bluewin.ch",
+    "webseite": "https://www.elektro-schuler.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

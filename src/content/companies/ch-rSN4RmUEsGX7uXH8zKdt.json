@@ -1,0 +1,30 @@
+{
+  "id": "ch-rSN4RmUEsGX7uXH8zKdt",
+  "slug": "glastechnik-moncada-wohlen",
+  "name": "Glastechnik Moncada",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Zentralstrasse 7",
+    "plz": "5610",
+    "ort": "Wohlen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799460931",
+    "email": "info@glastechnik-moncada.ch",
+    "webseite": "https://www.glastechnik-moncada.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

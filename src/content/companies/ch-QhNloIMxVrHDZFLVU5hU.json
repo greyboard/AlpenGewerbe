@@ -1,0 +1,30 @@
+{
+  "id": "ch-QhNloIMxVrHDZFLVU5hU",
+  "slug": "boss-metal-satigny",
+  "name": "Boss métal",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rue du Pré-de-la-Fontaine 13",
+    "plz": "1242",
+    "ort": "Satigny",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797133130",
+    "email": "anthony@bossmetal.ch",
+    "webseite": "https://bossmetal.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-M7IQbatIjmqJuCkhLP1Q",
+  "slug": "blaser-schreinerei-glaserei-ibach",
+  "name": "Blaser Schreinerei & Glaserei",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 107",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418114748",
+    "email": "blaser.erwin@bluewin.ch",
+    "webseite": "https://blaser-schreinerei-glaserei.digitalone.site"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

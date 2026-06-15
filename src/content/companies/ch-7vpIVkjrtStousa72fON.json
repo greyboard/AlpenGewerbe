@@ -1,0 +1,30 @@
+{
+  "id": "ch-7vpIVkjrtStousa72fON",
+  "slug": "compagnie-du-verre-geneve",
+  "name": "Compagnie du Verre",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rue de la Synagogue 30",
+    "plz": "1204",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223296692",
+    "email": "info@compagnieduverre.ch",
+    "webseite": "https://www.compagnieduverre.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

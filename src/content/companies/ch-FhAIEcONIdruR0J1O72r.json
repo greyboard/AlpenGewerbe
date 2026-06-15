@@ -1,0 +1,30 @@
+{
+  "id": "ch-FhAIEcONIdruR0J1O72r",
+  "slug": "s-a-elektro-gmbh-zuerich",
+  "name": "S & A Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Winterthurerstrasse 457",
+    "plz": "8051",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41448502424",
+    "email": "info@sa-elektro.ch",
+    "webseite": "https://www.sa-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

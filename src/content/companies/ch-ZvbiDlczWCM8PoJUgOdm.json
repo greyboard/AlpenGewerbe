@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZvbiDlczWCM8PoJUgOdm",
+  "slug": "abt-holzbau-ag-baar",
+  "name": "Abt Holzbau AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Bachweid 1",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417670160",
+    "email": "ch@gla-united.com",
+    "webseite": "https://www.abt-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-RwY541tXR7spNRoIGH2z",
+  "slug": "gartenkultur-ag-bern",
+  "name": "Gartenkultur AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kanalweg 8",
+    "plz": "3322",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319184350",
+    "email": "info@gartenkultur.swiss",
+    "webseite": "https://www.gartenkultur.swiss"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

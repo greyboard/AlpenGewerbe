@@ -1,0 +1,30 @@
+{
+  "id": "ch-LfZq1hUbs79Qg17ChsNG",
+  "slug": "rehag-glas-gmbh-bern",
+  "name": "Rehag Glas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Jurastrasse 27A",
+    "plz": "3013",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793219102",
+    "email": "info@rehag-glas.ch",
+    "webseite": "https://www.rehag-glas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

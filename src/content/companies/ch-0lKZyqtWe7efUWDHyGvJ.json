@@ -1,0 +1,30 @@
+{
+  "id": "ch-0lKZyqtWe7efUWDHyGvJ",
+  "slug": "monn-kundenmaurer-zuerich",
+  "name": "MONN KUNDENMAURER",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wasserwerkstrasse 94",
+    "plz": "8037",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765246333",
+    "email": "m.kundenmaurer@hotmail.com",
+    "webseite": "https://www.monn-kundenmaurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

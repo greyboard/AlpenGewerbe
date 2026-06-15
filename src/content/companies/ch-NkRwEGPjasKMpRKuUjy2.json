@@ -1,0 +1,30 @@
+{
+  "id": "ch-NkRwEGPjasKMpRKuUjy2",
+  "slug": "gygax-gartenbau-horw-horw",
+  "name": "Gygax Gartenbau Horw",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Winkelhalde 3",
+    "plz": "6048",
+    "ort": "Horw",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413402626",
+    "email": "edith@gygaxgartenbau.ch",
+    "webseite": "https://www.gygaxgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

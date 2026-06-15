@@ -1,0 +1,30 @@
+{
+  "id": "ch-sVX2jkkAOTUXE4EqCJrS",
+  "slug": "maler-gipser-beat-roth-grenchen",
+  "name": "Maler Gipser Beat Roth",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Lebernstrasse 2A",
+    "plz": "2540",
+    "ort": "Grenchen",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796468001",
+    "email": "gipsen-malen@bluewin.ch",
+    "webseite": "https://beatroth.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

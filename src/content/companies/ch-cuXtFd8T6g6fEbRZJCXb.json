@@ -1,0 +1,30 @@
+{
+  "id": "ch-cuXtFd8T6g6fEbRZJCXb",
+  "slug": "strueby-holzbau-ag-seewen",
+  "name": "Strüby Holzbau AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Steinbislin 2",
+    "plz": "6423",
+    "ort": "Seewen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418183570",
+    "email": "info@strueby.ch",
+    "webseite": "https://www.strueby.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

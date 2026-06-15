@@ -1,0 +1,30 @@
+{
+  "id": "ch-X6LlxIrK8a49mdiyluEy",
+  "slug": "elektro-stetten-ag-stetten",
+  "name": "Elektro Stetten AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Im Stetterfeld 2",
+    "plz": "5608",
+    "ort": "Stetten",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564961744",
+    "email": "info@elektro-stetten.ch",
+    "webseite": "https://www.elektro-stetten.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

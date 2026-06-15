@@ -1,0 +1,30 @@
+{
+  "id": "ch-DoU1NZ4WxDxl8fz1L8g2",
+  "slug": "elexons-gebertingen",
+  "name": "Elexons",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Alpenblickstrasse 2",
+    "plz": "8725",
+    "ort": "Gebertingen",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799109999",
+    "email": "info@elexons.com",
+    "webseite": "https://elexons.com"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-c1T8729TP90OM2j1646T",
+  "slug": "gartenbau-rigi-gmbh-goldau",
+  "name": "Gartenbau Rigi GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sonneggstrasse 18",
+    "plz": "6410",
+    "ort": "Goldau",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799252233",
+    "email": "info@gartenbau-rigi.ch",
+    "webseite": "https://gartenbau-rigi.ch/kontakt"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

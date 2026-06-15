@@ -1,0 +1,30 @@
+{
+  "id": "ch-DmPnHFzO1AmhhR0WcNye",
+  "slug": "roth-urs-co-ag-bern",
+  "name": "Roth Urs + Co AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Seftigenstrasse 41",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313728844",
+    "email": "info@ursrothcoag.ch",
+    "webseite": "https://www.ursrothcoag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

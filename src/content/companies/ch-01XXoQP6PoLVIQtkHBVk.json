@@ -1,0 +1,30 @@
+{
+  "id": "ch-01XXoQP6PoLVIQtkHBVk",
+  "slug": "tophinke-elektro-kontroll-ag-aarau-aarau",
+  "name": "Tophinke Elektro-Kontroll AG - Aarau",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rohrerstrasse 33",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41419140014",
+    "email": "contact@tophinke.ch",
+    "webseite": "https://www.tophinke.ch/dienstleistungen/elektrokontrolle"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

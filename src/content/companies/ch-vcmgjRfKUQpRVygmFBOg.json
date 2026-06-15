@@ -1,0 +1,30 @@
+{
+  "id": "ch-vcmgjRfKUQpRVygmFBOg",
+  "slug": "bbs-ag-bodenbelag-service-pratteln",
+  "name": "BBS AG Bodenbelag Service",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 12",
+    "plz": "4133",
+    "ort": "Pratteln",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618212235",
+    "email": "info@bbs-ag.ch",
+    "webseite": "https://www.bbs-ag.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

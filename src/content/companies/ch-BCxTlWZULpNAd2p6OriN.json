@@ -1,0 +1,30 @@
+{
+  "id": "ch-BCxTlWZULpNAd2p6OriN",
+  "slug": "schaad-ag-luterbach-luterbach",
+  "name": "Schaad AG Luterbach",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 17",
+    "plz": "4542",
+    "ort": "Luterbach",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41325523636",
+    "email": "info@schaad-ag.ch",
+    "webseite": "https://www.schaad-ag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

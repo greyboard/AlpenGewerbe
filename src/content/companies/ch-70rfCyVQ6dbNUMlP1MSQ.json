@@ -1,0 +1,30 @@
+{
+  "id": "ch-70rfCyVQ6dbNUMlP1MSQ",
+  "slug": "city-maler-gmbh-luzern",
+  "name": "City Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 10",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799267991",
+    "email": "info@citymaler.ch",
+    "webseite": "https://www.citymaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

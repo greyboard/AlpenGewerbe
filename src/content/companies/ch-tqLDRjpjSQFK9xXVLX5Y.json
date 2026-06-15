@@ -1,0 +1,30 @@
+{
+  "id": "ch-tqLDRjpjSQFK9xXVLX5Y",
+  "slug": "steiner-feuerungen-energietechnik-gmbh-bern",
+  "name": "Steiner Feuerungen + Energietechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Fabrikstrasse 11",
+    "plz": "3012",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319614142",
+    "email": "mail@steiner-feuerungen.ch",
+    "webseite": "https://www.steiner-feuerungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

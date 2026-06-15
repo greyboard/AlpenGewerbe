@@ -1,0 +1,30 @@
+{
+  "id": "ch-KZODiX84viUEtp5Q64Ig",
+  "slug": "amstutz-gartenbau-ag-emmen",
+  "name": "Amstutz Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Neuhasli 2",
+    "plz": "6032",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412686010",
+    "email": "info@amstutzgartenbau.ch",
+    "webseite": "https://amstutzgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

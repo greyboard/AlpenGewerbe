@@ -1,0 +1,30 @@
+{
+  "id": "ch-p6Xdx5IwiUHxI5pZnY2o",
+  "slug": "iq-heizungen-gmbh-frauenfeld",
+  "name": "IQ Heizungen GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 13",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41525345416",
+    "email": "info@iq-heizungen.ch",
+    "webseite": "https://www.iq-heizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

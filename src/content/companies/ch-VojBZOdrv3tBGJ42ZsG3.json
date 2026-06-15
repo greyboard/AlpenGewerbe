@@ -1,0 +1,30 @@
+{
+  "id": "ch-VojBZOdrv3tBGJ42ZsG3",
+  "slug": "rueedi-dach-ag-zuerich",
+  "name": "rüedi dach ag",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Grubenstrasse 39",
+    "plz": "8045",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444637232",
+    "email": "info@ruedi-dach.ch",
+    "webseite": "https://www.ruedi-dach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

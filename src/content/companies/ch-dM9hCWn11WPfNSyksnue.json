@@ -1,0 +1,30 @@
+{
+  "id": "ch-dM9hCWn11WPfNSyksnue",
+  "slug": "pretot-sa-le-locle",
+  "name": "Prétôt SA",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "La Claire 8",
+    "plz": "2400",
+    "ort": "Le Locle",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41329313661",
+    "email": "info@pretotsa.ch",
+    "webseite": "https://www.pretot-sa.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

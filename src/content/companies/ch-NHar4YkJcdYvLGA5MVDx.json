@@ -1,0 +1,30 @@
+{
+  "id": "ch-NHar4YkJcdYvLGA5MVDx",
+  "slug": "zimmermania-bern",
+  "name": "Zimmermania",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Brunngasse 19",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313111542",
+    "email": "info@zimmermania.ch",
+    "webseite": "https://zimmermania.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

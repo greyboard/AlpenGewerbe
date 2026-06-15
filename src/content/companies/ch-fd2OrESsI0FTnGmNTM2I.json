@@ -1,0 +1,30 @@
+{
+  "id": "ch-fd2OrESsI0FTnGmNTM2I",
+  "slug": "winkelmann-elektro-ag-kerzers",
+  "name": "Winkelmann Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Vordere G. 16",
+    "plz": "3210",
+    "ort": "Kerzers",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317558414",
+    "email": "info@winkelmann-elektro.ch",
+    "webseite": "https://www.winkelmann-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

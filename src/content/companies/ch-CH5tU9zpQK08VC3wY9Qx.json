@@ -1,0 +1,30 @@
+{
+  "id": "ch-CH5tU9zpQK08VC3wY9Qx",
+  "slug": "hsb-heating-systems-and-burner-ag-reinach",
+  "name": "HSB heating systems and burner AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Bruggstrasse 19",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617169696",
+    "email": "info@hsb.ch",
+    "webseite": "https://www.hsb.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

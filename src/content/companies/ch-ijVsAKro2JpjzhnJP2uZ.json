@@ -1,0 +1,30 @@
+{
+  "id": "ch-ijVsAKro2JpjzhnJP2uZ",
+  "slug": "spack-gartenbau-kerzers",
+  "name": "Spack Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Fräschelsgasse 12",
+    "plz": "3210",
+    "ort": "Kerzers",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317556180",
+    "email": "info@spack-gartenbau.ch",
+    "webseite": "https://www.spack-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-nPen7dqrQttLXTt45QMo",
+  "slug": "menuiserie-jobo-sa-carouge",
+  "name": "Menuiserie Jobo SA",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rue François-Meunier 7",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223018622",
+    "email": "menuiserie-jobo@bluewin.ch",
+    "webseite": "https://www.menuiserie-jobo.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

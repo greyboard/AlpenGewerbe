@@ -1,0 +1,30 @@
+{
+  "id": "ch-hVDMraJ1g6GqBrVjtZlq",
+  "slug": "compagnoni-ag-baar",
+  "name": "Compagnoni AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 5",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417610809",
+    "email": "info@compagnoniag.ch",
+    "webseite": "https://www.compagnoniag.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

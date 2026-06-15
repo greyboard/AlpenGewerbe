@@ -1,0 +1,30 @@
+{
+  "id": "ch-rxQ7V9fyfc6fIoOAucsP",
+  "slug": "schreinerei-grunder-gmbh-radelfingen",
+  "name": "Schreinerei Grunder GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 13",
+    "plz": "3271",
+    "ort": "Radelfingen",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793174283",
+    "email": "schreinerei@schreinerei-grunder.ch",
+    "webseite": "https://www.schreinerei-grunder.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

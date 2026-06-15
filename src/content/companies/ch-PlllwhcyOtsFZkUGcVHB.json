@@ -1,0 +1,30 @@
+{
+  "id": "ch-PlllwhcyOtsFZkUGcVHB",
+  "slug": "gisler-service-gmbh-hauswartung-gebaeudeunterhalt-altdorf",
+  "name": "Gisler Service GmbH Hauswartung & Gebäudeunterhalt",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Flüelerstrasse 134",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418114000",
+    "email": "info@gislerservice.ch",
+    "webseite": "https://www.gislerservice.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

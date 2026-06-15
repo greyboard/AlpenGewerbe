@@ -1,0 +1,30 @@
+{
+  "id": "ch-yIayFVfPMYvB4yAC9iDn",
+  "slug": "anton-bachmann-ag-rotkreuz",
+  "name": "Anton Bachmann AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Buonaserstrasse 32",
+    "plz": "6343",
+    "ort": "Rotkreuz",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417983030",
+    "email": "info@bytelink.ch",
+    "webseite": "https://www.abachmannag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

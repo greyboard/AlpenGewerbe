@@ -1,0 +1,30 @@
+{
+  "id": "ch-fgORr9LVYDcbEjGueQL5",
+  "slug": "flimser-schreinerei-gmbh-flims",
+  "name": "Flimser Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Via Stenna 2",
+    "plz": "7017",
+    "ort": "Flims",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41819367736",
+    "email": "info@flimserschreinerei.ch",
+    "webseite": "https://flimserschreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

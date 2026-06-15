@@ -1,0 +1,30 @@
+{
+  "id": "ch-VQIVPil8dTh6LbPvZ21Z",
+  "slug": "bernath-elektro-ag-schaffhausen",
+  "name": "Bernath Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Winkelriedstrasse 32",
+    "plz": "8203",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526255066",
+    "email": "info@bernath-elektro.ch",
+    "webseite": "https://www.bernath-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

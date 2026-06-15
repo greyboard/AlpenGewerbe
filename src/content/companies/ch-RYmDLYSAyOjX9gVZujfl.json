@@ -1,0 +1,30 @@
+{
+  "id": "ch-RYmDLYSAyOjX9gVZujfl",
+  "slug": "gipser-handwerk-lozaern-malters",
+  "name": "Gipser Handwerk Lozärn",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Im Feld 7",
+    "plz": "6102",
+    "ort": "Malters",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414970303",
+    "email": "info@gipserhandwerk-lozaern.ch",
+    "webseite": "https://www.gipserhandwerk-lozaern.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

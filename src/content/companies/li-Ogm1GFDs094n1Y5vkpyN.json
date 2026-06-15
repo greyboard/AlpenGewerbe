@@ -1,0 +1,29 @@
+{
+  "id": "li-Ogm1GFDs094n1Y5vkpyN",
+  "slug": "malergeschaeft-buechel-triesen",
+  "name": "Malergeschäft Büchel",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Oberfeld 55",
+    "plz": "9495",
+    "ort": "Triesen",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4233923508",
+    "email": "info@maler-buechel.li",
+    "webseite": "https://www.maler-buechel.li"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

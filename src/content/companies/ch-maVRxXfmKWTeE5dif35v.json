@@ -1,0 +1,30 @@
+{
+  "id": "ch-maVRxXfmKWTeE5dif35v",
+  "slug": "kundenmaurer-epp-jauch-gmbh-erstfeld",
+  "name": "Kundenmaurer Epp/Jauch GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Reussstrasse 18",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797567018",
+    "email": "info@kundenmaurergmbh.ch",
+    "webseite": "https://www.kundenmaurergmbh.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

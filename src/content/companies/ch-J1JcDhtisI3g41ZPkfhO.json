@@ -1,0 +1,30 @@
+{
+  "id": "ch-J1JcDhtisI3g41ZPkfhO",
+  "slug": "marti-ag-bauunternehmung-zuerich",
+  "name": "Marti AG, Bauunternehmung",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Thurgauerstrasse 68",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443085737",
+    "email": "info@marti-zuerich.ch",
+    "webseite": "https://www.marti-zuerich.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-awvSRbcZ16pHCj0fvw5e",
+  "slug": "huber-gipserei-ag-muri",
+  "name": "Huber Gipserei AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Vorderweystrasse 17",
+    "plz": "5630",
+    "ort": "Muri",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41566641380",
+    "email": "info@gipserhuber.ch",
+    "webseite": "https://www.gipserhuber.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

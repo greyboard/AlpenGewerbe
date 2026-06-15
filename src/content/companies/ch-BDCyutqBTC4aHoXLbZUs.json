@@ -1,0 +1,30 @@
+{
+  "id": "ch-BDCyutqBTC4aHoXLbZUs",
+  "slug": "elektro23-gmbh-i-elektroinstallationen-i-elektroservice-neuhausen-am-rheinfall",
+  "name": "Elektro23 GmbH I Elektroinstallationen I Elektroservice",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Badstrasse 21",
+    "plz": "8212",
+    "ort": "Neuhausen am Rheinfall",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527702323",
+    "email": "info@elektro23.ch",
+    "webseite": "https://www.elektro23.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

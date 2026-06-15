@@ -1,0 +1,30 @@
+{
+  "id": "ch-0d4fAGGaGD1DGj52NrA6",
+  "slug": "oz-metallbau-ag-buochs",
+  "name": "OZ-Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Flurhofstrasse 19",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416220040",
+    "email": "mail@oz-metallbau.ch",
+    "webseite": "https://www.oz-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

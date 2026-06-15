@@ -1,0 +1,30 @@
+{
+  "id": "ch-XQQthuGMerQwhuQyQ6yV",
+  "slug": "igl-gartenbau-ag-bern",
+  "name": "IGL Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Stauffacherstrasse 130G",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313015005",
+    "email": "igl@bluewin.ch",
+    "webseite": "https://www.igl-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

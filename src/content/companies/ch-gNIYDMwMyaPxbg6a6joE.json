@@ -1,0 +1,30 @@
+{
+  "id": "ch-gNIYDMwMyaPxbg6a6joE",
+  "slug": "marthy-ag-leuggelbach",
+  "name": "Marthy AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Marthy",
+    "plz": "8774",
+    "ort": "Leuggelbach",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556442184",
+    "email": "info@marthy-haustechnik.ch",
+    "webseite": "https://www.marthy-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

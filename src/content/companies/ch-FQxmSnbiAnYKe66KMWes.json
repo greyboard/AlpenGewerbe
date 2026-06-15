@@ -1,0 +1,30 @@
+{
+  "id": "ch-FQxmSnbiAnYKe66KMWes",
+  "slug": "bauprofis-akkordmaurer-gmbh-reinach",
+  "name": "Bauprofis Akkordmaurer Gmbh",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Färberstrasse 18",
+    "plz": "5734",
+    "ort": "Reinach",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792025553",
+    "email": "info@bauprofis-reinach.ch",
+    "webseite": "https://www.bauprofis-reinach.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

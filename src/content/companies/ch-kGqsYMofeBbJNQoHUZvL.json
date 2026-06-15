@@ -1,0 +1,30 @@
+{
+  "id": "ch-kGqsYMofeBbJNQoHUZvL",
+  "slug": "maler-tiptoptobi-rupperswil",
+  "name": "Maler TipTopTobi",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Aarauerstrasse 21",
+    "plz": "5102",
+    "ort": "Rupperswil",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797223033",
+    "email": "maler@tiptoptobi.ch",
+    "webseite": "https://tiptoptobi.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

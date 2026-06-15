@@ -1,0 +1,30 @@
+{
+  "id": "ch-Fw3C979IBFzk0jf8e0aa",
+  "slug": "maurer-treuhand-zuerich",
+  "name": "Maurer Treuhand",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Goethestrasse 12/3. Stock",
+    "plz": "8001",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442064746",
+    "email": "willkommen@maurer-treuhand.ch",
+    "webseite": "https://www.maurer-treuhand.ch/kontakt"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

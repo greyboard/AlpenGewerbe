@@ -1,0 +1,30 @@
+{
+  "id": "ch-w6kb4KnndwtDAhiFKnqW",
+  "slug": "les-metalliers-concept-sa-cressier",
+  "name": "Les Métalliers Concept SA",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Chem. des Devins 30",
+    "plz": "2088",
+    "ort": "Cressier",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41327587590",
+    "email": "administration@lesmetalliers.ch",
+    "webseite": "https://lesmetalliers.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

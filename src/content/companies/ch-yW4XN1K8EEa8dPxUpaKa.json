@@ -1,0 +1,30 @@
+{
+  "id": "ch-yW4XN1K8EEa8dPxUpaKa",
+  "slug": "gasser-electric-contractor-ltd-ibach",
+  "name": "Gasser Electric Contractor Ltd.",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Dammstrasse 10",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418183030",
+    "email": "info@gasser-elektro.ch",
+    "webseite": "https://www.gasser-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

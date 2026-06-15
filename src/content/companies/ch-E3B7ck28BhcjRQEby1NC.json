@@ -1,0 +1,30 @@
+{
+  "id": "ch-E3B7ck28BhcjRQEby1NC",
+  "slug": "goldenbohm-ag-zuerich",
+  "name": "Goldenbohm AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Werkgasse 5",
+    "plz": "8008",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442616644",
+    "email": "hola@jamon.digital",
+    "webseite": "https://www.goldenbohm.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

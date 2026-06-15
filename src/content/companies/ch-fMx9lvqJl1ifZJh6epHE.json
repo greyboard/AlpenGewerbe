@@ -1,0 +1,30 @@
+{
+  "id": "ch-fMx9lvqJl1ifZJh6epHE",
+  "slug": "gamal-lungern",
+  "name": "Gamal",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Eistrasse 4",
+    "plz": "6078",
+    "ort": "Lungern",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416781105",
+    "email": "info@gamal.ch",
+    "webseite": "https://www.gamal.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

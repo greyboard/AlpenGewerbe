@@ -1,0 +1,30 @@
+{
+  "id": "ch-CwNMd06pZy8FEXzWBxty",
+  "slug": "mueller-die-fachschreinerei-ag-sarnen",
+  "name": "Müller Die Fachschreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Pilatusstrasse 16",
+    "plz": "6060",
+    "ort": "Sarnen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416602373",
+    "email": "tschifeler@bluewin.ch",
+    "webseite": "https://www.fachschreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

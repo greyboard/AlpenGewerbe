@@ -1,0 +1,30 @@
+{
+  "id": "ch-dbxpb8gqIXWolSXVHqyA",
+  "slug": "sky-dach-ag-erlen",
+  "name": "SKY DACH AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 2",
+    "plz": "8586",
+    "ort": "Erlen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716460106",
+    "email": "info@skydach.ch",
+    "webseite": "https://skydach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

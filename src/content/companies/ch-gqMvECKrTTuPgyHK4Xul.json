@@ -1,0 +1,30 @@
+{
+  "id": "ch-gqMvECKrTTuPgyHK4Xul",
+  "slug": "kundenmaurer-weisskopf-ormalingen",
+  "name": "Kundenmaurer Weisskopf",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Sonnenweg 18",
+    "plz": "4466",
+    "ort": "Ormalingen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792563335",
+    "email": "d.weisskopf@bluewin.ch",
+    "webseite": "https://kundenmaurer-weisskopf.digitalone.site"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

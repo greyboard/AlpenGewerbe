@@ -1,0 +1,30 @@
+{
+  "id": "ch-WcivXhJw2pHB3CHH4lBh",
+  "slug": "truempi-ag-bauunternehmung-mitloedi",
+  "name": "Trümpi AG, Bauunternehmung",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Fabrikstrasse 3",
+    "plz": "8756",
+    "ort": "Mitlödi",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556474020",
+    "email": "e-mail@truempi-ag.ch",
+    "webseite": "https://www.truempi-ag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

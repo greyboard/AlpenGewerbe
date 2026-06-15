@@ -1,0 +1,30 @@
+{
+  "id": "ch-0UiaemTWEZrMeAAl9GG5",
+  "slug": "muff-garten-gmbh-bau-pflege-merlischachen",
+  "name": "MUFF GARTEN GmbH Bau & Pflege",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Husmattweg 21",
+    "plz": "6402",
+    "ort": "Merlischachen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795802002",
+    "email": "dario@muffgarten.ch",
+    "webseite": "https://www.muffgarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

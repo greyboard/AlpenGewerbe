@@ -1,0 +1,30 @@
+{
+  "id": "ch-Tgq4xdaeA77VqNkgl2Qr",
+  "slug": "haeberli-malerei-st-gallen",
+  "name": "Häberli Malerei",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Zürcherstrasse 215",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765011196",
+    "email": "anfragen@haeberli-malerei.ch",
+    "webseite": "https://www.häberli-malerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

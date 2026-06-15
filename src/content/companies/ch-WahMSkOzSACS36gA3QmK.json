@@ -1,0 +1,30 @@
+{
+  "id": "ch-WahMSkOzSACS36gA3QmK",
+  "slug": "rrs-gmbh-ruschein",
+  "name": "RRS gmbh",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Via Davos 8c",
+    "plz": "7154",
+    "ort": "Ruschein",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763971800",
+    "email": "info@rrs-gmbh.ch",
+    "webseite": "https://www.rrs-gmbh.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

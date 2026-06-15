@@ -1,0 +1,30 @@
+{
+  "id": "ch-KSiSxtdwQKllxRZD0wtu",
+  "slug": "etter-waermetechnik-ag-morat",
+  "name": "Etter Wärmetechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Chem. Fin du Mossard 73",
+    "plz": "3280",
+    "ort": "Morat",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266703377",
+    "email": "info@etter-hs.ch",
+    "webseite": "https://www.etter-hs.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

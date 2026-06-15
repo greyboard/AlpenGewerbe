@@ -1,0 +1,30 @@
+{
+  "id": "ch-RBrAHZzo3Fi8G3yASm9l",
+  "slug": "a-kathriner-gmbh-stalden",
+  "name": "A. Kathriner GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Schwanderstrasse 28",
+    "plz": "6063",
+    "ort": "Stalden",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794002751",
+    "email": "ak@ak-dach.ch",
+    "webseite": "https://www.ak-dach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

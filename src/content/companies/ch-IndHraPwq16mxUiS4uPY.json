@@ -1,0 +1,30 @@
+{
+  "id": "ch-IndHraPwq16mxUiS4uPY",
+  "slug": "elektro-horat-ag-seewen",
+  "name": "Elektro Horat AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 202",
+    "plz": "6423",
+    "ort": "Seewen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418112752",
+    "email": "info@elektro-horat.ch",
+    "webseite": "https://www.elektro-horat.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

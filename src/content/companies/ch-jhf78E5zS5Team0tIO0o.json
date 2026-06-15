@@ -1,0 +1,30 @@
+{
+  "id": "ch-jhf78E5zS5Team0tIO0o",
+  "slug": "gipser-ortiz-gmbh-schaffhausen",
+  "name": "Gipser Ortiz GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Grubenstrasse 4",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526200570",
+    "email": "n.ortiz-g@bluewin.ch",
+    "webseite": "https://www.gipser-ortiz.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

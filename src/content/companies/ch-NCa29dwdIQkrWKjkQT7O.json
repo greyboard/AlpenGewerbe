@@ -1,0 +1,30 @@
+{
+  "id": "ch-NCa29dwdIQkrWKjkQT7O",
+  "slug": "electricite-progin-sa-corminboeuf",
+  "name": "Électricité Progin SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte du Pâqui 4",
+    "plz": "1720",
+    "ort": "Corminboeuf",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264661866",
+    "email": "info@proginelectricite.ch",
+    "webseite": "https://www.proginelectricite.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

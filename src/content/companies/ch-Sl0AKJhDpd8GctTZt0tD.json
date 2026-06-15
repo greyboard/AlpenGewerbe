@@ -1,0 +1,30 @@
+{
+  "id": "ch-Sl0AKJhDpd8GctTZt0tD",
+  "slug": "ruedi-rueegg-ag-st-gallen",
+  "name": "Ruedi Rüegg AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Espentobelstrasse 12",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712447111",
+    "email": "dachrueegg@bluewin.ch",
+    "webseite": "https://www.dachrüegg.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-obhkpYYSnBT4dF6AVNUI",
+  "slug": "peter-pichler-ag-stans",
+  "name": "Peter Pichler AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Spichermatt 30",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416701212",
+    "email": "info@pichler-ag.ch",
+    "webseite": "https://www.pichler-ag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

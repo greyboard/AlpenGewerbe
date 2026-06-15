@@ -1,0 +1,30 @@
+{
+  "id": "ch-8q8TQGNmHacFu0ZjSzC5",
+  "slug": "marechaux-elektro-cham-elektriker-zug-cham",
+  "name": "Maréchaux Elektro Cham - Elektriker Zug",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 10",
+    "plz": "6330",
+    "ort": "Cham",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417431515",
+    "email": "cham@marechaux.ch",
+    "webseite": "https://www.marechaux-cham.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

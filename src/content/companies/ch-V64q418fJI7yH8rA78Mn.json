@@ -1,0 +1,30 @@
+{
+  "id": "ch-V64q418fJI7yH8rA78Mn",
+  "slug": "etlux-sagl-bellinzona",
+  "name": "ETLUX Sagl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via dei Gaggini 3",
+    "plz": "6500",
+    "ort": "Bellinzona",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41918257421",
+    "email": "info@etlux.ch",
+    "webseite": "https://www.etlux.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

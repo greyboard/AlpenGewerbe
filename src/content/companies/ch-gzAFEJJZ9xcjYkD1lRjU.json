@@ -1,0 +1,30 @@
+{
+  "id": "ch-gzAFEJJZ9xcjYkD1lRjU",
+  "slug": "elektro-hugelshofer-ag-rupperswil",
+  "name": "Elektro Hugelshofer AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Metzgergasse 9",
+    "plz": "5102",
+    "ort": "Rupperswil",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628971760",
+    "email": "info@elektro-hugelshofer.ch",
+    "webseite": "https://www.elektro-hugelshofer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

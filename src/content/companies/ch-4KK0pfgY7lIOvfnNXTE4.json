@@ -1,0 +1,30 @@
+{
+  "id": "ch-4KK0pfgY7lIOvfnNXTE4",
+  "slug": "kurt-f-oetterli-ag-schaffhausen",
+  "name": "Kurt F. Oetterli AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hohlenbaumstrasse 107",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526244260",
+    "email": "info@kfo-elektro.ch",
+    "webseite": "https://kfo-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

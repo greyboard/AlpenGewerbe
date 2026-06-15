@@ -1,0 +1,30 @@
+{
+  "id": "ch-BUIaDIfVavFT0HsiqXOv",
+  "slug": "artizy-geneve",
+  "name": "Artizy",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rte du Bois-des-Frères 36",
+    "plz": "1219",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41228409999",
+    "email": "info@artizy.ch",
+    "webseite": "https://artizy.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

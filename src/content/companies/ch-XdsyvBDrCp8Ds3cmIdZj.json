@@ -1,0 +1,30 @@
+{
+  "id": "ch-XdsyvBDrCp8Ds3cmIdZj",
+  "slug": "hp-mueller-ag-schreinerei-st-gallen",
+  "name": "hp. müller ag schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Heiligkreuzstrasse 7",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712465588",
+    "email": "info@muellerschreinerei.ch",
+    "webseite": "https://www.muellerschreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

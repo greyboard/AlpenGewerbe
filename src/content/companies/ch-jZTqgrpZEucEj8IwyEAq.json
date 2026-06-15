@@ -1,0 +1,30 @@
+{
+  "id": "ch-jZTqgrpZEucEj8IwyEAq",
+  "slug": "graf-ag-haustechnik-schoetz",
+  "name": "Graf AG Haustechnik",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Schlossergasse 3",
+    "plz": "6247",
+    "ort": "Schötz",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41419801334",
+    "email": "info@grafhaustechnik.ch",
+    "webseite": "https://www.grafhaustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-QLzBeOb0McqxxzBBoq1d",
+  "slug": "riccio4-lavori-edili-sagl-losone",
+  "name": "Riccio4 Lavori Edili Sagl",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Via Gratello 44",
+    "plz": "6616",
+    "ort": "Losone",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796810792",
+    "email": "info@riccio4.ch",
+    "webseite": "https://www.riccio4.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

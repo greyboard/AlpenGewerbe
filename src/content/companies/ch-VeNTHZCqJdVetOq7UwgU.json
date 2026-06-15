@@ -1,0 +1,30 @@
+{
+  "id": "ch-VeNTHZCqJdVetOq7UwgU",
+  "slug": "treier-ag-bauunternehmen-schinznach-dorf",
+  "name": "TREIER AG - Bauunternehmen",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Nebenbachweg 8",
+    "plz": "5107",
+    "ort": "Schinznach-Dorf",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564636300",
+    "email": "info@treier.ch",
+    "webseite": "https://treier.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

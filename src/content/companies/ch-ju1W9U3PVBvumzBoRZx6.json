@@ -1,0 +1,30 @@
+{
+  "id": "ch-ju1W9U3PVBvumzBoRZx6",
+  "slug": "elektro-helvetia-ag-risch-rotkreuz",
+  "name": "Elektro Helvetia AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Birkenstrasse 49",
+    "plz": "6343",
+    "ort": "Risch-Rotkreuz",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416779090",
+    "email": "info@elektro-helvetia.ch",
+    "webseite": "https://www.elektro-helvetia.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

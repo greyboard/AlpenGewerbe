@@ -1,0 +1,30 @@
+{
+  "id": "ch-KzcoK35IBRLsxiLMds3S",
+  "slug": "living-mindful-maurer-zuerich",
+  "name": "Living Mindful Maurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Sonnenbergstrasse 36",
+    "plz": "8032",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797026527",
+    "email": "info@livingmindful.ch",
+    "webseite": "https://www.livingmindful.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

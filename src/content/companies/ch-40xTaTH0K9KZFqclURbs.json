@@ -1,0 +1,30 @@
+{
+  "id": "ch-40xTaTH0K9KZFqclURbs",
+  "slug": "elektro-arber-ag-amriswil",
+  "name": "Elektro Arber AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Fuchsbühlstrasse 1",
+    "plz": "8580",
+    "ort": "Amriswil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714117272",
+    "email": "info@arber.ch",
+    "webseite": "https://www.arber.ch/de"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

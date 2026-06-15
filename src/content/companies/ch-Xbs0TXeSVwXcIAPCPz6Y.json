@@ -1,0 +1,30 @@
+{
+  "id": "ch-Xbs0TXeSVwXcIAPCPz6Y",
+  "slug": "swisspro-ag-domat-ems",
+  "name": "swisspro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Baselga 27",
+    "plz": "7013",
+    "ort": "Domat/Ems",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816332244",
+    "email": "info@swisspro.ch",
+    "webseite": "https://www.swisspro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

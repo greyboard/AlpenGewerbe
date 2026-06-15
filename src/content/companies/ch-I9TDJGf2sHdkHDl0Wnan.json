@@ -1,0 +1,30 @@
+{
+  "id": "ch-I9TDJGf2sHdkHDl0Wnan",
+  "slug": "elektro-christoffel-znl-der-caviezel-ag-davos",
+  "name": "Elektro Christoffel, ZNL der Caviezel AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Obere Strasse 19 7270",
+    "plz": "7270",
+    "ort": "Davos",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41814137455",
+    "email": "info@elektrochristoffel.ch",
+    "webseite": "https://www.elektrochristoffel.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-LJWtkH6gK1DmxAvd8dXV",
+  "slug": "sanitaer-krebs-lohnstorf",
+  "name": "Sanitär Krebs",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 36",
+    "plz": "3127",
+    "ort": "Lohnstorf",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774746935",
+    "email": "info@sanitaerkrebs.ch",
+    "webseite": "https://www.sanitaerkrebs.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-jB2GTbplqO1S80RpSLSW",
+  "slug": "h-lanker-bau-gmbh-waldstatt",
+  "name": "H.Lanker Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Urnäscherstrasse 51",
+    "plz": "9104",
+    "ort": "Waldstatt",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713521543",
+    "email": "hansueli.lanker@bluewin.ch",
+    "webseite": "https://www.lanker-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

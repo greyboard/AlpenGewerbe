@@ -1,0 +1,30 @@
+{
+  "id": "ch-2pNFN0PBpQei1N2JwvO0",
+  "slug": "slo-fix-haustechnik-basel",
+  "name": "Slo fix Haustechnik",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Güterstrasse 108",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764625103",
+    "email": "info@slofix.ch",
+    "webseite": "https://www.slofix.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

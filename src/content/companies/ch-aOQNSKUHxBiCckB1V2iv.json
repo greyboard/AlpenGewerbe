@@ -1,0 +1,29 @@
+{
+  "id": "ch-aOQNSKUHxBiCckB1V2iv",
+  "slug": "heizplan-ag-gams",
+  "name": "Heizplan AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Karmaad 38",
+    "plz": "9473",
+    "ort": "Gams",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41817503450",
+    "email": "kontakt@heizplan.ch",
+    "webseite": "https://www.heizplan.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

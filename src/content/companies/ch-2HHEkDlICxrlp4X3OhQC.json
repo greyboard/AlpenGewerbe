@@ -1,0 +1,30 @@
+{
+  "id": "ch-2HHEkDlICxrlp4X3OhQC",
+  "slug": "bergauer-holzbau-gmbh-buettenhardt",
+  "name": "Bergauer Holzbau GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 18",
+    "plz": "8236",
+    "ort": "Büttenhardt",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526494455",
+    "email": "info@bergauerholzbau.ch",
+    "webseite": "https://www.bergauerholzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

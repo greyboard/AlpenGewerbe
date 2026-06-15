@@ -1,0 +1,30 @@
+{
+  "id": "ch-fzbJlIBlNtkja1NLwjnI",
+  "slug": "ideaparkett-gmbh-buerglen",
+  "name": "IdeaParkett GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Wilerstrasse 7",
+    "plz": "8575",
+    "ort": "Bürglen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763723520",
+    "email": "info@ideaparkett.ch",
+    "webseite": "https://ideaparkett.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

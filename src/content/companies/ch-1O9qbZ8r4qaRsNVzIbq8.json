@@ -1,0 +1,30 @@
+{
+  "id": "ch-1O9qbZ8r4qaRsNVzIbq8",
+  "slug": "bonetti-elektro-ag-meggen",
+  "name": "Bonetti Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kreuzbuchstrasse 77",
+    "plz": "6045",
+    "ort": "Meggen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413771488",
+    "email": "info@bonetti-elektro.ch",
+    "webseite": "https://www.bonetti-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

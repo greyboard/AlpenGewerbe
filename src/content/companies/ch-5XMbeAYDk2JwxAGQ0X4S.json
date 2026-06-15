@@ -1,0 +1,30 @@
+{
+  "id": "ch-5XMbeAYDk2JwxAGQ0X4S",
+  "slug": "haener-ag-heizung-sanitaer-breitenbach",
+  "name": "Haener AG Heizung Sanitär",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Bodenackerstrasse 22",
+    "plz": "4226",
+    "ort": "Breitenbach",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617811695",
+    "email": "info@haenerag.ch",
+    "webseite": "https://www.haenerag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

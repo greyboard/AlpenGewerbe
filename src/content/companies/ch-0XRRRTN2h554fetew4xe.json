@@ -1,0 +1,30 @@
+{
+  "id": "ch-0XRRRTN2h554fetew4xe",
+  "slug": "gartenbau-hoelzli-ag-egg-flawil",
+  "name": "Gartenbau Hölzli AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Burg 1491",
+    "plz": "9231",
+    "ort": "Egg (Flawil)",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713938200",
+    "email": "info@gartenbau-hoelzli.ch",
+    "webseite": "https://www.gartenbau-hoelzli.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

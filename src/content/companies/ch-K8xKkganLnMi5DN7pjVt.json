@@ -1,0 +1,30 @@
+{
+  "id": "ch-K8xKkganLnMi5DN7pjVt",
+  "slug": "reber-kundenschreinerei-gmbh-basel",
+  "name": "Reber Kundenschreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Oberalpstrasse 59",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613023607",
+    "email": "info@hreber.ch",
+    "webseite": "https://www.hreber.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

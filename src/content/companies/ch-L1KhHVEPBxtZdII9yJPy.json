@@ -1,0 +1,30 @@
+{
+  "id": "ch-L1KhHVEPBxtZdII9yJPy",
+  "slug": "marti-elektro-installationstechnik-ag-basel",
+  "name": "Marti Elektro-Installationstechnik AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bleichestrasse 15",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616909191",
+    "email": "mail@elektro-basel.ch",
+    "webseite": "https://www.elektro-basel.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

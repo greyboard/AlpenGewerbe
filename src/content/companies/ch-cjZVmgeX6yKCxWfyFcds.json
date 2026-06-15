@@ -1,0 +1,30 @@
+{
+  "id": "ch-cjZVmgeX6yKCxWfyFcds",
+  "slug": "impresa-gmbh-basel",
+  "name": "Impresa GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wanderstrasse 65",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613013232",
+    "email": "info@impresa-bau.ch",
+    "webseite": "https://www.impresa-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

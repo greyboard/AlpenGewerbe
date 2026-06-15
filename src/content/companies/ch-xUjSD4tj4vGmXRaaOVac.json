@@ -1,0 +1,30 @@
+{
+  "id": "ch-xUjSD4tj4vGmXRaaOVac",
+  "slug": "mema-metallbau-marti-gmbh-ennenda",
+  "name": "MEMA Metallbau Marti GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Bleiche 10",
+    "plz": "8755",
+    "ort": "Ennenda",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556407633",
+    "email": "info@mema-metallbau.ch",
+    "webseite": "https://www.mema-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

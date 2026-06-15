@@ -1,0 +1,30 @@
+{
+  "id": "ch-8whDRcF7gJTnASUAB4gT",
+  "slug": "mgl-maler-gipser-lleshaj-spiez",
+  "name": "MGL Maler Gipser Lleshaj",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Niesenstrasse 2",
+    "plz": "3700",
+    "ort": "Spiez",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794420754",
+    "email": "info@mgl-lleshaj.ch",
+    "webseite": "https://mgl-lleshaj.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

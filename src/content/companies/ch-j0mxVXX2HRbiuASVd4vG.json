@@ -1,0 +1,30 @@
+{
+  "id": "ch-j0mxVXX2HRbiuASVd4vG",
+  "slug": "ar-elektro-gmbh-schwellbrunn",
+  "name": "AR Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Buebenstig 1268",
+    "plz": "9103",
+    "ort": "Schwellbrunn",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714909101",
+    "email": "info@ar-elektro.ch",
+    "webseite": "https://www.ar-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

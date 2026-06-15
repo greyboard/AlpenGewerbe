@@ -1,0 +1,30 @@
+{
+  "id": "ch-VHQbCddunjTjM7BioEzO",
+  "slug": "elut-ag-maler-zuerich-malermeister-fassade-gipser-zuerich",
+  "name": "Elut AG Maler Zürich | Malermeister - Fassade - Gipser",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Claridenstrasse 20",
+    "plz": "8002",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445521102",
+    "email": "contact@mysite.com",
+    "webseite": "https://elutag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-kgtOKRGQY4GILdGKcalX",
+  "slug": "lendi-gartenbau-gmbh-bilten",
+  "name": "Lendi Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 30",
+    "plz": "8865",
+    "ort": "Bilten",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796788272",
+    "email": "gartenbau@lendi-bilten.ch",
+    "webseite": "https://www.lendi-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

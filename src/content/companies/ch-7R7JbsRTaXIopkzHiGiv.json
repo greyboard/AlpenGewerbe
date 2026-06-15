@@ -1,0 +1,30 @@
+{
+  "id": "ch-7R7JbsRTaXIopkzHiGiv",
+  "slug": "ms-sanitaer-heizung-gmbh-dotzigen",
+  "name": "MS Sanitär Heizung GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Schulhausstrasse 9",
+    "plz": "3293",
+    "ort": "Dotzigen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323513121",
+    "email": "info@ms-sanitaer-heizung.ch",
+    "webseite": "https://www.ms-sanitaerheizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-srUHstG6vXPepggYH3VH",
+  "slug": "riner-gartenbau-ag-lyssach",
+  "name": "Riner Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Moserstrasse 23",
+    "plz": "3421",
+    "ort": "Lyssach",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41344460666",
+    "email": "info@riner-gartenbau.ch",
+    "webseite": "https://www.riner-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

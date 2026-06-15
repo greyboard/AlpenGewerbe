@@ -1,0 +1,30 @@
+{
+  "id": "ch-huvQcPyRu40vnINHTIGk",
+  "slug": "bay-stefan-schreinerei-ag-basel",
+  "name": "Bay Stefan Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Jägerstrasse 9",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616930111",
+    "email": "bayschreiner@bluewin.ch",
+    "webseite": "https://www.bayschreiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

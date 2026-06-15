@@ -1,0 +1,30 @@
+{
+  "id": "ch-LgiiKn5uEC8VWeuepD1G",
+  "slug": "schachenmann-co-ag-basel",
+  "name": "Schachenmann + Co. AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hochbergerstrasse 60B",
+    "plz": "4019",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616992233",
+    "email": "info@schachenmann.ch",
+    "webseite": "https://www.schachenmann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

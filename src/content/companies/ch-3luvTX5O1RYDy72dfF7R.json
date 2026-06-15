@@ -1,0 +1,30 @@
+{
+  "id": "ch-3luvTX5O1RYDy72dfF7R",
+  "slug": "schreinerei-ruffieux-ag-zumholz",
+  "name": "Schreinerei Ruffieux AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Guggersbachstrasse 3",
+    "plz": "1719",
+    "ort": "Zumholz",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264192249",
+    "email": "info@schreinerei-ruffieux.ch",
+    "webseite": "https://www.schreinerei-ruffieux.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-6K7O2GnNJa1iivWXOlI5",
+  "slug": "mueller-bau-ag-laufen",
+  "name": "Müller Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Ziegeleistrasse 28",
+    "plz": "4242",
+    "ort": "Laufen",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617664040",
+    "email": "info@muellerbauag.ch",
+    "webseite": "https://www.muellerbauag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

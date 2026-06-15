@@ -1,0 +1,30 @@
+{
+  "id": "ch-b0aFfmH3B6M5Xopw3Nun",
+  "slug": "elektro-kuster-ag-engelberg",
+  "name": "Elektro Kuster AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Wasserfallstrasse 60",
+    "plz": "6390",
+    "ort": "Engelberg",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416372929",
+    "email": "info@elektro-kuster-ag.ch",
+    "webseite": "https://www.elektro-kuster-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

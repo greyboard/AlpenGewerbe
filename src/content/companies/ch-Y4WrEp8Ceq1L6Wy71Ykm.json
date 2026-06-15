@@ -1,0 +1,30 @@
+{
+  "id": "ch-Y4WrEp8Ceq1L6Wy71Ykm",
+  "slug": "schuetz-gebaeudetechnik-ag-frauenfeld-frauenfeld",
+  "name": "Schütz Gebäudetechnik AG - Frauenfeld",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Messenriet 32",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41523751370",
+    "email": "info@schuetzgebaeudetechnikag.ch",
+    "webseite": "https://www.schuetzgebaeudetechnikag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

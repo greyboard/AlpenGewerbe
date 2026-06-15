@@ -1,0 +1,30 @@
+{
+  "id": "ch-SK5KZvk7iInFdhKM9eL1",
+  "slug": "garten-haag-gmbh-hausen-am-albis",
+  "name": "Garten Haag GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chileweg 1",
+    "plz": "8915",
+    "ort": "Hausen am Albis",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791280612",
+    "email": "info@gartenhaag.ch",
+    "webseite": "https://www.gartenhaag.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

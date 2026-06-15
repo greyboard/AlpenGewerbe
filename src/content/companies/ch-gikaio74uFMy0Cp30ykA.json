@@ -1,0 +1,30 @@
+{
+  "id": "ch-gikaio74uFMy0Cp30ykA",
+  "slug": "schmid-amrhein-ag-luzern",
+  "name": "Schmid Amrhein AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rothenring 22",
+    "plz": "6015",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412812377",
+    "email": "mail@sa47.ch",
+    "webseite": "https://www.sa47.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

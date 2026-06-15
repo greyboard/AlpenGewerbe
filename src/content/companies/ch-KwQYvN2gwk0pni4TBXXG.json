@@ -1,0 +1,30 @@
+{
+  "id": "ch-KwQYvN2gwk0pni4TBXXG",
+  "slug": "amrhein-stalder-ag-solothurn",
+  "name": "Amrhein-Stalder AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Türmlihausstrasse 24",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326225833",
+    "email": "amrhein-stalder@bluewin.ch",
+    "webseite": "https://amrhein-stalder.digitalone.site"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

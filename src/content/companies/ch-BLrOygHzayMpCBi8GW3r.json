@@ -1,0 +1,30 @@
+{
+  "id": "ch-BLrOygHzayMpCBi8GW3r",
+  "slug": "chassot-fils-sa-posieux",
+  "name": "Chassot & Fils SA",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Rte du Moulin-Neuf 50",
+    "plz": "1725",
+    "ort": "Posieux",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264011477",
+    "email": "info@chassot-fils.ch",
+    "webseite": "https://chassot-fils.digitalone.site"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

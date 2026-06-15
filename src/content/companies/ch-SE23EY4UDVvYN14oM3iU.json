@@ -1,0 +1,30 @@
+{
+  "id": "ch-SE23EY4UDVvYN14oM3iU",
+  "slug": "regli-maler-gmbh-ingenbohl",
+  "name": "Regli Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hertistrasse 24",
+    "plz": "6440",
+    "ort": "Ingenbohl",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418206804",
+    "email": "maler.regli@bluewin.ch",
+    "webseite": "https://www.malerregli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

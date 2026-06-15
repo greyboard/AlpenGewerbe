@@ -1,0 +1,30 @@
+{
+  "id": "ch-9mEbMefiwkMJBKCPOmml",
+  "slug": "haustechnik-blaettler-ag-giswil",
+  "name": "Haustechnik Blättler AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Buechholzstrasse 1",
+    "plz": "6074",
+    "ort": "Giswil",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416751919",
+    "email": "info@haustechnik-blaettler.ch",
+    "webseite": "https://www.haustechnik-blaettler.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

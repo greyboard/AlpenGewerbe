@@ -1,0 +1,30 @@
+{
+  "id": "ch-cqvOHVS62xSVBPArVcVO",
+  "slug": "at-gipser-gmbh-emmen",
+  "name": "AT Gipser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Kolbenstrasse 1",
+    "plz": "6032",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786469484",
+    "email": "info@at-gipser.ch",
+    "webseite": "https://www.at-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

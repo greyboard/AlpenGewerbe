@@ -1,0 +1,30 @@
+{
+  "id": "ch-yhn3XEzBno5dNZmQOy22",
+  "slug": "amrein-bau-ag-emmen",
+  "name": "Amrein Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hasliring 7",
+    "plz": "6032",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412688000",
+    "email": "info@amreinbau.ch",
+    "webseite": "https://amreinbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-RlnHyguxVoRgwnsWxTog",
+  "slug": "schreiner2-ag-gampelen",
+  "name": "Schreiner2 AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 10",
+    "plz": "3236",
+    "ort": "Gampelen",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323381684",
+    "email": "info@schreinerzwei.ch",
+    "webseite": "https://www.schreinerzwei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

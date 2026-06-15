@@ -1,0 +1,30 @@
+{
+  "id": "ch-Fyp6ZyshO8qTFjVt4XtU",
+  "slug": "gipswerk-gmbh-basel",
+  "name": "Gipswerk GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Lehenmattstrasse 137",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615016291",
+    "email": "info@gips-werk.ch",
+    "webseite": "https://gips-werk.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

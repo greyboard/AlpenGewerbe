@@ -1,0 +1,30 @@
+{
+  "id": "ch-tCockAvaqy5SxDI62pkU",
+  "slug": "simu-dr-maler-gmbh-wabern-bei-bern",
+  "name": "Simu dr Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Seftigenstrasse 226",
+    "plz": "3084",
+    "ort": "Wabern bei Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319614700",
+    "email": "info@simudrmaler.ch",
+    "webseite": "https://www.simudrmaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

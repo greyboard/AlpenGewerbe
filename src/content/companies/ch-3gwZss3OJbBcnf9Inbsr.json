@@ -1,0 +1,30 @@
+{
+  "id": "ch-3gwZss3OJbBcnf9Inbsr",
+  "slug": "lippuner-ag-gebaeudetechnik-riehen",
+  "name": "Lippuner AG Gebäudetechnik",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Lörracherstrasse 50",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616032215",
+    "email": "haustechnik@lippunerag.ch",
+    "webseite": "https://www.lippunerag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

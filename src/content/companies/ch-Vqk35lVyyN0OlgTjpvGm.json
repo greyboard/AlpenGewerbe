@@ -1,0 +1,30 @@
+{
+  "id": "ch-Vqk35lVyyN0OlgTjpvGm",
+  "slug": "aepli-metallbau-ag-gossau",
+  "name": "Aepli Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Sommeraustrasse 3",
+    "plz": "9200",
+    "ort": "Gossau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713888282",
+    "email": "metallbau@aepli.ch",
+    "webseite": "https://www.aepli.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

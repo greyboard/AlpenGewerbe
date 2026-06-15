@@ -1,0 +1,30 @@
+{
+  "id": "ch-w3UcuVKlNFI5pFW5nLuE",
+  "slug": "luzerner-garten-ag-ebikon",
+  "name": "Luzerner Garten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Adligenswilerstrasse 113",
+    "plz": "6030",
+    "ort": "Ebikon",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413756070",
+    "email": "garten@luzerner-garten.ch",
+    "webseite": "https://www.luzerner-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

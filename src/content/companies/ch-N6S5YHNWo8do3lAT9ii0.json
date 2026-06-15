@@ -1,0 +1,30 @@
+{
+  "id": "ch-N6S5YHNWo8do3lAT9ii0",
+  "slug": "automobiles-zimmermann-sa-marly",
+  "name": "Automobiles Zimmermann SA",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rte de Chésalles 56",
+    "plz": "1723",
+    "ort": "Marly",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264365046",
+    "email": "info@garage-m-zimmermann.ch",
+    "webseite": "https://www.automobiles-zimmermann.ch/fr"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

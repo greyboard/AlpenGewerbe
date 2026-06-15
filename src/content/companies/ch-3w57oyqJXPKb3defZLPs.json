@@ -1,0 +1,30 @@
+{
+  "id": "ch-3w57oyqJXPKb3defZLPs",
+  "slug": "marty-ag-altdorf",
+  "name": "Marty AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Flüelerstrasse 96",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418745074",
+    "email": "info@marty-ag.ch",
+    "webseite": "https://www.marty-ag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

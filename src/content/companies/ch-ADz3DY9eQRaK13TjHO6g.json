@@ -1,0 +1,30 @@
+{
+  "id": "ch-ADz3DY9eQRaK13TjHO6g",
+  "slug": "hess-galabau-ag-seedorf-ur-seedorf",
+  "name": "Hess Galabau AG Seedorf UR",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "A Prostrasse 9",
+    "plz": "6462",
+    "ort": "Seedorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418701308",
+    "email": "info@hessgalabau.ch",
+    "webseite": "https://www.hessgalabau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

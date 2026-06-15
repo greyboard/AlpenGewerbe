@@ -1,0 +1,30 @@
+{
+  "id": "ch-E5xPR0svfofBnY917cJM",
+  "slug": "alla-vetreria-perletti-sagl-bellinzona",
+  "name": "Alla Vetreria Perletti Sagl",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Via Navett 6",
+    "plz": "6503",
+    "ort": "Bellinzona",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41918256641",
+    "email": "info@vetreriaperletti.ch",
+    "webseite": "https://www.vetreriaperletti.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

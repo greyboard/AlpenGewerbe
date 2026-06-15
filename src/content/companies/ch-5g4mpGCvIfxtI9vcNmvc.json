@@ -1,0 +1,30 @@
+{
+  "id": "ch-5g4mpGCvIfxtI9vcNmvc",
+  "slug": "duka-gartenbau-ag-kerns",
+  "name": "DUKA Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Stanserstrasse 22",
+    "plz": "6064",
+    "ort": "Kerns",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416620962",
+    "email": "info@duka-gartenbau.ch",
+    "webseite": "https://www.duka-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-JSA0d6xbm0OGBQPOyCTJ",
+  "slug": "bichsel-ag-elektro-telecom-siselen",
+  "name": "Bichsel AG Elektro + Telecom",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Weingartenweg 10",
+    "plz": "2577",
+    "ort": "Siselen",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319922222",
+    "email": "info@bichsel-elektro.ch",
+    "webseite": "https://www.bichsel-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-p6j9yjmr9DbjL3D91Nme",
+  "slug": "fritz-weber-ag-zug",
+  "name": "Fritz Weber AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Oberallmendstrasse 20B",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417612223",
+    "email": "info@metallbau-weber.ch",
+    "webseite": "https://uebergang.metallbau-weber.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

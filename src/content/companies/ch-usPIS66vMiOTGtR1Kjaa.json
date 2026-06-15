@@ -1,0 +1,30 @@
+{
+  "id": "ch-usPIS66vMiOTGtR1Kjaa",
+  "slug": "zimgroup-holding-ag-buochs",
+  "name": "Zimgroup Holding AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Faden 3",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416244646",
+    "email": "reto.zimmermann@zimgroup.ch",
+    "webseite": "https://zimgroup.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

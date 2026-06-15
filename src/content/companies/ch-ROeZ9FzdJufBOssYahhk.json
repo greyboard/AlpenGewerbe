@@ -1,0 +1,30 @@
+{
+  "id": "ch-ROeZ9FzdJufBOssYahhk",
+  "slug": "ghirardelli-luigi-losone",
+  "name": "Ghirardelli Luigi",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Madonna della Fontana 21",
+    "plz": "6616",
+    "ort": "Losone",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792312505",
+    "email": "g.ghirardelli@bluewin.ch",
+    "webseite": "https://www.ghirardellipittura.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

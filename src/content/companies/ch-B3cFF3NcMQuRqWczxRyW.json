@@ -1,0 +1,30 @@
+{
+  "id": "ch-B3cFF3NcMQuRqWczxRyW",
+  "slug": "schwery-service-gmbh-moerel-filet",
+  "name": "Schwery Service GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Furkastrasse 24",
+    "plz": "3983",
+    "ort": "Mörel-Filet",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796893664",
+    "email": "maria@schwery-identity.ch",
+    "webseite": "https://www.schwery-service.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

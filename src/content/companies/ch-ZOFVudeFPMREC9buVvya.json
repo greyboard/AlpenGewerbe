@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZOFVudeFPMREC9buVvya",
+  "slug": "baslertech-gmbh-basel",
+  "name": "BASLERTECH GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Hafenstrasse 9",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793830808",
+    "email": "20info@baslertech.ch",
+    "webseite": "https://www.baslertech.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

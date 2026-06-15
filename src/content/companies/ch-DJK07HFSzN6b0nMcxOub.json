@@ -1,0 +1,30 @@
+{
+  "id": "ch-DJK07HFSzN6b0nMcxOub",
+  "slug": "vi-kundenmaurer-gmbh-dulliken",
+  "name": "VI Kundenmaurer GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hausmatt 15",
+    "plz": "4657",
+    "ort": "Dulliken",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795104657",
+    "email": "info@vi.secure-webhosting.ch",
+    "webseite": "https://vikundenmaurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

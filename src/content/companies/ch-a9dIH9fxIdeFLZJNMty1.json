@@ -1,0 +1,30 @@
+{
+  "id": "ch-a9dIH9fxIdeFLZJNMty1",
+  "slug": "berwert-josef-ag-wilen-sarnen",
+  "name": "Berwert Josef AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wilerstrasse 44",
+    "plz": "6062",
+    "ort": "Wilen (Sarnen)",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416602735",
+    "email": "info@berwertbau.ch",
+    "webseite": "https://www.berwertbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

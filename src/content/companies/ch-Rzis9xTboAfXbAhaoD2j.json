@@ -1,0 +1,30 @@
+{
+  "id": "ch-Rzis9xTboAfXbAhaoD2j",
+  "slug": "schreinerei-beeler-ag-erstfeld",
+  "name": "Schreinerei Beeler AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 137",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418801322",
+    "email": "info@beeler-schreinerei.ch",
+    "webseite": "https://www.beeler-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-mfRJgUICcQU4W9IzlcrG",
+  "slug": "m-bianchi-gipsergeschaeft-gmbh-ibach",
+  "name": "M. Bianchi Gipsergeschäft GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 11",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418116965",
+    "email": "info@bianchi-gipser.ch",
+    "webseite": "https://www.bianchi-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

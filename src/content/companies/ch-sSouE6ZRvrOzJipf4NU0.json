@@ -1,0 +1,30 @@
+{
+  "id": "ch-sSouE6ZRvrOzJipf4NU0",
+  "slug": "regioglas-gmbh-schuepfen",
+  "name": "RegioGlas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Sägestrasse 22",
+    "plz": "3054",
+    "ort": "Schüpfen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323841907",
+    "email": "info@regioglas.ch",
+    "webseite": "https://www.regioglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-dKeiPBLk1YlzFYUYEhOD",
+  "slug": "sanitaerplus-gmbh-gamsen",
+  "name": "SanitärPlus GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Kantonsstrasse 418",
+    "plz": "3900",
+    "ort": "Gamsen",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793222233",
+    "email": "info@sanitaerplus.ch",
+    "webseite": "https://sanitaerplus.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

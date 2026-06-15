@@ -1,0 +1,30 @@
+{
+  "id": "ch-OKNkrPdY4hBFHoshpMhp",
+  "slug": "malergeschaeft-merenda-gmbh-ibach",
+  "name": "Malergeschäft Merenda GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schmiedgasse 33",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796922507",
+    "email": "info@malermerenda.ch",
+    "webseite": "https://malermerenda.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

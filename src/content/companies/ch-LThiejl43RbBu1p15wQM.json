@@ -1,0 +1,30 @@
+{
+  "id": "ch-LThiejl43RbBu1p15wQM",
+  "slug": "elektro-tel-ag-taegerwilen-taegerwilen",
+  "name": "Elektro-Tel AG Tägerwilen",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 17",
+    "plz": "8274",
+    "ort": "Tägerwilen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41800800813",
+    "email": "info@elektro-tel.ch",
+    "webseite": "https://www.elektro-tel.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

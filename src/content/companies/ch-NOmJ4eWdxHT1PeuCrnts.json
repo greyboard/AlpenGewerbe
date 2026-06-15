@@ -1,0 +1,30 @@
+{
+  "id": "ch-NOmJ4eWdxHT1PeuCrnts",
+  "slug": "grg-carpenteria-sagl-lavertezzo",
+  "name": "GRG Carpenteria Sagl",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Via alle Scuole 14",
+    "plz": "6595",
+    "ort": "Lavertezzo",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917522538",
+    "email": "info@grgcarpenteria.ch",
+    "webseite": "https://www.grgcarpenteria.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-DPslXl6jMuemBhDRvLuk",
+  "slug": "lux-dach-gmbh-pratteln",
+  "name": "Lux Dach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Giebenacherstrasse 48",
+    "plz": "4133",
+    "ort": "Pratteln",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764060191",
+    "email": "info@luxdach.ch",
+    "webseite": "https://www.luxdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

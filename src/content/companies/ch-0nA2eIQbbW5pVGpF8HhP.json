@@ -1,0 +1,30 @@
+{
+  "id": "ch-0nA2eIQbbW5pVGpF8HhP",
+  "slug": "bauartist-gmbh-schwyz",
+  "name": "Bauartist GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Steinerstrasse 10",
+    "plz": "6430",
+    "ort": "Schwyz",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765298722",
+    "email": "info@bauartist.ch",
+    "webseite": "https://bauartist.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

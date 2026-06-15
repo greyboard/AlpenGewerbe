@@ -1,0 +1,30 @@
+{
+  "id": "ch-sbsLB8p1pbfqPvEiVi9w",
+  "slug": "mueller-gartenbau-vinelz",
+  "name": "Müller Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Erlachstrasse 20",
+    "plz": "3234",
+    "ort": "Vinelz",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794559066",
+    "email": "info@m-gartenbau.ch",
+    "webseite": "https://www.m-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

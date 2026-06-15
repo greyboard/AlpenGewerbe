@@ -1,0 +1,30 @@
+{
+  "id": "ch-uiFJCeehNqQUuc2v3ppg",
+  "slug": "oeni-metallbau-buochs",
+  "name": "OENi Metallbau",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Allmendstrasse 10",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788925268",
+    "email": "info@oeni.ch",
+    "webseite": "https://www.oeni.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

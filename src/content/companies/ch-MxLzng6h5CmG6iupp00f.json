@@ -1,0 +1,30 @@
+{
+  "id": "ch-MxLzng6h5CmG6iupp00f",
+  "slug": "gefa-gipser-gmbh-st-gallen",
+  "name": "GEFA Gipser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Teufener Str. 40",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714111240",
+    "email": "info@gefa-gipser-gmbh.ch",
+    "webseite": "https://www.gefa-gipser-gmbh.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

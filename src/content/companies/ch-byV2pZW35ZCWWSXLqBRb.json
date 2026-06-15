@@ -1,0 +1,30 @@
+{
+  "id": "ch-byV2pZW35ZCWWSXLqBRb",
+  "slug": "kippel-ag-susten",
+  "name": "Kippel AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 53",
+    "plz": "3952",
+    "ort": "Susten",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274731187",
+    "email": "info@kippel-gt.ch",
+    "webseite": "https://www.kippel-gt.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

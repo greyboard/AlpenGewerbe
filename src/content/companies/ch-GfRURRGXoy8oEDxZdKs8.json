@@ -1,0 +1,30 @@
+{
+  "id": "ch-GfRURRGXoy8oEDxZdKs8",
+  "slug": "steiner-schreinerei-oeschenbach",
+  "name": "Steiner Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Friedihaus 29",
+    "plz": "4943",
+    "ort": "Oeschenbach",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41629653275",
+    "email": "friedihaus@bluewin.ch",
+    "webseite": "https://www.schreinerei-steiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

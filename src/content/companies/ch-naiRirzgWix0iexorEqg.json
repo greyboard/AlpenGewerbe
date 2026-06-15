@@ -1,0 +1,30 @@
+{
+  "id": "ch-naiRirzgWix0iexorEqg",
+  "slug": "gruen-schindler-gmbh-gartenplanung-gartenbau-gartenpflege-netstal",
+  "name": "Grün Schindler GmbH | Gartenplanung | Gartenbau | Gartenpflege",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Landstrasse 2",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795831305",
+    "email": "info@gruenschindler.ch",
+    "webseite": "https://www.gruenschindler.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-xUsFNTPOJqQF0a1NvjJh",
+  "slug": "malerhandwerk-faustino-amriswil",
+  "name": "Malerhandwerk Faustino",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Weidwiesenweg 17",
+    "plz": "8580",
+    "ort": "Amriswil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787185954",
+    "email": "info@malerhandwerkfaustino.ch",
+    "webseite": "https://malerhandwerkfaustino.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

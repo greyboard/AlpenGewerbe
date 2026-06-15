@@ -1,0 +1,30 @@
+{
+  "id": "ch-ACLzZpPte55EwfLoQ96t",
+  "slug": "elettro-mastai-sa-lavertezzo",
+  "name": "Elettro-Mastai SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via alle Scuole 3",
+    "plz": "6595",
+    "ort": "Lavertezzo",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41918505434",
+    "email": "info@elettro-mastai.ch",
+    "webseite": "https://www.elettro-mastai.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

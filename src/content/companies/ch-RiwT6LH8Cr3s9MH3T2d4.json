@@ -1,0 +1,30 @@
+{
+  "id": "ch-RiwT6LH8Cr3s9MH3T2d4",
+  "slug": "city-floors-gmbh-zuerich",
+  "name": "City Floors GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Ernst-Zöbeli-Strasse 10",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798514707",
+    "email": "info@cityfloors.ch",
+    "webseite": "https://www.cityfloors.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

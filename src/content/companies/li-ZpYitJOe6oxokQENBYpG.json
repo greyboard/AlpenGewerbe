@@ -1,0 +1,29 @@
+{
+  "id": "li-ZpYitJOe6oxokQENBYpG",
+  "slug": "gtec-sevelen",
+  "name": "gtec",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gonzenstrasse 9",
+    "plz": "9475",
+    "ort": "Sevelen",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+41815257899",
+    "email": "info@gtec.swiss",
+    "webseite": "https://gtec.swiss"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZpNBK8otAdkBTjSa0NXn",
+  "slug": "loretz-sa-tujetsch",
+  "name": "Loretz SA",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Via Alpsu 5",
+    "plz": "7188",
+    "ort": "Tujetsch",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41819491149",
+    "email": "g.friberg@loretz-sa.ch",
+    "webseite": "https://www.loretz-sa.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

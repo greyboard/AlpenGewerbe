@@ -1,0 +1,30 @@
+{
+  "id": "ch-Oi17T3N7sRnmDlCdoQtH",
+  "slug": "rs-elektro-unterentfelden",
+  "name": "RS Elektro",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Jurastrasse 8",
+    "plz": "5035",
+    "ort": "Unterentfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41625105410",
+    "email": "info@rselektro.ch",
+    "webseite": "https://www.rselektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

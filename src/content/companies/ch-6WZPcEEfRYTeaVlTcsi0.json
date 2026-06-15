@@ -1,0 +1,30 @@
+{
+  "id": "ch-6WZPcEEfRYTeaVlTcsi0",
+  "slug": "basler-elektro-gmbh-basel",
+  "name": "Basler Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Sandgrubenstrasse 44",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613115965",
+    "email": "info@baslerelektro.ch",
+    "webseite": "https://baslerelektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-FkVfUsxxBKqfUS1QoHWv",
+  "slug": "haustechnik-bern-ag-bern",
+  "name": "Haustechnik Bern AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Scheibenstrasse 56",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319900990",
+    "email": "info@haustechnik-bern.ch",
+    "webseite": "https://www.haustechnik-bern.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

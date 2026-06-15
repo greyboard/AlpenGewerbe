@@ -1,0 +1,30 @@
+{
+  "id": "ch-3zBAYAyX0gMnqmNUOH3X",
+  "slug": "elsener-ag-cham",
+  "name": "Elsener AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Knonauerstrasse 56",
+    "plz": "6330",
+    "ort": "Cham",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417804464",
+    "email": "info@elsener-sanitaer.ch",
+    "webseite": "https://www.elsener-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-ezWnt7oQLLwRkaurg57m",
+  "slug": "sanitaer-heizung-haile-mihr-koelliken",
+  "name": "Sanitär & Heizung - Haile Mihr",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Eichweg 15",
+    "plz": "5742",
+    "ort": "Kölliken",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41625595621",
+    "email": "info@mihr-sanitaer.ch",
+    "webseite": "https://mihr-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

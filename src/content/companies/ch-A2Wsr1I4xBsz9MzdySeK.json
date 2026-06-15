@@ -1,0 +1,30 @@
+{
+  "id": "ch-A2Wsr1I4xBsz9MzdySeK",
+  "slug": "reich-nievergelt-ag-zuerich",
+  "name": "Reich + Nievergelt AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Brandschenkestrasse 178",
+    "plz": "8002",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442010909",
+    "email": "info@reich-nievergelt.ch",
+    "webseite": "https://www.reich-nievergelt.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

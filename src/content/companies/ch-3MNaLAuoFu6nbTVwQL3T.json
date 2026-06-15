@@ -1,0 +1,30 @@
+{
+  "id": "ch-3MNaLAuoFu6nbTVwQL3T",
+  "slug": "schreinerei-rhyn-biel",
+  "name": "Schreinerei Rhyn",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Lindenhofstrasse 42",
+    "plz": "2504",
+    "ort": "Biel",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797966973",
+    "email": "info@rhyn.ch",
+    "webseite": "https://schreinerei-rhyn.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

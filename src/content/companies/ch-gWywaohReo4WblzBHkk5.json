@@ -1,0 +1,30 @@
+{
+  "id": "ch-gWywaohReo4WblzBHkk5",
+  "slug": "rhomberg-bau-gmbh-st-gallen",
+  "name": "Rhomberg Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Feldlistrasse 2",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712286373",
+    "email": "info@rhomberg.com",
+    "webseite": "https://www.rhomberg.com"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

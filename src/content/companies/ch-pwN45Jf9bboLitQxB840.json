@@ -1,0 +1,30 @@
+{
+  "id": "ch-pwN45Jf9bboLitQxB840",
+  "slug": "rdl-glas-suhr",
+  "name": "RDL Glas",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Reiherweg 4",
+    "plz": "5034",
+    "ort": "Suhr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628425555",
+    "email": "info@rdlglas.ch",
+    "webseite": "https://www.rdlglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

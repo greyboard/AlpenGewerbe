@@ -1,0 +1,30 @@
+{
+  "id": "ch-YvwZKZxjZpVm1I8kkD9F",
+  "slug": "felix-schmidt-ag-chur",
+  "name": "Felix + Schmidt AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Nordstrasse 4",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812869070",
+    "email": "info@fs-elektro.ch",
+    "webseite": "https://www.fs-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

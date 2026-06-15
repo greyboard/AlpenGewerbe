@@ -1,0 +1,30 @@
+{
+  "id": "ch-aOlLmwADDTxGFHJA54xB",
+  "slug": "franz-maurer-gmbh-ebmatingen",
+  "name": "Franz Maurer GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Lohwisstrasse 50",
+    "plz": "8123",
+    "ort": "Ebmatingen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445771719",
+    "email": "info@franz-maurer.ch",
+    "webseite": "https://www.franz-maurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

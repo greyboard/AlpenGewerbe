@@ -1,0 +1,30 @@
+{
+  "id": "ch-0LIHhZFWi7QqBaWVAl2h",
+  "slug": "der-schrank-spezialist-gmbh-luzern",
+  "name": "Der Schrank-Spezialist GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Staldenhof 1a",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413405800",
+    "email": "info@schrankspezialist.ch",
+    "webseite": "https://www.schrankspezialist.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

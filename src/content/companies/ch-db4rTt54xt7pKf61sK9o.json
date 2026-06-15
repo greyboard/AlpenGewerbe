@@ -1,0 +1,30 @@
+{
+  "id": "ch-db4rTt54xt7pKf61sK9o",
+  "slug": "zweifel-holz-ag-glarus-glarus",
+  "name": "Zweifel Holz AG Glarus",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Mühlefuhr 2",
+    "plz": "8755",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556162020",
+    "email": "info@zweifelholz.ch",
+    "webseite": "https://www.zweifelholz.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

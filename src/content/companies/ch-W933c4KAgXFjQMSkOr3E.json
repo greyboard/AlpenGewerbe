@@ -1,0 +1,30 @@
+{
+  "id": "ch-W933c4KAgXFjQMSkOr3E",
+  "slug": "weber-services-schaffhausen",
+  "name": "Weber Services",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Ebnatstrasse 141",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763209981",
+    "email": "office@weber-services.ch",
+    "webseite": "https://www.weber-services.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

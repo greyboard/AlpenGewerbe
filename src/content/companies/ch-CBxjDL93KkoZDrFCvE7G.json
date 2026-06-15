@@ -1,0 +1,30 @@
+{
+  "id": "ch-CBxjDL93KkoZDrFCvE7G",
+  "slug": "hr-haustechnik-birsfelden",
+  "name": "HR Haustechnik",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 86",
+    "plz": "4127",
+    "ort": "Birsfelden",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799453887",
+    "email": "info@hrhaustechnik.ch",
+    "webseite": "https://hr-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

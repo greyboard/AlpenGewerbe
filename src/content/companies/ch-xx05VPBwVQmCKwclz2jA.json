@@ -1,0 +1,30 @@
+{
+  "id": "ch-xx05VPBwVQmCKwclz2jA",
+  "slug": "farbideen-gmbh-luzern",
+  "name": "Farbideen GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Brüelstrasse 1",
+    "plz": "6006",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782284086",
+    "email": "hallo@farbideen.ch",
+    "webseite": "https://farbideen.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

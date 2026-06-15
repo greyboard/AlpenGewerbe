@@ -1,0 +1,30 @@
+{
+  "id": "ch-iRy0zN5PL9skR9dbxJcm",
+  "slug": "applisan-ag-basel",
+  "name": "Applisan AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rütimeyerstrasse 24",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612813007",
+    "email": "info@applisan.ch",
+    "webseite": "https://applisan.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

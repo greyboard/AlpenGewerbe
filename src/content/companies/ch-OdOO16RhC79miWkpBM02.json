@@ -1,0 +1,30 @@
+{
+  "id": "ch-OdOO16RhC79miWkpBM02",
+  "slug": "rickenbach-malerfachbetrieb-wangen",
+  "name": "Rickenbach Malerfachbetrieb",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Oberhofweg 3",
+    "plz": "8855",
+    "ort": "Wangen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795786417",
+    "email": "info@rickenbach-maler.ch",
+    "webseite": "https://www.rickenbach-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

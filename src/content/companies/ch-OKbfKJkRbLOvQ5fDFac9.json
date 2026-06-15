@@ -1,0 +1,30 @@
+{
+  "id": "ch-OKbfKJkRbLOvQ5fDFac9",
+  "slug": "eberle-floristik-gaerten-naefels",
+  "name": "EBERLE Floristik & Gärten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Oberdorf 2",
+    "plz": "8752",
+    "ort": "Näfels",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556121000",
+    "email": "kontakt@eberleblumen.ch",
+    "webseite": "https://www.eberleblumen.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

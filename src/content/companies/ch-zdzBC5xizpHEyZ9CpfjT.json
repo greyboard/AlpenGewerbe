@@ -1,0 +1,30 @@
+{
+  "id": "ch-zdzBC5xizpHEyZ9CpfjT",
+  "slug": "elektroline-gmbh-elektro-telematik-bern",
+  "name": "elektroline GmbH elektro & telematik",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Looslistrasse 21",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319941100",
+    "email": "info@elektroline.ch",
+    "webseite": "https://www.elektroline.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-lBUkKzv14thaaGiHsxqS",
+  "slug": "nanni-ag-basel",
+  "name": "Nanni AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hagenaustrasse 16",
+    "plz": "4056",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616921110",
+    "email": "info@nanni-ag.ch",
+    "webseite": "https://www.nanni-ag.ch/baugeschaeft-basel.html"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

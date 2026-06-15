@@ -1,0 +1,30 @@
+{
+  "id": "ch-E3E3jhOs3JgdLqIDixav",
+  "slug": "miesch-elektro-ag-eschlikon",
+  "name": "Miesch Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Blumenaustrasse 1",
+    "plz": "8360",
+    "ort": "Eschlikon",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41719713332",
+    "email": "info@miesch-elektro.ch",
+    "webseite": "https://www.miesch-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ch-jCc4CjbyfSQSsWkvcHle",
+  "slug": "amato-maler-ag-domat-ems",
+  "name": "Amato Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Plarenga 3",
+    "plz": "7013",
+    "ort": "Domat/Ems",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796819046",
+    "email": "info@amatoag.ch",
+    "webseite": "https://www.amatoag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

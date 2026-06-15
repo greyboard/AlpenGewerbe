@@ -1,0 +1,30 @@
+{
+  "id": "ch-L2RP86Jrn2fXMBJ08ja2",
+  "slug": "roth-maurer-ag-walperswil",
+  "name": "Roth & Maurer AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Aarbergstrasse 11",
+    "plz": "3272",
+    "ort": "Walperswil",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323962888",
+    "email": "info@rickli-roth.ch",
+    "webseite": "https://www.roth-maurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

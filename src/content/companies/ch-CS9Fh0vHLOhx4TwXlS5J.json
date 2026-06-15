@@ -1,0 +1,30 @@
+{
+  "id": "ch-CS9Fh0vHLOhx4TwXlS5J",
+  "slug": "glaserei-la-vie-en-verre-gmbh-biel",
+  "name": "Glaserei LA VIE EN VERRE GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Brunngasse 3",
+    "plz": "2502",
+    "ort": "Biel",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323226191",
+    "email": "info@la-vie-en-verre.ch",
+    "webseite": "https://la-vie-en-verre.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

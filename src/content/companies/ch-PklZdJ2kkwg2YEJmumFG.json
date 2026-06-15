@@ -1,0 +1,30 @@
+{
+  "id": "ch-PklZdJ2kkwg2YEJmumFG",
+  "slug": "rinderli-gartenbau-baar-baar",
+  "name": "Rinderli Gartenbau Baar",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rote Trotte 3",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793026671",
+    "email": "rinderli-gartenbau@gmx.ch",
+    "webseite": "https://www.rinderli-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

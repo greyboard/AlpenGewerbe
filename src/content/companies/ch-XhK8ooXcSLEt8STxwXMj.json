@@ -1,0 +1,30 @@
+{
+  "id": "ch-XhK8ooXcSLEt8STxwXMj",
+  "slug": "felder-gartenbau-ag-gartenbauprofi-aus-root-root",
+  "name": "Felder Gartenbau AG - Gartenbauprofi aus Root",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wilweg 2",
+    "plz": "6037",
+    "ort": "Root",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795343471",
+    "email": "info@feldergartenbau.ch",
+    "webseite": "https://www.feldergartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

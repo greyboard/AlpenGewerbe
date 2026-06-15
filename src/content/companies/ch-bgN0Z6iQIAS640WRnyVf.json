@@ -1,0 +1,30 @@
+{
+  "id": "ch-bgN0Z6iQIAS640WRnyVf",
+  "slug": "stadler-ag-zug",
+  "name": "Stadler AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Chollerstrasse 35",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417483131",
+    "email": "info@stadler-elektro.ch",
+    "webseite": "https://www.stadler-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

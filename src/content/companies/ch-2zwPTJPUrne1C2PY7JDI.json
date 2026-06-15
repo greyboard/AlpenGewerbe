@@ -1,0 +1,30 @@
+{
+  "id": "ch-2zwPTJPUrne1C2PY7JDI",
+  "slug": "mkj-metall-sarl-gurwolf",
+  "name": "MKJ Metall Sàrl",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 50",
+    "plz": "1796",
+    "ort": "Gurwolf",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797852027",
+    "email": "info@mkj-metall.ch",
+    "webseite": "https://mkj-metall.ch/fr/accueil"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-MJX3Us2fdBgp9PwV0pKb",
+  "slug": "kohler-elektro-bern-ag-bern",
+  "name": "Kohler Elektro Bern AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Felsenaustrasse 17",
+    "plz": "3004",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313020606",
+    "email": "info@kohlerelektro.ch",
+    "webseite": "https://www.kohlerelektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

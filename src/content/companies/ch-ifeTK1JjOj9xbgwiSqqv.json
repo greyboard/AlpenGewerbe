@@ -1,0 +1,30 @@
+{
+  "id": "ch-ifeTK1JjOj9xbgwiSqqv",
+  "slug": "glas-mueller-gmbh-frastanz",
+  "name": "Glas-Müller GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Feldkircher Str. 41",
+    "plz": "6820",
+    "ort": "Frastanz",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+43552251561",
+    "email": "mail@glas-mueller.com",
+    "webseite": "https://www.glas-mueller.com"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

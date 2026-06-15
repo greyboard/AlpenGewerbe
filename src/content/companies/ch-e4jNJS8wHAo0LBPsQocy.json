@@ -1,0 +1,30 @@
+{
+  "id": "ch-e4jNJS8wHAo0LBPsQocy",
+  "slug": "zima-consulting-gmbh-schwyz",
+  "name": "ZIMA Consulting GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Grundstrasse 39",
+    "plz": "6430",
+    "ort": "Schwyz",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762299325",
+    "email": "info@zimaconsulting.ch",
+    "webseite": "https://www.zima-consulting.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

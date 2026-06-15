@@ -1,0 +1,30 @@
+{
+  "id": "ch-UrZSsPi9P6uQ31l795ap",
+  "slug": "gasser-elektro-ag-alpnach-alpnach",
+  "name": "Gasser Elektro AG Alpnach",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 6",
+    "plz": "6055",
+    "ort": "Alpnach",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416701952",
+    "email": "info@gasserag-elektro.ch",
+    "webseite": "https://www.gasserag-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

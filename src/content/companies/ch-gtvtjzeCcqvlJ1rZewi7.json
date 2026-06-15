@@ -1,0 +1,30 @@
+{
+  "id": "ch-gtvtjzeCcqvlJ1rZewi7",
+  "slug": "melintec-ag-bremgarten",
+  "name": "Melintec AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Luzernerstrasse 18",
+    "plz": "5620",
+    "ort": "Bremgarten",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41566419797",
+    "email": "info@melintec.ch",
+    "webseite": "https://www.melintec.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-nsn8cxZkaV5swJ1K3cuA",
+  "slug": "leutenegger-elektro-gebaeudeautomation-gmbh-frauenfeld",
+  "name": "Leutenegger Elektro & Gebäudeautomation GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schaffhauserstrasse 266",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527203377",
+    "email": "anfragen@leutenegger-elektro.chsie",
+    "webseite": "https://www.leutenegger-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-OQfF6LspsQu9JhRBncR0",
+  "slug": "lichttechnik-ludaescher-ag-solothurn",
+  "name": "Lichttechnik Ludäscher AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ritterquai 27",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326236160",
+    "email": "info@lichttechnikag.ch",
+    "webseite": "https://www.lichttechnikag.ch/kontakt.html"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

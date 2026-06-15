@@ -1,0 +1,30 @@
+{
+  "id": "ch-9uMOCwbyTHaLHxuspJU1",
+  "slug": "maler-burri-subingen",
+  "name": "Maler Burri",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Derendingenstrasse 8",
+    "plz": "4553",
+    "ort": "Subingen",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796443775",
+    "email": "info@malerburri.ch",
+    "webseite": "https://www.malerburri.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

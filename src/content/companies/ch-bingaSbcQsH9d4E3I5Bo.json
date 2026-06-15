@@ -1,0 +1,30 @@
+{
+  "id": "ch-bingaSbcQsH9d4E3I5Bo",
+  "slug": "swiss-gartenbau-zuerich",
+  "name": "Swiss Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "In Böden 169",
+    "plz": "8046",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798937368",
+    "email": "info@swissgartenbau.ch",
+    "webseite": "https://www.swissgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-59LWkIZmVU4k6pfbTMjZ",
+  "slug": "electro-scherzinger-ag-zuerich",
+  "name": "electro scherzinger ag",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bucheggstrasse 64",
+    "plz": "8057",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443688080",
+    "email": "info@scherzinger-ag.ch",
+    "webseite": "https://www.scherzinger-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

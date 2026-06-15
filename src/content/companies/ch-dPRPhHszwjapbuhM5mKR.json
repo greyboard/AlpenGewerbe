@@ -1,0 +1,30 @@
+{
+  "id": "ch-dPRPhHszwjapbuhM5mKR",
+  "slug": "aqua-sanitaer-ag-riedikon",
+  "name": "AQUA-Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Riedikerstrasse 63b",
+    "plz": "8616",
+    "ort": "Riedikon",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41449840202",
+    "email": "info@aqua-sanitaer.ch",
+    "webseite": "https://www.aqua-sanitär.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

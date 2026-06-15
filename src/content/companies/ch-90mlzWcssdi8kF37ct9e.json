@@ -1,0 +1,30 @@
+{
+  "id": "ch-90mlzWcssdi8kF37ct9e",
+  "slug": "amsler-sanitaer-heizung-gmbh-gretzenbach",
+  "name": "Amsler Sanitär & Heizung GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Im Grund 22B",
+    "plz": "5014",
+    "ort": "Gretzenbach",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628493355",
+    "email": "info@amslerhaustechnik.ch",
+    "webseite": "https://www.amslerhaustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

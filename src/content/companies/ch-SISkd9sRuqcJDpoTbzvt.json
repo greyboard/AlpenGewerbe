@@ -1,0 +1,30 @@
+{
+  "id": "ch-SISkd9sRuqcJDpoTbzvt",
+  "slug": "malerei-roger-vuille-gmbh-meikirch",
+  "name": "Malerei Roger Vuille GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 1",
+    "plz": "3045",
+    "ort": "Meikirch",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318291060",
+    "email": "info@rv-malerei.ch",
+    "webseite": "https://www.mavu.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

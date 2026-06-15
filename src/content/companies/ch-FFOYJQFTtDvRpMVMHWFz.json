@@ -1,0 +1,30 @@
+{
+  "id": "ch-FFOYJQFTtDvRpMVMHWFz",
+  "slug": "alpstein-bau-ag-gartenbau-tiefbau-appenzell-weissbad",
+  "name": "Alpstein Bau AG – Gartenbau & Tiefbau Appenzell",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Haslersteg 9",
+    "plz": "9057",
+    "ort": "Weissbad",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717970569",
+    "email": "info@alpsteinbau.ch",
+    "webseite": "https://www.alpsteinbau.ch/home.html"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

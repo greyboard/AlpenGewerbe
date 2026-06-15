@@ -1,0 +1,30 @@
+{
+  "id": "ch-eOND50lfvhre6UxT5Yt6",
+  "slug": "elektro-lendenmann-ag-st-gallen",
+  "name": "Elektro Lendenmann AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Linsebühlstrasse 102/104",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712223636",
+    "email": "info@elektro-lendenmann.ch",
+    "webseite": "https://www.elektro-lendenmann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

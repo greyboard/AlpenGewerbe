@@ -1,0 +1,30 @@
+{
+  "id": "ch-cUbNbqkwq99abOPJdyrg",
+  "slug": "elektro-kessler-gmbh-schwyz",
+  "name": "Elektro Kessler GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Grundstrasse 26",
+    "plz": "6430",
+    "ort": "Schwyz",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418116800",
+    "email": "info@stromer-schwyz.ch",
+    "webseite": "https://www.stromer-schwyz.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

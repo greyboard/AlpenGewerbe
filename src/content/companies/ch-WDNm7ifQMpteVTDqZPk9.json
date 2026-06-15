@@ -1,0 +1,30 @@
+{
+  "id": "ch-WDNm7ifQMpteVTDqZPk9",
+  "slug": "elektro-compagnoni-ag-zuerich",
+  "name": "Elektro Compagnoni AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ettenfeldstrasse 18",
+    "plz": "8052",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443014444",
+    "email": "info@elektro-compagnoni.ch",
+    "webseite": "https://www.elektro-compagnoni.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-xvxCpWYkvNq8oy6SkT5K",
+  "slug": "aw-haustechnik-gmbh-aarau",
+  "name": "AW Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Küttigerstrasse 58",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627738181",
+    "email": "aw@aw-haustechnik.ch",
+    "webseite": "https://www.aw-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

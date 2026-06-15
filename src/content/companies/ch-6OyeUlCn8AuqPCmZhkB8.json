@@ -1,0 +1,30 @@
+{
+  "id": "ch-6OyeUlCn8AuqPCmZhkB8",
+  "slug": "vetreria-contisa-melide",
+  "name": "Vetreria Contisa",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Via al Doyro 3",
+    "plz": "6815",
+    "ort": "Melide",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799437730",
+    "email": "info@vetreriagiovannisantini.ch",
+    "webseite": "https://www.vetreriagiovannisantini.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

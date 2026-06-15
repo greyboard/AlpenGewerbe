@@ -1,0 +1,30 @@
+{
+  "id": "ch-D2I4QoZiO6UuotOJBtX4",
+  "slug": "maler-gross-gmbh-brugg",
+  "name": "Maler Gross GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Aarauerstrasse 96b",
+    "plz": "5200",
+    "ort": "Brugg",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763999279",
+    "email": "info@malergross.ch",
+    "webseite": "https://malergross.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

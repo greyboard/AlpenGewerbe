@@ -1,0 +1,30 @@
+{
+  "id": "ch-y3DnMvuCu2neBbfDetja",
+  "slug": "robert-widmer-ag-elektrische-anlagen-luzern",
+  "name": "Robert Widmer AG. Elektrische Anlagen",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Reusseggstrasse 9",
+    "plz": "6002",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414204833",
+    "email": "info@widmer-elektro.ch",
+    "webseite": "https://www.widmer-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-XOvxTvVkVAdmvprfo5Qg",
+  "slug": "meier-bau-appenzell-gonten",
+  "name": "Meier Bau Appenzell",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Kaustrasse 5A",
+    "plz": "9108",
+    "ort": "Gonten",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792163214",
+    "email": "info@meierbau-appenzell.ch",
+    "webseite": "https://meierbau-appenzell.ch/kontakt"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

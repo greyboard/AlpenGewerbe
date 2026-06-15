@@ -1,0 +1,30 @@
+{
+  "id": "ch-OgHYfDxT34NwiMG6L6NV",
+  "slug": "carpenter-m-kessler-zuerich",
+  "name": "Carpenter M. Kessler",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Dubsstrasse 44",
+    "plz": "8003",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41432686030",
+    "email": "schreinerei@mkessler.ch",
+    "webseite": "https://schreinerei-kessler.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

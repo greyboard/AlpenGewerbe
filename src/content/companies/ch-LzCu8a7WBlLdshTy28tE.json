@@ -1,0 +1,30 @@
+{
+  "id": "ch-LzCu8a7WBlLdshTy28tE",
+  "slug": "ds-keramik-gmbh-huenenberg",
+  "name": "DS Keramik GmbH",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "Bösch 21",
+    "plz": "6331",
+    "ort": "Hünenberg",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41419103535",
+    "email": "info@dskeermaik.ch",
+    "webseite": "https://www.dskeramik.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

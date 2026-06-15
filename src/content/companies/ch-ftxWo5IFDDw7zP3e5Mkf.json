@@ -1,0 +1,30 @@
+{
+  "id": "ch-ftxWo5IFDDw7zP3e5Mkf",
+  "slug": "pmb-bau-ag-bauunternehmung-schaffhausen",
+  "name": "pmb bau ag, Bauunternehmung",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Mühlentalstrasse 272",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526302929",
+    "email": "info@pmbbau.ch",
+    "webseite": "https://www.pmbbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

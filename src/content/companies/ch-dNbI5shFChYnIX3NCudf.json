@@ -1,0 +1,30 @@
+{
+  "id": "ch-dNbI5shFChYnIX3NCudf",
+  "slug": "gipsergeschaeft-f-buchser-gmbh-rotkreuz",
+  "name": "Gipsergeschäft F. Buchser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Weihermatt 21",
+    "plz": "6343",
+    "ort": "Rotkreuz",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417906867",
+    "email": "frank@gipserbuchser.ch",
+    "webseite": "https://www.gipserbuchser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

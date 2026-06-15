@@ -1,0 +1,30 @@
+{
+  "id": "ch-uOoKbx9GcczdnsS5zKhQ",
+  "slug": "inelettra-sa-locarno",
+  "name": "InElettra SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Vallemaggia 9",
+    "plz": "6600",
+    "ort": "Locarno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917600040",
+    "email": "info@inelettra.ch",
+    "webseite": "https://www.inelettrasa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

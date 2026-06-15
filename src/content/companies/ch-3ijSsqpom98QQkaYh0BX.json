@@ -1,0 +1,30 @@
+{
+  "id": "ch-3ijSsqpom98QQkaYh0BX",
+  "slug": "glasblitz-gmbh-kloten",
+  "name": "Glasblitz GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Lindenstrasse 20",
+    "plz": "8302",
+    "ort": "Kloten",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788554244",
+    "email": "info@glasblitz.ch",
+    "webseite": "https://www.glasblitz.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

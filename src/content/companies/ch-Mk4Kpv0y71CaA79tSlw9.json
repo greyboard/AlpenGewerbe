@@ -1,0 +1,30 @@
+{
+  "id": "ch-Mk4Kpv0y71CaA79tSlw9",
+  "slug": "ps-metall-ag-netstal",
+  "name": "PS Metall AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Zaunweg 13",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556409200",
+    "email": "info@psmetall.ch",
+    "webseite": "https://www.psmetall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

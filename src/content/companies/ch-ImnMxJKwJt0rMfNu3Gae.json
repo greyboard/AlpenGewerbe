@@ -1,0 +1,30 @@
+{
+  "id": "ch-ImnMxJKwJt0rMfNu3Gae",
+  "slug": "oxmetal-meyrin",
+  "name": "OXMETAL",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rte du Nant-d'Avril 107",
+    "plz": "1217",
+    "ort": "Meyrin",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796710451",
+    "email": "info@oxmetal.ch",
+    "webseite": "https://oxmetal.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

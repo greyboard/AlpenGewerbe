@@ -1,0 +1,30 @@
+{
+  "id": "ch-KrwTbyOHSKiPfGbHl9lZ",
+  "slug": "easyelec-sarl-geneve",
+  "name": "EasyElec Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue de Contamines 19",
+    "plz": "1206",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41225038115",
+    "email": "contact@easyelec.ch",
+    "webseite": "https://easyelec.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

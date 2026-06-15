@@ -1,0 +1,30 @@
+{
+  "id": "ch-iIgkp2tryh6FIbBS8Vfr",
+  "slug": "a-dervisi-gartenbau-miti-dottikon",
+  "name": "A. Dervisi Gartenbau Miti",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Neuweg 6",
+    "plz": "5605",
+    "ort": "Dottikon",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764113721",
+    "email": "mitigartenbau@gmx.ch",
+    "webseite": "https://www.miti-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

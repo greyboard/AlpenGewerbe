@@ -1,0 +1,30 @@
+{
+  "id": "ch-wxNSlWE1z7KNMgBS29Sb",
+  "slug": "poli-bau-ag-hergiswil",
+  "name": "Poli Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hasliweg 1",
+    "plz": "6052",
+    "ort": "Hergiswil",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416324020",
+    "email": "info@polibau.ch",
+    "webseite": "https://www.polibau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

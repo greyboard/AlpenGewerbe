@@ -1,0 +1,30 @@
+{
+  "id": "ch-LbtGXHVLVypYWWHTivpU",
+  "slug": "schreinerei-form-schliff-zuerich",
+  "name": "Schreinerei Form & Schliff",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Aspholzstrasse 10",
+    "plz": "8046",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787910555",
+    "email": "schreinerei@formundschliff.ch",
+    "webseite": "https://www.schreinerei-formundschliff.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

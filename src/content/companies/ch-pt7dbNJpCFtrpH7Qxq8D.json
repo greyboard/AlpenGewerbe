@@ -1,0 +1,30 @@
+{
+  "id": "ch-pt7dbNJpCFtrpH7Qxq8D",
+  "slug": "neyer-gmbh-trachslau",
+  "name": "Neyer Gmbh",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Schachenweidli 1",
+    "plz": "8840",
+    "ort": "Trachslau",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782230004",
+    "email": "info@neyer-gmbh.ch",
+    "webseite": "https://neyer-gmbh.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-UeOEqcHDvy2hYZTU7OdK",
+  "slug": "elektro-burkhalter-ag-bern",
+  "name": "Elektro Burkhalter AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Eymattstrasse 7",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319963333",
+    "email": "bube.info@burkhalter.ch",
+    "webseite": "https://www.burkhalter-bern.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

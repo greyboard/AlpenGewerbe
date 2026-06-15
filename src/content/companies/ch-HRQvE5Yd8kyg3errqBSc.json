@@ -1,0 +1,30 @@
+{
+  "id": "ch-HRQvE5Yd8kyg3errqBSc",
+  "slug": "yachtwerft-zimmermann-gmbh-salmsach",
+  "name": "Yachtwerft Zimmermann GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Schulstrasse 25",
+    "plz": "8599",
+    "ort": "Salmsach",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714636707",
+    "email": "info@werftzimmermann.ch",
+    "webseite": "https://www.werftzimmermann.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

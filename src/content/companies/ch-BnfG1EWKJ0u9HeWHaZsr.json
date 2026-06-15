@@ -1,0 +1,30 @@
+{
+  "id": "ch-BnfG1EWKJ0u9HeWHaZsr",
+  "slug": "maurer-messerschmiede-schwarzenburg",
+  "name": "Maurer Messerschmiede",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Junkerngasse 2",
+    "plz": "3150",
+    "ort": "Schwarzenburg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317310157",
+    "email": "kontakt@maurer-messerschmiede.ch",
+    "webseite": "https://www.maurer-messerschmiede.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

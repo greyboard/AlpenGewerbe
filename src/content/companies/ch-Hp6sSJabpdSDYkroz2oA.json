@@ -1,0 +1,30 @@
+{
+  "id": "ch-Hp6sSJabpdSDYkroz2oA",
+  "slug": "azelec-sa-corminboeuf",
+  "name": "AZELEC SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte André Piller 47",
+    "plz": "1720",
+    "ort": "Corminboeuf",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266840920",
+    "email": "info@azelec.ch",
+    "webseite": "https://www.azelec.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

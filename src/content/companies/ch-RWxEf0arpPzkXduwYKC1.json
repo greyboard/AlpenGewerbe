@@ -1,0 +1,30 @@
+{
+  "id": "ch-RWxEf0arpPzkXduwYKC1",
+  "slug": "zingueurs-du-batiment-geneve",
+  "name": "Zingueurs du Bâtiment",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rue de l'Hôtel-de-Ville 5",
+    "plz": "1204",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41225196953",
+    "email": "info@zingueursdubatiment.ovh",
+    "webseite": "https://zingueursdubatiment.ovh"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

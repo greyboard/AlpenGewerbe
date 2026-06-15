@@ -1,0 +1,30 @@
+{
+  "id": "ch-DchtS2NMrKjKa7K2PgRN",
+  "slug": "sanitaernotfalldienst-zuerich",
+  "name": "Sanitärnotfalldienst",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Berninastrasse 15",
+    "plz": "8057",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627561917",
+    "email": "info@sanitaernotfalldienst24.ch",
+    "webseite": "https://www.sanitärnotfall24.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

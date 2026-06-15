@@ -1,0 +1,30 @@
+{
+  "id": "ch-6cYYnstdJINLsHcWiJB7",
+  "slug": "michael-helbling-bau-zuerich",
+  "name": "Michael Helbling Bau",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wartstrasse 15",
+    "plz": "8032",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796354388",
+    "email": "michael.helbling@sunrise.ch",
+    "webseite": "https://helbling-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

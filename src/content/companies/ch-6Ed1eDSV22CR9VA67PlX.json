@@ -1,0 +1,30 @@
+{
+  "id": "ch-6Ed1eDSV22CR9VA67PlX",
+  "slug": "neth-ag-basel",
+  "name": "Neth AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Auf dem Wolf 21",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613131010",
+    "email": "info@neth-ag.ch",
+    "webseite": "https://www.nethag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-QP9kQPS9hWKxcIaghsMU",
+  "slug": "ulrich-imboden-ag-visp",
+  "name": "Ulrich Imboden AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Talstrasse 9",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279484000",
+    "email": "info@ulrichimboden.ch",
+    "webseite": "https://ulrichimboden.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

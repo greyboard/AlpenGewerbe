@@ -1,0 +1,30 @@
+{
+  "id": "ch-1Pd5oNhaMPwFRKChNmtB",
+  "slug": "bolfing-ag-ibach",
+  "name": "Bolfing AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Gätzlistrasse 6",
+    "plz": "6440",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418193720",
+    "email": "info@bolfing-ag.ch",
+    "webseite": "https://www.bolfing-ag.ch/de"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

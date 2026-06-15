@@ -1,0 +1,30 @@
+{
+  "id": "ch-1ptVtvuhC8lDOqYKApjR",
+  "slug": "cesi-canepa-ag-cham",
+  "name": "Cesi Canepa AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 9",
+    "plz": "6330",
+    "ort": "Cham",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417481818",
+    "email": "info@canepa.ch",
+    "webseite": "https://www.canepa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

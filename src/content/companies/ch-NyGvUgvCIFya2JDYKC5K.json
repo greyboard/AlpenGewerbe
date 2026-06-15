@@ -1,0 +1,30 @@
+{
+  "id": "ch-NyGvUgvCIFya2JDYKC5K",
+  "slug": "schumacher-andi-gartenbau-gmbh-rohr",
+  "name": "Schumacher Andi Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 57",
+    "plz": "5032",
+    "ort": "Rohr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628240066",
+    "email": "info@andi-schumacher-gartenbau.ch",
+    "webseite": "https://www.andi-schumacher-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

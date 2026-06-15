@@ -1,0 +1,30 @@
+{
+  "id": "ch-5ID8h4fiAKbSszblncKm",
+  "slug": "bleisch-schreinerei-ag-luzern",
+  "name": "Bleisch Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Rothenring 22",
+    "plz": "6015",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412606404",
+    "email": "bleisch@mein-schreiner.ch",
+    "webseite": "https://www.bleisch-luzern.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

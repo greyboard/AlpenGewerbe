@@ -1,0 +1,30 @@
+{
+  "id": "ch-fZ6RuogOgsXbPEOeQWwQ",
+  "slug": "bernaroof-ag-bern",
+  "name": "BernaRoof AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Ziegelackerstrasse 9",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319923131",
+    "email": "info@bernaroof.ch",
+    "webseite": "https://www.bernaroof.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-AsNvPRZCYpTJwY7zxUO3",
+  "slug": "plantech-buochs",
+  "name": "Plantech",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Ennetbürgerstrasse 42A",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416107751",
+    "email": "info@plantech.ch",
+    "webseite": "https://plantech.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

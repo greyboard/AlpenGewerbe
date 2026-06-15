@@ -1,0 +1,29 @@
+{
+  "id": "li-C0CRMGmSwbRbfmr0u8se",
+  "slug": "a-buechel-anstalt-triesen",
+  "name": "A. Büchel Anstalt",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Im Arg 2",
+    "plz": "9495",
+    "ort": "Triesen",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4233921155",
+    "email": "office@abuechel.li",
+    "webseite": "https://www.dinstromer.li"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

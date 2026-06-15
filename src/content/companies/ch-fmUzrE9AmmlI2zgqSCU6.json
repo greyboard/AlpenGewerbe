@@ -1,0 +1,30 @@
+{
+  "id": "ch-fmUzrE9AmmlI2zgqSCU6",
+  "slug": "michael-legler-baudienstleistungen-schwanden",
+  "name": "Michael Legler Baudienstleistungen",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Im Buchen 1",
+    "plz": "8762",
+    "ort": "Schwanden",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763858762",
+    "email": "michael.legler@hotmail.ch",
+    "webseite": "https://www.legler-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

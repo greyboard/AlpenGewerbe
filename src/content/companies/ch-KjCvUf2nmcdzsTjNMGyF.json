@@ -1,0 +1,29 @@
+{
+  "id": "ch-KjCvUf2nmcdzsTjNMGyF",
+  "slug": "hsh-installationstechnik-ag-buchs",
+  "name": "HSH Installationstechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Langäulistrasse 35",
+    "plz": "9470",
+    "ort": "Buchs",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41817558000",
+    "email": "info@hsh-ag.ch",
+    "webseite": "https://www.hsh-ag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

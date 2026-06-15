@@ -1,0 +1,30 @@
+{
+  "id": "ch-109rHIM59bOo36N54vnw",
+  "slug": "gebr-stucki-ag-mollis",
+  "name": "Gebr. Stucki AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Niederwilerstrasse 16",
+    "plz": "8753",
+    "ort": "Mollis",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556121655",
+    "email": "info@gebrstuckiag.ch",
+    "webseite": "https://www.gebrstuckiag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

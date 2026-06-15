@@ -1,0 +1,30 @@
+{
+  "id": "ch-5bLVURAmIGRytRdyWl3C",
+  "slug": "s-deluca-gipser-gmbh-st-gallen",
+  "name": "S. Deluca Gipser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Lukasstrasse 17",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712446024",
+    "email": "info@deluca-gipser.ch",
+    "webseite": "https://www.deluca-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

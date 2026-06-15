@@ -1,0 +1,30 @@
+{
+  "id": "ch-SoU6ZZA1CPLxMUMxCrLE",
+  "slug": "frey-cie-elektro-ag-zug-zug",
+  "name": "Frey+Cie Elektro AG Zug",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Chollerstrasse 3",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417112233",
+    "email": "info@freycie-zug.ch",
+    "webseite": "https://www.freycie-zug.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

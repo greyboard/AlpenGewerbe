@@ -1,0 +1,30 @@
+{
+  "id": "ch-j7A3dM80hMqnHbGJqU7h",
+  "slug": "dach-zenuni-gmbh-heiden",
+  "name": "Dach Zenuni GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rosentalstrasse 12b",
+    "plz": "9410",
+    "ort": "Heiden",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797805929",
+    "email": "info@dachzenuni.ch",
+    "webseite": "https://dachzenuni.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

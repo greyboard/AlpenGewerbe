@@ -1,0 +1,30 @@
+{
+  "id": "ch-OmyA3rkFM7TUVRkvo4cj",
+  "slug": "lindauer-ag-steinen",
+  "name": "Lindauer AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Frauholzstrasse 45",
+    "plz": "6422",
+    "ort": "Steinen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418321634",
+    "email": "info@lindauerag.ch",
+    "webseite": "https://www.lindauerag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

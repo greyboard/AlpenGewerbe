@@ -1,0 +1,30 @@
+{
+  "id": "ch-wydnmP292AssNQe7aHet",
+  "slug": "stampfl-co-ag-st-gallen",
+  "name": "Stampfl & Co. AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Mühlenstrasse 24",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712227570",
+    "email": "info@elektro-stampfl.ch",
+    "webseite": "https://www.elektro-stampfl.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

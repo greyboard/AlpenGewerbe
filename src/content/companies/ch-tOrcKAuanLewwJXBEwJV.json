@@ -1,0 +1,30 @@
+{
+  "id": "ch-tOrcKAuanLewwJXBEwJV",
+  "slug": "soma-gartenbau-gmbh-frauenfeld",
+  "name": "SOMA Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Mühletobelstrasse",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527201237",
+    "email": "info@soma-gartenbau.ch",
+    "webseite": "https://www.soma-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

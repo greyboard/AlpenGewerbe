@@ -1,0 +1,30 @@
+{
+  "id": "ch-HNl3opZpEOWZ6NqbkTVx",
+  "slug": "iseli-albrecht-ag-schaffhausen",
+  "name": "Iseli + Albrecht AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Münstergasse 22",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526324433",
+    "email": "info@iseli-albrecht.ch",
+    "webseite": "https://www.iseli-albrecht.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

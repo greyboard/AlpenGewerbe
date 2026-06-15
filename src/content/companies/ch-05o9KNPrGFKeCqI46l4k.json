@@ -1,0 +1,30 @@
+{
+  "id": "ch-05o9KNPrGFKeCqI46l4k",
+  "slug": "sanitaer-lago-gmbh-st-gallen",
+  "name": "Sanitär LaGo GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Oberstrasse 75",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712776362",
+    "email": "info@sanitaer-lago.ch",
+    "webseite": "https://www.sanitaer-lago.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

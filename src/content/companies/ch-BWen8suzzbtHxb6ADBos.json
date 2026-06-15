@@ -1,0 +1,30 @@
+{
+  "id": "ch-BWen8suzzbtHxb6ADBos",
+  "slug": "malergeschaeft-langenauer-gmbh-urnaesch",
+  "name": "Malergeschäft Langenauer GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hofstrasse 1",
+    "plz": "9107",
+    "ort": "Urnäsch",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713641756",
+    "email": "langenauer@bluewin.ch",
+    "webseite": "https://maler-langenauer.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-PRTFEnvxu0dzBPezhlJL",
+  "slug": "fumasoli-sa-cadro",
+  "name": "Fumasoli SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via Stazione 28",
+    "plz": "6965",
+    "ort": "Cadro",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41919432141",
+    "email": "info@fumasoli.net",
+    "webseite": "https://fumasoli.net"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

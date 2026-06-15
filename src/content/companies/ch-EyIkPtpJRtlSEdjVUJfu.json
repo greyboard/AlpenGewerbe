@@ -1,0 +1,30 @@
+{
+  "id": "ch-EyIkPtpJRtlSEdjVUJfu",
+  "slug": "green-living-space-gmbh-zuerich",
+  "name": "Green Living Space GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wolframpl. 14",
+    "plz": "8045",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787402722",
+    "email": "info@green-living-space.ch",
+    "webseite": "https://www.green-living-space.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-JRrVjHtjSuwhsYFgmppZ",
+  "slug": "zwick-elektro-ag-wuppenau",
+  "name": "ZWICK Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 10",
+    "plz": "9514",
+    "ort": "Wuppenau",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41719138020",
+    "email": "info@zwick-elektro.ch",
+    "webseite": "https://zwick-elektro.digitalone.site"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-gP3jVPVhBtXztRKZAeE5",
+  "slug": "r-haesler-ag-moehlin",
+  "name": "R. Häsler AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 15",
+    "plz": "4313",
+    "ort": "Möhlin",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618512163",
+    "email": "info@haesler-ag.ch",
+    "webseite": "https://haesler-ag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-gC49w21yUFVIYepl9wVL",
+  "slug": "bianchi-silvio-heizung-gmbh-malans",
+  "name": "Bianchi Silvio Heizung GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Heuteilerweg 3",
+    "plz": "7208",
+    "ort": "Malans",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813224269",
+    "email": "sisu.bianchi@sunrise.ch",
+    "webseite": "https://www.bianchi-heizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

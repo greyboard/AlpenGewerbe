@@ -1,0 +1,30 @@
+{
+  "id": "ch-Ve2Q5p5udISHi1SO5axb",
+  "slug": "jardinsuisse-aargau-birr",
+  "name": "JardinSuisse Aargau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Pestalozzistrasse 106",
+    "plz": "5242",
+    "ort": "Birr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628910717",
+    "email": "info@jardinsuisse-aargau.ch",
+    "webseite": "https://www.jardinsuisse-aargau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

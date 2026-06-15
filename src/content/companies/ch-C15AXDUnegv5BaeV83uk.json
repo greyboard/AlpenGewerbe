@@ -1,0 +1,30 @@
+{
+  "id": "ch-C15AXDUnegv5BaeV83uk",
+  "slug": "max-mueller-sanitaer-schaffhausen",
+  "name": "Max Müller Sanitär",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Neustadt 15",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526254207",
+    "email": "info@max-mueller.ch",
+    "webseite": "https://www.max-mueller.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-73brmbRW3HcyaNCs6hKv",
+  "slug": "sopa-elektrokontrollen-gmbh-naefels",
+  "name": "Sopa Elektrokontrollen GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Mühlhäusern 4a",
+    "plz": "8752",
+    "ort": "Näfels",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792247042",
+    "email": "info@sopa-elektro.ch",
+    "webseite": "https://www.sopa-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

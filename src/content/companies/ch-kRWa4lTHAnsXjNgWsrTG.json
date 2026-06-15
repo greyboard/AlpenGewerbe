@@ -1,0 +1,30 @@
+{
+  "id": "ch-kRWa4lTHAnsXjNgWsrTG",
+  "slug": "montaputz-gmbh-baar",
+  "name": "Montaputz GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Oberneuhofstrasse 5",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798711029",
+    "email": "info@montaputz.ch",
+    "webseite": "https://www.montaputz.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

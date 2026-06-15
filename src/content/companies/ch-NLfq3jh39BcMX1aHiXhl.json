@@ -1,0 +1,30 @@
+{
+  "id": "ch-NLfq3jh39BcMX1aHiXhl",
+  "slug": "maurer-thomas-kriens",
+  "name": "Maurer Thomas",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Gärtnerweg 20",
+    "plz": "6010",
+    "ort": "Kriens",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796437808",
+    "email": "info@schreinerei-maurer.ch",
+    "webseite": "https://www.schreinerei-maurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

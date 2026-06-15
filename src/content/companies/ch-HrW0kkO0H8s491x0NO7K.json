@@ -1,0 +1,30 @@
+{
+  "id": "ch-HrW0kkO0H8s491x0NO7K",
+  "slug": "sanitaer-berger-gmbh-muenchwilen",
+  "name": "Sanitär Berger GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Mezikonerstrasse 8A",
+    "plz": "9542",
+    "ort": "Münchwilen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792499247",
+    "email": "info@sanberger.ch",
+    "webseite": "https://www.sanberger.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

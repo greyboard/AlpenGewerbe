@@ -1,0 +1,30 @@
+{
+  "id": "ch-SZ2MvtqUOwoWEN0XEYSX",
+  "slug": "schreinerei-langendorf-ag-langendorf",
+  "name": "Schreinerei Langendorf AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 11",
+    "plz": "4513",
+    "ort": "Langendorf",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326238921",
+    "email": "info@schreinerei-langendorf.ch",
+    "webseite": "https://www.schreinerei-langendorf.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

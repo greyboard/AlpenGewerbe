@@ -1,0 +1,30 @@
+{
+  "id": "ch-Eg4Rf0bDTMDOyA1a0nNm",
+  "slug": "hofmann-malerei-ag-st-gallen",
+  "name": "Hofmann Malerei AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Mövenstrasse 12",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713137090",
+    "email": "info@hofmann-malerei.ch",
+    "webseite": "https://www.hofmann-malerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

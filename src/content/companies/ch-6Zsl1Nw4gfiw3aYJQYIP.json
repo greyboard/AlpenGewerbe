@@ -1,0 +1,30 @@
+{
+  "id": "ch-6Zsl1Nw4gfiw3aYJQYIP",
+  "slug": "costa-sa-geneve",
+  "name": "Costa SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rue des Pavillons 14",
+    "plz": "1205",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223221540",
+    "email": "info@costa-sa.ch",
+    "webseite": "https://www.costa-sa-geneve.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-8SLVPhg8QO5bgA9SLRvj",
+  "slug": "arbos-gartenbau-ag-hoelstein",
+  "name": "Arbos Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Bärenmattenstrasse 7",
+    "plz": "4434",
+    "ort": "Hölstein",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619531330",
+    "email": "info@arbosgartenbau.ch",
+    "webseite": "https://www.arbosgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

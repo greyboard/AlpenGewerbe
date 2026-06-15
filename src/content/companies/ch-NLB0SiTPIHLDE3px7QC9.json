@@ -1,0 +1,30 @@
+{
+  "id": "ch-NLB0SiTPIHLDE3px7QC9",
+  "slug": "pfister-maler-gipser-ag-solothurn",
+  "name": "Pfister Maler & Gipser AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bielstrasse 96",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326854264",
+    "email": "maler.pfister@bluewin.ch",
+    "webseite": "https://www.malerpfistersolothurn.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

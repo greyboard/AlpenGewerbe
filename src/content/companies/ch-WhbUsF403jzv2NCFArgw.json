@@ -1,0 +1,30 @@
+{
+  "id": "ch-WhbUsF403jzv2NCFArgw",
+  "slug": "friedli-sanitaerinstallationen-gmbh-obergerlafingen",
+  "name": "Friedli Sanitärinstallationen GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Erlenweg 7",
+    "plz": "4564",
+    "ort": "Obergerlafingen",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326820142",
+    "email": "info@sanitaer-friedli.ch",
+    "webseite": "https://www.sanitaer-friedli.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

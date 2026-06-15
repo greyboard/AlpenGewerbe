@@ -1,0 +1,30 @@
+{
+  "id": "ch-YKfaauLhXcRYlUHxaTIg",
+  "slug": "boehlen-landschaftsbau-gmbh-frauenkappelen",
+  "name": "Böhlen Landschaftsbau Gmbh",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Murtenstrasse",
+    "plz": "3202",
+    "ort": "Frauenkappelen",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789353919",
+    "email": "info@boehlen-landschaftsbau.ch",
+    "webseite": "https://www.boehlen-landschaftsbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

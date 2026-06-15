@@ -1,0 +1,30 @@
+{
+  "id": "ch-fIQeIwFoXjqQ8vDAIzTt",
+  "slug": "imhof-toni-erstfeld",
+  "name": "Imhof Toni",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 125",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795195645",
+    "email": "toni_imhof@bluewin.ch",
+    "webseite": "https://www.gartenpflege-toniimhof.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

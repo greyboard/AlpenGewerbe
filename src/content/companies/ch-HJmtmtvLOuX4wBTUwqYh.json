@@ -1,0 +1,30 @@
+{
+  "id": "ch-HJmtmtvLOuX4wBTUwqYh",
+  "slug": "z-feuz-elektro-gmbh-ennenda",
+  "name": "Z Feuz Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ennetbühlerstrasse 20",
+    "plz": "8755",
+    "ort": "Ennenda",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556401484",
+    "email": "info@feuz-elektro.ch",
+    "webseite": "https://www.feuz-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

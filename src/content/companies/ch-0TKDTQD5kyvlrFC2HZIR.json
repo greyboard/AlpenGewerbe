@@ -1,0 +1,30 @@
+{
+  "id": "ch-0TKDTQD5kyvlrFC2HZIR",
+  "slug": "din-bodeleger-gmbh-boettstein",
+  "name": "Din Bodeleger GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Winkelstrasse 26",
+    "plz": "5314",
+    "ort": "Böttstein",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798875000",
+    "email": "info@dinbodeleger.ch",
+    "webseite": "https://dinbodeleger.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

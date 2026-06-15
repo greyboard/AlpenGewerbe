@@ -1,0 +1,30 @@
+{
+  "id": "ch-3XGLXxFd7e6O5EluzWnY",
+  "slug": "marzo-gips-bad-ragaz",
+  "name": "Marzo Gips",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Chriesilöserstrasse 61",
+    "plz": "7310",
+    "ort": "Bad Ragaz",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763930060",
+    "email": "info@marzogips.ch",
+    "webseite": "https://www.marzogips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

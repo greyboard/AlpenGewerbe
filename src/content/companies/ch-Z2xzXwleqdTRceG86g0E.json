@@ -1,0 +1,30 @@
+{
+  "id": "ch-Z2xzXwleqdTRceG86g0E",
+  "slug": "mk-holzbau-teufen",
+  "name": "MK Holzbau",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Speicherstrasse 19",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793495373",
+    "email": "info@hallo-merkur.ch",
+    "webseite": "https://mkholzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

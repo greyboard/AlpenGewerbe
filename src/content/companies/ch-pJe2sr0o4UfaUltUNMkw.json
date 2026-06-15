@@ -1,0 +1,30 @@
+{
+  "id": "ch-pJe2sr0o4UfaUltUNMkw",
+  "slug": "beat-schnell-malergeschaeft-gmbh-schaffhausen",
+  "name": "Beat Schnell Malergeschäft GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schlossstrasse 18",
+    "plz": "8207",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41768413343",
+    "email": "schaffhauseninfo@malergeschaeft-schnell.ch",
+    "webseite": "https://www.malergeschaeft-schnell.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

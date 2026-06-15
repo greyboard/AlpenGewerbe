@@ -1,0 +1,29 @@
+{
+  "id": "li-gdC3v83aL7gMkXGcc8Hs",
+  "slug": "h2o-plan-gmbh-schaan",
+  "name": "H2O-Plan GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Im alten Riet 102",
+    "plz": "9494",
+    "ort": "Schaan",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+41787233132",
+    "email": "info@h2o-plan.ch",
+    "webseite": "https://h2o-plan.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

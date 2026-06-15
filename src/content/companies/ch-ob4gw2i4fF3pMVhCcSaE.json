@@ -1,0 +1,30 @@
+{
+  "id": "ch-ob4gw2i4fF3pMVhCcSaE",
+  "slug": "steinmann-haustechnik-ag-baar",
+  "name": "Steinmann Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 3",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417677080",
+    "email": "info@steinmann-baar.ch",
+    "webseite": "https://www.steinmann-baar.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

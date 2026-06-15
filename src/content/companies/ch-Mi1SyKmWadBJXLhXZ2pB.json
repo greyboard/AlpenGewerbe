@@ -1,0 +1,30 @@
+{
+  "id": "ch-Mi1SyKmWadBJXLhXZ2pB",
+  "slug": "yves-aschwanden-gipsergeschaeft-gmbh-glarus",
+  "name": "Yves Aschwanden Gipsergeschäft GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Ygrubenstrasse 20",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795421023",
+    "email": "info@gipser-aschwanden.ch",
+    "webseite": "https://www.gipser-aschwanden.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

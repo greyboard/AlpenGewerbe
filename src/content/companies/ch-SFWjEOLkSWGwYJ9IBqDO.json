@@ -1,0 +1,30 @@
+{
+  "id": "ch-SFWjEOLkSWGwYJ9IBqDO",
+  "slug": "sepp-wagner-gmbh-kerns",
+  "name": "Sepp Wagner GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 8",
+    "plz": "6064",
+    "ort": "Kerns",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416607244",
+    "email": "info@seppwagnergmbh.ch",
+    "webseite": "https://seppwagnergmbh.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-UhqjW2p4NVvSEzbtUPvT",
+  "slug": "chr-mueller-co-tiefbau-ag-zuerich",
+  "name": "Chr. Müller + Co. Tiefbau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Schwamendingenstrasse 34",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443157090",
+    "email": "info@chr-mueller.ch",
+    "webseite": "https://www.chr-mueller.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

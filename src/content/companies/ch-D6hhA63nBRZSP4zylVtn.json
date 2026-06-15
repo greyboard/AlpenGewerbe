@@ -1,0 +1,30 @@
+{
+  "id": "ch-D6hhA63nBRZSP4zylVtn",
+  "slug": "bauert-ag-parkpflege-gartenbau-bern",
+  "name": "Bauert AG Parkpflege Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Eymattstrasse 9",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319921500",
+    "email": "andreas.wyss@bauert-gartenbau.ch",
+    "webseite": "https://bauert-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

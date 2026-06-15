@@ -1,0 +1,30 @@
+{
+  "id": "ch-6wxr8Fwst9LOzH3hmnQV",
+  "slug": "luethard-heizungen-ag-scherz",
+  "name": "Lüthard Heizungen AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Holzgasse 205",
+    "plz": "5246",
+    "ort": "Scherz",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564448349",
+    "email": "info@luethard-heizungen.ch",
+    "webseite": "https://www.luethard-heizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

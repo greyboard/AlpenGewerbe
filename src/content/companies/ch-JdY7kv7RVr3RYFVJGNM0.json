@@ -1,0 +1,30 @@
+{
+  "id": "ch-JdY7kv7RVr3RYFVJGNM0",
+  "slug": "maler-dave-bern",
+  "name": "Maler Dave",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Sandrainstrasse 17",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319727272",
+    "email": "info@maler-dave.ch",
+    "webseite": "https://maler-dave.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

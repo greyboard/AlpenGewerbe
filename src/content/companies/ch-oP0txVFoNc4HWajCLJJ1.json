@@ -1,0 +1,30 @@
+{
+  "id": "ch-oP0txVFoNc4HWajCLJJ1",
+  "slug": "berner-f-gartenbau-ag-zuerich",
+  "name": "Berner F. Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Talbächliweg 5",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444300370",
+    "email": "info@bernergartenbau.ch",
+    "webseite": "https://www.bernergartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

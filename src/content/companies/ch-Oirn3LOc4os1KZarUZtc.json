@@ -1,0 +1,30 @@
+{
+  "id": "ch-Oirn3LOc4os1KZarUZtc",
+  "slug": "meibau-herisau",
+  "name": "meibau",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "u. Fabrik 18b",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763434484",
+    "email": "info@meibau.ch",
+    "webseite": "https://meibau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

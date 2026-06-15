@@ -1,0 +1,30 @@
+{
+  "id": "ch-FqEob6ko1PYL7E1HJ2jS",
+  "slug": "gattlen-gebaeudetechnik-visp",
+  "name": "Gattlen Gebäudetechnik",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Wehreyering 45",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279464100",
+    "email": "info@gattlen.ch",
+    "webseite": "https://www.gattlen.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

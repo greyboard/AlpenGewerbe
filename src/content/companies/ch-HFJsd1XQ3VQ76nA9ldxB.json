@@ -1,0 +1,30 @@
+{
+  "id": "ch-HFJsd1XQ3VQ76nA9ldxB",
+  "slug": "aquates-kaiseraugst",
+  "name": "Aquates",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Violaweg 73",
+    "plz": "4303",
+    "ort": "Kaiseraugst",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788701108",
+    "email": "info@mysite.com",
+    "webseite": "https://www.aquates.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

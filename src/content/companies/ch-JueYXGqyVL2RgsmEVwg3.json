@@ -1,0 +1,30 @@
+{
+  "id": "ch-JueYXGqyVL2RgsmEVwg3",
+  "slug": "maler-hauser-ag-naefels",
+  "name": "Maler Hauser AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schwärzistrasse 7",
+    "plz": "8752",
+    "ort": "Näfels",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556121488",
+    "email": "info@maler-hauser.ch",
+    "webseite": "https://maler-hauser.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

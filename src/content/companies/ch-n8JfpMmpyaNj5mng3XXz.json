@@ -1,0 +1,30 @@
+{
+  "id": "ch-n8JfpMmpyaNj5mng3XXz",
+  "slug": "rooftech-ag-reinach",
+  "name": "Rooftech AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Bodenmattstrasse 30",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617132210",
+    "email": "g.cueni@rooftech-ag.ch",
+    "webseite": "https://www.rooftech-ag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

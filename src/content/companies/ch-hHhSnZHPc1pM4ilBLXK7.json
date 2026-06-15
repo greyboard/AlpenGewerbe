@@ -1,0 +1,30 @@
+{
+  "id": "ch-hHhSnZHPc1pM4ilBLXK7",
+  "slug": "metallbau-stoller-belp-ag-belp",
+  "name": "Metallbau Stoller Belp AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Viehweidstrasse 51",
+    "plz": "3123",
+    "ort": "Belp",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318100020",
+    "email": "info@metallbau-stoller.ch",
+    "webseite": "https://www.metallbau-stoller.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

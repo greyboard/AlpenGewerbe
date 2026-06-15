@@ -1,0 +1,30 @@
+{
+  "id": "ch-tnytdsOY7gzfqnmduVI5",
+  "slug": "studer-staub-metallbau-gmbh-zuchwil",
+  "name": "Studer & Staub Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Schützenweg 1",
+    "plz": "4528",
+    "ort": "Zuchwil",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792886092",
+    "email": "info@eisenmaenner.ch",
+    "webseite": "https://eisenmaenner.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

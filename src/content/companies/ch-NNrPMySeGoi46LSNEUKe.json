@@ -1,0 +1,30 @@
+{
+  "id": "ch-NNrPMySeGoi46LSNEUKe",
+  "slug": "ecr360-sarl-geneve",
+  "name": "ECR360 Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue de la Navigation 25",
+    "plz": "1201",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796065336",
+    "email": "info@ecr360.ch",
+    "webseite": "https://ecr360.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

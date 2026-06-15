@@ -1,0 +1,30 @@
+{
+  "id": "ch-vsNd2LALaTD5utpolNfn",
+  "slug": "straumann-hipp-ag-basel",
+  "name": "Straumann-Hipp AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hardstrasse 92",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613113860",
+    "email": "info@st-h.ch",
+    "webseite": "https://www.straumannhipp.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

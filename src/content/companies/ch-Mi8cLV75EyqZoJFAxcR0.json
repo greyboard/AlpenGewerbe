@@ -1,0 +1,30 @@
+{
+  "id": "ch-Mi8cLV75EyqZoJFAxcR0",
+  "slug": "maler-fritz-bossard-gmbh-ennetbuergen",
+  "name": "Maler Fritz Bossard GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Stanserstrasse 100",
+    "plz": "6373",
+    "ort": "Ennetbürgen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797875821",
+    "email": "info@maler-bossard.ch",
+    "webseite": "https://www.malerbossard.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

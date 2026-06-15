@@ -1,0 +1,30 @@
+{
+  "id": "ch-Fe8sJYMhv80LgksJ7U6L",
+  "slug": "steiner-ag-lyss",
+  "name": "Steiner AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 19A",
+    "plz": "3250",
+    "ort": "Lyss",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323842828",
+    "email": "info@steiner-sanitaer.ch",
+    "webseite": "https://www.steiner-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

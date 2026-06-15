@@ -1,0 +1,30 @@
+{
+  "id": "ch-qJeG9JApMyvZi7VmUP3R",
+  "slug": "gaertnerei-petermann-buochs",
+  "name": "Gärtnerei Petermann",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Güterstrasse 23",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416201154",
+    "email": "herbert.petermann@bluewin.ch",
+    "webseite": "https://www.blumen-petermann.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

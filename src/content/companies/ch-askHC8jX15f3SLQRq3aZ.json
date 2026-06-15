@@ -1,0 +1,30 @@
+{
+  "id": "ch-askHC8jX15f3SLQRq3aZ",
+  "slug": "klein-gartenbau-gmbh-dintikon",
+  "name": "Klein Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hinterdorfstrasse 26",
+    "plz": "5606",
+    "ort": "Dintikon",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627721919",
+    "email": "info@kleingartenbau.ch",
+    "webseite": "https://www.kleingartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Qer34R7ro7PC4P83QQFD",
+  "slug": "fasel-g-partner-sa-granges-paccot",
+  "name": "Fasel G. & Partner SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Imp. des Ecureuils 12",
+    "plz": "1763",
+    "ort": "Granges-Paccot",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264607740",
+    "email": "office@fasel-electro.ch",
+    "webseite": "https://www.fasel-electro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

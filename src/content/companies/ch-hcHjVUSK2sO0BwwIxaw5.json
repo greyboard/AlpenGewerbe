@@ -1,0 +1,30 @@
+{
+  "id": "ch-hcHjVUSK2sO0BwwIxaw5",
+  "slug": "gipsergeschaeft-tinella-gmbh-st-gallen",
+  "name": "Gipsergeschäft Tinella GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Bildstrasse 2",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712782865",
+    "email": "info@tinella.ch",
+    "webseite": "https://tinella.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

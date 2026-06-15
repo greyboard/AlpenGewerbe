@@ -1,0 +1,30 @@
+{
+  "id": "ch-P0OwhPbgL3VchVrOiEml",
+  "slug": "mooswey-gartenpflege-gmbh-zug",
+  "name": "MoosWey Gartenpflege GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "6300 Zug",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762960202",
+    "email": "info@mooswey.ch",
+    "webseite": "https://www.mooswey.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

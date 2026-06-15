@@ -1,0 +1,30 @@
+{
+  "id": "ch-H9Guxmx1yIl68zAZvAZE",
+  "slug": "reichlin-bau-ag-ibach",
+  "name": "Reichlin Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Muotastrasse 57",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418116815",
+    "email": "mail@reichlinbau.ch",
+    "webseite": "https://www.reichlinbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

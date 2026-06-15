@@ -1,0 +1,30 @@
+{
+  "id": "ch-BkGaVBAMXuAyO6oqmdPg",
+  "slug": "cozza-plaettli-root",
+  "name": "Cozza Plättli",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "Oberfeld 1",
+    "plz": "6037",
+    "ort": "Root",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413700303",
+    "email": "info@cozza.ch",
+    "webseite": "https://cozza.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

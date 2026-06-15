@@ -1,0 +1,30 @@
+{
+  "id": "ch-BRkyVWcLiQMPBCiKi0EY",
+  "slug": "koller-elektro-anlagen-ag-teufen",
+  "name": "Koller Elektro-Anlagen AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Alte Haslenstrasse 6",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713332990",
+    "email": "info@kollerelektro.ch",
+    "webseite": "https://yellow.local.ch/d/ahtwrG4fONGj-5AY_Jbnpw"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-fKzzVBOP04BbuwBKKAUs",
+  "slug": "buehler-roman-gmbh-zernez",
+  "name": "Bühler Roman GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Curtins 101A",
+    "plz": "7530",
+    "ort": "Zernez",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41818561572",
+    "email": "rnbuehler@bluewin.ch",
+    "webseite": "https://www.maler-buehler-zernez.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

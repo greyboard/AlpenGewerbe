@@ -1,0 +1,30 @@
+{
+  "id": "ch-PdKxH1GlVo34JcPtwOIs",
+  "slug": "elektro-muehlethaler-ag-muenchenstein",
+  "name": "Elektro Mühlethaler AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Grabenackerstrasse 13",
+    "plz": "4142",
+    "ort": "Münchenstein",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614160101",
+    "email": "info@elemag.ch",
+    "webseite": "https://www.elemag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

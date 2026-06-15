@@ -1,0 +1,30 @@
+{
+  "id": "ch-sbrBLEL3SFE2P5gWYnZm",
+  "slug": "apolloni-ag-bern",
+  "name": "Apolloni AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gerberngasse 26",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313021655",
+    "email": "apolloni@apolloni.ch",
+    "webseite": "https://www.apolloni.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

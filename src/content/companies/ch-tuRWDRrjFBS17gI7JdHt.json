@@ -1,0 +1,30 @@
+{
+  "id": "ch-tuRWDRrjFBS17gI7JdHt",
+  "slug": "h-gruenenfelder-ag-ziegelbruecke",
+  "name": "H. Grünenfelder AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Ziegelbrückstrasse 62",
+    "plz": "8866",
+    "ort": "Ziegelbrücke",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556172626",
+    "email": "info@garten-gruenenfelder.ch",
+    "webseite": "https://garten-gruenenfelder.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

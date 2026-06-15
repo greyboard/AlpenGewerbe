@@ -1,0 +1,30 @@
+{
+  "id": "ch-vd3pKFXpLmBSSrE8eEAn",
+  "slug": "tecnoservice-engineering-sa-fribourg",
+  "name": "Tecnoservice Engineering SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rte de Beaumont 20",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264258838",
+    "email": "fribourg@tecnoservice.ch",
+    "webseite": "https://www.tecnoservice.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

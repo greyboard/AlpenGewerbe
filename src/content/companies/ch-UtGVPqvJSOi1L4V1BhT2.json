@@ -1,0 +1,30 @@
+{
+  "id": "ch-UtGVPqvJSOi1L4V1BhT2",
+  "slug": "egli-schreinerservice-reinach",
+  "name": "Egli Schreinerservice",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Christoph Merian-Ring 23",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774512467",
+    "email": "info@egli-schreinerservice.ch",
+    "webseite": "https://www.egli-schreinerservice.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

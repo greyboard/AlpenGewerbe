@@ -1,0 +1,30 @@
+{
+  "id": "ch-5Pk8JuvL4R7uj7cgZvJF",
+  "slug": "malergeschaeft-r-scharegg-chur",
+  "name": "Malergeschäft R. Scharegg",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Sommeraustrasse 4",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793414061",
+    "email": "schareggr@gmail.com",
+    "webseite": "https://www.maler-scharegg.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

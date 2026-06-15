@@ -1,0 +1,30 @@
+{
+  "id": "ch-asBSRPZ47eotuYtA24u5",
+  "slug": "kurt-vorburger-ag-rohr",
+  "name": "Kurt Vorburger AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 15",
+    "plz": "5032",
+    "ort": "Rohr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628343333",
+    "email": "kontakt@vorburgerag.ch",
+    "webseite": "https://www.vorburgerag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

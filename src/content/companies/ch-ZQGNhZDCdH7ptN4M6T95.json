@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZQGNhZDCdH7ptN4M6T95",
+  "slug": "malergeschaeft-lucian-zug",
+  "name": "Malergeschäft Lucian",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Riedmatt 11",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417417502",
+    "email": "info@maler-lucian.ch",
+    "webseite": "https://maler-lucian.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

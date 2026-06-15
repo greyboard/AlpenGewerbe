@@ -1,0 +1,30 @@
+{
+  "id": "ch-E2lC1BQSZVdlK43Z5TFi",
+  "slug": "gebaeudetechnik-estermann-ag-weggis",
+  "name": "Gebäudetechnik Estermann AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Weiherstrasse 12",
+    "plz": "6353",
+    "ort": "Weggis",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414603000",
+    "email": "info@gt-e.ch",
+    "webseite": "https://www.gt-e.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

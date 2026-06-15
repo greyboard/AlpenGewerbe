@@ -1,0 +1,30 @@
+{
+  "id": "ch-0yrRBYGHnmXjkUASii6G",
+  "slug": "mas-peinture-sarl-fribourg",
+  "name": "MAS-Peinture Sàrl",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Imp. de la Sous-Station 8",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264112000",
+    "email": "info@mas-peinture.ch",
+    "webseite": "https://www.mas-peinture.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

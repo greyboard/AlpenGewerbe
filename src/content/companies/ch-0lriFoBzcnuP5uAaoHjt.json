@@ -1,0 +1,30 @@
+{
+  "id": "ch-0lriFoBzcnuP5uAaoHjt",
+  "slug": "schreinerei-daniel-hafner-solothurn",
+  "name": "Schreinerei Daniel Hafner",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Zuchwilerstrasse 60",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796584028",
+    "email": "daniel.hafner@gawnet.ch",
+    "webseite": "https://www.schreinerei-hafner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

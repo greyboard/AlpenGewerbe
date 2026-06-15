@@ -1,0 +1,30 @@
+{
+  "id": "ch-7AfGDq2FFruIa1hHTbEb",
+  "slug": "gartenbau-hoch3-liestal",
+  "name": "Gartenbau Hoch3",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hammerstrasse 45",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763371231",
+    "email": "info@gartenbauhoch3.ch",
+    "webseite": "https://www.gartenbauhoch3.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

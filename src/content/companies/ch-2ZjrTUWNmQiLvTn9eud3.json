@@ -1,0 +1,30 @@
+{
+  "id": "ch-2ZjrTUWNmQiLvTn9eud3",
+  "slug": "eco-depannage-electricite-geneve",
+  "name": "Eco Dépannage Électricité",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bvd de Saint-Georges 68",
+    "plz": "1205",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227819267",
+    "email": "info@ecodepannage.ch",
+    "webseite": "https://ecodepannage.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-TTbO10QDWICElq0aZ4nK",
+  "slug": "grimm-heiztechnik-ag-luescherz",
+  "name": "Grimm Heiztechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Riedmatte 2",
+    "plz": "2576",
+    "ort": "Lüscherz",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323381013",
+    "email": "info@grimm-heiz.ch",
+    "webseite": "https://www.grimm-heiz.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-7EPvk6UysLR8TtJ6SVKC",
+  "slug": "hydrotech-service-sagl-solduno",
+  "name": "HydroTech service Sagl",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via al Vecchio forno 2",
+    "plz": "6600",
+    "ort": "Solduno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41912250001",
+    "email": "info@hydrotechservice.ch",
+    "webseite": "https://www.hydrotechservice.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

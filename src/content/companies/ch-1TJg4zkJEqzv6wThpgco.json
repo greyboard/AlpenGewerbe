@@ -1,0 +1,30 @@
+{
+  "id": "ch-1TJg4zkJEqzv6wThpgco",
+  "slug": "webergarten-basel",
+  "name": "Webergarten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "St. Galler-Ring 95",
+    "plz": "4055",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788964767",
+    "email": "info@webergarten.ch",
+    "webseite": "https://www.webergarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

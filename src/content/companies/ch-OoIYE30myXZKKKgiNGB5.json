@@ -1,0 +1,30 @@
+{
+  "id": "ch-OoIYE30myXZKKKgiNGB5",
+  "slug": "savoy-verre-sarl-forel-lavaux",
+  "name": "Savoy Verre Sàrl",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rte de l'Industrie 3",
+    "plz": "1072",
+    "ort": "Forel (Lavaux)",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41219460770",
+    "email": "info@savoy-verre.ch",
+    "webseite": "https://www.savoy-verre.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

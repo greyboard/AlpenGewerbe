@@ -1,0 +1,30 @@
+{
+  "id": "ch-vUibpRXLt5B5o6RnieXP",
+  "slug": "der-kleine-gaertner-gmbh-schaffhausen",
+  "name": "Der kleine Gärtner GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Mühlentalstrasse 185",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41525036855",
+    "email": "info@derkleinegaertner.ch",
+    "webseite": "https://www.derkleinegaertner.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

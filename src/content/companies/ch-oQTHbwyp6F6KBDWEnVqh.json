@@ -1,0 +1,30 @@
+{
+  "id": "ch-oQTHbwyp6F6KBDWEnVqh",
+  "slug": "elektro-ll-gmbh-muenchenstein",
+  "name": "Elektro LL GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Grubenstrasse 15",
+    "plz": "4142",
+    "ort": "Münchenstein",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615569988",
+    "email": "info@elektro-ll.ch",
+    "webseite": "https://www.elektro-ll.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

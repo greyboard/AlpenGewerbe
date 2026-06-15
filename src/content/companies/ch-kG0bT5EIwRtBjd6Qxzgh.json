@@ -1,0 +1,30 @@
+{
+  "id": "ch-kG0bT5EIwRtBjd6Qxzgh",
+  "slug": "durrer-vogt-gartenbau-gmbh-sachseln",
+  "name": "durrer & vogt gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chapfli 18",
+    "plz": "6072",
+    "ort": "Sachseln",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416606208",
+    "email": "info@durrer-gartenbau.ch",
+    "webseite": "https://www.durrer-gartenbau.ch/Home.htm"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

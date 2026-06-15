@@ -1,0 +1,30 @@
+{
+  "id": "ch-PtKgJTOpkmjecE1ZXZBm",
+  "slug": "gha-glashandel-alpnach-ag-alpnach",
+  "name": "GHA Glashandel Alpnach AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Dorf CH",
+    "plz": "6055",
+    "ort": "Alpnach",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416700101",
+    "email": "gha@gha.ch",
+    "webseite": "https://www.gha.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

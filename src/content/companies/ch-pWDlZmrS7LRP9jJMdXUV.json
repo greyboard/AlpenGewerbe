@@ -1,0 +1,30 @@
+{
+  "id": "ch-pWDlZmrS7LRP9jJMdXUV",
+  "slug": "fehr-sanitaer-gmbh-boesingen",
+  "name": "Fehr Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Saanefeldstrasse 5",
+    "plz": "3178",
+    "ort": "Bösingen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317477977",
+    "email": "info@fehrsanitaer.ch",
+    "webseite": "https://www.fehrsanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

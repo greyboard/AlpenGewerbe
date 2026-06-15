@@ -1,0 +1,30 @@
+{
+  "id": "ch-4KEeoJNRL82d0KKwfvOw",
+  "slug": "merat-sanitaer-gmbh-boesingen",
+  "name": "Mérat Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 213",
+    "plz": "3178",
+    "ort": "Bösingen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317475358",
+    "email": "info@meratsanitaer.ch",
+    "webseite": "https://www.meratsanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

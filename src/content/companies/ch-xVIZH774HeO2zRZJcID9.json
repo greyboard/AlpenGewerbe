@@ -1,0 +1,30 @@
+{
+  "id": "ch-xVIZH774HeO2zRZJcID9",
+  "slug": "pecoud-fils-sarl-le-vaud",
+  "name": "Pécoud & Fils Sàrl",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Rle de Pensaz 8",
+    "plz": "1261",
+    "ort": "Le Vaud",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223662482",
+    "email": "info@pecoud.ch",
+    "webseite": "https://www.pecoud.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

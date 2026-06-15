@@ -1,0 +1,30 @@
+{
+  "id": "ch-0jdgkEYIWV87VO4TGmga",
+  "slug": "solotherm-waermepumpe-solothurn-solothurn",
+  "name": "Solotherm - Wärmepumpe Solothurn",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Zuchwilerstrasse 6",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41327660069",
+    "email": "kontakt@waermepumpesolothurn.ch",
+    "webseite": "https://waermepumpesolothurn.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

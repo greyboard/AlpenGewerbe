@@ -1,0 +1,30 @@
+{
+  "id": "ch-vBo6oontkzCNY8CHGneh",
+  "slug": "menge-ag-basel",
+  "name": "Menge AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Auf dem Wolf 1",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613199494",
+    "email": "info@menge.ch",
+    "webseite": "https://www.menge.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

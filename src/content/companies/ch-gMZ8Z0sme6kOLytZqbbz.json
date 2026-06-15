@@ -1,0 +1,30 @@
+{
+  "id": "ch-gMZ8Z0sme6kOLytZqbbz",
+  "slug": "lachenal-sa-geneve",
+  "name": "Lachenal SA",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Rue de la Servette 25",
+    "plz": "1201",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41229180888",
+    "email": "info@lachenal.ch",
+    "webseite": "https://www.lachenal.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

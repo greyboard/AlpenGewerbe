@@ -1,0 +1,30 @@
+{
+  "id": "ch-qNe4eUdcoNaTUZdJQIZR",
+  "slug": "malergeschaeft-rufer-gmbh-zuerich",
+  "name": "Malergeschäft Rufer GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Badenerstrasse 742",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765616916",
+    "email": "info@maler-rufer.ch",
+    "webseite": "https://www.maler-rufer.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

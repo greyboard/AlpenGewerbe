@@ -1,0 +1,30 @@
+{
+  "id": "ch-tzeCz1LfBdKIAGWqJTNw",
+  "slug": "valais-paysage-sarl-noes",
+  "name": "Valais Paysage Sàrl",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rue des Jardins 16",
+    "plz": "3976",
+    "ort": "Noës",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274581592",
+    "email": "valais.paysage@bluewin.ch",
+    "webseite": "https://www.valais-paysage.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-bKBesnWvAJP37OF6ETDh",
+  "slug": "luescher-gartenbau-zuerich",
+  "name": "Lüscher Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Bockhornstrasse 57",
+    "plz": "8047",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444928714",
+    "email": "info@lueschergartenbau.ch",
+    "webseite": "https://www.lueschergartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

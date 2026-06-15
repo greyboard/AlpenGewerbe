@@ -1,0 +1,30 @@
+{
+  "id": "ch-dhp86OlrkFOI8lcWtofZ",
+  "slug": "beat-broennimann-gmbh-st-gallen",
+  "name": "Beat Brönnimann GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 15",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712460020",
+    "email": "info@derspengler.ch",
+    "webseite": "https://www.derspengler.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

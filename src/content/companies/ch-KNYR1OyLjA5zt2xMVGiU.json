@@ -1,0 +1,30 @@
+{
+  "id": "ch-KNYR1OyLjA5zt2xMVGiU",
+  "slug": "elektro-bau-ag-rothrist-lenzburg",
+  "name": "Elektro-Bau AG Rothrist",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Lenzhardstrasse 11",
+    "plz": "5600",
+    "ort": "Lenzburg",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628863666",
+    "email": "info@elektro-bau.ch",
+    "webseite": "https://www.elektro-bau.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

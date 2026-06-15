@@ -1,0 +1,30 @@
+{
+  "id": "ch-wkl8dRqfpZTf4dAARWEM",
+  "slug": "kavi-schreinerei-ag-arosa",
+  "name": "KAVI Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Seewinkel",
+    "plz": "7050",
+    "ort": "Arosa",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813741301",
+    "email": "kavi-peist@bluewin.ch",
+    "webseite": "https://www.schreinerei-kavi.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

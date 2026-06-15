@@ -1,0 +1,30 @@
+{
+  "id": "ch-Yeg1cWYhR4ccVaRannIb",
+  "slug": "brennwall-ag-brig-glis",
+  "name": "Brennwall AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Gamsen CH",
+    "plz": "3900",
+    "ort": "Brig-Glis",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279235259",
+    "email": "info@brennwall.ch",
+    "webseite": "https://www.brennwall.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

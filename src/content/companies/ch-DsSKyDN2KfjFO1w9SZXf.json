@@ -1,0 +1,30 @@
+{
+  "id": "ch-DsSKyDN2KfjFO1w9SZXf",
+  "slug": "gips-company-gmbh-basel",
+  "name": "Gips Company GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Johanniterstrasse 5",
+    "plz": "4056",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764109059",
+    "email": "info@gips-company.ch",
+    "webseite": "https://www.gips-company.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

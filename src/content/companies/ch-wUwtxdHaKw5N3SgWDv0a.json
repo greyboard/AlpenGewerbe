@@ -1,0 +1,30 @@
+{
+  "id": "ch-wUwtxdHaKw5N3SgWDv0a",
+  "slug": "ed-borer-ag-basel",
+  "name": "Ed. Borer AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Wiesenstrasse 10",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616389838",
+    "email": "info@die-schreiner.ch",
+    "webseite": "https://www.die-schreiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

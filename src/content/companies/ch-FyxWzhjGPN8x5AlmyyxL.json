@@ -1,0 +1,30 @@
+{
+  "id": "ch-FyxWzhjGPN8x5AlmyyxL",
+  "slug": "wuersch-soehne-ag-luzern",
+  "name": "Würsch Söhne AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Taubenhausstrasse 10B",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413104850",
+    "email": "info@wuerschsoehne.ch",
+    "webseite": "https://www.wuerschsoehne.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

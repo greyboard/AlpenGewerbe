@@ -1,0 +1,30 @@
+{
+  "id": "ch-F94eQFqaQ9GAjchv4LhW",
+  "slug": "buergi-ag-alpnach-alpnach",
+  "name": "Bürgi AG Alpnach",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Grüneckweg 3",
+    "plz": "6055",
+    "ort": "Alpnach",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416727111",
+    "email": "info@buergibau.ch",
+    "webseite": "https://www.buergibau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

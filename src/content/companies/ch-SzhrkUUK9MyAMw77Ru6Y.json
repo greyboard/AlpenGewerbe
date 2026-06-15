@@ -1,0 +1,30 @@
+{
+  "id": "ch-SzhrkUUK9MyAMw77Ru6Y",
+  "slug": "teppich-metzger-gmbh-basel",
+  "name": "Teppich Metzger GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Riehenstrasse 238",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616810075",
+    "email": "bodenbelaege@teppich-metzger.ch",
+    "webseite": "https://www.teppich-metzger.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

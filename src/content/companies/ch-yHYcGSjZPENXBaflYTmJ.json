@@ -1,0 +1,30 @@
+{
+  "id": "ch-yHYcGSjZPENXBaflYTmJ",
+  "slug": "jobin-garten-matran",
+  "name": "JOBIN Garten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rte des Mueses 1A",
+    "plz": "1753",
+    "ort": "Matran",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794069964",
+    "email": "info@jobingartenbau.ch",
+    "webseite": "https://jobingarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

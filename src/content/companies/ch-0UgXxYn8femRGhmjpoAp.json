@@ -1,0 +1,30 @@
+{
+  "id": "ch-0UgXxYn8femRGhmjpoAp",
+  "slug": "impresa-di-pittura-luca-stauffer-losone",
+  "name": "Impresa di pittura Luca Stauffer",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Zandone 15",
+    "plz": "6616",
+    "ort": "Losone",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917913535",
+    "email": "luca.stauffer@bluewin.ch",
+    "webseite": "https://staufferpittura.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-qLLResXokz0iyRlMblas",
+  "slug": "hochuli-gmbh-malergeschaeft-aarau",
+  "name": "Hochuli GmbH Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Buchserstrasse 51",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628223214",
+    "email": "info@maler-hochuli.ch",
+    "webseite": "https://www.maler-hochuli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

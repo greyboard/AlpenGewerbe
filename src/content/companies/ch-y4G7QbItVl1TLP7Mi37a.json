@@ -1,0 +1,30 @@
+{
+  "id": "ch-y4G7QbItVl1TLP7Mi37a",
+  "slug": "birs-elektro-gmbh-birsfelden",
+  "name": "Birs Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rheinparkstrasse 3",
+    "plz": "4127",
+    "ort": "Birsfelden",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615991313",
+    "email": "info@birselektro.ch",
+    "webseite": "https://www.birselektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

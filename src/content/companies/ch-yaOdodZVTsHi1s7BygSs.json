@@ -1,0 +1,30 @@
+{
+  "id": "ch-yaOdodZVTsHi1s7BygSs",
+  "slug": "gipsergeschaeft-d-amore-dottikon",
+  "name": "Gipsergeschäft D'Amore",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 47",
+    "plz": "5605",
+    "ort": "Dottikon",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41566240561",
+    "email": "info@damoregips.ch",
+    "webseite": "https://www.damoregips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

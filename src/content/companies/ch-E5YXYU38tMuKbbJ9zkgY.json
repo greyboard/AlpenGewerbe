@@ -1,0 +1,30 @@
+{
+  "id": "ch-E5YXYU38tMuKbbJ9zkgY",
+  "slug": "oberli-gartenbau-ag-subingen",
+  "name": "Oberli Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 2",
+    "plz": "4553",
+    "ort": "Subingen",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326142525",
+    "email": "info@gartenbauoberli.ch",
+    "webseite": "https://www.gartenbauoberli.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

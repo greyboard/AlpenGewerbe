@@ -1,0 +1,30 @@
+{
+  "id": "ch-K52XsOlhhZh3Sejhye6q",
+  "slug": "ramseier-schreiner-gmbh-uetendorf",
+  "name": "Ramseier Schreiner GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Glütschbachstrasse 95",
+    "plz": "3661",
+    "ort": "Uetendorf",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41333364836",
+    "email": "info@ramseier-schreinerei.ch",
+    "webseite": "https://www.ramseier-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-gyym3XHQPcCOXymge6jw",
+  "slug": "fuchs-gartenpflege-gmbh-pfaeffikon",
+  "name": "Fuchs Gartenpflege GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Churerstrasse 162",
+    "plz": "8808",
+    "ort": "Pfäffikon",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797628666",
+    "email": "info@fuchsgartenpflege.ch",
+    "webseite": "https://www.fuchsgartenpflege.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

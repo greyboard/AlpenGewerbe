@@ -1,0 +1,30 @@
+{
+  "id": "ch-Px6d35O1v71pjmUUH6ye",
+  "slug": "schlatter-schreinerei-schaffhausen",
+  "name": "Schlatter Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Kirschenweg 6",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526251890",
+    "email": "info@schlatter.sh",
+    "webseite": "https://www.schlatter.sh"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

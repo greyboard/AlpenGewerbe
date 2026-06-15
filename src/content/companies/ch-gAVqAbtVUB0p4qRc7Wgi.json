@@ -1,0 +1,30 @@
+{
+  "id": "ch-gAVqAbtVUB0p4qRc7Wgi",
+  "slug": "murtishi-ag-malergeschaeft-urdorf",
+  "name": "Murtishi AG Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "In der Luberzen 17",
+    "plz": "8902",
+    "ort": "Urdorf",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41446216080",
+    "email": "info@murtishi-maler.ch",
+    "webseite": "https://www.murtishi-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

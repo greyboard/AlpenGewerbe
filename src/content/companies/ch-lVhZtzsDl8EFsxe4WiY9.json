@@ -1,0 +1,30 @@
+{
+  "id": "ch-lVhZtzsDl8EFsxe4WiY9",
+  "slug": "gartenbau-frauenfeld-frauenfeld",
+  "name": "Gartenbau Frauenfeld",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Schlossmühlestrasse 9",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41523990037",
+    "email": "info@gartenbaufrauenfeld.ch",
+    "webseite": "https://gartenbaufrauenfeld.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-k5RfIzPF9G2GaWtbwGC0",
+  "slug": "imgrueth-bau-ag-weggis",
+  "name": "Imgrüth Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Weiherstrasse 16",
+    "plz": "6353",
+    "ort": "Weggis",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413901963",
+    "email": "info@imgrueth-bau.ch",
+    "webseite": "https://imgrüth-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

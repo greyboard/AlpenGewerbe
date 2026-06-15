@@ -1,0 +1,30 @@
+{
+  "id": "ch-QImqoqoqPk7rBMBc4Rry",
+  "slug": "jardo-gaerten-gmbh-gartenbau-basel-basel",
+  "name": "Jardo Gärten GmbH, Gartenbau Basel",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Strassburgerallee 15",
+    "plz": "4055",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763038816",
+    "email": "info@jardogaerten.ch",
+    "webseite": "https://www.jardogaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

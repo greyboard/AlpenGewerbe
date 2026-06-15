@@ -1,0 +1,30 @@
+{
+  "id": "ch-sNa1mT2rPCwCVBBsyb5p",
+  "slug": "sanitaerinstallateur-andre-suter-gmbh-beinwil-am-see",
+  "name": "Sanitärinstallateur André Suter GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Quellenweg 28",
+    "plz": "5712",
+    "ort": "Beinwil am See",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627724262",
+    "email": "info@a-suter.ch",
+    "webseite": "https://www.a-suter.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

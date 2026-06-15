@@ -1,0 +1,30 @@
+{
+  "id": "ch-NIGKlnMtlyjB2r0Qrz4N",
+  "slug": "maler-briner-ag-aarau",
+  "name": "Maler Briner AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Distelbergstrasse 22",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628246050",
+    "email": "info@maler-briner.ch",
+    "webseite": "https://www.maler-briner.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

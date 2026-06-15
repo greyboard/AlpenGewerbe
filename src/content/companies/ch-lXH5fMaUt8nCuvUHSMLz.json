@@ -1,0 +1,30 @@
+{
+  "id": "ch-lXH5fMaUt8nCuvUHSMLz",
+  "slug": "schreinerei-jeckelmann-duedingen",
+  "name": "Schreinerei Jeckelmann",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Bonnstrasse 26",
+    "plz": "3186",
+    "ort": "Düdingen",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264933119",
+    "email": "info@jeckelmann-treppen.ch",
+    "webseite": "https://www.schreinerei-jeckelmann.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

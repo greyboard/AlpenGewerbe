@@ -1,0 +1,30 @@
+{
+  "id": "ch-q9ULq5GWKSscu4FWzwsi",
+  "slug": "glaserei-scheidegger-ag-luterbach",
+  "name": "Glaserei Scheidegger AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Derendingenstrasse 11A",
+    "plz": "4542",
+    "ort": "Luterbach",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326820682",
+    "email": "glasbruch@bluewin.ch",
+    "webseite": "https://www.glasbruch.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

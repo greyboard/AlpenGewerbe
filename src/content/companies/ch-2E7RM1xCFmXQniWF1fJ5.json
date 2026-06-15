@@ -1,0 +1,30 @@
+{
+  "id": "ch-2E7RM1xCFmXQniWF1fJ5",
+  "slug": "a-s-weiss-schreinerei-ag-zug",
+  "name": "A. + S. Weiss Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Grienbachstrasse 29",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417612052",
+    "email": "info@weiss-schreiner.ch",
+    "webseite": "https://www.weiss-schreiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

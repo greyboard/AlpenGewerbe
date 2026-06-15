@@ -1,0 +1,29 @@
+{
+  "id": "li-fI5XzU1FjRvq1cEZ7Qdp",
+  "slug": "enb-energieplanungs-anstalt-schaan",
+  "name": "ENB Energieplanungs-Anstalt",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Im alten Riet 102",
+    "plz": "9494",
+    "ort": "Schaan",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232399292",
+    "email": "kontakt@enb.li",
+    "webseite": "https://www.enb.li"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

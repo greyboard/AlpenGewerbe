@@ -1,0 +1,30 @@
+{
+  "id": "ch-JPSKvk0FlE37v50nM8X4",
+  "slug": "fesigips-gmbh-rorschach",
+  "name": "FesiGips GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Hohbühlstrasse 16a",
+    "plz": "9400",
+    "ort": "Rorschach",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41718454545",
+    "email": "info@fesigips.ch",
+    "webseite": "https://www.fesigips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-NcJ3kV1PD7LSeSUN7zKx",
+  "slug": "fri-elec-sa-givisiez",
+  "name": "Fri Elec SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue Pierre Yerly 4",
+    "plz": "1762",
+    "ort": "Givisiez",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264258585",
+    "email": "info@fri-elec.ch",
+    "webseite": "https://www.fri-elec.ch/fr"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

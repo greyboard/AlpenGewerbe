@@ -1,0 +1,30 @@
+{
+  "id": "ch-fuE3rdmHfP1xlGjFUVwQ",
+  "slug": "boesch-ag-garten-und-landschaftsbau-zuerich",
+  "name": "Boesch AG, Garten- und Landschaftsbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Witikonerstr. 295",
+    "plz": "8053",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443814545",
+    "email": "info@boesch-gartenbau.ch",
+    "webseite": "https://www.boesch-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-3TECB5u5BOiZcsXEJCpO",
+  "slug": "aqwa-stans",
+  "name": "AQWA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Riedenmatt 2",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416189000",
+    "email": "info@aqwa.ch",
+    "webseite": "https://www.aqwa.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

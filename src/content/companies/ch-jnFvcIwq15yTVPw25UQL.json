@@ -1,0 +1,30 @@
+{
+  "id": "ch-jnFvcIwq15yTVPw25UQL",
+  "slug": "metall-zug-ag-zug",
+  "name": "Metall Zug AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Grienbachstrasse 11",
+    "plz": "6302",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41587686050",
+    "email": "info@metallzug.ch",
+    "webseite": "https://www.metallzug.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

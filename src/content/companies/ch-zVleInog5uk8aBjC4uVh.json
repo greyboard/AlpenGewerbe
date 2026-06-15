@@ -1,0 +1,30 @@
+{
+  "id": "ch-zVleInog5uk8aBjC4uVh",
+  "slug": "f-s-bedachungen-gmbh-st-gallen",
+  "name": "F&S Bedachungen GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Burgstrasse 87",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712778000",
+    "email": "info@fs-bedachungen.ch",
+    "webseite": "https://www.fs-bedachungen.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

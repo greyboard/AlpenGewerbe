@@ -1,0 +1,30 @@
+{
+  "id": "ch-3hWCi7C9m3th1fiyhF5G",
+  "slug": "beat-rhiner-kundenmaurer-niedergoesgen",
+  "name": "Beat Rhiner Kundenmaurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Mühleweg 15",
+    "plz": "5013",
+    "ort": "Niedergösgen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797234197",
+    "email": "info@rhiner-bau.ch",
+    "webseite": "https://www.rhinerbaugeschaeft.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

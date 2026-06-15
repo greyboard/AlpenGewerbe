@@ -1,0 +1,30 @@
+{
+  "id": "ch-Lx0WJ6zXXrHoGUKOMAw9",
+  "slug": "kaeppeli-malermeister-gmbh-horw",
+  "name": "Käppeli Malermeister GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Grisigenstrasse 10",
+    "plz": "6048",
+    "ort": "Horw",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793416677",
+    "email": "kaeppeli@me.com",
+    "webseite": "https://kaeppeli-malermeister.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

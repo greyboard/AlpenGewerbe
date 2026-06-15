@@ -1,0 +1,30 @@
+{
+  "id": "ch-pm5pbxX8ltECbB1rukD0",
+  "slug": "frau-gerolds-garten-zuerich",
+  "name": "Frau Gerolds Garten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Geroldstrasse 23",
+    "plz": "8005",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789716764",
+    "email": "info@fraugerold.ch",
+    "webseite": "https://www.fraugerold.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-LHg1RccUhZmbJh6L1fiU",
+  "slug": "binder-ag-baeder-sanitaer-heizung-bern",
+  "name": "Binder AG, Bäder Sanitär Heizung",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Wasserwerkgasse 5",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313116611",
+    "email": "mail@binder-bern.ch",
+    "webseite": "https://www.binder-bern.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

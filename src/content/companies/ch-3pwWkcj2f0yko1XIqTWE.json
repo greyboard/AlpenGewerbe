@@ -1,0 +1,30 @@
+{
+  "id": "ch-3pwWkcj2f0yko1XIqTWE",
+  "slug": "fetcom-gmbh-kreuzlingen",
+  "name": "fetcom GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 33",
+    "plz": "8280",
+    "ort": "Kreuzlingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712222000",
+    "email": "info@fetcom.ch",
+    "webseite": "https://www.fetcom.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

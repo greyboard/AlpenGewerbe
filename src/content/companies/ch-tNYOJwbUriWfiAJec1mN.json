@@ -1,0 +1,30 @@
+{
+  "id": "ch-tNYOJwbUriWfiAJec1mN",
+  "slug": "furrer-metallbau-ag-lausen",
+  "name": "Furrer Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Kanalstrasse 1",
+    "plz": "4415",
+    "ort": "Lausen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619215880",
+    "email": "info@furrer-metallbau.ch",
+    "webseite": "https://www.furrer-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

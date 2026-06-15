@@ -1,0 +1,30 @@
+{
+  "id": "ch-QeBIG3geI2jUT2R5fcQK",
+  "slug": "masi-color-gmbh-st-gallen",
+  "name": "Masi Color GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Showroom & Büro: Rorschacher Strasse 166 Lukasstrasse 18 9008",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712440001",
+    "email": "info@masicolor.ch",
+    "webseite": "https://masicolor.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-eyEfIP54Idro3TuYlwt1",
+  "slug": "elettro-celio-sa-giubiasco",
+  "name": "Elettro-Celio SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Industrie 23",
+    "plz": "6512",
+    "ort": "Giubiasco",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41918573641",
+    "email": "info@celio.ch",
+    "webseite": "https://www.celio.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

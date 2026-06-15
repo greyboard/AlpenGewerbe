@@ -1,0 +1,30 @@
+{
+  "id": "ch-oizZzfBEz2lE99F3CM6w",
+  "slug": "city-electro-gmbh-zuerich",
+  "name": "City Electro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bernerstrasse N 182",
+    "plz": "8064",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41448881044",
+    "email": "info@cityelectro.ch",
+    "webseite": "https://www.cityelectro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

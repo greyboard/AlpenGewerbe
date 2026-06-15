@@ -1,0 +1,30 @@
+{
+  "id": "ch-JgRGRHliajdr33RRbwec",
+  "slug": "thur-haustechnik-ag-frauenfeld",
+  "name": "Thur Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Allmendweg 20A",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792413182",
+    "email": "info@thur-haustechnik.ch",
+    "webseite": "https://www.thur-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

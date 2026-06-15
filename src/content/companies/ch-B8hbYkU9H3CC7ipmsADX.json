@@ -1,0 +1,30 @@
+{
+  "id": "ch-B8hbYkU9H3CC7ipmsADX",
+  "slug": "kaderli-ag-duedingen",
+  "name": "Kaderli AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Jetschwil 55",
+    "plz": "3186",
+    "ort": "Düdingen",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264931544",
+    "email": "gartenbau@kaderli.ch",
+    "webseite": "https://www.kaderli.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

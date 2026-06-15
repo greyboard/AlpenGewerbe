@@ -1,0 +1,30 @@
+{
+  "id": "ch-7x8JvqCNKWigQfbQcQQ5",
+  "slug": "malerei-rolli-ag-liebefeld",
+  "name": "Malerei Rolli AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Höheweg 1",
+    "plz": "3097",
+    "ort": "Liebefeld",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319411458",
+    "email": "info@malereirolli.ch",
+    "webseite": "https://www.malereirolli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-miMI8CtIvNS0LrPI6R98",
+  "slug": "saniatec-oberurnen",
+  "name": "Saniatec",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Güterstrasse 6",
+    "plz": "8868",
+    "ort": "Oberurnen",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41552104591",
+    "email": "info@saniatec.ch",
+    "webseite": "https://saniatec.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

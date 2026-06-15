@@ -1,0 +1,30 @@
+{
+  "id": "ch-PXRxbn3vwFBeAPJN4kU3",
+  "slug": "fasel-brunner-ag-bern",
+  "name": "Fasel & Brunner AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Schützenweg 8",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313324452",
+    "email": "info@faselundbrunnerag.ch",
+    "webseite": "https://www.faselundbrunnerag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

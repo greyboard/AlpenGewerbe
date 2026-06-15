@@ -1,0 +1,30 @@
+{
+  "id": "ch-Ii0dHE1rsv7Mjq4pASM6",
+  "slug": "evo-gipsergeschaeft-baar",
+  "name": "Evo Gipsergeschäft",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Neuhofstrasse 3d",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41766232122",
+    "email": "info@evogipser.ch",
+    "webseite": "https://evogips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-hrjBRAExh5bcnzbeZOh4",
+  "slug": "husner-ag-holzbau-zuerich",
+  "name": "HUSNER AG Holzbau",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Bernerstrasse N 202",
+    "plz": "8064",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445104366",
+    "email": "info@cs2.ch",
+    "webseite": "https://www.husner.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

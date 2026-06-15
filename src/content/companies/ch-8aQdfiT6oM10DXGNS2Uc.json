@@ -1,0 +1,30 @@
+{
+  "id": "ch-8aQdfiT6oM10DXGNS2Uc",
+  "slug": "normdach-swiss-ag-rheinfelden",
+  "name": "Normdach Swiss AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Belchenstrasse 12",
+    "plz": "4310",
+    "ort": "Rheinfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618133200",
+    "email": "info@normdachswiss.ch",
+    "webseite": "https://www.normdachswiss.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

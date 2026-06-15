@@ -1,0 +1,30 @@
+{
+  "id": "ch-IekchPeFYVL02dSunCYZ",
+  "slug": "jakober-gaerten-glarus",
+  "name": "Jakober Gärten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wiesli 7",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788896490",
+    "email": "flojakober@gmx.ch",
+    "webseite": "https://yellow.local.ch/d/O78Cw-KvKryJUkdfDMuQBA"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-OfjqnoZkvAcn85P7ltMw",
+  "slug": "aqua-lab-zuerich",
+  "name": "aqua lab",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Heinrichstrasse 237",
+    "plz": "8005",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793519405",
+    "email": "info@aqua-lab.ch",
+    "webseite": "https://www.aqua-lab.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

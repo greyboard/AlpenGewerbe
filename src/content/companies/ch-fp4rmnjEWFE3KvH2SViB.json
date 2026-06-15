@@ -1,0 +1,30 @@
+{
+  "id": "ch-fp4rmnjEWFE3KvH2SViB",
+  "slug": "joss-holzbau-brugg",
+  "name": "JOSS Holzbau",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 5",
+    "plz": "5200",
+    "ort": "Brugg",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796736020",
+    "email": "info@jossholzbau.ch",
+    "webseite": "https://www.jossholzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

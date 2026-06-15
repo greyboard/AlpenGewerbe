@@ -1,0 +1,30 @@
+{
+  "id": "ch-iNiEHFf9EaH6gD4W9Ilx",
+  "slug": "holzrebel-bern",
+  "name": "HolzREBEL",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Riedbachstrasse 61",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318594659",
+    "email": "info@holzrebel.ch",
+    "webseite": "https://www.holzrebel.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

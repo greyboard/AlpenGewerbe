@@ -1,0 +1,30 @@
+{
+  "id": "ch-6uRXEJ1ydkPxQae3PULd",
+  "slug": "kuhn-gartenbau-ag-trimmis",
+  "name": "Kuhn Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Montalinstrass 25",
+    "plz": "7203",
+    "ort": "Trimmis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813533483",
+    "email": "kuhngartenbau@hispeed.ch",
+    "webseite": "https://www.kuhngartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

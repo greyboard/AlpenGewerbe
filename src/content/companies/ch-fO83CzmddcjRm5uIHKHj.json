@@ -1,0 +1,30 @@
+{
+  "id": "ch-fO83CzmddcjRm5uIHKHj",
+  "slug": "elektro-agz-aktiengesellschaft-altdorf",
+  "name": "Elektro AGZ Aktiengesellschaft",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 41",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418705335",
+    "email": "mail@elektroagz.ch",
+    "webseite": "https://www.elektroagz.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-bQFs9VpYMhEWfODspoNR",
+  "slug": "elektro-baetschmann-gmbh-buehler",
+  "name": "Elektro Bätschmann GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 100",
+    "plz": "9055",
+    "ort": "Bühler",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717933355",
+    "email": "info@elektro-baetschmann.ch",
+    "webseite": "https://www.elektro-baetschmann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

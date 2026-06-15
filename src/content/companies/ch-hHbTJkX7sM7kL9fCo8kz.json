@@ -1,0 +1,30 @@
+{
+  "id": "ch-hHbTJkX7sM7kL9fCo8kz",
+  "slug": "hansruedi-foellmi-schreinerei-feusisberg",
+  "name": "Hansruedi Föllmi Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Aeschstrasse 7",
+    "plz": "8834",
+    "ort": "Feusisberg",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765078885",
+    "email": "info@foellmi-schreinerei.ch",
+    "webseite": "https://www.foellmi-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

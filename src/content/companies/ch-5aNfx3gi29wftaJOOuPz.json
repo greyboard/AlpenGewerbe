@@ -1,0 +1,30 @@
+{
+  "id": "ch-5aNfx3gi29wftaJOOuPz",
+  "slug": "reichmuth-elektrik-ag-ibach",
+  "name": "Reichmuth Elektrik AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 14",
+    "plz": "6438",
+    "ort": "Ibach",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418196080",
+    "email": "info@reichmuth-elektrik.ch",
+    "webseite": "https://www.reichmuth-elektrik.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

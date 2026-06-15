@@ -1,0 +1,30 @@
+{
+  "id": "ch-0dVYceCTiS3DNSOXZRE2",
+  "slug": "schneuwly-gartenbau-gmbh-gurmels",
+  "name": "Schneuwly Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Dürenbergstrasse 9",
+    "plz": "3212",
+    "ort": "Gurmels",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774040100",
+    "email": "info@schneuwly-gartenbau.ch",
+    "webseite": "https://www.schneuwly-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

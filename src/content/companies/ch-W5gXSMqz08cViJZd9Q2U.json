@@ -1,0 +1,30 @@
+{
+  "id": "ch-W5gXSMqz08cViJZd9Q2U",
+  "slug": "gamma-ag-bau-schattdorf",
+  "name": "GAMMA AG Bau",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bötzlingerstrasse 3",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418745858",
+    "email": "mail@gamma-bau.ch",
+    "webseite": "https://www.gamma-holding.ch/bau/bau-home.html"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

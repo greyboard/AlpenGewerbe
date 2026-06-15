@@ -1,0 +1,30 @@
+{
+  "id": "ch-55S7QIfWVsr10v6MDOYV",
+  "slug": "tschan-gartenbau-gartenunterhalt-gmbh-koeniz",
+  "name": "Tschan Gartenbau & Gartenunterhalt GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Adlerweg 14",
+    "plz": "3098",
+    "ort": "Köniz",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797900003",
+    "email": "tschangarten@gmail.com",
+    "webseite": "https://www.tschangarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

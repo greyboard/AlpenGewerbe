@@ -1,0 +1,30 @@
+{
+  "id": "ch-M2iNz3jUet1NZhITDVAH",
+  "slug": "elektro-gutzwiller-znl-der-elektro-schmidlin-ag-oberwil",
+  "name": "Elektro Gutzwiller, ZNL der Elektro Schmidlin AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Mühlemattstrasse 25",
+    "plz": "4104",
+    "ort": "Oberwil",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614061010",
+    "email": "info@elektro-gutzwiller.ch",
+    "webseite": "https://www.elektro-gutzwiller.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-NNhCRUj1L7U78LaHo2rC",
+  "slug": "t-p-haustechnik-gmbh-basel",
+  "name": "T & P Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "St. Alban-Ring 280",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617137232",
+    "email": "kontakt@tphaustechnik.ch",
+    "webseite": "https://tphaustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

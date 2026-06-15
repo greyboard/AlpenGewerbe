@@ -1,0 +1,30 @@
+{
+  "id": "ch-VQBmYnuoMMYgduhXTI0E",
+  "slug": "a-schuler-elektro-ag-rothenthurm",
+  "name": "A. Schuler Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schoosstrasse 7",
+    "plz": "6418",
+    "ort": "Rothenthurm",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418381414",
+    "email": "info@schulerelektro.ch",
+    "webseite": "https://www.schulerelektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

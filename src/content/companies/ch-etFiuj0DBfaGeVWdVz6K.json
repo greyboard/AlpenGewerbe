@@ -1,0 +1,30 @@
+{
+  "id": "ch-etFiuj0DBfaGeVWdVz6K",
+  "slug": "theler-ag-bauunternehmung-raron",
+  "name": "Theler AG, Bauunternehmung",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 5",
+    "plz": "3942",
+    "ort": "Raron",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279358600",
+    "email": "info@thelerag.ch",
+    "webseite": "https://www.thelerag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

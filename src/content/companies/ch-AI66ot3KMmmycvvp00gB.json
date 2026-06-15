@@ -1,0 +1,30 @@
+{
+  "id": "ch-AI66ot3KMmmycvvp00gB",
+  "slug": "elektro-reisch-gmbh-alterswilen",
+  "name": "Elektro-Reisch GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bommerstrasse 15",
+    "plz": "8573",
+    "ort": "Alterswilen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716992060",
+    "email": "info@reisch.ch",
+    "webseite": "https://reisch.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-XA38xk4Zfi0cdpXia5DU",
+  "slug": "amigos-maler-gmbh-olten",
+  "name": "Amigos Maler GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 14",
+    "plz": "4600",
+    "ort": "Olten",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41622129012",
+    "email": "info@amigos-maler.ch",
+    "webseite": "https://www.amigos-maler.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

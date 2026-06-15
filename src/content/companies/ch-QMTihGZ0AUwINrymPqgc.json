@@ -1,0 +1,30 @@
+{
+  "id": "ch-QMTihGZ0AUwINrymPqgc",
+  "slug": "maler-schmid-martin-gmbh-stansstad",
+  "name": "Maler Schmid Martin GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Riedstrasse 8",
+    "plz": "6362",
+    "ort": "Stansstad",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416107168",
+    "email": "info@malerschmidmartin.ch",
+    "webseite": "https://malerschmidmartin.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

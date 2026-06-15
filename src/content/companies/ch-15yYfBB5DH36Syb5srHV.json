@@ -1,0 +1,30 @@
+{
+  "id": "ch-15yYfBB5DH36Syb5srHV",
+  "slug": "bingisser-maler-ag-einsiedeln",
+  "name": "Bingisser Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kobiboden 63",
+    "plz": "8840",
+    "ort": "Einsiedeln",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554122407",
+    "email": "info@bingisser-maler.ch",
+    "webseite": "https://www.bingisser-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-8osVfI0CEWNPjOZSybgD",
+  "slug": "bzs-heizung-sanitaer-ag-spiez",
+  "name": "BZS Heizung-Sanitär AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Simmentalstrasse 33",
+    "plz": "3700",
+    "ort": "Spiez",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41336546284",
+    "email": "info@rodo-computer.ch",
+    "webseite": "https://www.bzs.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

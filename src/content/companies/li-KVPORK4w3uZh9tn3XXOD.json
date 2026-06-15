@@ -1,0 +1,29 @@
+{
+  "id": "li-KVPORK4w3uZh9tn3XXOD",
+  "slug": "ospelt-elektro-telekom-ag-vaduz",
+  "name": "Ospelt Elektro-Telekom AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Am Schrägen Weg 9",
+    "plz": "9490",
+    "ort": "Vaduz",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232361870",
+    "email": "info@ospeltelektro.com",
+    "webseite": "https://www.ospeltelektro.com"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

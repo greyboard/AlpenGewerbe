@@ -1,0 +1,30 @@
+{
+  "id": "ch-vg8zQtFEJzZj7XiAySar",
+  "slug": "clemens-christen-bau-gmbh-stans",
+  "name": "Clemens Christen Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Stansstaderstrasse 52",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416101554",
+    "email": "info@christen-bau.ch",
+    "webseite": "https://www.christen-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

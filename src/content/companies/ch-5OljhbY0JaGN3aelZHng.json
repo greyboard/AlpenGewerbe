@@ -1,0 +1,30 @@
+{
+  "id": "ch-5OljhbY0JaGN3aelZHng",
+  "slug": "fred-kamm-ag-glarus",
+  "name": "Fred Kamm AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Ygrubenstrasse 28",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556502650",
+    "email": "f.kamm@kammaler.ch",
+    "webseite": "https://www.kammaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

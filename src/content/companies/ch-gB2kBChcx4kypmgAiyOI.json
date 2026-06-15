@@ -1,0 +1,30 @@
+{
+  "id": "ch-gB2kBChcx4kypmgAiyOI",
+  "slug": "hoval-ag-region-ticino-mezzovico-vira",
+  "name": "Hoval AG Region Ticino",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Via S. Mamete 88",
+    "plz": "6805",
+    "ort": "Mezzovico-Vira",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41848848464",
+    "email": "info.ch@hoval.com",
+    "webseite": "https://www.hoval.ch/it_CH"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

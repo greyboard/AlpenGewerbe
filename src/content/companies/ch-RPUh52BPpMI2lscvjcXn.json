@@ -1,0 +1,30 @@
+{
+  "id": "ch-RPUh52BPpMI2lscvjcXn",
+  "slug": "jurasued-elektro-gmbh-bellach",
+  "name": "Jurasüd Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Römerstrasse 4",
+    "plz": "4512",
+    "ort": "Bellach",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326173333",
+    "email": "info@js-elektro.ch",
+    "webseite": "https://www.jurasüd-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

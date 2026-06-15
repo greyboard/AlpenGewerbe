@@ -1,0 +1,30 @@
+{
+  "id": "ch-taeoYK0S7mam1sMDFpBR",
+  "slug": "autoverwertung-zimmermann-gmbh-reichenburg",
+  "name": "Autoverwertung Zimmermann GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 13",
+    "plz": "8864",
+    "ort": "Reichenburg",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554643040",
+    "email": "info@autoverwertung.ch",
+    "webseite": "https://www.autoverwertung.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

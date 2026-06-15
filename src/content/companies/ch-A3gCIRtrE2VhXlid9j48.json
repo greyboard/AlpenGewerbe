@@ -1,0 +1,30 @@
+{
+  "id": "ch-A3gCIRtrE2VhXlid9j48",
+  "slug": "puentener-fenster-gmbh-erstfeld",
+  "name": "Püntener Fenster GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Kirchgasse 1",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418801970",
+    "email": "info@puentenerfenster.ch",
+    "webseite": "https://www.puentenerfenster.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

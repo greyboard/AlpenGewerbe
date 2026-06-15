@@ -1,0 +1,30 @@
+{
+  "id": "ch-0J1vGiVBqx47twZQWGp2",
+  "slug": "nussbaumer-elektro-ag-zug",
+  "name": "Nussbaumer Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 32",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417268080",
+    "email": "info@nuel.ch",
+    "webseite": "https://www.nuel.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

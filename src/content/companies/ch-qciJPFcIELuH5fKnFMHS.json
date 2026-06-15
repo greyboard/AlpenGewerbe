@@ -1,0 +1,30 @@
+{
+  "id": "ch-qciJPFcIELuH5fKnFMHS",
+  "slug": "elektrik-geneve",
+  "name": "Elektrik",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Av. de Champel 34",
+    "plz": "1206",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41779965174",
+    "email": "info@elektrik-sa.ch",
+    "webseite": "https://elektrik-sa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

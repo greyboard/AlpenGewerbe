@@ -1,0 +1,30 @@
+{
+  "id": "ch-96nKq0NzDeyrbvp9KcIE",
+  "slug": "elektro-reichmuth-ag-oberiberg",
+  "name": "Elektro Reichmuth AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kirchenstrasse 15",
+    "plz": "8843",
+    "ort": "Oberiberg",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554143232",
+    "email": "info@elektro-reichmuth.ch",
+    "webseite": "https://www.elektro-reichmuth.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

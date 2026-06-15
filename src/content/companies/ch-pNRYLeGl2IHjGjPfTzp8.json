@@ -1,0 +1,30 @@
+{
+  "id": "ch-pNRYLeGl2IHjGjPfTzp8",
+  "slug": "elektro-werth-ag-chur",
+  "name": "Elektro Werth AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rossbodenstrasse 33",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787157897",
+    "email": "service@elektrowerth.ch",
+    "webseite": "https://www.elektrowerth.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

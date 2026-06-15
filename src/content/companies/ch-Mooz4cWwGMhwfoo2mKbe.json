@@ -1,0 +1,30 @@
+{
+  "id": "ch-Mooz4cWwGMhwfoo2mKbe",
+  "slug": "rr-garten-gartenunterhalt-hauswartservice-und-allrounder-buettenhardt",
+  "name": "RR Garten: Gartenunterhalt, Hauswartservice und Allrounder",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 21",
+    "plz": "8236",
+    "ort": "Büttenhardt",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774778660",
+    "email": "info@rr-garten.ch",
+    "webseite": "https://rr-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

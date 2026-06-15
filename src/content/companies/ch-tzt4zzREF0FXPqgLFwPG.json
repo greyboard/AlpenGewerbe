@@ -1,0 +1,30 @@
+{
+  "id": "ch-tzt4zzREF0FXPqgLFwPG",
+  "slug": "bewatec-st-gallen",
+  "name": "Bewatec",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Schorenstrasse 17",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763911122",
+    "email": "info@bewa-tec.ch",
+    "webseite": "https://bewa-tec.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

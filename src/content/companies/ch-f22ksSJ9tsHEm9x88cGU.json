@@ -1,0 +1,30 @@
+{
+  "id": "ch-f22ksSJ9tsHEm9x88cGU",
+  "slug": "bachmann-neukomm-ag-schaffhausen",
+  "name": "Bachmann Neukomm AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Mühlenstrasse 66",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526320707",
+    "email": "info@bnag.ch",
+    "webseite": "https://www.bnag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

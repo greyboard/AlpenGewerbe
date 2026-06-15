@@ -1,0 +1,30 @@
+{
+  "id": "ch-Vo5cccNpqNZiRVsCpTGl",
+  "slug": "stadt-maler-phasomsap-zuerich",
+  "name": "Stadt Maler Phasomsap",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Limmattalstrasse 177",
+    "plz": "8049",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763435424",
+    "email": "info@stadtmalerphasomsap.ch",
+    "webseite": "https://www.stadtmalerphasomsap.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

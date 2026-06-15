@@ -1,0 +1,30 @@
+{
+  "id": "ch-fVxz5HfykWde4KQHRIEV",
+  "slug": "lnpe-elektro-gmbh-elektroinstallationsgeschaeft-rekingen",
+  "name": "LNPE Elektro GmbH - Elektroinstallationsgeschäft",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ostzelg 340",
+    "plz": "5332",
+    "ort": "Rekingen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41562490050",
+    "email": "info@lnpe-elektro.ch",
+    "webseite": "https://lnpe-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

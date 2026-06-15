@@ -1,0 +1,30 @@
+{
+  "id": "ch-PlLA5dLjyQqv9FSWw9HX",
+  "slug": "ram-carpenteria-sagl-lodrino",
+  "name": "RAM Carpenteria Sagl",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Via Cantonale 114",
+    "plz": "6527",
+    "ort": "Lodrino",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799576054",
+    "email": "info@ramcarpenteria.ch",
+    "webseite": "https://www.ramcarpenteria.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

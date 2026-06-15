@@ -1,0 +1,30 @@
+{
+  "id": "ch-xctCuCoIkabJ1Z5IHiIR",
+  "slug": "schulte-gartenbau-gmbh-oberwil",
+  "name": "Schulte Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Allschwilerstrasse 33",
+    "plz": "4104",
+    "ort": "Oberwil",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614038988",
+    "email": "mail@greencitywall.ch",
+    "webseite": "https://www.schultegartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

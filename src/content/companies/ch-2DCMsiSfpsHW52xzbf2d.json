@@ -1,0 +1,30 @@
+{
+  "id": "ch-2DCMsiSfpsHW52xzbf2d",
+  "slug": "rickenbacher-gmbh-muotathal",
+  "name": "Rickenbacher GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Weid 1",
+    "plz": "6436",
+    "ort": "Muotathal",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418302547",
+    "email": "rickenbacher-gmbh@bluewin.ch",
+    "webseite": "https://www.rickenbacher-gmbh.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

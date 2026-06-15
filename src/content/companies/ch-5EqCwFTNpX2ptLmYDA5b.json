@@ -1,0 +1,30 @@
+{
+  "id": "ch-5EqCwFTNpX2ptLmYDA5b",
+  "slug": "ethemi-haustechnik-gmbh-mellingen",
+  "name": "ETHEMI HAUSTECHNIK GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Lenzburgerstrasse 16",
+    "plz": "5507",
+    "ort": "Mellingen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564706447",
+    "email": "haustechnik@ethemi.ch",
+    "webseite": "https://www.ethemi.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

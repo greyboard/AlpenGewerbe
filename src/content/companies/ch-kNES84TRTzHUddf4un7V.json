@@ -1,0 +1,30 @@
+{
+  "id": "ch-kNES84TRTzHUddf4un7V",
+  "slug": "bartlome-gartenbau-und-unterhalt-luesslingen",
+  "name": "Bartlome Gartenbau und Unterhalt",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Holenstrasse 323",
+    "plz": "4574",
+    "ort": "Lüsslingen",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326228489",
+    "email": "info@bartlome-gartenbau.ch",
+    "webseite": "https://www.bartlome-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

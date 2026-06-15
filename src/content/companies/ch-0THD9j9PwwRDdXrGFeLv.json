@@ -1,0 +1,30 @@
+{
+  "id": "ch-0THD9j9PwwRDdXrGFeLv",
+  "slug": "elektro-niederhaeuser-engi",
+  "name": "Elektro Niederhäuser",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Sändli 14",
+    "plz": "8765",
+    "ort": "Engi",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793382828",
+    "email": "elektro.niederhaeuser@bluewin.ch",
+    "webseite": "https://yellow.local.ch/d/ye-b-qUtFtiVN-dTs1vuNw"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

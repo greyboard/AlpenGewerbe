@@ -1,0 +1,30 @@
+{
+  "id": "ch-Nt5E71KrM7mxS3FbqO3Z",
+  "slug": "by-wood-gmbh-basel",
+  "name": "By Wood GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Hüningerstrasse 1",
+    "plz": "4056",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613382020",
+    "email": "info@bywood.ch",
+    "webseite": "https://bywood.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

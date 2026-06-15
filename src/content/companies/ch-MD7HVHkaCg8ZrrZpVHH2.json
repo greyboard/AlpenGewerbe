@@ -1,0 +1,30 @@
+{
+  "id": "ch-MD7HVHkaCg8ZrrZpVHH2",
+  "slug": "malergeschaeft-sammy-felber-basel",
+  "name": "Malergeschäft Sammy Felber",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Wollbacherstrasse 35",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796070148",
+    "email": "info@sf-maler.ch",
+    "webseite": "https://www.sf-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-aJMFxXAT02IikR82Dgnv",
+  "slug": "felder-maler-ag-zuerich",
+  "name": "Felder Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Baslerstrasse 44",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444331030",
+    "email": "info@felder-maler.ch",
+    "webseite": "https://www.felder-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-EicV5THxlX4BL6PjrNp4",
+  "slug": "sigg-holzbau-ag-thayngen",
+  "name": "Sigg Holzbau AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 27",
+    "plz": "8240",
+    "ort": "Thayngen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526492466",
+    "email": "info@siggholzbau.ch",
+    "webseite": "https://www.siggholzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

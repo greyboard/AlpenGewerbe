@@ -1,0 +1,30 @@
+{
+  "id": "ch-XxygkxGpQcRD5geEShWH",
+  "slug": "schreinerei-leuzinger-gmbh-netstal",
+  "name": "Schreinerei Leuzinger GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Ennetbachstrasse 38b",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556404545",
+    "email": "willkommen@leuzinger.gl",
+    "webseite": "https://www.leuzinger.gl"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

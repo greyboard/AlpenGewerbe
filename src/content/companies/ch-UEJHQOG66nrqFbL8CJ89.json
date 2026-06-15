@@ -1,0 +1,30 @@
+{
+  "id": "ch-UEJHQOG66nrqFbL8CJ89",
+  "slug": "rey-metall-gmbh-suhr",
+  "name": "Rey Metall GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Bachstrasse 33",
+    "plz": "5034",
+    "ort": "Suhr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628422195",
+    "email": "mail@reymetallgmbh.ch",
+    "webseite": "https://www.reymetallgmbh.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

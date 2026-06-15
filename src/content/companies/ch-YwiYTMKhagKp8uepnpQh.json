@@ -1,0 +1,30 @@
+{
+  "id": "ch-YwiYTMKhagKp8uepnpQh",
+  "slug": "urs-schaub-ag-binningen",
+  "name": "Urs Schaub AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Postgasse 14",
+    "plz": "4102",
+    "ort": "Binningen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614216180",
+    "email": "info@ursschaubag.ch",
+    "webseite": "https://www.ursschaubag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

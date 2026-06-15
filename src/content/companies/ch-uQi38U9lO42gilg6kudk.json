@@ -1,0 +1,30 @@
+{
+  "id": "ch-uQi38U9lO42gilg6kudk",
+  "slug": "maler-luetscher-ag-chur",
+  "name": "Maler Lütscher AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Deutsche Str. 35",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813549050",
+    "email": "info@maler-luetscher.ch",
+    "webseite": "https://www.maler-luetscher.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

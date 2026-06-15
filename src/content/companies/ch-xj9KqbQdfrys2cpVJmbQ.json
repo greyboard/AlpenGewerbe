@@ -1,0 +1,30 @@
+{
+  "id": "ch-xj9KqbQdfrys2cpVJmbQ",
+  "slug": "p-krieg-ag-basel",
+  "name": "P. Krieg AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hammerstrasse 100",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616911055",
+    "email": "metallbau@pkrieg.ch",
+    "webseite": "https://www.metallbau-pkrieg.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

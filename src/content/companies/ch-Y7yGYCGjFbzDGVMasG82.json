@@ -1,0 +1,30 @@
+{
+  "id": "ch-Y7yGYCGjFbzDGVMasG82",
+  "slug": "schreinerei-arnold-ag-meierskappel",
+  "name": "Schreinerei Arnold AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Hellmühlestrasse 9",
+    "plz": "6344",
+    "ort": "Meierskappel",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417903066",
+    "email": "info@schreinereiarnold.ch",
+    "webseite": "https://www.schreinereiarnold.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

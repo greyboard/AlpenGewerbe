@@ -1,0 +1,30 @@
+{
+  "id": "ch-jevMqRXAI66cW4fmecxR",
+  "slug": "spadin-haustechnik-gmbh-flims-dorf",
+  "name": "Spadin Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Via Punt la Reisga 12",
+    "plz": "7017",
+    "ort": "Flims Dorf",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794067349",
+    "email": "info@spadinhaustechnik.ch",
+    "webseite": "https://spadinhaustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

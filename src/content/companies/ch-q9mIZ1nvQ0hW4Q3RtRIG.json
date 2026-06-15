@@ -1,0 +1,30 @@
+{
+  "id": "ch-q9mIZ1nvQ0hW4Q3RtRIG",
+  "slug": "electricite-jura-controle-ludovic-kaempf-fontenais",
+  "name": "Electricité Jura Contrôle, Ludovic Kämpf",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Le Banné 203M",
+    "plz": "2902",
+    "ort": "Fontenais",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41324667851",
+    "email": "info@electricite-jura-controle.ch",
+    "webseite": "https://www.electricite-jura-controle.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

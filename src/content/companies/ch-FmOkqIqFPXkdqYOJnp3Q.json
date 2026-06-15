@@ -1,0 +1,30 @@
+{
+  "id": "ch-FmOkqIqFPXkdqYOJnp3Q",
+  "slug": "matra-ag-muenchenstein",
+  "name": "Matra AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Venedig-Strasse 31",
+    "plz": "4142",
+    "ort": "Münchenstein",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616830930",
+    "email": "info@matraag.ch",
+    "webseite": "https://www.matraag.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

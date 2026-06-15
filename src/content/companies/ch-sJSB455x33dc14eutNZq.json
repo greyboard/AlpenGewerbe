@@ -1,0 +1,30 @@
+{
+  "id": "ch-sJSB455x33dc14eutNZq",
+  "slug": "wiedmer-haustechnik-gmbh-diemtigen",
+  "name": "Wiedmer Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Riedli 1",
+    "plz": "3756",
+    "ort": "Diemtigen",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41336841510",
+    "email": "info@wiedmer-haustechnik.ch",
+    "webseite": "https://www.wiedmer-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

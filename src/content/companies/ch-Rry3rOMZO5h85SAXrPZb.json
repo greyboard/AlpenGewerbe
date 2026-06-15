@@ -1,0 +1,30 @@
+{
+  "id": "ch-Rry3rOMZO5h85SAXrPZb",
+  "slug": "moser-maler-ag-burgdorf",
+  "name": "Moser Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kirchbergstrasse 76",
+    "plz": "3400",
+    "ort": "Burgdorf",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41344222265",
+    "email": "info@mosermalerag.ch",
+    "webseite": "https://www.mosermalerag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

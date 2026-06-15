@@ -1,0 +1,30 @@
+{
+  "id": "ch-cXgLPa3xm9ZA4fEfTQ1S",
+  "slug": "brusa-bau-steinen",
+  "name": "Brusa Bau",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Frauholzring 11",
+    "plz": "6422",
+    "ort": "Steinen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418321458",
+    "email": "info@brusabau.ch",
+    "webseite": "https://www.brusabau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

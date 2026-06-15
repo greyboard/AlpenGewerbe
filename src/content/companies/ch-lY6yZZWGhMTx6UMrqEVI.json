@@ -1,0 +1,30 @@
+{
+  "id": "ch-lY6yZZWGhMTx6UMrqEVI",
+  "slug": "cuennet-electricite-et-associes-sa-marly",
+  "name": "Cuennet Electricité et Associés SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte de Corbaroche 16B",
+    "plz": "1723",
+    "ort": "Marly",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264353535",
+    "email": "info@cuennet.net",
+    "webseite": "https://www.cuennet.net"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

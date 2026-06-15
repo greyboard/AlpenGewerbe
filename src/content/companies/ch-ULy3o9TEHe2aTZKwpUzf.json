@@ -1,0 +1,30 @@
+{
+  "id": "ch-ULy3o9TEHe2aTZKwpUzf",
+  "slug": "malerartgmbh-baar",
+  "name": "malerARTGmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schutzengelstrasse 61",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417609768",
+    "email": "info@malerart.ch",
+    "webseite": "https://www.malerart.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

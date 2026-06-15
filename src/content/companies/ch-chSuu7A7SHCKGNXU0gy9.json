@@ -1,0 +1,30 @@
+{
+  "id": "ch-chSuu7A7SHCKGNXU0gy9",
+  "slug": "huser-stahlbau-ag-kerns",
+  "name": "Huser Stahlbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 17",
+    "plz": "6064",
+    "ort": "Kerns",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416606474",
+    "email": "info@huser-stahlbau.ch",
+    "webseite": "https://www.huser-stahlbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

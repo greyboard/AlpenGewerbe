@@ -1,0 +1,30 @@
+{
+  "id": "ch-ALRaMR3DOkcSHVwQTma2",
+  "slug": "schreinerei-chanton-st-niklaus",
+  "name": "Schreinerei Chanton",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Lochmatten 3",
+    "plz": "3924",
+    "ort": "St. Niklaus",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279561210",
+    "email": "info@schreiner-chanton.ch",
+    "webseite": "https://www.schreiner-chanton.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

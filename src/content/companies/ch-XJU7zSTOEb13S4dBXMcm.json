@@ -1,0 +1,30 @@
+{
+  "id": "ch-XJU7zSTOEb13S4dBXMcm",
+  "slug": "a-guzman-elektrokontrollen-basel-basel",
+  "name": "A. Guzman Elektrokontrollen Basel",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Müllheimerstrasse 36",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794448771",
+    "email": "info@ag-elektrokontrollen.ch",
+    "webseite": "https://guzman.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

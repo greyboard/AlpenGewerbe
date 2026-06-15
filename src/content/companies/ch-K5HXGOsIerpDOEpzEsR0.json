@@ -1,0 +1,30 @@
+{
+  "id": "ch-K5HXGOsIerpDOEpzEsR0",
+  "slug": "boerlin-haustechnik-ag-hoelstein",
+  "name": "Börlin Haustechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Bärenmattenstrasse 12",
+    "plz": "4434",
+    "ort": "Hölstein",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619313434",
+    "email": "info@boerlinhaustechnik.ch",
+    "webseite": "https://www.boerlinhaustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

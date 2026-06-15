@@ -1,0 +1,30 @@
+{
+  "id": "ch-OKFnUuTRgLuQckvUgnpv",
+  "slug": "rechsteiner-hans-ag-speicherschwendi",
+  "name": "Rechsteiner Hans AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Bachstrasse 3",
+    "plz": "9037",
+    "ort": "Speicherschwendi",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713441990",
+    "email": "info@hrechsteiner.ch",
+    "webseite": "https://www.hrechsteiner.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

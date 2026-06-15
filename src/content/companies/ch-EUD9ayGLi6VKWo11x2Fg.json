@@ -1,0 +1,30 @@
+{
+  "id": "ch-EUD9ayGLi6VKWo11x2Fg",
+  "slug": "buonocore-gmbh-allschwil",
+  "name": "Buonocore GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wegastrasse 25",
+    "plz": "4123",
+    "ort": "Allschwil",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764310777",
+    "email": "info@buonocore.ch",
+    "webseite": "https://buonocore.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Jw0i79ovIl4s5g40zp6Y",
+  "slug": "max-holderegger-st-gallen",
+  "name": "Max Holderegger",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Demutstrasse 11",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712232777",
+    "email": "info@elkb.ch",
+    "webseite": "https://yellow.local.ch/d/1f9FOk6D9CLNmADM7QBduQ"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-POjofW0n2IKieq1Dj08P",
+  "slug": "palma-gartenbau-gmbh-wollerau",
+  "name": "Palma Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Schindellegistrasse 80",
+    "plz": "8832",
+    "ort": "Wollerau",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554407707",
+    "email": "info@palmagartenbau.ch",
+    "webseite": "https://palmagartenbau.ch/Diensleistungen"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

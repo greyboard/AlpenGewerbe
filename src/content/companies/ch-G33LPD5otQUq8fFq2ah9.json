@@ -1,0 +1,30 @@
+{
+  "id": "ch-G33LPD5otQUq8fFq2ah9",
+  "slug": "glaserei-regio-gmbh-basel",
+  "name": "Glaserei Regio GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Oetlingerstrasse 65",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616917444",
+    "email": "info@glaserei-regio.ch",
+    "webseite": "https://www.glaserei-regio.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

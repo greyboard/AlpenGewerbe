@@ -1,0 +1,30 @@
+{
+  "id": "ch-yXaq0j0cZbsAuK4MWd6f",
+  "slug": "el-pintor-geneve",
+  "name": "El Pintor",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Av. Calas 6",
+    "plz": "1206",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798312571",
+    "email": "elpintor@bluewin.ch",
+    "webseite": "https://www.elpintor.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

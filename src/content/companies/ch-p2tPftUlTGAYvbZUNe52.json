@@ -1,0 +1,30 @@
+{
+  "id": "ch-p2tPftUlTGAYvbZUNe52",
+  "slug": "schneider-sutter-ag-basel",
+  "name": "Schneider & Sutter AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Prattelerstrasse 21",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613813130",
+    "email": "info@schneider-sutter.ch",
+    "webseite": "https://www.schneider-sutter.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-MP7Zozjum9jtz9t25M52",
+  "slug": "maurer-raz-ag-matten-st-stephan",
+  "name": "Maurer + Raz AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Lenkstrasse 144",
+    "plz": "3773",
+    "ort": "Matten (St. Stephan)",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337223287",
+    "email": "info@maurer-raz.ch",
+    "webseite": "https://www.maurer-raz.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

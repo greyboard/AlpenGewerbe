@@ -1,0 +1,30 @@
+{
+  "id": "ch-SAtLK1286VyLwHAVXplS",
+  "slug": "electro-bircher-corgemont",
+  "name": "Electro Bircher",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Sur le Crêt 37",
+    "plz": "2606",
+    "ort": "Corgémont",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41324891113",
+    "email": "info@electrobircher.ch",
+    "webseite": "https://www.electrobircher.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

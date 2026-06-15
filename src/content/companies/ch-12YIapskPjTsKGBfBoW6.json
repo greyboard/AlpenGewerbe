@@ -1,0 +1,30 @@
+{
+  "id": "ch-12YIapskPjTsKGBfBoW6",
+  "slug": "design-atelier-maurer-gmbh-buehler",
+  "name": "Design Atelier Maurer GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Fabrik am Rotbach/Eisenhalle",
+    "plz": "9055",
+    "ort": "Bühler",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717900860",
+    "email": "info@waltermaurer.ch",
+    "webseite": "https://www.waltermaurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

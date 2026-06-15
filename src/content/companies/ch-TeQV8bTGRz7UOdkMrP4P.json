@@ -1,0 +1,30 @@
+{
+  "id": "ch-TeQV8bTGRz7UOdkMrP4P",
+  "slug": "malerei-hutmacher-gmbh-bern",
+  "name": "Malerei Hutmacher GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Aarstrasse 76",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313110400",
+    "email": "info@hutmalerei.ch",
+    "webseite": "https://hutmalerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

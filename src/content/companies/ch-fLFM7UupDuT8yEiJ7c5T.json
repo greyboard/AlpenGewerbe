@@ -1,0 +1,30 @@
+{
+  "id": "ch-fLFM7UupDuT8yEiJ7c5T",
+  "slug": "walt-bau-gmbh-wildhaus",
+  "name": "Walt Bau GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Seewis 328",
+    "plz": "9658",
+    "ort": "Wildhaus",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41783013700",
+    "email": "kontakt@walt-bau.ch",
+    "webseite": "https://www.walt-bau.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

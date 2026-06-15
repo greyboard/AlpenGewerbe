@@ -1,0 +1,30 @@
+{
+  "id": "ch-UYhFicDifM6vzIvZ09XY",
+  "slug": "maurer-baurealisation-gmbh-neuhausen-am-rheinfall",
+  "name": "Maurer Baurealisation GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Pestalozzistrasse 36",
+    "plz": "8212",
+    "ort": "Neuhausen am Rheinfall",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526727170",
+    "email": "info@mbr-gmbh.ch",
+    "webseite": "https://www.mbr-gmbh.ch/standorte"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

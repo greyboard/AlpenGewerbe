@@ -1,0 +1,30 @@
+{
+  "id": "ch-qaq453UxmzZU0oLgzHNE",
+  "slug": "elektro-morger-ag-st-gallen",
+  "name": "Elektro Morger AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rorschacher Str. 183",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712449511",
+    "email": "info@elektromorger.ch",
+    "webseite": "https://www.elektromorger.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

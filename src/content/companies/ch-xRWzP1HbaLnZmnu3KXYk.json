@@ -1,0 +1,30 @@
+{
+  "id": "ch-xRWzP1HbaLnZmnu3KXYk",
+  "slug": "hilber-giger-elektrocom-gmbh-st-gallen",
+  "name": "Hilber + Giger ElektroCom GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rorschacher Str. 292",
+    "plz": "9016",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712883153",
+    "email": "info@elektrocom.ch",
+    "webseite": "https://elektrocom.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

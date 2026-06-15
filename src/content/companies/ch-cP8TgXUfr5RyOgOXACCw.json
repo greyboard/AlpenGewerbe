@@ -1,0 +1,30 @@
+{
+  "id": "ch-cP8TgXUfr5RyOgOXACCw",
+  "slug": "kern-elektro-ag-brugg",
+  "name": "Kern Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Vorstadt 8",
+    "plz": "5200",
+    "ort": "Brugg",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564608080",
+    "email": "info@leutwyler-elektro.ch",
+    "webseite": "https://www.kern-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

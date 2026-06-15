@@ -1,0 +1,30 @@
+{
+  "id": "ch-ahcFTjwlayU8JzaR5Q46",
+  "slug": "mkloeti-gartenbau-rain",
+  "name": "MKlöti Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Grossweid 11",
+    "plz": "6026",
+    "ort": "Rain",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795298057",
+    "email": "mkloeti@mkloetigartenbau.ch",
+    "webseite": "https://www.mkloetigartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

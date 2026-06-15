@@ -1,0 +1,30 @@
+{
+  "id": "ch-S7KxqjrPrkl0Dso4aCVn",
+  "slug": "haas-malerdesign-gmbh-appenzell",
+  "name": "Haas Malerdesign GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hellstrasse 10",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794681994",
+    "email": "info@haas-malerdesign.ch",
+    "webseite": "https://www.haas-malerdesign.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-K6VNDTJXoPxy9Ovh3xaX",
+  "slug": "brand-metallbau-ag-schattdorf",
+  "name": "Brand Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rüttistrasse 13",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418747400",
+    "email": "mail@brand.ch",
+    "webseite": "https://www.brand.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

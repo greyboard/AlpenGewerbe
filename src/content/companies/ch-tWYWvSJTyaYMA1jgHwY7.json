@@ -1,0 +1,30 @@
+{
+  "id": "ch-tWYWvSJTyaYMA1jgHwY7",
+  "slug": "weber-dach-ag-zuerich",
+  "name": "WEBER DACH AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Seestrasse 355",
+    "plz": "8038",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444829866",
+    "email": "weber@weberdach.chtext",
+    "webseite": "https://www.weberdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

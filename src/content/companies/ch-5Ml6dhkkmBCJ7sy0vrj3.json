@@ -1,0 +1,30 @@
+{
+  "id": "ch-5Ml6dhkkmBCJ7sy0vrj3",
+  "slug": "huesler-nest-buchmann-schreinerei-ag-neuenkirch",
+  "name": "Hüsler Nest - Buchmann Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Lippenrüti 4",
+    "plz": "6206",
+    "ort": "Neuenkirch",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414673616",
+    "email": "info@buchmann.lu",
+    "webseite": "https://buchmann-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-GqsgeOh45of9OOntH25n",
+  "slug": "dufresne-geneve",
+  "name": "DUFRESNE",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rte de Chêne 5",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41779965522",
+    "email": "info@toiture-vegetalisee.ch",
+    "webseite": "https://www.toiture-vegetalisee.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

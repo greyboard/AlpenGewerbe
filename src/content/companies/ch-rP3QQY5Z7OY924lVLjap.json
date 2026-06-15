@@ -1,0 +1,30 @@
+{
+  "id": "ch-rP3QQY5Z7OY924lVLjap",
+  "slug": "marechaux-bern-bern",
+  "name": "Maréchaux Bern",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Weissensteinstrasse 2b",
+    "plz": "3008",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313131010",
+    "email": "bern@marechaux.ch",
+    "webseite": "https://www.marechaux-bern.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

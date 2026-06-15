@@ -1,0 +1,30 @@
+{
+  "id": "ch-u1IkwDaEyYVkk91NeN2G",
+  "slug": "steinmann-heizung-gmbh-schwanden",
+  "name": "Steinmann Heizung GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Sändli 3",
+    "plz": "8762",
+    "ort": "Schwanden",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556443774",
+    "email": "info@steinmann-heizung.ch",
+    "webseite": "https://www.steinmann-heizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

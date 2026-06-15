@@ -1,0 +1,30 @@
+{
+  "id": "ch-KwHCCPqFN2Po08MhOUwE",
+  "slug": "gurtner-ag-solothurn",
+  "name": "Gurtner AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hans Huber-Strasse 82",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326228837",
+    "email": "info@gurtnerag.ch",
+    "webseite": "https://www.gurtnerag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-1IsrrWo1w5iVvtyytRaW",
+  "slug": "birdswork-mollis",
+  "name": "Birdswork",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Seelmessgasse 7",
+    "plz": "8753",
+    "ort": "Mollis",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794433458",
+    "email": "info@birdswork.ch",
+    "webseite": "https://birdswork.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

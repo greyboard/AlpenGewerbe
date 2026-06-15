@@ -1,0 +1,30 @@
+{
+  "id": "ch-netPEwTUD67fy34Bf9vq",
+  "slug": "elektro-kaeser-ag-boesingen",
+  "name": "Elektro Käser AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Auriedstrasse 12c",
+    "plz": "3178",
+    "ort": "Bösingen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317478625",
+    "email": "info@elektro-kaeser.ch",
+    "webseite": "https://www.elektro-kaeser.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

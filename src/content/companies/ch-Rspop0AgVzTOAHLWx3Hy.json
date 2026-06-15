@@ -1,0 +1,30 @@
+{
+  "id": "ch-Rspop0AgVzTOAHLWx3Hy",
+  "slug": "holzbau-zimmermann-gmbh-ammerzwil",
+  "name": "Holzbau Zimmermann GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Unterdorf 1",
+    "plz": "3257",
+    "ort": "Ammerzwil",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799440632",
+    "email": "info@holzbau-zimmermann.ch",
+    "webseite": "https://www.holzbau-zimmermann.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

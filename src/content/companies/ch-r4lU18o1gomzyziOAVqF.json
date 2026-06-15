@@ -1,0 +1,30 @@
+{
+  "id": "ch-r4lU18o1gomzyziOAVqF",
+  "slug": "metallbau-x-met-ag-lyss",
+  "name": "Metallbau X-Met AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Südstrasse 14",
+    "plz": "3250",
+    "ort": "Lyss",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323917878",
+    "email": "info@xmet.ch",
+    "webseite": "https://xmet.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

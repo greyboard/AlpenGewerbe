@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZBULQE1ArM88uYoJYkCj",
+  "slug": "toma-gartenbau-gmbh-staufen",
+  "name": "Toma Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Schafisheimerstrasse 5",
+    "plz": "5603",
+    "ort": "Staufen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41783126565",
+    "email": "info@toma-gartenbau.ch",
+    "webseite": "https://www.toma-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

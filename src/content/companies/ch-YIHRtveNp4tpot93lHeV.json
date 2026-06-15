@@ -1,0 +1,30 @@
+{
+  "id": "ch-YIHRtveNp4tpot93lHeV",
+  "slug": "knuchel-ag-chur",
+  "name": "Knuchel AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Felsenaustrasse 23B",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812843879",
+    "email": "info@knuchelag.ch",
+    "webseite": "https://knuchelag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

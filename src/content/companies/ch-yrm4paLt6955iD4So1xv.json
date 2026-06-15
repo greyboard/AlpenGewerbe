@@ -1,0 +1,30 @@
+{
+  "id": "ch-yrm4paLt6955iD4So1xv",
+  "slug": "zimmer-group-schweiz-ag-solothurn",
+  "name": "Zimmer Group Schweiz AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Roamerstrasse 12",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326215152",
+    "email": "info.de@zimmer-group.com",
+    "webseite": "https://www.zimmer-group.com"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

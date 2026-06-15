@@ -1,0 +1,30 @@
+{
+  "id": "ch-cP7PL5D7GURsubpSo2vr",
+  "slug": "zuercher-schreinerei-ag-gonten",
+  "name": "Zürcher Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 67",
+    "plz": "9108",
+    "ort": "Gonten",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717941184",
+    "email": "schreinereizuercher@bluewin.ch",
+    "webseite": "https://zuercher-schreinerei.digitalone.site"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

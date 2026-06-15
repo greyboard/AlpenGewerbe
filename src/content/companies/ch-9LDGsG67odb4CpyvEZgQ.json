@@ -1,0 +1,30 @@
+{
+  "id": "ch-9LDGsG67odb4CpyvEZgQ",
+  "slug": "genossenschaft-fuer-laendliches-bauen-des-kantons-uri-glb-uri-seedorf",
+  "name": "Genossenschaft für ländliches Bauen des Kantons Uri (GLB Uri)",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Wyerstrasse 39 Industriegebiet See",
+    "plz": "6462",
+    "ort": "Seedorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418701121",
+    "email": "info@glb-uri.ch",
+    "webseite": "https://glb-uri.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

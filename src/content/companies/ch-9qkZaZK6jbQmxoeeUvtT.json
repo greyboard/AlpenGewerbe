@@ -1,0 +1,29 @@
+{
+  "id": "ch-9qkZaZK6jbQmxoeeUvtT",
+  "slug": "juergen-michel-malergeschaeft-eschenz",
+  "name": "Jürgen Michel - Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Häckiweg 12",
+    "plz": "8264",
+    "ort": "Eschenz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792253751",
+    "email": "michel@maler-team.ch",
+    "webseite": "https://www.maler-team.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

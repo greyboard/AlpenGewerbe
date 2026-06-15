@@ -1,0 +1,30 @@
+{
+  "id": "ch-DBhPcOtGmsjMkGhnBR0l",
+  "slug": "metallbau-reichmuth-ag-seewen",
+  "name": "Metallbau Reichmuth AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Steinbislin 20",
+    "plz": "6423",
+    "ort": "Seewen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418130808",
+    "email": "info@metallbaureichmuth.ch",
+    "webseite": "https://www.metallbaureichmuth.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZDu3es1sVCY5THgGXT2N",
+  "slug": "elektro-unterstuetzung-gmbh-felben-wellhausen",
+  "name": "Elektro Unterstützung Gmbh",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Im Ständeler 4",
+    "plz": "8552",
+    "ort": "Felben-Wellhausen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793206661",
+    "email": "info@elektro-unterstuetzung.ch",
+    "webseite": "https://www.elektrounterstützung.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

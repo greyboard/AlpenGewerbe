@@ -1,0 +1,30 @@
+{
+  "id": "ch-BU3aPSa9SZxbMoKxbn4k",
+  "slug": "elvic-sarl-givisiez",
+  "name": "ELVIC Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte du Mont Carmel 3",
+    "plz": "1762",
+    "ort": "Givisiez",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41263032318",
+    "email": "info@elvic.ch",
+    "webseite": "https://elvic.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

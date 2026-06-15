@@ -1,0 +1,30 @@
+{
+  "id": "ch-F2XiFwRUTPoRDTBusrsY",
+  "slug": "boesiger-malerei-ag-baar",
+  "name": "Bösiger Malerei AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Oberneuhofstrasse 11",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417619927",
+    "email": "maler@malerboesiger.ch",
+    "webseite": "https://www.malerboesiger.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

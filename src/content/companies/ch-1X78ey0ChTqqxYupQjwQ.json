@@ -1,0 +1,30 @@
+{
+  "id": "ch-1X78ey0ChTqqxYupQjwQ",
+  "slug": "steiner-ag-baumpflege-gartenbau-bern",
+  "name": "Steiner AG Baumpflege + Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Winkelriedstrasse 45",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319222929",
+    "email": "info@steinergartenbau.ch",
+    "webseite": "https://steinergartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

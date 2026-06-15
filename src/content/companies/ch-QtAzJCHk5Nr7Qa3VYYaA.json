@@ -1,0 +1,30 @@
+{
+  "id": "ch-QtAzJCHk5Nr7Qa3VYYaA",
+  "slug": "wenger-wirz-ag-schaffhausen",
+  "name": "Wenger + Wirz AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptsitz",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526340660",
+    "email": "info@wenger-wirz.ch",
+    "webseite": "https://www.wenger-wirz.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

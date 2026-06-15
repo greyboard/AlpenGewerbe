@@ -1,0 +1,30 @@
+{
+  "id": "ch-ABrnulPbYkUjDynU5UGQ",
+  "slug": "buri-gartenbau-ag-oberburg",
+  "name": "Buri Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Emmentalstrasse 137",
+    "plz": "3414",
+    "ort": "Oberburg",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41344235903",
+    "email": "info@burigartenbau.ch",
+    "webseite": "https://burigartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

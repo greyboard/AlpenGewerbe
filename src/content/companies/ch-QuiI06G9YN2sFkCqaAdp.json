@@ -1,0 +1,30 @@
+{
+  "id": "ch-QuiI06G9YN2sFkCqaAdp",
+  "slug": "as-landschaft-gartenbau-gmbh-mels",
+  "name": "AS Landschaft & Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Heiligkreuz",
+    "plz": "8888",
+    "ort": "Mels",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41817105540",
+    "email": "info@as-gartenbau.ch",
+    "webseite": "https://www.as-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

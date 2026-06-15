@@ -1,0 +1,29 @@
+{
+  "id": "li-pCGJn3S0lgmfgPYpzkm9",
+  "slug": "elektro-kaiser-anstalt-schaan",
+  "name": "Elektro Kaiser Anstalt",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Im alten Riet 28",
+    "plz": "9494",
+    "ort": "Schaan",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232333304",
+    "email": "elektro_kaiser@adon.li",
+    "webseite": "https://yellow.local.ch/d/qvOzggMybLJxJhHTI8H7mg"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

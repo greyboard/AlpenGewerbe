@@ -1,0 +1,30 @@
+{
+  "id": "ch-IGXCsqgkQ4ZTDoz6TeWM",
+  "slug": "thermosan-sa-delemont",
+  "name": "Thermosan SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rte de la Communance 26",
+    "plz": "2800",
+    "ort": "Delémont",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41324223945",
+    "email": "info@thermosan.ch",
+    "webseite": "https://www.thermosan.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

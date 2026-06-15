@@ -1,0 +1,30 @@
+{
+  "id": "ch-hNDGllCZNedYgS5AnehM",
+  "slug": "gsell-fenster-gmbh-romanshorn",
+  "name": "Gsell Fenster GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Deucherstrasse 13",
+    "plz": "8590",
+    "ort": "Romanshorn",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714631121",
+    "email": "info@gsellfenster.ch",
+    "webseite": "https://www.gsellfenster.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

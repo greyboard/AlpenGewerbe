@@ -1,0 +1,30 @@
+{
+  "id": "ch-kPmNaxuUMuMQzZzTSaAy",
+  "slug": "electro-solution-gmbh-ermatingen",
+  "name": "Electro Solution GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schiffländestrasse 37",
+    "plz": "8272",
+    "ort": "Ermatingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41775030682",
+    "email": "info@electro-solution.ch",
+    "webseite": "https://www.electro-solution.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

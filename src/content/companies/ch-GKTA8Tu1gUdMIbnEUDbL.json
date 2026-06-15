@@ -1,0 +1,30 @@
+{
+  "id": "ch-GKTA8Tu1gUdMIbnEUDbL",
+  "slug": "volta-electricite-sarl-geneve",
+  "name": "Volta Électricité Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Av. de la Grenade 19",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41225362530",
+    "email": "info@volta-electricite.ch",
+    "webseite": "https://www.volta-electricite.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

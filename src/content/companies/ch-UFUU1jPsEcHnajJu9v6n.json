@@ -1,0 +1,30 @@
+{
+  "id": "ch-UFUU1jPsEcHnajJu9v6n",
+  "slug": "gipser-kobelt-ag-chur",
+  "name": "Gipser Kobelt AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 15",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812522570",
+    "email": "info@gipser-kobelt.ch",
+    "webseite": "https://gipser-kobelt.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-IkC38phZGrcavbxo67OQ",
+  "slug": "parkett-kramer-gmbh-chur",
+  "name": "Parkett Kramer GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Sardonastrasse 3",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812841320",
+    "email": "info@parkettkramer.ch",
+    "webseite": "https://www.parkettkramer.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-VRSv2G0b8qA8J1C6HHcz",
+  "slug": "farben-haus-uri-ag-schattdorf",
+  "name": "Farben-Haus Uri AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schachengasse 1",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418706430",
+    "email": "info@farbenhaus-uri.ch",
+    "webseite": "https://www.farbenhaus-uri.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-r0dAEVZbkmdsjmciyRAO",
+  "slug": "juraelec-controle-porrentruy",
+  "name": "Juraélec contrôle",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue des Rouges-Terres 8",
+    "plz": "2900",
+    "ort": "Porrentruy",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795300843",
+    "email": "info@juraelec-controle.ch",
+    "webseite": "https://www.juraelec-controle.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

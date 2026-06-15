@@ -1,0 +1,30 @@
+{
+  "id": "ch-brl4ZQn4vd1q5U04hemt",
+  "slug": "altra-schreinerei-schaffhausen",
+  "name": "Altra Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Nordstrasse 147",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526321717",
+    "email": "info@altra-sh.ch",
+    "webseite": "https://www.altra-sh.ch/dienstleistungen/schreinerei"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

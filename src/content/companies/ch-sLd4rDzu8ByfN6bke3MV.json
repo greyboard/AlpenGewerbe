@@ -1,0 +1,30 @@
+{
+  "id": "ch-sLd4rDzu8ByfN6bke3MV",
+  "slug": "franz-roos-luzern",
+  "name": "Franz Roos",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rönnemoosrain 13",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412505070",
+    "email": "info@glaserei-roos.ch",
+    "webseite": "https://www.glaserei-roos.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

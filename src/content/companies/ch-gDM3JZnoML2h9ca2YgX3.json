@@ -1,0 +1,30 @@
+{
+  "id": "ch-gDM3JZnoML2h9ca2YgX3",
+  "slug": "f-kuster-ag-luzern",
+  "name": "F. Kuster AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Sempacherstrasse 21A",
+    "plz": "6003",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412101330",
+    "email": "info@kuster-ag.ch",
+    "webseite": "https://www.kuster-ag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

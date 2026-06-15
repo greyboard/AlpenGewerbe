@@ -1,0 +1,30 @@
+{
+  "id": "ch-7Ty9N8cpi87d6i5Dyz0Q",
+  "slug": "jb-jardins-sa-geneve",
+  "name": "JB Jardins SA",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Av. De-Budé 10",
+    "plz": "1202",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227331336",
+    "email": "info@jbsa.ch",
+    "webseite": "https://www.jb-entretien-jardins.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

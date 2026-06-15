@@ -1,0 +1,30 @@
+{
+  "id": "ch-waRf2INWYXsPEBVvHQmq",
+  "slug": "flepp-gartenbau-igis",
+  "name": "Flepp Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hirschengasse 22",
+    "plz": "7206",
+    "ort": "Igis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798263510",
+    "email": "fleppgartenbau@bluewin.ch",
+    "webseite": "https://www.fleppgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

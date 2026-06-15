@@ -1,0 +1,30 @@
+{
+  "id": "ch-Hz0SH8fpHSFfrRcxp71E",
+  "slug": "buehlmann-heizungen-ag-zuerich",
+  "name": "Bühlmann Heizungen AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Seestrasse 354",
+    "plz": "8038",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444854455",
+    "email": "info@bmh-ag.ch",
+    "webseite": "https://www.bmh-ag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

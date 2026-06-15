@@ -1,0 +1,30 @@
+{
+  "id": "ch-uPqJObgHowJN3cvMftGj",
+  "slug": "ryser-heizungen-gmbh-urdorf",
+  "name": "Ryser Heizungen GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 15",
+    "plz": "8902",
+    "ort": "Urdorf",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41447343159",
+    "email": "info@ryser-heizungen.ch",
+    "webseite": "https://www.ryser-heizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-PTYj9aSktpFeM6Syj5Ev",
+  "slug": "aquatherm-courroux-sarl-courroux",
+  "name": "Aquatherm Courroux Sarl",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rue des Violettes 2",
+    "plz": "2822",
+    "ort": "Courroux",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791283432",
+    "email": "aquatherm@mail.ch",
+    "webseite": "https://aqua-therm.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

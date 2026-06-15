@@ -1,0 +1,30 @@
+{
+  "id": "ch-zxLwAgIiUcx3f9JbRSK2",
+  "slug": "bowee-gartenbau-ag-lenk",
+  "name": "Bowee Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Lenkstrasse 152",
+    "plz": "3775",
+    "ort": "Lenk",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337330185",
+    "email": "info@bowee-gartenbau.ch",
+    "webseite": "https://www.bowee-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-T23fI907ZjhlO7YnEWyW",
+  "slug": "john-sanitaer-ag-st-gallen",
+  "name": "John Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Scheidwegstrasse 20",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712445679",
+    "email": "info@john-sanitaer.ch",
+    "webseite": "https://www.john-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

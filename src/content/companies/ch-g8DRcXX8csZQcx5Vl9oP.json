@@ -1,0 +1,30 @@
+{
+  "id": "ch-g8DRcXX8csZQcx5Vl9oP",
+  "slug": "elektro-wyden-ag-naters",
+  "name": "Elektro Wyden AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Sandstrasse 40",
+    "plz": "3904",
+    "ort": "Naters",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279238259",
+    "email": "info@elektro-wyden.ch",
+    "webseite": "https://www.elektro-wyden.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

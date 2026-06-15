@@ -1,0 +1,30 @@
+{
+  "id": "ch-EftCGI5uoguIOnd4TOv9",
+  "slug": "holzbau-bucher-ag-kerns",
+  "name": "Holzbau Bucher AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Untergasse 11",
+    "plz": "6064",
+    "ort": "Kerns",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416660707",
+    "email": "info@holzbau-bucher.ch",
+    "webseite": "https://www.holzbau-bucher.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

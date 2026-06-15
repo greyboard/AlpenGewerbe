@@ -1,0 +1,30 @@
+{
+  "id": "ch-zjjMn8ROW7B4GQqW6vJg",
+  "slug": "elektro-schaerli-ag-malters-malters",
+  "name": "Elektro Schärli AG Malters",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schwarzenbergstrasse 17",
+    "plz": "6102",
+    "ort": "Malters",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414971433",
+    "email": "info@elektro-schaerli.ch",
+    "webseite": "https://www.elektro-schaerli.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

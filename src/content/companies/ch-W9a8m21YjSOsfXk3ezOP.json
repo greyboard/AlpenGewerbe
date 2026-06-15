@@ -1,0 +1,30 @@
+{
+  "id": "ch-W9a8m21YjSOsfXk3ezOP",
+  "slug": "geesmetall-gmbh-wiesen",
+  "name": "GEESmetall GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 3",
+    "plz": "7494",
+    "ort": "Wiesen",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41814204216",
+    "email": "info@geesmetall.ch",
+    "webseite": "https://www.geesmetall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

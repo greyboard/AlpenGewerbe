@@ -1,0 +1,30 @@
+{
+  "id": "ch-YUigB2CyvMASz1n5Y2mp",
+  "slug": "schneider-co-ag-elektrotechnische-unternehmungen-st-gallen",
+  "name": "Schneider & Co. AG Elektrotechnische Unternehmungen",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Brühlgasse 25",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712288888",
+    "email": "kontakt@schneider-elektro.ch",
+    "webseite": "https://www.schneider-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

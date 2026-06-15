@@ -1,0 +1,30 @@
+{
+  "id": "ch-X2rrKl43PdRgkCZQLLqu",
+  "slug": "maerki-sa-locarno",
+  "name": "Märki SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via Dr. Giovanni Varesi 16",
+    "plz": "6600",
+    "ort": "Locarno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917515646",
+    "email": "info@marki-baccala.ch",
+    "webseite": "https://www.marki-baccala.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

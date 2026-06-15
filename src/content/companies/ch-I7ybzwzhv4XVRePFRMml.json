@@ -1,0 +1,30 @@
+{
+  "id": "ch-I7ybzwzhv4XVRePFRMml",
+  "slug": "schreinerei-berther-ag-schattdorf",
+  "name": "Schreinerei Berther AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 92",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418741888",
+    "email": "mail@bertherfenster.ch",
+    "webseite": "https://www.bertherfenster.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-WNNpBK5qW2yf2iawdVZx",
+  "slug": "witschi-ag-bern",
+  "name": "Witschi AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bürglenstrasse 66",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313520022",
+    "email": "info@witschi-ag-bern.ch",
+    "webseite": "https://witschi-malerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZV0pFjpYpECrfPNZIwMd",
+  "slug": "c-abicht-ag-zug",
+  "name": "C. Abicht AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Grienbachstrasse 15",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417616177",
+    "email": "info@abichtdachtechnik.ch",
+    "webseite": "https://www.abichtdachtechnik.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

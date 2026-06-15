@@ -1,0 +1,30 @@
+{
+  "id": "ch-rQ81VQdCS6LzZm6MHdJM",
+  "slug": "elektro-kontrollen-zug-ag-zug",
+  "name": "Elektro Kontrollen Zug AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Landhausweg 1",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417200270",
+    "email": "mail@ek-zug.ch",
+    "webseite": "https://www.elektrokontrollen-zug.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

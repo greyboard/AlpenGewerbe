@@ -1,0 +1,30 @@
+{
+  "id": "ch-0QXeLTojwgjJspNshuj5",
+  "slug": "elektro-3-ag-basel",
+  "name": "ELEKTRO 3 AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schweizergasse 39",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613078888",
+    "email": "info@elektro3.ch",
+    "webseite": "https://www.elektro3.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

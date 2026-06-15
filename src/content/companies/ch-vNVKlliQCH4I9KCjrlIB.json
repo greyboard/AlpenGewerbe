@@ -1,0 +1,30 @@
+{
+  "id": "ch-vNVKlliQCH4I9KCjrlIB",
+  "slug": "rust-co-ag-gartenbau-feldbrunnen-st-niklaus",
+  "name": "Rust & Co. AG, Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Baselstrasse 9",
+    "plz": "4532",
+    "ort": "Feldbrunnen-St. Niklaus",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326224294",
+    "email": "info@rust-gartenbau.ch",
+    "webseite": "https://www.rust-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

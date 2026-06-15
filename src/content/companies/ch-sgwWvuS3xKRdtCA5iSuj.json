@@ -1,0 +1,30 @@
+{
+  "id": "ch-sgwWvuS3xKRdtCA5iSuj",
+  "slug": "malergeschaeft-lemmel-gmbh-flueelen",
+  "name": "Malergeschäft Lemmel GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Axenstrasse 65",
+    "plz": "6454",
+    "ort": "Flüelen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418720335",
+    "email": "lemmel-arnold@bluewin.ch",
+    "webseite": "https://www.maler-lemmel.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

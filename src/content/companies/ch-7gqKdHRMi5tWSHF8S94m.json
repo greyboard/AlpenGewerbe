@@ -1,0 +1,30 @@
+{
+  "id": "ch-7gqKdHRMi5tWSHF8S94m",
+  "slug": "gipser-u-malergenossenschaft-bern-thoerishaus",
+  "name": "Gipser- u. Malergenossenschaft Bern",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Köhlerstrasse 2",
+    "plz": "3174",
+    "ort": "Thörishaus",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313724372",
+    "email": "info@gmg-bern.ch",
+    "webseite": "https://www.gmg-bern.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

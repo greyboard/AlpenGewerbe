@@ -1,0 +1,30 @@
+{
+  "id": "ch-hyj8Q6nD7n9Fzo1lG6RD",
+  "slug": "elektro-schmidli-gmbh-oberdorf",
+  "name": "Elektro Schmidli GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 31",
+    "plz": "4436",
+    "ort": "Oberdorf",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619610845",
+    "email": "mail@elektroschmidli.ch",
+    "webseite": "https://www.elektroschmidli.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

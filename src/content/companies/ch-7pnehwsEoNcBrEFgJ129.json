@@ -1,0 +1,30 @@
+{
+  "id": "ch-7pnehwsEoNcBrEFgJ129",
+  "slug": "schmid-bedachungen-speicher-speicher",
+  "name": "Schmid Bedachungen Speicher",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Sägli",
+    "plz": "9042",
+    "ort": "Speicher",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713441660",
+    "email": "info@schmid-dach.ch",
+    "webseite": "https://schmid-dach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

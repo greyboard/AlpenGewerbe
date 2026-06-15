@@ -1,0 +1,30 @@
+{
+  "id": "ch-GzOhCh0K7dMyGc4mbkr9",
+  "slug": "schmid-metallbau-ag-zeiningen",
+  "name": "Schmid Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Heugässli 3",
+    "plz": "4314",
+    "ort": "Zeiningen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618559922",
+    "email": "info@schmidmetallbau.ch",
+    "webseite": "https://www.schmidmetallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

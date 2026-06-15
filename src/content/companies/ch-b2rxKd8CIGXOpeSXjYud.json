@@ -1,0 +1,30 @@
+{
+  "id": "ch-b2rxKd8CIGXOpeSXjYud",
+  "slug": "schwaninger-ag-beringen",
+  "name": "Schwaninger AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schaffhauserstrasse 98",
+    "plz": "8222",
+    "ort": "Beringen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526852725",
+    "email": "info@schwaningerag.ch",
+    "webseite": "https://www.schwaningerag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

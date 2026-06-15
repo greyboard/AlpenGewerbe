@@ -1,0 +1,30 @@
+{
+  "id": "ch-fzmdO42zHX03pi5vyY1P",
+  "slug": "leibacher-sanitaer-gmbh-schaffhausen",
+  "name": "Leibacher Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Büsingerstrasse 32a",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798438070",
+    "email": "b.leibacher@leibachersanitaer.ch",
+    "webseite": "https://www.leibachersanitär.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

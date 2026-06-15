@@ -1,0 +1,30 @@
+{
+  "id": "ch-ao333nsGgQ6jKob0hSLN",
+  "slug": "koch-heizung-und-sanitaer-gmbh-wohlen",
+  "name": "Koch Heizung und Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Brunnmattstrasse 40",
+    "plz": "5610",
+    "ort": "Wohlen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41566219291",
+    "email": "koma.haustechnik@sunrise.ch",
+    "webseite": "https://koch-sanitaerheizung.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

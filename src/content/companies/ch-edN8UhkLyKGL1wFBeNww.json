@@ -1,0 +1,30 @@
+{
+  "id": "ch-edN8UhkLyKGL1wFBeNww",
+  "slug": "atelier-landolt-glarus",
+  "name": "Atelier Landolt",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Ygrubenstrasse 38",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789419813",
+    "email": "info@atelier-landolt.ch",
+    "webseite": "https://www.atelier-landolt.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

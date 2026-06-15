@@ -1,0 +1,30 @@
+{
+  "id": "ch-ilvwzEi1hW75kcsM7XIf",
+  "slug": "kunz-hofmann-elektro-ag-schaffhausen",
+  "name": "Kunz Hofmann Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hurbigweg 4",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41525030565",
+    "email": "sh@kunzhofmannelektroag.ch",
+    "webseite": "https://kunzhofmannelektroag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

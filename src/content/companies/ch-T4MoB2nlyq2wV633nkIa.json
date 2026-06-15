@@ -1,0 +1,30 @@
+{
+  "id": "ch-T4MoB2nlyq2wV633nkIa",
+  "slug": "reto-stalder-gmbh-st-gallen",
+  "name": "Reto Stalder GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Splügenstrasse 5",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712450883",
+    "email": "info@reto-stalder.ch",
+    "webseite": "https://www.reto-stalder.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

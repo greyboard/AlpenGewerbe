@@ -1,0 +1,30 @@
+{
+  "id": "ch-i9lOwuWxLh8aonRRi3xI",
+  "slug": "hepp-ag-basel",
+  "name": "Hepp AG",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Müllheimerstrasse 58",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616910500",
+    "email": "info@heppag.ch",
+    "webseite": "https://www.heppag.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

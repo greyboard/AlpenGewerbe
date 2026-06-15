@@ -1,0 +1,30 @@
+{
+  "id": "ch-N1T0uj18DghI3cIwhnkV",
+  "slug": "duenki-waermetechnik-gmbh-frauenfeld",
+  "name": "Dünki Wärmetechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 4",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527201203",
+    "email": "info@duenki-waermetechnik.ch",
+    "webseite": "https://www.dünki-wärmetechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

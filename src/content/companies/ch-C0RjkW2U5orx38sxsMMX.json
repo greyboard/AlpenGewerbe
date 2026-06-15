@@ -1,0 +1,30 @@
+{
+  "id": "ch-C0RjkW2U5orx38sxsMMX",
+  "slug": "naters-naters",
+  "name": "Naters",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Landstrasse 25",
+    "plz": "3904",
+    "ort": "Naters",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789522440",
+    "email": "info@zagips.ch",
+    "webseite": "https://www.zagips.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

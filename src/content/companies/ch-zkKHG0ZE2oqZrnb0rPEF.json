@@ -1,0 +1,30 @@
+{
+  "id": "ch-zkKHG0ZE2oqZrnb0rPEF",
+  "slug": "mountain-electro-gmbh-wiler-loetschen",
+  "name": "Mountain Electro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Umfahrungsstrasse 85",
+    "plz": "3918",
+    "ort": "Wiler (Lötschen)",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279393100",
+    "email": "info@mountain-electro.ch",
+    "webseite": "https://www.mountain-electro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

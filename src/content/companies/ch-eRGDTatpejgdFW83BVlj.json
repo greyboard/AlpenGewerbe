@@ -1,0 +1,30 @@
+{
+  "id": "ch-eRGDTatpejgdFW83BVlj",
+  "slug": "schreinerei-marx-ag-zizers",
+  "name": "Schreinerei Marx AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Tardisstrasse 199",
+    "plz": "7205",
+    "ort": "Zizers",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813549440",
+    "email": "info@schreinerei-marx.ch",
+    "webseite": "https://www.schreinerei-marx.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

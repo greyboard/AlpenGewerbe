@@ -1,0 +1,30 @@
+{
+  "id": "ch-KGu2dcKs2Lr0IGDQWKl8",
+  "slug": "blum-kundenmaurer-arni",
+  "name": "Blum Kundenmaurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Lütiwil 30",
+    "plz": "3508",
+    "ort": "Arni",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794620024",
+    "email": "hubertthalmann@hotmail.com",
+    "webseite": "https://www.blum-kundenmaurer.ch/kontakt"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

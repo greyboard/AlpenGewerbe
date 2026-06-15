@@ -1,0 +1,30 @@
+{
+  "id": "ch-vOzNLkBsQFxK3He6Er5L",
+  "slug": "kuehne-gmbh-bad-ragaz",
+  "name": "Kühne GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Weiligstrasse 58",
+    "plz": "7310",
+    "ort": "Bad Ragaz",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794156640",
+    "email": "info@kuehnegmbh.ch",
+    "webseite": "https://kuehnegmbh.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

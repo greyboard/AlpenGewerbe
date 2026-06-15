@@ -1,0 +1,30 @@
+{
+  "id": "ch-Z2Z8nCZqtI86LKncIhb2",
+  "slug": "schreinerei-luchsinger-ag-schwanden",
+  "name": "Schreinerei Luchsinger AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Wyden 1",
+    "plz": "8762",
+    "ort": "Schwanden",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556441282",
+    "email": "info@luchsinger-ag.ch",
+    "webseite": "https://www.luchsinger-ag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

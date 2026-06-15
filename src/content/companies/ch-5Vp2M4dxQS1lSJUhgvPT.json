@@ -1,0 +1,30 @@
+{
+  "id": "ch-5Vp2M4dxQS1lSJUhgvPT",
+  "slug": "pestalozzi-haustechnik-haustechcenter-zug-zug",
+  "name": "Pestalozzi Haustechnik - Haustechcenter Zug",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 61",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41447432630",
+    "email": "htc-zug@pestalozzi.com",
+    "webseite": "https://www.pestalozzi-haustechnik.ch/de/zug.html"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

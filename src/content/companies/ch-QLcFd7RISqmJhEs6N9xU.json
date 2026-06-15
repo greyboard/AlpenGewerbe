@@ -1,0 +1,30 @@
+{
+  "id": "ch-QLcFd7RISqmJhEs6N9xU",
+  "slug": "guensch-gmbh-steinen",
+  "name": "GUENSCH GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Mühlegasse 18",
+    "plz": "6422",
+    "ort": "Steinen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774720547",
+    "email": "kontakt@guensch.ch",
+    "webseite": "https://www.guensch.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-BJw3Oikv9KsSQRcyVl6Y",
+  "slug": "ria-ag-zuerich",
+  "name": "Ria AG",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Seefeldstrasse 175",
+    "plz": "8008",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443823030",
+    "email": "info@riaparkett.ch",
+    "webseite": "https://riaparkett.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-XmA901pylwJQwB9olHiP",
+  "slug": "sanitaer-pluess-ag-chur",
+  "name": "SANITÄR PLÜSS AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 15",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812846424",
+    "email": "admin@sanitaerpluess.ch",
+    "webseite": "https://sanitaerpluess.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

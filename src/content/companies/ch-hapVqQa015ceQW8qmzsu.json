@@ -1,0 +1,30 @@
+{
+  "id": "ch-hapVqQa015ceQW8qmzsu",
+  "slug": "fribourg-university-botanical-garden-fribourg",
+  "name": "Fribourg University Botanical Garden",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chem. du Musée 10",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41263008886",
+    "email": "jardin-botanique@unifr.ch",
+    "webseite": "https://www.unifr.ch/jardin-botanique/fr"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

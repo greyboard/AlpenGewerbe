@@ -1,0 +1,30 @@
+{
+  "id": "ch-dBjrGrci8NQAzDumYUtS",
+  "slug": "thur-bau-gmbh-kradolf-schoenenberg",
+  "name": "Thur Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 30",
+    "plz": "9214",
+    "ort": "Kradolf-Schönenberg",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798460537",
+    "email": "info@thur-bau.ch",
+    "webseite": "https://www.thur-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-GS4bRBylbEHjHv43S7wq",
+  "slug": "thomas-steinmann-ag-saas",
+  "name": "Thomas Steinmann AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Trunstrasse 4",
+    "plz": "7247",
+    "ort": "Saas",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813323448",
+    "email": "info@steinmann.swiss",
+    "webseite": "https://www.thomas-steinmann.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

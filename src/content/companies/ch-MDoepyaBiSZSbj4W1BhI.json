@@ -1,0 +1,30 @@
+{
+  "id": "ch-MDoepyaBiSZSbj4W1BhI",
+  "slug": "emch-elektro-ag-bern",
+  "name": "Emch Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Muesmattstrasse 35",
+    "plz": "3012",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313012060",
+    "email": "info@emch.ch",
+    "webseite": "https://yellow.local.ch/d/PihVsu0Ub-HKS6ft3DqFKQ"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-T9UreViVGOt8GlYSCnk9",
+  "slug": "metallbau-pfaffen-gmbh-susten",
+  "name": "Metallbau Pfaffen GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Agarnstrasse 23",
+    "plz": "3952",
+    "ort": "Susten",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274734949",
+    "email": "info@metallbau-pfaffen.ch",
+    "webseite": "https://www.metallbau-pfaffen.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

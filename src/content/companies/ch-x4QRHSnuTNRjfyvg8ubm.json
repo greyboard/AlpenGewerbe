@@ -1,0 +1,30 @@
+{
+  "id": "ch-x4QRHSnuTNRjfyvg8ubm",
+  "slug": "sanitaerheizig-ch-ag-altendorf",
+  "name": "sanitärheizig.ch ag",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Neutalstrasse 12",
+    "plz": "8852",
+    "ort": "Altendorf",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554428808",
+    "email": "info@sanitaerheizig.ch",
+    "webseite": "https://www.sanitaerheizig.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

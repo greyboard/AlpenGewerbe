@@ -1,0 +1,30 @@
+{
+  "id": "ch-KpxO3nYKymBVajNIgQbF",
+  "slug": "meyer-meyer-ag-zuerich",
+  "name": "Meyer + Meyer AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Nansenstrasse 1",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443123594",
+    "email": "info@meyer-meyer.ch",
+    "webseite": "https://www.meyer-meyer.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

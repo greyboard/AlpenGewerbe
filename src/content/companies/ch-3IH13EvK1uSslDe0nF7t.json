@@ -1,0 +1,30 @@
+{
+  "id": "ch-3IH13EvK1uSslDe0nF7t",
+  "slug": "preite-glas-ag-zuerich",
+  "name": "Preite-Glas AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Wehntalerstrasse 567",
+    "plz": "8046",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443102646",
+    "email": "info@preite-glas.ch",
+    "webseite": "https://www.preite-glas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

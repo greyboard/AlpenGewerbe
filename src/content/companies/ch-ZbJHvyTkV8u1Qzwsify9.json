@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZbJHvyTkV8u1Qzwsify9",
+  "slug": "maler-naters-naters",
+  "name": "Maler Naters",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Sandstrasse 4",
+    "plz": "3904",
+    "ort": "Naters",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786061160",
+    "email": "info@mutter-maler.ch",
+    "webseite": "https://www.mutter-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

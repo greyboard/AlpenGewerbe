@@ -1,0 +1,29 @@
+{
+  "id": "ch-8NKh3RZxtyKOpugib3sF",
+  "slug": "hans-zehnder-ag-maienfeld",
+  "name": "Hans Zehnder AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Obere Industrie 2",
+    "plz": "7304",
+    "ort": "Maienfeld",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813021722",
+    "email": "info@zehnder-maienfeld.ch",
+    "webseite": "https://www.zehnder-maienfeld.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

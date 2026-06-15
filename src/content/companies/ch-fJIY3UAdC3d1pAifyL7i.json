@@ -1,0 +1,30 @@
+{
+  "id": "ch-fJIY3UAdC3d1pAifyL7i",
+  "slug": "analp-ag-zuerich",
+  "name": "Analp AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hüttenkopfstrasse 74",
+    "plz": "8051",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443228833",
+    "email": "m.setz@analp.ch",
+    "webseite": "https://www.analp.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

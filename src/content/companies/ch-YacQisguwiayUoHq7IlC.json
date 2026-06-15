@@ -1,0 +1,30 @@
+{
+  "id": "ch-YacQisguwiayUoHq7IlC",
+  "slug": "varium-bau-ag-bern",
+  "name": "Varium Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Dammweg 41",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313330707",
+    "email": "mail@variumbau.ch",
+    "webseite": "https://www.variumbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

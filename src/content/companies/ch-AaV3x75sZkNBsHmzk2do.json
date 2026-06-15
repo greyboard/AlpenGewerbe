@@ -1,0 +1,30 @@
+{
+  "id": "ch-AaV3x75sZkNBsHmzk2do",
+  "slug": "batigenie-courgenay",
+  "name": "BATIGENIE",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Pré-Genez 11",
+    "plz": "2950",
+    "ort": "Courgenay",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41324713061",
+    "email": "info@batigenie.ch",
+    "webseite": "https://www.batigenie.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

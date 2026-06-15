@@ -1,0 +1,30 @@
+{
+  "id": "ch-YEYndfuLY7aTQYQri7UN",
+  "slug": "tangemann-metallbau-ag-zuerich",
+  "name": "Tangemann Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Albulastrasse 24",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442428680",
+    "email": "info@tangemann-metallbau.ch",
+    "webseite": "https://www.tangemann-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

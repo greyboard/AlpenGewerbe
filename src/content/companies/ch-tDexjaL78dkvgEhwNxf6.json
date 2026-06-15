@@ -1,0 +1,30 @@
+{
+  "id": "ch-tDexjaL78dkvgEhwNxf6",
+  "slug": "liechti-rentsch-elektro-telematik-gmbh-herzogenbuchsee",
+  "name": "Liechti & Rentsch Elektro Telematik GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Industrieweg 2",
+    "plz": "3360",
+    "ort": "Herzogenbuchsee",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41629619393",
+    "email": "info@liechti-rentsch.ch",
+    "webseite": "https://www.liechti-rentsch.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

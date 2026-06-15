@@ -1,0 +1,30 @@
+{
+  "id": "ch-W1LKZKd3zuegWbGvNOjq",
+  "slug": "maler-en-colur-danis",
+  "name": "Maler En Colur",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Tumvi 11",
+    "plz": "7163",
+    "ort": "Danis",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792743231",
+    "email": "info@encolur.ch",
+    "webseite": "https://www.encolur.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

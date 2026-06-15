@@ -1,0 +1,30 @@
+{
+  "id": "ch-zDOl4s4y3EMxUs0GfYNO",
+  "slug": "bonardi-gipsergeschaeft-gmbh-zuerich",
+  "name": "Bonardi Gipsergeschäft GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Baslerstrasse 44",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442418440",
+    "email": "info@bonardi.ch",
+    "webseite": "https://www.bonardi.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

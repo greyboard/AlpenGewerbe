@@ -1,0 +1,30 @@
+{
+  "id": "ch-Gw7f31qW5cBoKbgOsFzM",
+  "slug": "elektro-fisch-ag-einsiedeln",
+  "name": "Elektro Fisch AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rainstrasse 1",
+    "plz": "8841",
+    "ort": "Einsiedeln",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554121213",
+    "email": "elektrofisch@elektrofisch.ch",
+    "webseite": "https://www.elektrofisch.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

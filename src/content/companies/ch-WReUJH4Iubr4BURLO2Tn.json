@@ -1,0 +1,30 @@
+{
+  "id": "ch-WReUJH4Iubr4BURLO2Tn",
+  "slug": "antiglio-sa-fribourg",
+  "name": "Antiglio SA",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Rte de la Gruyère 6",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264265111",
+    "email": "office@antiglio.ch",
+    "webseite": "https://www.antiglio.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

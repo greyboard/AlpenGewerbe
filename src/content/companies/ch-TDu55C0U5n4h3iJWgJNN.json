@@ -1,0 +1,30 @@
+{
+  "id": "ch-TDu55C0U5n4h3iJWgJNN",
+  "slug": "perner-ag-erlach",
+  "name": "Perner AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Böcklinsgasse 3",
+    "plz": "3235",
+    "ort": "Erlach",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792990411",
+    "email": "info@perner-ag.ch",
+    "webseite": "https://perner-ag.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

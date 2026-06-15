@@ -1,0 +1,30 @@
+{
+  "id": "ch-1ccCk2lFnY19EHl8iYQC",
+  "slug": "dielenzauber-zell",
+  "name": "Dielenzauber",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Blumengartenweg 1",
+    "plz": "6144",
+    "ort": "Zell",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763470781",
+    "email": "info@dielenzauber.ch",
+    "webseite": "https://www.dielenzauber.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-8T1Db6gLxOdRJJadXT2B",
+  "slug": "schweisswerk-uri-gmbh-unterschaechen",
+  "name": "Schweisswerk Uri Gmbh",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Ribi 4",
+    "plz": "6465",
+    "ort": "Unterschächen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796031305",
+    "email": "info@schweisswerk-uri.ch",
+    "webseite": "https://www.schweisswerk-uri.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

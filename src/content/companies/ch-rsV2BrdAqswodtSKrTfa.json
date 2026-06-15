@@ -1,0 +1,30 @@
+{
+  "id": "ch-rsV2BrdAqswodtSKrTfa",
+  "slug": "loser-gipsergeschaeft-gmbh-flawil",
+  "name": "Loser Gipsergeschäft GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Birkenstrasse 31",
+    "plz": "9230",
+    "ort": "Flawil",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713934140",
+    "email": "info@logips.ch",
+    "webseite": "https://www.logips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

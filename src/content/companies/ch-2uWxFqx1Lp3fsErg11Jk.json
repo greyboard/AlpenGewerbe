@@ -1,0 +1,30 @@
+{
+  "id": "ch-2uWxFqx1Lp3fsErg11Jk",
+  "slug": "weishaupt-ag-innenausbau-appenzell",
+  "name": "Weishaupt AG Innenausbau",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Zielstrasse 34",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717880440",
+    "email": "info@weishaupt.ch",
+    "webseite": "https://www.weishaupt.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

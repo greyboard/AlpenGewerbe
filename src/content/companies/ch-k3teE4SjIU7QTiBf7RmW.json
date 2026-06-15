@@ -1,0 +1,30 @@
+{
+  "id": "ch-k3teE4SjIU7QTiBf7RmW",
+  "slug": "bauart-gipser-gmbh-recherswil",
+  "name": "BauArt Gipser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Erlenstrasse 37",
+    "plz": "4565",
+    "ort": "Recherswil",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41767794545",
+    "email": "info@bauartgipser.ch",
+    "webseite": "https://bauartgipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

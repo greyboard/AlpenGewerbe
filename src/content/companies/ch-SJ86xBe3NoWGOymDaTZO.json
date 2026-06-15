@@ -1,0 +1,30 @@
+{
+  "id": "ch-SJ86xBe3NoWGOymDaTZO",
+  "slug": "rhy-elektro-gmbh-basadingen-schlattingen",
+  "name": "Rhy Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Obstgartenstrasse",
+    "plz": "8255",
+    "ort": "Basadingen-Schlattingen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41525501010",
+    "email": "info@rhy-elektro.ch",
+    "webseite": "https://rhy-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

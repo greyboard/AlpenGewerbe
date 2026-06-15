@@ -1,0 +1,30 @@
+{
+  "id": "ch-YlDs1DwVsbVoHhQwspSC",
+  "slug": "lehmann-partner-gartenbau-ag-ipsach",
+  "name": "Lehmann + Partner Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Keltenstrasse 29",
+    "plz": "2563",
+    "ort": "Ipsach",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323312525",
+    "email": "gartenbau@lehmann-partner.ch",
+    "webseite": "https://www.lehmann-partner.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-1GC19v9PzTxfW4GYTHDf",
+  "slug": "yilmaz-haustechnik-hoelstein",
+  "name": "Yilmaz Haustechnik",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Dammstrasse 13",
+    "plz": "4434",
+    "ort": "Hölstein",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615068687",
+    "email": "info@yilmaz-haustechnik.ch",
+    "webseite": "https://www.yilmaz-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-dHyJgmYVyBBvROFdBjEj",
+  "slug": "maler-roger-neeser-zuerich-zuerich",
+  "name": "Maler Roger Neeser Zürich",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Grubenstrasse 27",
+    "plz": "8045",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793573555",
+    "email": "info@maler-neeser.ch",
+    "webseite": "https://www.maler-neeser.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

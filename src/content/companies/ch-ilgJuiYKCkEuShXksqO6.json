@@ -1,0 +1,30 @@
+{
+  "id": "ch-ilgJuiYKCkEuShXksqO6",
+  "slug": "anton-zimmermann-ag-luzern",
+  "name": "Anton Zimmermann AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Täschmattstrasse 5",
+    "plz": "6015",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412602777",
+    "email": "info@zimmermann-fenster.ch",
+    "webseite": "https://www.zimmermann-fenster.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-vRooxm8p6ZhMy9ueiLBC",
+  "slug": "glas-schneller-gmbh-rueti",
+  "name": "Glas Schneller GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Joweid Zentrum 8",
+    "plz": "8630",
+    "ort": "Rüti",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41552602200",
+    "email": "dennis.schneller@glas-schneller.ch",
+    "webseite": "https://www.glas-schneller.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

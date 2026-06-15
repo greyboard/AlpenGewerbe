@@ -1,0 +1,30 @@
+{
+  "id": "ch-VxklJ62qiqTmenzjEIjP",
+  "slug": "bruelisauer-gipser-ag-appenzell",
+  "name": "Brülisauer Gipser AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Rinkenbach 25",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717872084",
+    "email": "info@bruelisauer-gipser.ch",
+    "webseite": "https://www.bruelisauer-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

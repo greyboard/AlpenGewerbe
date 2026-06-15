@@ -1,0 +1,30 @@
+{
+  "id": "ch-TNbzkbayy5awP5RIoOtO",
+  "slug": "aeschbacher-hj-ag-muehleberg",
+  "name": "Aeschbacher HJ. AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Murtenstrasse 10",
+    "plz": "3203",
+    "ort": "Mühleberg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317545555",
+    "email": "info@aeag.ch",
+    "webseite": "https://www.aeag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

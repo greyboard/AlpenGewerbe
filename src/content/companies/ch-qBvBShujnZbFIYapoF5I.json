@@ -1,0 +1,30 @@
+{
+  "id": "ch-qBvBShujnZbFIYapoF5I",
+  "slug": "glashuesli-tumegl",
+  "name": "Glashüsli",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Cafluri 3",
+    "plz": "7418",
+    "ort": "Tumegl",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816551130",
+    "email": "karin.natter@glashuesli.ch",
+    "webseite": "https://www.glashuesli.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

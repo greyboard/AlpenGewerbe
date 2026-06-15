@@ -1,0 +1,30 @@
+{
+  "id": "ch-VocLjScoJuzT7uHmiwlR",
+  "slug": "mba-construction-sa-martigny",
+  "name": "MBA Construction SA",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Rue du Châble-Bet 41",
+    "plz": "1920",
+    "ort": "Martigny",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41277236708",
+    "email": "info@mbasa.ch",
+    "webseite": "https://mbasa.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

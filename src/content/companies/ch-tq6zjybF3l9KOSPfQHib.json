@@ -1,0 +1,30 @@
+{
+  "id": "ch-tq6zjybF3l9KOSPfQHib",
+  "slug": "schoop-co-ag-baden",
+  "name": "Schoop + Co. AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Im Grund 15",
+    "plz": "5405",
+    "ort": "Baden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41564833501",
+    "email": "dach@schoop.com",
+    "webseite": "https://schoop-dach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

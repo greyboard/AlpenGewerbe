@@ -1,0 +1,30 @@
+{
+  "id": "ch-OMqcEcR8M32YJmLK7Mo2",
+  "slug": "fruet-sanitaer-ag-zuerich",
+  "name": "Fruet Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rumpumpsteig 2",
+    "plz": "8038",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444821370",
+    "email": "info@fruet.ch",
+    "webseite": "https://www.fruet.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

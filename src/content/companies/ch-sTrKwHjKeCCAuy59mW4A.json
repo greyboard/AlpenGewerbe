@@ -1,0 +1,30 @@
+{
+  "id": "ch-sTrKwHjKeCCAuy59mW4A",
+  "slug": "alte-stadtgaertnerei-aarau-aarau",
+  "name": "Alte Stadtgärtnerei Aarau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Mühlemattstrasse 79",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628240140",
+    "email": "info@altestadtgaertnerei.ch",
+    "webseite": "https://www.altestadtgaertnerei.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

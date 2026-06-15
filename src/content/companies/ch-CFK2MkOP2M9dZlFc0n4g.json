@@ -1,0 +1,30 @@
+{
+  "id": "ch-CFK2MkOP2M9dZlFc0n4g",
+  "slug": "heizungs-blitz-gmbh-flueelen",
+  "name": "Heizungs-Blitz GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Obermattli 4",
+    "plz": "6454",
+    "ort": "Flüelen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418712525",
+    "email": "info@heizungs-blitz.ch",
+    "webseite": "https://heizungs-blitz.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

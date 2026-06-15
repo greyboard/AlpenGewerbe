@@ -1,0 +1,30 @@
+{
+  "id": "ch-lU5JXLD55EwmHk82929e",
+  "slug": "widmer-co-ag-aargau-suhr",
+  "name": "Widmer & Co AG Aargau",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Bachstrasse 33",
+    "plz": "5034",
+    "ort": "Suhr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628254545",
+    "email": "info@widmer-heizung.ch",
+    "webseite": "https://www.widmer-heizung.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

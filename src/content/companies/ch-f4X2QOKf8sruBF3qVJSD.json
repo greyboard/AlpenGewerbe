@@ -1,0 +1,30 @@
+{
+  "id": "ch-f4X2QOKf8sruBF3qVJSD",
+  "slug": "metallisten-ag-bern",
+  "name": "Metallisten AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Eymattstrasse 9a",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317477364",
+    "email": "info@metallisten.ch",
+    "webseite": "https://www.metallisten.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

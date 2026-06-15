@@ -1,0 +1,29 @@
+{
+  "id": "li-pgPeR8qRLdCnkO2yHMug",
+  "slug": "mega-solutions-anstalt-vaduz",
+  "name": "MeGa Solutions Anstalt",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Wuhrstrasse 7",
+    "plz": "9490",
+    "ort": "Vaduz",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232374600",
+    "email": "mega@megasolutions.li",
+    "webseite": "https://www.megasolutions.li"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

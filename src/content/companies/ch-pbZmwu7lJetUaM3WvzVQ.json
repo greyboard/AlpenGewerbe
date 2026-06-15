@@ -1,0 +1,30 @@
+{
+  "id": "ch-pbZmwu7lJetUaM3WvzVQ",
+  "slug": "pircher-gebaeudetechnik-st-gallen",
+  "name": "Pircher Gebäudetechnik",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Hüttenstrasse 22",
+    "plz": "9030",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712776558",
+    "email": "info@mypircher.ch",
+    "webseite": "https://mypircher.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

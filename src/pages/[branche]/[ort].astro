@@ -1,0 +1,102 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CompanyCard from '../../components/CompanyCard.astro';
+
+export async function getStaticPaths() {
+  const companies = await getCollection('companies');
+
+  const paths: Array<{ params: { branche: string; ort: string }; props: { branche: string; ortLabel: string; companies: typeof companies[0]['data'][] } }> = [];
+
+  for (const entry of companies) {
+    const ortSlug = entry.data.adresse.ort.toLowerCase().replace(/\s+/g, '-');
+    for (const branche of entry.data.branchen) {
+      paths.push({
+        params: { branche, ort: ortSlug },
+        props:  {
+          branche,
+          ortLabel: entry.data.adresse.ort,
+          companies: companies
+            .filter((c) =>
+              c.data.branchen.includes(branche) &&
+              c.data.adresse.ort.toLowerCase().replace(/\s+/g, '-') === ortSlug,
+            )
+            .map((c) => c.data),
+        },
+      });
+    }
+  }
+
+  // Duplikate entfernen (gleiche branche+ort-Kombination)
+  const seen = new Set<string>();
+  return paths.filter(({ params: { branche, ort } }) => {
+    const key = `${branche}/${ort}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+const { branche, ortLabel, companies } = Astro.props;
+const brancheLabel = branche.charAt(0).toUpperCase() + branche.slice(1);
+---
+
+<BaseLayout
+  title={`${brancheLabel} in ${ortLabel} – AlpenGewerbe`}
+  description={`${brancheLabel}-Betriebe in ${ortLabel}. Adressen, Kontakt und Google-Bewertungen auf AlpenGewerbe.`}
+>
+  <!-- Breadcrumb -->
+  <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+      <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
+        <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
+        <li aria-hidden="true">›</li>
+        <li><a href={`/${branche}/`} class="hover:text-(--color-primary) transition-colors capitalize">{branche}</a></li>
+        <li aria-hidden="true">›</li>
+        <li class="text-(--color-text) font-medium" aria-current="page">{ortLabel}</li>
+      </ol>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <h1 class="text-white mb-3">{brancheLabel} in {ortLabel}</h1>
+      <p class="text-white/70 text-lg max-w-xl">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} in {ortLabel} und Umgebung.
+      </p>
+    </div>
+  </section>
+
+  <!-- Betriebsliste -->
+  <section class="py-10 lg:py-14 bg-[#F9FAFB]">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      {companies.length > 0 ? (
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
+          {companies.map((company) => (
+            <div class="animate-on-scroll">
+              <CompanyCard
+                name={company.name}
+                slug={company.slug}
+                branchen={company.branchen}
+                ort={company.adresse.ort}
+                plz={company.adresse.plz}
+                land={company.adresse.land}
+                rating={company.ratingCached?.rating}
+                reviewCount={company.ratingCached?.user_ratings_total}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p class="text-(--color-text-muted) text-center py-16">
+          Noch keine Betriebe für {brancheLabel} in {ortLabel} eingetragen.
+          <a href={`/${branche}/`} class="block mt-3 text-(--color-primary-text) font-semibold">
+            Alle {brancheLabel}-Betriebe ansehen →
+          </a>
+        </p>
+      )}
+    </div>
+  </section>
+
+</BaseLayout>

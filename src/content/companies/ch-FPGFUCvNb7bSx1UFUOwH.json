@@ -1,0 +1,30 @@
+{
+  "id": "ch-FPGFUCvNb7bSx1UFUOwH",
+  "slug": "mhs-haustechnik-gmbh-goldau",
+  "name": "MHS Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 37",
+    "plz": "6410",
+    "ort": "Goldau",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415582233",
+    "email": "info@mhs-ht.ch",
+    "webseite": "https://mhs-ht.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

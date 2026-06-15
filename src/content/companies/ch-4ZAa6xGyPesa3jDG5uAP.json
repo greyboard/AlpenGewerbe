@@ -1,0 +1,30 @@
+{
+  "id": "ch-4ZAa6xGyPesa3jDG5uAP",
+  "slug": "elektrohues-znl-der-tz-stromag-susten",
+  "name": "Elektrohüs, ZNL der TZ Stromag",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Sustenstrasse 3",
+    "plz": "3952",
+    "ort": "Susten",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274731320",
+    "email": "info@elektrohues.ch",
+    "webseite": "https://www.elektrohues.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

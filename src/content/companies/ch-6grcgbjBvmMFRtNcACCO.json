@@ -1,0 +1,30 @@
+{
+  "id": "ch-6grcgbjBvmMFRtNcACCO",
+  "slug": "hintermann-e-ruffini-sa-avegno",
+  "name": "Hintermann e Ruffini SA",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "In di Salécc 19",
+    "plz": "6670",
+    "ort": "Avegno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917807174",
+    "email": "info@hintermann-ruffini.ch",
+    "webseite": "https://www.hintermann-ruffini.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

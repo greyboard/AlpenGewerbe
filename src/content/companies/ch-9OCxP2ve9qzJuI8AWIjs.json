@@ -1,0 +1,30 @@
+{
+  "id": "ch-9OCxP2ve9qzJuI8AWIjs",
+  "slug": "peter-serini-ag-bern",
+  "name": "Peter Serini AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 505G",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319840505",
+    "email": "info@serini.ch",
+    "webseite": "https://serini.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

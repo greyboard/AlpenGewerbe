@@ -1,0 +1,30 @@
+{
+  "id": "ch-YQ1GV3okjgfweGgj56q7",
+  "slug": "das-malerteam-ag-st-gallen",
+  "name": "Das Malerteam AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 13",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713138060",
+    "email": "gm@dasmalerteam.ch",
+    "webseite": "https://dasmalerteam.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

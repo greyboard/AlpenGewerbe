@@ -1,0 +1,30 @@
+{
+  "id": "ch-qnwwDSRaXkdCcTLofzCM",
+  "slug": "muenger-ralph-ag-balterswil-tg",
+  "name": "Münger Ralph AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Sägereistrasse 2",
+    "plz": "8362",
+    "ort": "Balterswil TG",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41719711664",
+    "email": "info@ralphmuenger.ch",
+    "webseite": "https://www.ralphmuenger.ch/Home"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

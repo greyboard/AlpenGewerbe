@@ -1,0 +1,30 @@
+{
+  "id": "ch-mM11mrpUNTb9CmnEpiMi",
+  "slug": "s-peinture-sa-freiburg",
+  "name": "S Peinture SA",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kleinschönberg 103",
+    "plz": "1700",
+    "ort": "Freiburg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799544722",
+    "email": "info@speinture.ch",
+    "webseite": "https://speinture.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

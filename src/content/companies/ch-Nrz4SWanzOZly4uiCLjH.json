@@ -1,0 +1,30 @@
+{
+  "id": "ch-Nrz4SWanzOZly4uiCLjH",
+  "slug": "felix-fluri-schreinerei-basel",
+  "name": "Felix Fluri Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Breisacherstrasse 86",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616833095",
+    "email": "info@felixfluri.ch",
+    "webseite": "https://www.felixfluri.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

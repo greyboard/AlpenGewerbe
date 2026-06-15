@@ -1,0 +1,30 @@
+{
+  "id": "ch-YZgaL0kLqo8j37IuD5Jr",
+  "slug": "fried-schreinerei-ag-bever",
+  "name": "Fried Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Bügl Suot 4A",
+    "plz": "7502",
+    "ort": "Bever",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41818525119",
+    "email": "mail@fried.ch",
+    "webseite": "https://www.fried.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

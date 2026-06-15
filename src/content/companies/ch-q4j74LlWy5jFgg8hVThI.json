@@ -1,0 +1,30 @@
+{
+  "id": "ch-q4j74LlWy5jFgg8hVThI",
+  "slug": "solothurn-gebaeudetechnik-ag-solothurn",
+  "name": "Solothurn Gebäudetechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Weissensteinstrasse 88",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41325175151",
+    "email": "info@studergebaeudetechnik.ch",
+    "webseite": "https://www.studergebaeudetechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

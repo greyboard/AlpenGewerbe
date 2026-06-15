@@ -1,0 +1,30 @@
+{
+  "id": "ch-hIa9EueA0P05myrccmo7",
+  "slug": "elektro-zuerich-zuerich",
+  "name": "Elektro Zürich",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Uraniastrasse 11",
+    "plz": "8001",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443006088",
+    "email": "info@dpswiss.ch",
+    "webseite": "https://www.elektrikerzürich.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

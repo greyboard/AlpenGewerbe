@@ -1,0 +1,30 @@
+{
+  "id": "ch-s2vl0vk1LJo78kMushZF",
+  "slug": "hechelmann-ag-egnach",
+  "name": "Hechelmann AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Schulstrasse 8A",
+    "plz": "9322",
+    "ort": "Egnach",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714747100",
+    "email": "info@hechelmann.swiss",
+    "webseite": "https://www.hechelmann.swiss"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

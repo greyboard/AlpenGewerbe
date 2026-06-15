@@ -1,0 +1,30 @@
+{
+  "id": "ch-jTF0ql306dQllmjeosNl",
+  "slug": "end-ag-luzern",
+  "name": "End AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Schubertstrasse 4",
+    "plz": "6004",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414204422",
+    "email": "endag@endag.ch",
+    "webseite": "https://www.endag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

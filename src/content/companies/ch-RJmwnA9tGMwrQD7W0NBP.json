@@ -1,0 +1,30 @@
+{
+  "id": "ch-RJmwnA9tGMwrQD7W0NBP",
+  "slug": "zweifel-elektro-ag-niederurnen",
+  "name": "Zweifel Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Badstrasse 39",
+    "plz": "8867",
+    "ort": "Niederurnen",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556102040",
+    "email": "info@elektro-zweifel.ch",
+    "webseite": "https://www.hustech.ch/standorte/niederurnen-gl"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

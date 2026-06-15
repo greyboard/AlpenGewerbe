@@ -1,0 +1,30 @@
+{
+  "id": "ch-X0rmFJs0fjrwSy6hLklI",
+  "slug": "perroud-electricite-dombresson",
+  "name": "Perroud Electricité",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Grand'Rue 12",
+    "plz": "2056",
+    "ort": "Dombresson",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41328532073",
+    "email": "mail@perroud-electricite.ch",
+    "webseite": "https://www.perroud-electricite.ch/contact"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Wzfn11OW2Pwu1d3EcaTl",
+  "slug": "konstanzer-glashandel-gmbh-konstanz",
+  "name": "Konstanzer Glashandel GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Wolfgang-Spengler-Straße 9",
+    "plz": "78467",
+    "ort": "Konstanz",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+497531282366",
+    "email": "info@konstanzer-glashandel.de",
+    "webseite": "https://konstanzer-glashandel.de"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

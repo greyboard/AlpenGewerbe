@@ -1,0 +1,30 @@
+{
+  "id": "ch-bgaFRPlaiMeQMDsnAGmh",
+  "slug": "jost-metallbau-ag-zollikofen",
+  "name": "jost metallbau ag",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Aegelseeweg 18",
+    "plz": "3052",
+    "ort": "Zollikofen",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319140203",
+    "email": "info@jost-metallbau.ch",
+    "webseite": "https://www.jost-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-US3OADQ7zFLML3dlQVZ6",
+  "slug": "abc-express-glaserei-r-denier-gmbh-luzern",
+  "name": "ABC Express-Glaserei R. Denier GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rothenring 25",
+    "plz": "6015",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413220707",
+    "email": "info@abc-expressglaserei.ch",
+    "webseite": "https://www.abc-expressglaserei.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

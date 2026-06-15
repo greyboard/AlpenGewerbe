@@ -1,0 +1,30 @@
+{
+  "id": "ch-g4N3UwWRrewVX3o4zfGi",
+  "slug": "lelli-herzog-elektro-gmbh-bern",
+  "name": "Lelli-Herzog Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Mühlenpl. 1",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313125767",
+    "email": "info@lh-elektro.ch",
+    "webseite": "https://lh-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

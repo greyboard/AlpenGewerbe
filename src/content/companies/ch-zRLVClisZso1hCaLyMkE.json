@@ -1,0 +1,30 @@
+{
+  "id": "ch-zRLVClisZso1hCaLyMkE",
+  "slug": "friess-ag-metallbau-muenchwilen",
+  "name": "Friess AG Metallbau",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Murgtalstrasse 24",
+    "plz": "9542",
+    "ort": "Münchwilen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41719693860",
+    "email": "info@friess-metallbau.ch",
+    "webseite": "https://www.friess-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

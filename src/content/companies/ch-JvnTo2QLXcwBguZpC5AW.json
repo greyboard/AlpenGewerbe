@@ -1,0 +1,30 @@
+{
+  "id": "ch-JvnTo2QLXcwBguZpC5AW",
+  "slug": "bonsania-gmbh-gartenbau-gartenpflege-pflanzenverkauf-luzern",
+  "name": "Bonsania GmbH - Gartenbau, Gartenpflege & Pflanzenverkauf",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Thorenbergstrasse 45",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414481115",
+    "email": "info@bonsania.ch",
+    "webseite": "https://www.bonsania.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

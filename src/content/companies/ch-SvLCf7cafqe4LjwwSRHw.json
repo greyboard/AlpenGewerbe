@@ -1,0 +1,30 @@
+{
+  "id": "ch-SvLCf7cafqe4LjwwSRHw",
+  "slug": "welz-ag-trogen",
+  "name": "Welz AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Bühlerstrasse 10",
+    "plz": "9043",
+    "ort": "Trogen",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713441957",
+    "email": "info@welz.ch",
+    "webseite": "https://www.welz.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

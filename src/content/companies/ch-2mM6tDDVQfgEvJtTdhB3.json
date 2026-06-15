@@ -1,0 +1,30 @@
+{
+  "id": "ch-2mM6tDDVQfgEvJtTdhB3",
+  "slug": "reichle-elektro-ag-schaffhausen",
+  "name": "Reichle Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Haldenwiesli 4",
+    "plz": "8207",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526440404",
+    "email": "info@reichle-elektro.ch",
+    "webseite": "https://yellow.local.ch/d/7e-yKnW3tstpIuYOsv0JLg"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

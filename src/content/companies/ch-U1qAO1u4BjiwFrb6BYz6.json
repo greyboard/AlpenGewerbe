@@ -1,0 +1,30 @@
+{
+  "id": "ch-U1qAO1u4BjiwFrb6BYz6",
+  "slug": "elektro-imholz-ag-schattdorf",
+  "name": "Elektro Imholz AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Militärstrasse 12",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418701818",
+    "email": "info@elektro-imholz.ch",
+    "webseite": "https://www.elektro-imholz-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

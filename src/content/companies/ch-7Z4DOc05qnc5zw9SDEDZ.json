@@ -1,0 +1,30 @@
+{
+  "id": "ch-7Z4DOc05qnc5zw9SDEDZ",
+  "slug": "lm-paysagiste-gartenbau-salgesch",
+  "name": "LM Paysagiste/Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Morystrasse 11",
+    "plz": "3970",
+    "ort": "Salgesch",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795859141",
+    "email": "info@lm-paysagiste.ch",
+    "webseite": "https://lm-paysagiste.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

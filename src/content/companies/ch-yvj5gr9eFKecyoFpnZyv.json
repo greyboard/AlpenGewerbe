@@ -1,0 +1,30 @@
+{
+  "id": "ch-yvj5gr9eFKecyoFpnZyv",
+  "slug": "brauchli-ag-luzern-luzern",
+  "name": "Brauchli AG Luzern",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Mühlemattstrasse 2",
+    "plz": "6004",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412498049",
+    "email": "info@brauchliag.ch",
+    "webseite": "https://www.brauchliag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

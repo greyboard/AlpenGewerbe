@@ -1,0 +1,30 @@
+{
+  "id": "ch-IDp3Ue3heAtaFNvOHVcX",
+  "slug": "garten-walther-basel",
+  "name": "Garten-Walther",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wanderstrasse 129",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613030414",
+    "email": "gartenwalther@bluewin.ch",
+    "webseite": "https://www.gartenwalther.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

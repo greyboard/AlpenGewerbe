@@ -1,0 +1,30 @@
+{
+  "id": "ch-Jb4Ax1IWXuWODX2x3lIu",
+  "slug": "casto-menuiserie-carouge",
+  "name": "Casto Menuiserie",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Clos de la Fonderie 13",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223011109",
+    "email": "info@castosarl.ch",
+    "webseite": "https://www.casto-menuiserie.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

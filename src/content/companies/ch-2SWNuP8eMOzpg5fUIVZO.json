@@ -1,0 +1,30 @@
+{
+  "id": "ch-2SWNuP8eMOzpg5fUIVZO",
+  "slug": "soni-gartenbau-gmbh-schindellegi",
+  "name": "Soni Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chaltenbodenstrasse 16",
+    "plz": "8834",
+    "ort": "Schindellegi",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788433836",
+    "email": "info@soni-gartenbau.ch",
+    "webseite": "https://soni-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

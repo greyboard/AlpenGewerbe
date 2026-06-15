@@ -1,0 +1,30 @@
+{
+  "id": "ch-02MlX9gEmkbkapJ3Ui5W",
+  "slug": "malergeschaeft-bertalan-glarus",
+  "name": "Malergeschäft Bertalan",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Spitalstrasse 3",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41767368626",
+    "email": "info@malergeschaeft-bertalan.ch",
+    "webseite": "https://malergeschaeft-bertalan.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

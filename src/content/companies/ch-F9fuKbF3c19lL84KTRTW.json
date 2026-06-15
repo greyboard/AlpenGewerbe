@@ -1,0 +1,30 @@
+{
+  "id": "ch-F9fuKbF3c19lL84KTRTW",
+  "slug": "albert-bodenheizungen-gmbh-glarus",
+  "name": "Albert Bodenheizungen GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Bankstrasse 53",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795255859",
+    "email": "info@albertbodenheizungen.ch",
+    "webseite": "https://www.albertbodenheizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

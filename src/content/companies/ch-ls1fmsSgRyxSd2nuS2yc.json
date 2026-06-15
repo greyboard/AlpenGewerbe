@@ -1,0 +1,30 @@
+{
+  "id": "ch-ls1fmsSgRyxSd2nuS2yc",
+  "slug": "malerei-looser-teufen",
+  "name": "Malerei Looser",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Speicherstrasse 19",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713334104",
+    "email": "info@malergeschaeft-looser.ch",
+    "webseite": "https://www.malerei-looser.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

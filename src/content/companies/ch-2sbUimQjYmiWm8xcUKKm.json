@@ -1,0 +1,30 @@
+{
+  "id": "ch-2sbUimQjYmiWm8xcUKKm",
+  "slug": "reinhard-haustechnik-ag-sarnen",
+  "name": "Reinhard Haustechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Gartenstrasse 23",
+    "plz": "6060",
+    "ort": "Sarnen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416605584",
+    "email": "info@reinhard-ht.ch",
+    "webseite": "https://www.reinhard-ht.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

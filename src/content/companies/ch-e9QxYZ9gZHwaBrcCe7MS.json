@@ -1,0 +1,30 @@
+{
+  "id": "ch-e9QxYZ9gZHwaBrcCe7MS",
+  "slug": "terza-sanitaer-service-chur",
+  "name": "Terza - Sanitär Service",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Grossbruggerweg 2",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812506717",
+    "email": "info@terza-sanitaer.ch",
+    "webseite": "https://www.terza-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-5hItsSXuDxcUvArJYFR7",
+  "slug": "benz-hauswirth-ag-saanen",
+  "name": "Benz Hauswirth AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gstaadstrasse 72",
+    "plz": "3792",
+    "ort": "Saanen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337480444",
+    "email": "info@benzhauswirth.ch",
+    "webseite": "https://www.benzhauswirth.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

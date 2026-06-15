@@ -1,0 +1,30 @@
+{
+  "id": "ch-2YTmGeSy5w2iUu806O3c",
+  "slug": "maler-mathias-luthern",
+  "name": "Maler Mathias",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hofstatt 1",
+    "plz": "6154",
+    "ort": "Luthern",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782041829",
+    "email": "info@malermathias.ch",
+    "webseite": "https://www.malermathias.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-FbWzJx0nO8M9emx4s1JB",
+  "slug": "elektro-nauer-ag-schattdorf",
+  "name": "Elektro Nauer AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Umfahrungsstrasse 11",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418741074",
+    "email": "info@elektronauer.ch",
+    "webseite": "https://www.elektronauer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

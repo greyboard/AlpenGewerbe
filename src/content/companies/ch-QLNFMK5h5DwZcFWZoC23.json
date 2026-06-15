@@ -1,0 +1,30 @@
+{
+  "id": "ch-QLNFMK5h5DwZcFWZoC23",
+  "slug": "h-s-glas-gmbh-fuellinsdorf",
+  "name": "H&S Glas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Wölferstrasse 5",
+    "plz": "4414",
+    "ort": "Füllinsdorf",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618311533",
+    "email": "info@hsglas.ch",
+    "webseite": "https://www.hsglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-WBp3mVzvfYFdDeMBDFEs",
+  "slug": "schaerli-elektro-com-ag-luzern",
+  "name": "Schärli Elektro.com AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte O 26",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412410241",
+    "email": "info@schaerlielektro.com",
+    "webseite": "https://www.schaerlielektro.com"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

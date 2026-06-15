@@ -1,0 +1,30 @@
+{
+  "id": "ch-jY0dFmCYwqErgUhBQRC2",
+  "slug": "elektro-27-gmbh-rothrist",
+  "name": "Elektro 27 GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 177",
+    "plz": "4852",
+    "ort": "Rothrist",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627942727",
+    "email": "info@elektro-27.ch",
+    "webseite": "https://www.elektro-27.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

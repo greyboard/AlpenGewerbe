@@ -1,0 +1,30 @@
+{
+  "id": "ch-445l6wTXUjhyM3vyS9s3",
+  "slug": "domotec-sa-mezzovico-vira",
+  "name": "Domotec SA",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Via Cantonale 8",
+    "plz": "6805",
+    "ort": "Mezzovico-Vira",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627878787",
+    "email": "info@domotec.ch",
+    "webseite": "https://domotec.ch/it"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

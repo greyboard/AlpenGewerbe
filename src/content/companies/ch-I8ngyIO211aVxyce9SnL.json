@@ -1,0 +1,30 @@
+{
+  "id": "ch-I8ngyIO211aVxyce9SnL",
+  "slug": "krenger-glas-ag-bern",
+  "name": "Krenger Glas AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 632",
+    "plz": "3172",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319813481",
+    "email": "info@krengerglas.ch",
+    "webseite": "https://www.krengerglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

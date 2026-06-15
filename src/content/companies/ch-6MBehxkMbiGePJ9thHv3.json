@@ -1,0 +1,30 @@
+{
+  "id": "ch-6MBehxkMbiGePJ9thHv3",
+  "slug": "zimmermann-spenglerei-gmbh-rothenburg",
+  "name": "Zimmermann Spenglerei GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Buzibachstrasse 44",
+    "plz": "6023",
+    "ort": "Rothenburg",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412815570",
+    "email": "info@spenglerei-zimmermann.ch",
+    "webseite": "https://www.spenglerei-zimmermann.ch/Home.htm"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

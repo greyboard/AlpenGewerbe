@@ -1,0 +1,30 @@
+{
+  "id": "ch-g34RHFTHjfLqEmv1k26Z",
+  "slug": "alpha-glas-gmbh-st-gallen",
+  "name": "Alpha Glas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Lerchentalstrasse 2B",
+    "plz": "9016",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712500800",
+    "email": "info@alphaglas.ch",
+    "webseite": "https://alphaglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

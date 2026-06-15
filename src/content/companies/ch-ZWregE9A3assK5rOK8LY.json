@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZWregE9A3assK5rOK8LY",
+  "slug": "adidach-amsteg",
+  "name": "Adidach",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 4",
+    "plz": "6474",
+    "ort": "Amsteg",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794355580",
+    "email": "adrian.tresch@adidach.ch",
+    "webseite": "https://www.adidach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

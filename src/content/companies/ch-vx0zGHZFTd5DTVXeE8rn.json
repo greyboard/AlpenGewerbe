@@ -1,0 +1,30 @@
+{
+  "id": "ch-vx0zGHZFTd5DTVXeE8rn",
+  "slug": "wasescha-maler-cunter",
+  "name": "Wasescha Maler",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Gravas 6",
+    "plz": "7452",
+    "ort": "Cunter",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41815589899",
+    "email": "info@waseschamaler.ch",
+    "webseite": "https://www.waseschamaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

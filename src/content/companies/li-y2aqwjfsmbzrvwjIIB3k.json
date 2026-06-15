@@ -1,0 +1,29 @@
+{
+  "id": "li-y2aqwjfsmbzrvwjIIB3k",
+  "slug": "die-werkstaette-anstalt-ruggell",
+  "name": "die WERKstätte Anstalt",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Poststrasse 3",
+    "plz": "9491",
+    "ort": "Ruggell",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232644446",
+    "email": "info@diewerkstaette.li",
+    "webseite": "https://www.diewerkstaette.li"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

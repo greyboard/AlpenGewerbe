@@ -1,0 +1,30 @@
+{
+  "id": "ch-fd4tY14suk26LYlFk3cx",
+  "slug": "el-top-sa-les-acacias",
+  "name": "EL TOP SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue Eugène-Marziano 35",
+    "plz": "1227",
+    "ort": "Les Acacias",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223382121",
+    "email": "info@eltopsa.ch",
+    "webseite": "https://yellow.local.ch/d/20RsN6vLPf0xkt4ptYSZZg"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

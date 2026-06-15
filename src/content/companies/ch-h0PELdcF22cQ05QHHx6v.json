@@ -1,0 +1,30 @@
+{
+  "id": "ch-h0PELdcF22cQ05QHHx6v",
+  "slug": "schreinerei-gschwend-taegerwilen",
+  "name": "Schreinerei Gschwend",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Haldenstrasse 13",
+    "plz": "8274",
+    "ort": "Tägerwilen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716691669",
+    "email": "info@schreinerei-gschwend.ch",
+    "webseite": "https://www.schreinerei-gschwend.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

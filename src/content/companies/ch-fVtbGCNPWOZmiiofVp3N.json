@@ -1,0 +1,30 @@
+{
+  "id": "ch-fVtbGCNPWOZmiiofVp3N",
+  "slug": "bircher-ag-maler-gipser-suhr",
+  "name": "BIRCHER AG | Maler-Gipser",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Tramstrasse 79",
+    "plz": "5034",
+    "ort": "Suhr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628555555",
+    "email": "office@bircherag.ch",
+    "webseite": "https://www.bircherag.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

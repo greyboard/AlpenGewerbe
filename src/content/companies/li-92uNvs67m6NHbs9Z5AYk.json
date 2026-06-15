@@ -1,0 +1,29 @@
+{
+  "id": "li-92uNvs67m6NHbs9Z5AYk",
+  "slug": "ln-elektro-anstalt-fl1-servicepartner-triesenberg",
+  "name": "LN-Elektro Anstalt - FL1 Servicepartner",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Steinortstrasse 59",
+    "plz": "9497",
+    "ort": "Triesenberg",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4232327828",
+    "email": "info@ln-elektro.li",
+    "webseite": "https://www.ln-elektro.li"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

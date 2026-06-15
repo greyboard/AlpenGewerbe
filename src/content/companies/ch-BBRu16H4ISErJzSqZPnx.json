@@ -1,0 +1,30 @@
+{
+  "id": "ch-BBRu16H4ISErJzSqZPnx",
+  "slug": "dominik-gasser-haustechnik-gmbh-lungern",
+  "name": "Dominik Gasser Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Chnewisstrasse 11",
+    "plz": "6078",
+    "ort": "Lungern",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416781560",
+    "email": "info@dg-ht.ch",
+    "webseite": "https://dg-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

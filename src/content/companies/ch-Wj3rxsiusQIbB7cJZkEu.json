@@ -1,0 +1,30 @@
+{
+  "id": "ch-Wj3rxsiusQIbB7cJZkEu",
+  "slug": "duerrenberger-maler-ag-basel",
+  "name": "Dürrenberger Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Auf dem Wolf 37",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616666565",
+    "email": "info@duerrenbergermaler.ch",
+    "webseite": "https://www.duerrenbergermaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

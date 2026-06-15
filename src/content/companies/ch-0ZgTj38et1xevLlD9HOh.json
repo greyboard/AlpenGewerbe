@@ -1,0 +1,30 @@
+{
+  "id": "ch-0ZgTj38et1xevLlD9HOh",
+  "slug": "markus-allemann-naturgaerten-gmbh-maerwil",
+  "name": "Markus Allemann Naturgärten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 2",
+    "plz": "9562",
+    "ort": "Märwil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716332984",
+    "email": "markus.allemann@natur-gaerten.ch",
+    "webseite": "https://www.natur-gaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

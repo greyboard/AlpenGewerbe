@@ -1,0 +1,30 @@
+{
+  "id": "ch-fuWpWJ0dEzvpEmeuEY3O",
+  "slug": "valvert-gartenbau-ag-susten",
+  "name": "Valvert Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Feithierenstrasse 114",
+    "plz": "3952",
+    "ort": "Susten",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798272238",
+    "email": "info@valvert-gartenbau.ch",
+    "webseite": "https://valvert-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

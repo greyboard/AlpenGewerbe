@@ -1,0 +1,30 @@
+{
+  "id": "ch-JwKW1l6yr62JEvDuBnA1",
+  "slug": "air-haustechnik-gmbh-oberwil-bei-zug",
+  "name": "Air-Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Artherstrasse 119",
+    "plz": "6317",
+    "ort": "Oberwil bei Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41325305141",
+    "email": "info@air-haustechnik.ch",
+    "webseite": "https://air-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

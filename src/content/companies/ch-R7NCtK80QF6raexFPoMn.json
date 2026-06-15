@@ -1,0 +1,30 @@
+{
+  "id": "ch-R7NCtK80QF6raexFPoMn",
+  "slug": "kayser-holzbau-ag-oberdorf",
+  "name": "Kayser Holzbau AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Gerenmüli 16",
+    "plz": "6370",
+    "ort": "Oberdorf",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416183180",
+    "email": "info@kayser.ch",
+    "webseite": "https://www.kayser-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

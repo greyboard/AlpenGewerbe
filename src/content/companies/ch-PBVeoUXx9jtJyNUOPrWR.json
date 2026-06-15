@@ -1,0 +1,30 @@
+{
+  "id": "ch-PBVeoUXx9jtJyNUOPrWR",
+  "slug": "eigenmann-ag-wittenbach",
+  "name": "Eigenmann AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 8",
+    "plz": "9300",
+    "ort": "Wittenbach",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712923636",
+    "email": "info@eigenmann-ag.ch",
+    "webseite": "https://eigenmann-ag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

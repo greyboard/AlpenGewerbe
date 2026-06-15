@@ -1,0 +1,30 @@
+{
+  "id": "ch-QVINz0Ai6xpbNeptCNOS",
+  "slug": "kreha-elektro-ag-cham",
+  "name": "KREHA Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hinterbergstrasse 9",
+    "plz": "6330",
+    "ort": "Cham",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417415656",
+    "email": "info@marketingwerkstatt.ch",
+    "webseite": "https://www.kreha.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

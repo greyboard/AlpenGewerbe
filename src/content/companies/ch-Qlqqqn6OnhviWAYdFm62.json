@@ -1,0 +1,30 @@
+{
+  "id": "ch-Qlqqqn6OnhviWAYdFm62",
+  "slug": "waser-gartenbau-gmbh-buochs",
+  "name": "Waser Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Flurhofstrasse 5",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796417849",
+    "email": "info@wasergartenbau.ch",
+    "webseite": "https://www.wasergartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

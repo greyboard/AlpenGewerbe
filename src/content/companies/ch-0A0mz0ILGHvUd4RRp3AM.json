@@ -1,0 +1,30 @@
+{
+  "id": "ch-0A0mz0ILGHvUd4RRp3AM",
+  "slug": "die-malerin-bern",
+  "name": "Die Malerin",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bernastrasse 53",
+    "plz": "3005",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792318253",
+    "email": "bea@diemalerin.eu",
+    "webseite": "https://www.diemalerin.eu"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

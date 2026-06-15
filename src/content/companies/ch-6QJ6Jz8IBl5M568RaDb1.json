@@ -1,0 +1,30 @@
+{
+  "id": "ch-6QJ6Jz8IBl5M568RaDb1",
+  "slug": "elektro-brodbeck-ag-reinach",
+  "name": "Elektro Brodbeck AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Angensteinerstrasse 15",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614151919",
+    "email": "info@eb-ag.ch",
+    "webseite": "https://www.eb-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

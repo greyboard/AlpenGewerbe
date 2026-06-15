@@ -1,0 +1,30 @@
+{
+  "id": "ch-pz1KeFz2516pgDTT4o8B",
+  "slug": "adani-constructions-metalliques-sarl-crissier",
+  "name": "Adani constructions métalliques Sàrl",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Chem. de Saugy 10",
+    "plz": "1023",
+    "ort": "Crissier",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41216359595",
+    "email": "info@adani-metal.ch.ch",
+    "webseite": "https://www.adani-metal.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

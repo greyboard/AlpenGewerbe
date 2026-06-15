@@ -1,0 +1,30 @@
+{
+  "id": "ch-gxgo85LmQybIrBEUzoNq",
+  "slug": "metry-holzbau-susten-susten",
+  "name": "Metry Holzbau Susten",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Briannenstrasse 56",
+    "plz": "3952",
+    "ort": "Susten",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274734693",
+    "email": "info@metryholzbau.ch",
+    "webseite": "https://metryholzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

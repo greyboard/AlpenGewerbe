@@ -1,0 +1,30 @@
+{
+  "id": "ch-Ppxtp0NMhxVOQIuWzbdZ",
+  "slug": "malermeister-zimmermann-ag-visp",
+  "name": "Malermeister Zimmermann AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Kantonsstrasse 24",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795909990",
+    "email": "zimmermann@deinmalermeister.ch",
+    "webseite": "https://www.deinmalermeister.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

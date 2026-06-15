@@ -1,0 +1,30 @@
+{
+  "id": "ch-MEcsE27jasQd7H8leO45",
+  "slug": "metallbau-horn-allround-bonaduz",
+  "name": "Metallbau Horn Allround",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 4",
+    "plz": "7402",
+    "ort": "Bonaduz",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816300076",
+    "email": "info@metallbau-horn.ch",
+    "webseite": "https://www.metallbau-horn.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

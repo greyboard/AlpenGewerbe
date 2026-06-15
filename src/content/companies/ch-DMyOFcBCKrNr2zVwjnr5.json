@@ -1,0 +1,30 @@
+{
+  "id": "ch-DMyOFcBCKrNr2zVwjnr5",
+  "slug": "alexander-der-maurer-baufirma-port",
+  "name": "Alexander der Maurer, Baufirma",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 61",
+    "plz": "2562",
+    "ort": "Port",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765247833",
+    "email": "alex.hafner@bluewin.ch",
+    "webseite": "https://www.alexhafner.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

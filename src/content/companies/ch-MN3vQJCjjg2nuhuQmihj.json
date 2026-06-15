@@ -1,0 +1,30 @@
+{
+  "id": "ch-MN3vQJCjjg2nuhuQmihj",
+  "slug": "lior-shala-edilizia-ticino-bodio",
+  "name": "LIOR SHALA EDILIZIA TICINO",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Via Stazione 18",
+    "plz": "6743",
+    "ort": "Bodio",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795270108",
+    "email": "info@liorshala.ch",
+    "webseite": "https://www.liorshalaedilizia.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

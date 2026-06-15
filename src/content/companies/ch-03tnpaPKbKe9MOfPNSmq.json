@@ -1,0 +1,30 @@
+{
+  "id": "ch-03tnpaPKbKe9MOfPNSmq",
+  "slug": "marinaro-ag-luzern",
+  "name": "Marinaro AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte 17",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413604618",
+    "email": "info@marinaroag.ch",
+    "webseite": "https://www.marinaroag.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

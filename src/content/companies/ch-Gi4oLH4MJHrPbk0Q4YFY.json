@@ -1,0 +1,30 @@
+{
+  "id": "ch-Gi4oLH4MJHrPbk0Q4YFY",
+  "slug": "schreinerkollektiv-gmbh-zuerich",
+  "name": "SchreinerKollektiv GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Friesstrasse 32",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443026637",
+    "email": "info@schreinerkollektiv.ch",
+    "webseite": "https://www.schreinerkollektiv.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

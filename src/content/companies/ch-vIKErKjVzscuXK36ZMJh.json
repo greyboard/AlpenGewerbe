@@ -1,0 +1,30 @@
+{
+  "id": "ch-vIKErKjVzscuXK36ZMJh",
+  "slug": "kurt-borer-ag-reinach",
+  "name": "Kurt Borer AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Bruderholzstrasse 30",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617854020",
+    "email": "info@kurtborer.ch",
+    "webseite": "https://www.kurtborer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-AiB3fq4r9rqzmGtqM03m",
+  "slug": "durrer-gartenbau-ag-herzogenbuchsee",
+  "name": "Durrer Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wangenstrasse 64",
+    "plz": "3360",
+    "ort": "Herzogenbuchsee",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41629632322",
+    "email": "info@gartenbaudurrer.ch",
+    "webseite": "https://www.gartenbaudurrer.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

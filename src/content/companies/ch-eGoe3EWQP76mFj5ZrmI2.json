@@ -1,0 +1,30 @@
+{
+  "id": "ch-eGoe3EWQP76mFj5ZrmI2",
+  "slug": "meier-mathis-schreinerei-gmbh-lenzburg",
+  "name": "Meier & Mathis Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Aarauerstrasse 2",
+    "plz": "5600",
+    "ort": "Lenzburg",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628866060",
+    "email": "info@schreinerei-lenzburg.ch",
+    "webseite": "https://www.schreinerei-lenzburg.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

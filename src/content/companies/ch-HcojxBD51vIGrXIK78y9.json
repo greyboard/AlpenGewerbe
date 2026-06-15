@@ -1,0 +1,30 @@
+{
+  "id": "ch-HcojxBD51vIGrXIK78y9",
+  "slug": "werner-electro-ag-st-niklaus",
+  "name": "Werner Electro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Lochmatten 62",
+    "plz": "3924",
+    "ort": "St. Niklaus",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279552400",
+    "email": "info@wernerag.ch",
+    "webseite": "https://www.wernerag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

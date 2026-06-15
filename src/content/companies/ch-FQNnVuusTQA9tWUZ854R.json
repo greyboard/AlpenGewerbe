@@ -1,0 +1,30 @@
+{
+  "id": "ch-FQNnVuusTQA9tWUZ854R",
+  "slug": "gerber-garten-bern",
+  "name": "GERBER GARTEN",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Neubrückstrasse 49",
+    "plz": "3012",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799605372",
+    "email": "info@gerber-garten.ch",
+    "webseite": "https://gerber-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

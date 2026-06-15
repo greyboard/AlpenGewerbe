@@ -1,0 +1,30 @@
+{
+  "id": "ch-mbbxVLmjGr4JPRFPPF30",
+  "slug": "malerei-boschung-gmbh-kleingurmels",
+  "name": "Malerei Boschung GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Chasseralstrasse 30",
+    "plz": "3212",
+    "ort": "Kleingurmels",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266742127",
+    "email": "boschung.malerei@sensemail.ch",
+    "webseite": "https://www.maler-boschung.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

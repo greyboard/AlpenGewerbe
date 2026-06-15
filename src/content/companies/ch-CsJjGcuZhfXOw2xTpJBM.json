@@ -1,0 +1,30 @@
+{
+  "id": "ch-CsJjGcuZhfXOw2xTpJBM",
+  "slug": "haelg-co-ag-st-gallen",
+  "name": "Hälg & Co. AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Lukasstrasse 30",
+    "plz": "9001",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712433838",
+    "email": "haelg@haelg.ch",
+    "webseite": "https://haelg.ch/angebot/anlagenbau/st-gallen"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

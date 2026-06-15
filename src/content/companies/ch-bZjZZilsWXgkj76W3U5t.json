@@ -1,0 +1,30 @@
+{
+  "id": "ch-bZjZZilsWXgkj76W3U5t",
+  "slug": "elektrofachgeschaeft-mueller-ag-frauenfeld",
+  "name": "Elektrofachgeschäft Müller AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Zürcherstrasse 263",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527221171",
+    "email": "info@elmueller.ch",
+    "webseite": "https://www.elmueller.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

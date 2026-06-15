@@ -1,0 +1,30 @@
+{
+  "id": "ch-wJnoF4xttX4kWDrzZbUq",
+  "slug": "werner-holzbau-gmbh-glattfelden",
+  "name": "Werner Holzbau GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 8",
+    "plz": "8192",
+    "ort": "Glattfelden",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41448673166",
+    "email": "info@werner-holzbau.ch",
+    "webseite": "https://www.werner-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

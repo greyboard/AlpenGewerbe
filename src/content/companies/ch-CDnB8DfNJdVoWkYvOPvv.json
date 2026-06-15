@@ -1,0 +1,30 @@
+{
+  "id": "ch-CDnB8DfNJdVoWkYvOPvv",
+  "slug": "maler-kraemer-gmbh-erlinsbach",
+  "name": "Maler Krämer GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Plattenstrasse 15",
+    "plz": "5015",
+    "ort": "Erlinsbach",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799524602",
+    "email": "maler.kraemer@gmx.ch",
+    "webseite": "https://www.maler-kraemer.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

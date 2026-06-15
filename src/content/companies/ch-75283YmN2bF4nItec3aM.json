@@ -1,0 +1,30 @@
+{
+  "id": "ch-75283YmN2bF4nItec3aM",
+  "slug": "zimmermann-ag-appenzell",
+  "name": "Zimmermann AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Hoferbad 12",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717883030",
+    "email": "info@z-bau.ch",
+    "webseite": "https://www.z-bau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

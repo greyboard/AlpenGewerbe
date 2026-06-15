@@ -1,0 +1,30 @@
+{
+  "id": "ch-Y0CqJzPWI1AgvZ167ut9",
+  "slug": "elektro-akermann-ag-st-gallen",
+  "name": "Elektro Akermann AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bachstrasse 11",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712446966",
+    "email": "info@elektro-akermann.ch",
+    "webseite": "https://www.elektro-akermann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

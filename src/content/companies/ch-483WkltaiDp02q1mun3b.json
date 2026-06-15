@@ -1,0 +1,30 @@
+{
+  "id": "ch-483WkltaiDp02q1mun3b",
+  "slug": "hans-k-huber-ag-luzern",
+  "name": "Hans K. Huber AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Lindenhausstrasse 7",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413108484",
+    "email": "info@hkhuberag.ch",
+    "webseite": "https://www.hkhuberag.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

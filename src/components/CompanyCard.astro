@@ -1,0 +1,103 @@
+---
+interface Props {
+  name: string;
+  slug: string;
+  branchen: string[];
+  ort: string;
+  plz: string;
+  land: 'CH' | 'LI';
+  rating?: number;
+  reviewCount?: number;
+}
+
+const { name, slug, branchen, ort, plz, land, rating, reviewCount } = Astro.props;
+
+const ratingStars = rating ? Math.round(rating) : 0;
+---
+
+<article
+  class="group bg-white rounded-2xl border border-transparent
+         shadow-sm hover:shadow-xl hover:-translate-y-1
+         hover:border-(--color-primary)/20
+         transition-all duration-300 overflow-hidden"
+>
+  <!-- Dünne Primärfarb-Linie oben -->
+  <div class="h-0.5 bg-gradient-to-r from-(--color-primary) to-(--color-primary-light) opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+
+  <div class="p-5 lg:p-6">
+
+    <!-- Branchen-Badges -->
+    <div class="flex flex-wrap gap-1.5 mb-3">
+      {branchen.slice(0, 2).map((b) => (
+        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium
+                     bg-(--color-primary)/5 text-(--color-primary-text) capitalize">
+          {b}
+        </span>
+      ))}
+      {branchen.length > 2 && (
+        <span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs text-(--color-text-muted)">
+          +{branchen.length - 2}
+        </span>
+      )}
+    </div>
+
+    <!-- Name -->
+    <h3 class="font-semibold text-(--color-text) text-base leading-snug mb-1.5
+               group-hover:text-(--color-primary) transition-colors duration-200">
+      <a href={`/betrieb/${slug}/`} class="stretched-link">
+        {name}
+      </a>
+    </h3>
+
+    <!-- Standort -->
+    <p class="flex items-center gap-1.5 text-sm text-(--color-text-muted) mb-4">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+           class="flex-shrink-0 text-(--color-primary)/60" aria-hidden="true">
+        <path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/>
+        <circle cx="12" cy="10" r="3"/>
+      </svg>
+      {plz} {ort}&ensp;
+      <span class="text-xs">{land === 'CH' ? '🇨🇭' : '🇱🇮'}</span>
+    </p>
+
+    <!-- Footer der Karte: Rating-Pille + Link -->
+    <div class="flex items-center justify-between">
+
+      <!-- Rating-Pille -->
+      {rating && reviewCount ? (
+        <div class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber-50 border border-amber-100">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="#F59E0B" aria-hidden="true">
+            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+          </svg>
+          <span class="text-xs font-semibold text-amber-700">{rating.toFixed(1)}</span>
+          <span class="text-xs text-amber-600/70">({reviewCount})</span>
+        </div>
+      ) : (
+        <span class="text-xs text-(--color-text-muted)/50 italic">Noch keine Bewertungen</span>
+      )}
+
+      <!-- Arrow-Link -->
+      <span class="inline-flex items-center gap-1 text-xs font-semibold text-(--color-primary-text)
+                   opacity-0 group-hover:opacity-100 translate-x-1 group-hover:translate-x-0
+                   transition-all duration-200">
+        Details
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+          <path d="M5 12h14M12 5l7 7-7 7"/>
+        </svg>
+      </span>
+
+    </div>
+  </div>
+</article>
+
+<style>
+  /* stretched-link macht die gesamte Karte klickbar */
+  .stretched-link::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+  article {
+    position: relative;
+  }
+</style>

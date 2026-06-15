@@ -1,0 +1,30 @@
+{
+  "id": "ch-rTcANAoqsyXJVg580tHO",
+  "slug": "koechli-haustechnik-ag-bern",
+  "name": "Köchli Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 480",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319813092",
+    "email": "info@koechli-sanitaer.ch",
+    "webseite": "https://www.koechli-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

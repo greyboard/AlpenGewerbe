@@ -1,0 +1,30 @@
+{
+  "id": "ch-wuWWPI6cbyp0Mg76Cusi",
+  "slug": "gruenmachen-sissach",
+  "name": "Grünmachen",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Grienmattweg 21",
+    "plz": "4450",
+    "ort": "Sissach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798614033",
+    "email": "info@gruenmachen.ch",
+    "webseite": "https://gruenmachen.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

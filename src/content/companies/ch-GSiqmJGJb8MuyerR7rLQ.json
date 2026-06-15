@@ -1,0 +1,30 @@
+{
+  "id": "ch-GSiqmJGJb8MuyerR7rLQ",
+  "slug": "maler-schmid-trimmis-gmbh-trimmis",
+  "name": "Maler Schmid Trimmis GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Herawisweg 40",
+    "plz": "7203",
+    "ort": "Trimmis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813531909",
+    "email": "info@schmid-maler.ch",
+    "webseite": "https://www.schmid-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

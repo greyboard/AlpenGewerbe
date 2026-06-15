@@ -1,0 +1,30 @@
+{
+  "id": "ch-96ni7K0XgYGkEBFQ76lX",
+  "slug": "hans-mueller-ag-schaffhausen",
+  "name": "Hans Müller AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Buchbergstrasse 14",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526251053",
+    "email": "info@hansmuellerag.ch",
+    "webseite": "https://hm-ag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

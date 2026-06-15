@@ -1,0 +1,30 @@
+{
+  "id": "ch-hS7NaLDxKZ2fFnz5LWud",
+  "slug": "loew-gaerten-ag-muttenz",
+  "name": "Löw Gärten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Gwidemstrasse 7",
+    "plz": "4132",
+    "ort": "Muttenz",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614612167",
+    "email": "info@loewgaerten.ch",
+    "webseite": "https://www.loewgaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

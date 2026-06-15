@@ -1,0 +1,30 @@
+{
+  "id": "ch-aaqWJsyDMIugfA6o5MtZ",
+  "slug": "eco-haustechnik-ag-zuerich",
+  "name": "ECO Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Baslerstrasse 44",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41438117088",
+    "email": "info@ecoag.ch",
+    "webseite": "https://www.ecoag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-IEx5Ti9lrW97OfsUWfUj",
+  "slug": "floeck-gartenbau-gartenunterhalt-gerolfingen",
+  "name": "Flöck Gartenbau & Gartenunterhalt",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rollistrasse 6",
+    "plz": "2575",
+    "ort": "Gerolfingen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765454420",
+    "email": "info@floeck-gartenbau.ch",
+    "webseite": "https://floeck-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

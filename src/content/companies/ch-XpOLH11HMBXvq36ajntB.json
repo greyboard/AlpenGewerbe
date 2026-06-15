@@ -1,0 +1,30 @@
+{
+  "id": "ch-XpOLH11HMBXvq36ajntB",
+  "slug": "malergeschaeft-nesimi-weinfelden",
+  "name": "Malergeschäft Nesimi",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kreuzlingerstrasse 40",
+    "plz": "8570",
+    "ort": "Weinfelden",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763307173",
+    "email": "info@malernesimi.ch",
+    "webseite": "https://www.malernesimi.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

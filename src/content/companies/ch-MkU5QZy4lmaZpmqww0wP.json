@@ -1,0 +1,30 @@
+{
+  "id": "ch-MkU5QZy4lmaZpmqww0wP",
+  "slug": "hubler-metallbau-ag-urdorf",
+  "name": "Hubler Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Steinackerstrasse 26",
+    "plz": "8902",
+    "ort": "Urdorf",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41447309000",
+    "email": "admin@hublermetallbau.ch",
+    "webseite": "https://hublermetallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

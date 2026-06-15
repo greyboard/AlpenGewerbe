@@ -1,0 +1,30 @@
+{
+  "id": "ch-WS8EFwK4O7zqGVfHL1cq",
+  "slug": "otto-zenger-ag-elektriker-bern-bern",
+  "name": "Otto Zenger AG - Elektriker Bern",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Huberstrasse 2",
+    "plz": "3008",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313812260",
+    "email": "info@elektro-zenger.ch",
+    "webseite": "https://www.elektro-zenger.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

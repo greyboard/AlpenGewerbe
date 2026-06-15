@@ -1,0 +1,390 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { CH_KANTONE } from '../data/kantone';
+
+const companies    = await getCollection('companies');
+const companiesData = companies.map((e) => e.data);
+
+// Top-Branchen mit Anzahl
+const branchenCount = new Map<string, number>();
+for (const c of companiesData) {
+  for (const b of c.branchen) {
+    branchenCount.set(b, (branchenCount.get(b) ?? 0) + 1);
+  }
+}
+const topBranchen = [...branchenCount.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 8);
+
+// Firmen pro Kanton zählen
+const kantonCount = new Map<string, number>();
+for (const c of companiesData.filter(c => c.adresse.land === 'CH')) {
+  const k = (c.adresse as any).kanton?.trim();
+  if (k) kantonCount.set(k, (kantonCount.get(k) ?? 0) + 1);
+}
+const chKantone = CH_KANTONE.map(k => ({ ...k, count: kantonCount.get(k.name) ?? 0 }));
+
+// Liechtenstein: 11 offizielle Gemeinden (fix)
+const LI_GEMEINDEN = [
+  { name: 'Vaduz',        slug: 'vaduz' },
+  { name: 'Schaan',       slug: 'schaan' },
+  { name: 'Triesen',      slug: 'triesen' },
+  { name: 'Balzers',      slug: 'balzers' },
+  { name: 'Triesenberg',  slug: 'triesenberg' },
+  { name: 'Ruggell',      slug: 'ruggell' },
+  { name: 'Eschen',       slug: 'eschen' },
+  { name: 'Mauren',       slug: 'mauren' },
+  { name: 'Gamprin',      slug: 'gamprin' },
+  { name: 'Planken',      slug: 'planken' },
+  { name: 'Schellenberg', slug: 'schellenberg' },
+];
+
+// Sub-Orte auf offizielle Gemeinden mappen
+const LI_SUBORT_MAP: Record<string, string> = {
+  'Nendeln':    'Eschen',
+  'Schaanwald': 'Eschen',
+  'Bendern':    'Gamprin',
+};
+
+const liGemeindeCount = new Map<string, number>(LI_GEMEINDEN.map(g => [g.name, 0]));
+for (const c of companiesData.filter(c => c.adresse.land === 'LI')) {
+  const raw = c.adresse.ort?.trim() ?? '';
+  const gemeinde = LI_SUBORT_MAP[raw] ?? raw;
+  if (liGemeindeCount.has(gemeinde)) {
+    liGemeindeCount.set(gemeinde, liGemeindeCount.get(gemeinde)! + 1);
+  }
+}
+
+const liStaedte = LI_GEMEINDEN.map(g => ({ ...g, count: liGemeindeCount.get(g.name) ?? 0 }));
+const liTotal   = liStaedte.reduce((s, c) => s + c.count, 0);
+
+// Branche-Icons
+const branchenIcons: Record<string, string> = {
+  schreiner:      'M12 2 2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5',
+  elektriker:     'M13 2 3 14h9l-1 8 10-12h-9l1-8z',
+  maler:          'M2 13.5V22h9v-3H7v-5.5a5 5 0 0 1 10 0V19h-4v3h9v-8.5a9 9 0 1 0-18 0z',
+  sanitaer:       'M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.09 3 12.25c0 2.22 1.8 4.05 4 4.05z',
+  dachdecker:     'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z',
+  heizungsbauer:  'M12 22V12m0 0C12 6 6 6 6 12m6 0c0-6 6-6 6 0M5 20h14',
+  bodenleger:     'M3 3h18v18H3zM3 9h18M9 3v18',
+  gartenbau:      'M12 22V11M17.5 6.5a5.5 5.5 0 0 1-5.5 5.5A5.5 5.5 0 0 1 6.5 6.5 5.5 5.5 0 0 1 12 1a5.5 5.5 0 0 1 5.5 5.5z',
+  dachdecker2:    'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z',
+  fliesenleger:   'M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3',
+  gipser:         'M2 9l10-7 10 7v11H2zM9 22V12h6v10',
+  glaser:         'M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2v-4M9 21H5a2 2 0 0 1-2-2v-4m0 0h18',
+  maurer:         'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z',
+  metallbau:      'M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z',
+  zimmermann:     'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2zM9 22V12h6v10',
+};
+
+const defaultIcon = 'M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5';
+---
+
+<BaseLayout
+  title="AlpenGewerbe – Handwerk & Gewerbe in der Alpenregion"
+  description="Das Branchenbuch für Handwerker und Gewerbetreibende in der Schweiz und Liechtenstein. Schreiner, Elektriker, Maler und mehr in Ihrer Region."
+>
+  <!-- WebSite Schema -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'AlpenGewerbe',
+    url: Astro.site?.toString(),
+    description: 'Das Branchenbuch für Handwerk und Gewerbe in der Alpenregion.',
+  })} />
+
+  <!-- ══ HERO mit Suche ══════════════════════════════════════════════ -->
+  <section class="bg-(--color-section-dark) text-white py-20 lg:py-28 relative overflow-hidden">
+    <!-- Hintergrund-Dekoration -->
+    <div class="absolute inset-0 opacity-5" aria-hidden="true">
+      <svg width="100%" height="100%" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice">
+        <polygon points="0,400 200,100 400,280 600,60 800,200 800,400" fill="white"/>
+      </svg>
+    </div>
+
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 text-center">
+      <!-- Länder-Badge -->
+      <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 text-white/80 text-sm font-medium mb-6">
+        🇨🇭 Schweiz &nbsp;·&nbsp; 🇱🇮 Liechtenstein
+      </div>
+
+      <h1 class="text-white mb-5 text-balance">
+        Handwerk & Gewerbe<br class="hidden sm:block" /> in der Alpenregion
+      </h1>
+      <p class="text-white/70 text-lg max-w-xl mx-auto mb-10">
+        {companiesData.length} Betriebe, {branchenCount.size} Branchen. Kontakt und Bewertungen auf einen Blick.
+      </p>
+
+      <!-- Suchformular -->
+      <form id="search-form" class="flex flex-col sm:flex-row gap-3 max-w-2xl mx-auto" role="search" novalidate>
+        <div class="relative flex-1">
+          <label for="search-input" class="sr-only">Betrieb oder Branche suchen</label>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Betrieb oder Branche suchen…"
+            autocomplete="off"
+            class="w-full pl-11 pr-4 py-3.5 rounded-xl text-(--color-text) bg-white placeholder:text-gray-400
+                   border-2 border-transparent focus:outline-none focus:border-(--color-primary)/60
+                   text-base shadow-lg"
+          />
+          <svg class="absolute left-3.5 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none"
+               width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          </svg>
+        </div>
+        <button type="submit"
+                class="inline-flex items-center justify-center gap-2 bg-(--color-accent) text-white
+                       px-7 py-3.5 rounded-xl font-semibold text-base shadow-lg
+                       transition-all duration-200 hover:bg-(--color-accent-dark) hover:shadow-xl hover:scale-[1.02]">
+          Suchen
+        </button>
+      </form>
+
+      <!-- Schnelllinks -->
+      <div class="flex flex-wrap justify-center gap-2 mt-6">
+        {topBranchen.slice(0, 5).map(([branche]) => (
+          <a href={`/${branche}/`}
+             class="px-3 py-1.5 rounded-full bg-white/15 text-white/90 text-sm font-medium
+                    hover:bg-white/25 transition-colors capitalize">
+            {branche}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ SUCHERGEBNISSE (dynamisch via JS) ══════════════════════════ -->
+  <section id="search-results" class="hidden py-10 bg-(--color-surface-alt) border-b border-(--color-border)">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <p id="search-count" class="text-sm text-(--color-text-muted) mb-5"></p>
+      <div id="search-results-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    </div>
+  </section>
+
+  <!-- ══ TOP-BRANCHEN ════════════════════════════════════════════════ -->
+  <section class="py-14 lg:py-20 bg-[#F9FAFB]">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="mb-10 animate-on-scroll">
+        <h2 class="mb-2 text-(--color-text)">Top-Branchen</h2>
+        <p class="text-(--color-text-muted)">Die meistgesuchten Handwerker in der Alpenregion.</p>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 stagger-children">
+        {topBranchen.map(([branche, count]) => (
+          <a href={`/${branche}/`}
+             class="group bg-white rounded-2xl border border-transparent shadow-sm
+                    hover:shadow-xl hover:-translate-y-1 hover:border-(--color-primary)/20
+                    p-5 animate-on-scroll transition-all duration-300">
+            <div class="w-10 h-10 rounded-xl bg-(--color-primary)/8 flex items-center justify-center mb-3
+                        group-hover:bg-(--color-primary)/15 transition-colors">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1E5C35" stroke-width="1.75"
+                   stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d={branchenIcons[branche] ?? defaultIcon}/>
+              </svg>
+            </div>
+            <h3 class="text-(--color-text) text-base capitalize mb-0.5 group-hover:text-(--color-primary) transition-colors font-semibold">
+              {branche}
+            </h3>
+            <p class="text-xs text-(--color-text-muted)">{count} {count === 1 ? 'Betrieb' : 'Betriebe'}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ REGIONEN ═══════════════════════════════════════════════════ -->
+  <section class="py-14 lg:py-20 bg-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+
+      <!-- Schweiz -->
+      <div class="mb-12 animate-on-scroll">
+        <div class="flex items-center gap-3 mb-8">
+          <span class="text-2xl" aria-hidden="true">🇨🇭</span>
+          <div>
+            <h2 class="mb-0.5 text-(--color-text)">Schweiz</h2>
+            <p class="text-(--color-text-muted) text-sm">Handwerker nach Kanton</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 stagger-children">
+          {chKantone.map((kanton) => (
+            kanton.count > 0 ? (
+              <a href={`/kanton/${kanton.slug}/`}
+                 class="group bg-[#F9FAFB] rounded-xl border border-transparent
+                        hover:bg-white hover:shadow-md hover:border-(--color-primary)/15
+                        p-4 animate-on-scroll transition-all duration-200">
+                <div class="flex items-center gap-2 mb-1">
+                  <span class="text-[10px] font-bold text-(--color-primary)/60 bg-(--color-primary)/8 px-1.5 py-0.5 rounded">
+                    {kanton.kürzel}
+                  </span>
+                </div>
+                <p class="font-semibold text-(--color-text) text-sm group-hover:text-(--color-primary) transition-colors">
+                  {kanton.name}
+                </p>
+                <p class="text-xs text-(--color-text-muted) mt-0.5">
+                  {kanton.count} {kanton.count === 1 ? 'Betrieb' : 'Betriebe'}
+                </p>
+              </a>
+            ) : (
+              <div class="bg-[#F9FAFB] rounded-xl border border-transparent p-4 opacity-35 animate-on-scroll">
+                <div class="flex items-center gap-2 mb-1">
+                  <span class="text-[10px] font-bold text-gray-400 bg-gray-100 px-1.5 py-0.5 rounded">
+                    {kanton.kürzel}
+                  </span>
+                </div>
+                <p class="font-semibold text-(--color-text-muted) text-sm">{kanton.name}</p>
+                <p class="text-xs text-(--color-text-muted) mt-0.5">Keine Einträge</p>
+              </div>
+            )
+          ))}
+        </div>
+      </div>
+
+      <!-- Liechtenstein -->
+      <div class="animate-on-scroll">
+        <div class="flex items-center gap-3 mb-8">
+          <span class="text-2xl" aria-hidden="true">🇱🇮</span>
+          <div>
+            <h2 class="mb-0.5 text-(--color-text)">Liechtenstein</h2>
+            <p class="text-(--color-text-muted) text-sm">{liTotal} Betriebe in {liStaedte.length} Gemeinden</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 stagger-children">
+          {liStaedte.map((stadt) => (
+            stadt.count > 0 ? (
+              <a href={`/region/${stadt.slug}/`}
+                 class="group bg-[#F9FAFB] rounded-xl border border-transparent
+                        hover:bg-white hover:shadow-md hover:border-(--color-primary)/15
+                        p-4 animate-on-scroll transition-all duration-200">
+                <p class="font-semibold text-(--color-text) text-sm group-hover:text-(--color-primary) transition-colors">
+                  {stadt.name}
+                </p>
+                <p class="text-xs text-(--color-text-muted) mt-0.5">
+                  {stadt.count} {stadt.count === 1 ? 'Betrieb' : 'Betriebe'}
+                </p>
+              </a>
+            ) : (
+              <div class="bg-[#F9FAFB] rounded-xl border border-transparent p-4 opacity-40 cursor-default animate-on-scroll">
+                <p class="font-semibold text-(--color-text) text-sm">{stadt.name}</p>
+                <p class="text-xs text-(--color-text-muted) mt-0.5">Keine Einträge</p>
+              </div>
+            )
+          ))}
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ══ CTA: Betrieb eintragen ══════════════════════════════════════ -->
+  <section class="py-14 bg-(--color-primary)">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 text-center animate-on-scroll">
+      <h2 class="text-white mb-4">Ihr Betrieb fehlt noch?</h2>
+      <p class="text-white/75 text-lg mb-8 max-w-lg mx-auto">
+        Tragen Sie Ihren Betrieb kostenlos ein und werden Sie von Kunden in der Alpenregion gefunden.
+      </p>
+      <a href="/betrieb/eintragen/"
+         class="inline-flex items-center gap-2 bg-white text-(--color-primary-text) px-8 py-4 rounded-xl
+                font-semibold text-base shadow-lg transition-all duration-200 hover:shadow-xl hover:scale-[1.02]">
+        Jetzt kostenlos eintragen
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+          <path d="M5 12h14M12 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- ══ Client-seitige Suche (lazy-loaded für Skalierbarkeit) ═══════ -->
+  <script>
+    let data: Array<{
+      slug: string; name: string; branchen: string[];
+      ort: string; plz: string; land: string; rating: number;
+    }> | null = null;
+    let loading = false;
+
+    const form    = document.getElementById('search-form') as HTMLFormElement | null;
+    const input   = document.getElementById('search-input') as HTMLInputElement | null;
+    const section = document.getElementById('search-results') as HTMLElement | null;
+    const grid    = document.getElementById('search-results-grid') as HTMLElement | null;
+    const count   = document.getElementById('search-count') as HTMLElement | null;
+
+    async function loadIndex() {
+      if (data || loading) return;
+      loading = true;
+      try {
+        const res = await fetch('/search-index.json');
+        data = await res.json();
+      } catch {
+        data = [];
+      }
+    }
+
+    function normalize(s: string) {
+      return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    }
+
+    function renderCard(item: typeof data extends null ? never : typeof data[0]) {
+      const stars = item.rating > 0
+        ? `<div class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber-50 border border-amber-100">
+             <svg width="12" height="12" viewBox="0 0 24 24" fill="#F59E0B"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+             <span class="text-xs font-semibold text-amber-700">${item.rating.toFixed(1)}</span>
+           </div>`
+        : '';
+      const badges = item.branchen.slice(0, 2).map(
+        (b) => `<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-[#1E5C35]/5 text-[#1A5230] capitalize">${b}</span>`
+      ).join('');
+      return `
+        <article class="group bg-white rounded-2xl border border-transparent shadow-sm
+                        hover:shadow-xl hover:-translate-y-1 hover:border-[#1E5C35]/20
+                        transition-all duration-300 overflow-hidden relative">
+          <div class="h-0.5 bg-gradient-to-r from-[#1E5C35] to-[#2D7F4A] opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+          <div class="p-5">
+            <div class="flex flex-wrap gap-1.5 mb-3">${badges}</div>
+            <h3 class="font-semibold text-[#1C2B20] text-base leading-snug mb-1.5 group-hover:text-[#1E5C35] transition-colors">
+              <a href="/betrieb/${item.slug}/" class="stretched-link">${item.name}</a>
+            </h3>
+            <p class="text-sm text-[#5C7060] mb-4">${item.plz} ${item.ort}&ensp;<span class="text-xs">${item.land === 'CH' ? '🇨🇭' : '🇱🇮'}</span></p>
+            <div class="flex items-center justify-between">${stars}</div>
+          </div>
+        </article>`;
+    }
+
+    async function search(query: string) {
+      if (!query.trim()) {
+        section?.classList.add('hidden');
+        return;
+      }
+      await loadIndex();
+      if (!data) return;
+
+      const q = normalize(query);
+      const results = data.filter((item) =>
+        normalize(item.name).includes(q) ||
+        item.branchen.some((b) => normalize(b).includes(q)) ||
+        normalize(item.ort).includes(q) ||
+        item.plz.includes(q),
+      );
+
+      section?.classList.remove('hidden');
+      if (count) count.textContent = `${results.length} Treffer für „${query}"`;
+      if (grid) grid.innerHTML = results.length
+        ? results.map(renderCard).join('')
+        : '<p class="col-span-full text-[#5C7060] py-8 text-center">Keine Betriebe gefunden.</p>';
+    }
+
+    let debounceTimer: ReturnType<typeof setTimeout>;
+    input?.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => search((e.target as HTMLInputElement).value), 200);
+    });
+    // Präload beim ersten Fokus
+    input?.addEventListener('focus', loadIndex, { once: true });
+
+    form?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      search(input?.value ?? '');
+    });
+  </script>
+
+</BaseLayout>

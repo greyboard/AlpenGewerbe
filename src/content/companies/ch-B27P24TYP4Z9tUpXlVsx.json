@@ -1,0 +1,30 @@
+{
+  "id": "ch-B27P24TYP4Z9tUpXlVsx",
+  "slug": "impulse-sarl-fribourg",
+  "name": "impulse Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kleinschönberg 10",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264816999",
+    "email": "engineering@etude-impulse.ch",
+    "webseite": "https://www.etude-impulse.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

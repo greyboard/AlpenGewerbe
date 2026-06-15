@@ -1,0 +1,30 @@
+{
+  "id": "ch-T1BBeiJosRuK7ZPSGinM",
+  "slug": "baumgartner-jonas-sa-vessy",
+  "name": "Baumgartner Jonas SA",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chem. des Bouvreuils 1",
+    "plz": "1234",
+    "ort": "Vessy",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223000023",
+    "email": "info@jbaum.ch",
+    "webseite": "https://www.baumgartnerjonas.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

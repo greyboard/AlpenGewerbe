@@ -1,0 +1,30 @@
+{
+  "id": "ch-O4qdioCDKAVGo5zkjf6p",
+  "slug": "supersaxo-elektro-visp",
+  "name": "Supersaxo Elektro",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kantonsstrasse 73a",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279581630",
+    "email": "elektro@supersaxo.swiss",
+    "webseite": "https://www.elektrosupersaxo.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

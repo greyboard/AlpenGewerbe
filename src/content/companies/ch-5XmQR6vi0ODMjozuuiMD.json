@@ -1,0 +1,30 @@
+{
+  "id": "ch-5XmQR6vi0ODMjozuuiMD",
+  "slug": "schnueriger-ag-einsiedeln",
+  "name": "Schnüriger AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Sagenpl. 15",
+    "plz": "8840",
+    "ort": "Einsiedeln",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554189030",
+    "email": "info@schnueriger.swiss",
+    "webseite": "https://www.schnueriger.swiss"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-kNODqxH1tmKz6283GFYo",
+  "slug": "gysi-ag-baar",
+  "name": "GYSI AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Zugerstrasse 30",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417684141",
+    "email": "info@gysi.swiss",
+    "webseite": "https://www.gysi.swiss"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

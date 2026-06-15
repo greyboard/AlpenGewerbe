@@ -1,0 +1,30 @@
+{
+  "id": "ch-iTkHK6StOZvDQiG8owae",
+  "slug": "anb-peinture-sarl-fribourg",
+  "name": "ANB Peinture Sàrl",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Chem. Montrevers 25",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41265261078",
+    "email": "info@anbpeinture.ch",
+    "webseite": "https://www.anbpeinture.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

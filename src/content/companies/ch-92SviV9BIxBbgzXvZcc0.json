@@ -1,0 +1,30 @@
+{
+  "id": "ch-92SviV9BIxBbgzXvZcc0",
+  "slug": "rolf-meier-ag-sanitaere-anlagen-st-gallen",
+  "name": "Rolf Meier AG, Sanitäre Anlagen",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Antoniusstrasse 1",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712449030",
+    "email": "info@dein-sanitaer.ch",
+    "webseite": "https://www.dein-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

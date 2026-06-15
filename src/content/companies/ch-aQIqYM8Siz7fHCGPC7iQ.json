@@ -1,0 +1,30 @@
+{
+  "id": "ch-aQIqYM8Siz7fHCGPC7iQ",
+  "slug": "b-f-haustechnik-gmbh-bern",
+  "name": "B+F Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rosenweg 37",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313712525",
+    "email": "info@bf-haustechnik.ch",
+    "webseite": "https://www.bf-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

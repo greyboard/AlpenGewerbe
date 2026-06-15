@@ -1,0 +1,30 @@
+{
+  "id": "ch-U8SDSdV5wrFh5AVrAaNw",
+  "slug": "stiftsgarten-bern",
+  "name": "Stiftsgarten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Badgasse 40",
+    "plz": "3011",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774658301",
+    "email": "info@stiftsgarten.ch",
+    "webseite": "https://www.stiftsgarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

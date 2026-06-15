@@ -1,0 +1,30 @@
+{
+  "id": "ch-aNnD5qQDwqK9GWsTd55z",
+  "slug": "mbg-metallbau-giraldo-ag-opfikon",
+  "name": "MBG Metallbau Giraldo AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Zunstrasse 5",
+    "plz": "8152",
+    "ort": "Opfikon",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41448107703",
+    "email": "giraldo@mbg.swiss",
+    "webseite": "https://www.mbg.swiss"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

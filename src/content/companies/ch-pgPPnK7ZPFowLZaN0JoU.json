@@ -1,0 +1,30 @@
+{
+  "id": "ch-pgPPnK7ZPFowLZaN0JoU",
+  "slug": "db-garten-und-sportanlagen-ag-klosters-serneus",
+  "name": "db Garten- und Sportanlagen AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Doggilochstrasse 128A",
+    "plz": "7250",
+    "ort": "Klosters-Serneus",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41814224800",
+    "email": "info@garten-sportanlagen.ch",
+    "webseite": "https://www.garten-sportanlagen.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

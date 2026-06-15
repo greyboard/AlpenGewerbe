@@ -1,0 +1,30 @@
+{
+  "id": "ch-dviiAuZcwn49Hqmwuf1V",
+  "slug": "a-baltensperger-ag-zuerich",
+  "name": "A. Baltensperger AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Langmauerstrasse 65",
+    "plz": "8006",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443665070",
+    "email": "info@baltensperger.ch",
+    "webseite": "https://www.baltensperger.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

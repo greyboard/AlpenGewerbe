@@ -1,0 +1,30 @@
+{
+  "id": "ch-dEpRHaSry0y77tFM0llx",
+  "slug": "schreinerei-mischabel-saas-almagell",
+  "name": "Schreinerei Mischabel",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Talstrasse 179",
+    "plz": "3905",
+    "ort": "Saas-Almagell",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279571116",
+    "email": "schreinerei@mischabel.ch",
+    "webseite": "https://www.mischabel.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

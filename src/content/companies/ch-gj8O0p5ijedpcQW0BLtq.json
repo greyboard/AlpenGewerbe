@@ -1,0 +1,30 @@
+{
+  "id": "ch-gj8O0p5ijedpcQW0BLtq",
+  "slug": "frey-cie-elektro-ag-stans-stans",
+  "name": "Frey + Cie Elektro AG Stans",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Oberstmühle 1",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416220020",
+    "email": "info@freycie-stans.ch",
+    "webseite": "https://www.freycie-stans.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

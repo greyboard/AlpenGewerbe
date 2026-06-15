@@ -1,0 +1,30 @@
+{
+  "id": "ch-aCDJyddcoJZk6XFJlPIg",
+  "slug": "schatt-manuel-gmbh-oberiberg",
+  "name": "Schatt Manuel GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Tschalunstrasse 14",
+    "plz": "8843",
+    "ort": "Oberiberg",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793745785",
+    "email": "schatt.manuel@bluewin.ch",
+    "webseite": "https://www.schatt-tiefbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

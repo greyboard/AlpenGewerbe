@@ -1,0 +1,30 @@
+{
+  "id": "ch-onAmvhuMDnqcJkGLrNM5",
+  "slug": "sutter-ag-holzbau-st-gallen",
+  "name": "Sutter AG Holzbau",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Mingerstrasse 12",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712771157",
+    "email": "info@sutteragholzbau.ch",
+    "webseite": "https://www.sutteragholzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

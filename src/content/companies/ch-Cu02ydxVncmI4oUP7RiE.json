@@ -1,0 +1,30 @@
+{
+  "id": "ch-Cu02ydxVncmI4oUP7RiE",
+  "slug": "glaserei-felber-gmbh-baar",
+  "name": "Glaserei Felber GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Ruessenstrasse 12",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417470470",
+    "email": "info@felberglas.ch",
+    "webseite": "https://www.felberglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

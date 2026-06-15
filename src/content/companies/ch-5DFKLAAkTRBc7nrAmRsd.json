@@ -1,0 +1,30 @@
+{
+  "id": "ch-5DFKLAAkTRBc7nrAmRsd",
+  "slug": "leki-haustechnik-gmbh-neuhausen-am-rheinfall",
+  "name": "Leki Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rosenbergstrasse 147",
+    "plz": "8212",
+    "ort": "Neuhausen am Rheinfall",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526700555",
+    "email": "info@lht.ch",
+    "webseite": "https://lht.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

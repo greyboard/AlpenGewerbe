@@ -1,0 +1,30 @@
+{
+  "id": "ch-DpTSHr8JxcFEdJGb6jZ6",
+  "slug": "danis-gaertner-gartenbau-pflege-in-aargau-und-zuerich-wettingen",
+  "name": "Danis Gärtner Gartenbau + Pflege in Aargau und Zürich",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Tägerhardstrasse 116",
+    "plz": "5430",
+    "ort": "Wettingen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41433438585",
+    "email": "kontakt@danisgaertner.ch",
+    "webseite": "https://www.danisgaertner.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-qreSz8xP25NP8f19hSmt",
+  "slug": "baumann-holzbau-appenzell",
+  "name": "Baumann Holzbau",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Gontenstrasse 28",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717875527",
+    "email": "info@anderthalb.ch",
+    "webseite": "https://www.holzbaubaumann.ch/home.html"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

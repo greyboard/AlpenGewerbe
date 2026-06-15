@@ -1,0 +1,30 @@
+{
+  "id": "ch-5XjqdwKDF5PDIRN4yv2p",
+  "slug": "an-sanitaire-sarl-plomberie-geneve-geneve",
+  "name": "AN Sanitaire Sàrl - Plomberie Genève",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "c/o Majda Ait Bihi",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782238060",
+    "email": "contact@an-sanitaire.ch",
+    "webseite": "https://an-sanitaire.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

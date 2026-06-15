@@ -1,0 +1,30 @@
+{
+  "id": "ch-r7xSUTm9qOCsmIxdD4D0",
+  "slug": "malerhandwerk-spiess-stans",
+  "name": "Malerhandwerk Spiess",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Breitenweg 10",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797153227",
+    "email": "marcel.spiess@malerspiess.ch",
+    "webseite": "https://www.malerspiess.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

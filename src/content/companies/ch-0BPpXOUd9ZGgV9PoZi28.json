@@ -1,0 +1,30 @@
+{
+  "id": "ch-0BPpXOUd9ZGgV9PoZi28",
+  "slug": "elektro-due-ag-basel",
+  "name": "Elektro Due AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Im Surinam 60",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614642020",
+    "email": "info@elektrodue.ch",
+    "webseite": "https://www.elektrodue.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

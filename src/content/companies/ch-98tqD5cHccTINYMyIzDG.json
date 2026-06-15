@@ -1,0 +1,30 @@
+{
+  "id": "ch-98tqD5cHccTINYMyIzDG",
+  "slug": "tschaggelar-bau-und-moebelschreinerei-gmbh-bern",
+  "name": "Tschaggelar Bau- und Möbelschreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Sandrainstrasse 3",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318493355",
+    "email": "info@tschaggelar.ch",
+    "webseite": "https://www.tschaggelar.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

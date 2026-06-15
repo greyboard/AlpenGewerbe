@@ -1,0 +1,30 @@
+{
+  "id": "ch-rnQ3cs86TleW3tmrkcQb",
+  "slug": "tiles-store-zurich-gmbh-zuerich",
+  "name": "Tiles store Zurich GmbH",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "Pflanzschulstrasse 63",
+    "plz": "8004",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444000507",
+    "email": "info@plattenladen.ch",
+    "webseite": "https://www.plattenladen.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

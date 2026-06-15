@@ -1,0 +1,30 @@
+{
+  "id": "ch-k3BxpjuvXbUbuzXEXPlr",
+  "slug": "garlandini-sa-solduno",
+  "name": "Garlandini SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via Filippo Caponelli 19",
+    "plz": "6600",
+    "ort": "Solduno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917515687",
+    "email": "info@garlandini.ch",
+    "webseite": "https://www.garlandini.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

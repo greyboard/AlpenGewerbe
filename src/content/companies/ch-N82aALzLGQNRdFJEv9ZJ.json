@@ -1,0 +1,30 @@
+{
+  "id": "ch-N82aALzLGQNRdFJEv9ZJ",
+  "slug": "hug-garden-ag-gartenbau-wil-braunau",
+  "name": "Hug Garden AG | Gartenbau Wil",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kirchensteig 10",
+    "plz": "9502",
+    "ort": "Braunau",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714221212",
+    "email": "info@hug-garden.ch",
+    "webseite": "https://www.hug-garden.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

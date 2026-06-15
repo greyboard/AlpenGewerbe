@@ -1,0 +1,30 @@
+{
+  "id": "ch-HhHJTrjKkkLEvR45X1Sq",
+  "slug": "wirth-heizungs-service-gmbh-schwanden",
+  "name": "Wirth Heizungs-Service GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Güetlistrasse 22",
+    "plz": "8762",
+    "ort": "Schwanden",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792166002",
+    "email": "wirth@heizungs-service.ch",
+    "webseite": "https://www.heizungs-service.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

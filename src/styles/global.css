@@ -1,0 +1,85 @@
+@import "tailwindcss";
+@import "@fontsource-variable/plus-jakarta-sans";
+@import "@fontsource-variable/work-sans";
+
+@theme {
+  /* ── Primär: Alpin-Grün ── */
+  --color-primary:        #1E5C35;
+  --color-primary-light:  #2D7F4A;
+  --color-primary-dark:   #153F25;
+  --color-primary-text:   #1A5230;
+
+  /* ── Akzent: Warmes Orange ── */
+  --color-accent:         #E8702A;
+  --color-accent-dark:    #CC5F1E;
+
+  /* ── Neutrale Flächen ── */
+  --color-secondary:      #1C2B20;
+  --color-section-dark:   #111A13;
+  --color-surface:        #F7F9F7;
+  --color-surface-alt:    #EFF4F0;
+
+  /* ── Typografie ── */
+  --color-text:           #1C2B20;
+  --color-text-muted:     #5C7060;
+  --color-border:         #D4E0D8;
+
+  /* ── Schriften ── */
+  --font-heading: 'Plus Jakarta Sans Variable', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-body:    'Work Sans Variable', 'Work Sans', system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    font-family: var(--font-body);
+    color: var(--color-text);
+    background-color: #ffffff;
+    line-height: 1.65;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    line-height: 1.15;
+    /* Kein color hier – Tailwind-Utilities sollen ungehindert greifen */
+  }
+
+  h1 { font-size: clamp(2rem, 4.5vw, 3.25rem); font-weight: 800; }
+  h2 { font-size: clamp(1.5rem, 3vw, 2.25rem); }
+  h3 { font-size: clamp(1.125rem, 2vw, 1.5rem); font-weight: 600; }
+
+  p { line-height: 1.75; }
+
+  a {
+    color: var(--color-primary-text);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  a:hover { color: var(--color-primary-dark); }
+}
+
+@layer utilities {
+  /* Scroll-Animationen */
+  .animate-on-scroll {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+  .animate-on-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Stagger für Grid-Kinder */
+  .stagger-children > *:nth-child(1) { transition-delay: 0ms; }
+  .stagger-children > *:nth-child(2) { transition-delay: 80ms; }
+  .stagger-children > *:nth-child(3) { transition-delay: 160ms; }
+  .stagger-children > *:nth-child(4) { transition-delay: 240ms; }
+  .stagger-children > *:nth-child(5) { transition-delay: 320ms; }
+  .stagger-children > *:nth-child(6) { transition-delay: 400ms; }
+}

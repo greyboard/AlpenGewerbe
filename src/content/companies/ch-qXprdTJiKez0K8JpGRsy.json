@@ -1,0 +1,30 @@
+{
+  "id": "ch-qXprdTJiKez0K8JpGRsy",
+  "slug": "sanitaer-schuler-gmbh-gais",
+  "name": "Sanitär Schuler GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gaiserau 56",
+    "plz": "9056",
+    "ort": "Gais",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717931510",
+    "email": "info@sanitaer-schuler.ch",
+    "webseite": "https://www.sanitaer-schuler.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

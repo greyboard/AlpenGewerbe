@@ -1,0 +1,30 @@
+{
+  "id": "ch-DKBO3dMzceqD63w7MNMW",
+  "slug": "metallbau-wabern-bei-bern",
+  "name": "Metallbau",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Grünaustrasse 33",
+    "plz": "3084",
+    "ort": "Wabern bei Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782342560",
+    "email": "info@baechtelen.ch",
+    "webseite": "https://www.baechtelen.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-hboZJARSG32oyozqO5QK",
+  "slug": "mbk-group-gmbh-bern",
+  "name": "mbk Group GmbH",
+  "branchen": [
+    "bodenleger"
+  ],
+  "adresse": {
+    "strasse": "Bethlehemstrasse 116",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313715050",
+    "email": "info@mbkgroup.ch",
+    "webseite": "https://mbkgroup.ch"
+  },
+  "leistungen": [
+    "Parkettverlegung",
+    "Laminatverlegung",
+    "Vinylbodenverlegung",
+    "Teppichverlegung",
+    "Unterbodenarbeiten",
+    "Bodenrenovierung",
+    "Epoxidbeschichtung",
+    "Trittschalldämmung"
+  ]
+}

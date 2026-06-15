@@ -1,0 +1,30 @@
+{
+  "id": "ch-fRQo8tv83e52lcNMctZZ",
+  "slug": "glas-faeh-betriebs-gmbh-bern",
+  "name": "Glas Fäh Betriebs GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Zähringerstrasse 11",
+    "plz": "3012",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313012383",
+    "email": "info@glasfaeh.ch",
+    "webseite": "https://www.glasfaeh.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

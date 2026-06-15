@@ -1,0 +1,30 @@
+{
+  "id": "ch-xvNVjMMnXMsy8A1JN95h",
+  "slug": "maler-nideroest-ag-schattdorf",
+  "name": "Maler Nideröst AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hergergässli 6",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788928879",
+    "email": "info@maler-nideroest-ag.ch",
+    "webseite": "https://www.maler-nideroest-ag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

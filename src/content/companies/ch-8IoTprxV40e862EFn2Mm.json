@@ -1,0 +1,30 @@
+{
+  "id": "ch-8IoTprxV40e862EFn2Mm",
+  "slug": "hans-thomann-ag-affeltrangen",
+  "name": "Hans Thomann AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Mettlenstrasse 7",
+    "plz": "9562",
+    "ort": "Affeltrangen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716551224",
+    "email": "info@tschirren-thomann.ch",
+    "webseite": "https://www.tschirren-thomann.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

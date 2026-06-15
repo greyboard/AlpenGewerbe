@@ -1,0 +1,30 @@
+{
+  "id": "ch-14shyYNWAFlmoGQLWdOR",
+  "slug": "vito-flachdach-gmbh-flueelen",
+  "name": "Vito Flachdach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 12",
+    "plz": "6454",
+    "ort": "Flüelen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789100689",
+    "email": "info@vito-flachdach.ch",
+    "webseite": "https://www.vito-flachdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

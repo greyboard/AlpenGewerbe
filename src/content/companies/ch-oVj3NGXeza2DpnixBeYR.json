@@ -1,0 +1,30 @@
+{
+  "id": "ch-oVj3NGXeza2DpnixBeYR",
+  "slug": "aletsch-elektro-ag-fiesch",
+  "name": "Aletsch Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Furkastrasse 60",
+    "plz": "3984",
+    "ort": "Fiesch",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279710180",
+    "email": "info@aletsch-elektro.ch",
+    "webseite": "https://yellow.local.ch/d/NJvvmIWhxTbRGpMWegpQjw"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

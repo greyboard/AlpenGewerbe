@@ -1,0 +1,30 @@
+{
+  "id": "ch-WFV5QvE3Oiau8O3ArC6K",
+  "slug": "waldburger-gartenbau-herisau",
+  "name": "Waldburger Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "St. Gallerstrasse 21",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713535000",
+    "email": "info@waldburger-gartenbau.ch",
+    "webseite": "https://www.waldburger-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

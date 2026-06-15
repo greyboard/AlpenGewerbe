@@ -1,0 +1,30 @@
+{
+  "id": "ch-flhBMaAUQfNsB5An3umd",
+  "slug": "metallbau-bucher-ag-adligenswil",
+  "name": "Metallbau Bucher AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Ebnetstrasse 1",
+    "plz": "6043",
+    "ort": "Adligenswil",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413707930",
+    "email": "info@metallbau-bucher.ch",
+    "webseite": "https://www.metallbau-bucher.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

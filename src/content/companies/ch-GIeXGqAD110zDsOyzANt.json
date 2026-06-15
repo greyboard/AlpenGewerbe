@@ -1,0 +1,30 @@
+{
+  "id": "ch-GIeXGqAD110zDsOyzANt",
+  "slug": "fabians-gartenstyling-gmbh-schattdorf",
+  "name": "Fabians Gartenstyling GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 6",
+    "plz": "6467",
+    "ort": "Schattdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795034735",
+    "email": "info@fabians-gartenstyling.ch",
+    "webseite": "https://www.fabians-gartenstyling.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

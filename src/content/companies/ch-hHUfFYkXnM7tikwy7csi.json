@@ -1,0 +1,30 @@
+{
+  "id": "ch-hHUfFYkXnM7tikwy7csi",
+  "slug": "sar-elektro-telematik-ag-chur",
+  "name": "SAR Elektro + Telematik AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kalchbühlstrasse 40",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812501199",
+    "email": "info@sar-chur.ch",
+    "webseite": "https://www.sar-chur.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

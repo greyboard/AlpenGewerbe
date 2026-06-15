@@ -1,0 +1,30 @@
+{
+  "id": "ch-TSOO51MY7TcpZlFwGYMK",
+  "slug": "elektro-andres-ag-lohn-ammannsegg",
+  "name": "Elektro Andres AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Eichenstrasse 2",
+    "plz": "4573",
+    "ort": "Lohn-Ammannsegg",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326771313",
+    "email": "info@elektro-andres.ch",
+    "webseite": "https://yellow.local.ch/d/xw7cflOPseWV1misTCrU6A"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

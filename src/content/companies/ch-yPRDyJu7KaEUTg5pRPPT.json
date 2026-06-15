@@ -1,0 +1,30 @@
+{
+  "id": "ch-yPRDyJu7KaEUTg5pRPPT",
+  "slug": "boesch-elektro-ag-herisau",
+  "name": "Bösch Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Alpsteinstrasse 51",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713522144",
+    "email": "info@boesch-elektro.ch",
+    "webseite": "https://www.boesch-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-n7YkUwxMfzAjI6R53BEg",
+  "slug": "schoenholzer-ag-chur",
+  "name": "Schönholzer AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kalchbühlstrasse 18",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812571212",
+    "email": "info@schoenholzer-elektro.ch",
+    "webseite": "https://www.schoenholzer-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-zX6RcMtRxySj3iN9lMVv",
+  "slug": "schreinerei-nussberger-beringen",
+  "name": "Schreinerei Nussberger",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Schaffhauserstrasse 84",
+    "plz": "8222",
+    "ort": "Beringen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526853187",
+    "email": "info@ankleiden.ch",
+    "webseite": "https://www.ankleiden.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

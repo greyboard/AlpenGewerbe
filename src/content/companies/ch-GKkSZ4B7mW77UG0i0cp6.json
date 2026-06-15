@@ -1,0 +1,30 @@
+{
+  "id": "ch-GKkSZ4B7mW77UG0i0cp6",
+  "slug": "wagner-maler-gmbh-taeuffelen",
+  "name": "Wagner Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 124",
+    "plz": "2575",
+    "ort": "Täuffelen",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323962605",
+    "email": "info@wagner-maler.ch",
+    "webseite": "https://www.wagner-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-DPyqrYrzWis9zviE7iRG",
+  "slug": "with-metallbau-ag-luzern",
+  "name": "With Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rothenring 9 b",
+    "plz": "6015",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412600844",
+    "email": "metallbau@with.ch",
+    "webseite": "https://www.with.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

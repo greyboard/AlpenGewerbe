@@ -1,0 +1,30 @@
+{
+  "id": "ch-fBSsswAcm0fk7olKcJuw",
+  "slug": "m-wuethrich-ihr-zimmermann-gmbh-zunzgen",
+  "name": "M. Wüthrich Ihr Zimmermann GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Bachtelenweg 4",
+    "plz": "4455",
+    "ort": "Zunzgen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794517224",
+    "email": "info@wuethrich-holzbau.ch",
+    "webseite": "https://www.wuethrich-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

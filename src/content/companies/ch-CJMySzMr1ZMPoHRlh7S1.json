@@ -1,0 +1,30 @@
+{
+  "id": "ch-CJMySzMr1ZMPoHRlh7S1",
+  "slug": "walo-isler-ag-basel",
+  "name": "Walo Isler AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Claramattweg 9",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616911166",
+    "email": "info@walo-isler.ch",
+    "webseite": "https://www.walo-isler.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

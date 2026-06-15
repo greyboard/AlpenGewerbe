@@ -1,0 +1,30 @@
+{
+  "id": "ch-pNTtzwinaOyNFw5Ig8P8",
+  "slug": "manser-peter-ag-appenzell",
+  "name": "Manser Peter AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Rütistrasse 47",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717872464",
+    "email": "info@holzbau-manser.ch",
+    "webseite": "https://www.holzbau-manser.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

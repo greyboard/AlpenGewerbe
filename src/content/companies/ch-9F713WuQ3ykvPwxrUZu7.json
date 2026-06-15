@@ -1,0 +1,30 @@
+{
+  "id": "ch-9F713WuQ3ykvPwxrUZu7",
+  "slug": "lehner-sa-sierre",
+  "name": "Lehner SA",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Av. du Rothorn 26",
+    "plz": "3960",
+    "ort": "Sierre",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274565314",
+    "email": "lehner@lehnersa.ch",
+    "webseite": "https://lehnersa.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

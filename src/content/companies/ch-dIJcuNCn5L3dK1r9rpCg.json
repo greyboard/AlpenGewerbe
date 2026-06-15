@@ -1,0 +1,30 @@
+{
+  "id": "ch-dIJcuNCn5L3dK1r9rpCg",
+  "slug": "corbeaubois-geneve",
+  "name": "CorbeauBois",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Chem. des Cytises 12",
+    "plz": "1255",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791063731",
+    "email": "info@corbeaubois.com",
+    "webseite": "https://www.corbeaubois.com"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

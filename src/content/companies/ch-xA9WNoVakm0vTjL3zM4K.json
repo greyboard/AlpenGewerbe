@@ -1,0 +1,30 @@
+{
+  "id": "ch-xA9WNoVakm0vTjL3zM4K",
+  "slug": "herzog-ag-metallbau-ermatingen",
+  "name": "Herzog AG Metallbau",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Wolfsbergstrasse 1",
+    "plz": "8272",
+    "ort": "Ermatingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716642121",
+    "email": "info@herzog-metall.ch",
+    "webseite": "https://www.herzog-metall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

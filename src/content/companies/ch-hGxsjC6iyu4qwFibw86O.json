@@ -1,0 +1,30 @@
+{
+  "id": "ch-hGxsjC6iyu4qwFibw86O",
+  "slug": "fuenfstern-garten-ag-luzern",
+  "name": "Fünfstern Garten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Alpenquai 4",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412200660",
+    "email": "info@fuenfsterngarten.ch",
+    "webseite": "https://www.fuenfsterngarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

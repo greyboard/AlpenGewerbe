@@ -1,0 +1,30 @@
+{
+  "id": "ch-bDm4zI181MrnFq36DkQr",
+  "slug": "elektro-meyer-gmbh-solothurn",
+  "name": "Elektro Meyer GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Biberiststrasse 9",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326227476",
+    "email": "info@elektro-meyer.ch",
+    "webseite": "https://www.elektro-meyer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

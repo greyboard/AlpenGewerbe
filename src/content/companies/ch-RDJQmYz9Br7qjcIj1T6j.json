@@ -1,0 +1,30 @@
+{
+  "id": "ch-RDJQmYz9Br7qjcIj1T6j",
+  "slug": "ees-ag-elektro-egli-spaeni-ag-luzern",
+  "name": "EES AG / Elektro Egli Späni AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Baselstrasse 38",
+    "plz": "6003",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412504848",
+    "email": "info@ees-ag.ch",
+    "webseite": "https://elektromonteur-luzern.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

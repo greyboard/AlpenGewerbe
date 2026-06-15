@@ -1,0 +1,30 @@
+{
+  "id": "ch-voQAFIZbOUO27Psac3Z8",
+  "slug": "marco-bonardi-gipser-ag-zuerich",
+  "name": "Marco Bonardi Gipser AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Kernstrasse 38",
+    "plz": "8004",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442912244",
+    "email": "info@bonardi-gipser.ch",
+    "webseite": "https://www.bonardi-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

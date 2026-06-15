@@ -1,0 +1,30 @@
+{
+  "id": "ch-xFbXTz97M7FVoV0ijFYe",
+  "slug": "kaspar-elektro-ag-reinach",
+  "name": "Kaspar Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Sandgasse 1",
+    "plz": "5734",
+    "ort": "Reinach",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41627714232",
+    "email": "info@kaspar-elektroag.ch",
+    "webseite": "https://www.kaspar-elektroag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

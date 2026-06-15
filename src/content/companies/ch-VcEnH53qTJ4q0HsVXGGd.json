@@ -1,0 +1,30 @@
+{
+  "id": "ch-VcEnH53qTJ4q0HsVXGGd",
+  "slug": "malergeschaeft-helbling-gmbh-kreuzlingen",
+  "name": "Malergeschäft Helbling GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Romanshornerstrasse 122",
+    "plz": "8280",
+    "ort": "Kreuzlingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716883031",
+    "email": "info@kreuzlingen-maler.ch",
+    "webseite": "https://www.kreuzlingen-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

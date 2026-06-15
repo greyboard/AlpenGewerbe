@@ -1,0 +1,30 @@
+{
+  "id": "ch-zfWbjxQzYTrrt64q48MC",
+  "slug": "gasser-bertschy-elektro-ag-bern",
+  "name": "Gasser + Bertschy Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Morgenstrasse 128",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313501177",
+    "email": "info@gb-ag.ch",
+    "webseite": "https://www.gb-ag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

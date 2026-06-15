@@ -1,0 +1,30 @@
+{
+  "id": "ch-ch3waLQHPdHZaCWZOSih",
+  "slug": "octa-elektro-gmbh-aarau",
+  "name": "Octa Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rigistrasse 1b",
+    "plz": "5032",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792682487",
+    "email": "info@octa-elektro.ch",
+    "webseite": "https://www.octa-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

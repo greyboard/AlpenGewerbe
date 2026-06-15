@@ -1,0 +1,30 @@
+{
+  "id": "ch-FSTmGVHx1DoFYSEdkALs",
+  "slug": "holzbau-schweiz-zuerich",
+  "name": "Holzbau Schweiz",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Thurgauerstrasse 54",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445110200",
+    "email": "info@holzbau-schweiz.ch",
+    "webseite": "https://www.holzbau-schweiz.ch/de"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

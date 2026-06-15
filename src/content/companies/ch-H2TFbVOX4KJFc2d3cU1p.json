@@ -1,0 +1,30 @@
+{
+  "id": "ch-H2TFbVOX4KJFc2d3cU1p",
+  "slug": "baticolor-sa-geneve",
+  "name": "Baticolor Sa",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Av. d'Aïre 7",
+    "plz": "1203",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223403652",
+    "email": "info@baticolor.ch",
+    "webseite": "https://www.baticolor.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

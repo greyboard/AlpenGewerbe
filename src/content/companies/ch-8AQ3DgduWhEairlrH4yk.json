@@ -1,0 +1,30 @@
+{
+  "id": "ch-8AQ3DgduWhEairlrH4yk",
+  "slug": "goette-malt-gmbh-amriswil",
+  "name": "Götte malt! GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Alpenstrasse 32",
+    "plz": "8580",
+    "ort": "Amriswil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714110021",
+    "email": "mail@goettemalt.ch",
+    "webseite": "https://www.goettemalt.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

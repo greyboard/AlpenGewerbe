@@ -1,0 +1,30 @@
+{
+  "id": "ch-XYXq8dAod7WTllwQ6nRq",
+  "slug": "malerei-schmid-ag-stansstad",
+  "name": "Malerei Schmid AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Bachstrasse 1",
+    "plz": "6362",
+    "ort": "Stansstad",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416101506",
+    "email": "info@malereischmid.ch",
+    "webseite": "https://www.malereischmid.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

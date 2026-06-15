@@ -1,0 +1,30 @@
+{
+  "id": "ch-6DSQsD9nlUQ9pLYffMSR",
+  "slug": "alpha-gruppe-ag-gartenbau-gartenpflege-basel",
+  "name": "ALPHA Gruppe AG Gartenbau Gartenpflege",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Reinacherstrasse 101",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615562727",
+    "email": "info@alpha-dt.ch",
+    "webseite": "https://www.alpha-gruppe.ch/gartenbau"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-b4kYiOinyadOOFmmE3I3",
+  "slug": "burger-stahlbau-ag-frauenfeld",
+  "name": "Burger Stahlbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hungerbüelstrasse 4",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527208320",
+    "email": "info@yourmail.com",
+    "webseite": "https://www.burgerstahlbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

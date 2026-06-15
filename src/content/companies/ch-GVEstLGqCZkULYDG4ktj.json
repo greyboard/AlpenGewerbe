@@ -1,0 +1,30 @@
+{
+  "id": "ch-GVEstLGqCZkULYDG4ktj",
+  "slug": "klinker-spezialbau-ag-herisau",
+  "name": "Klinker-Spezialbau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bahnhofstrasse 10",
+    "plz": "9100",
+    "ort": "Herisau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41715449410",
+    "email": "info@klinker-spezialbau.ch",
+    "webseite": "https://www.klinker-spezialbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

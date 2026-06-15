@@ -1,0 +1,30 @@
+{
+  "id": "ch-pqR4GO0Wi7mKzvrcClyA",
+  "slug": "lp-coperture-sa-bedano",
+  "name": "LP Coperture SA",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Via Cantonale 84",
+    "plz": "6930",
+    "ort": "Bedano",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41919211234",
+    "email": "info@lpcoperture.ch",
+    "webseite": "https://www.lpcoperture.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

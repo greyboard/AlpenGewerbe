@@ -1,0 +1,30 @@
+{
+  "id": "ch-EeAjmb6BghmdBhvvt6Kd",
+  "slug": "reber-gartenmanager-gmbh-wynau",
+  "name": "Reber Gartenmanager GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "u. Einschlagstrasse 6",
+    "plz": "4923",
+    "ort": "Wynau",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41629291316",
+    "email": "greenpoint@reber-gartenmanager.ch",
+    "webseite": "https://www.reber-gartenmanager.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

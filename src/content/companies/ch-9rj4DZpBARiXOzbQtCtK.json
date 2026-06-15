@@ -1,0 +1,30 @@
+{
+  "id": "ch-9rj4DZpBARiXOzbQtCtK",
+  "slug": "kreis-wasser-ag-st-gallen",
+  "name": "kreis wasser ag",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Moosstrasse 52",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712742074",
+    "email": "info@kreiswasser.ch",
+    "webseite": "https://www.kreiswasser.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

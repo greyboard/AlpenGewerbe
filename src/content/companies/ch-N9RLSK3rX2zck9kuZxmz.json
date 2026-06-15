@@ -1,0 +1,30 @@
+{
+  "id": "ch-N9RLSK3rX2zck9kuZxmz",
+  "slug": "erb-schreinerei-gmbh-flurlingen",
+  "name": "Erb Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Neustrasse 16",
+    "plz": "8247",
+    "ort": "Flurlingen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526593928",
+    "email": "info@erb-schreinerei.ch",
+    "webseite": "https://www.erb-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-HagJKQMuZnz2L5QLCZ7k",
+  "slug": "vicini-bau-ag-appenzell",
+  "name": "Vicini Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Gontenstrasse 17",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717874615",
+    "email": "vasb@ivpvav-onh.pu",
+    "webseite": "https://www.vicini-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

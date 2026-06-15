@@ -1,0 +1,30 @@
+{
+  "id": "ch-qJp7YK5qme2FAY5m1j0A",
+  "slug": "ringeisen-ag-koeniz",
+  "name": "Ringeisen AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 792",
+    "plz": "3173",
+    "ort": "Köniz",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318882010",
+    "email": "schreiner@ringeisen.ch",
+    "webseite": "https://www.ringeisen.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

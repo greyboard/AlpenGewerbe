@@ -1,0 +1,89 @@
+---
+interface Review {
+  author_name: string;
+  rating: number;
+  text: string;
+  time: number;
+}
+
+interface Props {
+  name: string;
+  slug: string;
+  branchen: string[];
+  adresse: {
+    strasse: string;
+    plz: string;
+    ort: string;
+    land: 'CH' | 'LI';
+  };
+  kontakt: {
+    telefon?: string;
+    email?: string;
+    webseite?: string;
+  };
+  ratingCached?: {
+    rating: number;
+    user_ratings_total: number;
+    reviews: Review[];
+    last_updated: string;
+  };
+}
+
+const { name, slug, branchen, adresse, kontakt, ratingCached } = Astro.props;
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+
+const countryMap: Record<string, string> = { CH: 'CH', LI: 'LI' };
+
+const schema: Record<string, unknown> = {
+  '@context':  'https://schema.org',
+  '@type':     'LocalBusiness',
+  name,
+  url:         `${siteUrl}/betrieb/${slug}/`,
+  address: {
+    '@type':           'PostalAddress',
+    streetAddress:     adresse.strasse,
+    postalCode:        adresse.plz,
+    addressLocality:   adresse.ort,
+    addressCountry:    countryMap[adresse.land],
+  },
+};
+
+if (kontakt.telefon) schema.telephone  = kontakt.telefon;
+if (kontakt.email)   schema.email      = kontakt.email;
+if (kontakt.webseite) schema.sameAs    = [kontakt.webseite];
+
+if (branchen.length > 0) {
+  schema['@type'] = branchen.length === 1 ? 'LocalBusiness' : 'LocalBusiness';
+  schema.description = `${name} – ${branchen.join(', ')} in ${adresse.ort}`;
+}
+
+if (ratingCached && ratingCached.user_ratings_total > 0) {
+  schema.aggregateRating = {
+    '@type':       'AggregateRating',
+    ratingValue:   ratingCached.rating,
+    reviewCount:   ratingCached.user_ratings_total,
+    bestRating:    5,
+    worstRating:   1,
+  };
+
+  if (ratingCached.reviews.length > 0) {
+    schema.review = ratingCached.reviews.slice(0, 3).map((r) => ({
+      '@type':       'Review',
+      author: {
+        '@type': 'Person',
+        name:    r.author_name,
+      },
+      reviewRating: {
+        '@type':       'Rating',
+        ratingValue:   r.rating,
+        bestRating:    5,
+        worstRating:   1,
+      },
+      reviewBody:    r.text,
+      datePublished: new Date(r.time * 1000).toISOString().split('T')[0],
+    }));
+  }
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

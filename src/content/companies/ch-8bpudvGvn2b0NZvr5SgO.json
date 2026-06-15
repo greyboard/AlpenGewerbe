@@ -1,0 +1,30 @@
+{
+  "id": "ch-8bpudvGvn2b0NZvr5SgO",
+  "slug": "maler-r-toma-zuerich",
+  "name": "Maler R. Toma",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kelchweg 9",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786336666",
+    "email": "malertoma@bluewin.ch",
+    "webseite": "https://www.maler-toma.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

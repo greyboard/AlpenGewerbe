@@ -1,0 +1,30 @@
+{
+  "id": "ch-a0KlRFpehpqPYdytKd8b",
+  "slug": "gs-gashi-sanitaer-wohlen",
+  "name": "GS GASHI SANITÄR",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Roggenweg 10",
+    "plz": "5610",
+    "ort": "Wohlen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764369008",
+    "email": "info@gs-sanitaer.ch",
+    "webseite": "https://www.gssanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

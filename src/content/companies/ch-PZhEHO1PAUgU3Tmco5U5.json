@@ -1,0 +1,30 @@
+{
+  "id": "ch-PZhEHO1PAUgU3Tmco5U5",
+  "slug": "elektro-mehli-ag-chur",
+  "name": "Elektro Mehli AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Wiesentalstrasse 7",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41813560096",
+    "email": "info@elektromehli.ch",
+    "webseite": "https://www.elektromehli.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

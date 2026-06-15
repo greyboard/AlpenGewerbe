@@ -1,0 +1,30 @@
+{
+  "id": "ch-bZlthQRsQ0J0SJLdrCXJ",
+  "slug": "franz-dein-schreiner-seewen",
+  "name": "Franz Dein Schreiner",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Steinbislin 17",
+    "plz": "6423",
+    "ort": "Seewen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764255680",
+    "email": "info@franzdeinschreiner.ch",
+    "webseite": "https://www.franzdeinschreiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

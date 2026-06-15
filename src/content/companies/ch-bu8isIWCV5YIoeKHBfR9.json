@@ -1,0 +1,30 @@
+{
+  "id": "ch-bu8isIWCV5YIoeKHBfR9",
+  "slug": "as-stuber-znl-der-sergio-lo-stanco-elektro-ag-utzenstorf",
+  "name": "AS Stuber, ZNL der Sergio Lo Stanco Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Poststrasse 1a",
+    "plz": "3427",
+    "ort": "Utzenstorf",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326655060",
+    "email": "info@asstuber.ch",
+    "webseite": "https://www.asstuber.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

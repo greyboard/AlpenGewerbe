@@ -1,0 +1,30 @@
+{
+  "id": "ch-I4K6rcT9aMopR4wNY8Ey",
+  "slug": "kostgeld-malergeschaeft-ag-st-gallen",
+  "name": "Kostgeld Malergeschäft AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Neptunstrasse 5",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712445024",
+    "email": "info@kostgeld.ch",
+    "webseite": "https://www.kostgeld.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

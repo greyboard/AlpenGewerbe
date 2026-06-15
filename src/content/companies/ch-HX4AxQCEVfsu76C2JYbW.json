@@ -1,0 +1,30 @@
+{
+  "id": "ch-HX4AxQCEVfsu76C2JYbW",
+  "slug": "sos-vitriers-stores-sarl-vernier",
+  "name": "SOS Vitriers-Stores Sàrl",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Chem. Grenet 12",
+    "plz": "1214",
+    "ort": "Vernier",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223410660",
+    "email": "info@sosvitrier.ch",
+    "webseite": "https://www.sosvitrier.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

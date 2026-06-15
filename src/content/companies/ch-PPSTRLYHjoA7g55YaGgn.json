@@ -1,0 +1,30 @@
+{
+  "id": "ch-PPSTRLYHjoA7g55YaGgn",
+  "slug": "markus-enz-ag-giswil",
+  "name": "Markus Enz AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Schlossmattli 10",
+    "plz": "6074",
+    "ort": "Giswil",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418798000",
+    "email": "info@enz-ag.ch",
+    "webseite": "https://www.enz-ag.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

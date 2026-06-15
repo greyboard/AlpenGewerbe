@@ -1,0 +1,30 @@
+{
+  "id": "ch-8iHRdFxQ8mfu8jFWoObh",
+  "slug": "schreinerei-schuerpf-gmbh-schwyz",
+  "name": "Schreinerei Schürpf GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Steinbislin 17",
+    "plz": "6423",
+    "ort": "Schwyz",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418111327",
+    "email": "info@schreinerei-schwyz.ch",
+    "webseite": "https://www.schreinerei-schwyz.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

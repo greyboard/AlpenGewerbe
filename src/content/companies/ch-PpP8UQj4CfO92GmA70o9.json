@@ -1,0 +1,30 @@
+{
+  "id": "ch-PpP8UQj4CfO92GmA70o9",
+  "slug": "baur-ag-saeriswil",
+  "name": "Baur AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Staatsstrasse 42",
+    "plz": "3049",
+    "ort": "Säriswil",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318290192",
+    "email": "baur@baurdach.ch",
+    "webseite": "https://www.baurdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

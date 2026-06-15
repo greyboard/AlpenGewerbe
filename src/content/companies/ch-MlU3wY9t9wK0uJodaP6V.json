@@ -1,0 +1,30 @@
+{
+  "id": "ch-MlU3wY9t9wK0uJodaP6V",
+  "slug": "glas-nussbaum-gmbh-aarberg",
+  "name": "Glas Nussbaum GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Alte Lyss-Strasse 11",
+    "plz": "3270",
+    "ort": "Aarberg",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323924040",
+    "email": "info@glasnussbaum.ch",
+    "webseite": "https://www.glasnussbaum.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

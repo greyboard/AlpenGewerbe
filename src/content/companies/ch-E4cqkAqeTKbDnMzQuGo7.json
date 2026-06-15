@@ -1,0 +1,30 @@
+{
+  "id": "ch-E4cqkAqeTKbDnMzQuGo7",
+  "slug": "bergschmiede-altdorf",
+  "name": "Bergschmiede",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Flüelerstrasse 12c",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798266612",
+    "email": "info@opti-m.ch",
+    "webseite": "https://www.bergschmiede.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

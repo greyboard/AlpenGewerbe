@@ -1,0 +1,30 @@
+{
+  "id": "ch-FN7ySHww5hnQjsApY4lH",
+  "slug": "vonarburg-gartenbau-teufen",
+  "name": "Vonarburg Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sammelbüelstrasse 1a",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796985831",
+    "email": "m.vonarburg@bluewin.ch",
+    "webseite": "https://www.gartenbau-vonarburg.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

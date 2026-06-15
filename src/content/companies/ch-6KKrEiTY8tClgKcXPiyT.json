@@ -1,0 +1,30 @@
+{
+  "id": "ch-6KKrEiTY8tClgKcXPiyT",
+  "slug": "w-luethi-metallbau-gmbh-allschwil",
+  "name": "W. Lüthi Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Oberwilerstrasse 4",
+    "plz": "4123",
+    "ort": "Allschwil",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614810441",
+    "email": "info@luethimetallbau.ch",
+    "webseite": "https://www.wluethimetallbau.com"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

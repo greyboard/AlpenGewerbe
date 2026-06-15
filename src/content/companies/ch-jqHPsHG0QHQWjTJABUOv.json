@@ -1,0 +1,30 @@
+{
+  "id": "ch-jqHPsHG0QHQWjTJABUOv",
+  "slug": "zarucchi-gartenbau-ag-san-maurizio",
+  "name": "Zarucchi Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Via Surpunt 56",
+    "plz": "7500",
+    "ort": "San Maurizio",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41818370665",
+    "email": "sekretariat@hartmann-bau.ch",
+    "webseite": "https://www.zarucchi-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

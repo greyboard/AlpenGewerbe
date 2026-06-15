@@ -1,0 +1,30 @@
+{
+  "id": "ch-OEAcT45utrejNjdiNUiF",
+  "slug": "friemel-schreinerei-gmbh-st-gallen",
+  "name": "Friemel Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Oststrasse 23",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712452444",
+    "email": "info@friemel.swiss",
+    "webseite": "https://www.friemel.swiss"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

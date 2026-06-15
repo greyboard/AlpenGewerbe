@@ -1,0 +1,30 @@
+{
+  "id": "ch-i4romVYv9xRKLaIofObP",
+  "slug": "elektro-kasper-ag-zuerich",
+  "name": "Elektro Kasper AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rautistrasse 77",
+    "plz": "8048",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41433111111",
+    "email": "info@elektrokasper.ch",
+    "webseite": "https://www.elektrokasper.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

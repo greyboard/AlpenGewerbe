@@ -1,0 +1,30 @@
+{
+  "id": "ch-gBEbuGYrOhlr0abpN4M9",
+  "slug": "sutter-garten-lausen",
+  "name": "Sutter Garten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kanalstrasse 3",
+    "plz": "4415",
+    "ort": "Lausen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619712078",
+    "email": "kontakt@suttergarten.ch",
+    "webseite": "https://www.suttergarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

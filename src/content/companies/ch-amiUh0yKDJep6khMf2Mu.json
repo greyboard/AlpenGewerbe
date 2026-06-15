@@ -1,0 +1,30 @@
+{
+  "id": "ch-amiUh0yKDJep6khMf2Mu",
+  "slug": "rsk-elektro-ag-aarau",
+  "name": "RSK Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Neumattstrasse 24",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628254090",
+    "email": "info@allemann-elektro.ch",
+    "webseite": "https://www.rsk-aarau.ch/de"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

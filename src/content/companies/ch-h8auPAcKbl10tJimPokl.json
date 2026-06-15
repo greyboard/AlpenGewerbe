@@ -1,0 +1,30 @@
+{
+  "id": "ch-h8auPAcKbl10tJimPokl",
+  "slug": "odermatt-sicher-ag-stans",
+  "name": "Odermatt + Sicher AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Langmattring 42",
+    "plz": "6370",
+    "ort": "Stans",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416191444",
+    "email": "info@odermatt-sicher.ch",
+    "webseite": "https://www.odermatt-sicher.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-5rgiYHL9E0k9iyhw2GEa",
+  "slug": "bensar-gmbh-emmen",
+  "name": "Bensar GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Chörbli 4",
+    "plz": "6020",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765436644",
+    "email": "benjamin@bensar-gmbh.ch",
+    "webseite": "https://www.bensar-gmbh.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

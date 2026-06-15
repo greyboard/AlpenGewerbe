@@ -1,0 +1,30 @@
+{
+  "id": "ch-9JPKJsO8y7pso8HHgtVo",
+  "slug": "maurer-bauleitung-gmbh-spiegel-be",
+  "name": "maurer bauleitung gmbh",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bellevuestrasse 30",
+    "plz": "3095",
+    "ort": "Spiegel BE",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41315502010",
+    "email": "info@maurer-bauleitung.ch",
+    "webseite": "https://maurer-bauleitung.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-xkUlL44C4JgVEQcKRrJe",
+  "slug": "fira-gipsergeschaeft-liestal",
+  "name": "FIRA Gipsergeschäft",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Galmsstrasse 6",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796161524",
+    "email": "info@fira.ch",
+    "webseite": "https://www.fira.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

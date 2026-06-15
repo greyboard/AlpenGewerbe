@@ -1,0 +1,30 @@
+{
+  "id": "ch-SnQPZOMmTzA2tXtJqcYr",
+  "slug": "aulux-ekz-eltop-glarus-glarus",
+  "name": "AULUX / EKZ Eltop Glarus",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 28",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41583594680",
+    "email": "info@ekzeltop.ch",
+    "webseite": "https://www.ekzeltop.ch/de/ueber-uns/standorte/a-d/aulux.html"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-DjCqZUxEzeNRDUyo058V",
+  "slug": "biasco-malerbetrieb-schaffhausen",
+  "name": "Biasco Malerbetrieb",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schwarzadlerstrasse 52",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787398959",
+    "email": "antonio@biasco-maler.ch",
+    "webseite": "https://biasco-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

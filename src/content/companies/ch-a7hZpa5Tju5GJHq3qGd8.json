@@ -1,0 +1,30 @@
+{
+  "id": "ch-a7hZpa5Tju5GJHq3qGd8",
+  "slug": "s-a-holzbau-ag-pratteln",
+  "name": "S.A. Holzbau AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Hohenrainstrasse 10",
+    "plz": "4133",
+    "ort": "Pratteln",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41618237118",
+    "email": "info@sa-holzbau.ch",
+    "webseite": "https://sa-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-avHcUWfSBPgSQzIlBFGH",
+  "slug": "mk-gebaeudetechnik-summaprada",
+  "name": "MK Gebäudetechnik",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Äussere Heinzenbergstrasse 22",
+    "plz": "7421",
+    "ort": "Summaprada",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786800008",
+    "email": "info@mk-gebaeudetechnik.ch",
+    "webseite": "https://www.mk-gebaeudetechnik.ch/kontakt"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

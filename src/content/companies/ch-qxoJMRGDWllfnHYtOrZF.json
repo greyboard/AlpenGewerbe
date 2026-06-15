@@ -1,0 +1,30 @@
+{
+  "id": "ch-qxoJMRGDWllfnHYtOrZF",
+  "slug": "bruno-koeppel-ag-st-gallen",
+  "name": "Bruno Köppel AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Gaiserwaldstrasse 14a",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712785060",
+    "email": "info@bk-ag.ch",
+    "webseite": "https://www.bk-ag.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

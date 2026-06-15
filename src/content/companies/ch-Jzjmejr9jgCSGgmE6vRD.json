@@ -1,0 +1,30 @@
+{
+  "id": "ch-Jzjmejr9jgCSGgmE6vRD",
+  "slug": "zumi-soehne-gartenbau-gmbh-gerlafingen",
+  "name": "Zumi & Söhne Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 11",
+    "plz": "4563",
+    "ort": "Gerlafingen",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762273352",
+    "email": "20info@gartenbau.ch",
+    "webseite": "https://zumigartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

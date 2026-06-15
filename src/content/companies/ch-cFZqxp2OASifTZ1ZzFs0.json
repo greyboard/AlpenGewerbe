@@ -1,0 +1,30 @@
+{
+  "id": "ch-cFZqxp2OASifTZ1ZzFs0",
+  "slug": "elektro-haldemann-bern",
+  "name": "Elektro Haldemann",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Wabernstrasse 75",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313724488",
+    "email": "info@elektrohaldemann.ch",
+    "webseite": "https://www.elektrohaldemann.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

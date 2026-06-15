@@ -1,0 +1,30 @@
+{
+  "id": "ch-41ANZTc6CIYjItU6P15U",
+  "slug": "gurtner-metallbau-ag-buchs",
+  "name": "Gurtner Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Oberholzstrasse 4",
+    "plz": "5033",
+    "ort": "Buchs",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628365775",
+    "email": "info@gurtner-metallbau.ch",
+    "webseite": "https://www.gurtner-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

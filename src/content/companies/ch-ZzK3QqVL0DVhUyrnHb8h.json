@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZzK3QqVL0DVhUyrnHb8h",
+  "slug": "sabag-solothurn-solothurn",
+  "name": "SABAG Solothurn",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Grabackerstrasse 1",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786370108",
+    "email": "biel@sabag.ch",
+    "webseite": "https://www.sabag.ch/de/standorte/solothurn"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

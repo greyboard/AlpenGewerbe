@@ -1,0 +1,30 @@
+{
+  "id": "ch-LkCqyUs6kO3M3IgPG3QA",
+  "slug": "glasvision-dornbirn",
+  "name": "glasVision",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Schweizerstraße 51",
+    "plz": "6850",
+    "ort": "Dornbirn",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+436605612565",
+    "email": "markus@glasvision.at",
+    "webseite": "https://www.glasvision.at"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

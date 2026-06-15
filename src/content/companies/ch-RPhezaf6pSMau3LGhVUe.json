@@ -1,0 +1,30 @@
+{
+  "id": "ch-RPhezaf6pSMau3LGhVUe",
+  "slug": "feldmann-gaerten-ag-ziegelbruecke",
+  "name": "Feldmann Gärten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kanalweg 30",
+    "plz": "8866",
+    "ort": "Ziegelbrücke",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556101144",
+    "email": "info@feldmanngaerten.ch",
+    "webseite": "https://www.feldmanngaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

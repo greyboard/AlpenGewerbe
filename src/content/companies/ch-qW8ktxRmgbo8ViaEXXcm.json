@@ -1,0 +1,30 @@
+{
+  "id": "ch-qW8ktxRmgbo8ViaEXXcm",
+  "slug": "baerner-tec-gmbh-bern",
+  "name": "Bärner Tec GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Weidgasse 1A",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799155161",
+    "email": "karaqi@baernertec.ch",
+    "webseite": "https://baernertec.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

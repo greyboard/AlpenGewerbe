@@ -1,0 +1,30 @@
+{
+  "id": "ch-muHWuFrTf5gwfDn5zqDB",
+  "slug": "maerchy-metall-schwyz",
+  "name": "Märchy Metall",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rickenbachstrasse 19",
+    "plz": "6430",
+    "ort": "Schwyz",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418111426",
+    "email": "info@maerchy-metall.ch",
+    "webseite": "https://www.maerchy-metall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

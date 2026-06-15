@@ -1,0 +1,30 @@
+{
+  "id": "ch-T1EHInySdCtwSsShtIIi",
+  "slug": "h-j-peter-ag-frenkendorf",
+  "name": "H.J. Peter AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Rheinstrasse 43",
+    "plz": "4402",
+    "ort": "Frenkendorf",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619014743",
+    "email": "hj-peter-ag@hj-peter.ch",
+    "webseite": "https://www.hjpeter-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

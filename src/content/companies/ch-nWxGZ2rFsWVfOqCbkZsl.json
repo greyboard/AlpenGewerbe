@@ -1,0 +1,30 @@
+{
+  "id": "ch-nWxGZ2rFsWVfOqCbkZsl",
+  "slug": "pivot-kueng-gmbh-basel",
+  "name": "PIVOT Küng GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Hardstrasse 92",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616812945",
+    "email": "info@pivot-kueng.ch",
+    "webseite": "https://www.pivot-kueng.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

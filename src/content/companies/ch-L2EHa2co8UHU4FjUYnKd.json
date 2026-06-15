@@ -1,0 +1,30 @@
+{
+  "id": "ch-L2EHa2co8UHU4FjUYnKd",
+  "slug": "bichsel-schreinerei-ag-bern-bern",
+  "name": "Bichsel Schreinerei AG Bern",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Morgenstrasse 123",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319917666",
+    "email": "info@bichselagbern.ch",
+    "webseite": "https://bichselagbern.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

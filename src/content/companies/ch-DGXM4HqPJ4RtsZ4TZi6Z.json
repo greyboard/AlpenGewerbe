@@ -1,0 +1,30 @@
+{
+  "id": "ch-DGXM4HqPJ4RtsZ4TZi6Z",
+  "slug": "haas-gartenbau-ag-bern",
+  "name": "Haas Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Weissenbühlweg 45",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313716161",
+    "email": "info@haas-gartenbau.ch",
+    "webseite": "https://www.haas-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

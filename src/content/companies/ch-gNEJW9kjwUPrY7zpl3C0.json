@@ -1,0 +1,30 @@
+{
+  "id": "ch-gNEJW9kjwUPrY7zpl3C0",
+  "slug": "lg-holzhandwerk-gmbh-bern",
+  "name": "LG Holzhandwerk GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Galgenfeldweg 2",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788951721",
+    "email": "louis.grob@lg-holzhandwerk.ch",
+    "webseite": "https://www.lg-holzhandwerk.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

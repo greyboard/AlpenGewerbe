@@ -1,0 +1,30 @@
+{
+  "id": "ch-s4xkT8x0RHoir5Fj4GYL",
+  "slug": "elektro-furrer-ag-buochs",
+  "name": "Elektro Furrer AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Seebuchtstrasse 11",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416180070",
+    "email": "info@furrer-ag.ch",
+    "webseite": "https://www.elektrofurrer.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-LmkWSSO4y97RNzdQGCxy",
+  "slug": "schreinerei-hert-co-ag-zuerich",
+  "name": "Schreinerei Hert + Co. AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Affolternstrasse 142",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443121628",
+    "email": "info@hert-ag.ch",
+    "webseite": "https://www.hert-ag.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

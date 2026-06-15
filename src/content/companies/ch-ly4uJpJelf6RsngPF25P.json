@@ -1,0 +1,30 @@
+{
+  "id": "ch-ly4uJpJelf6RsngPF25P",
+  "slug": "schlatter-bau-ag-schaffhausen",
+  "name": "Schlatter Bau AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Schweizersbildstrasse 51",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526435323",
+    "email": "info@schlatterbauag.ch",
+    "webseite": "https://schlatterbauag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

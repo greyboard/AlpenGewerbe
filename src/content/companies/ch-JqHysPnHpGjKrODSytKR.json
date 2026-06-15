@@ -1,0 +1,30 @@
+{
+  "id": "ch-JqHysPnHpGjKrODSytKR",
+  "slug": "schneitter-ag-langendorf",
+  "name": "Schneitter AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 6",
+    "plz": "4513",
+    "ort": "Langendorf",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326183848",
+    "email": "info@schneitter.ch",
+    "webseite": "https://www.schneitter.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

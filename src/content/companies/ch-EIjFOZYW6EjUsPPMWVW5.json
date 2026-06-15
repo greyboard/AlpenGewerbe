@@ -1,0 +1,30 @@
+{
+  "id": "ch-EIjFOZYW6EjUsPPMWVW5",
+  "slug": "offner-bauunternehmung-ag-murten",
+  "name": "Offner Bauunternehmung AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 112",
+    "plz": "3280",
+    "ort": "Murten",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266702486",
+    "email": "offnerbau@bluewin.ch",
+    "webseite": "https://www.offner.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

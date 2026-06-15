@@ -1,0 +1,30 @@
+{
+  "id": "ch-sRwRbT6Nk7CFGeXFAOml",
+  "slug": "gp-maler-ag-basel",
+  "name": "GP Maler AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rufacherstrasse 8",
+    "plz": "4055",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612638181",
+    "email": "info@gpmaler.ch",
+    "webseite": "https://www.gpmaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

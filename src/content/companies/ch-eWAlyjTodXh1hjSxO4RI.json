@@ -1,0 +1,30 @@
+{
+  "id": "ch-eWAlyjTodXh1hjSxO4RI",
+  "slug": "h-l-gebaeudetechnik-gmbh-fuellinsdorf",
+  "name": "H&L Gebäudetechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Wölferstrasse 5",
+    "plz": "4414",
+    "ort": "Füllinsdorf",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798688618",
+    "email": "info@hl-gebaeudetechnik.ch",
+    "webseite": "https://www.hl-gebaeudetechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

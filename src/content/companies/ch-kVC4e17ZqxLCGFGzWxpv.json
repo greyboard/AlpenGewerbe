@@ -1,0 +1,30 @@
+{
+  "id": "ch-kVC4e17ZqxLCGFGzWxpv",
+  "slug": "schreinerei-furger-gmbh-silenen",
+  "name": "Schreinerei Furger GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Dorf 1",
+    "plz": "6475",
+    "ort": "Silenen",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418831866",
+    "email": "info@schreinereifurger.ch",
+    "webseite": "https://schreinereifurger.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

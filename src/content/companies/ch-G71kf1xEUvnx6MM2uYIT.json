@@ -1,0 +1,30 @@
+{
+  "id": "ch-G71kf1xEUvnx6MM2uYIT",
+  "slug": "garten-und-tiefbau-schafer-roland-gmbh-giffers",
+  "name": "Garten und Tiefbau Schafer Roland GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Schwarzmoos 40",
+    "plz": "1735",
+    "ort": "Giffers",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264181933",
+    "email": "rol.schafer@bluewin.ch",
+    "webseite": "https://www.gartenbau-schafer.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

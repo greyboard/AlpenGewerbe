@@ -1,0 +1,30 @@
+{
+  "id": "ch-RnAataDaqwBjzvguGhDx",
+  "slug": "remy-zimmermann-zug",
+  "name": "Rémy Zimmermann",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 3",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417120444",
+    "email": "info.zimmermann@hin.ch",
+    "webseite": "https://www.remyzimmermann.ch/kontakt"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

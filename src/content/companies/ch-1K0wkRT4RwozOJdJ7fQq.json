@@ -1,0 +1,30 @@
+{
+  "id": "ch-1K0wkRT4RwozOJdJ7fQq",
+  "slug": "top-quartierelektriker-basel",
+  "name": "Top Quartierelektriker",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hardstrasse 92",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616919010",
+    "email": "info@topelektriker.ch",
+    "webseite": "https://www.topelektriker.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

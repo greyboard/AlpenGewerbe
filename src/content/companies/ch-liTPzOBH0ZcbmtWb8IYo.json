@@ -1,0 +1,30 @@
+{
+  "id": "ch-liTPzOBH0ZcbmtWb8IYo",
+  "slug": "costa-malergeschaeft-spiegel-be",
+  "name": "Costa Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Balsigerrain 11",
+    "plz": "3095",
+    "ort": "Spiegel BE",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799467529",
+    "email": "info@malercosta.ch",
+    "webseite": "https://www.malercosta.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

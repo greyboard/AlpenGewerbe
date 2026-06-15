@@ -1,0 +1,30 @@
+{
+  "id": "ch-nBEyrMdTsyagku3x9wb4",
+  "slug": "farb-buda-naters",
+  "name": "FARB BUDA",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Furkastrasse 109",
+    "plz": "3904",
+    "ort": "Naters",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796027448",
+    "email": "info@farbbuda.ch",
+    "webseite": "https://www.farbbuda.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-nu6Xcg4KpP443uu0DHsZ",
+  "slug": "binz-schreinerei-ag-schmitten",
+  "name": "Binz Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Berg 14",
+    "plz": "3185",
+    "ort": "Schmitten",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264960616",
+    "email": "info@binz.swiss",
+    "webseite": "https://www.binz.swiss"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

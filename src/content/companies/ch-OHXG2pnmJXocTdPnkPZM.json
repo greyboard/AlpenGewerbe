@@ -1,0 +1,30 @@
+{
+  "id": "ch-OHXG2pnmJXocTdPnkPZM",
+  "slug": "fritz-looser-soehne-zuerich",
+  "name": "Fritz Looser Söhne",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Fehrenstrasse 18",
+    "plz": "8032",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442514976",
+    "email": "r.looser@greenmail.ch",
+    "webseite": "https://www.loosersoehne.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

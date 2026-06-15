@@ -1,0 +1,30 @@
+{
+  "id": "ch-MNkWJrqyFBwDyGgDRU6P",
+  "slug": "botanical-garden-zuerich",
+  "name": "Botanical Garden",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Zollikerstrasse 107",
+    "plz": "8008",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41446348461",
+    "email": "botanischer.garten@systbot.uzh.ch",
+    "webseite": "https://www.bg.uzh.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-6PWJt0Cm84Ld8IaSP4fX",
+  "slug": "heuberger-sanitaer-ag-gelterkinden",
+  "name": "Heuberger Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Fabrikweg 5",
+    "plz": "4460",
+    "ort": "Gelterkinden",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41619851080",
+    "email": "info@heubergerag.ch",
+    "webseite": "https://heubergerag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

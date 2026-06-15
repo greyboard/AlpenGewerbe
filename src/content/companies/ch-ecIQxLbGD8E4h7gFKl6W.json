@@ -1,0 +1,30 @@
+{
+  "id": "ch-ecIQxLbGD8E4h7gFKl6W",
+  "slug": "glasplan-gmbh-widnau",
+  "name": "glasplan gmbh",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Böschachstrasse 53c",
+    "plz": "9443",
+    "ort": "Widnau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789231716",
+    "email": "info@glasplan.ch",
+    "webseite": "https://www.glasplan.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

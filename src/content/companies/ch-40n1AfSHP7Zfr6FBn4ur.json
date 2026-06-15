@@ -1,0 +1,30 @@
+{
+  "id": "ch-40n1AfSHP7Zfr6FBn4ur",
+  "slug": "rs-glaskratz-gmbh-waengi",
+  "name": "RS Glaskratz GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Chüechligasse 7C",
+    "plz": "9545",
+    "ort": "Wängi",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41763830464",
+    "email": "info@glaskratz.com",
+    "webseite": "https://www.glaskratz.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

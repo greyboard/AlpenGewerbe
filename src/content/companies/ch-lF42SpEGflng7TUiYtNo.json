@@ -1,0 +1,30 @@
+{
+  "id": "ch-lF42SpEGflng7TUiYtNo",
+  "slug": "herzog-alois-ag-luzern",
+  "name": "Herzog Alois AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Tribschenstrasse 72",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413689898",
+    "email": "werner.peter@herzog-sanitaer.ch",
+    "webseite": "https://www.herzog-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

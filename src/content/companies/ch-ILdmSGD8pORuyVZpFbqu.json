@@ -1,0 +1,30 @@
+{
+  "id": "ch-ILdmSGD8pORuyVZpFbqu",
+  "slug": "schreinerei-riedo-ag-tafers",
+  "name": "Schreinerei Riedo AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Thunstrasse 8",
+    "plz": "1712",
+    "ort": "Tafers",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264940494",
+    "email": "info@schreinereiriedo.ch",
+    "webseite": "https://schreinereiriedo.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

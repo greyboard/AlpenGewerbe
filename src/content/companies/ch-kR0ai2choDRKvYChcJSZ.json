@@ -1,0 +1,30 @@
+{
+  "id": "ch-kR0ai2choDRKvYChcJSZ",
+  "slug": "gipser-maler-schweiz-zuerich",
+  "name": "Gipser Maler Schweiz",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Ueberlandstrasse 483",
+    "plz": "8051",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764213001",
+    "email": "info@gipsermalerschweiz.ch",
+    "webseite": "https://gipsermalerschweiz.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

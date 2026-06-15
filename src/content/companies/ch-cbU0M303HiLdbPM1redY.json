@@ -1,0 +1,30 @@
+{
+  "id": "ch-cbU0M303HiLdbPM1redY",
+  "slug": "gruber-haustechnik-ag-gampel",
+  "name": "Gruber Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Niedergampelstrasse 96",
+    "plz": "3945",
+    "ort": "Gampel",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279321207",
+    "email": "info@gruberhaustechnik.ch",
+    "webseite": "https://www.gruberhaustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

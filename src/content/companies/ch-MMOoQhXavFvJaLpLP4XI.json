@@ -1,0 +1,30 @@
+{
+  "id": "ch-MMOoQhXavFvJaLpLP4XI",
+  "slug": "lotti-ci-sa-ascona",
+  "name": "Lotti & Ci. SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Prati della Noce 15B",
+    "plz": "6612",
+    "ort": "Ascona",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917912135",
+    "email": "info@lotti-elettricita.ch",
+    "webseite": "https://www.lottielettricita.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

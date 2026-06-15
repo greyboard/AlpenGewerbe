@@ -1,0 +1,30 @@
+{
+  "id": "ch-TeGRpJZdJWZpn8fg5a2R",
+  "slug": "b-b-paysagisme-nyon",
+  "name": "B&B Paysagisme",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rte du Stand 25",
+    "plz": "1260",
+    "ort": "Nyon",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795029837",
+    "email": "info@bb-paysagisme.ch",
+    "webseite": "https://bb-paysagisme.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

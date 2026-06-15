@@ -1,0 +1,30 @@
+{
+  "id": "ch-XJ1YwVEnt8UbbB4fHg3S",
+  "slug": "aebi-kaderli-garden-center-ag-duedingen",
+  "name": "Aebi Kaderli Garden Center AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Stockera 1",
+    "plz": "3186",
+    "ort": "Düdingen",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264883333",
+    "email": "info@aebi-kaderli.ch",
+    "webseite": "https://www.aebi-kaderli.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-GKETJxwYnW2wWC5lmrrk",
+  "slug": "timos-bauservice-laax",
+  "name": "Timos Bauservice",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Via Acla 2",
+    "plz": "7031",
+    "ort": "Laax",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792560405",
+    "email": "tb@timos-bauservice.ch",
+    "webseite": "https://timos-bauservice.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

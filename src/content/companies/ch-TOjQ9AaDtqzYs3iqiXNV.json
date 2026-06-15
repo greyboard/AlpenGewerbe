@@ -1,0 +1,30 @@
+{
+  "id": "ch-TOjQ9AaDtqzYs3iqiXNV",
+  "slug": "schmid-haustechnik-sht-ag-erlinsbach",
+  "name": "Schmid Haustechnik SHT AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Aarauerstrasse 14",
+    "plz": "5018",
+    "ort": "Erlinsbach",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628575780",
+    "email": "info@shte.ag",
+    "webseite": "https://www.schmid-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

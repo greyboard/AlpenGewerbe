@@ -1,0 +1,30 @@
+{
+  "id": "ch-xplZFHNM9Xw3A0OAORxB",
+  "slug": "bert-eau-carouge",
+  "name": "bert'eau",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rue Baylon 8",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227353334",
+    "email": "berteau@berteau.ch",
+    "webseite": "https://www.berteau.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

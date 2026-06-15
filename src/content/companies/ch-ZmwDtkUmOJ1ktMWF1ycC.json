@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZmwDtkUmOJ1ktMWF1ycC",
+  "slug": "elettricita-bronz-sa-tenero-contra",
+  "name": "Elettricità Bronz SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Mappo 11",
+    "plz": "6598",
+    "ort": "Tenero-Contra",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41919359100",
+    "email": "info@bronz.ch",
+    "webseite": "https://www.bronz.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

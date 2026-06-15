@@ -1,0 +1,30 @@
+{
+  "id": "ch-O60I9mJoVHebLQxu305W",
+  "slug": "gipser-maler-kimi-gmbh-bern",
+  "name": "Gipser & Maler Kimi GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Untermattweg 22A",
+    "plz": "3027",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319914020",
+    "email": "info@kimi-gmbh.ch",
+    "webseite": "https://www.kimi-gmbh.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

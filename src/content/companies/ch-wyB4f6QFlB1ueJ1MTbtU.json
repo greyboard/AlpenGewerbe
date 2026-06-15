@@ -1,0 +1,30 @@
+{
+  "id": "ch-wyB4f6QFlB1ueJ1MTbtU",
+  "slug": "ts-la-bricole-fribourg",
+  "name": "TS La bricole",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rue Frédéric-Chaillet 3",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41791707974",
+    "email": "info@ts-la-bricole.ch",
+    "webseite": "https://ts-la-bricole.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

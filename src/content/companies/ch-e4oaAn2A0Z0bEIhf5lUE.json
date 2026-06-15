@@ -1,0 +1,30 @@
+{
+  "id": "ch-e4oaAn2A0Z0bEIhf5lUE",
+  "slug": "stamm-gartenbau-schaffhausen-schaffhausen",
+  "name": "Stamm Gartenbau, Schaffhausen",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Mühlentalstrasse 278a",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526491717",
+    "email": "info@stamm-gartenbau.ch",
+    "webseite": "https://www.stamm-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

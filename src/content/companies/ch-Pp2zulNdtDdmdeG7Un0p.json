@@ -1,0 +1,30 @@
+{
+  "id": "ch-Pp2zulNdtDdmdeG7Un0p",
+  "slug": "synergia-elektro-ag-aarau",
+  "name": "Synergia Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Grabenstrasse 3",
+    "plz": "5032",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41774541200",
+    "email": "info@synergia-elektro.ch",
+    "webseite": "https://www.synergia-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

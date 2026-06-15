@@ -1,0 +1,30 @@
+{
+  "id": "ch-GSvOV4eXDJiMoSQLVj1x",
+  "slug": "menuiserie-de-la-vallee-sa-delemont",
+  "name": "Menuiserie de la Vallée SA",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rue Emile-Boéchat 130",
+    "plz": "2800",
+    "ort": "Delémont",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41324231864",
+    "email": "info@menuiserievallee.ch",
+    "webseite": "https://www.menuiserievallee.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

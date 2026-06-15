@@ -1,0 +1,30 @@
+{
+  "id": "ch-1PdgJ0Gxt1urR99FLFy5",
+  "slug": "faessler-ag-metallbau-schwyz",
+  "name": "Fässler AG Metallbau",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Klostermatt 60",
+    "plz": "6430",
+    "ort": "Schwyz",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418111410",
+    "email": "info@faessler-metallbau.ch",
+    "webseite": "https://www.faessler-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

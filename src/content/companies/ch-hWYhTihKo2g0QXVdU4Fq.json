@@ -1,0 +1,30 @@
+{
+  "id": "ch-hWYhTihKo2g0QXVdU4Fq",
+  "slug": "malergeschaeft-rey-muhen",
+  "name": "Malergeschäft Rey",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Schwabistalstrasse 48A",
+    "plz": "5037",
+    "ort": "Muhen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799209207",
+    "email": "service@malergeschaeft-rey.ch",
+    "webseite": "https://www.malergeschaeft-rey.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

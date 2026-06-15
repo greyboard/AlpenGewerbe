@@ -1,0 +1,30 @@
+{
+  "id": "ch-YIwBmVEhPiwLyDHb8ByP",
+  "slug": "zulian-co-ag-st-gallen",
+  "name": "Zulian + Co. AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "St. Georgen-Strasse 174A",
+    "plz": "9011",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712225065",
+    "email": "zulian@zulian.ch",
+    "webseite": "https://www.zulian.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

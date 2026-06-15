@@ -1,0 +1,30 @@
+{
+  "id": "ch-CEB9bQZhtYu4JG4Ixcsy",
+  "slug": "s-a-maler-gmbh-aarau",
+  "name": "S+A MALER.GMBH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Trieschäckerstrasse 10",
+    "plz": "5032",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765737744",
+    "email": "info@sa-maleraarau.ch",
+    "webseite": "https://www.sa-maleraarau.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

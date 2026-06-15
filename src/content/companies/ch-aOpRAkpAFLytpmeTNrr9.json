@@ -1,0 +1,30 @@
+{
+  "id": "ch-aOpRAkpAFLytpmeTNrr9",
+  "slug": "athena-peinture-carouge",
+  "name": "Athena Peinture",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rue des Noirettes 31",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782570978",
+    "email": "info@athenapeinture.ch",
+    "webseite": "https://athenapeinture.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

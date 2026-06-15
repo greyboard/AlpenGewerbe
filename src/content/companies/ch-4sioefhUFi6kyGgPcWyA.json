@@ -1,0 +1,30 @@
+{
+  "id": "ch-4sioefhUFi6kyGgPcWyA",
+  "slug": "murturi-gmbh-malergeschaeft-landquart",
+  "name": "Murturi GmbH Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Sägenstrasse 5",
+    "plz": "7302",
+    "ort": "Landquart",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794451559",
+    "email": "murturi@bluewin.ch",
+    "webseite": "https://malermurturi.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

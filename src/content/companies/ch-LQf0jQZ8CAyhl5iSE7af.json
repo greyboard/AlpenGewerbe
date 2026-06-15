@@ -1,0 +1,30 @@
+{
+  "id": "ch-LQf0jQZ8CAyhl5iSE7af",
+  "slug": "varioplant-ag-st-gallen",
+  "name": "Varioplant AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Oberstrasse 218",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712792745",
+    "email": "info@varioplant.ch",
+    "webseite": "https://www.varioplant.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

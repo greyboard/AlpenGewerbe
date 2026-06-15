@@ -1,0 +1,30 @@
+{
+  "id": "ch-VDrsPYTNjbFZkevB9phX",
+  "slug": "buechlerglas-ag-biel",
+  "name": "Büchlerglas AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Sonnenstrasse 24",
+    "plz": "2504",
+    "ort": "Biel",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323222844",
+    "email": "info@buechlerglas.ch",
+    "webseite": "https://www.buechlerglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

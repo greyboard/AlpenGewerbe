@@ -1,0 +1,30 @@
+{
+  "id": "ch-m4QO3MePqWyKjMpW5shj",
+  "slug": "walter-spichtig-ag-sachseln",
+  "name": "Walter Spichtig AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Itiweg 3",
+    "plz": "6072",
+    "ort": "Sachseln",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416620002",
+    "email": "info@spichtig-schreinerei.ch",
+    "webseite": "https://www.spichtig-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

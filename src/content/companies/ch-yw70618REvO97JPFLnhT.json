@@ -1,0 +1,30 @@
+{
+  "id": "ch-yw70618REvO97JPFLnhT",
+  "slug": "reinhard-schreinerei-ag-kriens",
+  "name": "Reinhard Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Ringstrasse 25",
+    "plz": "6010",
+    "ort": "Kriens",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413494040",
+    "email": "mail@reinhard-schreinerei.ch",
+    "webseite": "https://www.reinhard-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

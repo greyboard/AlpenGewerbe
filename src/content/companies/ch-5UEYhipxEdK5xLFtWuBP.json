@@ -1,0 +1,30 @@
+{
+  "id": "ch-5UEYhipxEdK5xLFtWuBP",
+  "slug": "bangerter-gartenbau-ag-gstaad-gstaad",
+  "name": "Bangerter Gartenbau AG - Gstaad",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Lauenenstrasse 108",
+    "plz": "3780",
+    "ort": "Gstaad",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337653073",
+    "email": "bangerter-gartenbau-gstaad@bluewin.ch",
+    "webseite": "https://www.bangerter-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

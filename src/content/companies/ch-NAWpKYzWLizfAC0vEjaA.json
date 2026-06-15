@@ -1,0 +1,30 @@
+{
+  "id": "ch-NAWpKYzWLizfAC0vEjaA",
+  "slug": "gartenbau-landtwing-zug",
+  "name": "Gartenbau Landtwing",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chollerstrasse 3",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417110623",
+    "email": "info@gartenbau-landtwing.ch",
+    "webseite": "https://www.gartenbau-landtwing.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

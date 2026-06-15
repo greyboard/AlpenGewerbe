@@ -1,0 +1,30 @@
+{
+  "id": "ch-Btfp4HsOkIta6Hti1sd7",
+  "slug": "dhf-sanitaer-heizung-liestal-liestal",
+  "name": "DHF Sanitär Heizung Liestal",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 7",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795395423",
+    "email": "kontakt@dhf-haustechnik.ch",
+    "webseite": "https://sanitaer-liestal.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

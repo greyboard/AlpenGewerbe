@@ -1,0 +1,30 @@
+{
+  "id": "ch-TR7OH6sRd6rCuvYVivvg",
+  "slug": "saracino-gipser-ag-basel",
+  "name": "Saracino Gipser AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Tödistrasse 97",
+    "plz": "4054",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613030320",
+    "email": "info@saracinogipser.ch",
+    "webseite": "https://www.saracinogipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

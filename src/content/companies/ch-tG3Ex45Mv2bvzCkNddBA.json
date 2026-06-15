@@ -1,0 +1,30 @@
+{
+  "id": "ch-tG3Ex45Mv2bvzCkNddBA",
+  "slug": "gfeller-ag-ipsach",
+  "name": "Gfeller AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 41A",
+    "plz": "2563",
+    "ort": "Ipsach",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323310681",
+    "email": "hostmaster@gfeller-ipsach.ch",
+    "webseite": "https://www.gfeller-ipsach.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

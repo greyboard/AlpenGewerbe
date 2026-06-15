@@ -1,0 +1,30 @@
+{
+  "id": "ch-BlRPydf2wYDvYGQLtUxf",
+  "slug": "rechsteiner-haustechnik-buehler",
+  "name": "Rechsteiner Haustechnik",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Dorfmühle 4",
+    "plz": "9055",
+    "ort": "Bühler",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717931757",
+    "email": "info@rechsteiner-haustechnik.ch",
+    "webseite": "https://www.rechsteiner-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-iksYMauusoOjRUlBBRSf",
+  "slug": "schreinerei-gerig-ag-amsteg",
+  "name": "Schreinerei Gerig AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 12",
+    "plz": "6474",
+    "ort": "Amsteg",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418831841",
+    "email": "mail@schreinerei-gerig.ch",
+    "webseite": "https://www.schreinerei-gerig.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

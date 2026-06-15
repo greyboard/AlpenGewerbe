@@ -1,0 +1,30 @@
+{
+  "id": "ch-3apG4yOdNBfOUOP8kPkL",
+  "slug": "huwyler-studer-ag-luzern",
+  "name": "Huwyler Studer AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte 11",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41414483350",
+    "email": "info@gipser-studer.swiss",
+    "webseite": "https://gipser-studer.swiss"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-jTnLandatck6chDF8YlP",
+  "slug": "eb-gipser-maler-winterthur",
+  "name": "EB Gipser & Maler",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Hulfteggstrasse 17",
+    "plz": "8400",
+    "ort": "Winterthur",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762030082",
+    "email": "info@ebgipser-maler.ch",
+    "webseite": "https://www.ebgipser-maler.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

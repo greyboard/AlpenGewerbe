@@ -1,0 +1,30 @@
+{
+  "id": "ch-mCOxIrGTRAJxzXEPpcRF",
+  "slug": "bruderer-bau-st-gallen",
+  "name": "Bruderer Bau",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Herisauer Str. 45",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713141040",
+    "email": "info@bruderer-bau.ch",
+    "webseite": "https://www.bruderer-bau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

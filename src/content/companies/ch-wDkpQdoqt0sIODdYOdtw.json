@@ -1,0 +1,30 @@
+{
+  "id": "ch-wDkpQdoqt0sIODdYOdtw",
+  "slug": "roland-buehrer-gmbh-thayngen",
+  "name": "Roland Bührer GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Biberstrasse 2",
+    "plz": "8240",
+    "ort": "Thayngen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526493080",
+    "email": "info@ethosimmo.ch",
+    "webseite": "https://bührer-sanitär-heizungen.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

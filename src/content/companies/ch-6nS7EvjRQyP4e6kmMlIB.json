@@ -1,0 +1,30 @@
+{
+  "id": "ch-6nS7EvjRQyP4e6kmMlIB",
+  "slug": "ewo-gebaeudetechnik-ag-kerns",
+  "name": "EWO Gebäudetechnik AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Stanserstrasse 8",
+    "plz": "6064",
+    "ort": "Kerns",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416727700",
+    "email": "info@ewo-gbt.ch",
+    "webseite": "https://ewo-gbt.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

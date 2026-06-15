@@ -1,0 +1,30 @@
+{
+  "id": "ch-VHupQhbqE8DbydWb2c4V",
+  "slug": "st-galler-metallbau-gmbh-st-gallen",
+  "name": "St. Galler Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Bildweiherstrasse 5",
+    "plz": "9015",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712785130",
+    "email": "info@sg-metall.ch",
+    "webseite": "https://www.sg-metall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

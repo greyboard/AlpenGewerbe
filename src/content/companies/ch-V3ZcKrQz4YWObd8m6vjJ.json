@@ -1,0 +1,30 @@
+{
+  "id": "ch-V3ZcKrQz4YWObd8m6vjJ",
+  "slug": "astrain-appenzell",
+  "name": "astrain",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Neuenalpstrasse 12",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717880671",
+    "email": "holzbau@astrain.ch",
+    "webseite": "https://astrain.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

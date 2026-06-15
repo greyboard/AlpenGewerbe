@@ -1,0 +1,30 @@
+{
+  "id": "ch-tqGSioAXYGiNcfnGtRqG",
+  "slug": "elektro-mollet-brittern",
+  "name": "Elektro Mollet",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 112",
+    "plz": "4588",
+    "ort": "Brittern",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317678800",
+    "email": "info@elektromollet.ch",
+    "webseite": "https://www.elektromollet.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

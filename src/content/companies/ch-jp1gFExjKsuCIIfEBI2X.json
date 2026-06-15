@@ -1,0 +1,30 @@
+{
+  "id": "ch-jp1gFExjKsuCIIfEBI2X",
+  "slug": "jeker-und-probst-schreinerei-gmbh-luterbach",
+  "name": "Jeker und Probst Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Zuchwilstrasse 9",
+    "plz": "4542",
+    "ort": "Luterbach",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326825309",
+    "email": "info@jekerprobst.ch",
+    "webseite": "https://www.jekerprobst.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

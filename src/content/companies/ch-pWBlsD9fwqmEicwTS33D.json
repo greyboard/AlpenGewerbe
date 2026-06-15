@@ -1,0 +1,30 @@
+{
+  "id": "ch-pWBlsD9fwqmEicwTS33D",
+  "slug": "andre-huerlimann-gmbh-oberwil-bei-zug",
+  "name": "André Hürlimann GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Widenstrasse 16A",
+    "plz": "6317",
+    "ort": "Oberwil bei Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417581970",
+    "email": "info@andre-huerlimann.ch",
+    "webseite": "https://www.andre-huerlimann.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

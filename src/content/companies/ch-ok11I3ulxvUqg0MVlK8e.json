@@ -1,0 +1,30 @@
+{
+  "id": "ch-ok11I3ulxvUqg0MVlK8e",
+  "slug": "rm-malergeschaeft-schaffhausen",
+  "name": "RM Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rothüsliweg 5",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526851422",
+    "email": "rm-maler@gmx.ch",
+    "webseite": "https://rm-malergeschäft.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-GeVv9kQelna9zoKsyWk6",
+  "slug": "maler-matter-ag-baar",
+  "name": "Maler Matter AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Altgasse 63",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417612716",
+    "email": "info@maler-matter.ch",
+    "webseite": "https://www.maler-matter.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

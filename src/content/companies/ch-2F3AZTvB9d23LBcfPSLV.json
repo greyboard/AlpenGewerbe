@@ -1,0 +1,30 @@
+{
+  "id": "ch-2F3AZTvB9d23LBcfPSLV",
+  "slug": "schreinerei-merz-gmbh-zug",
+  "name": "Schreinerei Merz GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Sagistrasse 10",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415300690",
+    "email": "info@schreinereimerz.ch",
+    "webseite": "https://www.schreinereimerz.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

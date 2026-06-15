@@ -1,0 +1,30 @@
+{
+  "id": "ch-e6km1zknF9twZTqniKbH",
+  "slug": "lentec-gmbh-teufen",
+  "name": "LENTEC GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "u. Schwendi 666",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712220302",
+    "email": "info@lentec.ch",
+    "webseite": "https://www.lentec.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

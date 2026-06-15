@@ -1,0 +1,30 @@
+{
+  "id": "ch-r8RR7OmEL5e304IXaxmn",
+  "slug": "metallbau-schaeuble-ag-basel",
+  "name": "Metallbau Schäuble AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Markgräflerstrasse 24",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616912540",
+    "email": "info@metallbauschaeuble.ch",
+    "webseite": "https://www.metallbauschaeuble.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

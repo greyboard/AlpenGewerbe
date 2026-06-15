@@ -1,0 +1,30 @@
+{
+  "id": "ch-es2T379deaH8aWA3NlUp",
+  "slug": "kuratli-gartenbau-teufen",
+  "name": "Kuratli Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 16",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713333532",
+    "email": "info@kuratli-gartenbau.ch",
+    "webseite": "https://www.kuratli-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

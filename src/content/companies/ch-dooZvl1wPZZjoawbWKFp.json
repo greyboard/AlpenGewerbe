@@ -1,0 +1,30 @@
+{
+  "id": "ch-dooZvl1wPZZjoawbWKFp",
+  "slug": "camiu-haustechnik-ag-tumegl",
+  "name": "Camiu Haustechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Sogn Murezi 54",
+    "plz": "7418",
+    "ort": "Tumegl",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816552247",
+    "email": "info@camiu.ch",
+    "webseite": "https://www.camiu.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

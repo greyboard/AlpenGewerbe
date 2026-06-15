@@ -1,0 +1,30 @@
+{
+  "id": "ch-dkWnWNxnXhnOCHxGhHTR",
+  "slug": "gartenteam-inaebnit-ag-gstaad",
+  "name": "Gartenteam Inäbnit AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Mettlenstrasse 50 A",
+    "plz": "3780",
+    "ort": "Gstaad",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41337444307",
+    "email": "info@gartenteam-gstaad.ch",
+    "webseite": "https://gartenteam-gstaad.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

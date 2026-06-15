@@ -1,0 +1,30 @@
+{
+  "id": "ch-w1wzMdToPl2zmLb4MsBu",
+  "slug": "rama-peinture-fribourg",
+  "name": "RAMA Peinture",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rte de la Fonderie 27",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792158714",
+    "email": "info@ramapeinture.ch",
+    "webseite": "https://www.ramapeinture.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

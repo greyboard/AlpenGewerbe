@@ -1,0 +1,30 @@
+{
+  "id": "ch-nXVzE6TyyGQVvdQ99N1u",
+  "slug": "dachart-gmbh-ried-brig",
+  "name": "DachArt GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Gewerbestrasse 14",
+    "plz": "3911",
+    "ort": "Ried-Brig",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798931866",
+    "email": "info@dach-art.ch",
+    "webseite": "https://www.dach-art.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

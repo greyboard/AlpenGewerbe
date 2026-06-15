@@ -1,0 +1,30 @@
+{
+  "id": "ch-HarBG9sVAsAITavHC65b",
+  "slug": "schreinerhof-gmbh-buochs",
+  "name": "SCHREINERHOF GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Fadenbrücke 16",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416220707",
+    "email": "info@schreinerhof.ch",
+    "webseite": "https://www.schreinerhof.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

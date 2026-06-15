@@ -1,0 +1,30 @@
+{
+  "id": "ch-52U0jj0kRlOxEfHS0vJ0",
+  "slug": "marti-elektroanlagen-ag-netstal",
+  "name": "MARTI - ELEKTROANLAGEN AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Lerchenstrasse 22",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556406214",
+    "email": "info@marti-elektroanlagen.ch",
+    "webseite": "https://www.marti-elektroanlagen.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

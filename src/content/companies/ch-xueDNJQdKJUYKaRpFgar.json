@@ -1,0 +1,30 @@
+{
+  "id": "ch-xueDNJQdKJUYKaRpFgar",
+  "slug": "faeh-ag-zuerich",
+  "name": "Fäh AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Erismannstrasse 38",
+    "plz": "8004",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442429505",
+    "email": "info@faeh.ag",
+    "webseite": "https://www.faeh.ag"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

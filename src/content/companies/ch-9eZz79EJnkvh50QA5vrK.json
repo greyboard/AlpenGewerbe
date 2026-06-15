@@ -1,0 +1,30 @@
+{
+  "id": "ch-9eZz79EJnkvh50QA5vrK",
+  "slug": "egli-gartenbau-ag-sursee",
+  "name": "Egli Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Allee 3",
+    "plz": "6210",
+    "ort": "Sursee",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41419266000",
+    "email": "info@gartenbau-egli.ch",
+    "webseite": "https://www.gartenbau-egli.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

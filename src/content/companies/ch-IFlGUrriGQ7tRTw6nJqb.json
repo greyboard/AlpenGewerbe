@@ -1,0 +1,30 @@
+{
+  "id": "ch-IFlGUrriGQ7tRTw6nJqb",
+  "slug": "graeppi-moser-gmbh-lyss",
+  "name": "Gräppi Moser GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Südstrasse 13",
+    "plz": "3250",
+    "ort": "Lyss",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323928838",
+    "email": "info@graeppi-moser.ch",
+    "webseite": "https://www.graeppi-moser.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

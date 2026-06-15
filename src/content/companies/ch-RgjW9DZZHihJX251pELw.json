@@ -1,0 +1,30 @@
+{
+  "id": "ch-RgjW9DZZHihJX251pELw",
+  "slug": "hauser-schreinerei-gmbh-ostermundigen",
+  "name": "Hauser Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Mitteldorfstrasse 3",
+    "plz": "3072",
+    "ort": "Ostermundigen",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319311517",
+    "email": "info@hauser-schreinerei.ch",
+    "webseite": "https://www.hauser-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

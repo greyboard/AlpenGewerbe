@@ -1,0 +1,30 @@
+{
+  "id": "ch-QxPTOebZGWhbW9ucJWpE",
+  "slug": "pflanz-und-bauwerk-gmbh-kaegiswil",
+  "name": "Pflanz und Bauwerk GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kernmatt 2",
+    "plz": "6056",
+    "ort": "Kägiswil",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416604263",
+    "email": "info@pflanz-bauwerk.ch",
+    "webseite": "https://www.pflanz-bauwerk.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-nplqL9PArp9UT6s2agsP",
+  "slug": "held-partner-gmbh-zuerich",
+  "name": "Held & Partner GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Ueberlandstrasse 5",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443504070",
+    "email": "info@held-partner.ch",
+    "webseite": "https://www.held-partner.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

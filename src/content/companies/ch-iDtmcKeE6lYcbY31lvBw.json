@@ -1,0 +1,30 @@
+{
+  "id": "ch-iDtmcKeE6lYcbY31lvBw",
+  "slug": "campi-ag-st-gallen",
+  "name": "Campi AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Obere Friedhofstrasse 10",
+    "plz": "9014",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712774249",
+    "email": "campi@campiag.com",
+    "webseite": "https://www.campiag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

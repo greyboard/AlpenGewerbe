@@ -1,0 +1,30 @@
+{
+  "id": "ch-Go6DXeahbigSAzIAXFd6",
+  "slug": "elektro-imhof-paul-ag-brig-glis",
+  "name": "Elektro Imhof Paul AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Napoleonstrasse 55",
+    "plz": "3902",
+    "ort": "Brig-Glis",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279222727",
+    "email": "imhof-elektro@rhone.ch",
+    "webseite": "https://yellow.local.ch/d/Tp_yaQddczl_D8Et7KsdWg"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

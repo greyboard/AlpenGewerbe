@@ -1,0 +1,30 @@
+{
+  "id": "ch-eZ7r3mh2xdad8rNWCPde",
+  "slug": "friedli-elektro-bern-ag-bern",
+  "name": "Friedli Elektro Bern AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Landoltstrasse 7",
+    "plz": "3007",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313700000",
+    "email": "info@friedli-elektro.ch",
+    "webseite": "https://www.friedli-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

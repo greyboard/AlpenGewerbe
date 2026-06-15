@@ -1,0 +1,30 @@
+{
+  "id": "ch-G71cLujcl9JegtBddi26",
+  "slug": "schreinerei-severin-meier-zuerich",
+  "name": "Schreinerei Severin Meier",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Zeughausstrasse 60",
+    "plz": "8004",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445153534",
+    "email": "mail@severinmeier.ch",
+    "webseite": "https://www.severinmeier.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

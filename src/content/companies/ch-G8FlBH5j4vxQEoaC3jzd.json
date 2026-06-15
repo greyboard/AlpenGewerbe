@@ -1,0 +1,30 @@
+{
+  "id": "ch-G8FlBH5j4vxQEoaC3jzd",
+  "slug": "zg-garten-gmbh-baar",
+  "name": "ZG GARTEN GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Mattweg 3",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765052244",
+    "email": "info@zg-garten.ch",
+    "webseite": "https://www.zg-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-QZhSnsouVlIzRwLi8OPd",
+  "slug": "sanitaer-sam-gmbh-basel",
+  "name": "Sanitär SAM GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Gilgenbergerstrasse 20",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613310808",
+    "email": "info@sanitaer-sam.ch",
+    "webseite": "https://www.sanitaer-sam.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

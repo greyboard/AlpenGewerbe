@@ -1,0 +1,30 @@
+{
+  "id": "ch-jmj2RHr4nbzVD2szECJh",
+  "slug": "elektro-frey-gmbh-therwil",
+  "name": "Elektro Frey GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Ettingerstrasse 12",
+    "plz": "4106",
+    "ort": "Therwil",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41617231414",
+    "email": "info@elektrofrey.swiss",
+    "webseite": "https://www.elektrofrey.swiss"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

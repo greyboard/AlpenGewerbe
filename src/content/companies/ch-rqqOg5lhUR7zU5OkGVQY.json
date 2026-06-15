@@ -1,0 +1,30 @@
+{
+  "id": "ch-rqqOg5lhUR7zU5OkGVQY",
+  "slug": "sauter-waermetechnik-gmbh-netstal",
+  "name": "Sauter Wärmetechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Landstrasse 4",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556453240",
+    "email": "info@sauter-heizungen.ch",
+    "webseite": "https://www.sauter-heizungen.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

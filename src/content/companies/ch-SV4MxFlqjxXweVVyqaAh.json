@@ -1,0 +1,30 @@
+{
+  "id": "ch-SV4MxFlqjxXweVVyqaAh",
+  "slug": "hans-kohler-ag-basel",
+  "name": "HANS KOHLER AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Rotterdam-Strasse 15",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613379666",
+    "email": "mail@kohler.ch",
+    "webseite": "https://kohler.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

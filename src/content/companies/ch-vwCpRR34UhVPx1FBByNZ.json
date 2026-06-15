@@ -1,0 +1,30 @@
+{
+  "id": "ch-vwCpRR34UhVPx1FBByNZ",
+  "slug": "zimmermann-gartenbau-ag-aarau",
+  "name": "Zimmermann Gartenbau AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Hebelweg 6",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628220185",
+    "email": "info@zimmermann-gartenbau.ch",
+    "webseite": "https://www.zimmermann-gartenbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-qse2msXX6SLAuWYLQOnc",
+  "slug": "gasser-bauunternehmen-gmbh-windisch",
+  "name": "Gasser Bauunternehmen GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Grünrain 3",
+    "plz": "5210",
+    "ort": "Windisch",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41772682529",
+    "email": "info@gassergmbh.ch",
+    "webseite": "https://www.gasserbauunternehmen.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

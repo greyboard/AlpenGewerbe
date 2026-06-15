@@ -1,0 +1,30 @@
+{
+  "id": "ch-uhAjvx80m7cvxdlz8PRE",
+  "slug": "holzmaa-gmbh-emmen",
+  "name": "Holzmaa GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Rüeggisingerstrasse 152",
+    "plz": "6032",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786484500",
+    "email": "info@holzmaa.ch",
+    "webseite": "https://www.holzmaa.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

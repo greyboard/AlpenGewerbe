@@ -1,0 +1,30 @@
+{
+  "id": "ch-fvjQ5c2Gvcs9LxekJHgl",
+  "slug": "juraschreiner-trimbach",
+  "name": "Juraschreiner",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Freie Strasse 6a Zufahrt",
+    "plz": "4632",
+    "ort": "Trimbach",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41622930916",
+    "email": "info@juraschreiner.ch",
+    "webseite": "https://juraschreiner.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

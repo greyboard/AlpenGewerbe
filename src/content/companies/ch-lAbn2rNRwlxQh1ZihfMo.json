@@ -1,0 +1,30 @@
+{
+  "id": "ch-lAbn2rNRwlxQh1ZihfMo",
+  "slug": "stf-messerli-ag-ins",
+  "name": "StF messerli ag",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rämismatte 13",
+    "plz": "3232",
+    "ort": "Ins",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323131788",
+    "email": "stf-ag@stf-ag.ch",
+    "webseite": "https://www.stf-ag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

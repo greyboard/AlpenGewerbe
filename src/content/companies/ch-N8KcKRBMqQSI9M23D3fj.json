@@ -1,0 +1,30 @@
+{
+  "id": "ch-N8KcKRBMqQSI9M23D3fj",
+  "slug": "genigips-ag-gipsergeschaeft-wittenbach",
+  "name": "GENIGIPS AG Gipsergeschäft",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Im Zentrum 3B",
+    "plz": "9300",
+    "ort": "Wittenbach",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712981238",
+    "email": "info@genigips.ch",
+    "webseite": "https://www.genigips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

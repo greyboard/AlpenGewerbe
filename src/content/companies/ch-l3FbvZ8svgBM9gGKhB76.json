@@ -1,0 +1,30 @@
+{
+  "id": "ch-l3FbvZ8svgBM9gGKhB76",
+  "slug": "watt-elec-jura-sa-porrentruy",
+  "name": "watt elec jura sa",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rte de Courgenay 40",
+    "plz": "2900",
+    "ort": "Porrentruy",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41324671717",
+    "email": "info@watt-sa.ch",
+    "webseite": "https://www.watt-sa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

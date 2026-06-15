@@ -1,0 +1,30 @@
+{
+  "id": "ch-K40ixxSCEybpr5nad8Jb",
+  "slug": "glaserei-piccini-gmbh-obfelden",
+  "name": "Glaserei Piccini GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 95",
+    "plz": "8912",
+    "ort": "Obfelden",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41447762512",
+    "email": "info@glasereipiccini.ch",
+    "webseite": "https://glasereipiccini.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

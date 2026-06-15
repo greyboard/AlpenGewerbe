@@ -1,0 +1,29 @@
+{
+  "id": "li-e4AnbL2xyuPWVf3J4zu1",
+  "slug": "mister-service-schaan",
+  "name": "Mister Service",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Im alten Riet 137",
+    "plz": "9494",
+    "ort": "Schaan",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+41800555444",
+    "email": "info@mister-service.com",
+    "webseite": "https://mister-service.com"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

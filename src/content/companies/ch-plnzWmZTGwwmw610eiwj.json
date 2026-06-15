@@ -1,0 +1,30 @@
+{
+  "id": "ch-plnzWmZTGwwmw610eiwj",
+  "slug": "elektro-one-zuerich-ag-zuerich",
+  "name": "Elektro ONE Zürich AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Berninastrasse 117",
+    "plz": "8057",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41435116365",
+    "email": "info@elektro-one.ch",
+    "webseite": "https://www.elektro-one.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

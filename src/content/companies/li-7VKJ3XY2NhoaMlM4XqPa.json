@@ -1,0 +1,29 @@
+{
+  "id": "li-7VKJ3XY2NhoaMlM4XqPa",
+  "slug": "farbwerk-gmbh-triesen",
+  "name": "Farbwerk GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Landstrasse 194",
+    "plz": "9495",
+    "ort": "Triesen",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+41782274811",
+    "email": "info@farbwerk.li",
+    "webseite": "https://farbwerk.li"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

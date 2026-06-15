@@ -1,0 +1,30 @@
+{
+  "id": "ch-RaRJpaLBRDCVIP6y1pmx",
+  "slug": "erni-gartenbau-planning-ag-bottighofen",
+  "name": "Erni Gartenbau + Planning AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Seestrasse 32",
+    "plz": "8598",
+    "ort": "Bottighofen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716771166",
+    "email": "info@erni-gartenbau.ch",
+    "webseite": "https://www.erni-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

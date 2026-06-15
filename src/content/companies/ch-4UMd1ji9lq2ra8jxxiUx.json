@@ -1,0 +1,30 @@
+{
+  "id": "ch-4UMd1ji9lq2ra8jxxiUx",
+  "slug": "friedlos-schreinerei-gmbh-altendorf",
+  "name": "Friedlos Schreinerei GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Zürcherstrasse 135",
+    "plz": "8852",
+    "ort": "Altendorf",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554421980",
+    "email": "friedlos@schreinerei-friedlos.ch",
+    "webseite": "https://www.schreinerei-friedlos.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-PtIv5OAWY621wwmjKm5V",
+  "slug": "leuzinger-ag-mollis",
+  "name": "Leuzinger AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Feld 1a",
+    "plz": "8753",
+    "ort": "Mollis",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556184466",
+    "email": "info@leuzinger.ch",
+    "webseite": "https://www.leuzinger.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

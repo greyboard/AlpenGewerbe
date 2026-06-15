@@ -1,0 +1,30 @@
+{
+  "id": "ch-myQoUrrO0rzqC2Gt0Ji7",
+  "slug": "pcp-metal-gmbh-zuerich",
+  "name": "PCP Metal GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Mööslistrasse 3",
+    "plz": "8038",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41444820122",
+    "email": "info@pcpmetal.ch",
+    "webseite": "https://www.pcpmetal.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

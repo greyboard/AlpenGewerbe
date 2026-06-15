@@ -1,0 +1,30 @@
+{
+  "id": "ch-EXY0QpSe7nV1fzLnNJXz",
+  "slug": "storni-impresa-di-pittura-sagl-tesserete",
+  "name": "Storni Impresa di Pittura Sagl",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Alle Pezze 13",
+    "plz": "6950",
+    "ort": "Tesserete",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41919434621",
+    "email": "info@stornipittura.ch",
+    "webseite": "https://www.stornipittura.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-AVW41lviWH4v4QLDyHYX",
+  "slug": "maurer-treuhand-ag-aarau",
+  "name": "Maurer Treuhand AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 73",
+    "plz": "5032",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628240355",
+    "email": "info@treuhand-maurer.ch",
+    "webseite": "https://www.treuhand-maurer.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

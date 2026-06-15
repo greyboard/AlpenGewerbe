@@ -1,0 +1,30 @@
+{
+  "id": "ch-N8GofdxwJPRjuTALLVB9",
+  "slug": "ernst-guertler-ag-allschwil",
+  "name": "Ernst Gürtler AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Binningerstrasse 53",
+    "plz": "4123",
+    "ort": "Allschwil",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614812200",
+    "email": "info@guertler-elektro.ch",
+    "webseite": "https://www.guertler-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-8sV2yv8twMWxpV3vwnmE",
+  "slug": "cocci-garten-erlinsbach",
+  "name": "Cocci Garten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Oberredstrasse 8",
+    "plz": "5015",
+    "ort": "Erlinsbach",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762775789",
+    "email": "luigi@gartenbau-aarau.ch",
+    "webseite": "https://www.gartenbau-aarau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

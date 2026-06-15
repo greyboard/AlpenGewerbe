@@ -1,0 +1,30 @@
+{
+  "id": "ch-PlnCZAyrBzB8rb3MjW6y",
+  "slug": "geiser-gartenbau-zuerich",
+  "name": "Geiser-Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Limmattalstrasse 247",
+    "plz": "8049",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762626367",
+    "email": "info@geisergartenbau.ch",
+    "webseite": "https://www.geisergartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

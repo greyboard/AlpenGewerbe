@@ -1,0 +1,30 @@
+{
+  "id": "ch-u552Xmdwze9sSB8TKJKC",
+  "slug": "mathieu-bau-gmbh-agarn",
+  "name": "Mathieu Bau GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 13",
+    "plz": "3951",
+    "ort": "Agarn",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41274746161",
+    "email": "info@mathieubau.ch",
+    "webseite": "https://mathieubau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

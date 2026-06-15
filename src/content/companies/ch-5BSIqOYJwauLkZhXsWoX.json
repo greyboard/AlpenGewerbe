@@ -1,0 +1,30 @@
+{
+  "id": "ch-5BSIqOYJwauLkZhXsWoX",
+  "slug": "gipsergeschaeft-galli-bau-ag-emmenbruecke",
+  "name": "Gipsergeschäft Galli Bau AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Rüeggisingerstrasse 1",
+    "plz": "6020",
+    "ort": "Emmenbrücke",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412602424",
+    "email": "info@meingipser.ch",
+    "webseite": "https://www.meingipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

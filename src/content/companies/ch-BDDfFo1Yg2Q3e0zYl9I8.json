@@ -1,0 +1,30 @@
+{
+  "id": "ch-BDDfFo1Yg2Q3e0zYl9I8",
+  "slug": "malerei-dunkel-gmbh-basel",
+  "name": "Malerei Dunkel GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Weidengasse 49",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613126244",
+    "email": "info@malerei-dunkel.ch",
+    "webseite": "https://www.malerei-dunkel.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-32RroZIrt3nfvLorXEAU",
+  "slug": "beau-jardin-sarl-penthaz",
+  "name": "Beau-Jardin Sàrl",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Chem. de la Rippe 3A",
+    "plz": "1303",
+    "ort": "Penthaz",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41218013475",
+    "email": "info@beau-jardin.ch",
+    "webseite": "https://www.beau-jardin.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

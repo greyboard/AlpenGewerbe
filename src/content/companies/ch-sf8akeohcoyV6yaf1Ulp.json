@@ -1,0 +1,30 @@
+{
+  "id": "ch-sf8akeohcoyV6yaf1Ulp",
+  "slug": "circelli-ag-ebikon",
+  "name": "Circelli AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Panoramastrasse 11",
+    "plz": "6030",
+    "ort": "Ebikon",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413221822",
+    "email": "info@circelli.ch",
+    "webseite": "https://www.circelli.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

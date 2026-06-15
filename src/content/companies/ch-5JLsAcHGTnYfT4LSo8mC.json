@@ -1,0 +1,30 @@
+{
+  "id": "ch-5JLsAcHGTnYfT4LSo8mC",
+  "slug": "novus-elektro-gmbh-baar",
+  "name": "Novus Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rigistrasse 165",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797096001",
+    "email": "hello@novuselektro.ch",
+    "webseite": "https://www.novuselektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

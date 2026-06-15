@@ -1,0 +1,30 @@
+{
+  "id": "ch-plTdgX1A76JFUD5kP03r",
+  "slug": "faessler-oskar-ag-teufen",
+  "name": "Fässler Oskar AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 15",
+    "plz": "9053",
+    "ort": "Teufen",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713331491",
+    "email": "info@oskar-faessler.ch",
+    "webseite": "https://www.oskar-faessler.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

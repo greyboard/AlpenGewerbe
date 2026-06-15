@@ -1,0 +1,30 @@
+{
+  "id": "ch-BhRu5eWdMOPQ6JefeYg4",
+  "slug": "bau-und-sanierungen-lorenz-gmbh-baar",
+  "name": "Bau und Sanierungen Lorenz GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Neuhofstrasse 15a",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787163122",
+    "email": "info@lorenzbau.ch",
+    "webseite": "https://www.lorenzbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

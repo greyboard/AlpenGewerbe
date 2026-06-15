@@ -1,0 +1,30 @@
+{
+  "id": "ch-vB9Ko2OXWbJeZF1RoOZx",
+  "slug": "gipser-kost-gmbh-rhaezuens",
+  "name": "Gipser Kost GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Mulin Sura 4",
+    "plz": "7403",
+    "ort": "Rhäzüns",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816303965",
+    "email": "info@gipserkost.ch",
+    "webseite": "https://www.gipserkost.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-9zt2HBi0u3kFzh7CkVW1",
+  "slug": "abc-haustechnik-gmbh-schaffhausen",
+  "name": "ABC Haustechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Mühlenstrasse 62",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526540000",
+    "email": "info@abc-haustechnik.ch",
+    "webseite": "https://www.abc-haustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

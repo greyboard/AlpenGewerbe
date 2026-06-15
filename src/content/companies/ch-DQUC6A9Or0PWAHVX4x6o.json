@@ -1,0 +1,30 @@
+{
+  "id": "ch-DQUC6A9Or0PWAHVX4x6o",
+  "slug": "heizpartner-gmbh-reinach",
+  "name": "heizpartner gmbh",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Christoph Merian-Ring 11",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613121515",
+    "email": "b.memedi@heizpartner.ch",
+    "webseite": "https://www.heizpartner.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

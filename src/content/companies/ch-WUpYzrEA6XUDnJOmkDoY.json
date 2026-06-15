@@ -1,0 +1,30 @@
+{
+  "id": "ch-WUpYzrEA6XUDnJOmkDoY",
+  "slug": "bordi-maler-gipser-ag-zuchwil",
+  "name": "bordi maler + gipser ag",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 18",
+    "plz": "4528",
+    "ort": "Zuchwil",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326855222",
+    "email": "info@bordi.ch",
+    "webseite": "https://www.bordi.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-UobSKMtkLsfFRJuesDXJ",
+  "slug": "sos-home-sarl-urgence-plombier-geneve",
+  "name": "SOS HOME Sàrl - URGENCE PLOMBIER",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Bd du Pont-d'Arve 20",
+    "plz": "1205",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227317775",
+    "email": "info@soshome.ch",
+    "webseite": "https://www.soshome.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

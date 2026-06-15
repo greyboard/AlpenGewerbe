@@ -1,0 +1,30 @@
+{
+  "id": "ch-I0pjOcQMa2BLiveFGRPL",
+  "slug": "von-bueren-gartenbau-gmbh-bueren",
+  "name": "von Büren Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Oeltrotte 1",
+    "plz": "6382",
+    "ort": "Büren",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416103074",
+    "email": "gartenbautheo@hotmail.ch",
+    "webseite": "https://www.gartenbau-nidwalden.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

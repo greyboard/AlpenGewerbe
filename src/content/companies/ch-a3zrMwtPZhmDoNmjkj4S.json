@@ -1,0 +1,30 @@
+{
+  "id": "ch-a3zrMwtPZhmDoNmjkj4S",
+  "slug": "bovy-menuiserie-charpente-sarl-le-vaud",
+  "name": "BOVY menuiserie charpente Sàrl",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Rte des Arenys 10",
+    "plz": "1261",
+    "ort": "Le Vaud",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223661137",
+    "email": "olby@bluewin.ch",
+    "webseite": "https://www.bovy-menuiserie-charpente.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-mgiQ3JvIozlwRyxnea5n",
+  "slug": "eco-peinture-geneve",
+  "name": "Eco Peinture",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "La Voie-Creuse 7",
+    "plz": "1202",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789430018",
+    "email": "contact@ecopeinture-ge.ch",
+    "webseite": "https://www.ecopeinture-ge.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-zoUMgJkEVyYaHlHM1MAk",
+  "slug": "di-stefano-elektro-gmbh-bern",
+  "name": "Di Stefano Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Moritzweg 28",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313521364",
+    "email": "info@distefano-elektro.ch",
+    "webseite": "https://www.distefano-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

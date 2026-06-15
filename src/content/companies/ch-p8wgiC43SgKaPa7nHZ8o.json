@@ -1,0 +1,30 @@
+{
+  "id": "ch-p8wgiC43SgKaPa7nHZ8o",
+  "slug": "protec-elektro-ag-horw",
+  "name": "PROTEC Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Wegmatt 16",
+    "plz": "6048",
+    "ort": "Horw",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413492600",
+    "email": "info@protec-elektro.ch",
+    "webseite": "https://protec-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

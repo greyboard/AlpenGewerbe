@@ -1,0 +1,30 @@
+{
+  "id": "ch-8SvqNGjEcgmQtZNgqgBe",
+  "slug": "maler-pfister-gals",
+  "name": "Maler Pfister",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Maler Pfister",
+    "plz": "3238",
+    "ort": "Gals",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792259309",
+    "email": "info@malerpfister.ch",
+    "webseite": "https://www.malerpfister.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

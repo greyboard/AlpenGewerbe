@@ -1,0 +1,30 @@
+{
+  "id": "ch-VLvta15kIIGgHA8nDTGV",
+  "slug": "jeannintopgreen-geneve",
+  "name": "JeanninTopGreen",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rue de Chantepoulet 10",
+    "plz": "1201",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782085156",
+    "email": "jeannintopgreen@yahoo.com",
+    "webseite": "https://jeannin-topgreen.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

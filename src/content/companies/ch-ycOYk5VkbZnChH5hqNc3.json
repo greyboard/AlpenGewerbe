@@ -1,0 +1,30 @@
+{
+  "id": "ch-ycOYk5VkbZnChH5hqNc3",
+  "slug": "elektro-maerk-ag-luzern",
+  "name": "Elektro Märk AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Würzenbachstrasse 24",
+    "plz": "6006",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413720505",
+    "email": "info@elektromaerk.ch",
+    "webseite": "https://elektromaerk.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-wZEVGAZclV7ItOYtx4gb",
+  "slug": "glarner-haustechnik-ag-netstal",
+  "name": "Glarner Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Ennetbachstrasse 36",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556125040",
+    "email": "info@glarner-haustechnik.ch",
+    "webseite": "https://www.glarner-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-tKwCO0VAhVZDlG2yJoUK",
+  "slug": "waelti-peter-ag-bern",
+  "name": "Wälti Peter AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bümplizstrasse 153",
+    "plz": "3018",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319924473",
+    "email": "info@elektro-linder.ch",
+    "webseite": "https://www.waelti-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

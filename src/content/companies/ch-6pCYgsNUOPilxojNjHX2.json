@@ -1,0 +1,30 @@
+{
+  "id": "ch-6pCYgsNUOPilxojNjHX2",
+  "slug": "kurz-technik-gmbh-muentschemier",
+  "name": "Kurz Technik GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Allmendhagweg 1",
+    "plz": "3225",
+    "ort": "Müntschemier",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323135311",
+    "email": "info@kurz-technik.ch",
+    "webseite": "https://www.kurz-technik.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

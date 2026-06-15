@@ -1,0 +1,30 @@
+{
+  "id": "ch-2GOe9CyMA1lcxG5QaCnZ",
+  "slug": "paratore-giardini-sa-banco",
+  "name": "Paratore Giardini SA",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Banghès 9",
+    "plz": "6981",
+    "ort": "Banco",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41912209736",
+    "email": "info@paratoregarden.ch",
+    "webseite": "https://www.paratoregarden.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

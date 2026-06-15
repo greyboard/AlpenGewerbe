@@ -1,0 +1,30 @@
+{
+  "id": "ch-rz07kMM9gJOafa9ircW9",
+  "slug": "glass-swiss-carouge",
+  "name": "GLASS SWISS",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Chem. de la Grande-Pièce 3C",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41225477279",
+    "email": "info@glass-swiss.ch",
+    "webseite": "https://glass-swiss.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-q57NkCxUjkQfDH18L1at",
+  "slug": "kraetzig-maler-gmbh-balsthal",
+  "name": "Krätzig Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Postackerstrasse 28",
+    "plz": "4710",
+    "ort": "Balsthal",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797783473",
+    "email": "info@kraetzig-maler.ch",
+    "webseite": "https://www.kraetzigmaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

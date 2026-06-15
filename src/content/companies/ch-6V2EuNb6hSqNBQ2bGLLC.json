@@ -1,0 +1,30 @@
+{
+  "id": "ch-6V2EuNb6hSqNBQ2bGLLC",
+  "slug": "walther-gartenbau-schoenenberg-an-der-thur",
+  "name": "Walther Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Grüntalweg 1",
+    "plz": "9215",
+    "ort": "Schönenberg an der Thur",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716400261",
+    "email": "info@walthergartenbau.ch",
+    "webseite": "https://www.walthergartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

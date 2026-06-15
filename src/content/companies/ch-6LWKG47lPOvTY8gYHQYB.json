@@ -1,0 +1,30 @@
+{
+  "id": "ch-6LWKG47lPOvTY8gYHQYB",
+  "slug": "gartenbau-meister-ag-st-margrethen",
+  "name": "Gartenbau Meister AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kirchstrasse 28",
+    "plz": "9430",
+    "ort": "St. Margrethen",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717443559",
+    "email": "info@gartenbaumeister.ch",
+    "webseite": "https://www.gartenbaumeister.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

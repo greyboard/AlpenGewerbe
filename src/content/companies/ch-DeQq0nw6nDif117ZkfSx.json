@@ -1,0 +1,30 @@
+{
+  "id": "ch-DeQq0nw6nDif117ZkfSx",
+  "slug": "rk-gartenbau-gmbh-ramersberg",
+  "name": "RK Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sunnegg 1",
+    "plz": "6060",
+    "ort": "Ramersberg",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41799446418",
+    "email": "info@rkgartenbau.ch",
+    "webseite": "https://www.rkgartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

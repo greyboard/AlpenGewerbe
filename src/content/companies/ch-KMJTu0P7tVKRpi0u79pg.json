@@ -1,0 +1,29 @@
+{
+  "id": "ch-KMJTu0P7tVKRpi0u79pg",
+  "slug": "feuz-gebaeudetechnik-gmbh-truebbach",
+  "name": "Feuz Gebäudetechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Fährhüttenstrasse 21a",
+    "plz": "9477",
+    "ort": "Trübbach",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41817832483",
+    "email": "info@feuz-gmbh.ch",
+    "webseite": "https://www.feuz-gmbh.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

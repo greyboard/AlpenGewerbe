@@ -1,0 +1,30 @@
+{
+  "id": "ch-NLKi2ZcBtGfnwa5rsKc3",
+  "slug": "woodtli-ag-bern",
+  "name": "Woodtli AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Unteres Galgenfeld",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313515743",
+    "email": "info@woodtli-ag.ch",
+    "webseite": "https://www.woodtli-ag.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-4qhpeRt2PWUiq4bx3Uyn",
+  "slug": "schreinerei-bossard-erlinsbach",
+  "name": "Schreinerei Bossard",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Buchweg 19",
+    "plz": "5018",
+    "ort": "Erlinsbach",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797091029",
+    "email": "info@schreinerei-bossard.ch",
+    "webseite": "https://www.schreinerei-bossard.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

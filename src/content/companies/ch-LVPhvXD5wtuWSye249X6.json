@@ -1,0 +1,30 @@
+{
+  "id": "ch-LVPhvXD5wtuWSye249X6",
+  "slug": "jung-elektrotechnik-ag-st-gallen",
+  "name": "Jung Elektrotechnik AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Lukasstrasse 17",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41718019700",
+    "email": "hello@jung-et.ch",
+    "webseite": "https://www.jung-et.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

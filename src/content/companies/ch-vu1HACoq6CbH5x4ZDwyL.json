@@ -1,0 +1,30 @@
+{
+  "id": "ch-vu1HACoq6CbH5x4ZDwyL",
+  "slug": "dwb-bau-maler-und-gipsergeschaeft-pratteln",
+  "name": "Dwb Bau Maler-und Gipsergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Güterstrasse 19",
+    "plz": "4133",
+    "ort": "Pratteln",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788102894",
+    "email": "info@dwbbau.ch",
+    "webseite": "https://dwbbau.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

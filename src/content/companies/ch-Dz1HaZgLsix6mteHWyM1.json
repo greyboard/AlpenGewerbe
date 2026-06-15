@@ -1,0 +1,30 @@
+{
+  "id": "ch-Dz1HaZgLsix6mteHWyM1",
+  "slug": "bullinger-sa-carouge",
+  "name": "Bullinger SA",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Av. de la Praille 55",
+    "plz": "1227",
+    "ort": "Carouge",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223423020",
+    "email": "info@bullingersa.ch",
+    "webseite": "https://www.bullingersa.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

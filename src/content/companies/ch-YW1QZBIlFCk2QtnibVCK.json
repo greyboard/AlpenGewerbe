@@ -1,0 +1,30 @@
+{
+  "id": "ch-YW1QZBIlFCk2QtnibVCK",
+  "slug": "erni-markus-gmbh-luzern",
+  "name": "Erni Markus GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Staldenhöhe 14",
+    "plz": "6015",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412502528",
+    "email": "info@markus-erni.ch",
+    "webseite": "https://yellow.local.ch/d/zdLLG6KLLuNdE2Bp9KH7hQ"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

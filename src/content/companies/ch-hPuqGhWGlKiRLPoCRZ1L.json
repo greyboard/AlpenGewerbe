@@ -1,0 +1,30 @@
+{
+  "id": "ch-hPuqGhWGlKiRLPoCRZ1L",
+  "slug": "zimmermann-ag-luzern",
+  "name": "Zimmermann AG",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Waldstätterstrasse 9",
+    "plz": "6003",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412107020",
+    "email": "info@zi-land.ch",
+    "webseite": "https://www.zi-land.ch/impressum"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-kOAN9pHlwu8bj3rtge5E",
+  "slug": "dein-maler-gmbh-malters",
+  "name": "Dein Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Mettlenmatte 8",
+    "plz": "6102",
+    "ort": "Malters",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762438486",
+    "email": "info@deinmaler-gmbh.ch",
+    "webseite": "https://www.deinmaler-gmbh.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

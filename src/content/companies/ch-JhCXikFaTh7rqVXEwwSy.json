@@ -1,0 +1,30 @@
+{
+  "id": "ch-JhCXikFaTh7rqVXEwwSy",
+  "slug": "maler-schaad-gmbh-zuerich",
+  "name": "Maler Schaad GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Limmattalstrasse 177",
+    "plz": "8049",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443442090",
+    "email": "info@malerschaad.ch",
+    "webseite": "https://www.malerschaad.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

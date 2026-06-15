@@ -1,0 +1,30 @@
+{
+  "id": "ch-9cPmeVVHJCpEO7cLnCtJ",
+  "slug": "baer-sohn-ag-kreuzlingen",
+  "name": "Bär + Sohn AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Konstanzerstrasse 51",
+    "plz": "8280",
+    "ort": "Kreuzlingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716722233",
+    "email": "info@baer-sanitaer.ch",
+    "webseite": "https://www.baer-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

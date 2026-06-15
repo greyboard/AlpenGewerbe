@@ -1,0 +1,30 @@
+{
+  "id": "ch-gn9tcU0UYUmc9ASrBbzj",
+  "slug": "kueng-garten-ag-alpnach",
+  "name": "Küng Garten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Vockigenstrasse 8",
+    "plz": "6055",
+    "ort": "Alpnach",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416701010",
+    "email": "pk@kuenggarten.ch",
+    "webseite": "https://www.kuenggarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

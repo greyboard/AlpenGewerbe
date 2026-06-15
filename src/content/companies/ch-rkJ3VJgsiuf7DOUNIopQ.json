@@ -1,0 +1,30 @@
+{
+  "id": "ch-rkJ3VJgsiuf7DOUNIopQ",
+  "slug": "la-ceramica-gmbh-meilen",
+  "name": "La Ceramica GmbH",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "Bergstrasse 3",
+    "plz": "8706",
+    "ort": "Meilen",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41766481111",
+    "email": "info@laceramica-gmbh.ch",
+    "webseite": "https://laceramica-gmbh.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

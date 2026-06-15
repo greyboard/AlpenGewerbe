@@ -1,0 +1,30 @@
+{
+  "id": "ch-fq0DzCRhkRMSpHp7CqtR",
+  "slug": "dos-santos-gipsergeschaeft-gmbh-luzern",
+  "name": "dos Santos Gipsergeschäft GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Maihofstrasse 89",
+    "plz": "6006",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794611675",
+    "email": "info@santos-gips.ch",
+    "webseite": "https://www.santos-gips.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

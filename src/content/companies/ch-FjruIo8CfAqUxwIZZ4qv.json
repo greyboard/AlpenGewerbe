@@ -1,0 +1,30 @@
+{
+  "id": "ch-FjruIo8CfAqUxwIZZ4qv",
+  "slug": "jekag-gartenbau-und-maschinenbetrieb-gmbh-glarus",
+  "name": "JEKAG Gartenbau- und Maschinenbetrieb GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Sommerweg 27",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556444386",
+    "email": "info@jekag.ch",
+    "webseite": "https://www.jekag.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

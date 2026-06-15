@@ -1,0 +1,30 @@
+{
+  "id": "ch-SdbZOqtksZa3YQbzDFvp",
+  "slug": "3dmetall-ag-steg",
+  "name": "3dmetall AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Alustrasse 20",
+    "plz": "3940",
+    "ort": "Steg",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279331000",
+    "email": "info@3dmetall.ch",
+    "webseite": "https://www.3dmetall.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

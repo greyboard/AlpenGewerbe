@@ -1,0 +1,30 @@
+{
+  "id": "ch-wwNtcRONHmS4V6zxLgi4",
+  "slug": "rohrer-gartenbau-und-hauswartungen-gmbh-sachseln",
+  "name": "Rohrer Gartenbau und Hauswartungen GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Birkenweg 7",
+    "plz": "6072",
+    "ort": "Sachseln",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416608689",
+    "email": "info@rohrer-gartenbau.ch",
+    "webseite": "https://www.gartendecor.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-TDi95wAis3o1nSGvuOvA",
+  "slug": "moos-bauingenieure-ag-zug",
+  "name": "Moos Bauingenieure AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 55",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417674433",
+    "email": "mail@moos-bauing.ch",
+    "webseite": "https://www.moos-bauing.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

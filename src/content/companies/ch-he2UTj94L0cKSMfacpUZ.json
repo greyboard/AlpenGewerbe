@@ -1,0 +1,30 @@
+{
+  "id": "ch-he2UTj94L0cKSMfacpUZ",
+  "slug": "eco-waermetechnik-gmbh-schaffhausen",
+  "name": "Eco Wärmetechnik GmbH",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Ebnatstrasse 62",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526436077",
+    "email": "info@ecogmbh.ch",
+    "webseite": "https://www.ecogmbh.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

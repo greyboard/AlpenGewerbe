@@ -1,0 +1,30 @@
+{
+  "id": "ch-IHaxW9jKXYiYpK2rSaKY",
+  "slug": "a-kalbermatter-ag-gampel",
+  "name": "A. Kalbermatter AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Niedergampelstrasse 98",
+    "plz": "3945",
+    "ort": "Gampel",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279325030",
+    "email": "info@kalbermatter.com",
+    "webseite": "https://www.kalbermatter.com"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

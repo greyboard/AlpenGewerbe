@@ -1,0 +1,30 @@
+{
+  "id": "ch-c3qcALxWSJVrzvJxTRmT",
+  "slug": "v-kaya-malergeschaeft-birsfelden",
+  "name": "V. Kaya Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Turnerstrasse 19",
+    "plz": "4127",
+    "ort": "Birsfelden",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41787566092",
+    "email": "v.kayamaler@outlook.com",
+    "webseite": "https://www.vkaya-malergeschaeft.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

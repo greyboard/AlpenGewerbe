@@ -1,0 +1,30 @@
+{
+  "id": "ch-k8ho5de3DxZOx4Eedie1",
+  "slug": "eco-stores-sarl-geneve",
+  "name": "Eco Stores Sarl",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rue de Richemont 10",
+    "plz": "1202",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223149521",
+    "email": "contact@eco-stores.ch",
+    "webseite": "https://eco-stores.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-XavInPOWaDCELyItkimo",
+  "slug": "maurer-planung-gmbh-muenchenstein",
+  "name": "Maurer Planung GmbH",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Helsinki-Strasse 7",
+    "plz": "4142",
+    "ort": "Münchenstein",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41762422622",
+    "email": "info@maurerplanung.ch",
+    "webseite": "https://maurerplanung.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

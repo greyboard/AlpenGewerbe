@@ -1,0 +1,30 @@
+{
+  "id": "ch-SdnJ5crKH99uvsyOlRkh",
+  "slug": "monty-gebaeudetechnik-sanitaer-heizung-ittigen",
+  "name": "Monty Gebäudetechnik Sanitär Heizung",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Kirschenackerweg 24",
+    "plz": "3063",
+    "ort": "Ittigen",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782397464",
+    "email": "info@monty-gt.ch",
+    "webseite": "https://www.monty-gt.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

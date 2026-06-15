@@ -1,0 +1,30 @@
+{
+  "id": "ch-suknfORXdQG2tthYQs6y",
+  "slug": "baebler-fritz-und-co-glarus",
+  "name": "Bäbler Fritz und Co",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Pfrundhausstrasse 37",
+    "plz": "8750",
+    "ort": "Glarus",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556406134",
+    "email": "fbj@bluewin.ch",
+    "webseite": "https://www.fritzbaebler.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

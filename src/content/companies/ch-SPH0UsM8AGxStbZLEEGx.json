@@ -1,0 +1,30 @@
+{
+  "id": "ch-SPH0UsM8AGxStbZLEEGx",
+  "slug": "glanz-dach-gmbh-basel",
+  "name": "Glanz Dach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Dornacherstrasse 234",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615018052",
+    "email": "info@glanzdach.ch",
+    "webseite": "https://glanzdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

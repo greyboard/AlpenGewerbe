@@ -1,0 +1,30 @@
+{
+  "id": "ch-k4KQbQsqzBGmS6hiM43u",
+  "slug": "steibock-ag-erstfeld",
+  "name": "Steibock AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 22",
+    "plz": "6472",
+    "ort": "Erstfeld",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418820303",
+    "email": "info@steibock-ag.ch",
+    "webseite": "https://steibock-ag.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

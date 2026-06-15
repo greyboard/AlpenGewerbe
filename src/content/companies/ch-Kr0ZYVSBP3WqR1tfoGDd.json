@@ -1,0 +1,30 @@
+{
+  "id": "ch-Kr0ZYVSBP3WqR1tfoGDd",
+  "slug": "trais-fluors-gartenbau-gmbh-wil",
+  "name": "Trais Fluors Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kirchweg 27",
+    "plz": "8196",
+    "ort": "Wil",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41438107128",
+    "email": "info@tf-g.ch",
+    "webseite": "https://www.traisfluors-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-2YS8EVUnqQEjzG1xhWmz",
+  "slug": "pignolo-peinture-sa-geneve",
+  "name": "Pignolo Peinture SA",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rue de la Muse 8",
+    "plz": "1205",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41228700662",
+    "email": "info@pignolopeinturesa.ch",
+    "webseite": "https://www.pignolopeinturesa.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

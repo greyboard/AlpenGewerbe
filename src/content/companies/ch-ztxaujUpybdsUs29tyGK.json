@@ -1,0 +1,30 @@
+{
+  "id": "ch-ztxaujUpybdsUs29tyGK",
+  "slug": "bircher-sanitaere-anlagen-ag-ennetbuergen",
+  "name": "Bircher Sanitäre Anlagen AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Stanserstrasse 104",
+    "plz": "6373",
+    "ort": "Ennetbürgen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416244070",
+    "email": "mail@bircher-sanitaer.ch",
+    "webseite": "https://www.bircher-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

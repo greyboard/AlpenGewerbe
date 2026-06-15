@@ -1,0 +1,30 @@
+{
+  "id": "ch-lTOVds80iZ4wxmZYKxpm",
+  "slug": "schreinerei-patthey-bern-bern",
+  "name": "Schreinerei Patthey Bern",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Freiburgstrasse 177",
+    "plz": "3008",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798186788",
+    "email": "mail@schreinerei-patthey.ch",
+    "webseite": "https://schreinerei-patthey.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

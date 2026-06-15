@@ -1,0 +1,30 @@
+{
+  "id": "ch-EZfrrmfPubeJQ4SUcqGc",
+  "slug": "maler-ruggeri-gmbh-naefels",
+  "name": "Maler Ruggeri GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Mühlhäusern 15",
+    "plz": "8752",
+    "ort": "Näfels",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41555356130",
+    "email": "info@malerruggeri.ch",
+    "webseite": "https://www.malerruggeri.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

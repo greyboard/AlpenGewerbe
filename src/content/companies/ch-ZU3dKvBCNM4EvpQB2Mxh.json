@@ -1,0 +1,30 @@
+{
+  "id": "ch-ZU3dKvBCNM4EvpQB2Mxh",
+  "slug": "ti-energie-gmbh-luzern",
+  "name": "TI Energie GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Würzenbachhalde 18",
+    "plz": "6006",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415599993",
+    "email": "info@ti-energie.ch",
+    "webseite": "https://ti-energie.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

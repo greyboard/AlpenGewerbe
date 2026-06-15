@@ -1,0 +1,30 @@
+{
+  "id": "ch-AbUtvioWyu3lJCUHRVXs",
+  "slug": "buholzer-marcel-ag-meggen",
+  "name": "Buholzer Marcel AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Rosenhaldenstrasse 14",
+    "plz": "6045",
+    "ort": "Meggen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413771177",
+    "email": "info@meisterdach.ch",
+    "webseite": "https://meisterdach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

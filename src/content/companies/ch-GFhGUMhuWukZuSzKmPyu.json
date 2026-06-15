@@ -1,0 +1,30 @@
+{
+  "id": "ch-GFhGUMhuWukZuSzKmPyu",
+  "slug": "markus-keller-gmbh-muri-bei-bern",
+  "name": "Markus Keller GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Holzackerweg 15",
+    "plz": "3073",
+    "ort": "Muri bei Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313110086",
+    "email": "info@markuskellergmbh.ch",
+    "webseite": "https://www.markuskellergmbh.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

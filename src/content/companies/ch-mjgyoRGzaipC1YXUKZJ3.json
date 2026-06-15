@@ -1,0 +1,30 @@
+{
+  "id": "ch-mjgyoRGzaipC1YXUKZJ3",
+  "slug": "metallbau-noll-susten",
+  "name": "Metallbau Noll",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Brückenmattenstrasse 29",
+    "plz": "3952",
+    "ort": "Susten",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792715641",
+    "email": "info@metallbau-noll.ch",
+    "webseite": "https://www.metallbau-noll.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

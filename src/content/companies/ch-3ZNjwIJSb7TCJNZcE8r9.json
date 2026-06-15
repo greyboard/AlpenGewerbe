@@ -1,0 +1,30 @@
+{
+  "id": "ch-3ZNjwIJSb7TCJNZcE8r9",
+  "slug": "barbey-soehne-ag-basel",
+  "name": "Barbey Söhne AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Efringerstrasse 5",
+    "plz": "4057",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613018907",
+    "email": "info@barbeysoehneag.ch",
+    "webseite": "https://www.barbeysoehneag.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

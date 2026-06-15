@@ -1,0 +1,30 @@
+{
+  "id": "ch-nA9mpPqLVQ2J6PC52vGU",
+  "slug": "walter-zuend-ag-sarnen",
+  "name": "Walter Zünd AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Kapuzinerweg 8",
+    "plz": "6060",
+    "ort": "Sarnen",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416600770",
+    "email": "info@zuendmalerei.ch",
+    "webseite": "https://www.zuendmalerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

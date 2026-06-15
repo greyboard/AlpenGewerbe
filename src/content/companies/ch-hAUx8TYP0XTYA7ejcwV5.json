@@ -1,0 +1,30 @@
+{
+  "id": "ch-hAUx8TYP0XTYA7ejcwV5",
+  "slug": "zimmermann-sarl-villars-sainte-croix",
+  "name": "Zimmermann Sàrl",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "La",
+    "plz": "1029",
+    "ort": "Villars-Sainte-Croix",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41216831139",
+    "email": "info@zimventil.ch",
+    "webseite": "https://www.zimventil.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

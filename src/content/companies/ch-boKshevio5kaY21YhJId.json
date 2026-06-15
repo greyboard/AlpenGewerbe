@@ -1,0 +1,30 @@
+{
+  "id": "ch-boKshevio5kaY21YhJId",
+  "slug": "alco-elektroanlagen-gmbh-st-gallen",
+  "name": "ALCO Elektroanlagen GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Burgstrasse 66",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712789070",
+    "email": "alco@ihrelektriker.ch",
+    "webseite": "https://www.alco-elektroanlagen.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

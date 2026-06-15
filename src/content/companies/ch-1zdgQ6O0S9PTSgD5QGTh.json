@@ -1,0 +1,30 @@
+{
+  "id": "ch-1zdgQ6O0S9PTSgD5QGTh",
+  "slug": "vitrerie-schleppy-neuchatel",
+  "name": "Vitrerie Schleppy",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Rue des Charmettes 16",
+    "plz": "2000",
+    "ort": "Neuchâtel",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41327322323",
+    "email": "vitrerie@schleppy.ch",
+    "webseite": "https://www.schleppy.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-CsKs56k21kEkC7ngYfWw",
+  "slug": "schneider-garten-solothurn",
+  "name": "Schneider Garten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Römerstrasse 66",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41788343679",
+    "email": "schneidergarten@bluewin.ch",
+    "webseite": "https://www.schneidergarten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

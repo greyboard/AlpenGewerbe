@@ -1,0 +1,30 @@
+{
+  "id": "ch-LzBrV4IzSFArsG230YJd",
+  "slug": "alvarez-pittura-locarno",
+  "name": "Alvarez Pittura",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Francesco Ballerini 19A",
+    "plz": "6600",
+    "ort": "Locarno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798556047",
+    "email": "oscar@alvarezpittura.ch",
+    "webseite": "https://www.alvarezpittura.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

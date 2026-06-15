@@ -1,0 +1,30 @@
+{
+  "id": "ch-Z90mOLlgJadRJSPZtvFJ",
+  "slug": "alpen-dach-gmbh-luzern",
+  "name": "Alpen Dach GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Morgartenstrasse 3",
+    "plz": "6003",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41766195464",
+    "email": "info@alpendach.ch",
+    "webseite": "https://alpendach.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

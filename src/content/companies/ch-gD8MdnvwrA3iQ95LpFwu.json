@@ -1,0 +1,30 @@
+{
+  "id": "ch-gD8MdnvwrA3iQ95LpFwu",
+  "slug": "schmid-elektro-solothurn",
+  "name": "Schmid-Elektro",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Alte-Bernstrasse 6",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326257080",
+    "email": "schmid@schmid-elektro.ch",
+    "webseite": "https://yellow.local.ch/d/Bfabm6BpLEeo1bUjjQRu4A"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

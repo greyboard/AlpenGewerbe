@@ -1,0 +1,30 @@
+{
+  "id": "ch-PMtgj1E4sHGB4sLlCm3C",
+  "slug": "urs-haller-ag-aesch",
+  "name": "Urs Haller AG",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Käppeliacher 4",
+    "plz": "6287",
+    "ort": "Aesch",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41419141400",
+    "email": "info@haller-umbau.ch",
+    "webseite": "https://www.haller-umbau.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

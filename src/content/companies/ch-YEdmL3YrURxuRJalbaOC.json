@@ -1,0 +1,30 @@
+{
+  "id": "ch-YEdmL3YrURxuRJalbaOC",
+  "slug": "reinhardt-gartenbau-beckenried",
+  "name": "Reinhardt Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Unterscheid 2",
+    "plz": "6375",
+    "ort": "Beckenried",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416201414",
+    "email": "info@reinhardt-gartenbau.ch",
+    "webseite": "https://www.reinhardt-gartenbau.ch/cmsv2"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

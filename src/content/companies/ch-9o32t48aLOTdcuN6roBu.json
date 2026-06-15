@@ -1,0 +1,30 @@
+{
+  "id": "ch-9o32t48aLOTdcuN6roBu",
+  "slug": "metallbau-muhen-ag-muhen",
+  "name": "Metallbau Muhen AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Spätrain 1",
+    "plz": "5037",
+    "ort": "Muhen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793013821",
+    "email": "info@metallbau-muhen.ch",
+    "webseite": "https://www.metallbau-muhen.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

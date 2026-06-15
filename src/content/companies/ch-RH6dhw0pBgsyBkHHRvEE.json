@@ -1,0 +1,30 @@
+{
+  "id": "ch-RH6dhw0pBgsyBkHHRvEE",
+  "slug": "kb-bauunternehmen-ag-trimmis",
+  "name": "KB Bauunternehmen AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Schlössli 14",
+    "plz": "7203",
+    "ort": "Trimmis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796813156",
+    "email": "kbbau@bluewin.ch",
+    "webseite": "https://www.kocherundbonerbau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

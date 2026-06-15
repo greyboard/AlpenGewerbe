@@ -1,0 +1,30 @@
+{
+  "id": "ch-nrFsZ5bQRJR4SwYW8wWh",
+  "slug": "rolf-suter-gipsergeschaeft-gmbh-giebenach",
+  "name": "Rolf Suter Gipsergeschäft GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Schulgasse 8",
+    "plz": "4304",
+    "ort": "Giebenach",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613112737",
+    "email": "20info@rs-gipser.ch",
+    "webseite": "https://www.rs-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

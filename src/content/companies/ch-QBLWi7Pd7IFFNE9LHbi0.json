@@ -1,0 +1,30 @@
+{
+  "id": "ch-QBLWi7Pd7IFFNE9LHbi0",
+  "slug": "flueckiger-electricite-s-a-st-blaise",
+  "name": "Flückiger Electricité S.A.",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Chem. de la Plage 16",
+    "plz": "2072",
+    "ort": "St Blaise",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41327550500",
+    "email": "info@fluckigersa.ch",
+    "webseite": "https://www.fluckigersa.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

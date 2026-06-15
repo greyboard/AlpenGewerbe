@@ -1,0 +1,30 @@
+{
+  "id": "ch-PUDNR28t9nuGIJRFiqZx",
+  "slug": "leri-schreinerei-ag-zuerich",
+  "name": "LERI Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Kanzleistrasse 221",
+    "plz": "8004",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442427266",
+    "email": "info@leri-schreinerei.ch",
+    "webseite": "https://www.leri-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

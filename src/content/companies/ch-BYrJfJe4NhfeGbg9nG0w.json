@@ -1,0 +1,30 @@
+{
+  "id": "ch-BYrJfJe4NhfeGbg9nG0w",
+  "slug": "hans-guedel-ag-bern",
+  "name": "Hans Güdel AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Stegenweg 24",
+    "plz": "3019",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41319261535",
+    "email": "guedel.garten@gmail.com",
+    "webseite": "https://www.hansguedel-ag.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

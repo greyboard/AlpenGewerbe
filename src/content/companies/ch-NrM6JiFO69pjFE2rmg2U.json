@@ -1,0 +1,30 @@
+{
+  "id": "ch-NrM6JiFO69pjFE2rmg2U",
+  "slug": "zuerich-maler-gmbh-zuerich",
+  "name": "Zürich Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Luegislandstrasse 589",
+    "plz": "8051",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764059696",
+    "email": "info@zuerimaler.ch",
+    "webseite": "https://www.zuerimaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

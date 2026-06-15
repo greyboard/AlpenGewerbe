@@ -1,0 +1,30 @@
+{
+  "id": "ch-Tf70npiLjdw5gAEsXMDy",
+  "slug": "renovhome-sa-aire",
+  "name": "Renovhome SA",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rte du Bois-des-Frères 32",
+    "plz": "1219",
+    "ort": "Aïre",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227951700",
+    "email": "info@renovhome.ch",
+    "webseite": "https://www.renovhome.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-HtQ2UYBJRGYCxmMeaunb",
+  "slug": "elektro-bilingue-gmbh-bruegg",
+  "name": "elektro bilingue gmbh",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bielstrasse 75",
+    "plz": "2555",
+    "ort": "Brügg",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323612222",
+    "email": "info@elektrobilingue.ch",
+    "webseite": "https://www.elektro-bilingue.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

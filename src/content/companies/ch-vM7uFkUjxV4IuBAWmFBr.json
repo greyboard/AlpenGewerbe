@@ -1,0 +1,30 @@
+{
+  "id": "ch-vM7uFkUjxV4IuBAWmFBr",
+  "slug": "brixx-gipser-welt-luzern",
+  "name": "BRIXX Gipser Welt",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "An der kleinen Emme",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795642760",
+    "email": "info@brixx.ch",
+    "webseite": "https://brixx.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

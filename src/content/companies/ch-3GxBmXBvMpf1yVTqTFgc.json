@@ -1,0 +1,30 @@
+{
+  "id": "ch-3GxBmXBvMpf1yVTqTFgc",
+  "slug": "guyer-waerme-und-wasser-ag-zuerich",
+  "name": "Guyer Wärme und Wasser AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Thurgauerstrasse 30",
+    "plz": "8050",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442684444",
+    "email": "info@guyer.ch",
+    "webseite": "https://guyer.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

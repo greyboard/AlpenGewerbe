@@ -1,0 +1,30 @@
+{
+  "id": "ch-pDPkugrb198YV8jJ3MCB",
+  "slug": "nyffenegger-gartenbau-ag-koeniz",
+  "name": "Nyffenegger Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Bindenhausstrasse 46",
+    "plz": "3098",
+    "ort": "Köniz",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318491525",
+    "email": "info@nyffenegger-gartenbau.ch",
+    "webseite": "https://www.nyffenegger-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "li-ghhC5GUgT9Fh9tDcehyx",
+  "slug": "vogt-ernst-ag-balzers",
+  "name": "Vogt Ernst AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Egerta 15",
+    "plz": "9496",
+    "ort": "Balzers",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4233882828",
+    "email": "vogt@evogt.li",
+    "webseite": "https://www.evogt.li"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

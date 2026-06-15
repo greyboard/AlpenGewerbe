@@ -1,0 +1,30 @@
+{
+  "id": "ch-VHd2oTV32Bgd3ZxbwNu9",
+  "slug": "steiner-malerei-gmbh-d-l-st-gallen",
+  "name": "Steiner Malerei GmbH D+L",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Lettenstrasse 9a",
+    "plz": "9008",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712449665",
+    "email": "sg@steiner-malerei.ch",
+    "webseite": "https://steiner-malerei.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

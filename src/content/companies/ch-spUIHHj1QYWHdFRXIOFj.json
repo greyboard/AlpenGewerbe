@@ -1,0 +1,30 @@
+{
+  "id": "ch-spUIHHj1QYWHdFRXIOFj",
+  "slug": "mueller-haustechnik-ag-ermatingen",
+  "name": "Müller Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hauptstrasse 200",
+    "plz": "8272",
+    "ort": "Ermatingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716641364",
+    "email": "info@muellerhaustechnik.ch",
+    "webseite": "https://www.muellerhaustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

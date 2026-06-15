@@ -1,0 +1,30 @@
+{
+  "id": "ch-ttidJvE78MfGELg3iHGJ",
+  "slug": "l-f-edil-gmbh-ingenbohl",
+  "name": "L&F Edil GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Schwyzerstrasse 55B",
+    "plz": "6440",
+    "ort": "Ingenbohl",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764153519",
+    "email": "admin@lf-edil.ch",
+    "webseite": "https://lf-edil.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

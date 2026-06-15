@@ -1,0 +1,30 @@
+{
+  "id": "ch-KuvYvaUcQ5u4oLpkHGOk",
+  "slug": "sanigas-sarl-satigny",
+  "name": "SANIGAS SARL",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Rte du Bois-de-Bay 105",
+    "plz": "1242",
+    "ort": "Satigny",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41227538978",
+    "email": "info@sanigas.ch",
+    "webseite": "https://www.sanigas.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

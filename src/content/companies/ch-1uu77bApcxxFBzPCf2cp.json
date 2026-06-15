@@ -1,0 +1,30 @@
+{
+  "id": "ch-1uu77bApcxxFBzPCf2cp",
+  "slug": "rueegg-haustechnik-gmbh-baar",
+  "name": "Rüegg Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Langgasse 3",
+    "plz": "6340",
+    "ort": "Baar",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417550044",
+    "email": "service@rueegg-haustechnik.ch",
+    "webseite": "https://rueegg-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

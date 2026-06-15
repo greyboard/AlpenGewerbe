@@ -1,0 +1,30 @@
+{
+  "id": "ch-SoMPk7vrk0Aed37AJ0TM",
+  "slug": "elektro-huwyler-ag-kaegiswil",
+  "name": "Elektro Huwyler AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Kanalstrasse 10",
+    "plz": "6056",
+    "ort": "Kägiswil",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416663070",
+    "email": "info@elektro-huwyler.ch",
+    "webseite": "https://www.elektro-huwyler.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

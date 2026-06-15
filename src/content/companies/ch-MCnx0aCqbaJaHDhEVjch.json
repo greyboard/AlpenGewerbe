@@ -1,0 +1,30 @@
+{
+  "id": "ch-MCnx0aCqbaJaHDhEVjch",
+  "slug": "maler-angelini-ag-solothurn",
+  "name": "Maler Angelini AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Herrenweg 50a",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326226247",
+    "email": "info@maler-angelini.ch",
+    "webseite": "https://www.maler-angelini.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

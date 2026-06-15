@@ -1,0 +1,29 @@
+{
+  "id": "li-8A8UnkwjyRWZQOWNGS6T",
+  "slug": "batliner-thomas-anstalt-eschen",
+  "name": "Batliner Thomas Anstalt",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Wirtschaftspark 46",
+    "plz": "9492",
+    "ort": "Eschen",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+4233758900",
+    "email": "info@bta.li",
+    "webseite": "https://www.bta.li/home"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

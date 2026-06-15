@@ -1,0 +1,30 @@
+{
+  "id": "ch-nm2J31kCiU3NXTBuhI5R",
+  "slug": "haller-gipser-gmbh-jegenstorf",
+  "name": "Haller Gipser GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 29",
+    "plz": "3303",
+    "ort": "Jegenstorf",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41793785643",
+    "email": "info@hallergipser.ch",
+    "webseite": "https://hallergipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

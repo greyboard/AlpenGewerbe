@@ -1,0 +1,30 @@
+{
+  "id": "ch-3N4v7wLLnTuGul0UdJJ9",
+  "slug": "botanic-garden-st-gallen-st-gallen",
+  "name": "Botanic Garden St. Gallen",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Stephanshornstrasse 4",
+    "plz": "9016",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712244514",
+    "email": "info@stadt.sg.ch",
+    "webseite": "https://www.stadt.sg.ch/home/freizeit-tourismus/gaerten-parks/botanischer-garten.html"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

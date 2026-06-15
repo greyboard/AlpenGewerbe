@@ -1,0 +1,30 @@
+{
+  "id": "ch-TttIPPjhIfzLwtXrE1Zn",
+  "slug": "malerei-d-errico-gmbh-appenzell",
+  "name": "Malerei D'Errico GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Rütistrasse 14",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786653100",
+    "email": "info@malerei-derrico.ch",
+    "webseite": "https://malerei-derrico.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

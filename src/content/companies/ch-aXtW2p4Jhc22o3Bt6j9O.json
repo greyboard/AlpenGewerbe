@@ -1,0 +1,30 @@
+{
+  "id": "ch-aXtW2p4Jhc22o3Bt6j9O",
+  "slug": "watts-electricite-sa-geneve",
+  "name": "Watts Electricité SA",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue de Bourgogne 23",
+    "plz": "1203",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223432232",
+    "email": "contact@wattselectricite.ch",
+    "webseite": "https://www.wattselectricite.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

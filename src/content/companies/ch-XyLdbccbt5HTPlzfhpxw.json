@@ -1,0 +1,30 @@
+{
+  "id": "ch-XyLdbccbt5HTPlzfhpxw",
+  "slug": "imbach-malergeschaeft-ag-riehen",
+  "name": "Imbach Malergeschäft AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Grenzacherweg 127",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616011808",
+    "email": "office@imbachmaler.ch",
+    "webseite": "https://www.imbachmaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

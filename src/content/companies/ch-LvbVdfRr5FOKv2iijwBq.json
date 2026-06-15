@@ -1,0 +1,30 @@
+{
+  "id": "ch-LvbVdfRr5FOKv2iijwBq",
+  "slug": "wallimann-bauservice-sarnen",
+  "name": "Wallimann Bauservice",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Bitzighoferstrasse 8",
+    "plz": "6060",
+    "ort": "Sarnen",
+    "kanton": "Obwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796708627",
+    "email": "info@wallimann-bauservice.ch",
+    "webseite": "https://www.wallimann-bauservice.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

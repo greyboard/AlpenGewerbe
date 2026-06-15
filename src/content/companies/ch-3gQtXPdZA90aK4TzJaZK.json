@@ -1,0 +1,30 @@
+{
+  "id": "ch-3gQtXPdZA90aK4TzJaZK",
+  "slug": "glas-huber-lenzburg-staufen",
+  "name": "GLAS HUBER Lenzburg",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Zopfgasse 12",
+    "plz": "5603",
+    "ort": "Staufen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628911521",
+    "email": "info@glashuber.ch",
+    "webseite": "https://www.glashuber.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

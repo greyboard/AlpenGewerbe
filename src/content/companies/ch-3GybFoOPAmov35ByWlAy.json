@@ -1,0 +1,30 @@
+{
+  "id": "ch-3GybFoOPAmov35ByWlAy",
+  "slug": "gujan-gartenbau-ag-flims-dorf",
+  "name": "Gujan Gartenbau AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Via Punt la Reisga 3",
+    "plz": "7017",
+    "ort": "Flims Dorf",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41815300255",
+    "email": "info@gujan-gartenbau.ch",
+    "webseite": "https://www.gujan-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

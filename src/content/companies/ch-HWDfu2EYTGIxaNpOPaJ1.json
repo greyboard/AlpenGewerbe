@@ -1,0 +1,30 @@
+{
+  "id": "ch-HWDfu2EYTGIxaNpOPaJ1",
+  "slug": "frischknecht-garten-gmbh-speicher",
+  "name": "Frischknecht Garten GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Kohlhalden 72",
+    "plz": "9042",
+    "ort": "Speicher",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786858277",
+    "email": "info@frischknecht-garten.ch",
+    "webseite": "https://www.frischknecht-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

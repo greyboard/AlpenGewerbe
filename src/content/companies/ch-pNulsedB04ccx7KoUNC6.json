@@ -1,0 +1,30 @@
+{
+  "id": "ch-pNulsedB04ccx7KoUNC6",
+  "slug": "farbwelten-balla-gmbh-zug",
+  "name": "Farbwelten Balla GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Grafenaustrasse 11",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41768142338",
+    "email": "info@maler-farbweltenballa.ch",
+    "webseite": "https://www.maler-farbweltenballa.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

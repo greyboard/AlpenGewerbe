@@ -1,0 +1,30 @@
+{
+  "id": "ch-xj8Q3bFDzlHeeyxoAd4E",
+  "slug": "perren-haustechnik-ag-zermatt",
+  "name": "Perren Haustechnik AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Sunneggastrasse 5",
+    "plz": "3920",
+    "ort": "Zermatt",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279672024",
+    "email": "zermattkontakt@perren-haustechnik.ch",
+    "webseite": "https://www.perren-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

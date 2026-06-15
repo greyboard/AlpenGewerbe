@@ -1,0 +1,30 @@
+{
+  "id": "ch-lrDR8CKHmu1aS6LVKT19",
+  "slug": "rea-heizungen-rohr",
+  "name": "REA Heizungen",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Hinterdorfstrasse 8",
+    "plz": "5032",
+    "ort": "Rohr",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628245250",
+    "email": "rea.heizungen@bluewin.ch",
+    "webseite": "https://www.rea-heizungen.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

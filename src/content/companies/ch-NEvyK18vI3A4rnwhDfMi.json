@@ -1,0 +1,30 @@
+{
+  "id": "ch-NEvyK18vI3A4rnwhDfMi",
+  "slug": "geba-service-ag-basel",
+  "name": "Geba Service AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Malzgasse 26",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612729565",
+    "email": "info@geba-service.ch",
+    "webseite": "https://geba-service.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-pkGdvOzOWMEFsk5YNht7",
+  "slug": "schafer-yves-sa-fribourg",
+  "name": "Schafer Yves SA",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rte du Stadtberg 1",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41264814740",
+    "email": "info@yves-schafer.ch",
+    "webseite": "https://www.yves-schafer.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

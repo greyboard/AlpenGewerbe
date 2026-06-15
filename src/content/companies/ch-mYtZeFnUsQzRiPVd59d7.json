@@ -1,0 +1,30 @@
+{
+  "id": "ch-mYtZeFnUsQzRiPVd59d7",
+  "slug": "hesi-sanitaer-ag-schaffhausen",
+  "name": "Hesi Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Herblingerstrasse 10",
+    "plz": "8207",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526401900",
+    "email": "info@hesiag.ch",
+    "webseite": "https://www.hesiag.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

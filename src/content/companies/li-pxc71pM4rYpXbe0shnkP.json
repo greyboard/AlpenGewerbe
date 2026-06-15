@@ -1,0 +1,29 @@
+{
+  "id": "li-pxc71pM4rYpXbe0shnkP",
+  "slug": "malergeschaeft-mark-frommelt-ruggell",
+  "name": "Malergeschäft Mark Frommelt",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Lettenstrasse 38",
+    "plz": "9491",
+    "ort": "Ruggell",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+41788536508",
+    "email": "info@mafro.li",
+    "webseite": "https://mafro.li"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

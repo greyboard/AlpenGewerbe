@@ -1,0 +1,30 @@
+{
+  "id": "ch-S2fcMLvOzDe3lbgpEsAv",
+  "slug": "elektro-lattmann-ag-graenichen",
+  "name": "Elektro Lattmann AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Vorstadtstrasse 3",
+    "plz": "5722",
+    "ort": "Gränichen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628423333",
+    "email": "info@lattmannag.ch",
+    "webseite": "https://www.lattmannag.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

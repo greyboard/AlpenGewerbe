@@ -1,0 +1,30 @@
+{
+  "id": "ch-d7PsUro1NNvPcDcDVUYu",
+  "slug": "glasdesign-bern-bern",
+  "name": "GLASDESIGN Bern",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Felsenaustrasse 17",
+    "plz": "3004",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313217503",
+    "email": "glasdesign@bern.ch",
+    "webseite": "https://glasdesignbern.ch/kontakt"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

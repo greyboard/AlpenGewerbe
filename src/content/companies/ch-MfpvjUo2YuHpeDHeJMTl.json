@@ -1,0 +1,30 @@
+{
+  "id": "ch-MfpvjUo2YuHpeDHeJMTl",
+  "slug": "babo-group-gmbh-luzern",
+  "name": "BABO Group GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Matthofring 60",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797790707",
+    "email": "info@babo-group.ch",
+    "webseite": "https://www.babo-group.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

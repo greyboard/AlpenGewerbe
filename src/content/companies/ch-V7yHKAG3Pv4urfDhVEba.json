@@ -1,0 +1,30 @@
+{
+  "id": "ch-V7yHKAG3Pv4urfDhVEba",
+  "slug": "maler-walser-ag-chur",
+  "name": "Maler Walser AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 17a",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812846776",
+    "email": "info@walsermaler.ch",
+    "webseite": "https://www.walsermaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

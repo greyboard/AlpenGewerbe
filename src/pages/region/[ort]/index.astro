@@ -1,0 +1,146 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import CompanyCard from '../../../components/CompanyCard.astro';
+
+function toSlug(str: string) {
+  return str.trim().toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+export async function getStaticPaths() {
+  const companies = await getCollection('companies');
+
+  function toSlug(str: string) {
+    return str.trim().toLowerCase()
+      .normalize('NFD').replace(/[̀-ͯ]/g, '')
+      .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
+      .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  }
+
+  const ortMap = new Map<string, {
+    label: string; land: 'CH' | 'LI';
+    entries: typeof companies[0]['data'][];
+  }>();
+
+  for (const entry of companies) {
+    const ort  = entry.data.adresse.ort?.trim();
+    const land = entry.data.adresse.land;
+    if (!ort) continue;
+    const slug = toSlug(ort);
+    const prev = ortMap.get(slug);
+    if (prev) prev.entries.push(entry.data);
+    else ortMap.set(slug, { label: ort, land, entries: [entry.data] });
+  }
+
+  const allCH = companies.filter(e => e.data.adresse.land === 'CH').map(e => e.data);
+
+  const paths = [...ortMap.entries()].map(([ort, { label, land, entries }]) => ({
+    params: { ort },
+    props:  { ortLabel: label, ortSlug: ort, land, companies: entries },
+  }));
+
+  paths.push({
+    params: { ort: 'schweiz' },
+    props:  { ortLabel: 'Schweiz', ortSlug: 'schweiz', land: 'CH' as const, companies: allCH },
+  });
+
+  return paths;
+}
+
+const { ortLabel, ortSlug, land, companies } = Astro.props;
+
+const branchenCount = new Map<string, number>();
+for (const c of companies) {
+  for (const b of c.branchen) {
+    branchenCount.set(b, (branchenCount.get(b) ?? 0) + 1);
+  }
+}
+const topBranchen = [...branchenCount.entries()].sort((a, b) => b[1] - a[1]);
+const isSchweizOverview = ortLabel === 'Schweiz';
+---
+
+<BaseLayout
+  title={`Handwerker in ${ortLabel} – AlpenGewerbe`}
+  description={`${companies.length} Handwerksbetriebe in ${ortLabel}. Schreiner, Elektriker, Maler und mehr auf AlpenGewerbe.`}
+>
+  <nav class="bg-(--color-surface) border-b border-(--color-border)" aria-label="Breadcrumb">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
+      <ol class="flex items-center gap-1.5 text-sm text-(--color-text-muted)">
+        <li><a href="/" class="hover:text-(--color-primary) transition-colors">AlpenGewerbe</a></li>
+        <li aria-hidden="true">›</li>
+        <li class="text-(--color-text) font-medium">{ortLabel}</li>
+      </ol>
+    </div>
+  </nav>
+
+  <section class="bg-(--color-section-dark) text-white py-12 lg:py-16">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center gap-3 mb-3">
+        <span class="text-3xl">{land === 'LI' ? '🇱🇮' : '🇨🇭'}</span>
+        <h1 class="text-white">Handwerker in {ortLabel}</h1>
+      </div>
+      <p class="text-white/70 text-lg max-w-xl">
+        {companies.length} {companies.length === 1 ? 'Betrieb' : 'Betriebe'} in {isSchweizOverview ? 'der ganzen Schweiz' : ortLabel}.
+      </p>
+      {topBranchen.length > 0 && (
+        <div class="flex flex-wrap gap-2 mt-5">
+          {topBranchen.slice(0, 6).map(([branche, count]) => (
+            <a href={`/region/${ortSlug}/${branche}/`}
+               class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 text-white/80
+                      text-sm font-medium hover:bg-white/20 transition-colors capitalize">
+              {branche}
+              <span class="text-white/50 text-xs">{count}</span>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+
+  {topBranchen.length > 1 && (
+    <section class="bg-(--color-surface-alt) border-b border-(--color-border) py-4">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        <p class="text-xs font-semibold text-(--color-text-muted) uppercase tracking-wider mb-2">Nach Branche filtern</p>
+        <div class="flex flex-wrap gap-2">
+          {topBranchen.map(([branche, count]) => (
+            <a href={`/region/${ortSlug}/${branche}/`}
+               class="px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-(--color-border)
+                      text-(--color-text) hover:border-(--color-primary) hover:text-(--color-primary) transition-colors capitalize">
+              {branche} <span class="text-(--color-text-muted) text-xs">({count})</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="py-10 lg:py-14 bg-[#F9FAFB]">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      {companies.length > 0 ? (
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
+          {companies.map((company) => (
+            <div class="animate-on-scroll">
+              <CompanyCard
+                name={company.name}
+                slug={company.slug}
+                branchen={company.branchen}
+                ort={company.adresse.ort}
+                plz={company.adresse.plz}
+                land={company.adresse.land}
+                rating={company.ratingCached?.rating}
+                reviewCount={company.ratingCached?.user_ratings_total}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p class="text-(--color-text-muted) text-center py-16">
+          Noch keine Betriebe in {ortLabel} eingetragen.
+        </p>
+      )}
+    </div>
+  </section>
+</BaseLayout>

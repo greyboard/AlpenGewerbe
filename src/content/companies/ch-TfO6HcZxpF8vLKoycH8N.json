@@ -1,0 +1,30 @@
+{
+  "id": "ch-TfO6HcZxpF8vLKoycH8N",
+  "slug": "dinkel-garten-ag-aarau",
+  "name": "Dinkel Garten AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Gysulastrasse 25",
+    "plz": "5000",
+    "ort": "Aarau",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628241414",
+    "email": "info@dinkel-garten.ch",
+    "webseite": "https://www.dinkel-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

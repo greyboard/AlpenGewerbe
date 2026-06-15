@@ -1,0 +1,30 @@
+{
+  "id": "ch-ym7TMqvr5xXnMgZ2v1qz",
+  "slug": "gilles-kaelin-der-handwerker-horw",
+  "name": "Gilles Kälin der Handwerker",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Brändiweg 16",
+    "plz": "6048",
+    "ort": "Horw",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415207389",
+    "email": "kontakt@gk-handwerker.ch",
+    "webseite": "https://www.gk-handwerker.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

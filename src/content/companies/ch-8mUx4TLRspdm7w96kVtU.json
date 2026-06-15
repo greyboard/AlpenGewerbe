@@ -1,0 +1,30 @@
+{
+  "id": "ch-8mUx4TLRspdm7w96kVtU",
+  "slug": "febatec-gmbh-visp",
+  "name": "Febatec GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Torweg 20",
+    "plz": "3930",
+    "ort": "Visp",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41332253080",
+    "email": "info@febatec.ch",
+    "webseite": "https://www.febatec.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

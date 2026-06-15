@@ -1,0 +1,30 @@
+{
+  "id": "ch-Qy52Lafza4hfxB34NmIb",
+  "slug": "kisling-haustechnik-gmbh-eichberg",
+  "name": "Kisling Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Oberaustrasse 9",
+    "plz": "9453",
+    "ort": "Eichberg",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717556940",
+    "email": "m.kisling@kisling-haustechnik.ch",
+    "webseite": "https://www.kisling-haustechnik.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

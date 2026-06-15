@@ -1,0 +1,30 @@
+{
+  "id": "ch-4Q7jWkBFQTLAt95xJ4no",
+  "slug": "am-metallbau-gmbh-emmen",
+  "name": "AM Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Neuenkirchstrasse 18e",
+    "plz": "6020",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412806421",
+    "email": "info@am-metallbau.ch",
+    "webseite": "https://am-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

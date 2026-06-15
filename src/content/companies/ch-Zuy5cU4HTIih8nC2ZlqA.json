@@ -1,0 +1,30 @@
+{
+  "id": "ch-Zuy5cU4HTIih8nC2ZlqA",
+  "slug": "appenzeller-holzbau-appenzell",
+  "name": "Appenzeller Holzbau",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Rosenböhleli 6",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717801810",
+    "email": "info@a-holzbau.ch",
+    "webseite": "https://www.a-holzbau.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

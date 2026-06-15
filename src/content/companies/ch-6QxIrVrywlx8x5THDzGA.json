@@ -1,0 +1,30 @@
+{
+  "id": "ch-6QxIrVrywlx8x5THDzGA",
+  "slug": "menuiserie-chez-toni-geneve",
+  "name": "Menuiserie chez Toni",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Av. de Châtelaine 43",
+    "plz": "1203",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41795036936",
+    "email": "info@menuiserietoni.ch",
+    "webseite": "https://www.menuiserietoni.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

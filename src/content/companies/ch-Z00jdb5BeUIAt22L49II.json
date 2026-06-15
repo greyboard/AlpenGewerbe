@@ -1,0 +1,30 @@
+{
+  "id": "ch-Z00jdb5BeUIAt22L49II",
+  "slug": "hoesli-schwanden",
+  "name": "Hösli",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Linthweg 1",
+    "plz": "8762",
+    "ort": "Schwanden",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556441006",
+    "email": "stefan@hoesli.swiss",
+    "webseite": "https://hoesli.swiss"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

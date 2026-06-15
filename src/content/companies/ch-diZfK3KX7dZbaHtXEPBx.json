@@ -1,0 +1,30 @@
+{
+  "id": "ch-diZfK3KX7dZbaHtXEPBx",
+  "slug": "elektro-ferrari-ag-solothurn",
+  "name": "Elektro Ferrari AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bielstrasse 117",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326223545",
+    "email": "info@elektro-ferrari.ch",
+    "webseite": "https://www.elektro-ferrari.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

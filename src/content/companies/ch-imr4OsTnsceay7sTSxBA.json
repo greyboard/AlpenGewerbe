@@ -1,0 +1,30 @@
+{
+  "id": "ch-imr4OsTnsceay7sTSxBA",
+  "slug": "electro-engineering-jovic-gmbh-solothurn",
+  "name": "Electro Engineering Jovic GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Gibelinstrasse 27",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326722233",
+    "email": "info@electro-jovic.ch",
+    "webseite": "https://www.electro-jovic.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

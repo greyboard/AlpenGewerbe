@@ -1,0 +1,30 @@
+{
+  "id": "ch-6hqhIjvtB6brFr1PT0Du",
+  "slug": "hubschmied-ag-murten",
+  "name": "Hubschmied AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Oberes Neugut 2",
+    "plz": "3280",
+    "ort": "Murten",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41266703041",
+    "email": "thomas.hubschmied@hubschmied-ag.ch",
+    "webseite": "https://www.hubschmied-ag.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

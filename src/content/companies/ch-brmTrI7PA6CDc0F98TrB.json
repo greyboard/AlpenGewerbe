@@ -1,0 +1,30 @@
+{
+  "id": "ch-brmTrI7PA6CDc0F98TrB",
+  "slug": "ennetsee-schreinerei-ag-cham",
+  "name": "Ennetsee-Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Werkstattgasse 2",
+    "plz": "6330",
+    "ort": "Cham",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417806324",
+    "email": "info@ennetsee-schreinerei.ch",
+    "webseite": "https://www.ennetsee-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

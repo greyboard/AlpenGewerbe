@@ -1,0 +1,30 @@
+{
+  "id": "ch-SkPrxEb4XJ1UcUmWcnaU",
+  "slug": "elektro-pfiffner-ag-zug",
+  "name": "Elektro Pfiffner AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Landhausweg 3",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417202720",
+    "email": "info@elektropfiffner.ch",
+    "webseite": "https://www.elektropfiffner.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-TDggW8wkSijKmTd7nmVN",
+  "slug": "mathis-haustechnik-ag-wolfenschiessen",
+  "name": "Mathis Haustechnik AG",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Oberrickenbachstrasse 10",
+    "plz": "6386",
+    "ort": "Wolfenschiessen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416282130",
+    "email": "info@mathishaustechnik.ch",
+    "webseite": "https://mathishaustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

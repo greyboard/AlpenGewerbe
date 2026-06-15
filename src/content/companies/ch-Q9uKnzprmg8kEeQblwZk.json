@@ -1,0 +1,30 @@
+{
+  "id": "ch-Q9uKnzprmg8kEeQblwZk",
+  "slug": "die-farben-profis-gmbh-luzern",
+  "name": "Die Farben Profis GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte 30",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786412515",
+    "email": "info@farben-profis.ch",
+    "webseite": "https://www.farben-profis.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

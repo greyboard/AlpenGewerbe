@@ -1,0 +1,30 @@
+{
+  "id": "ch-jlFWlTcjkAPXeZvVkEdd",
+  "slug": "weibel-sanitaer-luzern",
+  "name": "Weibel Sanitär",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Langensandstrasse 36",
+    "plz": "6005",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413202255",
+    "email": "weibel-sanitaer@bluewin.ch",
+    "webseite": "https://weibel-sanitaer.digitalone.site"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

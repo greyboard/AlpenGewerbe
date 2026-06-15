@@ -1,0 +1,30 @@
+{
+  "id": "ch-3zIqEaP1s86JOYwoILdq",
+  "slug": "glass-mueller-ag-schlieren",
+  "name": "Glass Müller AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Lättenstrasse 31",
+    "plz": "8952",
+    "ort": "Schlieren",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41433360000",
+    "email": "info@glas-mueller.ch",
+    "webseite": "https://www.glas-mueller.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

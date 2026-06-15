@@ -1,0 +1,30 @@
+{
+  "id": "ch-41QM2kTxeL4UCVtWTHY4",
+  "slug": "a-jost-ag-basel",
+  "name": "A. Jost AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Spalenvorstadt 18",
+    "plz": "4051",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612617300",
+    "email": "info@jost-basel.ch",
+    "webseite": "https://www.jost-basel.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

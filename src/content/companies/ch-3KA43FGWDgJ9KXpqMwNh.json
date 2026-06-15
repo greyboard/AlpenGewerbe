@@ -1,0 +1,30 @@
+{
+  "id": "ch-3KA43FGWDgJ9KXpqMwNh",
+  "slug": "glas-mag-ag-zuerich",
+  "name": "Glas MAG AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Glatttalstrasse 140",
+    "plz": "8052",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41445948944",
+    "email": "info@glasmag.ch",
+    "webseite": "https://glasmag.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

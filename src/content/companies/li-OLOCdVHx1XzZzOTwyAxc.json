@@ -1,0 +1,29 @@
+{
+  "id": "li-OLOCdVHx1XzZzOTwyAxc",
+  "slug": "atelier-allure-ag-vaduz",
+  "name": "Atelier ALLURE AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Landstrasse 98A",
+    "plz": "9490",
+    "ort": "Vaduz",
+    "land": "LI"
+  },
+  "kontakt": {
+    "telefon": "+41786980223",
+    "email": "info@allure.li",
+    "webseite": "https://www.atelier-allure.li"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

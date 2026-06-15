@@ -1,0 +1,30 @@
+{
+  "id": "ch-UhYnqdtb1PeZ5Dlj9hlm",
+  "slug": "elektro-wild-barmettler-ag-oberdorf",
+  "name": "Elektro Wild + Barmettler AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Aawasserstrasse 3",
+    "plz": "6370",
+    "ort": "Oberdorf",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416120260",
+    "email": "info@wildbarmettler.ch",
+    "webseite": "https://www.wildbarmettler.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

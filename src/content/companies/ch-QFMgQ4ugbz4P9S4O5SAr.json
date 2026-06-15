@@ -1,0 +1,30 @@
+{
+  "id": "ch-QFMgQ4ugbz4P9S4O5SAr",
+  "slug": "bau-garten-bettler-gstaad",
+  "name": "Bau-Garten Bettler",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Oldenhornstrasse 53",
+    "plz": "3780",
+    "ort": "Gstaad",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794416787",
+    "email": "info@bau-garten.ch",
+    "webseite": "https://www.bau-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

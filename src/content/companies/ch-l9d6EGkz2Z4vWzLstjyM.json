@@ -1,0 +1,30 @@
+{
+  "id": "ch-l9d6EGkz2Z4vWzLstjyM",
+  "slug": "marti-ag-basel-basel",
+  "name": "Marti AG Basel",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Güterstrasse 88",
+    "plz": "4053",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41612792100",
+    "email": "gruppe.basel@martiag.ch",
+    "webseite": "https://www.marti-basel.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

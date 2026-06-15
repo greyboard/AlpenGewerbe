@@ -1,0 +1,30 @@
+{
+  "id": "ch-Z5J8z6dyRcZaFYWmJG7T",
+  "slug": "rosengarten-bern-bern",
+  "name": "Rosengarten Bern",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Alter Aargauerstalden 31B",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313214007",
+    "email": "einwohnerdienste@bern.ch",
+    "webseite": "https://www.bern.ch/themen/freizeit-und-sport/grunanlagen/wichtige-parkanlagen/rosengarten"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

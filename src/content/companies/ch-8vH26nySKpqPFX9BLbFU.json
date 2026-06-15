@@ -1,0 +1,30 @@
+{
+  "id": "ch-8vH26nySKpqPFX9BLbFU",
+  "slug": "frabetti-metallbau-ag-brig-glis",
+  "name": "Frabetti Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Schinerstrasse 40",
+    "plz": "3900",
+    "ort": "Brig-Glis",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279243430",
+    "email": "info@frabetti.ch",
+    "webseite": "https://www.frabetti.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

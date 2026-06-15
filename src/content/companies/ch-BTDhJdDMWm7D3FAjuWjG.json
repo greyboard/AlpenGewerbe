@@ -1,0 +1,30 @@
+{
+  "id": "ch-BTDhJdDMWm7D3FAjuWjG",
+  "slug": "heierli-ag-buehler",
+  "name": "Heierli AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Austrasse 10",
+    "plz": "9055",
+    "ort": "Bühler",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713333040",
+    "email": "christian.heierli@heierli-zimmerei.ch",
+    "webseite": "https://www.heierli-zimmerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

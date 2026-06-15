@@ -1,0 +1,30 @@
+{
+  "id": "ch-bkMvweoegtA52xTfwyQ3",
+  "slug": "meister-sanitaer-spenglerei-ag-muttenz",
+  "name": "Meister Sanitär + Spenglerei AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Herrenmattstrasse 24",
+    "plz": "4132",
+    "ort": "Muttenz",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614668080",
+    "email": "info@meister-sanitaer.ch",
+    "webseite": "https://www.meister-sanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

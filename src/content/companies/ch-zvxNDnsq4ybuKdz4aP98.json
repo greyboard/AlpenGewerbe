@@ -1,0 +1,30 @@
+{
+  "id": "ch-zvxNDnsq4ybuKdz4aP98",
+  "slug": "grob-schreinerei-ag-frauenfeld",
+  "name": "Grob Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Schaffhauserstrasse 115",
+    "plz": "8500",
+    "ort": "Frauenfeld",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41527207950",
+    "email": "info@grob-schreinerei.ch",
+    "webseite": "https://grob-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

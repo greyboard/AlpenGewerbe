@@ -1,0 +1,30 @@
+{
+  "id": "ch-VCl8oLZxhLW9etOSLqPu",
+  "slug": "speck-schreinerei-oberwil-bei-zug",
+  "name": "Speck Schreinerei",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Artherstrasse 120",
+    "plz": "6317",
+    "ort": "Oberwil bei Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417110837",
+    "email": "info@speck-schreinerei.ch",
+    "webseite": "https://www.speck-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

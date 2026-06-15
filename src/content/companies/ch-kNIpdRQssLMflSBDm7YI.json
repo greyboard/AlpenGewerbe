@@ -1,0 +1,30 @@
+{
+  "id": "ch-kNIpdRQssLMflSBDm7YI",
+  "slug": "torre-idrotecnica-sagl-biasca",
+  "name": "Torre Idrotecnica Sagl",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Via Chiasso 19",
+    "plz": "6710",
+    "ort": "Biasca",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41918621861",
+    "email": "carmelotorre@bluewin.ch",
+    "webseite": "https://www.torreidrotecnica.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

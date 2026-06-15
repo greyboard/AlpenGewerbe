@@ -1,0 +1,30 @@
+{
+  "id": "ch-ABHNELFhq0sJNBwn5WAZ",
+  "slug": "dein-projekt-und-ich-pool-u-gartenbau-riehen",
+  "name": "Dein Projekt und Ich Pool u.Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Grenzacherweg 207",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615258182",
+    "email": "kontakt@deinprojektbasel.ch",
+    "webseite": "https://www.deinprojektbasel.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

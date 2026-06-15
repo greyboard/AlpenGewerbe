@@ -1,0 +1,30 @@
+{
+  "id": "ch-lrSlvJO1m7Y3PhGUKKH2",
+  "slug": "d-aurelio-gipsergeschaeft-gmbh-netstal",
+  "name": "D'Aurelio Gipsergeschäft GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Bruggli 3",
+    "plz": "8754",
+    "ort": "Netstal",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798381187",
+    "email": "info@daurelio-gipser.ch",
+    "webseite": "https://daurelio-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-yu6gaXh3zYDrcgXGftHD",
+  "slug": "werder-schreinerei-ag-waengi",
+  "name": "Werder Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Brühlstrasse 7",
+    "plz": "9545",
+    "ort": "Wängi",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41523695000",
+    "email": "info@werder.swiss",
+    "webseite": "https://www.werder.swiss"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-NnsJyQL2qgOhfIjGb5R2",
+  "slug": "am-dach-bau-systeme-gmbh-birsfelden",
+  "name": "AM Dach-Bau Systeme GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Langenhagstrasse 20",
+    "plz": "4127",
+    "ort": "Birsfelden",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613217787",
+    "email": "info@am-dachbau.ch",
+    "webseite": "https://am-dachbau.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

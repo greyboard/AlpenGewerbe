@@ -1,0 +1,30 @@
+{
+  "id": "ch-6ymXKwRTSMoxf2luDxV9",
+  "slug": "farbenkoenig-gmbh-reinach",
+  "name": "Farbenkönig GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Nenzlingerweg 2",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41614615057",
+    "email": "info@farbenkoenig.ch",
+    "webseite": "https://www.farbenkoenig.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

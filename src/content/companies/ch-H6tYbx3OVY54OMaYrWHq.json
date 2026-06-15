@@ -1,0 +1,30 @@
+{
+  "id": "ch-H6tYbx3OVY54OMaYrWHq",
+  "slug": "riva-bau-ag-buochs",
+  "name": "RIVA BAU AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Faden 5",
+    "plz": "6374",
+    "ort": "Buochs",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416244007",
+    "email": "info@rivabau.ch",
+    "webseite": "https://www.rivabau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

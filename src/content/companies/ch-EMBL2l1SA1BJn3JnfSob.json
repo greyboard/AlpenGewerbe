@@ -1,0 +1,30 @@
+{
+  "id": "ch-EMBL2l1SA1BJn3JnfSob",
+  "slug": "maler-gipser-steiner-meinisberg",
+  "name": "Maler Gipser Steiner",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Käsereiweg 3",
+    "plz": "2554",
+    "ort": "Meinisberg",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323552775",
+    "email": "malgisteiner@bluewin.ch",
+    "webseite": "https://www.malergipsersteiner.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

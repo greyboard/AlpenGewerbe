@@ -1,0 +1,30 @@
+{
+  "id": "ch-kjmWmPeqk0FOC7CQ9lUb",
+  "slug": "braedaex-gmbh-gonten",
+  "name": "Brädäx GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Hüttenstrasse 2",
+    "plz": "9108",
+    "ort": "Gonten",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717878585",
+    "email": "info@braedaex.ch",
+    "webseite": "https://braedaex.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

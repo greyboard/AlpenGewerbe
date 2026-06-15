@@ -1,0 +1,30 @@
+{
+  "id": "ch-IuPytDzADObM6R8TPbrx",
+  "slug": "elektro-erti-ag-bern",
+  "name": "Elektro ERTI AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Papiermühlestrasse 11",
+    "plz": "3013",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313321818",
+    "email": "info@erti.ch",
+    "webseite": "https://erti.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

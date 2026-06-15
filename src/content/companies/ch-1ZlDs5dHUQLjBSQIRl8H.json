@@ -1,0 +1,30 @@
+{
+  "id": "ch-1ZlDs5dHUQLjBSQIRl8H",
+  "slug": "pasinelli-francesco-sa-locarno",
+  "name": "Pasinelli Francesco SA",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Via Domenico Galli 4",
+    "plz": "6600",
+    "ort": "Locarno",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41917517755",
+    "email": "info@pasinelli.ch",
+    "webseite": "https://www.pasinelli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-yM7DlRbKjZofhnPa0tsz",
+  "slug": "cmzimmermann-sa-begnins",
+  "name": "CMZimmermann SA",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Grand-Rue 1",
+    "plz": "1268",
+    "ort": "Begnins",
+    "kanton": "Waadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41223661317",
+    "email": "info@zimmermannsa.ch",
+    "webseite": "https://www.zimmermannsa.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

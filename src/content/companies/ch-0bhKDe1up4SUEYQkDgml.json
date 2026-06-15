@@ -1,0 +1,30 @@
+{
+  "id": "ch-0bhKDe1up4SUEYQkDgml",
+  "slug": "maler-stuedeli-ag-solothurn",
+  "name": "Maler Stüdeli AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Küngoltstrasse 40",
+    "plz": "4500",
+    "ort": "Solothurn",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326214131",
+    "email": "info@malerstuedeli.ch",
+    "webseite": "https://www.malerstuedeli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

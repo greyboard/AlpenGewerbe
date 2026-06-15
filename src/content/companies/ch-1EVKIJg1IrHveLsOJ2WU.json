@@ -1,0 +1,30 @@
+{
+  "id": "ch-1EVKIJg1IrHveLsOJ2WU",
+  "slug": "mm-keramik-gmbh-goldach",
+  "name": "MM Keramik GmbH",
+  "branchen": [
+    "fliesenleger"
+  ],
+  "adresse": {
+    "strasse": "Laimatstrasse 3",
+    "plz": "9403",
+    "ort": "Goldach",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712803135",
+    "email": "info@mmkeramik.ch",
+    "webseite": "https://www.mmkeramik.ch"
+  },
+  "leistungen": [
+    "Badezimmergestaltung",
+    "Bodenverlegung",
+    "Wandverkleidung",
+    "Terrassen & Aussenanlagen",
+    "Naturstein & Mosaik",
+    "Fugensanierung",
+    "Duschbereich",
+    "Küchenspiegel"
+  ]
+}

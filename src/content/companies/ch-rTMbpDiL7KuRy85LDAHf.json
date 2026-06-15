@@ -1,0 +1,30 @@
+{
+  "id": "ch-rTMbpDiL7KuRy85LDAHf",
+  "slug": "keller-malergeschaeft-gmbh-altendorf",
+  "name": "Keller Malergeschäft GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Talstrasse 26A",
+    "plz": "8852",
+    "ort": "Altendorf",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41554425184",
+    "email": "info@keller-malergeschaeft.ch",
+    "webseite": "https://www.keller-malergeschaeft.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-Qb7lDWX3D8rmy9kt6obB",
+  "slug": "stauber-malergeschaeft-gmbh-schaffhausen",
+  "name": "Stauber Malergeschäft GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Chileweg 7",
+    "plz": "8207",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526434108",
+    "email": "info@stauber-maler.ch",
+    "webseite": "https://www.stauber-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

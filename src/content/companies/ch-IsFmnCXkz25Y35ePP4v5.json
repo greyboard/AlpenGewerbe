@@ -1,0 +1,30 @@
+{
+  "id": "ch-IsFmnCXkz25Y35ePP4v5",
+  "slug": "m-bloch-gipsergeschaeft-grenchen",
+  "name": "M. Bloch Gipsergeschäft",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Bielstrasse 49",
+    "plz": "2540",
+    "ort": "Grenchen",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798227081",
+    "email": "info@mbloch.ch",
+    "webseite": "https://www.mbloch.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

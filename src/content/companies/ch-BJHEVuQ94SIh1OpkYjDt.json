@@ -1,0 +1,30 @@
+{
+  "id": "ch-BJHEVuQ94SIh1OpkYjDt",
+  "slug": "capasso-elektro-gmbh-luzern",
+  "name": "Capasso Elektro GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Grossmatte 30",
+    "plz": "6014",
+    "ort": "Luzern",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412601955",
+    "email": "elektro@capasso.ch",
+    "webseite": "https://www.capasso-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

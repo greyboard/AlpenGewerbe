@@ -1,0 +1,30 @@
+{
+  "id": "ch-nV3fElqvoAd5fGT9PigX",
+  "slug": "schreinerei-haener-niedergoesgen",
+  "name": "Schreinerei Häner",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Erlinsbacherstrasse 25",
+    "plz": "5013",
+    "ort": "Niedergösgen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764724742",
+    "email": "info@schreinerei-haener.ch",
+    "webseite": "https://schreinerei-haener.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

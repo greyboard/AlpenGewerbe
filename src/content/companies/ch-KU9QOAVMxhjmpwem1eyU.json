@@ -1,0 +1,30 @@
+{
+  "id": "ch-KU9QOAVMxhjmpwem1eyU",
+  "slug": "tannobau-ag-sils-im-engadin-segl",
+  "name": "tannobau ag",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Davous Muntatsch 9",
+    "plz": "7514",
+    "ort": "Sils im Engadin/Segl",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41818265954",
+    "email": "info@tannobau.ch",
+    "webseite": "https://www.tannobau.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

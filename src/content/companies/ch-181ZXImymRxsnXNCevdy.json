@@ -1,0 +1,30 @@
+{
+  "id": "ch-181ZXImymRxsnXNCevdy",
+  "slug": "henzi-elektro-ag-bellach",
+  "name": "Henzi Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Lommiswilerstrasse 29B",
+    "plz": "4512",
+    "ort": "Bellach",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41326180410",
+    "email": "info@henzi-elektro.ch",
+    "webseite": "https://www.henzi-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

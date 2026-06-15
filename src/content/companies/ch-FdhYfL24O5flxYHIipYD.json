@@ -1,0 +1,30 @@
+{
+  "id": "ch-FdhYfL24O5flxYHIipYD",
+  "slug": "del-grande-automation-monteggio",
+  "name": "Del Grande Automation",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Boscioro 100",
+    "plz": "6998",
+    "ort": "Monteggio",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765716016",
+    "email": "info@delgrandeautomation.ch",
+    "webseite": "https://delgrandeautomation.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

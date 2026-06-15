@@ -1,0 +1,30 @@
+{
+  "id": "ch-NH4SglZctiffdgAE8Ifa",
+  "slug": "naturgartenbern-koeniz",
+  "name": "NaturGartenBern",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Grünaustrasse 3",
+    "plz": "3084",
+    "ort": "Köniz",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792216197",
+    "email": "m.siegenthaler@naturgartenbern.ch",
+    "webseite": "https://www.naturgartenbern.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

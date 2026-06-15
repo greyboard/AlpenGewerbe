@@ -1,0 +1,30 @@
+{
+  "id": "ch-W0aq6Dxhk0DuJSWMGodl",
+  "slug": "a2-services-gmbh-langendorf",
+  "name": "A2 Services GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Franziskanerstrasse 11",
+    "plz": "4513",
+    "ort": "Langendorf",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41767447355",
+    "email": "info@a2-services.ch",
+    "webseite": "https://www.a2-services.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

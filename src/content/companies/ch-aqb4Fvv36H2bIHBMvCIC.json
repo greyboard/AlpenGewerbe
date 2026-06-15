@@ -1,0 +1,30 @@
+{
+  "id": "ch-aqb4Fvv36H2bIHBMvCIC",
+  "slug": "heinz-baer-ag-elektro-anlagen-zuerich",
+  "name": "Heinz Bär AG Elektro-Anlagen",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Winterthurerstrasse 537",
+    "plz": "8051",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41443222323",
+    "email": "info@baerelektro.ch",
+    "webseite": "https://www.baerelektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

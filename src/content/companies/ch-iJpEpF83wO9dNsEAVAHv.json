@@ -1,0 +1,30 @@
+{
+  "id": "ch-iJpEpF83wO9dNsEAVAHv",
+  "slug": "maler-roli-altdorf",
+  "name": "Maler Roli",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Eygasse 11A",
+    "plz": "6460",
+    "ort": "Altdorf",
+    "kanton": "Uri",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418700980",
+    "email": "info@maler-roli.ch",
+    "webseite": "https://www.maler-roli.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

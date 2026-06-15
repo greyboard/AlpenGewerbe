@@ -1,0 +1,30 @@
+{
+  "id": "ch-xurAW8TQoCg3tRhQj18r",
+  "slug": "elektro-m-c-zurich-ag-zuerich",
+  "name": "Elektro M + C Zurich AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Augustinergasse 52",
+    "plz": "8001",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442221111",
+    "email": "info@elektro-mc.ch",
+    "webseite": "https://www.elektro-mc.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

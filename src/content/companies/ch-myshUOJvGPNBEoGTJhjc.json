@@ -1,0 +1,30 @@
+{
+  "id": "ch-myshUOJvGPNBEoGTJhjc",
+  "slug": "portmann-garten-ag-kaegiswil",
+  "name": "PORTMANN GARTEN AG",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Mittelgasse 5",
+    "plz": "6056",
+    "ort": "Kägiswil",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416665030",
+    "email": "info@portmann-garten.ch",
+    "webseite": "https://www.portmann-garten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-uEyNx6FogGDsGk8lVThK",
+  "slug": "glas-baer-gmbh-oeschgen",
+  "name": "Glas Bär GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Birkenweg 455",
+    "plz": "5072",
+    "ort": "Oeschgen",
+    "kanton": "Aargau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41628710778",
+    "email": "info@glas-baer.ch",
+    "webseite": "https://www.glas-baer.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-zOOmg8zcThi7S9qvru0y",
+  "slug": "gassner-garten-appenzell",
+  "name": "Gassner Garten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Wührestrasse 4",
+    "plz": "9050",
+    "ort": "Appenzell",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41717879080",
+    "email": "support@dachcom.ch",
+    "webseite": "https://www.gassner-ai.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-QGCsLLXeV9CyuVIiLpwk",
+  "slug": "bk-gipsergeschaeft-gmbh-riehen",
+  "name": "BK Gipsergeschäft GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Im Hirshalm 49",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615542525",
+    "email": "info@bk-gipser.ch",
+    "webseite": "https://www.bk-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

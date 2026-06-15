@@ -1,0 +1,30 @@
+{
+  "id": "ch-kkyma5ogrCXp5E86mSMA",
+  "slug": "wezel-holzbau-gmbh-st-gallen",
+  "name": "Wezel Holzbau GmbH",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Moosmühlestrasse 14",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41772098998",
+    "email": "info@wezel-holzbau.ch",
+    "webseite": "https://www.wezel-holzbau.ch"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

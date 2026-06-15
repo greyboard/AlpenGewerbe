@@ -1,0 +1,30 @@
+{
+  "id": "ch-hv6RZP1jB65o9FngJKwh",
+  "slug": "nefa-heizungsbau-gmbh-klima-heizungen-und-sanitaer-basel",
+  "name": "NEFA Heizungsbau GmbH - Klima, Heizungen und Sanitär",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Clarahofweg 23",
+    "plz": "4058",
+    "ort": "Basel",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616818703",
+    "email": "info@nefa-heizungen.ch",
+    "webseite": "https://www.nefa-heizungen.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

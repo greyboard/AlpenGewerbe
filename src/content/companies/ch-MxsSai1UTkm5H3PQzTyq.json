@@ -1,0 +1,30 @@
+{
+  "id": "ch-MxsSai1UTkm5H3PQzTyq",
+  "slug": "wildberger-sanitaer-ag-schaffhausen",
+  "name": "Wildberger Sanitär AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Floraweg 22",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526253367",
+    "email": "info@wildberger-sanitaer.ch",
+    "webseite": "https://wildberger-sanitaer.digitalone.site"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

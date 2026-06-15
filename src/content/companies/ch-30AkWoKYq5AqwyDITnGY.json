@@ -1,0 +1,30 @@
+{
+  "id": "ch-30AkWoKYq5AqwyDITnGY",
+  "slug": "schoenenberger-mueller-ag-gossau",
+  "name": "Schönenberger + Müller AG",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "St. Gallerstrasse 152",
+    "plz": "9200",
+    "ort": "Gossau",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713839001",
+    "email": "wil@schoenenberger-ag.ch",
+    "webseite": "https://www.schoenenbergerag.ch/de/home"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

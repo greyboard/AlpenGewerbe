@@ -1,0 +1,30 @@
+{
+  "id": "ch-1yEiZiw4aKsL1Bonv905",
+  "slug": "eautherm-gebaeudetechnik-bern",
+  "name": "Eautherm Gebäudetechnik",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Galgenfeldweg 9a",
+    "plz": "3006",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41318120303",
+    "email": "20info@eautherm.ch",
+    "webseite": "https://eautherm.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

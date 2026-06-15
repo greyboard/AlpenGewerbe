@@ -1,0 +1,30 @@
+{
+  "id": "ch-XMLRRjsKABfo6Rdb5G2P",
+  "slug": "gebr-guler-gartenbau-ried-brig",
+  "name": "Gebr. Guler Gartenbau",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Moosgarten 20",
+    "plz": "3911",
+    "ort": "Ried-Brig",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41279235756",
+    "email": "info@guler-gartenbau.ch",
+    "webseite": "https://www.guler-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-aU0XONcViMygIHl3aUp6",
+  "slug": "schoenberger-baudienstleistungen-steinen",
+  "name": "Schönberger Baudienstleistungen",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Breitenstrasse 31",
+    "plz": "6422",
+    "ort": "Steinen",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41418550033",
+    "email": "info@schoenbau.swiss",
+    "webseite": "https://schoenbau.swiss"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

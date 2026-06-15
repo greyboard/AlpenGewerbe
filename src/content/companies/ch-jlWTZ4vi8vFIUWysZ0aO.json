@@ -1,0 +1,30 @@
+{
+  "id": "ch-jlWTZ4vi8vFIUWysZ0aO",
+  "slug": "gipsergeschaeft-devittori-emmen",
+  "name": "Gipsergeschäft Devittori",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Im Neuhof 25",
+    "plz": "6020",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412802540",
+    "email": "r.devittori@bluewin.ch",
+    "webseite": "https://gipserdevittori.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-wTCriGWKvGTEynZlNceM",
+  "slug": "gfeller-haustechnik-gmbh-biel",
+  "name": "Gfeller Haustechnik GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Oberer Quai 38C",
+    "plz": "2503",
+    "ort": "Biel",
+    "kanton": "Neuenburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323225866",
+    "email": "info@h-gfeller.ch",
+    "webseite": "https://www.h-gfeller.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

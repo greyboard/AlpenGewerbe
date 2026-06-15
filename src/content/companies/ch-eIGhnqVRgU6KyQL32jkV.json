@@ -1,0 +1,30 @@
+{
+  "id": "ch-eIGhnqVRgU6KyQL32jkV",
+  "slug": "schreinerei-bard-basel-reinach",
+  "name": "Schreinerei Bard Basel",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Römerstrasse 83",
+    "plz": "4153",
+    "ort": "Reinach",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41615064555",
+    "email": "info@schreinereibard-basel.ch",
+    "webseite": "https://www.schreinereibard-basel.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-5HY4UCuMXPjnNR4kSnNm",
+  "slug": "swiss-maler-gmbh-volketswil",
+  "name": "Swiss Maler GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Lindenhof 3",
+    "plz": "8604",
+    "ort": "Volketswil",
+    "kanton": "Jura",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41764511427",
+    "email": "info@swissmaler.ch",
+    "webseite": "https://swissmaler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

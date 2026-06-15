@@ -1,0 +1,30 @@
+{
+  "id": "ch-4QOsAyNOuHQbVNSHdSk7",
+  "slug": "maler-donato-grecuccio-chur",
+  "name": "Maler Donato Grecuccio",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Anemonenweg 25",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41794490739",
+    "email": "info@malerdonato.ch",
+    "webseite": "https://www.malerdonato.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

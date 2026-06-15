@@ -1,0 +1,30 @@
+{
+  "id": "ch-d8tCDR6RIBpObAKSbR06",
+  "slug": "morant-ag-st-gallen",
+  "name": "MORANT AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Rechenstrasse 8",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712742424",
+    "email": "info@morant.ch",
+    "webseite": "https://www.morant.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

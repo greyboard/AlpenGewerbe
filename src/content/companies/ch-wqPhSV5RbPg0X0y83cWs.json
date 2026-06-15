@@ -1,0 +1,30 @@
+{
+  "id": "ch-wqPhSV5RbPg0X0y83cWs",
+  "slug": "von-burg-gartenbau-gmbh-lommiswil",
+  "name": "von Burg Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Römerweg 14",
+    "plz": "4514",
+    "ort": "Lommiswil",
+    "kanton": "Solothurn",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41796131246",
+    "email": "julia.oehm@vonburggartenbau.ch",
+    "webseite": "https://www.vonburggartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

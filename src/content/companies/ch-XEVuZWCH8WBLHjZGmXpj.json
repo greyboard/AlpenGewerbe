@@ -1,0 +1,30 @@
+{
+  "id": "ch-XEVuZWCH8WBLHjZGmXpj",
+  "slug": "dine-sanitaer-gmbh-emmen",
+  "name": "Dine Sanitär GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Neu-Erlen",
+    "plz": "6020",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797970303",
+    "email": "info@dinesanitaer.ch",
+    "webseite": "https://www.dinesanitaer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

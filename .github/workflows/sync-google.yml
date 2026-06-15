@@ -1,0 +1,51 @@
+name: Google Places Sync
+
+on:
+  schedule:
+    # Täglich um 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry-Run (keine Änderungen schreiben)'
+        type: boolean
+        default: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Abhängigkeiten installieren
+        run: npm ci
+
+      - name: Google Places Sync ausführen
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            node scripts/sync-google.js --dry-run
+          else
+            node scripts/sync-google.js
+          fi
+
+      - name: Änderungen committen und pushen
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "Keine Änderungen" && exit 0
+          git add src/content/companies/
+          git commit -m "chore: Google Places Sync $(date -u '+%Y-%m-%d')"
+          git push

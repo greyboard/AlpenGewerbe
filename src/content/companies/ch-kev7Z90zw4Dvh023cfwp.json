@@ -1,0 +1,30 @@
+{
+  "id": "ch-kev7Z90zw4Dvh023cfwp",
+  "slug": "schreinerei-huwyler-ag-steinhausen",
+  "name": "Schreinerei Huwyler AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Hinterbergstrasse 56",
+    "plz": "6312",
+    "ort": "Steinhausen",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417482020",
+    "email": "info@schreinerei-huwyler.ch",
+    "webseite": "https://www.schreinerei-huwyler.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-lvadpXDp08HDDDB5GG5a",
+  "slug": "regio-gipser-gmbh-riehen",
+  "name": "REGIO GIPSER GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Lörracherstrasse 50",
+    "plz": "4125",
+    "ort": "Riehen",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41616911515",
+    "email": "info@regio-gipser.ch",
+    "webseite": "https://www.regio-gipser.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

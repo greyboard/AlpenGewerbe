@@ -1,0 +1,30 @@
+{
+  "id": "ch-q2JFeaozgIxsHUabCPMz",
+  "slug": "schreinerei-addeo-kreuzlingen",
+  "name": "Schreinerei Addeo",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Finkernweg 4",
+    "plz": "8280",
+    "ort": "Kreuzlingen",
+    "kanton": "Thurgau",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41716722882",
+    "email": "info@schreinereiaddeo.ch",
+    "webseite": "https://www.schreinereiaddeo.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

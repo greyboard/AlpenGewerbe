@@ -1,0 +1,30 @@
+{
+  "id": "ch-KwmyTxstZrBp6KciDnMv",
+  "slug": "germann-elektro-ag-feuerthalen",
+  "name": "Germann Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schützenstrasse 59",
+    "plz": "8245",
+    "ort": "Feuerthalen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526592080",
+    "email": "info@germannelektro.ch",
+    "webseite": "https://www.germannelektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

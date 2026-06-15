@@ -1,0 +1,30 @@
+{
+  "id": "ch-enWf1dqkng0PyUlPgl76",
+  "slug": "etter-bedachungen-bern",
+  "name": "Etter Bedachungen",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Felsenaustrasse 21D",
+    "plz": "3004",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313027114",
+    "email": "etterbedachungen@bluewin.ch",
+    "webseite": "https://www.bedachungen-bern.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

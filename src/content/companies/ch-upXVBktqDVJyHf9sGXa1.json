@@ -1,0 +1,30 @@
+{
+  "id": "ch-upXVBktqDVJyHf9sGXa1",
+  "slug": "schreinerei-kuenzle-gossau",
+  "name": "Schreinerei Künzle",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Kirchstrasse 19",
+    "plz": "9200",
+    "ort": "Gossau",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41713857088",
+    "email": "kuenzle.schreinerei@bluewin.ch",
+    "webseite": "https://www.kuenzle-schreinerei.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

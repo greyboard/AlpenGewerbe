@@ -1,0 +1,30 @@
+{
+  "id": "ch-5zL86n4SkjaDyIl3xUgX",
+  "slug": "marti-glas-liestal",
+  "name": "Marti Glas",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 1",
+    "plz": "4410",
+    "ort": "Liestal",
+    "kanton": "Basel-Landschaft",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798858786",
+    "email": "info@marti-glas.ch",
+    "webseite": "https://marti-glas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

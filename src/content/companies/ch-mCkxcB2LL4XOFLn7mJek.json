@@ -1,0 +1,30 @@
+{
+  "id": "ch-mCkxcB2LL4XOFLn7mJek",
+  "slug": "mon-jardin-sarl-grone",
+  "name": "Mon Jardin Sàrl",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Rue de Pramagnon 16",
+    "plz": "3979",
+    "ort": "Grône",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41789432710",
+    "email": "info@monjardin.ch",
+    "webseite": "https://www.monjardin.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

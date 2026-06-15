@@ -1,0 +1,30 @@
+{
+  "id": "ch-nuq370wqOvfuo9ETx5H8",
+  "slug": "gebr-martino-ag-bern",
+  "name": "Gebr. Martino AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Engestrasse 13",
+    "plz": "3012",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41317478940",
+    "email": "info@googplace.ch",
+    "webseite": "https://www.martinoag-bern.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

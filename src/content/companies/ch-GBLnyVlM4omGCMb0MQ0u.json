@@ -1,0 +1,30 @@
+{
+  "id": "ch-GBLnyVlM4omGCMb0MQ0u",
+  "slug": "de-stefani-ag-chur",
+  "name": "De-Stefani AG",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 13",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812846524",
+    "email": "info@de-stefani.ch",
+    "webseite": "https://www.de-stefani.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

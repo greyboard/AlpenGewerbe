@@ -1,0 +1,30 @@
+{
+  "id": "ch-a2Xy9UgUiNUPACM4GAY9",
+  "slug": "gipserei-bajrami-zug",
+  "name": "Gipserei Bajrami",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "An der Lorze 2",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41415305244",
+    "email": "info@gipserei-bajrami.ch",
+    "webseite": "https://www.gipserei-bajrami.ch"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

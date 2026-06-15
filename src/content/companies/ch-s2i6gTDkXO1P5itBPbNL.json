@@ -1,0 +1,30 @@
+{
+  "id": "ch-s2i6gTDkXO1P5itBPbNL",
+  "slug": "maler-menzi-ag-niederurnen",
+  "name": "Maler Menzi AG",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Windeggstrasse 5",
+    "plz": "8867",
+    "ort": "Niederurnen",
+    "kanton": "Glarus",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41556103063",
+    "email": "malermenzi@bluewin.ch",
+    "webseite": "https://www.maler-menzi.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

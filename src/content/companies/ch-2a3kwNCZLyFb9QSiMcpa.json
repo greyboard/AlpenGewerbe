@@ -1,0 +1,30 @@
+{
+  "id": "ch-2a3kwNCZLyFb9QSiMcpa",
+  "slug": "peter-gasser-schreinerei-ag-feuerthalen",
+  "name": "Peter Gasser Schreinerei AG",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Steigstrasse 9",
+    "plz": "8245",
+    "ort": "Feuerthalen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526592377",
+    "email": "peter@gasser-schreinerei.ch",
+    "webseite": "https://www.schreiner4you.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

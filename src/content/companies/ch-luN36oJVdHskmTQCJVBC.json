@@ -1,0 +1,30 @@
+{
+  "id": "ch-luN36oJVdHskmTQCJVBC",
+  "slug": "a-keller-glaserei-ag-bruegg",
+  "name": "A. Keller Glaserei AG",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Erlenstrasse 34",
+    "plz": "2555",
+    "ort": "Brügg",
+    "kanton": "Wallis",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323731566",
+    "email": "webmaster@capnord-design.ch",
+    "webseite": "https://glas-keller.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

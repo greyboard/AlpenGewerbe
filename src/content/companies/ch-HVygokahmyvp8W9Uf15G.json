@@ -1,0 +1,30 @@
+{
+  "id": "ch-HVygokahmyvp8W9Uf15G",
+  "slug": "elektro-joos-ag-thusis",
+  "name": "Elektro Joos AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schützenweg 2",
+    "plz": "7430",
+    "ort": "Thusis",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816501100",
+    "email": "info@jooselektro.ch",
+    "webseite": "https://elektrojoos.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

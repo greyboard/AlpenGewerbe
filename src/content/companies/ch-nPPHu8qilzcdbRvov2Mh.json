@@ -1,0 +1,30 @@
+{
+  "id": "ch-nPPHu8qilzcdbRvov2Mh",
+  "slug": "sem-elec-sarl-fribourg",
+  "name": "Sem-elec Sàrl",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Bd de Pérolles 65A",
+    "plz": "1700",
+    "ort": "Fribourg",
+    "kanton": "Freiburg",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41797903687",
+    "email": "info@sem-elec.ch",
+    "webseite": "https://www.semelec.ch/fr"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

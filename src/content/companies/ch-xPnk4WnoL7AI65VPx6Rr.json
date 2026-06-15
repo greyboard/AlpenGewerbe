@@ -1,0 +1,30 @@
+{
+  "id": "ch-xPnk4WnoL7AI65VPx6Rr",
+  "slug": "samsom-malergeschaeft-zuerich",
+  "name": "Samsom Malergeschäft",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Witellikerstrasse 22",
+    "plz": "8008",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41782130403",
+    "email": "info@samsom-maler.ch",
+    "webseite": "https://samsom-maler.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

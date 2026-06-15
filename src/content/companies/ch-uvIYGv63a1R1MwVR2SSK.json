@@ -1,0 +1,30 @@
+{
+  "id": "ch-uvIYGv63a1R1MwVR2SSK",
+  "slug": "paradiesgaerten-bern",
+  "name": "paradiesgaerten",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Thunstrasse 4",
+    "plz": "3005",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313525262",
+    "email": "info@paradiesgaerten.ch",
+    "webseite": "https://www.paradiesgaerten.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

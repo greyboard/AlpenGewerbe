@@ -1,0 +1,30 @@
+{
+  "id": "ch-1QjoMIIHNpuJ0hxizAgl",
+  "slug": "garten-art-bau-gmbh-inwil",
+  "name": "Garten Art + Bau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Industriestrasse 42",
+    "plz": "6034",
+    "ort": "Inwil",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41792359467",
+    "email": "notter@gartenart.ch",
+    "webseite": "https://www.gartenart.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

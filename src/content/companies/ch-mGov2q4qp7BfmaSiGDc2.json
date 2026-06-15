@@ -1,0 +1,30 @@
+{
+  "id": "ch-mGov2q4qp7BfmaSiGDc2",
+  "slug": "willi-bau-ag-staad",
+  "name": "WILLI BAU AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Steigstrasse 10",
+    "plz": "9422",
+    "ort": "Staad",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41718585888",
+    "email": "info@willibauag.ch",
+    "webseite": "https://www.willibauag.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

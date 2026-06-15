@@ -1,0 +1,30 @@
+{
+  "id": "ch-q2l9a4RMRm5rA4WDtAsh",
+  "slug": "schweizer-glaserei-gmbh-bruegg",
+  "name": "Schweizer Glaserei GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Mattenstrasse 4",
+    "plz": "2555",
+    "ort": "Brügg",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41323721515",
+    "email": "info@schweizer-glaserei.ch",
+    "webseite": "https://www.schweizer-glaserei.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

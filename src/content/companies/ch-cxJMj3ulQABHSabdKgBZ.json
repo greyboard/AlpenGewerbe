@@ -1,0 +1,30 @@
+{
+  "id": "ch-cxJMj3ulQABHSabdKgBZ",
+  "slug": "js-dachbau-gmbh-stein",
+  "name": "JS Dachbau GmbH",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Schachen 1003",
+    "plz": "9063",
+    "ort": "Stein",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41765709063",
+    "email": "info@jsdachbau.ch",
+    "webseite": "https://www.jsdachbau.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

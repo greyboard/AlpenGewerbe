@@ -1,0 +1,30 @@
+{
+  "id": "ch-CEiSOIhXhkoXFWYwEgSB",
+  "slug": "maechler-metallbau-ag-cham",
+  "name": "Mächler Metallbau AG",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Knonauerstrasse 21",
+    "plz": "6330",
+    "ort": "Cham",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417801547",
+    "email": "info@maechler-metallbau.ch",
+    "webseite": "https://www.maechler-metallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

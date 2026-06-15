@@ -1,0 +1,30 @@
+{
+  "id": "ch-u5bO3dkjQ1tMCbGEzjXT",
+  "slug": "elektro-markus-odermatt-gmbh-ennetbuergen",
+  "name": "Elektro Markus Odermatt GmbH",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Herdern 8",
+    "plz": "6373",
+    "ort": "Ennetbürgen",
+    "kanton": "Nidwalden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41416221433",
+    "email": "info@elektroodermatt.ch",
+    "webseite": "https://elektroodermatt.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

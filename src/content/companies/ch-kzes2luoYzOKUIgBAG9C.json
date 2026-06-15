@@ -1,0 +1,30 @@
+{
+  "id": "ch-kzes2luoYzOKUIgBAG9C",
+  "slug": "colak-spenglerei-basel",
+  "name": "Colak Spenglerei",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Redingstrasse 27",
+    "plz": "4052",
+    "ort": "Basel",
+    "kanton": "Basel-Stadt",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41613212646",
+    "email": "info@colak-spenglerei.ch",
+    "webseite": "https://colak-spenglerei.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

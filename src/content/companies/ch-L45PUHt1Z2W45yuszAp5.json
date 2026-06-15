@@ -1,0 +1,30 @@
+{
+  "id": "ch-L45PUHt1Z2W45yuszAp5",
+  "slug": "electra-ag-luzern-adligenswil",
+  "name": "Electra AG Luzern",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Stubenhalde 4",
+    "plz": "6043",
+    "ort": "Adligenswil",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41413606600",
+    "email": "odermatt@electra-luzern.ch",
+    "webseite": "https://www.electra-luzern.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

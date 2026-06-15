@@ -1,0 +1,30 @@
+{
+  "id": "ch-KZOCBoDFbhHJSqJRyKuz",
+  "slug": "elektro-cadruvi-ag-ilanz",
+  "name": "Elektro Cadruvi AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Via Santeri 27",
+    "plz": "7130",
+    "ort": "Ilanz",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41819251933",
+    "email": "kontakt@elektrocadruvi.ch",
+    "webseite": "https://elektrocadruvi.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

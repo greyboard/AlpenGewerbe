@@ -1,0 +1,30 @@
+{
+  "id": "ch-I1WyiSJJXZLb0w4K3sOf",
+  "slug": "kuster-glas-und-holz-gmbh-st-gallen",
+  "name": "Kuster Glas und Holz GmbH",
+  "branchen": [
+    "schreiner"
+  ],
+  "adresse": {
+    "strasse": "Burgstrasse 63",
+    "plz": "9000",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41712781075",
+    "email": "info@glasundholz.ch",
+    "webseite": "https://www.glasundholz.ch"
+  },
+  "leistungen": [
+    "Massivholzmöbel",
+    "Küchenbau",
+    "Einbauschränke",
+    "Fenster & Türen",
+    "Innenausbau",
+    "Treppenbau",
+    "Badmöbel",
+    "Holzreparatur"
+  ]
+}

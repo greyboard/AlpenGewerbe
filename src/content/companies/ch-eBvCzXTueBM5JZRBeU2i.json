@@ -1,0 +1,30 @@
+{
+  "id": "ch-eBvCzXTueBM5JZRBeU2i",
+  "slug": "elektro-meister-ag-schaffhausen",
+  "name": "Elektro Meister AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Schweizersbildstrasse 48",
+    "plz": "8200",
+    "ort": "Schaffhausen",
+    "kanton": "Schaffhausen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41526440707",
+    "email": "l.meister@elektromeister.ch",
+    "webseite": "https://www.elektromeister.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

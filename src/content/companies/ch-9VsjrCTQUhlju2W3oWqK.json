@@ -1,0 +1,30 @@
+{
+  "id": "ch-9VsjrCTQUhlju2W3oWqK",
+  "slug": "bourquin-les-electriciens-geneve",
+  "name": "bourquin les électriciens",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Rue Henri-Blanvalet 21",
+    "plz": "1207",
+    "ort": "Genève",
+    "kanton": "Genf",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41228498333",
+    "email": "info@bourquinelectricite.ch",
+    "webseite": "https://www.bourquinelectricite.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-6Yk0Q9LZBXtBXOS43W3N",
+  "slug": "elektro-zueger-tamins-rhaezuens-ag-rhaezuens",
+  "name": "Elektro Züger Tamins/Rhäzüns AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "V. Nova 23",
+    "plz": "7403",
+    "ort": "Rhäzüns",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41816412526",
+    "email": "tamins@elektrozueger.ch",
+    "webseite": "https://www.elektrozueger.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}

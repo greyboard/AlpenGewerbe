@@ -1,0 +1,30 @@
+{
+  "id": "ch-8D86TiCE4mjpvfJ0zVxZ",
+  "slug": "zimmermann-zurich-zuerich",
+  "name": "ZIMMERMANN Zurich",
+  "branchen": [
+    "zimmermann"
+  ],
+  "adresse": {
+    "strasse": "Augustinergasse 15",
+    "plz": "8001",
+    "ort": "Zürich",
+    "kanton": "Zürich",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41447976618",
+    "email": "clientservices@zimmermann.com",
+    "webseite": "https://www.zimmermann.com"
+  },
+  "leistungen": [
+    "Dachstuhlbau",
+    "Holzriegelbau",
+    "Carport & Pergola",
+    "Holzfassade",
+    "Balkone & Terrassen",
+    "Dachausbau",
+    "Aufstockung",
+    "Umbau & Sanierung"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-CThrSLhzzI0VXjVCOzE1",
+  "slug": "kube-haustechnik-sanitaer-und-heizung-gais",
+  "name": "KUBE HAUSTECHNIK, Sanitär und Heizung",
+  "branchen": [
+    "heizungsbauer"
+  ],
+  "adresse": {
+    "strasse": "Langgasse 57A",
+    "plz": "9056",
+    "ort": "Gais",
+    "kanton": "Appenzell Innerrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41714700213",
+    "email": "info@kubehaustechnik.ch",
+    "webseite": "https://www.kubehaustechnik.ch"
+  },
+  "leistungen": [
+    "Heizungsinstallation",
+    "Wärmepumpe",
+    "Pelletheizung",
+    "Fussbodenheizung",
+    "Heizungssanierung",
+    "Solarthermie",
+    "Gasheizung",
+    "Wartung & Service"
+  ]
+}

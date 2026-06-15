@@ -1,0 +1,30 @@
+{
+  "id": "ch-uCQlI741SkhwbVdOeuFl",
+  "slug": "donada-sa-vezia",
+  "name": "Donada SA",
+  "branchen": [
+    "dachdecker"
+  ],
+  "adresse": {
+    "strasse": "Via al Mulino 4",
+    "plz": "6943",
+    "ort": "Vezia",
+    "kanton": "Tessin",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41919663549",
+    "email": "info@donada.ch",
+    "webseite": "https://donada.ch"
+  },
+  "leistungen": [
+    "Dachsanierung",
+    "Neueindeckung",
+    "Flachdachabdichtung",
+    "Dachfenstereinbau",
+    "Spenglerei",
+    "Dachdämmung",
+    "Photovoltaik-Montage",
+    "Dachrinnenreinigung"
+  ]
+}

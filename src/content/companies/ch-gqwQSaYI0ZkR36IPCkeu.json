@@ -1,0 +1,30 @@
+{
+  "id": "ch-gqwQSaYI0ZkR36IPCkeu",
+  "slug": "casa-bern-gmbh-zollikofen",
+  "name": "Casa Bern GmbH",
+  "branchen": [
+    "gipser"
+  ],
+  "adresse": {
+    "strasse": "Bernstrasse 27a",
+    "plz": "3052",
+    "ort": "Zollikofen",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41315063040",
+    "email": "info@casa-bern.ch",
+    "webseite": "https://casa-bern.jimdosite.com"
+  },
+  "leistungen": [
+    "Verputzarbeiten",
+    "Trockenbau",
+    "Fassadenputz",
+    "Innenputz",
+    "Wärmedämmverbundsystem",
+    "Stuckreparatur",
+    "Deckengestaltung",
+    "Kellerabdichtung"
+  ]
+}

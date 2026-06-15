@@ -1,0 +1,30 @@
+{
+  "id": "ch-bVgsRvBJMhm5CrKT3BAX",
+  "slug": "romer-design-gmbh-zug",
+  "name": "Romer Design GmbH",
+  "branchen": [
+    "maler"
+  ],
+  "adresse": {
+    "strasse": "Sankt-Johannes-Strasse 20",
+    "plz": "6300",
+    "ort": "Zug",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41768444456",
+    "email": "info@romer-design.ch",
+    "webseite": "https://www.romer-design.ch"
+  },
+  "leistungen": [
+    "Innenanstrich",
+    "Aussenanstrich",
+    "Fassadenrenovierung",
+    "Tapezierarbeiten",
+    "Dekorputz",
+    "Holzschutzanstrich",
+    "Farbberatung",
+    "Grafittibeseitigung"
+  ]
+}

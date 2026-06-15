@@ -1,0 +1,30 @@
+{
+  "id": "ch-ahkFK2rqFyaSGYW5jA6x",
+  "slug": "sanitaer-mittelholzer-gmbh-gonten",
+  "name": "Sanitär Mittelholzer GmbH",
+  "branchen": [
+    "sanitaer"
+  ],
+  "adresse": {
+    "strasse": "Dorfstrasse 50",
+    "plz": "9108",
+    "ort": "Gonten",
+    "kanton": "Appenzell Ausserrhoden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41786243094",
+    "email": "info@sanitaer-mittelholzer.ch",
+    "webseite": "https://www.sanitär-mittelholzer.ch"
+  },
+  "leistungen": [
+    "Badezimmerinstallation",
+    "Badezimmersanierung",
+    "Sanitärinstallation",
+    "Rohrreparatur",
+    "Rohreinigung",
+    "Wasseraufbereitung",
+    "Leckortung",
+    "Boileraustausch"
+  ]
+}

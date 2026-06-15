@@ -1,0 +1,30 @@
+{
+  "id": "ch-gQApoOSQj6tmRLQST2bL",
+  "slug": "kempf-metallbau-gmbh-emmen",
+  "name": "Kempf Metallbau GmbH",
+  "branchen": [
+    "metallbau"
+  ],
+  "adresse": {
+    "strasse": "Stichermattstrasse 11",
+    "plz": "6032",
+    "ort": "Emmen",
+    "kanton": "Luzern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41412602288",
+    "email": "info@kempfmetallbau.ch",
+    "webseite": "https://www.kempfmetallbau.ch"
+  },
+  "leistungen": [
+    "Stahlkonstruktionen",
+    "Geländer & Treppen",
+    "Balkongeländer",
+    "Carport & Vordächer",
+    "Tore & Zäune",
+    "Briefkastenanlagen",
+    "Fenstergitter",
+    "Schlosserarbeiten"
+  ]
+}

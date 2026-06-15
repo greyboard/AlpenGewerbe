@@ -1,0 +1,30 @@
+{
+  "id": "ch-bm4o58QgpcxuP2bGHril",
+  "slug": "baumeister-kanton-schwyz-ag-goldau",
+  "name": "Baumeister Kanton Schwyz AG",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "Gotthardstrasse 70",
+    "plz": "6410",
+    "ort": "Goldau",
+    "kanton": "Schwyz",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41442510508",
+    "email": "info@baumeisterschwyz.ch",
+    "webseite": "https://www.baumeisterschwyz.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-GqEzfDc9RdSCaV3mlTO4",
+  "slug": "b-r-glas-gmbh-bern",
+  "name": "B & R Glas GmbH",
+  "branchen": [
+    "glaser"
+  ],
+  "adresse": {
+    "strasse": "Wylerringstrasse 78",
+    "plz": "3014",
+    "ort": "Bern",
+    "kanton": "Bern",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41313810883",
+    "email": "kontakt@brglas.ch",
+    "webseite": "https://www.brglas.ch"
+  },
+  "leistungen": [
+    "Fensterverglasung",
+    "Isolierverglasung",
+    "Glastüren & Trennwände",
+    "Wintergarten",
+    "Duschkabinen",
+    "Spiegel",
+    "Sicherheitsglas",
+    "Glaserservice & Notfallreparatur"
+  ]
+}

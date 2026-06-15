@@ -1,0 +1,30 @@
+{
+  "id": "ch-ORYnhIfNEqBghew8VlOt",
+  "slug": "aussem-gartenbau-gmbh-st-gallen",
+  "name": "Aussem Gartenbau GmbH",
+  "branchen": [
+    "gartenbau"
+  ],
+  "adresse": {
+    "strasse": "Gatterstrasse 13",
+    "plz": "9010",
+    "ort": "St. Gallen",
+    "kanton": "St. Gallen",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41798186482",
+    "email": "info@aussem-gartenbau.ch",
+    "webseite": "https://www.aussem-gartenbau.ch"
+  },
+  "leistungen": [
+    "Gartengestaltung",
+    "Rasenanlage",
+    "Bewässerungssysteme",
+    "Terrassengestaltung",
+    "Bepflanzung & Baumschnitt",
+    "Gartenunterhalt",
+    "Naturstein & Pflasterung",
+    "Schwimmteich & Biotop"
+  ]
+}

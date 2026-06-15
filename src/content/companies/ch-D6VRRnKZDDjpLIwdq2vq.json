@@ -1,0 +1,30 @@
+{
+  "id": "ch-D6VRRnKZDDjpLIwdq2vq",
+  "slug": "bad-und-wohnen-maurer-chur",
+  "name": "Bad und Wohnen Maurer",
+  "branchen": [
+    "maurer"
+  ],
+  "adresse": {
+    "strasse": "u. Gasse 4",
+    "plz": "7000",
+    "ort": "Chur",
+    "kanton": "Graubünden",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41812522595",
+    "email": "info@bad-und-wohnen.ch",
+    "webseite": "https://www.bad-und-wohnen.ch"
+  },
+  "leistungen": [
+    "Neubau",
+    "Umbau & Anbau",
+    "Betonarbeiten",
+    "Mauerwerkssanierung",
+    "Kellerarbeiten",
+    "Abbrucharbeiten",
+    "Fundamentbau",
+    "Renovation"
+  ]
+}

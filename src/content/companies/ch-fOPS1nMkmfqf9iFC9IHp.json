@@ -1,0 +1,30 @@
+{
+  "id": "ch-fOPS1nMkmfqf9iFC9IHp",
+  "slug": "hausheer-elektro-ag-cham",
+  "name": "Hausheer Elektro AG",
+  "branchen": [
+    "elektriker"
+  ],
+  "adresse": {
+    "strasse": "Zugerstrasse 6",
+    "plz": "6330",
+    "ort": "Cham",
+    "kanton": "Zug",
+    "land": "CH"
+  },
+  "kontakt": {
+    "telefon": "+41417801676",
+    "email": "info@hausheer-elektro.ch",
+    "webseite": "https://www.hausheer-elektro.ch"
+  },
+  "leistungen": [
+    "Elektroinstallation",
+    "Photovoltaikanlage",
+    "Smart-Home-Installation",
+    "Elektrosanierung",
+    "Ladestation E-Auto",
+    "Wärmepumpeninstallation",
+    "Aussenbeleuchtung",
+    "Unterverteilung"
+  ]
+}
