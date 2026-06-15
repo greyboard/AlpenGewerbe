@@ -30,6 +30,7 @@ const companies = defineCollection({
       webseite: z.string().url().optional(),
     }),
     description: z.string().optional(),
+    accountStatus: z.enum(['free', 'business', 'premium']).optional(),
     leistungen: z.array(z.string()).optional(),
     googlePlaceId: z.string().optional(),
     google_fetched: z.boolean().optional(),

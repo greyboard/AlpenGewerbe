@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 const { company } = Astro.props;
 const {
   name, slug, branchen, adresse, kontakt, ratingCached,
-  description, leistungen, openingHours, googlePlaceId,
+  description, accountStatus, leistungen, openingHours, googlePlaceId,
 } = company;
 
 // Sterne-Render-Helfer
@@ -25,8 +25,22 @@ function stars(rating: number): string {
   return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(empty);
 }
 
-// Avatar-Farben für Reviewer
-const avatarColors = ['#EA4335', '#4285F4', '#34A853', '#A142F4', '#00897B'];
+// Initialen aus Autorenname (immer 2 Zeichen)
+function getInitials(authorName: string): string {
+  const parts = authorName.trim().split(/\s+/);
+  if (parts.length >= 2) return (parts[0][0] + parts[1][0]).toUpperCase();
+  return authorName.slice(0, 2).toUpperCase();
+}
+
+// Deterministische Avatarfarbe basierend auf Char-Code-Summe des Namens
+function getAvatarColor(authorName: string): string {
+  const palette = ['#6366F1', '#0D9488', '#D97706', '#059669', '#7C3AED', '#0284C7', '#BE185D', '#B45309'];
+  const sum = authorName.split('').reduce((acc, c) => acc + c.charCodeAt(0), 0);
+  return palette[sum % palette.length];
+}
+
+// Paywall: "Über den Betrieb" nur für bezahlte Accounts sichtbar
+const showDescription = description && (accountStatus === 'business' || accountStatus === 'premium');
 ---
 
 <BaseLayout
@@ -158,15 +172,41 @@ const avatarColors = ['#EA4335', '#4285F4', '#34A853', '#A142F4', '#00897B'];
     </div>
   </section>
 
-  <!-- ── Beschreibung ─────────────────────────────────────────────── -->
-  {description && (
-    <section class="py-8 bg-white border-b border-(--color-border)">
-      <div class="max-w-6xl mx-auto px-4 sm:px-6">
-        <h2 class="text-xl font-semibold mb-3">Über den Betrieb</h2>
-        <p class="text-(--color-text-muted) leading-relaxed">{description}</p>
-      </div>
-    </section>
-  )}
+  <!-- ── Beschreibung / Paywall ───────────────────────────────────── -->
+  <section class="py-8 bg-white border-b border-(--color-border)">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      {showDescription ? (
+        <>
+          <h2 class="text-xl font-semibold mb-3">Über den Betrieb</h2>
+          <p class="text-(--color-text-muted) leading-relaxed">{description}</p>
+        </>
+      ) : (
+        <div class="rounded-xl border border-dashed border-(--color-border) bg-(--color-surface) p-6 flex flex-col sm:flex-row items-start sm:items-center gap-5">
+          <div class="flex-1">
+            <p class="text-(--color-text-muted) text-sm leading-relaxed mb-3">
+              Für diesen Eintrag wurden noch keine erweiterten Betriebsinformationen hinterlegt.
+              Sind Sie der Inhaber? Jetzt Eintrag kostenlos verifizieren.
+            </p>
+            <a
+              href={`/claim/${slug}`}
+              class="inline-flex items-center gap-2 bg-(--color-primary) text-white px-5 py-2.5 rounded-lg
+                     text-sm font-semibold transition-all duration-200 hover:shadow-md hover:scale-[1.02]"
+            >
+              Eintrag beanspruchen
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </div>
+          <div class="hidden sm:flex w-14 h-14 rounded-full bg-(--color-primary)/10 items-center justify-center flex-shrink-0">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="text-(--color-primary)" aria-hidden="true">
+              <path d="M9 12h6M12 9v6M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0z"/>
+            </svg>
+          </div>
+        </div>
+      )}
+    </div>
+  </section>
 
   <!-- ── Leistungen + Öffnungszeiten ───────────────────────────────── -->
   {(leistungen?.length || openingHours?.length) && (
@@ -244,23 +284,13 @@ const avatarColors = ['#EA4335', '#4285F4', '#34A853', '#A142F4', '#00897B'];
                             transition-all duration-300 hover:shadow-md hover:-translate-y-0.5">
               <!-- Reviewer -->
               <div class="flex items-center gap-3 mb-3">
-                {review.author_photo ? (
-                  <img
-                    src={review.author_photo}
-                    alt={review.author_name}
-                    width="40" height="40"
-                    class="w-10 h-10 rounded-full object-cover flex-shrink-0"
-                    loading="lazy"
-                  />
-                ) : (
-                  <div
-                    class="w-10 h-10 rounded-full flex items-center justify-center text-white text-sm font-bold flex-shrink-0"
-                    style={`background-color: ${avatarColors[i % avatarColors.length]}`}
-                    aria-hidden="true"
-                  >
-                    {review.author_name.charAt(0).toUpperCase()}
-                  </div>
-                )}
+                <div
+                  class="w-10 h-10 rounded-full flex items-center justify-center text-white text-sm font-semibold flex-shrink-0 select-none"
+                  style={`background-color: ${getAvatarColor(review.author_name)}`}
+                  aria-hidden="true"
+                >
+                  {getInitials(review.author_name)}
+                </div>
                 <div>
                   <p class="text-sm font-semibold text-(--color-text) leading-tight">{review.author_name}</p>
                   {review.relative_time_description && (

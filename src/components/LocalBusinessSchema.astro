@@ -32,11 +32,30 @@ interface Props {
 const { name, slug, branchen, adresse, kontakt, ratingCached } = Astro.props;
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
 
-const countryMap: Record<string, string> = { CH: 'CH', LI: 'LI' };
+// Branchen, für die HomeAndConstructionBusiness passend ist
+const constructionBranchen = new Set([
+  'maler', 'malermeister', 'gipser', 'stuckateur', 'putzer',
+  'schreiner', 'tischler', 'zimmermann', 'zimmerer',
+  'elektriker', 'elektroinstallateur', 'elektrotechniker',
+  'sanitaer', 'sanitär', 'klempner', 'heizung', 'heizungsbauer', 'hvac',
+  'dachdecker', 'spengler', 'flaschner',
+  'fliesenleger', 'fliesen', 'plattenleger',
+  'bodenleger', 'parkett', 'parkettleger',
+  'bauunternehmer', 'baufirma', 'baumeister', 'generalunternehmer',
+  'maurer', 'betonbauer',
+  'schlosser', 'metallbauer', 'stahlbau',
+  'glaser', 'fenster', 'fensterbauer',
+  'gartenbauer', 'landschaftsgaertner', 'garten',
+  'reinigung', 'gebäudereinigung', 'gebaeudereinigung',
+  'haustechnik', 'haustechniker',
+]);
+
+const isConstruction = branchen.some((b) => constructionBranchen.has(b.toLowerCase()));
+const schemaType = isConstruction ? 'HomeAndConstructionBusiness' : 'LocalBusiness';
 
 const schema: Record<string, unknown> = {
   '@context':  'https://schema.org',
-  '@type':     'LocalBusiness',
+  '@type':     schemaType,
   name,
   url:         `${siteUrl}/betrieb/${slug}/`,
   address: {
@@ -44,16 +63,15 @@ const schema: Record<string, unknown> = {
     streetAddress:     adresse.strasse,
     postalCode:        adresse.plz,
     addressLocality:   adresse.ort,
-    addressCountry:    countryMap[adresse.land],
+    addressCountry:    adresse.land,
   },
 };
 
-if (kontakt.telefon) schema.telephone  = kontakt.telefon;
-if (kontakt.email)   schema.email      = kontakt.email;
+if (kontakt.telefon)  schema.telephone = kontakt.telefon;
+if (kontakt.email)    schema.email     = kontakt.email;
 if (kontakt.webseite) schema.sameAs    = [kontakt.webseite];
 
 if (branchen.length > 0) {
-  schema['@type'] = branchen.length === 1 ? 'LocalBusiness' : 'LocalBusiness';
   schema.description = `${name} – ${branchen.join(', ')} in ${adresse.ort}`;
 }
 
