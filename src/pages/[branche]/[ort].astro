@@ -21,7 +21,7 @@ export async function getStaticPaths() {
           companies: companies
             .filter((c) =>
               c.data.branchen.includes(branche) &&
-              c.data.adresse.ort.toLowerCase().replace(/\s+/g, '-') === ortSlug,
+              toOrtSlug(c.data.adresse.ort) === ortSlug,
             )
             .map((c) => c.data),
         },
