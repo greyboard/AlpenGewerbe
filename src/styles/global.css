@@ -61,6 +61,11 @@
     transition: color 0.2s;
   }
   a:hover { color: var(--color-primary-dark); }
+
+  footer a {
+    color: #fff9;
+  }
+  footer a:hover { color: #ffffff; }
 }
 
 @layer utilities {

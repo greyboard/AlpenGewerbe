@@ -42,6 +42,23 @@ function getAvatarColor(authorName: string): string {
 
 // Paywall: "Über den Betrieb" nur für bezahlte Accounts sichtbar
 const showDescription = description && (accountStatus === 'business' || accountStatus === 'premium');
+
+// Telefonnummer ins internationale wa.me-Format bringen (ohne 00/+/führende 0)
+function formatWhatsAppNumber(phone: string, land: 'CH' | 'LI'): string {
+  let digits = phone.replace(/[^\d+]/g, '');
+  if (digits.startsWith('00')) {
+    digits = digits.slice(2);
+  } else if (digits.startsWith('+')) {
+    digits = digits.slice(1);
+  } else if (digits.startsWith('0')) {
+    digits = (land === 'LI' ? '423' : '41') + digits.slice(1);
+  }
+  return digits;
+}
+
+const whatsappNumber = kontakt.telefon ? formatWhatsAppNumber(kontakt.telefon, adresse.land) : null;
+const whatsappRawText = `Grüezi, ich habe Ihr Profil auf AlpenGewerbe.io gesehen und hätte eine Anfrage an ${name}.`;
+const whatsappUrl = whatsappNumber ? `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappRawText)}` : null;
 ---
 
 <BaseLayout
@@ -336,4 +353,323 @@ const showDescription = description && (accountStatus === 'business' || accountS
     </div>
   </section>
 
+  <!-- ── WhatsApp-Chat-Widget ───────────────────────────────────────── -->
+  {whatsappUrl && (
+    <div class="wa-widget" id="wa-widget">
+      <button class="wa-btn" id="wa-toggle" aria-label="WhatsApp Chat öffnen" aria-expanded="false">
+        <span class="wa-pulse" aria-hidden="true"></span>
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="white" aria-hidden="true">
+          <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.84.5 3.56 1.36 5.04L2 22l5.25-1.38c1.41.77 3.02 1.2 4.79 1.2 5.46 0 9.91-4.45 9.91-9.91S17.5 2 12.04 2zm5.85 14.07c-.25.7-1.45 1.37-2.01 1.45-.55.08-1.03.12-2.4-.45-2.02-.84-3.74-2.36-4.96-4.16-.66-.96-1.05-1.78-1.05-2.92 0-.95.5-1.79.99-2.28.34-.34.74-.36.99-.36.25 0 .5.01.71.02.25.01.53-.04.83.64.31.7.99 2.42 1.08 2.6.09.18.15.39.03.62-.12.23-.18.37-.36.57-.18.2-.38.45-.54.6-.18.17-.37.36-.16.71.21.35.94 1.56 2.02 2.52 1.39 1.24 2.56 1.62 2.92 1.8.36.18.57.15.78-.09.21-.24.9-1.05 1.14-1.41.24-.36.48-.3.8-.18.32.12 2.04.96 2.39 1.14.35.18.58.27.66.42.08.15.08.85-.17 1.56z"/>
+        </svg>
+      </button>
+      <div class="wa-tooltip">Schreiben Sie uns auf WhatsApp</div>
+
+      <div class="wa-window" id="wa-window">
+        <div class="wa-header">
+          <div class="wa-header-info">
+            <div class="wa-avatar" style={`background-color: ${getAvatarColor(name)}`}>
+              <div class="avatar-initials">{getInitials(name)}</div>
+            </div>
+            <div>
+              <div class="wa-name">{name}</div>
+              <div class="wa-status">Online</div>
+            </div>
+          </div>
+          <button class="wa-close" id="wa-close" aria-label="Chat schließen">×</button>
+        </div>
+
+        <div class="wa-body">
+          <div class="wa-time" id="wa-time"></div>
+
+          <div class="wa-typing" id="wa-typing">
+            <div class="wa-dots"><div class="wa-dot"></div><div class="wa-dot"></div><div class="wa-dot"></div></div>
+          </div>
+
+          <div class="wa-message" id="wa-msg">
+            <div class="wa-bubble">
+              {whatsappRawText}
+            </div>
+          </div>
+
+          <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" class="wa-send">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="white" aria-hidden="true">
+              <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.84.5 3.56 1.36 5.04L2 22l5.25-1.38c1.41.77 3.02 1.2 4.79 1.2 5.46 0 9.91-4.45 9.91-9.91S17.5 2 12.04 2zm5.85 14.07c-.25.7-1.45 1.37-2.01 1.45-.55.08-1.03.12-2.4-.45-2.02-.84-3.74-2.36-4.96-4.16-.66-.96-1.05-1.78-1.05-2.92 0-.95.5-1.79.99-2.28.34-.34.74-.36.99-.36.25 0 .5.01.71.02.25.01.53-.04.83.64.31.7.99 2.42 1.08 2.6.09.18.15.39.03.62-.12.23-.18.37-.36.57-.18.2-.38.45-.54.6-.18.17-.37.36-.16.71.21.35.94 1.56 2.02 2.52 1.39 1.24 2.56 1.62 2.92 1.8.36.18.57.15.78-.09.21-.24.9-1.05 1.14-1.41.24-.36.48-.3.8-.18.32.12 2.04.96 2.39 1.14.35.18.58.27.66.42.08.15.08.85-.17 1.56z"/>
+            </svg>
+            <span>Über WhatsApp Chatten</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  )}
+
 </BaseLayout>
+
+<style is:global>
+  .wa-widget {
+    position: fixed;
+    bottom: 1.25rem;
+    right: 1.25rem;
+    z-index: 50;
+  }
+
+  .wa-btn {
+    position: relative;
+    width: 56px;
+    height: 56px;
+    border-radius: 9999px;
+    background: #25D366;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .wa-btn:hover {
+    transform: scale(1.06);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  }
+
+  .wa-pulse {
+    position: absolute;
+    inset: 0;
+    border-radius: 9999px;
+    background: #25D366;
+    opacity: 0.5;
+    z-index: -1;
+    animation: wa-pulse 2.4s ease-out infinite;
+  }
+  @keyframes wa-pulse {
+    0%   { transform: scale(1);   opacity: 0.5; }
+    70%  { transform: scale(1.7); opacity: 0; }
+    100% { transform: scale(1.7); opacity: 0; }
+  }
+
+  .wa-tooltip {
+    position: absolute;
+    right: 64px;
+    bottom: 16px;
+    background: white;
+    color: #1f2c33;
+    padding: 0.5rem 0.9rem;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    white-space: nowrap;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
+  .wa-widget:hover .wa-tooltip {
+    opacity: 1;
+  }
+  .wa-widget.open .wa-tooltip {
+    display: none;
+  }
+
+  .wa-window {
+    position: absolute;
+    bottom: 72px;
+    right: 0;
+    width: 320px;
+    max-width: calc(100vw - 2.5rem);
+    background: #F0F2F5;
+    border-radius: 1rem;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    opacity: 0;
+    transform: translateY(12px) scale(0.97);
+    transform-origin: bottom right;
+    pointer-events: none;
+    transition: opacity 0.22s ease, transform 0.22s ease;
+  }
+  .wa-widget.open .wa-window {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    pointer-events: auto;
+  }
+
+  .wa-header {
+    background: #075E54;
+    color: white;
+    padding: 0.85rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .wa-header-info {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+  }
+  .wa-avatar {
+    width: 38px;
+    height: 38px;
+    border-radius: 9999px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .avatar-initials {
+    color: white;
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
+  .wa-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.2;
+  }
+  .wa-status {
+    font-size: 0.72rem;
+    color: #BFEFE3;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  .wa-status::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    border-radius: 9999px;
+    background: #25D366;
+  }
+  .wa-close {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.3rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0.2rem;
+  }
+
+  .wa-body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+  .wa-time {
+    text-align: center;
+    font-size: 0.7rem;
+    color: #66767D;
+    margin-bottom: 0.2rem;
+  }
+
+  .wa-typing {
+    align-self: flex-start;
+  }
+  .wa-typing.hidden {
+    display: none;
+  }
+  .wa-dots {
+    background: white;
+    border-radius: 1rem;
+    padding: 0.6rem 0.85rem;
+    display: flex;
+    gap: 0.25rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  }
+  .wa-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 9999px;
+    background: #9AA6AC;
+    animation: wa-bounce 1.2s infinite ease-in-out;
+  }
+  .wa-dot:nth-child(2) { animation-delay: 0.15s; }
+  .wa-dot:nth-child(3) { animation-delay: 0.3s; }
+  @keyframes wa-bounce {
+    0%, 60%, 100% { transform: translateY(0); opacity: 0.6; }
+    30% { transform: translateY(-4px); opacity: 1; }
+  }
+
+  .wa-message {
+    align-self: flex-start;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+  .wa-message.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .wa-bubble {
+    background: white;
+    border-radius: 1rem;
+    padding: 0.7rem 0.9rem;
+    font-size: 0.85rem;
+    line-height: 1.45;
+    color: #1f2c33;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    max-width: 240px;
+  }
+
+  .wa-send {
+    margin-top: 0.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background: #25D366;
+    color: white;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.65rem 1rem;
+    border-radius: 0.65rem;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .wa-send:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .wa-pulse, .wa-dot {
+      animation: none;
+    }
+  }
+</style>
+
+<script>
+  const widget = document.getElementById('wa-widget');
+  const toggleBtn = document.getElementById('wa-toggle');
+  const closeBtn = document.getElementById('wa-close');
+  const timeEl = document.getElementById('wa-time');
+  const typingEl = document.getElementById('wa-typing');
+  const msgEl = document.getElementById('wa-msg');
+
+  if (widget && toggleBtn && closeBtn) {
+    let revealed = false;
+
+    function openWidget() {
+      widget.classList.add('open');
+      toggleBtn.setAttribute('aria-expanded', 'true');
+      if (!revealed) {
+        revealed = true;
+        if (timeEl) {
+          timeEl.textContent = new Date().toLocaleTimeString('de-CH', { hour: '2-digit', minute: '2-digit' });
+        }
+        window.setTimeout(() => {
+          typingEl?.classList.add('hidden');
+          msgEl?.classList.add('visible');
+        }, 1400);
+      }
+    }
+
+    function closeWidget() {
+      widget.classList.remove('open');
+      toggleBtn.setAttribute('aria-expanded', 'false');
+    }
+
+    toggleBtn.addEventListener('click', () => {
+      widget.classList.contains('open') ? closeWidget() : openWidget();
+    });
+    closeBtn.addEventListener('click', closeWidget);
+  }
+</script>
