@@ -9,5 +9,10 @@
 	},
 	"observability": {
 		"enabled": true
+	},
+	// Build-Zeit-Variable für lokale Entwicklung via `wrangler pages dev`.
+	// Für Cloudflare Pages Deployment: Cloudflare Dashboard > Settings > Environment Variables.
+	"vars": {
+		"PUBLIC_SITE_URL": "https://alpengewerbe.io"
 	}
 }
