@@ -4,7 +4,7 @@ import cloudflare from '@astrojs/cloudflare';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 
-const SITE_URL = process.env.PUBLIC_SITE_URL || 'https://alpengewerbe.ch';
+const SITE_URL = process.env.PUBLIC_SITE_URL || 'https://alpengewerbe.io';
 
 export default defineConfig({
   output: 'static',
